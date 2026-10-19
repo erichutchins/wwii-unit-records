@@ -1,0 +1,1025 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 5,
+    "start": "1945-01-02T23:15Z",
+    "end": "1945-02-24T02:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      145.7167,
+      15.2333
+     ],
+     [
+      145.7167,
+      15.2333
+     ],
+     [
+      138.8833,
+      23.1333
+     ],
+     [
+      130.55,
+      29.7667
+     ],
+     [
+      128.5833,
+      30.8
+     ],
+     [
+      128.4667,
+      31.2833
+     ],
+     [
+      127.4,
+      32.6333
+     ],
+     [
+      126.1,
+      32.4667
+     ],
+     [
+      124.0333,
+      33.8167
+     ],
+     [
+      124.2,
+      34.5667
+     ],
+     [
+      123.9833,
+      33.9667
+     ],
+     [
+      124.2833,
+      33.6
+     ],
+     [
+      123.6,
+      34.6833
+     ],
+     [
+      124.0167,
+      36.9167
+     ],
+     [
+      123.8667,
+      38.0333
+     ],
+     [
+      123.9833,
+      37.7333
+     ],
+     [
+      123.9833,
+      37.7167
+     ],
+     [
+      124.3333,
+      33.1333
+     ],
+     [
+      124.4333,
+      33.0833
+     ],
+     [
+      124.3833,
+      32.9667
+     ],
+     [
+      125.9167,
+      32.25
+     ],
+     [
+      124.0833,
+      34.15
+     ],
+     [
+      124.2,
+      33.8
+     ],
+     [
+      128.8,
+      31.0167
+     ],
+     [
+      129.4667,
+      30.35
+     ],
+     [
+      129.9833,
+      30.2167
+     ],
+     [
+      130.2167,
+      30.0667
+     ],
+     [
+      130.3,
+      29.9833
+     ],
+     [
+      131.25,
+      29.2
+     ],
+     [
+      132.7,
+      25.9167
+     ],
+     [
+      134.5333,
+      20.0
+     ],
+     [
+      144.6333,
+      13.45
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Pearl",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-02T23:15Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-01-02 1345(VW)",
+    "page": "rg367-74802868/p39",
+    "note": "Departed Pearl Harbor enroute Saipan (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Saipan",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-13T02:51Z",
+    "lat_raw": "15-14N",
+    "lon_raw": "145-43E",
+    "local": "1945-01-13 1251(K)",
+    "page": "rg367-74802868/p39",
+    "note": "Arrived Saipan; moored to USS FULTON (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7167,
+     15.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Saipan",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-15T00:14Z",
+    "lat_raw": "15-14N",
+    "lon_raw": "145-43E",
+    "local": "1945-01-15 1014(K)",
+    "page": "rg367-74802868/p39",
+    "note": "Underway enroute area with Wolfpack 23 (SPADEFISH ATULE POMPON) (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7167,
+     15.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Jan 17",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-17T10:00Z",
+    "lat_raw": "23-08N",
+    "lon_raw": "138-53E",
+    "local": "1945-01-17 1900(I)",
+    "page": "rg367-74802868/p56",
+    "note": "Radar intercept 66 MC (zone not stated; Item per narrative)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.8833,
+     23.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 1",
+    "patrol": 5,
+    "on_track": false,
+    "utc": "1945-01-18T17:00Z",
+    "lat_raw": "27-15N",
+    "lon_raw": "135-00E",
+    "local": "1945-01-19 0200(I)",
+    "page": "rg367-74802868/p43",
+    "note": "Small trawler 6300 yds",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.0,
+     27.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Jan 20",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-20T09:45Z",
+    "lat_raw": "29-46N",
+    "lon_raw": "130-33E",
+    "local": "1945-01-20 1845(I)",
+    "page": "rg367-74802868/p56",
+    "note": "Radar intercepts 148 and 155 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.55,
+     29.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 1",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-21T05:10Z",
+    "lat_raw": "30-48N",
+    "lon_raw": "128-35E",
+    "local": "1945-01-21 1410(I)",
+    "page": "rg367-74802868/p44",
+    "note": "zone not stated; Item per narrative",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.5833,
+     30.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Jan 21",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-21T13:15Z",
+    "lat_raw": "31-17N",
+    "lon_raw": "128-28E",
+    "local": "1945-01-21 2215(I)",
+    "page": "rg367-74802868/p57",
+    "note": "Radar intercept 99 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.4667,
+     31.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Jan 27",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-27T10:00Z",
+    "lat_raw": "32-38N",
+    "lon_raw": "127-24E",
+    "local": "1945-01-27 1900(I)",
+    "page": "rg367-74802868/p57",
+    "note": "Radar intercept 75 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.4,
+     32.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Jan 29",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-29T14:59Z",
+    "lat_raw": "32-28N",
+    "lon_raw": "126-06E",
+    "local": "1945-01-29 2359(I)",
+    "page": "rg367-74802868/p57",
+    "note": "Radar intercept 75 MC (typed 2400)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.1,
+     32.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Jan 31",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-01-30T18:00Z",
+    "lat_raw": "33-49N",
+    "lon_raw": "124-02E",
+    "local": "1945-01-31 0300(I)",
+    "page": "rg367-74802868/p57",
+    "note": "Radar intercepts 70 and 160 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.0333,
+     33.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 4",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-04T12:00Z",
+    "lat_raw": "34-34N",
+    "lon_raw": "124-12E",
+    "local": "1945-02-04 2100(I)",
+    "page": "rg367-74802868/p58",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2,
+     34.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 2",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-05T22:55Z",
+    "lat_raw": "33-58N",
+    "lon_raw": "123-59E",
+    "local": "1945-02-06 0755(I)",
+    "page": "rg367-74802868/p44",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9833,
+     33.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 7",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-07T12:45Z",
+    "lat_raw": "33-36N",
+    "lon_raw": "124-17E",
+    "local": "1945-02-07 2145(I)",
+    "page": "rg367-74802868/p58",
+    "note": "Radar intercept 160 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2833,
+     33.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 3",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-09T06:08Z",
+    "lat_raw": "34-41N",
+    "lon_raw": "123-36E",
+    "local": "1945-02-09 1508(I)",
+    "page": "rg367-74802868/p44",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.6,
+     34.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 2",
+    "patrol": 5,
+    "on_track": false,
+    "utc": "1945-02-10T04:18Z",
+    "lat_raw": "36-52N",
+    "lon_raw": "124-01E",
+    "local": "1945-02-10 1318(I)",
+    "page": "rg367-74802868/p43",
+    "note": "Small steamship 2400 yds (sound)",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.0167,
+     36.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-10T04:26Z",
+    "lat_raw": "36-55N",
+    "lon_raw": "124-01E",
+    "local": "1945-02-10 1326(I)",
+    "page": "rg367-74802868/p46",
+    "note": "Torpedo attack No. 1 (small freighter)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.0167,
+     36.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 11",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-10T16:50Z",
+    "lat_raw": "38-02N",
+    "lon_raw": "123-52E",
+    "local": "1945-02-11 0150(I)",
+    "page": "rg367-74802868/p58",
+    "note": "Radar intercept 69 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.8667,
+     38.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 3",
+    "patrol": 5,
+    "on_track": false,
+    "utc": "1945-02-11T23:35Z",
+    "lat_raw": "37-41N",
+    "lon_raw": "123-59E",
+    "local": "1945-02-12 0835(I)",
+    "page": "rg367-74802868/p43",
+    "note": "Two destroyers 14000 yds",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9833,
+     37.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 4",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-12T00:50Z",
+    "lat_raw": "37-44N",
+    "lon_raw": "123-59E",
+    "local": "1945-02-12 0950(I)",
+    "page": "rg367-74802868/p44",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9833,
+     37.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 4",
+    "patrol": 5,
+    "on_track": false,
+    "utc": "1945-02-12T00:58Z",
+    "lat_raw": "37-43N",
+    "lon_raw": "123-59E",
+    "local": "1945-02-12 0958(I)",
+    "page": "rg367-74802868/p43",
+    "note": "Subchaser & patrol boat 10000 yds",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9833,
+     37.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-12T03:00Z",
+    "lat_raw": "37-43N",
+    "lon_raw": "123-59E",
+    "local": "1945-02-12 0300(Z)",
+    "page": "rg367-74802868/p54",
+    "note": "water 38 deg F",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9833,
+     37.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 15",
+    "patrol": 5,
+    "on_track": false,
+    "utc": "1945-02-15T01:00Z",
+    "lat_raw": "34-18N",
+    "lon_raw": "124-09E",
+    "local": "1945-02-15 1000(I)",
+    "page": "rg367-74802868/p58",
+    "note": "",
+    "fix": "off track: 70 nm from Air 5 five minutes later; Air 5-7 agree with each other (34-18N possibly a typo for 33-18N)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.15,
+     34.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 5",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-15T01:05Z",
+    "lat_raw": "33-08N",
+    "lon_raw": "124-20E",
+    "local": "1945-02-15 1005(I)",
+    "page": "rg367-74802868/p44",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.3333,
+     33.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 6",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-15T04:17Z",
+    "lat_raw": "33-05N",
+    "lon_raw": "124-26E",
+    "local": "1945-02-15 1317(I)",
+    "page": "rg367-74802868/p44",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.4333,
+     33.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 7",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-15T06:55Z",
+    "lat_raw": "32-58N",
+    "lon_raw": "124-23E",
+    "local": "1945-02-15 1555(I)",
+    "page": "rg367-74802868/p45",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.3833,
+     32.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 8",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-16T23:45Z",
+    "lat_raw": "32-15N",
+    "lon_raw": "125-55E",
+    "local": "1945-02-17 0845(I)",
+    "page": "rg367-74802868/p45",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.9167,
+     32.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 18a",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-17T17:00Z",
+    "lat_raw": "34-09N",
+    "lon_raw": "124-05E",
+    "local": "1945-02-18 0200(I)",
+    "page": "rg367-74802868/p58",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.0833,
+     34.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 18b",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-18T11:30Z",
+    "lat_raw": "33-48N",
+    "lon_raw": "124-12E",
+    "local": "1945-02-18 2030(I)",
+    "page": "rg367-74802868/p58",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2,
+     33.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 20a",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-19T15:00Z",
+    "lat_raw": "31-01N",
+    "lon_raw": "128-48E",
+    "local": "1945-02-20 0000(I)",
+    "page": "rg367-74802868/p59",
+    "note": "Radar intercept 75 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.8,
+     31.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-20T06:00Z",
+    "lat_raw": "30-21N",
+    "lon_raw": "129-28E",
+    "local": "1945-02-20 0600(Z)",
+    "page": "rg367-74802868/p54",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4667,
+     30.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 20b",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-20T10:30Z",
+    "lat_raw": "30-13N",
+    "lon_raw": "129-59E",
+    "local": "1945-02-20 1930(I)",
+    "page": "rg367-74802868/p59",
+    "note": "Radar intercepts 155 and 75 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.9833,
+     30.2167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 20c",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-20T11:30Z",
+    "lat_raw": "30-04N",
+    "lon_raw": "130-13E",
+    "local": "1945-02-20 2030(I)",
+    "page": "rg367-74802868/p60",
+    "note": "Radar intercepts 390 145 92 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.2167,
+     30.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 20d",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-20T12:00Z",
+    "lat_raw": "29-59N",
+    "lon_raw": "130-18E",
+    "local": "1945-02-20 2100(I)",
+    "page": "rg367-74802868/p60",
+    "note": "Radar intercepts 143 and 150 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.3,
+     29.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Feb 21",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-20T18:00Z",
+    "lat_raw": "29-12N",
+    "lon_raw": "131-15E",
+    "local": "1945-02-21 0300(I)",
+    "page": "rg367-74802868/p61",
+    "note": "Radar intercept 160 MC",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.25,
+     29.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 9",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-21T05:03Z",
+    "lat_raw": "25-55N",
+    "lon_raw": "132-42E",
+    "local": "1945-02-21 1403(I)",
+    "page": "rg367-74802868/p45",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.7,
+     25.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 10",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-22T03:40Z",
+    "lat_raw": "20-00N",
+    "lon_raw": "134-32E",
+    "local": "1945-02-22 1240(I)",
+    "page": "rg367-74802868/p45",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.5333,
+     20.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Guam",
+    "patrol": 5,
+    "on_track": true,
+    "utc": "1945-02-24T02:00Z",
+    "lat_raw": "13-27N",
+    "lon_raw": "144-38E",
+    "local": "1945-02-24 1200(K)",
+    "page": "rg367-74802868/p42",
+    "note": "Moored Guam (time not given; noon assumed; Apra Harbor)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.6333,
+     13.45
+    ]
+   }
+  }
+ ]
+}

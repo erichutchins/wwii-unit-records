@@ -1,0 +1,62 @@
+[
+ {
+  "attack": "Attack 1",
+  "boat": "ss-385-bang",
+  "relation": "probable",
+  "note": "BANG fired at one medium AK at 2332 I from 2350 yds and saw it disappear; a ship was sunk at 2337 I 3.5 nm away (J03) and Hozan Maru was seen torpedoed at 2339 I (J02). The US Navy chronology gives Hozan Maru to REDFISH; REDFISH's report would settle it",
+  "submarine": {
+   "utc": "1944-11-22T14:32Z",
+   "local": "1944-11-23 0032(K)",
+   "lat_raw": "24-23.5N",
+   "lon_raw": "122-41E",
+   "page": "rg367-74802868/p12"
+  },
+  "japanese": {
+   "id": "J03",
+   "ship": "",
+   "convoy": "TAKA-206",
+   "event": "sank",
+   "utc": "1944-11-22T14:37Z",
+   "local": "1944-11-22 2337(I)",
+   "lat_raw": "24-21N",
+   "lon_raw": "122-38E",
+   "original": "敵潜水艦ノ攻撃ヲ受ケ沈没セル船舶アリ N24°21′ E122°38′ 二二日二三三七",
+   "translation": "A ship has been sunk by enemy submarine attack, N 24°21′ E 122°38′, 22nd 2337",
+   "source": "jacar:C08030607900",
+   "page": "p47",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030607900"
+  },
+  "minutes_apart": 5,
+  "nm_apart": 3.7
+ },
+ {
+  "attack": "Attack 1",
+  "boat": "ss-385-bang",
+  "relation": "probable",
+  "note": "Of TAKA-206's six ships, three were sunk (Hozan, Amakusa, Sakae Maru) and three reached Funauki (J04). BANG claimed four sunk and one damaged in seven attacks; the postwar credit is two (Sakae, Amakusa)",
+  "submarine": {
+   "utc": "1944-11-22T14:32Z",
+   "local": "1944-11-23 0032(K)",
+   "lat_raw": "24-23.5N",
+   "lon_raw": "122-41E",
+   "page": "rg367-74802868/p12"
+  },
+  "japanese": {
+   "id": "J05",
+   "ship": "Hozan Maru; Amakusa Maru; Sakae Maru",
+   "convoy": "TAKA-206",
+   "event": "sank",
+   "utc": "1944-11-22T14:39Z",
+   "local": "1944-11-22 2339(I)",
+   "lat_raw": "",
+   "lon_raw": "",
+   "original": "",
+   "translation": "At 2339 the second ship in the column, Hozan Maru, is torpedoed, as are Amakusa Maru and Sakae Maru; all three are sunk",
+   "source": "combinedfleet:W-15_t",
+   "page": "",
+   "url": "https://www.combinedfleet.com/W-15_t.htm"
+  },
+  "minutes_apart": 7,
+  "nm_apart": null
+ }
+]

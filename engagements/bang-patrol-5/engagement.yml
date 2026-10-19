@@ -1,0 +1,69 @@
+# Engagement for site/battle.html. Hand-edited; fields in guides/BATTLES.md. Built by tools/build_battle.py.
+title: 'BANG''s fifth war patrol: a small freighter in the Yellow Sea'
+short: Patrol 5 · February 1945
+eyebrow: >-
+  East China and Yellow Seas · BANG's fifth war patrol, in Wolfpack 23 with SPADEFISH, ATULE and POMPON
+lede: >-
+  BANG's one torpedo attack of her fifth patrol, as typed on her attack sheet, with her depth log. Times are converted
+  to GMT, with Tokyo time alongside.
+boats:
+- id: bang
+  name: BANG
+  hull: SS-385
+  co: Cdr A. R. Gallaher
+  patrol: ss-385-bang/5
+  patrol_no: 5
+- id: atule
+  name: ATULE
+  hull: SS-403
+  co: J. H. Maurer
+  patrol: ss-403-atule/2
+  patrol_no: 2
+japanese: []
+actions:
+- id: yellow-sea
+  label: 10 February 1945
+  convoy: ''
+  start: 1945-02-10T02:00Z
+  end: 1945-02-10T10:00Z
+  route: ''
+  ships:
+  - name: Small freighter
+    kind: As BANG identified it (by sound, 2,400 yards)
+    type: cargo
+  ships_note: ''
+  escorts: []
+  outcome: No Japanese record of this attack has been found yet.
+  target_label: Small freighter
+places:
+- name: Yellow Sea
+  lon: 123.5
+  lat: 36.3
+- name: Korea
+  lon: 127.0
+  lat: 36.6
+  inset:
+  - 127.6
+  - 37.4
+- name: Shantung
+  lon: 121.6
+  lat: 36.9
+  small: true
+notes:
+- head: Reading the map.
+  text: >-
+    Positions are BANG's own dead reckoning and star sights; lines between them are straight, and where she went
+    in between is not recorded. Open circles are ships she sighted, at the target's position. As the clock passes
+    each firing time a red ring pulses at BANG's position; hover a diamond for the attack sheet.
+- head: Clocks.
+  text: BANG kept zone I (−9), Tokyo time, for this attack.
+- head: What is missing.
+  text: >-
+    No Japanese record of this attack has been found yet. Of the pack, only ATULE was still in the Yellow Sea on
+    10 February: on the 8th BANG ordered her to cover both their areas until the 11th. SPADEFISH was further north
+    (Port Arthur, 6 Feb) and POMPON had left the area on 31 January after flooding her pump room. ATULE's report
+    says nothing of BANG's attack.
+- head: Sources.
+  text: >-
+    BANG's fifth war patrol report, NARA microfilm M1752 (74802868, pages 38–65); ATULE Patrol 2 (74802211). Coastline:
+    Natural Earth.

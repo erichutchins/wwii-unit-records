@@ -1,0 +1,32 @@
+[
+ {
+  "attack": "Attack 2",
+  "boat": "ss-385-bang",
+  "relation": "hit",
+  "note": "Oilers Miri Maru and Sarawak Maru of HI-67 (Moji to Singapore via Manila), both minor damage; both reached Manila. BANG's sheets claimed 2(a) a large engine-aft freighter or tanker sunk (fits Sarawak Maru, hit in the bow), 2(b) a large passenger freighter sunk with a hole under the bridge (fits Miri Maru, hit under the bridge), and 2(c) a freighter probably sunk (no Japanese record of a third ship hit). FRUPAC relayed the claim as 2 AK sunk, 1 AK probably sunk",
+  "submarine": {
+   "utc": "1944-06-29T06:08Z",
+   "local": "1944-06-29 1508(I)",
+   "lat_raw": "17-13N",
+   "lon_raw": "118-24.5E",
+   "page": "rg367-74802784/p25"
+  },
+  "japanese": {
+   "id": "J01",
+   "ship": "Miri Maru; Sarawak Maru",
+   "convoy": "HI-67",
+   "event": "torpedoed",
+   "utc": "1944-06-29T06:15Z",
+   "local": "1944-06-29 1515(I)",
+   "lat_raw": "17-13N",
+   "lon_raw": "118-22E",
+   "original": "二九日 一五一五 N一七-一三 E一一八-二二 みりい丸 さらわく丸 (小破)",
+   "translation": "29th, 1515, N 17°13′ E 118°22′: Miri Maru and Sarawak Maru (minor damage)",
+   "source": "jacar:C08030141000",
+   "page": "p34",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030141000"
+  },
+  "minutes_apart": 7,
+  "nm_apart": 2.4
+ }
+]

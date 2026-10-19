@@ -1,0 +1,47 @@
+# USS Haynsworth (DD-700): her April 1945 war diary. Hand-edited; see boats/ss-385-bang/ship.yml.
+name: Haynsworth
+hull: DD-700
+class: Allen M. Sumner
+kind: destroyer
+# A Sumner-class destroyer can make 34 kn, but 25 kn is as fast as the diary says she steamed
+# (flank speed ordered during the 6 Apr 1945 attack) and catches typos that 34 would not.
+max_kts: 25.0
+dives: false
+silhouette: sumner     # her class's profile in silhouettes/silhouettes.yml (ONI 54-D)
+
+map:
+  title: USS Haynsworth (DD-700)
+  heading: USS Haynsworth (DD-700) — April 1945
+  catalogId: 633422068
+  intro: "Every position USS Haynsworth reported in her April 1945 war diary: Okinawa, the kamikaze hit of 6 April,
+    then Ulithi, Eniwetok and Pearl Harbor on the way to repairs. Transcribed from the "
+  introLink: National Archives scans
+  introEnd: . Click any point to see the page it came from.
+  # fixes are three a day, so the whole month is one record; open on Okinawa, where it happened
+  periods:
+    - { n: 1, name: April 1945 war diary, dates: 1 – 30 Apr 1945, area: Okinawa · Ulithi · Eniwetok · Pearl Harbor, co: Cdr. S. N. Tackney }
+  home: [[126.5, 29.5], [134.5, 22.0]]
+  ports:
+    - { name: Pearl Harbor, lon: -157.97, lat: 21.35 }
+    - { name: Ulithi, lon: 139.74, lat: 10.07 }
+    - { name: Eniwetok, lon: 162.3, lat: 11.37 }
+  places:
+    - { name: OKINAWA, lon: 127.9, lat: 26.5 }
+    - { name: KYUSHU, lon: 131.0, lat: 32.4 }
+    - { name: FORMOSA, lon: 121.0, lat: 23.7 }
+    - { name: SAKISHIMA, lon: 124.6, lat: 24.0 }
+    - { name: PHILIPPINE SEA, lon: 134.5, lat: 21.0 }
+    - { name: CAROLINE IS., lon: 146.0, lat: 7.8 }
+    - { name: MARSHALL IS., lon: 168.0, lat: 7.5 }
+  listTitle: April 1945
+  daysLabel: Days covered
+  endText: End of April 1945 diary
+  pageNoun: war diary page
+  docAlt: war diary
+  labels: { air: Air contact, attack: Kamikaze hit, event: Logged event }
+  counts: [[Kamikaze hits, attack], [Air contacts logged, air]]
+  legend:
+    - { cls: fix, text: War diary position }
+    - { cls: air, text: Air contact (position assumed) }
+    - { cls: attack, text: Kamikaze hit (position assumed) }
+    - { cls: event, text: Logged event (position assumed), ifPresent: true }

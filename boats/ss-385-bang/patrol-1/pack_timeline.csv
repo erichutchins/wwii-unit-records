@@ -1,0 +1,29 @@
+utc,side,what,local,position,detail,doubt,source
+1944-04-29T12:56Z,ss-385-bang,Attack 1,1944-04-29 2256(K),19-26N 118-45E,Torpedo attack No. 1,,rg367-74802746/p16
+1944-04-29T13:01Z,japanese,Takegawa Maru torpedoed,1944-04-29 2201(I),19-20N 118-50E,"At 2201 on the 29th, at N 19°20′ E 118°50′, No. 10 ship Takegawa Maru was torpedoed by an enemy submarine",,jacar:C08050103200 p23
+1944-04-29T13:40Z,japanese,Takegawa Maru sank,1944-04-29 2240(I),,At 2240 she finally sank,,jacar:C08050103200 p23
+1944-04-29T14:50Z,japanese,Nittatsu Maru rescue,1944-04-29 2350(I),,By 2350 rescued 56 of Takegawa Maru's crew and passengers,,jacar:C08050103200 p24
+1944-04-29T15:02Z,japanese,30th Air Base weather,1944-04-30 0002(I),,"Heavy rain in the morning prevented convoy air cover; weather at sea to the south cleared from about 1500; anti-submarine patrols of sectors 5, 6 and 7 saw nothing",,jacar:C08030512800 p26
+1944-04-29T15:50Z,japanese,Nittatsu Maru rescue,1944-04-30 0050(I),,"By 0050 all survivors rescued … escorted by Harukaze, took course S55°E zigzagging irregularly",,jacar:C08050103200 p24
+1944-04-29T17:53Z,ss-385-bang,Attack 2,1944-04-30 0353(K),19-22N 119-00E,Torpedo attack No. 2,,rg367-74802746/p19
+1944-04-29T17:56Z,ss-385-bang,Attack 3,1944-04-30 0356(K),19-22N 119-00E,Torpedo attack No. 3,,rg367-74802746/p21
+1944-04-29T18:00Z,japanese,Nittatsu Maru attacked_no_damage,1944-04-30 0300(I),,"At 0300 on the 30th, five enemy torpedoes; three exploded near the ship's bottom but did no damage",,jacar:C08050103200 p25
+1944-04-29T19:18Z,ss-385-bang,Attack 4,1944-04-30 0518(K),19-11N 119-10E,Torpedo attack No. 4,,rg367-74802746/p23
+1944-04-29T19:19Z,japanese,Nittatsu Maru torpedoed,1944-04-30 0419(I),19-06N 119-10E,"At 0419 a torpedo sighted about 200 m to starboard; right rudder ordered, but it hit aft of No. 2 hold, starboard; about 10 s later a second hit near the front of the bridge. The hull stood vertical about 2 minutes later and sank 3 minutes after that",,jacar:C08050103200 p25
+1944-04-30T01:10Z,ss-384-parche,Attack 1,1944-04-30 1010(I),18-22N 119-17E,Torpedo attack No. 1 (TAMA-17; 4 Mk 18 fired submerged; no hits seen),,rg367-74828582/p18
+1944-04-30T01:19Z,ss-283-tinosa,Attack 1 fired,1944-04-30 0919(H),18-28N 119-15E,"Fired six bow tubes, 10-degree spread at five overlapping ships; position is where the narrative says a ship sank (logged 1046)","position of the target, not TINOSA",rg367-74856363/p10
+1944-04-30T01:37Z,ss-283-tinosa,Attack 1,1944-04-30 0137(Z),18-15.5N 120-18.4E,Summary of attacks: 6 fired; claims 1 AK sunk; 1 AK and 1 AO damaged,"longitude 63 nm east of the narrative (ship sank at 119-15E) and of BANG's and PARCHE's positions for the same convoy; error not identified. The narrative fires at 0919 H (0119 GCT), 18 min before this table's 0137",rg367-74856363/p26
+1944-05-03T08:35Z,ss-283-tinosa,Attack 2,1944-05-03 0835(Z),20-27N 118-55.5E,Summary of attacks: 6 fired; claims 1 AO sunk; 1 AK probably sunk,"time and position both contradict the narrative, which fires at 23-09-16 H (1509 GCT) and has the tanker sink at 20-51N 118-02E; error not identified",rg367-74856363/p26
+1944-05-03T15:08Z,japanese,Toyohi Maru sank,1944-05-04 0008(I),20-50N 118-00E,"At 0008, TINOSA torpedoes and sinks Toyohi Maru at 20-50N, 118-00E",secondary source,combinedfleet:Daiyoku_t
+1944-05-03T15:09Z,ss-283-tinosa,Attack 2 fired,1944-05-03 2309(H),20-51N 118-02E,"Fired 3 at tanker (hits 23-10-23), 3 at AK astern; tanker sank; position is where the tanker sank","position of the target, not TINOSA",rg367-74856363/p15
+1944-05-03T16:06Z,ss-384-parche,Attack 2,1944-05-04 0106(I),20-48N 118-03E,Torpedo attack No. 2 (TE-04; 4 + 2 fired; claims two AKs sunk),,rg367-74828582/p20
+1944-05-03T16:06Z,japanese,Kinrei Maru sank,1944-05-04 0106(I),20-50N 117-55E,"At 0106, BANG torpedoes and sinks Kinrei Maru at 20-50N, 117-55E",secondary source,combinedfleet:Daiyoku_t
+1944-05-03T16:13Z,japanese,Daibu Maru sank,1944-05-04 0113(I),20-50N 117-55E,"At 0113, TINOSA torpedoes and sinks Daibu Maru at 20-50N, 117-55E",secondary source,combinedfleet:Daiyoku_t
+1944-05-03T16:27Z,ss-384-parche,Attack 3,1944-05-04 0127(I),20-48N 118-02E,Torpedo attack No. 3 (TE-04; 4 fired; claims one AK or AP sunk),,rg367-74828582/p22
+1944-05-03T17:32Z,ss-385-bang,Attack 5,1944-05-04 0332(K),20-58N 117-59E,Torpedo attack No. 5,,rg367-74802746/p25
+1944-05-03T18:00Z,japanese,Shoryu Maru and Daiyoku Maru sank,1944-05-04 0300(I),20-50N 117-55E,"At about 0300, PARCHE torpedoes and sinks Shoryu and Daiyoku (Taiyoku) Marus at 20-50N, 117-55E",secondary source,combinedfleet:Daiyoku_t
+1944-05-03T18:49Z,ss-283-tinosa,Attack 3,1944-05-03 1952(Z),20-54.8N 118-14.9E,Summary of attacks: 4 stern tubes; claims 1 AK sunk,the narrative fires at 02-49-31 H on 4 May = 1849 GCT 3 May; the table's 1952 is an hour later. Position agrees with the narrative's sinking position (20-55N 118-12E),rg367-74856363/p26
+1944-05-03T18:49Z,ss-283-tinosa,Attack 3 fired,1944-05-04 0249(H),20-55N 118-12E,"Fired 4 stern tubes; three hits, target ""merely disintegrated""; position is where she sank","position of the target, not TINOSA",rg367-74856363/p17
+1944-05-03T20:08Z,ss-283-tinosa,Attack 4,1944-05-03 2008(Z),20-57.4N 118-06.3E,Summary of attacks: 4 fired; results unknown; 2 explosions,,rg367-74856363/p26
+1944-05-04T00:48Z,ss-283-tinosa,Attack 5,1944-05-04 0048(Z),21-04N 118-10.1E,Summary of attacks: 4 stern tubes at damaged AK; results unknown,,rg367-74856363/p26
+1944-05-04T00:50Z,ss-283-tinosa,Attack 5 fired,1944-05-04 0850(H),20-58N 118-08E,Started firing 4 stern tubes on 95 port track,,rg367-74856363/p19

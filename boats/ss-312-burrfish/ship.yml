@@ -1,0 +1,12 @@
+# USS BURRFISH (SS-312). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: BURRFISH
+hull: SS-312
+class: Balao
+kind: submarine
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 6, name: Sixth War Patrol, dates: 25 Mar 1945 – 13 May 1945 }

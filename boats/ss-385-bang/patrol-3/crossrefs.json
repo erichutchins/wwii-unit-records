@@ -1,0 +1,62 @@
+[
+ {
+  "attack": "Attack 1",
+  "boat": "ss-385-bang",
+  "relation": "hit",
+  "note": "Tokiwasan Maru (1,804 t) and Shoryu Maru (1,916 t) of convoy No. 3905, Yokosuka to Haha-jima, both sunk. BANG claimed a medium AK and a medium AO (Attacks 1-2, 1616-1632 K). Secondary source only",
+  "submarine": {
+   "utc": "1944-09-09T06:16Z",
+   "local": "1944-09-09 1616(K)",
+   "lat_raw": "28-53N",
+   "lon_raw": "137-42E",
+   "page": "rg367-74802831/p13"
+  },
+  "japanese": {
+   "id": "J01",
+   "ship": "Tokiwasan Maru; Shoryu Maru",
+   "convoy": "No. 3905",
+   "event": "sank",
+   "utc": null,
+   "local": "1944-09-09",
+   "lat_raw": "28-58N",
+   "lon_raw": "137-45E",
+   "original": "",
+   "translation": "Convoy No. 3905 (Yokosuka to Haha-jima; escorts Yasojima, Hachijo, CD-4, CD-12): BANG torpedoes and sinks both Tokiwasan Maru and Shoryu Maru at 28-58N 137-45E",
+   "source": "combinedfleet:yasojima_t",
+   "page": "",
+   "url": "https://www.combinedfleet.com/yasojima_t.htm"
+  },
+  "minutes_apart": null,
+  "nm_apart": 5.6
+ },
+ {
+  "attack": "Attack 3",
+  "boat": "ss-385-bang",
+  "relation": "hit",
+  "note": "No. 2 Tosei Maru (507-ton tanker) of convoy TAKA-909 sunk. BANG claimed one AK sunk and another probably sunk (Attacks 3-4); the escorts claimed BANG sunk",
+  "submarine": {
+   "utc": "1944-09-18T23:15Z",
+   "local": "1944-09-19 0915(K)",
+   "lat_raw": "24-56N",
+   "lon_raw": "122-14.5E",
+   "page": "rg367-74802831/p17"
+  },
+  "japanese": {
+   "id": "J02",
+   "ship": "Tosei Maru No. 2",
+   "convoy": "TAKA-909",
+   "event": "sank",
+   "utc": null,
+   "local": "1944-09-19",
+   "lat_raw": "24-54N",
+   "lon_raw": "122-23E",
+   "original": "海防三〇、掃一五、三拓南丸、七利丸、太安丸、三号太平丸 タカ九〇九船団護衛 / 海防三〇、太安丸陸軍飛行機ト共ニN二四─五四 E一二二─二三ニ於テタカ九〇九船団ヲ雷撃セル敵潜水艦攻撃 / 被害 第二東勢丸沈没 戦果 敵潜水艦一隻撃沈",
+   "translation": "CD-30, W-15, No. 3 Takunan Maru, Shichiri Maru, Taian Maru, No. 3 Taihei Maru: escorting convoy TAKA-909. / CD-30 and Taian Maru, with army aircraft, attack the enemy submarine that torpedoed convoy TAKA-909 at N 24°54′ E 122°23′. / Damage: No. 2 Tosei Maru sunk. Result: one enemy submarine sunk",
+   "source": "jacar:C08030144100",
+   "page": "p12",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030144100"
+  },
+  "minutes_apart": null,
+  "nm_apart": 8.0
+ }
+]

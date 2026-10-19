@@ -1,0 +1,2347 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 2,
+    "start": "1944-06-07T03:30Z",
+    "end": "1944-08-02T21:30Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      171.05,
+      26.65
+     ],
+     [
+      164.1,
+      25.4167
+     ],
+     [
+      158.55,
+      24.6333
+     ],
+     [
+      150.3167,
+      22.9833
+     ],
+     [
+      142.4167,
+      22.4833
+     ],
+     [
+      143.26,
+      23.25
+     ],
+     [
+      139.4333,
+      15.1667
+     ],
+     [
+      139.9333,
+      15.2833
+     ],
+     [
+      139.0,
+      15.3
+     ],
+     [
+      139.8333,
+      15.5
+     ],
+     [
+      139.75,
+      15.4667
+     ],
+     [
+      139.1167,
+      15.4333
+     ],
+     [
+      139.1333,
+      15.6
+     ],
+     [
+      139.1167,
+      15.6833
+     ],
+     [
+      138.9667,
+      15.25
+     ],
+     [
+      138.9667,
+      15.2917
+     ],
+     [
+      138.9667,
+      15.3333
+     ],
+     [
+      139.6833,
+      15.3
+     ],
+     [
+      139.9667,
+      15.2417
+     ],
+     [
+      139.975,
+      14.9833
+     ],
+     [
+      138.9667,
+      14.2667
+     ],
+     [
+      138.9167,
+      14.3333
+     ],
+     [
+      138.9333,
+      13.8667
+     ],
+     [
+      138.85,
+      13.7417
+     ],
+     [
+      138.6833,
+      13.8833
+     ],
+     [
+      138.75,
+      13.8833
+     ],
+     [
+      138.6,
+      13.8833
+     ],
+     [
+      138.9333,
+      13.55
+     ],
+     [
+      139.9167,
+      13.7
+     ],
+     [
+      138.9167,
+      13.55
+     ],
+     [
+      138.9333,
+      13.5
+     ],
+     [
+      137.2333,
+      15.5167
+     ],
+     [
+      136.7,
+      15.4833
+     ],
+     [
+      136.7,
+      15.5
+     ],
+     [
+      137.45,
+      15.65
+     ],
+     [
+      138.35,
+      15.65
+     ],
+     [
+      122.3667,
+      21.7333
+     ],
+     [
+      121.9667,
+      22.0167
+     ],
+     [
+      121.6667,
+      21.3333
+     ],
+     [
+      120.55,
+      20.35
+     ],
+     [
+      120.8167,
+      20.3833
+     ],
+     [
+      119.7,
+      19.3833
+     ],
+     [
+      118.5,
+      17.2667
+     ],
+     [
+      118.4167,
+      17.9833
+     ],
+     [
+      118.4083,
+      17.2167
+     ],
+     [
+      118.0667,
+      19.8
+     ],
+     [
+      117.75,
+      19.8833
+     ],
+     [
+      117.0,
+      18.85
+     ],
+     [
+      115.3833,
+      19.3333
+     ],
+     [
+      115.3333,
+      19.3333
+     ],
+     [
+      115.475,
+      19.5383
+     ],
+     [
+      115.75,
+      20.25
+     ],
+     [
+      115.75,
+      20.25
+     ],
+     [
+      115.8333,
+      19.45
+     ],
+     [
+      116.8,
+      19.5
+     ],
+     [
+      117.3833,
+      20.8167
+     ],
+     [
+      118.0667,
+      20.7333
+     ],
+     [
+      117.7833,
+      20.8833
+     ],
+     [
+      117.1667,
+      20.3667
+     ],
+     [
+      117.2167,
+      20.4
+     ],
+     [
+      118.1167,
+      21.3333
+     ],
+     [
+      118.1167,
+      21.1
+     ],
+     [
+      118.1333,
+      21.225
+     ],
+     [
+      118.0,
+      21.3
+     ],
+     [
+      118.7167,
+      21.2
+     ],
+     [
+      119.45,
+      21.2833
+     ],
+     [
+      119.3333,
+      21.0333
+     ],
+     [
+      119.55,
+      21.3333
+     ],
+     [
+      119.6333,
+      21.1833
+     ],
+     [
+      119.6667,
+      21.35
+     ],
+     [
+      121.5833,
+      20.25
+     ],
+     [
+      120.6667,
+      20.6333
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      -157.9667,
+      21.35
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Midway",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-07T03:30Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-06-06 1530(Y)",
+    "page": "rg367-74802784/p03",
+    "note": "Departed Midway enroute area (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-09T03:04Z",
+    "lat_raw": "26-39N",
+    "lon_raw": "171-03E",
+    "local": "1944-06-09 0304(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     171.05,
+     26.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-10T03:17Z",
+    "lat_raw": "25-25N",
+    "lon_raw": "164-06E",
+    "local": "1944-06-10 0317(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": "time 2317 -> 0317 (other outbound BT readings are all ~0300-0400 GCT; as typed it needs 27 kt to the June 12 fix)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     164.1,
+     25.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-11T03:30Z",
+    "lat_raw": "24-38N",
+    "lon_raw": "158-33E",
+    "local": "1944-06-11 0330(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     158.55,
+     24.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-12T03:56Z",
+    "lat_raw": "22-59N",
+    "lon_raw": "150-19E",
+    "local": "1944-06-12 0356(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.3167,
+     22.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 1",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-06-13T19:08Z",
+    "lat_raw": "21-55N",
+    "lon_raw": "142-43E",
+    "local": "1944-06-14 0508(K)",
+    "page": "rg367-74802784/p14",
+    "note": "Lone tanker 10000 yds; attack No. 1",
+    "fix": "ship-contact positions are the target, not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.7167,
+     21.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-13T22:29Z",
+    "lat_raw": "22-29N",
+    "lon_raw": "142-25E",
+    "local": "1944-06-13 2229(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.4167,
+     22.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-14T07:01Z",
+    "lat_raw": "23-15N",
+    "lon_raw": "143-15.6E",
+    "local": "1944-06-14 1701(K)",
+    "page": "rg367-74802784/p23",
+    "note": "Torpedo attack No. 1 (tanker)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.26,
+     23.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 1",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-16T01:40Z",
+    "lat_raw": "15-10N",
+    "lon_raw": "139-26E",
+    "local": "1944-06-16 1140(K)",
+    "page": "rg367-74802784/p15",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4333,
+     15.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-16T01:42Z",
+    "lat_raw": "15-17N",
+    "lon_raw": "139-56E",
+    "local": "1944-06-16 0142(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9333,
+     15.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-16T19:50Z",
+    "lat_raw": "15-18N",
+    "lon_raw": "139-00E",
+    "local": "1944-06-16 1950(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.0,
+     15.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 2",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-16T22:48Z",
+    "lat_raw": "15-30N",
+    "lon_raw": "139-50E",
+    "local": "1944-06-17 0848(K)",
+    "page": "rg367-74802784/p15",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8333,
+     15.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 3",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-16T23:36Z",
+    "lat_raw": "15-28N",
+    "lon_raw": "139-45E",
+    "local": "1944-06-17 0936(K)",
+    "page": "rg367-74802784/p15",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.75,
+     15.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 4",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-17T05:00Z",
+    "lat_raw": "15-26N",
+    "lon_raw": "139-07E",
+    "local": "1944-06-17 1500(K)",
+    "page": "rg367-74802784/p15",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.1167,
+     15.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 5",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-17T06:30Z",
+    "lat_raw": "15-36N",
+    "lon_raw": "139-08E",
+    "local": "1944-06-17 1630(K)",
+    "page": "rg367-74802784/p15",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.1333,
+     15.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 6",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-17T07:02Z",
+    "lat_raw": "15-41N",
+    "lon_raw": "139-07E",
+    "local": "1944-06-17 1702(K)",
+    "page": "rg367-74802784/p15",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.1167,
+     15.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 7",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-17T20:25Z",
+    "lat_raw": "15-15N",
+    "lon_raw": "138-58E",
+    "local": "1944-06-18 0625(K)",
+    "page": "rg367-74802784/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9667,
+     15.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 8",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-17T20:54Z",
+    "lat_raw": "15-17.5N",
+    "lon_raw": "138-58E",
+    "local": "1944-06-18 0654(K)",
+    "page": "rg367-74802784/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9667,
+     15.2917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 9",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-17T21:24Z",
+    "lat_raw": "15-20N",
+    "lon_raw": "138-58E",
+    "local": "1944-06-18 0724(K)",
+    "page": "rg367-74802784/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9667,
+     15.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 10",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-17T22:12Z",
+    "lat_raw": "15-18N",
+    "lon_raw": "139-41E",
+    "local": "1944-06-18 0812(K)",
+    "page": "rg367-74802784/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6833,
+     15.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 11",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-17T22:40Z",
+    "lat_raw": "15-14.5N",
+    "lon_raw": "139-58E",
+    "local": "1944-06-18 0840(K)",
+    "page": "rg367-74802784/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9667,
+     15.2417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 12",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-18T00:37Z",
+    "lat_raw": "14-59N",
+    "lon_raw": "139-58.5E",
+    "local": "1944-06-18 1037(K)",
+    "page": "rg367-74802784/p16",
+    "note": "longitude minutes faded at page edge",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.975,
+     14.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 13",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-18T03:58Z",
+    "lat_raw": "14-16N",
+    "lon_raw": "138-58E",
+    "local": "1944-06-18 1358(K)",
+    "page": "rg367-74802784/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9667,
+     14.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 14",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-06-18T05:01Z",
+    "lat_raw": "14-24N",
+    "lon_raw": "139-54E",
+    "local": "1944-06-18 1501(K)",
+    "page": "rg367-74802784/p17",
+    "note": "",
+    "fix": "off track: 55 nm from Air 13/15 within the hour (139 vs 138 mistyped?)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9,
+     14.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 15",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-18T05:54Z",
+    "lat_raw": "14-20N",
+    "lon_raw": "138-55E",
+    "local": "1944-06-18 1554(K)",
+    "page": "rg367-74802784/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9167,
+     14.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-18T19:40Z",
+    "lat_raw": "13-52N",
+    "lon_raw": "138-56E",
+    "local": "1944-06-18 1940(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9333,
+     13.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 16",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-18T19:40Z",
+    "lat_raw": "13-44.5N",
+    "lon_raw": "138-51E",
+    "local": "1944-06-19 0540(K)",
+    "page": "rg367-74802784/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.85,
+     13.7417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 17",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-19T04:10Z",
+    "lat_raw": "13-53N",
+    "lon_raw": "138-41E",
+    "local": "1944-06-19 1410(K)",
+    "page": "rg367-74802784/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6833,
+     13.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 18",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-19T04:55Z",
+    "lat_raw": "13-53N",
+    "lon_raw": "138-45E",
+    "local": "1944-06-19 1455(K)",
+    "page": "rg367-74802784/p17",
+    "note": "longitude minutes faded at page edge",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.75,
+     13.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 19",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-19T07:30Z",
+    "lat_raw": "13-53N",
+    "lon_raw": "138-36E",
+    "local": "1944-06-19 1730(K)",
+    "page": "rg367-74802784/p18",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6,
+     13.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-19T19:20Z",
+    "lat_raw": "13-33N",
+    "lon_raw": "138-56E",
+    "local": "1944-06-19 1920(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9333,
+     13.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 20",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-06-19T20:38Z",
+    "lat_raw": "14-49.5N",
+    "lon_raw": "139-56E",
+    "local": "1944-06-20 0638(K)",
+    "page": "rg367-74802784/p18",
+    "note": "",
+    "fix": "off track: 96 nm from the BT fix 80 min earlier"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9333,
+     14.825
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 21",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-20T01:55Z",
+    "lat_raw": "13-42N",
+    "lon_raw": "139-55E",
+    "local": "1944-06-20 1155(K)",
+    "page": "rg367-74802784/p18",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9167,
+     13.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 2",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-06-20T02:00Z",
+    "lat_raw": "13-35N",
+    "lon_raw": "138-42E",
+    "local": "1944-06-20 1200(K)",
+    "page": "rg367-74802784/p14",
+    "note": "U.S. Task Force 28000 yds",
+    "fix": "ship-contact positions are the target, not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.7,
+     13.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 22",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-20T05:40Z",
+    "lat_raw": "13-33N",
+    "lon_raw": "138-55E",
+    "local": "1944-06-20 1540(K)",
+    "page": "rg367-74802784/p18",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9167,
+     13.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 23",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-20T07:21Z",
+    "lat_raw": "13-30N",
+    "lon_raw": "138-56E",
+    "local": "1944-06-20 1721(K)",
+    "page": "rg367-74802784/p18",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9333,
+     13.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 3",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-06-21T00:18Z",
+    "lat_raw": "14-55N",
+    "lon_raw": "138-32E",
+    "local": "1944-06-21 1018(K)",
+    "page": "rg367-74802784/p14",
+    "note": "4 US destroyers 18000 yds",
+    "fix": "ship-contact positions are the target, not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5333,
+     14.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 4",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-06-21T18:55Z",
+    "lat_raw": "15-32N",
+    "lon_raw": "136-55E",
+    "local": "1944-06-22 0455(K)",
+    "page": "rg367-74802784/p14",
+    "note": "U.S. Task Force 16000 yds",
+    "fix": "ship-contact positions are the target, not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.9167,
+     15.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-21T19:30Z",
+    "lat_raw": "15-31N",
+    "lon_raw": "137-14E",
+    "local": "1944-06-21 1930(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.2333,
+     15.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 25",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-21T20:15Z",
+    "lat_raw": "15-29N",
+    "lon_raw": "136-42E",
+    "local": "1944-06-22 0615(K)",
+    "page": "rg367-74802784/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7,
+     15.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 26",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-21T20:24Z",
+    "lat_raw": "15-30N",
+    "lon_raw": "136-42E",
+    "local": "1944-06-22 0624(K)",
+    "page": "rg367-74802784/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7,
+     15.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 27",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-21T23:15Z",
+    "lat_raw": "15-39N",
+    "lon_raw": "137-27E",
+    "local": "1944-06-22 0915(K)",
+    "page": "rg367-74802784/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.45,
+     15.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 28",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-22T00:50Z",
+    "lat_raw": "15-39N",
+    "lon_raw": "138-21E",
+    "local": "1944-06-22 0950(I)",
+    "page": "rg367-74802784/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.35,
+     15.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-06-24T20:37Z",
+    "lat_raw": "22-19N",
+    "lon_raw": "124-30E",
+    "local": "1944-06-24 2037(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": "off track: 124 nm from Air 29 one hour later; Air 29 agrees with Air 30 and the next BT"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.5,
+     22.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 29",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-24T21:52Z",
+    "lat_raw": "21-44N",
+    "lon_raw": "122-22E",
+    "local": "1944-06-25 0652(I)",
+    "page": "rg367-74802784/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3667,
+     21.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 30",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-25T07:30Z",
+    "lat_raw": "22-01N",
+    "lon_raw": "121-58E",
+    "local": "1944-06-25 1630(I)",
+    "page": "rg367-74802784/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.9667,
+     22.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-25T20:45Z",
+    "lat_raw": "21-20N",
+    "lon_raw": "121-40E",
+    "local": "1944-06-25 2045(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": "lon 141-40E -> 121-40E (typo; between fixes at 121-58E and 120-33E)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.6667,
+     21.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-26T20:50Z",
+    "lat_raw": "20-21N",
+    "lon_raw": "120-33E",
+    "local": "1944-06-26 2050(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.55,
+     20.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 5",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-06-26T23:45Z",
+    "lat_raw": "20-30N",
+    "lon_raw": "120-32E",
+    "local": "1944-06-27 0845(I)",
+    "page": "rg367-74802784/p14",
+    "note": "Hospital ship 13000 yds",
+    "fix": "ship-contact positions are the target, not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.5333,
+     20.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 31",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-27T02:05Z",
+    "lat_raw": "20-23N",
+    "lon_raw": "120-49E",
+    "local": "1944-06-27 1105(I)",
+    "page": "rg367-74802784/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.8167,
+     20.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-27T21:05Z",
+    "lat_raw": "19-23N",
+    "lon_raw": "119-42E",
+    "local": "1944-06-27 2105(Z)",
+    "page": "rg367-74802784/p38",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.7,
+     19.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 6",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-06-28T20:57Z",
+    "lat_raw": "18-47N",
+    "lon_raw": "119-07E",
+    "local": "1944-06-29 0557(I)",
+    "page": "rg367-74802784/p14",
+    "note": "Convoy 24000 yds; attack No. 2",
+    "fix": "ship-contact positions are the target, not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.1167,
+     18.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-28T21:05Z",
+    "lat_raw": "17-16N",
+    "lon_raw": "118-30E",
+    "local": "1944-06-28 2105(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.5,
+     17.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 32",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-29T04:20Z",
+    "lat_raw": "17-59N",
+    "lon_raw": "118-25E",
+    "local": "1944-06-29 1320(I)",
+    "page": "rg367-74802784/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.4167,
+     17.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-29T06:08Z",
+    "lat_raw": "17-13N",
+    "lon_raw": "118-24.5E",
+    "local": "1944-06-29 1508(I)",
+    "page": "rg367-74802784/p25",
+    "note": "Torpedo attacks No. 2(a) 2(b) 2(c)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.4083,
+     17.2167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-29T21:07Z",
+    "lat_raw": "19-48N",
+    "lon_raw": "118-04E",
+    "local": "1944-06-29 2107(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.0667,
+     19.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-06-30T21:05Z",
+    "lat_raw": "19-53N",
+    "lon_raw": "117-45E",
+    "local": "1944-06-30 2105(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.75,
+     19.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-01T21:07Z",
+    "lat_raw": "18-51N",
+    "lon_raw": "117-00E",
+    "local": "1944-07-01 2107(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.0,
+     18.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-02T21:20Z",
+    "lat_raw": "19-20N",
+    "lon_raw": "115-23E",
+    "local": "1944-07-02 2120(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.3833,
+     19.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 7",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-07-03T19:10Z",
+    "lat_raw": "19-22N",
+    "lon_raw": "115-07E",
+    "local": "1944-07-04 0410(I)",
+    "page": "rg367-74802784/p14",
+    "note": "1 AK 1 DD 2 escorts 15000 yds; attack No. 3",
+    "fix": "ship-contact positions are the target, not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.1167,
+     19.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-03T20:05Z",
+    "lat_raw": "19-20N",
+    "lon_raw": "115-20E",
+    "local": "1944-07-03 2005(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.3333,
+     19.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 3",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-03T20:06Z",
+    "lat_raw": "19-32.3N",
+    "lon_raw": "115-28.5E",
+    "local": "1944-07-04 0506(I)",
+    "page": "rg367-74802784/p32",
+    "note": "Torpedo attack No. 3",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.475,
+     19.5383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 33",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-04T03:29Z",
+    "lat_raw": "20-15N",
+    "lon_raw": "115-45E",
+    "local": "1944-07-04 1229(I)",
+    "page": "rg367-74802784/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.75,
+     20.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 34",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-04T07:00Z",
+    "lat_raw": "20-15N",
+    "lon_raw": "115-45E",
+    "local": "1944-07-04 1600(I)",
+    "page": "rg367-74802784/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.75,
+     20.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-04T21:08Z",
+    "lat_raw": "19-27N",
+    "lon_raw": "115-50E",
+    "local": "1944-07-04 2108(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.8333,
+     19.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-05T21:17Z",
+    "lat_raw": "19-30N",
+    "lon_raw": "116-48E",
+    "local": "1944-07-05 2117(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.8,
+     19.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-06T21:17Z",
+    "lat_raw": "20-49N",
+    "lon_raw": "117-23E",
+    "local": "1944-07-06 2117(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.3833,
+     20.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-07T21:00Z",
+    "lat_raw": "20-44N",
+    "lon_raw": "118-04E",
+    "local": "1944-07-07 2100(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.0667,
+     20.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 35",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-07-07T21:00Z",
+    "lat_raw": "20-04N",
+    "lon_raw": "118-59E",
+    "local": "1944-07-08 0600(I)",
+    "page": "rg367-74802784/p20",
+    "note": "",
+    "fix": "off track: 65 nm from the BT fix at the same minute; BT agrees with neighbours"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.9833,
+     20.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 36",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-08T00:30Z",
+    "lat_raw": "20-53N",
+    "lon_raw": "117-47E",
+    "local": "1944-07-08 0930(I)",
+    "page": "rg367-74802784/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.7833,
+     20.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-08T21:06Z",
+    "lat_raw": "20-22N",
+    "lon_raw": "117-10E",
+    "local": "1944-07-08 2106(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.1667,
+     20.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-09T21:13Z",
+    "lat_raw": "20-24N",
+    "lon_raw": "117-13E",
+    "local": "1944-07-09 2113(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.2167,
+     20.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-10T21:05Z",
+    "lat_raw": "21-20N",
+    "lon_raw": "118-07E",
+    "local": "1944-07-10 2105(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.1167,
+     21.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-11T21:02Z",
+    "lat_raw": "21-06N",
+    "lon_raw": "118-07E",
+    "local": "1944-07-11 2102(Z)",
+    "page": "rg367-74802784/p39",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.1167,
+     21.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 37",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-11T21:02Z",
+    "lat_raw": "21-13.5N",
+    "lon_raw": "118-08E",
+    "local": "1944-07-12 0602(I)",
+    "page": "rg367-74802784/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.1333,
+     21.225
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-12T21:10Z",
+    "lat_raw": "21-18N",
+    "lon_raw": "118-00E",
+    "local": "1944-07-12 2110(Z)",
+    "page": "rg367-74802784/p40",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.0,
+     21.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-13T21:05Z",
+    "lat_raw": "21-12N",
+    "lon_raw": "118-43E",
+    "local": "1944-07-13 2105(Z)",
+    "page": "rg367-74802784/p40",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.7167,
+     21.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-14T21:10Z",
+    "lat_raw": "21-17N",
+    "lon_raw": "119-27E",
+    "local": "1944-07-14 2110(Z)",
+    "page": "rg367-74802784/p40",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.45,
+     21.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-16T21:15Z",
+    "lat_raw": "21-02N",
+    "lon_raw": "119-20E",
+    "local": "1944-07-16 2115(Z)",
+    "page": "rg367-74802784/p40",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.3333,
+     21.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 38",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-17T02:50Z",
+    "lat_raw": "21-20N",
+    "lon_raw": "119-33E",
+    "local": "1944-07-17 1150(I)",
+    "page": "rg367-74802784/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.55,
+     21.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 39",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-17T07:03Z",
+    "lat_raw": "21-11N",
+    "lon_raw": "119-38E",
+    "local": "1944-07-17 1603(I)",
+    "page": "rg367-74802784/p21",
+    "note": "Departed area at sunset",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.6333,
+     21.1833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-17T21:10Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "119-40E",
+    "local": "1944-07-17 2110(Z)",
+    "page": "rg367-74802784/p40",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.6667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 40",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-18T06:06Z",
+    "lat_raw": "20-15N",
+    "lon_raw": "121-35E",
+    "local": "1944-07-18 1506(I)",
+    "page": "rg367-74802784/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.5833,
+     20.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-18T22:45Z",
+    "lat_raw": "20-38N",
+    "lon_raw": "120-40E",
+    "local": "1944-07-18 2245(Z)",
+    "page": "rg367-74802784/p40",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.6667,
+     20.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 41",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-07-20T23:42Z",
+    "lat_raw": "20-54N",
+    "lon_raw": "139-20E",
+    "local": "1944-07-21 0942(K)",
+    "page": "rg367-74802784/p21",
+    "note": "",
+    "fix": "off track: needs 21+ kt from the previous fix; longitude possibly 129-20E"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.3333,
+     20.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Midway",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-29T21:00Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-07-29 0900(Y)",
+    "page": "rg367-74802784/p12",
+    "note": "Crossed date line. Moored Midway. Fueled ship (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Midway",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-07-30T03:25Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-07-29 1525(Y)",
+    "page": "rg367-74802784/p13",
+    "note": "Departed Midway enroute Pearl (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Pearl",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-08-02T21:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-08-02 1200(VW)",
+    "page": "rg367-74802784/p13",
+    "note": "Arrived Pearl (time not given; noon assumed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  }
+ ]
+}

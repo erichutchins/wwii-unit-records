@@ -1,0 +1,44 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+narrative,depart Majuro,1945-01-06,0930,M,07-06N,171-22E,rg367-74834293/p35,"Departed MAJURO on Seventh War Patrol as a unit of ""UNDERWOOD'S URCHINS"", Task Unit 17.23.2 (port position; time not given, 0930 M from SPADEFISH's and ATULE's reports of the same sailing)",yes,,,,,
+narrative,arrive Saipan,1945-01-14,1200,K,15-14N,145-43E,rg367-74834293/p36,At SAIPAN alongside FULTON 14-15 Jan (port position; arrival time not given; noon assumed),yes,,,,,
+narrative,depart Saipan,1945-01-16,1200,K,15-14N,145-43E,rg367-74834293/p36,"Delayed one day for repairs to SJ radar, I.C. motor generator and both gyros; departed SAIPAN enroute independently to area (port position; time not given; noon assumed)",yes,,,,,
+radar,RCM Jan 17,1945-01-17,1800,Z,19-39N,139-59E,rg367-74834293/p54,"RCM log (radio jamming), 1800-2100 Zebra: noise modulation on 9090 kcs; shifted to other NPM frequencies",yes,,,,,
+air,Air 1,1945-01-19,1240,I,26-29N,135-38E,rg367-74834293/p46,Unknown (2-engine) about 9 miles; SD; submerged (narrative p36: dived 1240; 0830 exchanged recognition with BALAO),yes,,,,,
+radar,RCM Jan 20,1945-01-20,2315,I,30-04N,130-16E,rg367-74834293/p53,"RCM log: 155 mcs strong, steady signal (narrative: 2150 sighted YAKU SHIMA 20 miles, commenced transit of NANSEI SHOTO through COLNETT STRAIT)",yes,,,,,
+radar,RCM Jan 21,1945-01-21,0230,I,30-13N,130-52E,rg367-74834293/p53,"RCM log: 155 mcs strong, steady signal (longitude typed ""Log."")",yes,,,,,
+radar,RCM Jan 21,1945-01-21,0310,I,30-13N,130-43E,rg367-74834293/p53,"RCM log: same 155 mcs signal; SD contact 20 miles, then 23, closing; submerged",yes,,,,,
+air,Air 2,1945-01-21,0311,I,30-16N,129-40E,rg367-74834293/p46,Unknown 10 miles; radar; submerged (narrative p36: SD contact; dived),no,,,,,"63 nm west of the RCM log's 0310 fix (30-13N 130-43E) one minute earlier, which agrees with the 0230 and 2315 fixes; one degree of longitude typed wrong?"
+radar,RCM Jan 21,1945-01-21,2210,I,31-22N,128-16E,rg367-74834293/p53,RCM log: 96 mcs sweeping continuous signal from DANJO GUNTO (narrative logs 96 mcs from DANJO GUNTO at 2207),yes,,,,,
+narrative,Mine 1,1945-01-22,0843,I,32-32.0N,126-01.0E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p37), matched in order",yes,,,,,
+narrative,Mine 2,1945-01-22,1108,I,32-39.5N,125-40.0E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p37), matched in order",yes,,,,,
+narrative,Mine 3,1945-01-22,1254,I,32-45.5N,125-23.0E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p37), matched in order",yes,,,,,
+narrative,Mine 4,1945-01-22,1505,I,32-58.0N,125-13.0E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p37), matched in order",yes,,,,,
+narrative,Mine 5,1945-01-22,1615,I,33-07.0N,125-12.5E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p37), matched in order",yes,,,,,
+narrative,Mine 6,1945-01-23,1710,I,33-38-0N,124-50.8E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p38), matched in order",yes,33-38.0N,,,,table types 33-38-0; lat_fix only writes it as 33-38.0
+narrative,Mine 7,1945-01-24,2030,I,33-27.0N,124-29.0E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p38), matched in order",yes,,,,,
+narrative,Mine 8,1945-01-25,1710,I,33-17.5N,124-51.3E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p39), matched in order",yes,,,,,
+narrative,Mine 9,1945-01-25,2015,I,33-42.7N,124-50.8E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p39), matched in order",yes,,,,,
+narrative,Mine 10,1945-02-01,0300,I,31-21.0N,128-22.0E,rg367-74834293/p46,"Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p42), matched in order",yes,,,,,
+ship,Ship 1,1945-01-22,0450,I,32-19.0N,126-37.7E,rg367-74834293/p45,Junks (2) 4 miles; easterly 5 kts; avoided (narrative p37: two well lighted small craft; entered patrol area 0330; 0335 recognition with SPADEFISH),no,,,,,"ship-contact positions are the target, not POMPON"
+ship,Ship 2,1945-01-22,0645,I,32-28.2N,126-12.9E,rg367-74834293/p45,"Junks (2) 3 miles; NW 5 kts; avoided (square-rigged sailing vessels)",no,,,,,"ship-contact positions are the target, not POMPON"
+noon,Noon,1945-01-22,1200,I,32-40N,125-30E,rg367-74834293/p37,Position,yes,,,,,
+radar,RCM Jan 22,1945-01-22,1610,I,33-30N,125-11E,rg367-74834293/p53,RCM log: 160 mcs sweeping signal from KOKUZAN TO (narrative 1617: dived on saturation APR signal),no,,,,,"23 nm north of Mine 5 (33-07.0N 125-12.5E) five minutes later; the narrative sights KOKUZAN TO at 45 miles at 1718, which fits the mine's position; error not identified"
+noon,Noon,1945-01-23,1200,I,33-50N,125-00E,rg367-74834293/p38,Position (dived 0714 for submerged patrol SW of KOKUZAN TO),yes,,,,,
+radar,RCM Jan 24,1945-01-24,0000,Z,33-25N,124-17E,rg367-74834293/p54,"RCM log (radio jamming), 0000-0100 Zebra: noise and CW random keying on all frequencies",yes,,,,,
+noon,Noon,1945-01-24,1200,I,33-49N,124-13E,rg367-74834293/p38,Position,yes,,,,,
+ship,Ship 3,1945-01-24,2320,I,33-08.5N,124-31.5E,rg367-74834293/p45,Trawlers (4) 11 miles; drag-line steam trawlers with all proper lights,no,,,,,"ship-contact positions are the target, not POMPON"
+noon,Noon,1945-01-25,1200,I,33-06N,124-23E,rg367-74834293/p39,Position,yes,,,,,
+ship,Ship 4,1945-01-25,1615,I,33-07.0N,124-35.5E,rg367-74834293/p45,Sail boat 8 miles; avoided,no,,,,,"ship-contact positions are the target, not POMPON"
+noon,Noon,1945-01-26,1200,I,34-10N,124-10E,rg367-74834293/p39,Position,yes,,,,,
+ship,Ship 5,1945-01-26,1435,I,33-41.0N,124-09.5E,rg367-74834293/p45,Sail boat 10 miles; 315 at 7 kts; avoided (narrative logs it at 1440),no,,,,,"ship-contact positions are the target, not POMPON"
+noon,Noon,1945-01-27,1200,I,34-12N,124-33E,rg367-74834293/p39,Position,yes,,,,,
+ship,Ship 6,1945-01-27,1755,I,34-23.0N,124-31.0E,rg367-74834293/p45,"Convoy 12 miles; 250 at 11 kts; 1 large AP, 2 large AKs, 4 escorts; contact report sent to SPADEFISH and ATULE. POMPON dived to attack at 1932 and 0027 but fired no torpedoes; SPADEFISH attacked at 0231-0238",no,,,,,"ship-contact positions are the target, not POMPON"
+noon,Noon,1945-01-28,1200,I,34-23N,123-48E,rg367-74834293/p41,Position (0515 exchanged recognition with SPADEFISH and ATULE),yes,,,,,
+ship,Ship 7,1945-01-28,1420,I,34-29.2N,124-03.0E,rg367-74834293/p45,Unidentified A/S vessel 12 miles; avoided; milling around near scene of attack (narrative logs it at 1410),no,,,,,"ship-contact positions are the target, not POMPON"
+ship,Ship 8,1945-01-29,0730,I,34-24.7N,124-34.0E,rg367-74834293/p45,(2) unidentified 12 miles; avoided; off DAIKOKUZAN GUNTO (0715 conning tower hatch jammed open; pump room flooded),no,,,,,"ship-contact positions are the target, not POMPON"
+noon,Noon,1945-01-29,1200,I,35-03N,124-05E,rg367-74834293/p41,Position,yes,,,,,
+noon,Noon,1945-01-30,1200,I,33-18N,124-22E,rg367-74834293/p42,Position,yes,,,,,
+noon,Noon,1945-01-31,1200,I,32-05N,126-35E,rg367-74834293/p42,"Position (latitude typed ""32°05(N)"", no minute mark); departed area 2030",yes,,,,,
+noon,Noon,1945-02-01,1200,I,30-44N,128-55E,rg367-74834293/p42,Position,yes,,,,,
+ship,Ship 9,1945-02-02,0027,I,29-32.0N,129-24.0E,rg367-74834293/p45,Convoy with escorts 6000 yds; northwest; avoided (narrative p43 logs it at 0020: at least 3 ships and 3 escorts; escort challenged; 3 distant depth charges at 0045),no,,,,,"ship-contact positions are the target, not POMPON"
+narrative,arrive Midway,1945-02-11,1200,Y,28-12N,177-23W,rg367-74834293/p44,"Repeated date, arrived MIDWAY for refit; met POGY 1030 M (port position; arrival time not given; noon assumed)",yes,,,,,

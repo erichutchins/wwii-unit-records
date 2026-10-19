@@ -1,0 +1,134 @@
+# Engagement for site/battle.html. Hand-edited; fields in guides/BATTLES.md. Built by tools/build_battle.py.
+title: BANG, PARCHE and TINOSA against two convoys
+short: Patrol 1 · Luzon Strait wolfpack
+eyebrow: Luzon Strait · Coordinated attack group, Capt. G. E. Peterson
+lede: >-
+  Every mark is a position or attack typed into the boats' war patrol reports, beside the Japanese record of the
+  same minutes. Times are converted to GMT so the three boats, who kept different clocks, share one timeline.
+boats:
+- id: bang
+  name: BANG
+  hull: SS-385
+  co: LCdr A. R. Gallaher
+  patrol: ss-385-bang/1
+  patrol_no: 1
+- id: parche
+  name: PARCHE
+  hull: SS-384
+  co: LCdr L. P. Ramage; pack commander Capt. G. E. Peterson aboard
+  patrol: ss-384-parche/1
+  patrol_no: 1
+- id: tinosa
+  name: TINOSA
+  hull: SS-283
+  co: LCdr D. F. Weiss
+  patrol: ss-283-tinosa/6
+  patrol_no: 6
+japanese:
+- ss-385-bang/1
+actions:
+- id: tama17
+  label: 29–30 April 1944
+  convoy: TAMA-17
+  start: 1944-04-29T06:00Z
+  end: 1944-04-30T08:00Z
+  route: Takao → Manila. Departed Takao 1300 on 28 April.
+  ships:
+  - Belgium
+  - Kennichi
+  - Kurogane
+  - Nissan
+  - Nittatsu*
+  - Peking
+  - San Luis
+  - Shiroganesan
+  - Shirotae
+  - Takegawa*
+  - Tsushima
+  - Wales
+  - Yamahagi
+  ships_note: Merchant ships as listed by combinedfleet.com; other lists add Yashima and Hakka Maru.
+  escorts:
+  - name: Harukaze
+    kind: Destroyer
+    type: destroyer
+  - name: W-17
+    kind: Minesweeper
+    type: escort
+  - name: Chohakusan Maru
+    kind: Auxiliary gunboat
+    type: gunboat
+  - name: Asakaze
+    kind: Destroyer, joined 29 April
+    type: destroyer
+  outcome: >-
+    Japanese loss list: Takegawa Maru (1,930 GRT) and Nittatsu Maru (2,859 GRT), both to BANG. No loss matches PARCHE's
+    or TINOSA's attacks next morning; the rest reached Manila on 2 May.
+- id: te04
+  label: 3–4 May 1944
+  convoy: TE-04
+  start: 1944-05-03T00:00Z
+  end: 1944-05-04T02:00Z
+  route: Yulin (Hainan) → Japan, iron ore for Yawata. Departed 30 April.
+  ships:
+  - Yulin
+  - Shoryu*
+  - Kinrei*
+  - Toyohi*
+  - Daibu*
+  - Daiyoku (Taiyoku)*
+  ships_note: Iron-ore carriers as listed by combinedfleet.com.
+  escorts:
+  - name: CD-1
+    kind: Kaibokan (escort)
+    type: escort
+  - name: Kazan Maru
+    kind: Auxiliary gunboat
+    type: gunboat
+  - name: Maeshima
+    kind: Minelayer, joined 3 May
+    type: escort
+  outcome: >-
+    Japanese loss list: five ships, 30,542 GRT. Which boat sank which is still open; see the attack order in the
+    log.
+places:
+- name: Luzon
+  lon: 120.75
+  lat: 18.25
+- name: Cape Bojeador
+  lon: 120.45
+  lat: 18.52
+  small: true
+- name: Formosa
+  lon: 120.75
+  lat: 22.75
+  inset:
+  - 120.6
+  - 23.4
+- name: Bashi Channel
+  lon: 121.0
+  lat: 21.6
+- name: South China Sea
+  lon: 116.9
+  lat: 19.35
+- name: Babuyan Is.
+  lon: 121.6
+  lat: 19.35
+notes:
+- head: Reading the map.
+  text: >-
+    Positions are the boats' own dead reckoning and star sights, and three navigators never quite agree, so the
+    same convoy appears in slightly different places in each report. Lines between positions are straight; where
+    a boat actually went in between is not recorded. Dashed outlines mark entries the report itself contradicts,
+    kept with the reason.
+- head: Clocks.
+  text: >-
+    BANG kept zone K (−10) and PARCHE zone I (−9); TINOSA kept zone H (−8) on station. Japanese records use Tokyo
+    time (I, −9). On 29–30 April the target ship's own log and BANG's attack sheets agree to within one to seven
+    minutes once both are in GMT.
+- head: Sources.
+  text: >-
+    War patrol reports, NARA microfilm M1752 (BANG 74802746, PARCHE 74828582, TINOSA 74856363). Nittatsu Maru's
+    movement log and the 1st Surface Escort Division war diary via JACAR (National Institute for Defense Studies).
+    Convoy lists and the 3–4 May sinking times from combinedfleet.com, a secondary source, flagged where used. Coastline:
+    Natural Earth.

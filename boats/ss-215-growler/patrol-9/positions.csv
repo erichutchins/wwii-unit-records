@@ -1,0 +1,66 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+narrative,depart Majuro,1944-05-14,1400,Y,07-06N,171-22E,rg367-74818866/p03,Departed MAJURO with U.S.S. FAIR as escort (port position),yes,,,,,
+air,Air 1,1944-05-20,1132,L,16-33N,154-45E,rg367-74818866/p32,Unidentified 10 mi; SD; submerged to avoid detection,yes,,,,,
+air,Air 3,1944-05-22,1421,K,16-33N,140-42E,rg367-74818866/p32,Medium bomber unidentified 3 mi; periscope,yes,,145-42E,,,"table types 140-42E, 5 degrees west of Air 2 (149-34E, 21 May) and Air 4 (145-18E, 23 May); the narrative (p04-05) has GROWLER entering her area at 0130 and in radar contact with SARIGAN ISLAND (16-42N 145-47E) at 0445 the same day. Probably 145-42E"
+air,Air 4,1944-05-23,0541,K,15-37N,145-18E,rg367-74818866/p32,PETE 8 mi; SD; submerged,yes,,,,,
+air,Air 5,1944-05-23,0747,K,15-20N,145-07E,rg367-74818866/p32,EMILY 10 mi; SD; submerged,yes,,,,,
+air,Air 6,1944-05-23,0846,K,15-18N,145-05E,rg367-74818866/p32,EMILY 10 mi; periscope; air cover for SC-1,yes,,,,,
+air,Air 7,1944-05-23,0958,K,15-15N,145-05E,rg367-74818866/p32,RUFE 7 mi; air cover for SC-1,yes,,,,,
+air,Air 8,1944-05-23,1213,K,15-05N,145-08E,rg367-74818866/p32,RUFE 4 mi; air cover for SC-1,yes,,,,,
+ship,Ship 1,1944-05-23,1229,K,15-09N,145-07E,rg367-74818866/p30,"2 AKs, 2 PCs; 12000 yds; course 085, 8 kts; echo ranging heard (narrative p05: convoy route to SAIPAN)",no,,,,,"ship-contact positions are the target, not GROWLER"
+air,Air 9,1944-05-23,1240,K,15-08N,145-07E,rg367-74818866/p32,JAKE 4 mi; air cover for SC-1,yes,,,,,
+air,Air 10,1944-05-23,1530,K,15-08N,145-04E,rg367-74818866/p32,MAVIS (range typed 1? mi); air cover for SC-1,yes,,,,,
+air,Air 11,1944-05-23,1615,K,15-10N,145-05E,rg367-74818866/p33,BETTY 11 mi; air cover for SC-1,yes,,,,,
+ship,Ship 2,1944-05-23,1640,K,15-10N,145-05E,rg367-74818866/p30,"2 AKs, 1 PC; 16000 yds; course 095, 6.5 kts; one AK towing the other",no,,,,,"ship-contact positions are the target, not GROWLER"
+air,Air 12,1944-05-25,0759,K,15-26N,146-00E,rg367-74818866/p33,SALLY 11 mi; periscope,yes,,,,,
+air,Air 13,1944-05-25,1014,K,15-22N,145-57E,rg367-74818866/p33,RUFE 5 mi; periscope,yes,,,,,
+air,Air 14,1944-05-25,2000,K,15-18N,146-09E,rg367-74818866/p33,Two unidentified 16 mi; searchlight beam over SAIPAN,yes,,,,,
+air,Air 15,1944-05-27,0743,K,15-09N,145-58E,rg367-74818866/p33,BETTY 10 mi; periscope,yes,,,,,
+air,Air 16,1944-05-27,0750,K,15-09N,145-58E,rg367-74818866/p33,Unidentified fighter 7 mi; periscope,yes,,,,,
+air,Air 17,1944-05-27,0958,K,15-03N,145-50E,rg367-74818866/p33,RUFE 10 mi; periscope,yes,,,,,
+air,Air 18,1944-05-27,1908,K,,,rg367-74818866/p33,Six unidentified fighters 8 mi; position typed 'Over SAIPAN' (the plane's position),no,,,,,
+air,Air 19,1944-05-27,1959,K,,,rg367-74818866/p33,Unidentified 20 mi; position typed 'Same' (over SAIPAN); planes in searchlight beam,no,,,,,
+air,Air 20,1944-05-28,0815,K,,,rg367-74818866/p33,Unidentified fighter 14 mi; position typed 'Over TINIAN',no,,,,,
+air,Air 21,1944-05-28,0928,K,,,rg367-74818866/p33,Medium bomber 11 mi; position typed 'Same' (over TINIAN); date typed 28 over 2,no,,,,,
+air,Air 22,1944-05-28,1050,K,,,rg367-74818866/p34,3 unidentified fighters 9 mi; position typed 'Same' (over TINIAN),no,,,,,
+air,Air 23,1944-05-28,1118,K,14-52N,145-44E,rg367-74818866/p34,Unidentified 9 mi; periscope,yes,,,,,
+air,Air 24,1944-05-28,1130,K,14-52N,145-44E,rg367-74818866/p34,RUFE 5 mi; periscope,yes,,,,,
+air,Air 25,1944-05-28,1235,K,14-52N,145-41E,rg367-74818866/p34,EMILY 4 mi; periscope,yes,,,,,
+air,Air 26,1944-05-29,1615,K,13-27N,145-38E,rg367-74818866/p34,Unidentified two-engine bomber 10 mi; SD; submerged,yes,,,,,
+air,Air 27,1944-05-30,1045,K,14-13N,145-28E,rg367-74818866/p34,SALLY 8 mi; headed for SAIPAN,yes,,,,,
+air,Air 28,1944-05-31,0312,K,13-40N,146-09E,rg367-74818866/p34,Unidentified 5 mi; landing lights; plane landed on ROTA ISLAND,yes,,,,,
+ship,Ship 3,1944-05-31,0517,K,13-50N,146-02E,rg367-74818866/p30,"1 submarine, 8000 yds by SD; course 160, 15 kts; probably RO class",no,,,,,"ship-contact positions are the target, not GROWLER"
+air,Air 29,1944-05-31,1124,K,13-35N,146-13E,rg367-74818866/p34,SALLY 5 mi; SD; submerged,yes,,,,,
+air,Air 30,1944-06-03,0943,K,14-54N,144-20E,rg367-74818866/p34,BETTY 5 mi; search plane (similar plane at 1106 K),yes,,,,,
+air,Air 31,,,K,,,rg367-74818866/p34,"Various planes over SAIPAN, typed 0510(K) with no date; at least one MAVIS, EMILY or JAKE sighted each time periscope was exposed",no,,,,,
+ship,Ship 4,1944-06-04,1700,K,15-16N,145-38E,rg367-74818866/p30,3 fishing sampans 8000 yds; course 000 10 kts,no,,,,,"ship-contact positions are the target, not GROWLER"
+ship,Ship 5,1944-06-04,2000,K,15-18N,145-23E,rg367-74818866/p30,Large patrol boat and 2 or 3 sampans; 11000 / 5100 yds; 18 kts; blinking lights,no,,,,,"ship-contact positions are the target, not GROWLER"
+air,Air 32,1944-06-04,2016,K,15-18N,145-23E,rg367-74818866/p35,Unidentified 8 mi; SN,yes,,,,,
+air,Air 33,1944-06-05,0045,K,15-02N,144-00E,rg367-74818866/p35,Unidentified 8 mi; tracked by SJ radar,yes,,,,,
+air,Air 34,1944-06-05,0133,K,,,rg367-74818866/p35,Unidentified 8 mi; position typed 'Same' as Air 33 (15-02N 144-00E); flashed '1' on running lights,no,,,,,
+bt,BT 1,1944-06-16,2100,Z,10-33N,120-02E,rg367-74818866/p42,"Density layers (O) 1: dive 2100 GCT, density layer about 250 ft",yes,,126-02E,,,"120-02E is in the Sulu Sea, west of the Philippines; the narrative (p13-15) has GROWLER patrolling SURIGAO STRAIT (about 125-45E) 12-17 June, and Air 35 (19 June) and Ship 6 (20 June) are at 126-03E and 126-02E. Probably 126-02E"
+air,Air 35,1944-06-19,1410,I,10-29N,126-03E,rg367-74818866/p35,RUFE 12 mi; periscope,yes,,,,,
+ship,Ship 6,1944-06-20,1038,I,10-26N,126-02E,rg367-74818866/p30,Smoke 25000 yds; course 122 7 kts (determined by position relative to land),no,,,,,"ship-contact positions are the target, not GROWLER"
+air,Air 36,1944-06-22,1200,I,12-53N,126-34E,rg367-74818866/p35,Unidentified 10 mi; SD; possibly ship-based observation plane,yes,,,,,
+air,Air 37,1944-06-22,1311,I,12-55N,126-33E,rg367-74818866/p35,NELL 12 mi; headed toward SAN BERNARDINO STRAIT,yes,,,,,
+air,Air 38,1944-06-23,0958,I,16-38N,124-16E,rg367-74818866/p35,NELL 10 mi; SD; submerged (narrative p16: entered area 2145; radar interference 2204 'probably BANG or SEAHORSE'),yes,,,,,
+air,Air 39,1944-06-24,0800,I,20-53N,122-59E,rg367-74818866/p35,SALLY 4 mi; SD; submerged (narrative p16: in company with SEAHORSE since 0355),yes,,,,,
+air,Air 40,1944-06-24,1235,I,21-27N,122-28E,rg367-74818866/p35,NELL 6 mi; SD; submerged (time's first digit faint; narrative p17 gives 1235),yes,,,,,
+air,Air 41,1944-06-24,1535,I,21-30N,122-35E,rg367-74818866/p35,EMILY 8 mi; periscope,yes,,,,,
+air,Air 42,1944-06-25,0844,I,22-00N,121-47E,rg367-74818866/p36,MAVIS 10 mi; periscope (narrative p17: 0120 communications with SEAHORSE 'No sign of BANG'; 2154 communication with BANG; 2235 BANG delivered message tube),yes,,,,,
+bt,BT 2,1944-06-25,2150,Z,21-06N,121-21E,rg367-74818866/p42,"Density layers (O) 2: dive 2150 GCT, negative gradient 7 deg between 60 and 280 ft (narrative p18: 26 Jun 0618 I sighted BANG 12 mi bearing 320)",yes,,,,,
+bt,BT 3,1944-06-26,2115,Z,20-16N,120-58E,rg367-74818866/p43,"Density layers (O) 3: dive 2115 GCT, thermoclines at 75 and 85 ft, negative gradient 12 deg 85-280 ft (narrative p18: 27 Jun 0612 I)",yes,,,,,
+ship,Ship 7,1944-06-27,1125,I,19-55N,120-25E,rg367-74818866/p30,1 native fishing sampan 6000 yds; course 000 6 kts,no,,,,,"ship-contact positions are the target, not GROWLER"
+ship,Ship 8,1944-06-28,0924,I,19-26N,120-40E,rg367-74818866/p30,1 sampan with two stick masts 16000 yds; northerly,no,,,,,"ship-contact positions are the target, not GROWLER"
+ship,Ship 9,1944-06-28,1025,I,19-26N,120-42E,rg367-74818866/p30,2 sampans (50 ft and 35 ft) 4000 yds; course 200 5 kts,no,,,,,"ship-contact positions are the target, not GROWLER"
+ship,Ship 10,1944-06-28,2024,I,18-48N,120-55E,rg367-74818866/p31,2 sampans 12500 yds by radar; course 200 5 kts,no,,,,,"ship-contact positions are the target, not GROWLER"
+ship,Ship 11,1944-06-28,2119,I,18-50N,121-05E,rg367-74818866/p31,"1 large AO (10000 tons) with 3 large escorts (600 tons, CHIDORI or OTORI class) and 1 small escort (PC or SC); SJ radar 21750 yds; course 225, 9.5 kts (narrative p22: 2330 sent convoy data for BANG and SEAHORSE)",no,,,,,"ship-contact positions are the target, not GROWLER"
+attack,Attack 1,1944-06-29,0228,I,19-09.5,120-37E,rg367-74818866/p37,"Torpedo attack No. 1: night surface radar attack, 6 bow tubes (4 hits) at a large tanker; claims 1 large tanker 10,000 tons and 1 large escort 600 tons (CHIDORI or OTORI class) sunk; target course 250, 9.5 kts, range 3240 yds (narrative p23: commenced firing 0228, first timed hit 0230-07, pip disappeared 0234)",yes,19-09.5N,,,,"hemisphere letter not typed"
+narrative,arrive Midway,1944-07-13,0925,X,28-12N,177-23W,rg367-74818866/p27,Moored in berth S-2 MIDWAY (port position),yes,,,,,
+narrative,depart Midway,1944-07-13,1525,X,28-12N,177-23W,rg367-74818866/p27,Took departure from MIDWAY (port position),yes,,,,,
+narrative,arrive Pearl,1944-07-17,1000,VW,21-21N,157-58W,rg367-74818866/p28,"Moored at Submarine Base, P.H., T.H. (port position)",yes,,,,,
+air,Air 2,1944-05-21,1219,KL,16-45N,149-34E,rg367-74818866/p32,"Unidentified 6 mi; SD; submerged (zone KL = -10 1/2, narrative p04)",yes,,,,,
+narrative,life buoy,1944-07-03,0843,IK,21-37N,135-25E,rg367-74818866/p25,"Recovered life buoy lettered 'H.M.S. SIRIUS' (zone IK = -9 1/2 from 1830 30 Jun, narrative p24)",yes,,,,,
+air,Air 43,1944-07-05,0639,KL,22-02N,143-04E,rg367-74818866/p36,HELLCAT 5 mi; SD; submerged (zone KL = -10 1/2 from 1300 3 Jul),yes,,,,,
+air,Air 44,1944-07-05,0808,KL,22-02N,143-15E,rg367-74818866/p36,1 AVENGER and 7 HELLCATS 10 mi; SD; submerged,yes,,,,,
+air,Air 45,1944-07-05,0920,KL,22-02N,143-17E,rg367-74818866/p36,6 HELLCATS 10/7/5 mi; SD; probably same as Air 44,yes,,,,,

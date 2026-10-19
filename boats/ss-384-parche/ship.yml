@@ -1,0 +1,12 @@
+# USS PARCHE (SS-384). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: PARCHE
+hull: SS-384
+class: Balao
+kind: submarine
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 1, name: First War Patrol, dates: 30 Mar 1944 – 23 May 1944 }

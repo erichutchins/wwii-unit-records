@@ -1,0 +1,38 @@
+# USS BANG (SS-385). Hand-edited. check_track.py reads the speed limit; the map page
+# (site/patrols.html?ship=bang) reads the rest through ships.json, which check_track.py
+# writes from every ship.yml.
+name: BANG
+hull: SS-385
+class: Balao
+kind: submarine
+max_kts: 20.5          # Balao-class surfaced maximum, about 20.25 kn
+dives: true            # site/dives.html has this boat's dive profile
+
+map:
+  catalogId: 74802746
+  intro: "Every position BANG reported in her six WWII war patrol reports, transcribed from the "
+  listTitle: Six war patrols
+  span: 29 Mar 1944 – 18 May 1945
+  periods:
+    - { n: 1, name: First War Patrol,  dates: 29 Mar – 14 May 1944, area: Luzon Strait, co: Lt. Cdr. A. R. Gallaher }
+    - { n: 2, name: Second War Patrol, dates: 6 Jun – 2 Aug 1944,   area: Marianas lifeguard · Luzon Strait, co: Lt. Cdr. A. R. Gallaher }
+    - { n: 3, name: Third War Patrol,  dates: 27 Aug – 29 Sep 1944, area: Bonins · east of Formosa, co: Lt. Cdr. A. R. Gallaher }
+    - { n: 4, name: Fourth War Patrol, dates: 25 Oct – 5 Dec 1944,  area: East of Formosa, co: Lt. Cdr. A. R. Gallaher }
+    - { n: 5, name: Fifth War Patrol,  dates: 2 Jan – 24 Feb 1945,  area: East China & Yellow Seas, co: Cdr. A. R. Gallaher }
+    - { n: 6, name: Sixth War Patrol,  dates: 25 Mar – 18 May 1945, area: Luzon Strait · Formosa lifeguard, co: Lt. Cdr. O. W. Bagby }
+  ports:
+    - { name: Pearl Harbor, lon: -157.97, lat: 21.35 }
+    - { name: Midway, lon: -177.37, lat: 28.21 }
+    - { name: Saipan, lon: 145.72, lat: 15.21 }
+    - { name: Guam, lon: 144.65, lat: 13.45 }
+  places:
+    - { name: FORMOSA, lon: 121.0, lat: 23.7 }
+    - { name: LUZON, lon: 121.1, lat: 16.6 }
+    - { name: CHINA, lon: 114.5, lat: 27.0 }
+    - { name: JAPAN, lon: 138.2, lat: 36.4 }
+    - { name: KOREA, lon: 127.8, lat: 36.4 }
+    - { name: OKINAWA, lon: 128.4, lat: 26.4 }
+    - { name: BONIN IS., lon: 142.2, lat: 27.6 }
+    - { name: SAKISHIMA, lon: 124.6, lat: 24.0 }
+    - { name: YELLOW SEA, lon: 123.0, lat: 35.6 }
+    - { name: SOUTH CHINA SEA, lon: 116.0, lat: 17.5 }

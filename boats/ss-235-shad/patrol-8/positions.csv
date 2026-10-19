@@ -1,0 +1,30 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+narrative,depart Midway,1944-10-25,1550,Y,28-12N,177-23W,rg367-74848165/p03,"Departed Midway for area via Saipan with REDFISH and BANG, coordinated attack group under Comdr. L. D. McGregor (REDFISH), ""SANDY's SLUGGERS"" (port position)",yes,,,,,
+narrative,arrive Saipan,1944-11-02,1244,L,15-14N,145-43E,rg367-74848165/p04,"Moored starboard side of FULTON outboard in nest with REDFISH and BANG (port position). Zone L assumed: the day's entries start 0622 (L) and the clocks were changed to -10 after mooring; pack agreed all times -10 (K) from then on",yes,,,,,
+narrative,depart Saipan,1944-11-03,0800,K,15-14N,145-43E,rg367-74848165/p05,Underway for Area 11C with BANG escorted by CHAMPION; REDFISH delayed and joined 1639 (port position),yes,,,,,
+air,Air 1,1944-11-06,0330,K,22-23N,132-58E,rg367-74848165/p25,Unknown 10000 yds; dove (narrative 0337),yes,,,,,
+air,Air 2,1944-11-07,0525,K,25-23N,128-02E,rg367-74848165/p25,Unknown 6000 yds; dove,yes,,,,,
+air,Air 3,1944-11-08,0615,K,24-06N,127-23E,rg367-74848165/p25,Unknown 6000 yds; radar; remained on surface (narrative 0613),yes,,,,,
+air,Air 4,1944-11-09,0920,K,23-38N,125-30E,rg367-74848165/p25,Betty 20000 yds (narrative 0925),yes,,,,,
+ship,Ship 1,1944-11-17,0250,K,24-10N,121-57E,rg367-74848165/p24,Hospital ship 20450 yds just west of YONAKUNI; course 350 speed 13,no,,,,,"ship-contact positions are the target, not SHAD"
+ship,Ship 2,1944-11-20,1220,K,24-58N,122-07E,rg367-74848165/p24,Convoy (five ships) 15000 yds off SANCHO KAKU; course 315 speed 11; could not close inside 8000 yds; watched it round BITO KAKU into KIIRUN,no,,,,,"ship-contact positions are the target, not SHAD"
+air,Air 5,1944-11-20,1325,K,25-00N,122-04E,rg367-74848165/p25,Betty 12000 yds patrolling; escort for Ship 2 (narrative 1300),yes,,,,,
+ship,Ship 3,1944-11-20,1450,K,25-02N,122-04E,rg367-74848165/p24,"Patrol vessel 5000 yds; course 090 speed 6 (narrative 1500: later confirmed as the vessel REDFISH sank by gunfire)",no,,,,,"ship-contact positions are the target, not SHAD"
+ship,Ship 4,1944-11-22,2142,K,24-10N,122-21E,rg367-74848165/p24,Convoy (TAKA-206) 18000 yds; course 110 speed 7; radar; Attack No. 1,no,,,,,"ship-contact positions are the target, not SHAD"
+attack,Attack 1,1944-11-22,2338,K,24-16N,122-28E,rg367-74848165/p26,"Torpedo attack No. 1: 3 bow tubes (Mk 14-3A, 23, 23) at CHIDORI-type TB, range 800, fired by mistake at the tubes while gyros were matched by hand after a hot run in No. 4; all missed. Dove 2340; ten close depth charges from 2343",yes,,,,,
+narrative,periscope,1944-11-24,1026,K,22-20N,126-33E,rg367-74848165/p11,Changed course to put lookout-reported periscope astern (typed 22° 20' N; 126° 33' E),yes,,,,,
+narrative,arrive Saipan,1944-11-27,1805,K,15-14N,145-43E,rg367-74848165/p12,Tied up alongside FULTON outboard of REDFISH (port position),yes,,,,,
+narrative,depart Saipan,1944-12-05,1100,K,15-14N,145-43E,rg367-74848165/p13,Underway for western 11A and 11B escorted by PC1126 (port position),yes,,,,,
+air,Air 6,1944-12-11,1407,K,30-48N,125-47E,rg367-74848165/p25,Betty 8000 yds (narrative 1420),yes,,,,,
+ship,Ship 5,1944-12-19,0247,K,27-15N,122-55E,rg367-74848165/p24,Hospital ship 17000 yds; course 220 speed 15,no,,,,,"ship-contact positions are the target, not SHAD"
+air,Air 7,1944-12-21,1355,K,27-48N,122-22E,rg367-74848165/p25,Pete 10000 yds,yes,,,,,
+air,Air 8,1944-12-22,0120,K,28-35N,122-20E,rg367-74848165/p25,Unknown 20000 yds; sighted running lights,yes,,,,,
+ship,Ship 6,1944-12-22,1017,K,29-29N,123-36E,rg367-74848165/p24,Two trawlers 6000 yds; course 180 speed 5,no,,,,,"ship-contact positions are the target, not SHAD"
+ship,Ship 7,1944-12-25,0938,K,31-58N,127-55E,rg367-74848165/p24,PC 5000 yds; course 160 speed 12; sonar,no,,,,,"ship-contact positions are the target, not SHAD"
+air,Air 9,1944-12-25,2013,K,31-45N,128-12E,rg367-74848165/p25,Unknown 6000 yds patrolling; radar; 2 bombs after diving,yes,,,,,
+air,Air 10,1944-12-26,0334,K,31-06N,128-57E,rg367-74848165/p25,Unknown 8000 yds,yes,,,,,
+air,Air 11,1944-12-26,0758,K,30-10N,130-13E,rg367-74848165/p25,Rufe 6000 yds,yes,,,,,
+air,Air 12,1944-12-26,1915,K,29-50N,130-30E,rg367-74848165/p25,Unknown 8000 yds,yes,,,,,
+ship,Ship 8,1944-12-27,1100,K,29-39N,134-35E,rg367-74848165/p24,Patrol yacht 15000 yds; stopped,no,,,,,"ship-contact positions are the target, not SHAD"
+air,Air 13,1944-12-28,1325,K,29-36N,140-54E,rg367-74848165/p25,Betty 10000 yds; dove (narrative 1327 near SOFU GAN),yes,,,,,
+narrative,moor Pearl,1945-01-05,101?,W,21-21N,157-58W,rg367-74848165/p23,"Tied up Submarine Base, Pearl Harbor (zone William, plus ten, from 4 Jan) (port position)",yes,,,,1013,"last digit of time faint (3 or 5)"

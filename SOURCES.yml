@@ -1,0 +1,252 @@
+# Every archive, series, book, site and dataset these records cite. Hand-edited.
+#
+# The rule for this repository: cite every source. Each transcribed row carries a citation in its
+# `page`, `ref`, `source` or `map` column, written in one of the short forms below (`cite`), and
+# tools/check_sources.py checks that every citation in every file resolves to an entry here.
+# National Archives items are cited by catalog ID and page; check_sources.py --fetch looks up each
+# item's title and series in the catalog and writes them to citations.json (generated).
+#
+# Fields: title, by (author or creator), held (archive or publisher), id (the source's own
+# identifier), url, rights, cite (how rows cite it), match (a regex for `cite`; groups fill `link`),
+# link (URL for one cited page), used_for, note. `kind: derived` marks a method rather than an
+# outside source (a position worked out from a grid reference); its rows explain themselves.
+
+# ── US records ─────────────────────────────────────────────────────────────────────────────────
+
+nara-catalog:
+  title: National Archives Catalog
+  held: U.S. National Archives and Records Administration (NARA)
+  url: https://catalog.archives.gov/
+  rights: Public domain (records of the U.S. government)
+  cite: rg<record group>-<catalog ID>/p<page>      # e.g. rg367-74802746/p05
+  match: '^rg(\d+)-(\d+)/p(\d+)$'
+  link: https://catalog.archives.gov/id/{2}?objectPage={3}
+  note: >-
+    The page is the catalog's object page (the scan's position in the item). The number after
+    "rg" is the record group the item was filed under when it was transcribed; the catalog's own
+    title and series for each item are in citations.json. The series are listed below.
+
+nara-war-patrol-reports:
+  title: U.S. Submarine War Patrol Reports, 1941–1945
+  by: Office of the Chief of Naval Operations
+  held: NARA, series 305243; microfilm publication M1752 (scans by Fold3)
+  id: NAID 305243
+  url: https://catalog.archives.gov/id/305243
+  rights: Public domain
+  used_for: boats/*/patrol-N/ (positions, depths, layers), engagements/*/notes.csv
+  series_of: nara-catalog
+
+nara-war-diaries:
+  title: World War II War Diaries, Other Operational Records and Histories
+  by: Office of the Chief of Naval Operations
+  held: NARA, Record Group 38
+  url: https://catalog.archives.gov/
+  rights: Public domain
+  used_for: ships/dd-700-haynsworth/ (USS Haynsworth's April 1945 war diary)
+  series_of: nara-catalog
+
+nara-morning-reports:
+  title: Morning Reports, 1912–1946 (Army companies, batteries and detachments)
+  by: Adjutant General's Office
+  held: NARA, Record Group 64, series 85713825 (online for January 1940 – December 1944)
+  id: NAID 85713825
+  url: https://catalog.archives.gov/id/85713825
+  rights: Public domain
+  used_for: army/stations.csv (source mr, regt, div)
+  series_of: nara-catalog
+
+ok45th:
+  title: 106th Anti-Aircraft Artillery Automatic Weapons Battalion, History and Historical Records of Organization, and journal, July 1944 – May 1945
+  held: 45th Infantry Division Museum collection, Metropolitan Library System of Oklahoma County (ContentDM collection ok45th)
+  url: https://cdm17494.contentdm.oclc.org/digital/collection/ok45th/
+  rights: "Credit: Courtesy of 45th Infantry Division Museum and the Metropolitan Library System of Oklahoma County."
+  cite: ok45th-<item ID>/p<page of the PDF>
+  match: '^ok45th-(\d+)/p(\d+)$'
+  link: https://cdm17494.contentdm.oclc.org/digital/collection/ok45th/id/{1}
+  used_for: army/stations.csv (source btry, bn), army/actions.csv
+
+aar3:
+  title: After Action Report, Third US Army, 1 August 1944 – 9 May 1945, Vol. II, Staff Section Reports
+  by: Headquarters, Third United States Army
+  held: Google Books, full view
+  id: Google Books ee9mAAAAMAAJ
+  url: https://books.google.com/books?id=ee9mAAAAMAAJ
+  rights: Public domain (U.S. government publication)
+  cite: aar3/p<page of the downloaded PDF>
+  match: '^aar3/p(\d+)$'
+  used_for: army/stations.csv (source aar, div)
+
+hist894:
+  title: 894th Anti-Aircraft Artillery Automatic Weapons Battalion, History and Combat Diary, 1940–1945
+  by: the battalion (mimeographed in Germany after V-E Day)
+  held: A 2012 retyped copy with the original roll call; not online
+  cite: hist894/p<page of the copy>
+  match: '^hist894/p(\d+)$'
+  used_for: army/stations.csv (source hist), the medical detachment's 1945 moves
+
+gi9ad:
+  title: "The 9th: The Story of the 9th Armored Division (G.I. Stories booklet, 1945)"
+  held: Lone Sentry
+  url: https://www.lonesentry.com/gi_stories_booklets/9tharmored/
+  rights: Public domain (U.S. Army publication)
+  cite: gi9ad
+  match: '^gi9ad$'
+  used_for: army/stations.csv (9th Armored Division positions)
+
+wiki9ad:
+  title: 9th Armored Division (United States)
+  held: Wikipedia
+  url: https://en.wikipedia.org/wiki/9th_Armored_Division_(United_States)
+  rights: CC BY-SA 4.0
+  cite: wiki9ad
+  match: '^wiki9ad$'
+  used_for: army/stations.csv (9th Armored Division positions); secondary
+
+frupac:
+  title: FRUPAC War Map Collection
+  by: Fleet Radio Unit Pacific (FRUPAC)
+  held: National Museum of the Pacific War, via the Portal to Texas History (University of North Texas Libraries)
+  url: https://texashistory.unt.edu/explore/collections/FRUPAC/
+  rights: CC BY-NC-ND. Linked and read in the zoom viewer, never copied.
+  cite: metapth<ark ID>
+  match: '^(metapth\d+)$'
+  link: https://texashistory.unt.edu/ark:/67531/{1}/
+  used_for: boats/ss-385-bang/patrol-N/frupac.csv
+
+# ── Japanese records ───────────────────────────────────────────────────────────────────────────
+
+jacar:
+  title: Japan Center for Asian Historical Records (JACAR)
+  by: National Archives of Japan; records of the National Institute for Defense Studies, Ministry of Defense
+  url: https://www.jacar.archives.go.jp/
+  rights: Free to view; cite the reference code
+  cite: jacar:<reference code>, with the page in the row's page column
+  match: '^jacar:(C\d{11})( p\d+)?$'
+  link: https://www.jacar.archives.go.jp/das/image/{1}
+  used_for: boats/*/patrol-N/japanese.csv, reference/jgrid/anchors.csv
+
+sosho:
+  title: 戦史叢書 (Senshi Sōsho, the official war history)
+  by: 防衛庁防衛研修所戦史室 (War History Office, National Defense College)
+  held: Asagumo Shimbunsha, 1966–1980
+  cite: sosho:<volume>, with the page in the row's page column (vol. 56 is 海軍捷号作戦 2)
+  match: '^sosho:(\d{3})$'
+  used_for: reference/jgrid/anchors.csv
+
+combinedfleet:
+  title: Imperial Japanese Navy Page (combinedfleet.com), Tabular Records of Movement
+  by: Bob Hackett, Sander Kingsepp and others
+  url: http://www.combinedfleet.com/
+  cite: combinedfleet:<page name>
+  match: '^combinedfleet:(\S+)$'
+  link: http://www.combinedfleet.com/{1}.htm
+  used_for: boats/ss-385-bang/patrol-N/japanese.csv; secondary, compiled from Japanese and US records
+
+# ── Recognition plates (silhouettes/silhouettes.yml) ───────────────────────────────────────────
+
+cincpac-105-45:
+  title: "CINCPAC-CINCPOA Bulletin 105-45, Japanese Operational Aircraft (TAIC silhouettes)"
+  by: Commander in Chief, U.S. Pacific Fleet and Pacific Ocean Areas
+  held: April 1945 edition, Naval History and Heritage Command online reading room; July 1945 revision on HyperWar
+  url: https://www.ibiblio.org/hyperwar/USN/ref/KYE/CINCPAC-105-45/
+  rights: Public domain (U.S. government publication)
+  used_for: silhouettes/silhouettes.yml (JUDY 33, July 1945 revision p. 23; ZEKE 52, April 1945 edition p. 1)
+
+fm-30-30:
+  title: FM 30-30 / BuAer 3, Recognition Pictorial Manual (April 1943)
+  by: War Department and Navy Department, Bureau of Aeronautics
+  held: Internet Archive
+  url: https://archive.org/details/Fm30-30
+  rights: Public domain (U.S. government publication)
+  used_for: silhouettes/silhouettes.yml (F4U CORSAIR plate, leaf n62)
+
+oni-54:
+  title: ONI 54-series recognition manuals (ONI 54-D destroyers, 54-CV carriers, 54-R battleships, 54-C cruisers), 1943–1944
+  by: Office of Naval Intelligence
+  rights: Public domain (U.S. government publication)
+  used_for: silhouettes/silhouettes.yml (each ship's heights and length, as its plate prints them)
+
+# ── Datasets ───────────────────────────────────────────────────────────────────────────────────
+
+etopo1:
+  title: ETOPO1 1 Arc-Minute Global Relief Model
+  by: NOAA National Centers for Environmental Information (Amante and Eakins, 2009)
+  held: NOAA CoastWatch ERDDAP
+  id: doi:10.7289/V5C8276M
+  url: https://www.ncei.noaa.gov/products/etopo-global-relief-model
+  rights: Public domain
+  files: boats/*/patrol-*/seafloor.csv
+
+era5:
+  title: ERA5 hourly reanalysis
+  by: ECMWF, Copernicus Climate Change Service (Hersbach et al., 2020)
+  held: via the Open-Meteo historical weather API
+  url: https://open-meteo.com/en/docs/historical-weather-api
+  rights: CC BY 4.0 (Copernicus licence; Open-Meteo data CC BY 4.0)
+  files: boats/*/patrol-*/weather.csv
+
+osm-nominatim:
+  title: OpenStreetMap, via the Nominatim geocoder
+  by: OpenStreetMap contributors
+  url: https://nominatim.openstreetmap.org/
+  rights: ODbL 1.0 (© OpenStreetMap contributors)
+  cite: OSM Nominatim
+  match: '^OSM Nominatim$'
+  used_for: army/places.csv (coordinates of the towns stations name)
+
+usgs-comcat:
+  title: ANSS Comprehensive Earthquake Catalog (ComCat)
+  by: U.S. Geological Survey
+  url: https://earthquake.usgs.gov/earthquakes/search/
+  rights: Public domain
+  used_for: boats/ss-385-bang/dives.yml (the 2 May 1945 earthquake search)
+
+isc-gem:
+  title: ISC-GEM Global Instrumental Earthquake Catalogue
+  by: International Seismological Centre
+  url: http://www.isc.ac.uk/iscgem/
+  used_for: boats/ss-385-bang/dives.yml
+
+isc-bulletin:
+  title: ISC Bulletin
+  by: International Seismological Centre
+  url: http://www.isc.ac.uk/iscbulletin/
+  used_for: boats/ss-385-bang/dives.yml
+
+taiwan-cwa:
+  title: Earthquake catalog of the Central Weather Administration, Taiwan
+  by: Central Weather Administration (Taiwan)
+  url: https://www.cwa.gov.tw/
+  used_for: boats/ss-385-bang/dives.yml
+
+natural-earth:
+  title: Natural Earth land and country boundaries (1:10m, 1:50m), via world-atlas
+  by: Natural Earth; world-atlas by Mike Bostock
+  url: https://www.naturalearthdata.com/
+  rights: Public domain
+  used_for: base maps on every page; battles/*.json coastlines
+
+# ── Derived, not an outside source ─────────────────────────────────────────────────────────────
+
+grid:
+  kind: derived
+  title: Position computed from the row's own grid reference (tools/grid_ref.py)
+  cite: grid
+  match: '^grid$'
+
+estimated-from-grid:
+  kind: derived
+  title: Position estimated from a nearby grid reference; the row's note says how
+  cite: estimated from grid
+  match: '^estimated from grid$'
+
+hand-placed:
+  kind: derived
+  title: Placed by hand on a modern map (a harbour, a camp); the row's note says where and why
+  cite: hand-placed
+  match: '^hand-placed$'
+
+url:
+  kind: url
+  title: A web page cited by its address (ship histories, catalog records)
+  match: '^https?://\S+$'

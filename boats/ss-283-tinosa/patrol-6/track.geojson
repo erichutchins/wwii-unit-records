@@ -1,0 +1,1135 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 6,
+    "start": "1944-03-30T01:30Z",
+    "end": "1944-05-15T01:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      167.0333,
+      27.3333
+     ],
+     [
+      160.65,
+      27.2167
+     ],
+     [
+      145.6167,
+      24.5833
+     ],
+     [
+      130.0,
+      22.1
+     ],
+     [
+      127.6333,
+      23.7167
+     ],
+     [
+      118.3167,
+      20.7
+     ],
+     [
+      119.1667,
+      18.8333
+     ],
+     [
+      119.2667,
+      18.45
+     ],
+     [
+      119.4333,
+      18.3
+     ],
+     [
+      119.4667,
+      18.3167
+     ],
+     [
+      119.8333,
+      18.8833
+     ],
+     [
+      119.8167,
+      19.0
+     ],
+     [
+      119.8,
+      19.0167
+     ],
+     [
+      117.5,
+      20.5
+     ],
+     [
+      117.7833,
+      20.0333
+     ],
+     [
+      118.2483,
+      20.9133
+     ],
+     [
+      118.105,
+      20.9567
+     ],
+     [
+      118.05,
+      21.0333
+     ],
+     [
+      118.1683,
+      21.0667
+     ],
+     [
+      118.1333,
+      20.9667
+     ],
+     [
+      165.1,
+      17.7
+     ],
+     [
+      166.7,
+      17.5167
+     ],
+     [
+      171.3667,
+      7.1
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Pearl",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-03-30T01:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-03-29 1600(VW)",
+    "page": "rg367-74856363/p03",
+    "note": "Departed Pearl with PARCHE and BANG (OTC Captain PETERSON in PARCHE) (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Midway",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-02T20:20Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-04-02 0820(Y)",
+    "page": "rg367-74856363/p03",
+    "note": "Moored to submarine pier MIDWAY (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Midway",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-04T00:10Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-04-03 1210(Y)",
+    "page": "rg367-74856363/p03",
+    "note": "Underway in company with PARCHE and BANG (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 1",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-06T18:55Z",
+    "lat_raw": "27-20N",
+    "lon_raw": "167-02E",
+    "local": "1944-04-07 0555(L)",
+    "page": "rg367-74856363/p25",
+    "note": "Unknown two-engine; sighted by lookout (narrative typed the time as 055)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     167.0333,
+     27.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "sub sighted",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-07T23:43Z",
+    "lat_raw": "27-13N",
+    "lon_raw": "160-39E",
+    "local": "1944-04-08 1043(L)",
+    "page": "rg367-74856363/p04",
+    "note": "Sighted unidentified submarine 8000 yds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     160.65,
+     27.2167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "spar markers",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-12T06:25Z",
+    "lat_raw": "24-35N",
+    "lon_raw": "145-37E",
+    "local": "1944-04-12 1625(K)",
+    "page": "rg367-74856363/p04",
+    "note": "Passed through line of 6 small spar markers",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.6167,
+     24.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 1",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-12T08:08Z",
+    "lat_raw": "24-17N",
+    "lon_raw": "144-51E",
+    "local": "1944-04-12 1808(K)",
+    "page": "rg367-74856363/p24",
+    "note": "Fishing sampan abandoned; gun runs after PARCHE's",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.85,
+     24.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "enter area",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-16T07:25Z",
+    "lat_raw": "22-06N",
+    "lon_raw": "130-00E",
+    "local": "1944-04-16 1625(I)",
+    "page": "rg367-74856363/p05",
+    "note": "Entered assigned area",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.0,
+     22.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "periscope",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-16T23:12Z",
+    "lat_raw": "23-43N",
+    "lon_raw": "127-38E",
+    "local": "1944-04-17 0812(I)",
+    "page": "rg367-74856363/p05",
+    "note": "Sighted periscope 2000 yds; assumed PARCHE",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6333,
+     23.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 2",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-20T10:22Z",
+    "lat_raw": "23-39N",
+    "lon_raw": "122-23E",
+    "local": "1944-04-20 1822(H)",
+    "page": "rg367-74856363/p06",
+    "note": "3 sampans or small patrol vessels 14000 yds",
+    "fix": "ship-contact positions are the target, not TINOSA; contact table types the time 0882(H), the narrative 1822"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3833,
+     23.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 3",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-20T13:15Z",
+    "lat_raw": "23-19N",
+    "lon_raw": "122-09E",
+    "local": "1944-04-20 2115(H)",
+    "page": "rg367-74856363/p06",
+    "note": "Fishing vessel or patrol craft; radar 9500 yds",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.15,
+     23.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 4",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-24T06:06Z",
+    "lat_raw": "21-39N",
+    "lon_raw": "120-10E",
+    "local": "1944-04-24 1406(H)",
+    "page": "rg367-74856363/p07",
+    "note": "Sampan 9000 yds",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.1667,
+     21.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 5",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-25T10:00Z",
+    "lat_raw": "21-47N",
+    "lon_raw": "118-58E",
+    "local": "1944-04-25 1800(H)",
+    "page": "rg367-74856363/p07",
+    "note": "Sampan 5 mi",
+    "fix": "ship-contact positions are the target, not TINOSA; contact table types 138-58E, the narrative 118-58E"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.9667,
+     21.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 6",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-27T05:35Z",
+    "lat_raw": "22-01N",
+    "lon_raw": "118-25E",
+    "local": "1944-04-27 1335(H)",
+    "page": "rg367-74856363/p08",
+    "note": "Sampan 4 mi (narrative types the longitude 118-25N)",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.4167,
+     22.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 7",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-28T04:00Z",
+    "lat_raw": "21-40N",
+    "lon_raw": "118-13E",
+    "local": "1944-04-28 1200(H)",
+    "page": "rg367-74856363/p08",
+    "note": "Sampan 5 mi",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.2167,
+     21.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "periscope",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-29T00:03Z",
+    "lat_raw": "20-42N",
+    "lon_raw": "118-19E",
+    "local": "1944-04-29 0803(H)",
+    "page": "rg367-74856363/p08",
+    "note": "Sighted periscope 6000 yds; believed PARCHE",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.3167,
+     20.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 8",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-29T23:30Z",
+    "lat_raw": "18-53N",
+    "lon_raw": "119-09E",
+    "local": "1944-04-30 0730(H)",
+    "page": "rg367-74856363/p09",
+    "note": "Convoy of 11 ships (TAMA-17) on base course 180; smoke first sighted 0512",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.15,
+     18.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 2",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-30T00:28Z",
+    "lat_raw": "18-50N",
+    "lon_raw": "119-10E",
+    "local": "1944-04-30 0828(H)",
+    "page": "rg367-74856363/p25",
+    "note": "Two-engine flying boat circling convoy",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.1667,
+     18.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Attack 1 fired",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-30T01:19Z",
+    "lat_raw": "18-28N",
+    "lon_raw": "119-15E",
+    "local": "1944-04-30 0919(H)",
+    "page": "rg367-74856363/p10",
+    "note": "Fired six bow tubes, 10-degree spread at five overlapping ships; position is where the narrative says a ship sank (logged 1046)",
+    "fix": "position of the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.25,
+     18.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-30T01:37Z",
+    "lat_raw": "18-15.5N",
+    "lon_raw": "120-18.4E",
+    "local": "1944-04-30 0137(Z)",
+    "page": "rg367-74856363/p26",
+    "note": "Summary of attacks: 6 fired; claims 1 AK sunk; 1 AK and 1 AO damaged",
+    "fix": "longitude 63 nm east of the narrative (ship sank at 119-15E) and of BANG's and PARCHE's positions for the same convoy; error not identified. The narrative fires at 0919 H (0119 GCT), 18 min before this table's 0137"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.3067,
+     18.2583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "sub sighted",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-30T04:54Z",
+    "lat_raw": "18-27N",
+    "lon_raw": "119-16E",
+    "local": "1944-04-30 1254(H)",
+    "page": "rg367-74856363/p11",
+    "note": "Sighted submarine on surface 4000 yds (PARCHE or BANG)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.2667,
+     18.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 3",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-30T06:16Z",
+    "lat_raw": "18-18N",
+    "lon_raw": "119-26E",
+    "local": "1944-04-30 1416(H)",
+    "page": "rg367-74856363/p25",
+    "note": "Two-engine flying boat",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.4333,
+     18.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "sub sighted",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-04-30T06:58Z",
+    "lat_raw": "18-19N",
+    "lon_raw": "119-28E",
+    "local": "1944-04-30 1458(H)",
+    "page": "rg367-74856363/p12",
+    "note": "Sighted submarine 4 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.4667,
+     18.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 9",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-04-30T22:30Z",
+    "lat_raw": "18-29N",
+    "lon_raw": "119-49E",
+    "local": "1944-05-01 0630(H)",
+    "page": "rg367-74856363/p24",
+    "note": "Maru-type A/S vessel; possibly radar",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.8167,
+     18.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 4",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-01T02:16Z",
+    "lat_raw": "18-53N",
+    "lon_raw": "119-50E",
+    "local": "1944-05-01 1016(H)",
+    "page": "rg367-74856363/p25",
+    "note": "Two-engine bomber",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.8333,
+     18.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 5",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-01T03:16Z",
+    "lat_raw": "19-00N",
+    "lon_raw": "119-49E",
+    "local": "1944-05-01 1116(H)",
+    "page": "rg367-74856363/p25",
+    "note": "Two-engine bomber",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.8167,
+     19.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 10",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-05-01T04:27Z",
+    "lat_raw": "19-01N",
+    "lon_raw": "119-48E",
+    "local": "1944-05-01 1227(H)",
+    "page": "rg367-74856363/p24",
+    "note": "Sampan; avoided",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.8,
+     19.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 6",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-01T04:29Z",
+    "lat_raw": "19-01N",
+    "lon_raw": "119-48E",
+    "local": "1944-05-01 1229(H)",
+    "page": "rg367-74856363/p25",
+    "note": "Two-engine bomber",
+    "fix": "table types 118-48E; the narrative (p13) gives 119-48E, which fits Air 5 and Ship 10 minutes earlier"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.8,
+     19.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "rendezvous",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-02T15:10Z",
+    "lat_raw": "20-30N",
+    "lon_raw": "117-30E",
+    "local": "1944-05-02 2310(H)",
+    "page": "rg367-74856363/p13",
+    "note": "Rendezvous with PARCHE and BANG",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.5,
+     20.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 11",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-05-02T21:52Z",
+    "lat_raw": "19-45N",
+    "lon_raw": "116-25E",
+    "local": "1944-05-03 0552(H)",
+    "page": "rg367-74856363/p13",
+    "note": "Masts of seven or more large ships (TE-04); contact table: 1 AO, 1 AP, 6 AK, 1 DD, 3 A/S",
+    "fix": "ship-contact positions are the target, not TINOSA; contact table date typed 5-2, pencilled 3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.4167,
+     19.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 7",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-03T05:35Z",
+    "lat_raw": "20-02N",
+    "lon_raw": "117-47E",
+    "local": "1944-05-03 1335(H)",
+    "page": "rg367-74856363/p14",
+    "note": "Four-engine flying boat",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.7833,
+     20.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-05-03T08:35Z",
+    "lat_raw": "20-27N",
+    "lon_raw": "118-55.5E",
+    "local": "1944-05-03 0835(Z)",
+    "page": "rg367-74856363/p26",
+    "note": "Summary of attacks: 6 fired; claims 1 AO sunk; 1 AK probably sunk",
+    "fix": "time and position both contradict the narrative, which fires at 23-09-16 H (1509 GCT) and has the tanker sink at 20-51N 118-02E; error not identified"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.925,
+     20.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Attack 2 fired",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-05-03T15:09Z",
+    "lat_raw": "20-51N",
+    "lon_raw": "118-02E",
+    "local": "1944-05-03 2309(H)",
+    "page": "rg367-74856363/p15",
+    "note": "Fired 3 at tanker (hits 23-10-23), 3 at AK astern; tanker sank; position is where the tanker sank",
+    "fix": "position of the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.0333,
+     20.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 3",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-03T18:49Z",
+    "lat_raw": "20-54.8N",
+    "lon_raw": "118-14.9E",
+    "local": "1944-05-03 1849(Z)",
+    "page": "rg367-74856363/p26",
+    "note": "Summary of attacks: 4 stern tubes; claims 1 AK sunk",
+    "fix": "the narrative fires at 02-49-31 H on 4 May = 1849 GCT 3 May; the table's 1952 is an hour later. Position agrees with the narrative's sinking position (20-55N 118-12E)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.2483,
+     20.9133
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Attack 3 fired",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-05-03T18:49Z",
+    "lat_raw": "20-55N",
+    "lon_raw": "118-12E",
+    "local": "1944-05-04 0249(H)",
+    "page": "rg367-74856363/p17",
+    "note": "Fired 4 stern tubes; three hits, target \"merely disintegrated\"; position is where she sank",
+    "fix": "position of the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.2,
+     20.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 4",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-03T20:08Z",
+    "lat_raw": "20-57.4N",
+    "lon_raw": "118-06.3E",
+    "local": "1944-05-03 2008(Z)",
+    "page": "rg367-74856363/p26",
+    "note": "Summary of attacks: 4 fired; results unknown; 2 explosions",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.105,
+     20.9567
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "explosions",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-03T20:14Z",
+    "lat_raw": "21-02N",
+    "lon_raw": "118-03E",
+    "local": "1944-05-04 0414(H)",
+    "page": "rg367-74856363/p18",
+    "note": "Two explosions like torpedo hits beyond the target",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.05,
+     21.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 5",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-04T00:48Z",
+    "lat_raw": "21-04N",
+    "lon_raw": "118-10.1E",
+    "local": "1944-05-04 0048(Z)",
+    "page": "rg367-74856363/p26",
+    "note": "Summary of attacks: 4 stern tubes at damaged AK; results unknown",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.1683,
+     21.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Attack 5 fired",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-04T00:50Z",
+    "lat_raw": "20-58N",
+    "lon_raw": "118-08E",
+    "local": "1944-05-04 0850(H)",
+    "page": "rg367-74856363/p19",
+    "note": "Started firing 4 stern tubes on 95 port track",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.1333,
+     20.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 12",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-05-08T22:10Z",
+    "lat_raw": "22-34N",
+    "lon_raw": "145-31E",
+    "local": "1944-05-09 0810(K)",
+    "page": "rg367-74856363/p20",
+    "note": "Small trawler; avoided",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.5167,
+     22.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 13",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1944-05-09T01:32Z",
+    "lat_raw": "22-20N",
+    "lon_raw": "146-30E",
+    "local": "1944-05-09 1132(K)",
+    "page": "rg367-74856363/p20",
+    "note": "Larger trawler 10000 yds; sunk by gunfire (sank 22-20N 146-40E)",
+    "fix": "ship-contact positions are the target, not TINOSA"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.5,
+     22.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 8",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-12T04:03Z",
+    "lat_raw": "17-42N",
+    "lon_raw": "165-06E",
+    "local": "1944-05-12 1503(L)",
+    "page": "rg367-74856363/p25",
+    "note": "3 Liberators",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     165.1,
+     17.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 9",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-12T07:15Z",
+    "lat_raw": "17-31N",
+    "lon_raw": "166-42E",
+    "local": "1944-05-12 1815(L)",
+    "page": "rg367-74856363/p25",
+    "note": "1 Liberator",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     166.7,
+     17.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Majuro",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1944-05-15T01:00Z",
+    "lat_raw": "07-06N",
+    "lon_raw": "171-22E",
+    "local": "1944-05-15 1200(L)",
+    "page": "rg367-74856363/p22",
+    "note": "Arrived MAJURO (port position; noon assumed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     171.3667,
+     7.1
+    ]
+   }
+  }
+ ]
+}

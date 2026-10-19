@@ -1,0 +1,66 @@
+date,time,zone,event,depth_ft,charges,proximity,quote,page
+1944-04-16,0632,K,dive,,,,Submerged.,rg367-74802746/p03
+1944-04-16,1938,K,surface,,,,Surfaced.,rg367-74802746/p03
+1944-04-17,0643,K,dive,,,,Submerged.,rg367-74802746/p03
+1944-04-17,1950,K,surface,,,,Surfaced.,rg367-74802746/p03
+1944-04-18,0650,K,dive,,,,Submerged.,rg367-74802746/p03
+1944-04-18,2005,K,surface,,,,Surfaced.,rg367-74802746/p03
+1944-04-19,0700,K,routine,,,,19-23 April: Patroling submerged during daylight and on surface at night in accordance with instructions for coordinated patrol. (routine applies until 1944-04-23),rg367-74802746/p04
+1944-04-24,0655,K,dive,,,,Submerged.,rg367-74802746/p04
+1944-04-24,0802,K,depth,140,,,Sighted plane distance 3 miles (Plane contact No. 1.) Went to 140 ft.,rg367-74802746/p04
+1944-04-24,0825,K,periscope,,,,Back to periscope depth. Plane not in sight.,rg367-74802746/p04
+1944-04-24,2042,K,surface,,,,Surfaced.,rg367-74802746/p04
+1944-04-25,0700,K,routine,,,,25-27 April: Patroling submerged in daylight on surface at night. (routine applies until 1944-04-27),rg367-74802746/p04
+1944-04-28,0720,K,dive,,,,Submerged.,rg367-74802746/p04
+1944-04-28,1335,K,depth,100,,,Sighted plane distance 1½ miles. (Plane contact No. 2.) Went to 100 ft.,rg367-74802746/p04
+1944-04-28,1345,K,periscope,,,,Back to periscope depth. Plane not in sight.,rg367-74802746/p04
+1944-04-28,2047,K,surface,,,,Surfaced.,rg367-74802746/p04
+1944-04-29,0715,K,dive,,,,Submerged.,rg367-74802746/p04
+1944-04-29,1750,K,surface,,,,Having determined that target could not be closed submerged surfaced.,rg367-74802746/p05
+1944-04-29,2215,K,radar_depth,,,,Submerged to radar depth.,rg367-74802746/p05
+1944-04-29,2230,K,depth,60,,,Went to 60 ft.,rg367-74802746/p05
+1944-04-29,2300,K,charges,,,unknown,heard series of depth charges - searched around again and found a fleet type destroyer ... range 1500 yards.,rg367-74802746/p06
+1944-04-29,2303,K,depth,400,,,she swung hard toward me ... range 1200 yards I had to give up and ordered 400 ft.,rg367-74802746/p06
+1944-04-29,2305,K,passing,300,2,close,Two depth charges set shallow exploded directly over head as we passed 300 ft.,rg367-74802746/p07
+1944-04-29,2306,K,charges,,20,not close,About 20 more depth charges within the next 45 minutes. None very close.,rg367-74802746/p07
+1944-04-30,0020,K,depth,450,,,Having heard nothing for 30 minutes carefully reloaded three (3) torpedoes at 450 ft. then planed up to periscope depth.,rg367-74802746/p07
+1944-04-30,0021,K,periscope,,,,then planed up to periscope depth. Nothing in sight. Came up to radar depth. No pips. (time not stated),rg367-74802746/p07
+1944-04-30,0138,K,surface,,,,Surfaced and began chase.,rg367-74802746/p07
+1944-04-30,1013,K,dive,,,,Sighted plane to left of convoy. (Plane contact No. 3.) Submerged.,rg367-74802746/p09
+1944-04-30,1142,K,surface,,,,Surfaced and set course to intercept track to Lingayen flank speed.,rg367-74802746/p09
+1944-04-30,1215,K,dive,,,,Sighted plane coming in toward me. (Plane contact No. 4.) Submerged.,rg367-74802746/p09
+1944-04-30,1350,K,surface,,,,Surfaced and began trailing about 15 miles astern.,rg367-74802746/p09
+1944-04-30,1453,K,dive,,,,Submerged when plane headed toward me.,rg367-74802746/p09
+1944-04-30,1652,K,surface,,,,Smoke barely visible. Surfaced and began overtaking convoy.,rg367-74802746/p09
+1944-04-30,1830,K,dive,,,,Plane heading toward me submerged.,rg367-74802746/p09
+1944-04-30,2050,K,surface,,,,Surfaced. Smoke of convoy barely visible.,rg367-74802746/p09
+1944-04-30,2114,K,dive,,,,Leading destroyer fired two rounds from her forward gun. Submerged. Range 7800 yards.,rg367-74802746/p09
+1944-04-30,2117,K,depth,100,2,unknown,At 100 ft. trying to get plot from sound bearings when two depth charges exploded.,rg367-74802746/p09
+1944-04-30,2118,K,depth,400,20,not close,Went to 400 ft. About 20 more depth charges within the next three hours. ... None very close.,rg367-74802746/p09
+1944-05-01,0405,K,surface,,,,Surfaced. No contacts.,rg367-74802746/p10
+1944-05-01,0750,K,dive,,,,Submerged.,rg367-74802746/p10
+1944-05-01,2045,K,surface,,,,Surfaced.,rg367-74802746/p10
+1944-05-02,0733,K,dive,,,,Submerged.,rg367-74802746/p10
+1944-05-02,2042,K,surface,,,,Surfaced.,rg367-74802746/p10
+1944-05-03,0715,K,dive,,,,Submerged.,rg367-74802746/p10
+1944-05-03,1204,K,surface,,,,Received contact report from TINOSA. Surfaced and began chase.,rg367-74802746/p10
+1944-05-03,1328,K,dive,,,,Sighted plane. (Plane contact No. 9.) Submerged.,rg367-74802746/p10
+1944-05-03,1357,K,surface,,,,Plane not in sight. Surfaced.,rg367-74802746/p10
+1944-05-03,1425,K,dive,,,,Sighted plane. (Plane contact No. 10.) Submerged.,rg367-74802746/p10
+1944-05-03,1510,K,surface,,,,Plane not in sight. Surfaced.,rg367-74802746/p10
+1944-05-03,1952,K,dive,,,,Submerged when mast came in sight from bridge.,rg367-74802746/p10
+1944-05-03,2028,K,surface,,,,Ship not in sight. Surfaced and began trailing convoy.,rg367-74802746/p10
+1944-05-04,0630,K,dive,,,,Submerged.,rg367-74802746/p11
+1944-05-04,0915,K,charges,,31,distant,Heard series of 31 distant depth charges.,rg367-74802746/p11
+1944-05-04,2059,K,surface,,,,Surfaced.,rg367-74802746/p11
+1944-05-08,0955,K,dive,,,,Sighted Sally type plane distance 8 miles. (Plane contact No. 11) Submerged.,rg367-74802746/p12
+1944-05-08,1034,K,surface,,,,Surfaced.,rg367-74802746/p12
+1944-05-08,1423,K,dive,,,,Sighted Sally type plane distance 6 miles. (Plane contact No. 13). Submerged.,rg367-74802746/p12
+1944-05-08,1428,K,depth,150,2,400 yds,At 150 feet heard 2 depth charges estimated distance 400 yards. Evidently dropped by plane on second run.,rg367-74802746/p12
+1944-05-08,1500,K,periscope,,,,At periscope depth sighted plane about 5 miles coming toward us,rg367-74802746/p12
+1944-05-08,1501,K,depth,150,,,back to 150 ft. (Plane contact No. 14).,rg367-74802746/p12
+1944-05-08,1540,K,periscope,,,,At periscope depth sighted plane about 4 miles,rg367-74802746/p12
+1944-05-08,1541,K,depth,150,,,back to 150 ft. (Plane contact No. 15).,rg367-74802746/p12
+1944-05-08,1710,K,periscope,,,,At periscope depth sighted two planes about 6 miles,rg367-74802746/p12
+1944-05-08,1711,K,depth,150,,,back to 150 ft. Decided to wait until two hours after sunset before surfacing. (Plane contact No. 16).,rg367-74802746/p12
+1944-05-08,2114,K,surface,,,,Surfaced.,rg367-74802746/p12

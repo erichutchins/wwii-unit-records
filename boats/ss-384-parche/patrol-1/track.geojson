@@ -1,0 +1,1389 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1944-03-30T01:30Z",
+    "end": "1944-05-23T22:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      141.6967,
+      23.6033
+     ],
+     [
+      141.5167,
+      23.2183
+     ],
+     [
+      120.55,
+      21.355
+     ],
+     [
+      120.55,
+      21.42
+     ],
+     [
+      120.5417,
+      21.4083
+     ],
+     [
+      120.55,
+      21.5233
+     ],
+     [
+      120.55,
+      21.6017
+     ],
+     [
+      120.55,
+      21.625
+     ],
+     [
+      120.55,
+      21.485
+     ],
+     [
+      119.6117,
+      21.715
+     ],
+     [
+      118.4517,
+      21.6417
+     ],
+     [
+      119.2833,
+      18.3667
+     ],
+     [
+      118.75,
+      18.34
+     ],
+     [
+      118.8667,
+      18.6633
+     ],
+     [
+      118.8467,
+      18.86
+     ],
+     [
+      118.6983,
+      20.5233
+     ],
+     [
+      116.93,
+      19.8517
+     ],
+     [
+      116.9483,
+      19.875
+     ],
+     [
+      118.05,
+      20.8
+     ],
+     [
+      118.0333,
+      20.8
+     ],
+     [
+      117.2583,
+      20.5333
+     ],
+     [
+      117.2683,
+      20.5317
+     ],
+     [
+      124.15,
+      24.2067
+     ],
+     [
+      124.1667,
+      24.21
+     ],
+     [
+      124.205,
+      24.2117
+     ],
+     [
+      124.2133,
+      24.2183
+     ],
+     [
+      124.2383,
+      24.2383
+     ],
+     [
+      151.0,
+      26.685
+     ],
+     [
+      -177.3833,
+      28.2
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Pearl",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-03-30T01:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-03-29 1600(VW)",
+    "page": "rg367-74828582/p03",
+    "note": "Departed PEARL in company with TINOSA and BANG (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Midway",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-02T20:22Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-04-02 0822(Y)",
+    "page": "rg367-74828582/p03",
+    "note": "Arrived MIDWAY. Topped off with fuel (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Midway",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-04T00:30Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-04-03 1230(Y)",
+    "page": "rg367-74828582/p03",
+    "note": "Departed MIDWAY (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 1",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-12T08:15Z",
+    "lat_raw": "24-19.3N",
+    "lon_raw": "144-55.7E",
+    "local": "1944-04-12 1815(K)",
+    "page": "rg367-74828582/p16",
+    "note": "Trawler 5 mi; derelict",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9283,
+     24.3217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 1",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-12T23:15Z",
+    "lat_raw": "23-47.8N",
+    "lon_raw": "144-55.7E",
+    "local": "1944-04-13 0915(K)",
+    "page": "rg367-74828582/p17",
+    "note": "Unknown 14&32 mi; radar; not sighted",
+    "fix": "longitude contradicts neighbours (Air 3 is 176 nm west 3 h later); same longitude as Ship 1 the day before, possibly copied; error not identified"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9283,
+     23.7967
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 2",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-12T23:30Z",
+    "lat_raw": "23-44.6N",
+    "lon_raw": "144-53.8E",
+    "local": "1944-04-13 0930(K)",
+    "page": "rg367-74828582/p17",
+    "note": "Unknown 26 mi; radar; not sighted",
+    "fix": "longitude contradicts neighbours (Air 3 is 176 nm west 3 h later); error not identified"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.8967,
+     23.7433
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-13T02:40Z",
+    "lat_raw": "23-36.2N",
+    "lon_raw": "141-41.8E",
+    "local": "1944-04-13 1240(K)",
+    "page": "rg367-74828582/p17",
+    "note": "Unknown 18 mi; radar; not sighted",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.6967,
+     23.6033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 4",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-13T16:50Z",
+    "lat_raw": "23-13.1N",
+    "lon_raw": "141-31.0E",
+    "local": "1944-04-14 0150(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Unknown 7 mi; radar; not sighted",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.5167,
+     23.2183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 2",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-22T03:17Z",
+    "lat_raw": "22-04.1N",
+    "lon_raw": "122-58.8E",
+    "local": "1944-04-22 1217(I)",
+    "page": "rg367-74828582/p16",
+    "note": "PC boat 8 mi",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.98,
+     22.0683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 5",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-23T22:01Z",
+    "lat_raw": "21-21.3N",
+    "lon_raw": "120-33.0E",
+    "local": "1944-04-24 0701(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 10 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.55,
+     21.355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 6",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-23T23:52Z",
+    "lat_raw": "21-25.2N",
+    "lon_raw": "120-33.0E",
+    "local": "1944-04-24 0852(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Sally 7 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.55,
+     21.42
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 7",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-24T00:32Z",
+    "lat_raw": "21-24.5N",
+    "lon_raw": "120-32.5E",
+    "local": "1944-04-24 0932(I)",
+    "page": "rg367-74828582/p17",
+    "note": "7 Sallys 7 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.5417,
+     21.4083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 8",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-24T02:55Z",
+    "lat_raw": "21-31.4N",
+    "lon_raw": "120-33.0E",
+    "local": "1944-04-24 1155(I)",
+    "page": "rg367-74828582/p17",
+    "note": "3 Petes 8 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.55,
+     21.5233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 9",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-24T05:10Z",
+    "lat_raw": "21-36.1N",
+    "lon_raw": "120-33.0E",
+    "local": "1944-04-24 1410(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 4 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.55,
+     21.6017
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 10",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-24T05:48Z",
+    "lat_raw": "21-37.5N",
+    "lon_raw": "120-33.0E",
+    "local": "1944-04-24 1448(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 5 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.55,
+     21.625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 11",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-24T09:30Z",
+    "lat_raw": "21-29.1N",
+    "lon_raw": "120-33.0E",
+    "local": "1944-04-24 1830(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 2 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.55,
+     21.485
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 12",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-25T22:25Z",
+    "lat_raw": "21-42.9N",
+    "lon_raw": "119-36.7E",
+    "local": "1944-04-26 0725(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Sally 8 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.6117,
+     21.715
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 13",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-28T05:52Z",
+    "lat_raw": "21-38.5N",
+    "lon_raw": "118-27.1E",
+    "local": "1944-04-28 1452(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 8 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.4517,
+     21.6417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 3",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-29T14:55Z",
+    "lat_raw": "19-26.5N",
+    "lon_raw": "118-22.3E",
+    "local": "1944-04-29 2355(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Unknown 19000 yds; 1 ship & escort (TAMA-17)",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.3717,
+     19.4417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 4",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-29T15:20Z",
+    "lat_raw": "19-20.5N",
+    "lon_raw": "118-22.0E",
+    "local": "1944-04-30 0020(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Escort 13000 yds; CHIDORI torpedo boat",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.3667,
+     19.3417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 5",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-29T17:30Z",
+    "lat_raw": "18-57.5N",
+    "lon_raw": "118-19.8E",
+    "local": "1944-04-30 0230(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Escort 13000 yds; unidentified",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.33,
+     18.9583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 6",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-29T18:30Z",
+    "lat_raw": "20-52.9N",
+    "lon_raw": "118-27.5E",
+    "local": "1944-04-30 0330(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Escort 12000 yds; patrol boat",
+    "fix": "ship-contact positions are the target, not PARCHE; latitude contradicts Ships 5 and 7 (115 nm north an hour later), probably 18-52.9N"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.4583,
+     20.8817
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 7",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-29T20:06Z",
+    "lat_raw": "18-48.8N",
+    "lon_raw": "119-01.2E",
+    "local": "1944-04-30 0506(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Convoy 23000 yds; 10 ships (TAMA-17)",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.02,
+     18.8133
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 14",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-30T00:19Z",
+    "lat_raw": "18-21.0N",
+    "lon_raw": "118-14.0E",
+    "local": "1944-04-30 0919(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 10 mi",
+    "fix": "Air 14-17 put PARCHE 60 nm west of her own Attack 1 sheet (and the density-layer reading) within the same hour; the attack-sheet position fits TAMA-17's track from BANG's attacks and Nittatsu Maru's sinking position. Error not identified (one degree of longitude?)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.2333,
+     18.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 15",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-30T00:36Z",
+    "lat_raw": "18-07.7N",
+    "lon_raw": "118-07.6E",
+    "local": "1944-04-30 0936(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Nell 7 mi",
+    "fix": "see Air 14"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.1267,
+     18.1283
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-30T01:10Z",
+    "lat_raw": "18-22N",
+    "lon_raw": "119-17E",
+    "local": "1944-04-30 1010(I)",
+    "page": "rg367-74828582/p18",
+    "note": "Torpedo attack No. 1 (TAMA-17; 4 Mk 18 fired submerged; no hits seen)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.2833,
+     18.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 16",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-30T03:18Z",
+    "lat_raw": "18-07.9N",
+    "lon_raw": "118-07.8E",
+    "local": "1944-04-30 1218(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Nell 2 mi",
+    "fix": "see Air 14"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.13,
+     18.1317
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 17",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-04-30T05:13Z",
+    "lat_raw": "18-07.2N",
+    "lon_raw": "118-13.5E",
+    "local": "1944-04-30 1413(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 5 mi",
+    "fix": "see Air 14"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.225,
+     18.12
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 18",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-04-30T22:49Z",
+    "lat_raw": "18-20.4N",
+    "lon_raw": "118-45.0E",
+    "local": "1944-05-01 0749(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Nell 10 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.75,
+     18.34
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 19",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-01T00:15Z",
+    "lat_raw": "18-39.8N",
+    "lon_raw": "118-52.0E",
+    "local": "1944-05-01 0915(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Nell 5 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.8667,
+     18.6633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 20",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-01T05:10Z",
+    "lat_raw": "18-51.6N",
+    "lon_raw": "118-50.8E",
+    "local": "1944-05-01 1410(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 7 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.8467,
+     18.86
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 21",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-02T02:00Z",
+    "lat_raw": "20-31.4N",
+    "lon_raw": "118-41.9E",
+    "local": "1944-05-02 1100(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 2 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.6983,
+     20.5233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 8",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-05-02T23:00Z",
+    "lat_raw": "19-38.2N",
+    "lon_raw": "123-31.8E",
+    "local": "1944-05-03 0800(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Convoy 15 mi; 6 ships (TE-04)",
+    "fix": "ship-contact positions are the target, not PARCHE; longitude contradicts Air 22 (116-55.8E an hour later), probably 117-31.8E"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.53,
+     19.6367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 22",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-03T00:23Z",
+    "lat_raw": "19-51.1N",
+    "lon_raw": "116-55.8E",
+    "local": "1944-05-03 0923(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Unknown 24 mi; 2 unidentified; radar",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.93,
+     19.8517
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 23",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-03T05:19Z",
+    "lat_raw": "19-52.5N",
+    "lon_raw": "116-56.9E",
+    "local": "1944-05-03 1419(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 8 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.9483,
+     19.875
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 9",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-05-03T09:40Z",
+    "lat_raw": "20-11.0N",
+    "lon_raw": "117-52.5E",
+    "local": "1944-05-03 1840(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Escort 10 mi; CHIDORI torpedo boat",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.875,
+     20.1833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 10",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-05-03T15:22Z",
+    "lat_raw": "20-51.0N",
+    "lon_raw": "118-03.0E",
+    "local": "1944-05-04 0022(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Escort 6600 yds",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.05,
+     20.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-03T16:06Z",
+    "lat_raw": "20-48N",
+    "lon_raw": "118-03E",
+    "local": "1944-05-04 0106(I)",
+    "page": "rg367-74828582/p20",
+    "note": "Torpedo attack No. 2 (TE-04; 4 + 2 fired; claims two AKs sunk)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.05,
+     20.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-03T16:27Z",
+    "lat_raw": "20-48N",
+    "lon_raw": "118-02E",
+    "local": "1944-05-04 0127(I)",
+    "page": "rg367-74828582/p22",
+    "note": "Torpedo attack No. 3 (TE-04; 4 fired; claims one AK or AP sunk)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.0333,
+     20.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 11",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-05-03T18:03Z",
+    "lat_raw": "20-53.1N",
+    "lon_raw": "117-50.2E",
+    "local": "1944-05-04 0303(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Escort 13000 yds",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.8367,
+     20.885
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 12",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-05-03T18:49Z",
+    "lat_raw": "20-48.2N",
+    "lon_raw": "117-48.3E",
+    "local": "1944-05-04 0349(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Escort 9600 yds",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.805,
+     20.8033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 13",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-05-03T19:45Z",
+    "lat_raw": "20-54.1N",
+    "lon_raw": "117-50.9E",
+    "local": "1944-05-04 0445(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Escort 12000 yds",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.8483,
+     20.9017
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 14",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-05-03T20:40Z",
+    "lat_raw": "21-06.5N",
+    "lon_raw": "117-51.0E",
+    "local": "1944-05-04 0540(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Escort 13000 yds",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.85,
+     21.1083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 24",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-05T00:44Z",
+    "lat_raw": "20-32.0N",
+    "lon_raw": "117-15.5E",
+    "local": "1944-05-05 0944(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Mavis 5 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.2583,
+     20.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 25",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-05T01:46Z",
+    "lat_raw": "20-31.9N",
+    "lon_raw": "117-16.1E",
+    "local": "1944-05-05 1046(I)",
+    "page": "rg367-74828582/p17",
+    "note": "Nell 3 mi",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.2683,
+     20.5317
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 15",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-05-05T12:13Z",
+    "lat_raw": "20-29.8N",
+    "lon_raw": "118-10.5E",
+    "local": "1944-05-05 2113(I)",
+    "page": "rg367-74828582/p16",
+    "note": "Patrol vessel 21000 yds; sub chaser",
+    "fix": "ship-contact positions are the target, not PARCHE; date typed 5/5 with a 6 over the 5; section (N) puts this A/S vessel on the night of 5 May"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.175,
+     20.4967
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 26",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-14T00:45Z",
+    "lat_raw": "24-12.4N",
+    "lon_raw": "124-09.0E",
+    "local": "1944-05-14 0945(I)",
+    "page": "rg367-74828582/p17",
+    "note": "PBY 15 mi (narrative: 2-engine patrol plane over ISHIGAKI JIMA)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.15,
+     24.2067
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 27",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-14T02:40Z",
+    "lat_raw": "24-12.6N",
+    "lon_raw": "124-10.0E",
+    "local": "1944-05-14 1140(I)",
+    "page": "rg367-74828582/p17",
+    "note": "3 fighters 4 mi; circling island",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.1667,
+     24.21
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 28",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-14T04:40Z",
+    "lat_raw": "24-12.7N",
+    "lon_raw": "124-12.3E",
+    "local": "1944-05-14 1340(I)",
+    "page": "rg367-74828582/p17",
+    "note": "5 fighters 6 mi; circling island",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.205,
+     24.2117
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 29",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-14T05:25Z",
+    "lat_raw": "24-13.1N",
+    "lon_raw": "124-12.8E",
+    "local": "1944-05-14 1425(I)",
+    "page": "rg367-74828582/p17",
+    "note": "2 bombers 7 mi; circling island",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2133,
+     24.2183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 30",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-14T06:15Z",
+    "lat_raw": "24-14.3N",
+    "lon_raw": "124-14.3E",
+    "local": "1944-05-14 1515(I)",
+    "page": "rg367-74828582/p17",
+    "note": "4 fighters 6 mi; circling island",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2383,
+     24.2383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 31",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-19T00:11Z",
+    "lat_raw": "26-41.1N",
+    "lon_raw": "151-00.0E",
+    "local": "1944-05-19 1011(K)",
+    "page": "rg367-74828582/p17",
+    "note": "Unknown 8 mi; radar; received one light bomb",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.0,
+     26.685
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 16",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-05-19T10:10Z",
+    "lat_raw": "26-55.4N",
+    "lon_raw": "153-55.6E",
+    "local": "1944-05-19 2010(K)",
+    "page": "rg367-74828582/p16",
+    "note": "Trawler 1000 yds; gun action",
+    "fix": "ship-contact positions are the target, not PARCHE"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.9267,
+     26.9233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Midway",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-05-23T22:00Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-05-23 1000(Y)",
+    "page": "rg367-74828582/p15",
+    "note": "Arrived MIDWAY for refit (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  }
+ ]
+}

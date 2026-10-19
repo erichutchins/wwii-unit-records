@@ -1,0 +1,362 @@
+[
+ {
+  "attack": "Attack 1",
+  "boat": "ss-385-bang",
+  "relation": "hit",
+  "note": "Takegawa Maru (1,930 GRT), TAMA-17; sank 2240 I (J04). BANG was then depth-charged by Harukaze",
+  "submarine": {
+   "utc": "1944-04-29T12:56Z",
+   "local": "1944-04-29 2256(K)",
+   "lat_raw": "19-26N",
+   "lon_raw": "118-45E",
+   "page": "rg367-74802746/p16"
+  },
+  "japanese": {
+   "id": "J03",
+   "ship": "Takegawa Maru",
+   "convoy": "TAMA-17",
+   "event": "torpedoed",
+   "utc": "1944-04-29T13:01Z",
+   "local": "1944-04-29 2201(I)",
+   "lat_raw": "19-20N",
+   "lon_raw": "118-50E",
+   "original": "二九日二二時〇一分北緯一九度二〇分東経一一八度五〇分ニ於テ第十番船竹川丸敵潜水艦ノ魚雷攻撃ヲ受ケ",
+   "translation": "At 2201 on the 29th, at N 19°20′ E 118°50′, No. 10 ship Takegawa Maru was torpedoed by an enemy submarine",
+   "source": "jacar:C08050103200",
+   "page": "p23",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08050103200"
+  },
+  "minutes_apart": 5,
+  "nm_apart": 7.6
+ },
+ {
+  "attack": "Attack 2",
+  "boat": "ss-385-bang",
+  "relation": "miss",
+  "note": "BANG fired 6, all logged as misses; Nittatsu Maru felt 5 torpedoes, 3 exploding near her bottom, no damage. Attacks 2 and 3 were 3 minutes apart",
+  "submarine": {
+   "utc": "1944-04-29T17:53Z",
+   "local": "1944-04-30 0353(K)",
+   "lat_raw": "19-22N",
+   "lon_raw": "119-00E",
+   "page": "rg367-74802746/p19"
+  },
+  "japanese": {
+   "id": "J07",
+   "ship": "Nittatsu Maru",
+   "convoy": "TAMA-17",
+   "event": "attacked_no_damage",
+   "utc": "1944-04-29T18:00Z",
+   "local": "1944-04-30 0300(I)",
+   "lat_raw": "",
+   "lon_raw": "",
+   "original": "三〇日〇三時〇〇分敵魚雷五本ヲ受ケ内三本ハ本船船底附近ニテ炸裂シタレドモ被害ナシ",
+   "translation": "At 0300 on the 30th, five enemy torpedoes; three exploded near the ship's bottom but did no damage",
+   "source": "jacar:C08050103200",
+   "page": "p25",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08050103200"
+  },
+  "minutes_apart": 7,
+  "nm_apart": null
+ },
+ {
+  "attack": "Attack 3",
+  "boat": "ss-385-bang",
+  "relation": "miss",
+  "note": "BANG fired 4, all logged as misses",
+  "submarine": {
+   "utc": "1944-04-29T17:56Z",
+   "local": "1944-04-30 0356(K)",
+   "lat_raw": "19-22N",
+   "lon_raw": "119-00E",
+   "page": "rg367-74802746/p21"
+  },
+  "japanese": {
+   "id": "J07",
+   "ship": "Nittatsu Maru",
+   "convoy": "TAMA-17",
+   "event": "attacked_no_damage",
+   "utc": "1944-04-29T18:00Z",
+   "local": "1944-04-30 0300(I)",
+   "lat_raw": "",
+   "lon_raw": "",
+   "original": "三〇日〇三時〇〇分敵魚雷五本ヲ受ケ内三本ハ本船船底附近ニテ炸裂シタレドモ被害ナシ",
+   "translation": "At 0300 on the 30th, five enemy torpedoes; three exploded near the ship's bottom but did no damage",
+   "source": "jacar:C08050103200",
+   "page": "p25",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08050103200"
+  },
+  "minutes_apart": 4,
+  "nm_apart": null
+ },
+ {
+  "attack": "Attack 4",
+  "boat": "ss-385-bang",
+  "relation": "hit",
+  "note": "Nittatsu Maru (2,859 GRT), TAMA-17; sank about 5 minutes after the hits. BANG had identified her as a 10,400-ton AP",
+  "submarine": {
+   "utc": "1944-04-29T19:18Z",
+   "local": "1944-04-30 0518(K)",
+   "lat_raw": "19-11N",
+   "lon_raw": "119-10E",
+   "page": "rg367-74802746/p23"
+  },
+  "japanese": {
+   "id": "J08",
+   "ship": "Nittatsu Maru",
+   "convoy": "TAMA-17",
+   "event": "torpedoed",
+   "utc": "1944-04-29T19:19Z",
+   "local": "1944-04-30 0419(I)",
+   "lat_raw": "19-06N",
+   "lon_raw": "119-10E",
+   "original": "仝〇四時一九分我右舷約二〇〇米附近ニ敵魚雷ヲ発見シ面舵ヲ命シタレドモ … 右舷第二番艙後方ニ命中、続イテ約十秒後船橋前方附近ニ命中シ船体ハ約二分後ニ直立シ其ノ後三分ニテ沈没セリ",
+   "translation": "At 0419 a torpedo sighted about 200 m to starboard; right rudder ordered, but it hit aft of No. 2 hold, starboard; about 10 s later a second hit near the front of the bridge. The hull stood vertical about 2 minutes later and sank 3 minutes after that",
+   "source": "jacar:C08050103200",
+   "page": "p25",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08050103200"
+  },
+  "minutes_apart": 1,
+  "nm_apart": 5.0
+ },
+ {
+  "attack": "Attack 5",
+  "boat": "ss-385-bang",
+  "relation": "possible",
+  "note": "JANAC credits BANG with Kinrei Maru, but the secondary source's 0106 I for her sinking is the minute PARCHE fired her Attack 2. BANG fired at 0232 I, after PARCHE and TINOSA had scattered the convoy (her own words); the losses timed about 0300 (J15) are the nearer match",
+  "submarine": {
+   "utc": "1944-05-03T17:32Z",
+   "local": "1944-05-04 0332(K)",
+   "lat_raw": "20-58N",
+   "lon_raw": "117-59E",
+   "page": "rg367-74802746/p25"
+  },
+  "japanese": {
+   "id": "J12",
+   "ship": "Kinrei Maru",
+   "convoy": "TE-04",
+   "event": "sank",
+   "utc": "1944-05-03T16:06Z",
+   "local": "1944-05-04 0106(I)",
+   "lat_raw": "20-50N",
+   "lon_raw": "117-55E",
+   "original": "",
+   "translation": "At 0106, BANG torpedoes and sinks Kinrei Maru at 20-50N, 117-55E",
+   "source": "combinedfleet:Daiyoku_t",
+   "page": "",
+   "url": "https://www.combinedfleet.com/Daiyoku_t.htm"
+  },
+  "minutes_apart": -86,
+  "nm_apart": 8.8
+ },
+ {
+  "attack": "Attack 5",
+  "boat": "ss-385-bang",
+  "relation": "possible",
+  "note": "BANG's Attack 5 (0232 I) is 28 minutes before the secondary source's \"about 0300\" for Shoryu and Daiyoku Marus, which it credits to PARCHE",
+  "submarine": {
+   "utc": "1944-05-03T17:32Z",
+   "local": "1944-05-04 0332(K)",
+   "lat_raw": "20-58N",
+   "lon_raw": "117-59E",
+   "page": "rg367-74802746/p25"
+  },
+  "japanese": {
+   "id": "J15",
+   "ship": "Shoryu Maru and Daiyoku Maru",
+   "convoy": "TE-04",
+   "event": "sank",
+   "utc": "1944-05-03T18:00Z",
+   "local": "1944-05-04 0300(I)",
+   "lat_raw": "20-50N",
+   "lon_raw": "117-55E",
+   "original": "",
+   "translation": "At about 0300, PARCHE torpedoes and sinks Shoryu and Daiyoku (Taiyoku) Marus at 20-50N, 117-55E",
+   "source": "combinedfleet:Daiyoku_t",
+   "page": "",
+   "url": "https://www.combinedfleet.com/Daiyoku_t.htm"
+  },
+  "minutes_apart": 28,
+  "nm_apart": 8.8
+ },
+ {
+  "attack": "ss-384-parche/1:Attack 1",
+  "boat": "ss-384-parche/1",
+  "relation": "no_loss",
+  "note": "PARCHE fired 4 at TAMA-17 on the morning of 30 April, no hits seen. The April loss list (J10) has no TAMA-17 loss after Nittatsu Maru",
+  "submarine": {
+   "utc": "1944-04-30T01:10Z",
+   "local": "1944-04-30 1010(I)",
+   "lat_raw": "18-22N",
+   "lon_raw": "119-17E",
+   "page": "rg367-74828582/p18"
+  },
+  "japanese": {
+   "id": "J10",
+   "ship": "",
+   "convoy": "TAMA-17",
+   "event": "loss_list",
+   "utc": null,
+   "local": "1944-04",
+   "lat_raw": "",
+   "lon_raw": "",
+   "original": "敵潜遭遇船団名 … タマ17(2) / 被害船舶名 潜 沈没 … 竹川丸(1930) 日達丸(2859)",
+   "translation": "Convoys that met enemy submarines … TAMA-17 (twice). Ships sunk by submarine … Takegawa Maru (1,930 GRT), Nittatsu Maru (2,859 GRT)",
+   "source": "jacar:C08030140600",
+   "page": "p30",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030140600"
+  },
+  "minutes_apart": null,
+  "nm_apart": null
+ },
+ {
+  "attack": "ss-283-tinosa/6:Attack 1 fired",
+  "boat": "ss-283-tinosa/6",
+  "relation": "no_loss",
+  "note": "TINOSA claimed one AK sunk and two ships damaged nine minutes after PARCHE's attack. Not in the April loss list; TAMA-17's other ships reached Manila 2 May",
+  "submarine": {
+   "utc": "1944-04-30T01:19Z",
+   "local": "1944-04-30 0919(H)",
+   "lat_raw": "18-28N",
+   "lon_raw": "119-15E",
+   "page": "rg367-74856363/p10"
+  },
+  "japanese": {
+   "id": "J10",
+   "ship": "",
+   "convoy": "TAMA-17",
+   "event": "loss_list",
+   "utc": null,
+   "local": "1944-04",
+   "lat_raw": "",
+   "lon_raw": "",
+   "original": "敵潜遭遇船団名 … タマ17(2) / 被害船舶名 潜 沈没 … 竹川丸(1930) 日達丸(2859)",
+   "translation": "Convoys that met enemy submarines … TAMA-17 (twice). Ships sunk by submarine … Takegawa Maru (1,930 GRT), Nittatsu Maru (2,859 GRT)",
+   "source": "jacar:C08030140600",
+   "page": "p30",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030140600"
+  },
+  "minutes_apart": null,
+  "nm_apart": null
+ },
+ {
+  "attack": "ss-283-tinosa/6:Attack 2 fired",
+  "boat": "ss-283-tinosa/6",
+  "relation": "hit",
+  "note": "TINOSA saw her first target, a tanker, hit under the bridge and the bow and sink. Toyohi Maru was an ore carrier; the secondary source's 0008 I is one minute before TINOSA's first hits",
+  "submarine": {
+   "utc": "1944-05-03T15:09Z",
+   "local": "1944-05-03 2309(H)",
+   "lat_raw": "20-51N",
+   "lon_raw": "118-02E",
+   "page": "rg367-74856363/p15"
+  },
+  "japanese": {
+   "id": "J13",
+   "ship": "Toyohi Maru",
+   "convoy": "TE-04",
+   "event": "sank",
+   "utc": "1944-05-03T15:08Z",
+   "local": "1944-05-04 0008(I)",
+   "lat_raw": "20-50N",
+   "lon_raw": "118-00E",
+   "original": "",
+   "translation": "At 0008, TINOSA torpedoes and sinks Toyohi Maru at 20-50N, 118-00E",
+   "source": "combinedfleet:Daiyoku_t",
+   "page": "",
+   "url": "https://www.combinedfleet.com/Daiyoku_t.htm"
+  },
+  "minutes_apart": -1,
+  "nm_apart": 2.1
+ },
+ {
+  "attack": "ss-384-parche/1:Attack 2",
+  "boat": "ss-384-parche/1",
+  "relation": "possible",
+  "note": "PARCHE fired 4 + 2 at 0106 I and claimed two AKs sunk. The secondary source's 0106 I (Kinrei Maru, credited to BANG) and 0113 I (Daibu Maru, credited to TINOSA) fall at and just after this attack",
+  "submarine": {
+   "utc": "1944-05-03T16:06Z",
+   "local": "1944-05-04 0106(I)",
+   "lat_raw": "20-48N",
+   "lon_raw": "118-03E",
+   "page": "rg367-74828582/p20"
+  },
+  "japanese": {
+   "id": "J12",
+   "ship": "Kinrei Maru",
+   "convoy": "TE-04",
+   "event": "sank",
+   "utc": "1944-05-03T16:06Z",
+   "local": "1944-05-04 0106(I)",
+   "lat_raw": "20-50N",
+   "lon_raw": "117-55E",
+   "original": "",
+   "translation": "At 0106, BANG torpedoes and sinks Kinrei Maru at 20-50N, 117-55E",
+   "source": "combinedfleet:Daiyoku_t",
+   "page": "",
+   "url": "https://www.combinedfleet.com/Daiyoku_t.htm"
+  },
+  "minutes_apart": 0,
+  "nm_apart": 7.7
+ },
+ {
+  "attack": "ss-384-parche/1:Attack 2",
+  "boat": "ss-384-parche/1",
+  "relation": "possible",
+  "note": "see the Attack 2 / J12 note",
+  "submarine": {
+   "utc": "1944-05-03T16:06Z",
+   "local": "1944-05-04 0106(I)",
+   "lat_raw": "20-48N",
+   "lon_raw": "118-03E",
+   "page": "rg367-74828582/p20"
+  },
+  "japanese": {
+   "id": "J14",
+   "ship": "Daibu Maru",
+   "convoy": "TE-04",
+   "event": "sank",
+   "utc": "1944-05-03T16:13Z",
+   "local": "1944-05-04 0113(I)",
+   "lat_raw": "20-50N",
+   "lon_raw": "117-55E",
+   "original": "",
+   "translation": "At 0113, TINOSA torpedoes and sinks Daibu Maru at 20-50N, 117-55E",
+   "source": "combinedfleet:Daiyoku_t",
+   "page": "",
+   "url": "https://www.combinedfleet.com/Daiyoku_t.htm"
+  },
+  "minutes_apart": 7,
+  "nm_apart": 7.7
+ },
+ {
+  "attack": "ss-283-tinosa/6:Attack 3 fired",
+  "boat": "ss-283-tinosa/6",
+  "relation": "possible",
+  "note": "TINOSA's Attack 3 (0349 I, three hits, target \"disintegrated\") is 49 minutes after the secondary source's \"about 0300\"",
+  "submarine": {
+   "utc": "1944-05-03T18:49Z",
+   "local": "1944-05-04 0249(H)",
+   "lat_raw": "20-55N",
+   "lon_raw": "118-12E",
+   "page": "rg367-74856363/p17"
+  },
+  "japanese": {
+   "id": "J15",
+   "ship": "Shoryu Maru and Daiyoku Maru",
+   "convoy": "TE-04",
+   "event": "sank",
+   "utc": "1944-05-03T18:00Z",
+   "local": "1944-05-04 0300(I)",
+   "lat_raw": "20-50N",
+   "lon_raw": "117-55E",
+   "original": "",
+   "translation": "At about 0300, PARCHE torpedoes and sinks Shoryu and Daiyoku (Taiyoku) Marus at 20-50N, 117-55E",
+   "source": "combinedfleet:Daiyoku_t",
+   "page": "",
+   "url": "https://www.combinedfleet.com/Daiyoku_t.htm"
+  },
+  "minutes_apart": -49,
+  "nm_apart": 16.7
+ }
+]

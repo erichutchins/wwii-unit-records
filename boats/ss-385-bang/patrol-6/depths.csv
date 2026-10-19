@@ -1,0 +1,112 @@
+date,time,zone,event,depth_ft,charges,proximity,quote,page
+1945-03-30,0615,I,dive,,,,Submerged on station.,rg367-74802934/p05
+1945-03-30,1940,I,surface,,,,Surfaced.,rg367-74802934/p05
+1945-03-31,0611,I,dive,,,,Submerged.,rg367-74802934/p05
+1945-03-31,1935,I,surface,,,,Surfaced.,rg367-74802934/p05
+1945-04-01,0613,I,dive,,,,Submerged.,rg367-74802934/p05
+1945-04-01,1943,I,surface,,,,Surfaced.,rg367-74802934/p05
+1945-04-02,0615,I,dive,,,,Submerged.,rg367-74802934/p06
+1945-04-02,1944,I,surface,,,,Surfaced.,rg367-74802934/p06
+1945-04-03,0615,I,dive,,,,Submerged. (time faded in scan; ~0615 by pattern),rg367-74802934/p06
+1945-04-03,1950,I,surface,,,,Surfaced.,rg367-74802934/p06
+1945-04-04,0610,I,dive,,,,Submerged.,rg367-74802934/p06
+1945-04-04,1947,I,surface,,,,Surfaced.,rg367-74802934/p06
+1945-04-05,0607,I,dive,,,,Submerged.,rg367-74802934/p06
+1945-04-05,1943,I,surface,,,,Surfaced.,rg367-74802934/p06
+1945-04-06,0617,I,dive,,,,Submerged.,rg367-74802934/p06
+1945-04-06,1942,I,surface,,,,Surfaced.,rg367-74802934/p06
+1945-04-07,0615,I,dive,,,,Submerged.,rg367-74802934/p07
+1945-04-07,1942,I,surface,,,,Surfaced.,rg367-74802934/p07
+1945-04-08,0610,I,dive,,,,Submerged.,rg367-74802934/p07
+1945-04-08,1935,I,surface,,,,Surfaced.,rg367-74802934/p07
+1945-04-09,0607,I,dive,,,,Submerged.,rg367-74802934/p07
+1945-04-09,1940,I,surface,,,,Surfaced.,rg367-74802934/p07
+1945-04-10,0610,I,dive,,,,Submerged in Bashi Channel.,rg367-74802934/p07
+1945-04-10,1933,I,surface,,,,Surfaced. Proceeding up east coast of Formosa. Wind and sea picking up from NNE to force 5.,rg367-74802934/p08
+1945-04-11,1408,I,dive,,,,Assumed strikes were called off. Submerged to re-stow gear and get some rest.,rg367-74802934/p08
+1945-04-11,1935,I,surface,,,,Surfaced. Wind and seas moderating.,rg367-74802934/p08
+1945-04-12,0613,I,dive,,,,Submerged. We were being plagued by several different types of Jap radar,rg367-74802934/p08
+1945-04-12,0900,I,surface,,,,Surfaced. Sea state 3; visibility poor to fair but improving.,rg367-74802934/p08
+1945-04-12,1600,I,dive,,,,Submerged.,rg367-74802934/p08
+1945-04-12,1935,I,surface,,,,Surfaced.,rg367-74802934/p08
+1945-04-13,0615,I,dive,,,,Submerged.,rg367-74802934/p08
+1945-04-13,0900,I,surface,,,,Surfaced. Sea fairly calm weather clear.,rg367-74802934/p08
+1945-04-13,1729,I,dive,,,,Submerged.,rg367-74802934/p09
+1945-04-13,1942,I,surface,,,,Surfaced.,rg367-74802934/p09
+1945-04-14,0612,I,dive,,,,Submerged.,rg367-74802934/p09
+1945-04-14,1300,I,surface,,,,Surfaced. Floating object appeared to be wreckage of a small boat.,rg367-74802934/p09
+1945-04-14,1325,I,dive,,,,Submerged.,rg367-74802934/p09
+1945-04-14,1922,I,surface,,,,Surfaced.,rg367-74802934/p09
+1945-04-15,0605,I,dive,,,,Submerged. Main induction failed to show closed at 30 feet so surfaced immediately.,rg367-74802934/p09
+1945-04-15,0607,I,surface,,,,(surfaced immediately after induction casualty),rg367-74802934/p09
+1945-04-15,0610,I,dive,,,,Submerged.,rg367-74802934/p09
+1945-04-15,1432,I,surface,,,,Surfaced.,rg367-74802934/p09
+1945-04-15,1440,I,dive,,,,Submerged.,rg367-74802934/p09
+1945-04-15,1923,I,surface,,,,Surfaced.,rg367-74802934/p09
+1945-04-16,0603,I,dive,,,,Submerged.,rg367-74802934/p10
+1945-04-16,1455,I,surface,,,,Surfaced.,rg367-74802934/p10
+1945-04-16,1535,I,dive,,,,Submerged.,rg367-74802934/p10
+1945-04-16,1927,I,surface,,,,Surfaced.,rg367-74802934/p10
+1945-04-17,0605,I,dive,,,,Submerged.,rg367-74802934/p10
+1945-04-17,0932,I,surface,,,,Surfaced. Wind and sea force 2 weather fairly clear.,rg367-74802934/p10
+1945-04-17,1309,I,dive,,,,Submerged.,rg367-74802934/p10
+1945-04-17,1552,I,surface,,,,Surfaced to guard air rescue schedule.,rg367-74802934/p10
+1945-04-17,1710,I,dive,,,,Submerged.,rg367-74802934/p10
+1945-04-17,1925,I,surface,,,,Surfaced.,rg367-74802934/p10
+1945-04-18,0610,I,dive,,,,Submerged.,rg367-74802934/p10
+1945-04-18,1514,I,surface,,,,Surfaced.,rg367-74802934/p10
+1945-04-18,1525,I,dive,,,,Submerged.,rg367-74802934/p11
+1945-04-18,1925,I,surface,,,,Surfaced.,rg367-74802934/p11
+1945-04-19,0607,I,dive,,,,Submerged.,rg367-74802934/p11
+1945-04-19,1239,I,surface,,,,Surfaced on lifeguard station.,rg367-74802934/p11
+1945-04-19,1715,I,dive,,,,Submerged.,rg367-74802934/p11
+1945-04-19,1925,I,surface,,,,Surfaced in rough seas.,rg367-74802934/p11
+1945-04-20,0603,I,dive,,,,Submerged. Seas too heavy to hold constant periscope depth.,rg367-74802934/p11
+1945-04-20,1203,I,surface,,,,Surfaced on lifeguard station. Sky completely overcast with strong wind and rough seas.,rg367-74802934/p11
+1945-04-20,1342,I,dive,,,,Submerged.,rg367-74802934/p11
+1945-04-20,1550,I,surface,,,,Surfaced to guard air rescue schedule.,rg367-74802934/p11
+1945-04-20,1637,I,dive,,,,Submerged.,rg367-74802934/p12
+1945-04-20,1927,I,surface,,,,Surfaced. Barometer high but seas still state 5 to 6 from NNE with heavy overcast.,rg367-74802934/p12
+1945-04-21,0602,I,dive,,,,Submerged.,rg367-74802934/p12
+1945-04-21,1348,I,surface,,,,Surfaced. Weather clear and seas moderating.,rg367-74802934/p12
+1945-04-22,1635,I,dive,,,,Completed search of probable southern sector. Dove and headed north,rg367-74802934/p13
+1945-04-22,1937,I,surface,,,,Surfaced.,rg367-74802934/p13
+1945-04-23,0607,I,dive,,,,Submerged on station.,rg367-74802934/p13
+1945-04-23,1930,I,surface,,,,Surfaced.,rg367-74802934/p13
+1945-04-23,2214,I,dive,,,,Dove for SJ contact at 4000 yds moving in fast nothing in sight.,rg367-74802934/p13
+1945-04-23,2243,I,surface,,,,Surfaced; all clear.,rg367-74802934/p13
+1945-04-24,0607,I,dive,,,,Submerged.,rg367-74802934/p14
+1945-04-24,1928,I,surface,,,,Surfaced.,rg367-74802934/p14
+1945-04-25,0557,I,dive,,,,Submerged.,rg367-74802934/p14
+1945-04-25,1923,I,surface,,,,Surfaced.,rg367-74802934/p14
+1945-04-26,0558,I,dive,,,,Submerged.,rg367-74802934/p14
+1945-04-26,1527,I,surface,,,,Surfaced.,rg367-74802934/p14
+1945-04-26,1535,I,dive,,,,Submerged.,rg367-74802934/p14
+1945-04-26,1932,I,surface,,,,Surfaced.,rg367-74802934/p14
+1945-04-27,0555,I,dive,,,,Submerged.,rg367-74802934/p14
+1945-04-27,1448,I,surface,,,,Surfaced.,rg367-74802934/p15
+1945-04-27,1507,I,dive,,,,Submerged.,rg367-74802934/p15
+1945-04-27,1925,I,surface,,,,Surfaced.,rg367-74802934/p15
+1945-04-28,0553,I,dive,,,,Submerged.,rg367-74802934/p15
+1945-04-28,1526,I,surface,,,,Surfaced.,rg367-74802934/p15
+1945-04-28,1553,I,dive,,,,Submerged.,rg367-74802934/p15
+1945-04-28,1745,I,depth,150,2,1.5 mi,As periscope was being swung in low power sweep QM saw plane on our port bow distance estimated 1½ miles in the act of letting a bomb go. Plane believed to be Val. Heard bomb through hull and a minute later another as we went to 150 feet.,rg367-74802934/p15
+1945-04-28,1807,I,periscope,,,,Returned to periscope depth. All clear.,rg367-74802934/p15
+1945-04-28,1817,I,depth,,,,Sighted six single engine planes distance three miles zero angle flying low. Went deep. These boys are really earnest. (depth not stated),rg367-74802934/p15
+1945-04-28,1919,I,periscope,,,,Returned to periscope depth. All clear.,rg367-74802934/p15
+1945-04-28,1947,I,surface,,,,Surfaced. In view of stepped up air activity in this vicinity during the past several days and the full moon decided to move southwestward toward the Formosa coast.,rg367-74802934/p16
+1945-04-29,0556,I,dive,,,,Submerged.,rg367-74802934/p16
+1945-04-29,1930,I,surface,,,,Surfaced. Using SD intermittently since it is just beginning to get dark and a heavy overcast prevails.,rg367-74802934/p16
+1945-04-29,1950,I,dive,,,,SD contact closed to 4 miles. Dove.,rg367-74802934/p16
+1945-04-29,2016,I,surface,,,,Surfaced. All clear.,rg367-74802934/p16
+1945-04-30,0552,I,dive,,,,Submerged.,rg367-74802934/p16
+1945-04-30,1950,I,surface,,,,Surfaced.,rg367-74802934/p16
+1945-05-01,0550,I,dive,,,,Submerged.,rg367-74802934/p16
+1945-05-01,1948,I,surface,,,,Surfaced. Low barometer with force two wind and seas from south. ... Frequent squalls and lighting. St. Elmo's fire on radio antennas,rg367-74802934/p16
+1945-05-02,0558,I,dive,,,,Submerged. Had to keep sea on the beam to maintain periscope depth.,rg367-74802934/p17
+1945-05-02,0800,I,quake,,,,Experienced deep rumbling and heavy throbbing sensation lasting about 20 seconds. ... I am certain that this was an earthquake.,rg367-74802934/p17
+1945-05-02,1951,I,surface,,,,Surfaced. Seas moderating.,rg367-74802934/p17
+1945-05-03,0553,I,dive,,,,Submerged.,rg367-74802934/p17
+1945-05-03,1948,I,surface,,,,Surfaced. Departing area.,rg367-74802934/p17
+1945-05-05,0740,I,dive,,,,Made trim dive.,rg367-74802934/p17
+1945-05-05,0756,I,surface,,,,Surfaced.,rg367-74802934/p17

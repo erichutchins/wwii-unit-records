@@ -1,0 +1,13 @@
+attack,ja_id,relation,note
+Attack 1,J03,hit,"Takegawa Maru (1,930 GRT), TAMA-17; sank 2240 I (J04). BANG was then depth-charged by Harukaze"
+Attack 2,J07,miss,"BANG fired 6, all logged as misses; Nittatsu Maru felt 5 torpedoes, 3 exploding near her bottom, no damage. Attacks 2 and 3 were 3 minutes apart"
+Attack 3,J07,miss,"BANG fired 4, all logged as misses"
+Attack 4,J08,hit,"Nittatsu Maru (2,859 GRT), TAMA-17; sank about 5 minutes after the hits. BANG had identified her as a 10,400-ton AP"
+Attack 5,J12,possible,"JANAC credits BANG with Kinrei Maru, but the secondary source's 0106 I for her sinking is the minute PARCHE fired her Attack 2. BANG fired at 0232 I, after PARCHE and TINOSA had scattered the convoy (her own words); the losses timed about 0300 (J15) are the nearer match"
+Attack 5,J15,possible,"BANG's Attack 5 (0232 I) is 28 minutes before the secondary source's ""about 0300"" for Shoryu and Daiyoku Marus, which it credits to PARCHE"
+ss-384-parche/1:Attack 1,J10,no_loss,"PARCHE fired 4 at TAMA-17 on the morning of 30 April, no hits seen. The April loss list (J10) has no TAMA-17 loss after Nittatsu Maru"
+ss-283-tinosa/6:Attack 1 fired,J10,no_loss,"TINOSA claimed one AK sunk and two ships damaged nine minutes after PARCHE's attack. Not in the April loss list; TAMA-17's other ships reached Manila 2 May"
+ss-283-tinosa/6:Attack 2 fired,J13,hit,"TINOSA saw her first target, a tanker, hit under the bridge and the bow and sink. Toyohi Maru was an ore carrier; the secondary source's 0008 I is one minute before TINOSA's first hits"
+ss-384-parche/1:Attack 2,J12,possible,"PARCHE fired 4 + 2 at 0106 I and claimed two AKs sunk. The secondary source's 0106 I (Kinrei Maru, credited to BANG) and 0113 I (Daibu Maru, credited to TINOSA) fall at and just after this attack"
+ss-384-parche/1:Attack 2,J14,possible,see the Attack 2 / J12 note
+ss-283-tinosa/6:Attack 3 fired,J15,possible,"TINOSA's Attack 3 (0349 I, three hits, target ""disintegrated"") is 49 minutes after the secondary source's ""about 0300"""

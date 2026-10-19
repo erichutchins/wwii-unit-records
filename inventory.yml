@@ -1,0 +1,93 @@
+# What exists, where, and how far along it is: every war patrol report, war diary and unit record
+# this dataset uses or plans to. Hand-edited (it started from what was on disk on 19 Oct 2026).
+#
+# status:  not-searched  not looked for yet
+#          missing       looked for, not found
+#          available     found, not transcribed
+#          transcribed   in this repository
+#          verified      checked against the scan by a second reader
+#          mapped        transcribed and drawn on the site's pages
+#          no-report     none exists (e.g. a boat lost on the patrol)
+# nara:    National Archives catalog IDs of the folders or rolls the rows cite (titles in citations.json)
+# files:   what has been transcribed for it
+# first_fix / last_fix: the transcribed track's first and last fix (not the report's departure and arrival).
+# Keys follow the hull numbers, as in other patrol datasets (SS-385 patrol 1 = SS-385-P01).
+
+boats:
+  SS-215:   # GROWLER, Gato class
+    folder: boats/ss-215-growler
+    patrols:
+      9: { status: mapped, nara: [74818866], first_fix: 1944-05-15, last_fix: 1944-07-17, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-235:   # SHAD, Gato class
+    folder: boats/ss-235-shad
+    patrols:
+      8: { status: mapped, nara: [74848165], first_fix: 1944-10-26, last_fix: 1945-01-05, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-267:   # POMPON, Gato class
+    folder: boats/ss-267-pompon
+    patrols:
+      7: { status: mapped, nara: [74834293], first_fix: 1945-01-05, last_fix: 1945-02-12, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-283:   # TINOSA, Gato class
+    folder: boats/ss-283-tinosa
+    patrols:
+      6: { status: mapped, nara: [74856363], first_fix: 1944-03-30, last_fix: 1944-05-15, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-304:   # SEAHORSE, Balao class
+    folder: boats/ss-304-seahorse
+    patrols:
+      5: { status: mapped, nara: [74845019], first_fix: 1944-06-03, last_fix: 1944-07-19, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-312:   # BURRFISH, Balao class
+    folder: boats/ss-312-burrfish
+    patrols:
+      6: { status: mapped, nara: [74809762], first_fix: 1945-03-25, last_fix: 1945-05-13, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-384:   # PARCHE, Balao class
+    folder: boats/ss-384-parche
+    patrols:
+      1: { status: mapped, nara: [74828582], first_fix: 1944-03-30, last_fix: 1944-05-23, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-385:   # BANG, Balao class
+    folder: boats/ss-385-bang
+    patrols:
+      1: { status: mapped, nara: [74802746], first_fix: 1944-03-30, last_fix: 1944-05-15, files: [positions, depths, layers, japanese, crossrefs, frupac], note: "full report: tables, narrative, attack sheets" }
+      2: { status: mapped, nara: [74802784], first_fix: 1944-06-07, last_fix: 1944-08-02, files: [positions, depths, layers, japanese, crossrefs, frupac], note: "full report: tables, narrative, attack sheets" }
+      3: { status: mapped, nara: [74802831], first_fix: 1944-08-27, last_fix: 1944-09-30, files: [positions, depths, layers, japanese, crossrefs, frupac], note: "full report: tables, narrative, attack sheets" }
+      4: { status: mapped, nara: [74802868], first_fix: 1944-10-26, last_fix: 1944-12-05, files: [positions, depths, layers, japanese, crossrefs, frupac], note: "full report: tables, narrative, attack sheets" }
+      5: { status: mapped, nara: [74802868], first_fix: 1945-01-02, last_fix: 1945-02-24, files: [positions, depths, layers, frupac], note: "full report: tables, narrative, attack sheets" }
+      6: { status: mapped, nara: [74802934], first_fix: 1945-03-25, last_fix: 1945-05-18, files: [positions, depths, layers, japanese], note: "full report: tables, narrative, attack sheets" }
+  SS-395:   # REDFISH, Balao class
+    folder: boats/ss-395-redfish
+    patrols:
+      2: { status: mapped, nara: [74837267, 74837338], first_fix: 1944-10-26, last_fix: 1945-01-02, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-403:   # ATULE, Balao class
+    folder: boats/ss-403-atule
+    patrols:
+      2: { status: mapped, nara: [74802211], first_fix: 1945-01-05, last_fix: 1945-03-07, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-411:   # SPADEFISH, Balao class
+    folder: boats/ss-411-spadefish
+    patrols:
+      3: { status: mapped, nara: [74850282], first_fix: 1945-01-05, last_fix: 1945-02-13, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  # BANG's other pack-mates (guides/FLEET.md), not started
+  SS-279: { name: SNOOK, note: "with BANG and BURRFISH, Patrol 6", patrols: { 9: { status: not-searched } } }
+  SS-398: { name: SEGUNDO, note: "passage home with BANG, May 1945", patrols: {} }
+  SS-259: { name: JACK, note: "passage home with BANG, May 1945", patrols: {} }
+
+ships:
+  DD-700:   # USS Haynsworth
+    folder: ships/dd-700-haynsworth
+    records:
+      1945-04: { status: mapped, nara: [633422068], files: [positions], note: "April 1945 war diary: Okinawa, the 6 April kamikaze hit, the voyage to Pearl Harbor" }
+
+units:   # Army units in army/: each one's station history
+  62ca-c:   # Battery C, 62nd Coast Artillery (AA) / 62nd AAA Gun Bn
+    record: { status: mapped, from: 1942-08-01, to: 1944-04-01, stations: 37, sources: [mr], nara: [427182819, 445153222, 468998085] }
+  106aaa-d:   # Battery D, 106th AAA AW Bn (SP)
+    record: { status: mapped, from: 1944-07-01, to: 1945-05-24, stations: 79, sources: [bn, btry, mr], nara: [481549976, 565868906, 569976582, 572189240, 576294507, 578451549] }
+  67ca-med:   # Medical Detachment, 67th Coast Artillery (AA) / 894th AAA AW Bn
+    record: { status: mapped, from: 1942-09-01, to: 1945-05-14, stations: 62, sources: [hist, mr, regt], nara: [427223420, 427231553, 427232554, 451691179, 454453373, 456842549, 459808359, 461580516, 466430104, 469125119, 474641175, 478085645, 481436282, 566195336, 570169606, 572491300, 576306103] }
+  113inf-med:   # Medical Detachment, 113th Infantry
+    record: { status: mapped, from: 1940-09-16, to: 1943-03-19, stations: 20, sources: [mr], nara: [435640145, 435641146] }
+  113inf-g:   # Company G, 113th Infantry
+    record: { status: mapped, from: 1943-04-01, to: 1944-04-17, stations: 5, sources: [mr], nara: [435637363, 451033587, 452272588, 465847372, 468278222] }
+  313inf-b:   # Company B, 313th Infantry (79th Infantry Division)
+    record: { status: mapped, from: 1944-06-26, to: 1944-07-11, stations: 9, sources: [mr], nara: [478558151, 480601116] }
+  128aaa-hq:   # HQ Battery, 128th AAA Gun Bn (Mbl)
+    record: { status: mapped, from: 1943-08-07, to: 1945-05-04, stations: 28, sources: [aar, mr], nara: [443985443, 457860026, 462936808, 465688481, 467912468, 469722323, 478312698, 566286515, 569679942] }
+  9ad:   # 9th Armored Division
+    record: { status: mapped, from: 1944-04-15, to: 1945-05-08, stations: 17, sources: [div], nara: [579493448] }

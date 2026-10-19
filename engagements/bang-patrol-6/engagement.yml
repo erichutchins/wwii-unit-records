@@ -1,0 +1,121 @@
+# Engagement for site/battle.html. Hand-edited; fields in guides/BATTLES.md. Built by tools/build_battle.py.
+title: BANG rescues Ensign Donald E. Corzine
+short: Patrol 6 · Lifeguard, April 1945
+eyebrow: Sakishima Gunto · BANG's sixth war patrol, lifeguard for the Okinawa campaign
+lede: >-
+  Hit by flak over Ishigaki airfield on the afternoon of 21 April 1945, a CHENANGO Hellcat pilot spent fourteen
+  hours in his raft before BANG, sent from her lifeguard station off Formosa, took him aboard. BANG's report, his
+  squadron's action report and the Miyako garrison's telegram of the same day, on one GMT clock.
+boats:
+- id: bang
+  name: BANG
+  hull: SS-385
+  co: Cdr A. R. Gallaher
+  patrol: ss-385-bang/6
+  patrol_no: 6
+japanese:
+- ss-385-bang/6
+others:
+- id: chenango
+  name: CHENANGO
+  type: fighter
+  events:
+  - date: '1945-04-21'
+    time: '1530'
+    zone: I
+    title: Four F6F-5s launched
+    text: >-
+      Four F6F-5s were launched from the U.S.S. CHENANGO at 1530 "I", 21 April 1945, as a combination strike and
+      Target Combat Air Patrol over Ishigaki Shima. Principal attention was given to the Ishigaki airfield.
+    page: NARA 140031168, ACA Report No. 50, image p248
+    scan: https://catalog.archives.gov/id/140031168?objectPage=248
+  - date: '1945-04-21'
+    time: '1737'
+    zone: I
+    type: ditched
+    title: Corzine ditches; hit by AA over Ishigaki airfield
+    text: >-
+      On one of the bombing runs on Ishigaki airfield, Ensign Donald Elmer CORZINE ... received several hits, probably
+      from medium A.A. ... He was able to maintain control over his plane and flew it about twenty-miles East of
+      the Island before being forced to make a water landing. The other three Hellcats circled him ... and ascertained
+      that he was in his life raft.
+    doubt: >-
+      The report gives no time or position for the landing. The time is BANG's "in the water fourteen hours" counted
+      back from 0737; the position is 20 miles east of Ishigaki airfield. Both estimated.
+    lat: 24.33
+    lon: 124.5
+    estimated: about 20 miles east of Ishigaki airfield (squadron report); estimated
+    page: NARA 140031168, ACA Report No. 50, image p248
+    scan: https://catalog.archives.gov/id/140031168?objectPage=248
+  - date: '1945-04-21'
+    time: '1900'
+    zone: I
+    title: The other three return
+    text: >-
+      Because of the late hour, it was impossible for the Dumbo plane to attempt a rescue that evening. Rescue was
+      effected the following morning by submarine. The other three pilots returned safely to base at 1900 "I".
+    page: NARA 140031168, ACA Report No. 50, image p248
+    scan: https://catalog.archives.gov/id/140031168?objectPage=248
+actions:
+- id: corzine
+  label: 21–22 April 1945
+  convoy: ''
+  target_label: Downed aviator
+  start: 1945-04-21T03:00Z
+  end: 1945-04-22T04:00Z
+  route: Ishigaki airfield strike, USS CHENANGO (Air Group 25).
+  ships:
+  - name: Ens. Donald E. Corzine
+    kind: F6F-5 Hellcat, USS CHENANGO; rescued by BANG
+    type: fighter
+  ships_note: ''
+  escorts: []
+  outcome: >-
+    Shot down by medium flak over Ishigaki airfield and ditched about 20 miles east of the island; the other three
+    Hellcats saw him in his raft. BANG, ordered from her station northeast of Formosa at 1415, reached the reported
+    position at 2330 and, guided in by carrier planes the next morning, took him aboard at 0737 after fourteen hours
+    in the water. "Replacement clothing was no problem except for his size thirteen shoes."
+places:
+- name: Ishigaki
+  lon: 124.17
+  lat: 24.47
+  small: true
+- name: Iriomote
+  lon: 123.82
+  lat: 24.42
+  small: true
+- name: Miyako
+  lon: 125.33
+  lat: 24.62
+  small: true
+- name: Yonaguni
+  lon: 123.0
+  lat: 24.38
+  small: true
+- name: Formosa
+  lon: 121.4
+  lat: 24.0
+  inset:
+  - 120.6
+  - 23.0
+notes:
+- head: Reading the map.
+  text: >-
+    BANG's track runs straight between her reported positions; her search southeast of Ishigaki on the night of
+    the 21st and the pickup itself have no position in her report, so the line doesn't show them. The dashed ring
+    is where the squadron's report puts Corzine's water landing, "about twenty miles East of the Island": an estimate,
+    not a fix. Her 2200 radar-log position (125°14′E as typed) contradicts her own narrative and is drawn dashed.
+- head: Clocks.
+  text: >-
+    BANG, CHENANGO's air group and the Miyako garrison all kept zone I (−9), Tokyo time, on 21–22 April 1945, so
+    their local times can be read side by side.
+- head: The Japanese side.
+  text: >-
+    No Japanese record of Corzine's loss has been found. The Miyako-jima Guard Unit's action summary for the 21st
+    (sent 2243) claims one plane shot down and two damaged over Miyako, with no time or place; it is shown for context
+    and is not his. Ishigaki's own report for the day is still missing.
+- head: Sources.
+  text: >-
+    BANG's sixth war patrol report, NARA microfilm M1752 (74802934), narrative pages 11–13 and the Section U radar-intercept
+    log. Air Group 25's aircraft action reports, Report No. 50 (NARA 140031168). The Navy's Nansei Shoto telegram
+    file via JACAR (C19010021200, National Institute for Defense Studies). Coastline: Natural Earth.

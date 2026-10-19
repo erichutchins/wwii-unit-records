@@ -1,0 +1,770 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 8,
+    "start": "1944-10-26T03:50Z",
+    "end": "1945-01-05T20:13Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      145.7167,
+      15.2333
+     ],
+     [
+      145.7167,
+      15.2333
+     ],
+     [
+      132.9667,
+      22.3833
+     ],
+     [
+      128.0333,
+      25.3833
+     ],
+     [
+      127.3833,
+      24.1
+     ],
+     [
+      125.5,
+      23.6333
+     ],
+     [
+      122.0667,
+      25.0
+     ],
+     [
+      122.4667,
+      24.2667
+     ],
+     [
+      126.55,
+      22.3333
+     ],
+     [
+      145.7167,
+      15.2333
+     ],
+     [
+      145.7167,
+      15.2333
+     ],
+     [
+      125.7833,
+      30.8
+     ],
+     [
+      122.3667,
+      27.8
+     ],
+     [
+      122.3333,
+      28.5833
+     ],
+     [
+      128.2,
+      31.75
+     ],
+     [
+      128.95,
+      31.1
+     ],
+     [
+      130.2167,
+      30.1667
+     ],
+     [
+      130.5,
+      29.8333
+     ],
+     [
+      140.9,
+      29.6
+     ],
+     [
+      -157.9667,
+      21.35
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Midway",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-10-26T03:50Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-10-25 1550(Y)",
+    "page": "rg367-74848165/p03",
+    "note": "Departed Midway for area via Saipan with REDFISH and BANG, coordinated attack group under Comdr. L. D. McGregor (REDFISH), \"SANDY's SLUGGERS\" (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Saipan",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-02T01:44Z",
+    "lat_raw": "15-14N",
+    "lon_raw": "145-43E",
+    "local": "1944-11-02 1244(L)",
+    "page": "rg367-74848165/p04",
+    "note": "Moored starboard side of FULTON outboard in nest with REDFISH and BANG (port position). Zone L assumed: the day's entries start 0622 (L) and the clocks were changed to -10 after mooring; pack agreed all times -10 (K) from then on",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7167,
+     15.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Saipan",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-02T22:00Z",
+    "lat_raw": "15-14N",
+    "lon_raw": "145-43E",
+    "local": "1944-11-03 0800(K)",
+    "page": "rg367-74848165/p05",
+    "note": "Underway for Area 11C with BANG escorted by CHAMPION; REDFISH delayed and joined 1639 (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7167,
+     15.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 1",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-05T17:30Z",
+    "lat_raw": "22-23N",
+    "lon_raw": "132-58E",
+    "local": "1944-11-06 0330(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Unknown 10000 yds; dove (narrative 0337)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.9667,
+     22.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 2",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-06T19:25Z",
+    "lat_raw": "25-23N",
+    "lon_raw": "128-02E",
+    "local": "1944-11-07 0525(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Unknown 6000 yds; dove",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.0333,
+     25.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 3",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-07T20:15Z",
+    "lat_raw": "24-06N",
+    "lon_raw": "127-23E",
+    "local": "1944-11-08 0615(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Unknown 6000 yds; radar; remained on surface (narrative 0613)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.3833,
+     24.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 4",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-08T23:20Z",
+    "lat_raw": "23-38N",
+    "lon_raw": "125-30E",
+    "local": "1944-11-09 0920(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Betty 20000 yds (narrative 0925)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.5,
+     23.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 1",
+    "patrol": 8,
+    "on_track": false,
+    "utc": "1944-11-16T16:50Z",
+    "lat_raw": "24-10N",
+    "lon_raw": "121-57E",
+    "local": "1944-11-17 0250(K)",
+    "page": "rg367-74848165/p24",
+    "note": "Hospital ship 20450 yds just west of YONAKUNI; course 350 speed 13",
+    "fix": "ship-contact positions are the target, not SHAD"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.95,
+     24.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 2",
+    "patrol": 8,
+    "on_track": false,
+    "utc": "1944-11-20T02:20Z",
+    "lat_raw": "24-58N",
+    "lon_raw": "122-07E",
+    "local": "1944-11-20 1220(K)",
+    "page": "rg367-74848165/p24",
+    "note": "Convoy (five ships) 15000 yds off SANCHO KAKU; course 315 speed 11; could not close inside 8000 yds; watched it round BITO KAKU into KIIRUN",
+    "fix": "ship-contact positions are the target, not SHAD"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.1167,
+     24.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 5",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-20T03:25Z",
+    "lat_raw": "25-00N",
+    "lon_raw": "122-04E",
+    "local": "1944-11-20 1325(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Betty 12000 yds patrolling; escort for Ship 2 (narrative 1300)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.0667,
+     25.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 3",
+    "patrol": 8,
+    "on_track": false,
+    "utc": "1944-11-20T04:50Z",
+    "lat_raw": "25-02N",
+    "lon_raw": "122-04E",
+    "local": "1944-11-20 1450(K)",
+    "page": "rg367-74848165/p24",
+    "note": "Patrol vessel 5000 yds; course 090 speed 6 (narrative 1500: later confirmed as the vessel REDFISH sank by gunfire)",
+    "fix": "ship-contact positions are the target, not SHAD"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.0667,
+     25.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 4",
+    "patrol": 8,
+    "on_track": false,
+    "utc": "1944-11-22T11:42Z",
+    "lat_raw": "24-10N",
+    "lon_raw": "122-21E",
+    "local": "1944-11-22 2142(K)",
+    "page": "rg367-74848165/p24",
+    "note": "Convoy (TAKA-206) 18000 yds; course 110 speed 7; radar; Attack No. 1",
+    "fix": "ship-contact positions are the target, not SHAD"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.35,
+     24.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-22T13:38Z",
+    "lat_raw": "24-16N",
+    "lon_raw": "122-28E",
+    "local": "1944-11-22 2338(K)",
+    "page": "rg367-74848165/p26",
+    "note": "Torpedo attack No. 1: 3 bow tubes (Mk 14-3A, 23, 23) at CHIDORI-type TB, range 800, fired by mistake at the tubes while gyros were matched by hand after a hot run in No. 4; all missed. Dove 2340; ten close depth charges from 2343",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.4667,
+     24.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "periscope",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-24T00:26Z",
+    "lat_raw": "22-20N",
+    "lon_raw": "126-33E",
+    "local": "1944-11-24 1026(K)",
+    "page": "rg367-74848165/p11",
+    "note": "Changed course to put lookout-reported periscope astern (typed 22\u00b0 20' N; 126\u00b0 33' E)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.55,
+     22.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Saipan",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-11-27T08:05Z",
+    "lat_raw": "15-14N",
+    "lon_raw": "145-43E",
+    "local": "1944-11-27 1805(K)",
+    "page": "rg367-74848165/p12",
+    "note": "Tied up alongside FULTON outboard of REDFISH (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7167,
+     15.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Saipan",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-12-05T01:00Z",
+    "lat_raw": "15-14N",
+    "lon_raw": "145-43E",
+    "local": "1944-12-05 1100(K)",
+    "page": "rg367-74848165/p13",
+    "note": "Underway for western 11A and 11B escorted by PC1126 (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7167,
+     15.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 6",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-12-11T04:07Z",
+    "lat_raw": "30-48N",
+    "lon_raw": "125-47E",
+    "local": "1944-12-11 1407(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Betty 8000 yds (narrative 1420)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.7833,
+     30.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 5",
+    "patrol": 8,
+    "on_track": false,
+    "utc": "1944-12-18T16:47Z",
+    "lat_raw": "27-15N",
+    "lon_raw": "122-55E",
+    "local": "1944-12-19 0247(K)",
+    "page": "rg367-74848165/p24",
+    "note": "Hospital ship 17000 yds; course 220 speed 15",
+    "fix": "ship-contact positions are the target, not SHAD"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.9167,
+     27.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 7",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-12-21T03:55Z",
+    "lat_raw": "27-48N",
+    "lon_raw": "122-22E",
+    "local": "1944-12-21 1355(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Pete 10000 yds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3667,
+     27.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 8",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-12-21T15:20Z",
+    "lat_raw": "28-35N",
+    "lon_raw": "122-20E",
+    "local": "1944-12-22 0120(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Unknown 20000 yds; sighted running lights",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3333,
+     28.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 6",
+    "patrol": 8,
+    "on_track": false,
+    "utc": "1944-12-22T00:17Z",
+    "lat_raw": "29-29N",
+    "lon_raw": "123-36E",
+    "local": "1944-12-22 1017(K)",
+    "page": "rg367-74848165/p24",
+    "note": "Two trawlers 6000 yds; course 180 speed 5",
+    "fix": "ship-contact positions are the target, not SHAD"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.6,
+     29.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 7",
+    "patrol": 8,
+    "on_track": false,
+    "utc": "1944-12-24T23:38Z",
+    "lat_raw": "31-58N",
+    "lon_raw": "127-55E",
+    "local": "1944-12-25 0938(K)",
+    "page": "rg367-74848165/p24",
+    "note": "PC 5000 yds; course 160 speed 12; sonar",
+    "fix": "ship-contact positions are the target, not SHAD"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.9167,
+     31.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 9",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-12-25T10:13Z",
+    "lat_raw": "31-45N",
+    "lon_raw": "128-12E",
+    "local": "1944-12-25 2013(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Unknown 6000 yds patrolling; radar; 2 bombs after diving",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.2,
+     31.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 10",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-12-25T17:34Z",
+    "lat_raw": "31-06N",
+    "lon_raw": "128-57E",
+    "local": "1944-12-26 0334(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Unknown 8000 yds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.95,
+     31.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 11",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-12-25T21:58Z",
+    "lat_raw": "30-10N",
+    "lon_raw": "130-13E",
+    "local": "1944-12-26 0758(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Rufe 6000 yds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.2167,
+     30.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 12",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-12-26T09:15Z",
+    "lat_raw": "29-50N",
+    "lon_raw": "130-30E",
+    "local": "1944-12-26 1915(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Unknown 8000 yds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.5,
+     29.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 8",
+    "patrol": 8,
+    "on_track": false,
+    "utc": "1944-12-27T01:00Z",
+    "lat_raw": "29-39N",
+    "lon_raw": "134-35E",
+    "local": "1944-12-27 1100(K)",
+    "page": "rg367-74848165/p24",
+    "note": "Patrol yacht 15000 yds; stopped",
+    "fix": "ship-contact positions are the target, not SHAD"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.5833,
+     29.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 13",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1944-12-28T03:25Z",
+    "lat_raw": "29-36N",
+    "lon_raw": "140-54E",
+    "local": "1944-12-28 1325(K)",
+    "page": "rg367-74848165/p25",
+    "note": "Betty 10000 yds; dove (narrative 1327 near SOFU GAN)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.9,
+     29.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Pearl",
+    "patrol": 8,
+    "on_track": true,
+    "utc": "1945-01-05T20:13Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-01-05 1013(W)",
+    "page": "rg367-74848165/p23",
+    "note": "Tied up Submarine Base, Pearl Harbor (zone William, plus ten, from 4 Jan) (port position)",
+    "fix": "last digit of time faint (3 or 5)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+# USS GROWLER (SS-215). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: GROWLER
+hull: SS-215
+class: Gato
+kind: submarine
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 9, name: Ninth War Patrol, dates: 15 May 1944 – 17 Jul 1944 }

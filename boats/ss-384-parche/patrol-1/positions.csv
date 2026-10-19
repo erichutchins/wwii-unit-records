@@ -1,0 +1,65 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+narrative,depart Pearl,1944-03-29,1600,VW,21-21N,157-58W,rg367-74828582/p03,Departed PEARL in company with TINOSA and BANG (port position),yes,,,,,
+narrative,arrive Midway,1944-04-02,0822,Y,28-12N,177-23W,rg367-74828582/p03,Arrived MIDWAY. Topped off with fuel (port position),yes,,,,,
+narrative,depart Midway,1944-04-03,1230,Y,28-12N,177-23W,rg367-74828582/p03,Departed MIDWAY (port position),yes,,,,,
+ship,Ship 1,1944-04-12,1815,K,24-19.3N,144-55.7E,rg367-74828582/p16,Trawler 5 mi; derelict,no,,,,,"ship-contact positions are the target, not PARCHE"
+air,Air 1,1944-04-13,0915,K,23-47.8N,144-55.7E,rg367-74828582/p17,Unknown 14&32 mi; radar; not sighted,no,,,,,"longitude contradicts neighbours (Air 3 is 176 nm west 3 h later); same longitude as Ship 1 the day before, possibly copied; error not identified"
+air,Air 2,1944-04-13,0930,K,23-44.6N,144-53.8E,rg367-74828582/p17,Unknown 26 mi; radar; not sighted,no,,,,,"longitude contradicts neighbours (Air 3 is 176 nm west 3 h later); error not identified"
+air,Air 3,1944-04-13,1240,K,23-36.2N,141-41.8E,rg367-74828582/p17,Unknown 18 mi; radar; not sighted,yes,,,,,
+air,Air 4,1944-04-14,0150,I,23-13.1N,141-31.0E,rg367-74828582/p17,Unknown 7 mi; radar; not sighted,yes,,,,,
+bt,BT,1944-04-18,,I,23-46N,123-26E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+bt,BT,1944-04-19,,I,23-28N,123-22E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+bt,BT,1944-04-20,,I,22-44N,122-34E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+ship,Ship 2,1944-04-22,1217,I,22-04.1N,122-58.8E,rg367-74828582/p16,PC boat 8 mi,no,,,,,"ship-contact positions are the target, not PARCHE"
+bt,BT,1944-04-23,,I,21-16N,120-30E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+air,Air 5,1944-04-24,0701,I,21-21.3N,120-33.0E,rg367-74828582/p17,Mavis 10 mi,yes,,,,,
+air,Air 6,1944-04-24,0852,I,21-25.2N,120-33.0E,rg367-74828582/p17,Sally 7 mi,yes,,,,,
+air,Air 7,1944-04-24,0932,I,21-24.5N,120-32.5E,rg367-74828582/p17,7 Sallys 7 mi,yes,,,,,
+air,Air 8,1944-04-24,1155,I,21-31.4N,120-33.0E,rg367-74828582/p17,3 Petes 8 mi,yes,,,,,
+air,Air 9,1944-04-24,1410,I,21-36.1N,120-33.0E,rg367-74828582/p17,Mavis 4 mi,yes,,,,,
+air,Air 10,1944-04-24,1448,I,21-37.5N,120-33.0E,rg367-74828582/p17,Mavis 5 mi,yes,,,,,
+air,Air 11,1944-04-24,1830,I,21-29.1N,120-33.0E,rg367-74828582/p17,Mavis 2 mi,yes,,,,,
+bt,BT,1944-04-25,,I,21-39N,119-35E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+air,Air 12,1944-04-26,0725,I,21-42.9N,119-36.7E,rg367-74828582/p17,Sally 8 mi,yes,,,,,
+bt,BT,1944-04-28,,I,21-38N,118-08E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+air,Air 13,1944-04-28,1452,I,21-38.5N,118-27.1E,rg367-74828582/p17,Mavis 8 mi,yes,,,,,
+ship,Ship 3,1944-04-29,2355,I,19-26.5N,118-22.3E,rg367-74828582/p16,Unknown 19000 yds; 1 ship & escort (TAMA-17),no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 4,1944-04-30,0020,I,19-20.5N,118-22.0E,rg367-74828582/p16,Escort 13000 yds; CHIDORI torpedo boat,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 5,1944-04-30,0230,I,18-57.5N,118-19.8E,rg367-74828582/p16,Escort 13000 yds; unidentified,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 6,1944-04-30,0330,I,20-52.9N,118-27.5E,rg367-74828582/p16,Escort 12000 yds; patrol boat,no,,,,,"ship-contact positions are the target, not PARCHE; latitude contradicts Ships 5 and 7 (115 nm north an hour later), probably 18-52.9N"
+ship,Ship 7,1944-04-30,0506,I,18-48.8N,119-01.2E,rg367-74828582/p16,Convoy 23000 yds; 10 ships (TAMA-17),no,,,,,"ship-contact positions are the target, not PARCHE"
+air,Air 14,1944-04-30,0919,I,18-21.0N,118-14.0E,rg367-74828582/p17,Mavis 10 mi,no,,,,,"Air 14-17 put PARCHE 60 nm west of her own Attack 1 sheet (and the density-layer reading) within the same hour; the attack-sheet position fits TAMA-17's track from BANG's attacks and Nittatsu Maru's sinking position. Error not identified (one degree of longitude?)"
+air,Air 15,1944-04-30,0936,I,18-07.7N,118-07.6E,rg367-74828582/p17,Nell 7 mi,no,,,,,see Air 14
+attack,Attack 1,1944-04-30,1010,I,18-22N,119-17E,rg367-74828582/p18,Torpedo attack No. 1 (TAMA-17; 4 Mk 18 fired submerged; no hits seen),yes,,,,,
+bt,BT,1944-04-30,,I,18-19N,119-17E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+air,Air 16,1944-04-30,1218,I,18-07.9N,118-07.8E,rg367-74828582/p17,Nell 2 mi,no,,,,,see Air 14
+air,Air 17,1944-04-30,1413,I,18-07.2N,118-13.5E,rg367-74828582/p17,Mavis 5 mi,no,,,,,see Air 14
+air,Air 18,1944-05-01,0749,I,18-20.4N,118-45.0E,rg367-74828582/p17,Nell 10 mi,yes,,,,,
+air,Air 19,1944-05-01,0915,I,18-39.8N,118-52.0E,rg367-74828582/p17,Nell 5 mi,yes,,,,,
+air,Air 20,1944-05-01,1410,I,18-51.6N,118-50.8E,rg367-74828582/p17,Mavis 7 mi,yes,,,,,
+bt,BT,1944-05-01,,I,18-56N,118-52E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+air,Air 21,1944-05-02,1100,I,20-31.4N,118-41.9E,rg367-74828582/p17,Mavis 2 mi,yes,,,,,
+ship,Ship 8,1944-05-03,0800,I,19-38.2N,123-31.8E,rg367-74828582/p16,Convoy 15 mi; 6 ships (TE-04),no,,,,,"ship-contact positions are the target, not PARCHE; longitude contradicts Air 22 (116-55.8E an hour later), probably 117-31.8E"
+air,Air 22,1944-05-03,0923,I,19-51.1N,116-55.8E,rg367-74828582/p17,Unknown 24 mi; 2 unidentified; radar,yes,,,,,
+air,Air 23,1944-05-03,1419,I,19-52.5N,116-56.9E,rg367-74828582/p17,Mavis 8 mi,yes,,,,,
+ship,Ship 9,1944-05-03,1840,I,20-11.0N,117-52.5E,rg367-74828582/p16,Escort 10 mi; CHIDORI torpedo boat,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 10,1944-05-04,0022,I,20-51.0N,118-03.0E,rg367-74828582/p16,Escort 6600 yds,no,,,,,"ship-contact positions are the target, not PARCHE"
+attack,Attack 2,1944-05-04,0106,I,20-48N,118-03E,rg367-74828582/p20,Torpedo attack No. 2 (TE-04; 4 + 2 fired; claims two AKs sunk),yes,,,,,
+attack,Attack 3,1944-05-04,0127,I,20-48N,118-02E,rg367-74828582/p22,Torpedo attack No. 3 (TE-04; 4 fired; claims one AK or AP sunk),yes,,,,,
+ship,Ship 11,1944-05-04,0303,I,20-53.1N,117-50.2E,rg367-74828582/p16,Escort 13000 yds,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 12,1944-05-04,0349,I,20-48.2N,117-48.3E,rg367-74828582/p16,Escort 9600 yds,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 13,1944-05-04,0445,I,20-54.1N,117-50.9E,rg367-74828582/p16,Escort 12000 yds,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 14,1944-05-04,0540,I,21-06.5N,117-51.0E,rg367-74828582/p16,Escort 13000 yds,no,,,,,"ship-contact positions are the target, not PARCHE"
+air,Air 24,1944-05-05,0944,I,20-32.0N,117-15.5E,rg367-74828582/p17,Mavis 5 mi,yes,,,,,
+air,Air 25,1944-05-05,1046,I,20-31.9N,117-16.1E,rg367-74828582/p17,Nell 3 mi,yes,,,,,
+bt,BT,1944-05-05,,I,20-32N,117-54E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+ship,Ship 15,1944-05-05,2113,I,20-29.8N,118-10.5E,rg367-74828582/p16,Patrol vessel 21000 yds; sub chaser,no,,,,,"ship-contact positions are the target, not PARCHE; date typed 5/5 with a 6 over the 5; section (N) puts this A/S vessel on the night of 5 May"
+bt,BT,1944-05-09,,I,20-59N,120-18E,rg367-74828582/p26,Density layers table (no time given),yes,,,,,
+air,Air 26,1944-05-14,0945,I,24-12.4N,124-09.0E,rg367-74828582/p17,PBY 15 mi (narrative: 2-engine patrol plane over ISHIGAKI JIMA),yes,,,,,
+air,Air 27,1944-05-14,1140,I,24-12.6N,124-10.0E,rg367-74828582/p17,3 fighters 4 mi; circling island,yes,,,,,
+air,Air 28,1944-05-14,1340,I,24-12.7N,124-12.3E,rg367-74828582/p17,5 fighters 6 mi; circling island,yes,,,,,
+air,Air 29,1944-05-14,1425,I,24-13.1N,124-12.8E,rg367-74828582/p17,2 bombers 7 mi; circling island,yes,,,,,
+air,Air 30,1944-05-14,1515,I,24-14.3N,124-14.3E,rg367-74828582/p17,4 fighters 6 mi; circling island,yes,,,,,
+air,Air 31,1944-05-19,1011,K,26-41.1N,151-00.0E,rg367-74828582/p17,Unknown 8 mi; radar; received one light bomb,yes,,,,,
+ship,Ship 16,1944-05-19,2010,K,26-55.4N,153-55.6E,rg367-74828582/p16,Trawler 1000 yds; gun action,no,,,,,"ship-contact positions are the target, not PARCHE"
+narrative,arrive Midway,1944-05-23,1000,Y,28-12N,177-23W,rg367-74828582/p15,Arrived MIDWAY for refit (port position),yes,,,,,

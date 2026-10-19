@@ -1,0 +1,45 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+narrative,depart Pearl,1944-03-29,1600,VW,21-21N,157-58W,rg367-74856363/p03,Departed Pearl with PARCHE and BANG (OTC Captain PETERSON in PARCHE) (port position),yes,,,,,
+narrative,arrive Midway,1944-04-02,0820,Y,28-12N,177-23W,rg367-74856363/p03,Moored to submarine pier MIDWAY (port position),yes,,,,,
+narrative,depart Midway,1944-04-03,1210,Y,28-12N,177-23W,rg367-74856363/p03,Underway in company with PARCHE and BANG (port position),yes,,,,,
+air,Air 1,1944-04-07,0555,L,27-20N,167-02E,rg367-74856363/p25,Unknown two-engine; sighted by lookout (narrative typed the time as 055),yes,,,,,
+narrative,sub sighted,1944-04-08,1043,L,27-13N,160-39E,rg367-74856363/p04,Sighted unidentified submarine 8000 yds,yes,,,,,
+narrative,spar markers,1944-04-12,1625,K,24-35N,145-37E,rg367-74856363/p04,Passed through line of 6 small spar markers,yes,,,,,
+ship,Ship 1,1944-04-12,1808,K,24-17N,144-51E,rg367-74856363/p24,Fishing sampan abandoned; gun runs after PARCHE's,no,,,,,"ship-contact positions are the target, not TINOSA"
+narrative,enter area,1944-04-16,1625,I,22-06N,130-00E,rg367-74856363/p05,Entered assigned area,yes,,,,,
+narrative,periscope,1944-04-17,0812,I,23-43N,127-38E,rg367-74856363/p05,Sighted periscope 2000 yds; assumed PARCHE,yes,,,,,
+ship,Ship 2,1944-04-20,1822,H,23-39N,122-23E,rg367-74856363/p06,3 sampans or small patrol vessels 14000 yds,no,,,,,"ship-contact positions are the target, not TINOSA; contact table types the time 0882(H), the narrative 1822"
+ship,Ship 3,1944-04-20,2115,H,23-19N,122-09E,rg367-74856363/p06,Fishing vessel or patrol craft; radar 9500 yds,no,,,,,"ship-contact positions are the target, not TINOSA"
+ship,Ship 4,1944-04-24,1406,H,21-39N,120-10E,rg367-74856363/p07,Sampan 9000 yds,no,,,,,"ship-contact positions are the target, not TINOSA"
+ship,Ship 5,1944-04-25,1800,H,21-47N,118-58E,rg367-74856363/p07,Sampan 5 mi,no,,,,,"ship-contact positions are the target, not TINOSA; contact table types 138-58E, the narrative 118-58E"
+ship,Ship 6,1944-04-27,1335,H,22-01N,118-25E,rg367-74856363/p08,Sampan 4 mi (narrative types the longitude 118-25N),no,,,,,"ship-contact positions are the target, not TINOSA"
+ship,Ship 7,1944-04-28,1200,H,21-40N,118-13E,rg367-74856363/p08,Sampan 5 mi,no,,,,,"ship-contact positions are the target, not TINOSA"
+narrative,periscope,1944-04-29,0803,H,20-42N,118-19E,rg367-74856363/p08,Sighted periscope 6000 yds; believed PARCHE,yes,,,,,
+ship,Ship 8,1944-04-30,0730,H,18-53N,119-09E,rg367-74856363/p09,Convoy of 11 ships (TAMA-17) on base course 180; smoke first sighted 0512,no,,,,,"ship-contact positions are the target, not TINOSA"
+air,Air 2,1944-04-30,0828,H,18-50N,119-10E,rg367-74856363/p25,Two-engine flying boat circling convoy,yes,,,,,
+attack,Attack 1,1944-04-30,0137,Z,18-15.5N,120-18.4E,rg367-74856363/p26,Summary of attacks: 6 fired; claims 1 AK sunk; 1 AK and 1 AO damaged,no,,,,,"longitude 63 nm east of the narrative (ship sank at 119-15E) and of BANG's and PARCHE's positions for the same convoy; error not identified. The narrative fires at 0919 H (0119 GCT), 18 min before this table's 0137"
+narrative,Attack 1 fired,1944-04-30,0919,H,18-28N,119-15E,rg367-74856363/p10,"Fired six bow tubes, 10-degree spread at five overlapping ships; position is where the narrative says a ship sank (logged 1046)",no,,,,,"position of the target, not TINOSA"
+narrative,sub sighted,1944-04-30,1254,H,18-27N,119-16E,rg367-74856363/p11,Sighted submarine on surface 4000 yds (PARCHE or BANG),yes,,,,,
+air,Air 3,1944-04-30,1416,H,18-18N,119-26E,rg367-74856363/p25,Two-engine flying boat,yes,,,,,
+narrative,sub sighted,1944-04-30,1458,H,18-19N,119-28E,rg367-74856363/p12,Sighted submarine 4 mi,yes,,,,,
+ship,Ship 9,1944-05-01,0630,H,18-29N,119-49E,rg367-74856363/p24,Maru-type A/S vessel; possibly radar,no,,,,,"ship-contact positions are the target, not TINOSA"
+air,Air 4,1944-05-01,1016,H,18-53N,119-50E,rg367-74856363/p25,Two-engine bomber,yes,,,,,
+air,Air 5,1944-05-01,1116,H,19-00N,119-49E,rg367-74856363/p25,Two-engine bomber,yes,,,,,
+ship,Ship 10,1944-05-01,1227,H,19-01N,119-48E,rg367-74856363/p24,Sampan; avoided,no,,,,,"ship-contact positions are the target, not TINOSA"
+air,Air 6,1944-05-01,1229,H,19-01N,118-48E,rg367-74856363/p25,Two-engine bomber,yes,,119-48E,,,"table types 118-48E; the narrative (p13) gives 119-48E, which fits Air 5 and Ship 10 minutes earlier"
+narrative,rendezvous,1944-05-02,2310,H,20-30N,117-30E,rg367-74856363/p13,Rendezvous with PARCHE and BANG,yes,,,,,
+ship,Ship 11,1944-05-03,0552,H,19-45N,116-25E,rg367-74856363/p13,"Masts of seven or more large ships (TE-04); contact table: 1 AO, 1 AP, 6 AK, 1 DD, 3 A/S",no,,,,,"ship-contact positions are the target, not TINOSA; contact table date typed 5-2, pencilled 3"
+air,Air 7,1944-05-03,1335,H,20-02N,117-47E,rg367-74856363/p14,Four-engine flying boat,yes,,,,,
+attack,Attack 2,1944-05-03,0835,Z,20-27N,118-55.5E,rg367-74856363/p26,Summary of attacks: 6 fired; claims 1 AO sunk; 1 AK probably sunk,no,,,,,"time and position both contradict the narrative, which fires at 23-09-16 H (1509 GCT) and has the tanker sink at 20-51N 118-02E; error not identified"
+narrative,Attack 2 fired,1944-05-03,2309,H,20-51N,118-02E,rg367-74856363/p15,"Fired 3 at tanker (hits 23-10-23), 3 at AK astern; tanker sank; position is where the tanker sank",no,,,,,"position of the target, not TINOSA"
+attack,Attack 3,1944-05-03,1952,Z,20-54.8N,118-14.9E,rg367-74856363/p26,Summary of attacks: 4 stern tubes; claims 1 AK sunk,yes,,,,1849,"the narrative fires at 02-49-31 H on 4 May = 1849 GCT 3 May; the table's 1952 is an hour later. Position agrees with the narrative's sinking position (20-55N 118-12E)"
+narrative,Attack 3 fired,1944-05-04,0249,H,20-55N,118-12E,rg367-74856363/p17,"Fired 4 stern tubes; three hits, target ""merely disintegrated""; position is where she sank",no,,,,,"position of the target, not TINOSA"
+attack,Attack 4,1944-05-03,2008,Z,20-57.4N,118-06.3E,rg367-74856363/p26,Summary of attacks: 4 fired; results unknown; 2 explosions,yes,,,,,
+narrative,explosions,1944-05-04,0414,H,21-02N,118-03E,rg367-74856363/p18,Two explosions like torpedo hits beyond the target,yes,,,,,
+attack,Attack 5,1944-05-04,0048,Z,21-04N,118-10.1E,rg367-74856363/p26,Summary of attacks: 4 stern tubes at damaged AK; results unknown,yes,,,,,
+narrative,Attack 5 fired,1944-05-04,0850,H,20-58N,118-08E,rg367-74856363/p19,Started firing 4 stern tubes on 95 port track,yes,,,,,
+ship,Ship 12,1944-05-09,0810,K,22-34N,145-31E,rg367-74856363/p20,Small trawler; avoided,no,,,,,"ship-contact positions are the target, not TINOSA"
+ship,Ship 13,1944-05-09,1132,K,22-20N,146-30E,rg367-74856363/p20,Larger trawler 10000 yds; sunk by gunfire (sank 22-20N 146-40E),no,,,,,"ship-contact positions are the target, not TINOSA"
+air,Air 8,1944-05-12,1503,L,17-42N,165-06E,rg367-74856363/p25,3 Liberators,yes,,,,,
+air,Air 9,1944-05-12,1815,L,17-31N,166-42E,rg367-74856363/p25,1 Liberator,yes,,,,,
+narrative,arrive Majuro,1944-05-15,1200,L,07-06N,171-22E,rg367-74856363/p22,Arrived MAJURO (port position; noon assumed),yes,,,,,

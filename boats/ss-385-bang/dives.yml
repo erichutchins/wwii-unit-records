@@ -1,0 +1,25 @@
+# Notes for BANG's dive profile (site/dives.html). Hand-edited; tools/build_dives.py reads them.
+
+# Background shown with particular log entries in depths.csv (matched on patrol, local date, event)
+context:
+  - patrol: 6
+    date: 1945-05-02
+    event: quake
+    text: >-
+      No earthquake on 1-2 May 1945 appears in the USGS/ISC-GEM or ISC bulletins (searched within
+      1,500 km). Those catalogues are only reliable for magnitude 6+ quakes in 1945, and Taiwan's own
+      seismograph network nearly stopped recording from March 1945 to January 1946, so a moderate quake
+      off eastern Taiwan could easily go unrecorded. The nearest catalogued events are an M6.1 west of
+      Yonaguni on 10 April 1945 and an M6.5 off Hualien on 1 August 1945.
+    sources: [usgs-comcat, isc-gem, isc-bulletin, taiwan-cwa]
+
+# The captain's own sky observations, used to check the page's sun and moon arithmetic
+sky:
+  - { patrol: 1, local: 1944-04-29 1750(K), page: rg367-74802746/p05,
+      quote: "it was clear, bright night, with one-quarter moon ... moonset, which was at 0222" }
+  - { patrol: 1, local: 1944-04-18 2105(K), page: rg367-74802746/p04,
+      quote: "night was clear, moonless with good starlight visibility" }
+  - { patrol: 2, local: 1944-07-04 0410(I), page: rg367-74802784/p10,
+      quote: "It was a bright, moonlight night with scattered clouds ... make surface approach after moonset, which was at 0445" }
+  - { patrol: 6, local: 1945-04-28 1947(I), page: rg367-74802934/p16,
+      quote: "In view of stepped up air activity ... and the full moon, decided to move southwestward" }

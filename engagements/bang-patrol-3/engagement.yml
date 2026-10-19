@@ -1,0 +1,147 @@
+# Engagement for site/battle.html. Hand-edited; fields in guides/BATTLES.md. Built by tools/build_battle.py.
+title: 'BANG''s third war patrol: three convoy attacks'
+short: Patrol 3 · September 1944
+eyebrow: South of Honshu and east of Formosa · BANG's third war patrol
+lede: >-
+  BANG's six torpedo attacks of September 1944, as typed on her attack sheets, with her depth log and the Japanese
+  record where one has been found. Times are converted to GMT, with Tokyo time alongside.
+boats:
+- id: bang
+  name: BANG
+  hull: SS-385
+  co: LCdr A. R. Gallaher
+  patrol: ss-385-bang/3
+  patrol_no: 3
+japanese:
+- ss-385-bang/3
+actions:
+- id: no3905
+  label: 9 September 1944
+  convoy: No. 3905
+  start: 1944-09-09T01:00Z
+  end: 1944-09-09T12:00Z
+  route: Yokosuka → Haha-jima.
+  ships:
+  - Tokiwasan*
+  - Shoryu*
+  ships_note: Ships and escorts from combinedfleet.com. BANG saw 1 AO, 2 AK and 2 escorts.
+  escorts:
+  - name: Yasojima
+    kind: Escort
+    type: escort
+  - name: Hachijo
+    kind: Kaibokan
+    type: escort
+  - name: CD-4
+    kind: Kaibokan
+    type: escort
+  - name: CD-12
+    kind: Kaibokan
+    type: escort
+  outcome: >-
+    Tokiwasan Maru (1,804 tons) and Shoryu Maru (1,916 tons) sunk at 28-58N 137-45E (combinedfleet.com; no primary
+    record found yet). BANG claimed a medium AK and a medium AO.
+- id: taka-909
+  label: 19 September 1944
+  convoy: TAKA-909
+  start: 1944-09-18T18:00Z
+  end: 1944-09-19T05:00Z
+  route: Takao → Kagoshima.
+  ships:
+  - name: No. 2 Tosei Maru
+    kind: Tanker, 507 tons
+    type: tanker
+    sunk: true
+  ships_note: >-
+    Escorts from the 4th Surface Escort Division's war diary, which names only the ship sunk. BANG saw 8 merchantmen
+    including an AO, and 5 or more escorts.
+  escorts:
+  - name: CD-30
+    kind: Kaibokan
+    type: escort
+  - name: W-15
+    kind: Minesweeper
+    type: escort
+  - name: No. 3 Takunan Maru
+    kind: Auxiliary escort
+    type: gunboat
+  - name: Shichiri Maru
+    kind: Auxiliary escort
+    type: gunboat
+  - name: Taian Maru
+    kind: Auxiliary escort
+    type: gunboat
+  - name: No. 3 Taihei Maru
+    kind: Auxiliary escort
+    type: gunboat
+  outcome: >-
+    No. 2 Tosei Maru sunk. BANG claimed one AK sunk and another probably sunk. CD-30 and Taian Maru, with army aircraft,
+    attacked her and claimed "one enemy submarine sunk"; BANG surfaced that night after about 80 depth charges.
+- id: east-of-formosa
+  label: 20–21 September 1944
+  convoy: ''
+  start: 1944-09-20T04:00Z
+  end: 1944-09-20T20:00Z
+  route: ''
+  ships: []
+  ships_note: BANG made contact by the escorts' JK sound pinging at 35,000 yards.
+  escorts: []
+  outcome: >-
+    No Japanese record found yet. BANG claimed an AO and an AK sunk and one damaged, as FRUPAC relayed it.
+  target_label: Convoy, not identified
+places:
+- name: Philippine Sea
+  lon: 137.3
+  lat: 28.45
+- name: Formosa
+  lon: 121.6
+  lat: 24.4
+  inset:
+  - 120.6
+  - 23.0
+- name: Yonaguni
+  lon: 123.0
+  lat: 24.38
+  small: true
+- name: Iriomote
+  lon: 123.82
+  lat: 24.2
+  small: true
+- name: Ishigaki
+  lon: 124.17
+  lat: 24.3
+  small: true
+- name: Miyako
+  lon: 125.3
+  lat: 24.6
+  small: true
+- name: Honshu
+  lon: 138.3
+  lat: 35.6
+  inset:
+  - 138.3
+  - 36.2
+notes:
+- head: Reading the map.
+  text: >-
+    Positions are BANG's own dead reckoning and star sights; lines between them are straight, and where she went
+    in between is not recorded. Open circles are ships she sighted, at the target's position. As the clock passes
+    each firing time a red ring pulses at BANG's position; hover a diamond for the attack sheet.
+- head: Clocks.
+  text: BANG kept zone K (−10) throughout. Japanese records use Tokyo time (I, −9).
+- head: Records with no time.
+  text: >-
+    Neither Japanese record for this patrol gives a time: combinedfleet.com's account of convoy No. 3905 and the
+    4th Surface Escort Division's daily summary for TAKA-909. Each is drawn at the time of the attack it matches,
+    and marked so. FRUPAC's intercept has No. 3905's ships "torp & sunk 1520/09" (1520 I = 1620 K, between Attacks
+    1 and 2).
+- head: What is missing.
+  text: >-
+    No Japanese record has been found yet for Attacks 5 and 6 (20–21 September); the 4th Escort diary has no attack
+    on those days. Where the Japanese record names only the ships that were hit, the rest of the convoy is described
+    as BANG saw it.
+- head: Sources.
+  text: >-
+    BANG's third war patrol report, NARA microfilm M1752 (74802831). The 4th Surface Escort Division / Okinawa Base
+    Force war diary, September 1944, via JACAR (C08030144100, National Institute for Defense Studies). Convoy No.
+    3905 from combinedfleet.com, a secondary source, flagged where used. Coastline: Natural Earth.

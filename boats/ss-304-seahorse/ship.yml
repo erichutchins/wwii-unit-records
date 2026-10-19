@@ -1,0 +1,12 @@
+# USS SEAHORSE (SS-304). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: SEAHORSE
+hull: SS-304
+class: Balao
+kind: submarine
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 5, name: Fifth War Patrol, dates: 3 Jun 1944 – 19 Jul 1944 }

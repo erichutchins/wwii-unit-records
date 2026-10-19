@@ -1,0 +1,12 @@
+# USS ATULE (SS-403). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: ATULE
+hull: SS-403
+class: Balao
+kind: submarine
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 2, name: Second War Patrol, dates: 5 Jan 1945 – 7 Mar 1945 }

@@ -1,0 +1,859 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 3,
+    "start": "1944-08-27T23:00Z",
+    "end": "1944-09-30T00:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      137.7,
+      28.8833
+     ],
+     [
+      137.7,
+      28.9167
+     ],
+     [
+      137.5833,
+      29.0667
+     ],
+     [
+      135.0167,
+      27.7833
+     ],
+     [
+      134.15,
+      26.7
+     ],
+     [
+      129.5,
+      25.1167
+     ],
+     [
+      128.0667,
+      25.8333
+     ],
+     [
+      126.25,
+      24.2333
+     ],
+     [
+      124.025,
+      23.3083
+     ],
+     [
+      122.6833,
+      24.4167
+     ],
+     [
+      123.5,
+      25.0
+     ],
+     [
+      122.2417,
+      24.9333
+     ],
+     [
+      122.2417,
+      24.9333
+     ],
+     [
+      122.0,
+      24.0
+     ],
+     [
+      123.9667,
+      25.35
+     ],
+     [
+      123.9667,
+      25.35
+     ],
+     [
+      130.15,
+      23.6167
+     ],
+     [
+      136.7,
+      22.7
+     ],
+     [
+      142.15,
+      22.15
+     ],
+     [
+      142.3833,
+      22.1833
+     ],
+     [
+      143.75,
+      22.25
+     ],
+     [
+      143.9333,
+      22.25
+     ],
+     [
+      -177.3833,
+      28.2
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Pearl",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-08-27T23:00Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-08-27 1330(VW)",
+    "page": "rg367-74802831/p03",
+    "note": "Underway from Pearl Harbor to Midway (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Midway",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-08-31T20:30Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-08-31 0830(Y)",
+    "page": "rg367-74802831/p03",
+    "note": "Arrived Midway. Fueled ship (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Midway",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-01T21:00Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-09-01 0900(Y)",
+    "page": "rg367-74802831/p03",
+    "note": "Departed Midway enroute area. Crossed date line (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 1",
+    "patrol": 3,
+    "on_track": false,
+    "utc": "1944-09-09T03:05Z",
+    "lat_raw": "29-01N",
+    "lon_raw": "137-37E",
+    "local": "1944-09-09 1305(K)",
+    "page": "rg367-74802831/p10",
+    "note": "Convoy (1 AO 2 AK 2 escorts) 32000 yds; attacks 1 & 2",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.6167,
+     29.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-09T06:16Z",
+    "lat_raw": "28-53N",
+    "lon_raw": "137-42E",
+    "local": "1944-09-09 1616(K)",
+    "page": "rg367-74802831/p13",
+    "note": "Torpedo attack No. 1",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7,
+     28.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-09T06:32Z",
+    "lat_raw": "28-55N",
+    "lon_raw": "137-42E",
+    "local": "1944-09-09 1632(K)",
+    "page": "rg367-74802831/p15",
+    "note": "Torpedo attack No. 2 (time 1616-32)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.7,
+     28.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-09T19:50Z",
+    "lat_raw": "29-04N",
+    "lon_raw": "137-35E",
+    "local": "1944-09-09 1950(Z)",
+    "page": "rg367-74802831/p28",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.5833,
+     29.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 1",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-10T06:27Z",
+    "lat_raw": "27-47N",
+    "lon_raw": "135-01E",
+    "local": "1944-09-10 1627(K)",
+    "page": "rg367-74802831/p11",
+    "note": "zone not stated; King assumed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.0167,
+     27.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 2",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-11T06:30Z",
+    "lat_raw": "26-42N",
+    "lon_raw": "134-09E",
+    "local": "1944-09-11 1630(K)",
+    "page": "rg367-74802831/p11",
+    "note": "zone not stated; King assumed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.15,
+     26.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-12T20:31Z",
+    "lat_raw": "25-07N",
+    "lon_raw": "129-30E",
+    "local": "1944-09-12 2031(Z)",
+    "page": "rg367-74802831/p28",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.5,
+     25.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-13T20:10Z",
+    "lat_raw": "25-50N",
+    "lon_raw": "128-04E",
+    "local": "1944-09-13 2010(Z)",
+    "page": "rg367-74802831/p28",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.0667,
+     25.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-14T20:47Z",
+    "lat_raw": "24-14N",
+    "lon_raw": "126-15E",
+    "local": "1944-09-14 2047(Z)",
+    "page": "rg367-74802831/p28",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.25,
+     24.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 3",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-15T07:09Z",
+    "lat_raw": "23-18.5N",
+    "lon_raw": "124-01.5E",
+    "local": "1944-09-15 1709(K)",
+    "page": "rg367-74802831/p11",
+    "note": "zone not stated; King assumed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.025,
+     23.3083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 4",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-17T04:40Z",
+    "lat_raw": "24-25N",
+    "lon_raw": "122-41E",
+    "local": "1944-09-17 1440(K)",
+    "page": "rg367-74802831/p11",
+    "note": "zone not stated; King assumed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.6833,
+     24.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-17T20:40Z",
+    "lat_raw": "25-00N",
+    "lon_raw": "123-30E",
+    "local": "1944-09-17 2040(Z)",
+    "page": "rg367-74802831/p28",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.5,
+     25.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 2",
+    "patrol": 3,
+    "on_track": false,
+    "utc": "1944-09-18T20:15Z",
+    "lat_raw": "24-59N",
+    "lon_raw": "122-21E",
+    "local": "1944-09-19 0615(K)",
+    "page": "rg367-74802831/p10",
+    "note": "Convoy (8 merchantmen incl. AO; 5+ escorts) 30000 yds; attacks 3 & 4",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.35,
+     24.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 3",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-18T23:15Z",
+    "lat_raw": "24-56N",
+    "lon_raw": "122-14.5E",
+    "local": "1944-09-19 0915(K)",
+    "page": "rg367-74802831/p17",
+    "note": "Torpedo attack No. 3",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.2417,
+     24.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 4",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-18T23:55Z",
+    "lat_raw": "24-56N",
+    "lon_raw": "122-14.5E",
+    "local": "1944-09-19 0955(K)",
+    "page": "rg367-74802831/p19",
+    "note": "Torpedo attack No. 4 (time 0915-55)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.2417,
+     24.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-19T20:51Z",
+    "lat_raw": "24-00N",
+    "lon_raw": "122-00E",
+    "local": "1944-09-19 2051(Z)",
+    "page": "rg367-74802831/p28",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.0,
+     24.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 3",
+    "patrol": 3,
+    "on_track": false,
+    "utc": "1944-09-20T06:55Z",
+    "lat_raw": "25-07N",
+    "lon_raw": "122-57E",
+    "local": "1944-09-20 1655(K)",
+    "page": "rg367-74802831/p10",
+    "note": "Convoy 35000 yds (JK sound pinging); attacks 5 & 6",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.95,
+     25.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 5",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-20T14:15Z",
+    "lat_raw": "25-21N",
+    "lon_raw": "123-58E",
+    "local": "1944-09-21 0015(K)",
+    "page": "rg367-74802831/p21",
+    "note": "Torpedo attack No. 5",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9667,
+     25.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 6",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-20T14:17Z",
+    "lat_raw": "25-21N",
+    "lon_raw": "123-58E",
+    "local": "1944-09-21 0017(K)",
+    "page": "rg367-74802831/p23",
+    "note": "Torpedo attack No. 6 (time 0017-15)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9667,
+     25.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 4",
+    "patrol": 3,
+    "on_track": false,
+    "utc": "1944-09-21T05:10Z",
+    "lat_raw": "23-47.5N",
+    "lon_raw": "125-11E",
+    "local": "1944-09-21 1510(K)",
+    "page": "rg367-74802831/p10",
+    "note": "US submarine 6000 yds",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.1833,
+     23.7917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 5",
+    "patrol": 3,
+    "on_track": false,
+    "utc": "1944-09-21T07:45Z",
+    "lat_raw": "23-48N",
+    "lon_raw": "125-10E",
+    "local": "1944-09-21 1745(K)",
+    "page": "rg367-74802831/p10",
+    "note": "US submarine 16000 yds",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.1667,
+     23.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 5",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-22T00:40Z",
+    "lat_raw": "23-37N",
+    "lon_raw": "130-09E",
+    "local": "1944-09-22 1040(K)",
+    "page": "rg367-74802831/p11",
+    "note": "zone not stated; King assumed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.15,
+     23.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 6",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-23T04:08Z",
+    "lat_raw": "22-42N",
+    "lon_raw": "136-42E",
+    "local": "1944-09-23 1408(K)",
+    "page": "rg367-74802831/p11",
+    "note": "zone not stated; King assumed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7,
+     22.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 7",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-23T22:53Z",
+    "lat_raw": "22-09N",
+    "lon_raw": "142-09E",
+    "local": "1944-09-24 0853(K)",
+    "page": "rg367-74802831/p12",
+    "note": "zone not stated; King assumed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.15,
+     22.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-23T22:55Z",
+    "lat_raw": "22-11N",
+    "lon_raw": "142-23E",
+    "local": "1944-09-23 2255(Z)",
+    "page": "rg367-74802831/p28",
+    "note": "",
+    "fix": "date 24 -> 23 (typed with the local date; matches Air 7 at 2253 GCT on the 23rd, 2 min earlier and 15 nm away)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.3833,
+     22.1833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 8",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-24T05:17Z",
+    "lat_raw": "22-15N",
+    "lon_raw": "143-45E",
+    "local": "1944-09-24 1517(K)",
+    "page": "rg367-74802831/p12",
+    "note": "zone not stated; King assumed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.75,
+     22.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 9",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-24T05:59Z",
+    "lat_raw": "22-15N",
+    "lon_raw": "143-56E",
+    "local": "1944-09-24 1559(K)",
+    "page": "rg367-74802831/p12",
+    "note": "zone not stated; King assumed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.9333,
+     22.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 6",
+    "patrol": 3,
+    "on_track": false,
+    "utc": "1944-09-25T19:18Z",
+    "lat_raw": "22-10N",
+    "lon_raw": "153-26E",
+    "local": "1944-09-26 0518(K)",
+    "page": "rg367-74802831/p10",
+    "note": "US submarine 15000 yds",
+    "fix": "ship-contact positions are the target not BANG"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.4333,
+     22.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Midway",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1944-09-30T00:00Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-09-29 1200(Y)",
+    "page": "rg367-74802831/p09",
+    "note": "Crossed date line. Moored Midway (time not given; noon assumed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  }
+ ]
+}

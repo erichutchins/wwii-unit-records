@@ -1,0 +1,1797 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 6,
+    "start": "1945-03-25T05:00Z",
+    "end": "1945-05-18T21:30Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.6333,
+      13.45
+     ],
+     [
+      140.0,
+      15.9167
+     ],
+     [
+      136.6833,
+      18.8167
+     ],
+     [
+      131.5,
+      20.75
+     ],
+     [
+      126.85,
+      21.85
+     ],
+     [
+      122.2333,
+      20.0833
+     ],
+     [
+      122.3,
+      19.7
+     ],
+     [
+      121.0167,
+      19.3
+     ],
+     [
+      121.0333,
+      19.2833
+     ],
+     [
+      121.6,
+      20.2333
+     ],
+     [
+      122.2333,
+      20.25
+     ],
+     [
+      122.3667,
+      19.7833
+     ],
+     [
+      122.3167,
+      19.4833
+     ],
+     [
+      122.4833,
+      18.8667
+     ],
+     [
+      122.4833,
+      18.9667
+     ],
+     [
+      121.5833,
+      20.0667
+     ],
+     [
+      122.1,
+      21.5333
+     ],
+     [
+      121.9167,
+      23.3167
+     ],
+     [
+      121.7833,
+      23.5833
+     ],
+     [
+      121.9167,
+      23.3
+     ],
+     [
+      122.0,
+      23.75
+     ],
+     [
+      122.65,
+      25.0833
+     ],
+     [
+      121.8667,
+      23.0333
+     ],
+     [
+      122.3833,
+      24.1833
+     ],
+     [
+      122.6333,
+      24.5833
+     ],
+     [
+      122.6167,
+      24.3833
+     ],
+     [
+      122.3833,
+      24.0
+     ],
+     [
+      122.5,
+      24.1333
+     ],
+     [
+      122.4167,
+      24.1667
+     ],
+     [
+      122.1,
+      24.0833
+     ],
+     [
+      122.7833,
+      24.5667
+     ],
+     [
+      124.2667,
+      24.05
+     ],
+     [
+      124.2,
+      24.0167
+     ],
+     [
+      122.6167,
+      24.6667
+     ],
+     [
+      122.5333,
+      24.3333
+     ],
+     [
+      122.45,
+      24.6333
+     ],
+     [
+      122.5833,
+      24.4
+     ],
+     [
+      122.5833,
+      24.4
+     ],
+     [
+      122.6667,
+      24.5167
+     ],
+     [
+      122.5667,
+      24.3
+     ],
+     [
+      122.6167,
+      24.4667
+     ],
+     [
+      122.6,
+      24.4167
+     ],
+     [
+      122.3833,
+      24.1833
+     ],
+     [
+      122.6,
+      24.4
+     ],
+     [
+      121.6167,
+      22.8
+     ],
+     [
+      121.5333,
+      22.8167
+     ],
+     [
+      121.4167,
+      22.5333
+     ],
+     [
+      121.75,
+      22.9167
+     ],
+     [
+      121.8167,
+      21.7667
+     ],
+     [
+      125.65,
+      20.6167
+     ],
+     [
+      132.35,
+      20.7667
+     ],
+     [
+      137.75,
+      18.0
+     ],
+     [
+      142.6667,
+      14.75
+     ],
+     [
+      145.7167,
+      15.2333
+     ],
+     [
+      145.7167,
+      15.2333
+     ],
+     [
+      147.3167,
+      16.95
+     ],
+     [
+      152.9167,
+      18.3333
+     ],
+     [
+      158.7833,
+      19.4333
+     ],
+     [
+      165.1667,
+      20.3667
+     ],
+     [
+      172.0333,
+      20.8667
+     ],
+     [
+      178.75,
+      20.8333
+     ],
+     [
+      -174.6,
+      20.9167
+     ],
+     [
+      -168.6167,
+      20.85
+     ],
+     [
+      -163.0333,
+      20.75
+     ],
+     [
+      -157.9667,
+      21.35
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Guam",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-03-25T05:00Z",
+    "lat_raw": "13-27N",
+    "lon_raw": "144-38E",
+    "local": "1945-03-25 1400(I)",
+    "page": "rg367-74802934/p03",
+    "note": "Underway from Guam with SNOOK and BURRFISH (port position; zone Item per narrative)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.6333,
+     13.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-03-26T03:00Z",
+    "lat_raw": "15-55N",
+    "lon_raw": "140-00E",
+    "local": "1945-03-26 1200(I)",
+    "page": "rg367-74802934/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0,
+     15.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-03-27T03:00Z",
+    "lat_raw": "18-49N",
+    "lon_raw": "136-41E",
+    "local": "1945-03-27 1200(I)",
+    "page": "rg367-74802934/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.6833,
+     18.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-03-28T03:00Z",
+    "lat_raw": "20-45N",
+    "lon_raw": "131-30E",
+    "local": "1945-03-28 1200(I)",
+    "page": "rg367-74802934/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.5,
+     20.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-03-29T03:00Z",
+    "lat_raw": "21-51N",
+    "lon_raw": "126-51E",
+    "local": "1945-03-29 1200(I)",
+    "page": "rg367-74802934/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.85,
+     21.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-03-30T03:00Z",
+    "lat_raw": "20-05N",
+    "lon_raw": "122-14E",
+    "local": "1945-03-30 1200(I)",
+    "page": "rg367-74802934/p05",
+    "note": "Submerged on station in Luzon Strait",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.2333,
+     20.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-03-31T03:00Z",
+    "lat_raw": "19-42N",
+    "lon_raw": "122-18E",
+    "local": "1945-03-31 1200(I)",
+    "page": "rg367-74802934/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3,
+     19.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-01T03:00Z",
+    "lat_raw": "19-18N",
+    "lon_raw": "121-01E",
+    "local": "1945-04-01 1200(I)",
+    "page": "rg367-74802934/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.0167,
+     19.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-02T03:00Z",
+    "lat_raw": "19-17N",
+    "lon_raw": "121-02E",
+    "local": "1945-04-02 1200(I)",
+    "page": "rg367-74802934/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.0333,
+     19.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-03T03:00Z",
+    "lat_raw": "20-14N",
+    "lon_raw": "121-36E",
+    "local": "1945-04-03 1200(I)",
+    "page": "rg367-74802934/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.6,
+     20.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-04T03:00Z",
+    "lat_raw": "20-15N",
+    "lon_raw": "122-14E",
+    "local": "1945-04-04 1200(I)",
+    "page": "rg367-74802934/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.2333,
+     20.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-05T03:00Z",
+    "lat_raw": "19-47N",
+    "lon_raw": "122-22E",
+    "local": "1945-04-05 1200(I)",
+    "page": "rg367-74802934/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3667,
+     19.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-06T03:00Z",
+    "lat_raw": "19-29N",
+    "lon_raw": "122-19E",
+    "local": "1945-04-06 1200(I)",
+    "page": "rg367-74802934/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3167,
+     19.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-07T03:00Z",
+    "lat_raw": "18-52N",
+    "lon_raw": "122-29E",
+    "local": "1945-04-07 1200(I)",
+    "page": "rg367-74802934/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.4833,
+     18.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-08T03:00Z",
+    "lat_raw": "18-58N",
+    "lon_raw": "122-29E",
+    "local": "1945-04-08 1200(I)",
+    "page": "rg367-74802934/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.4833,
+     18.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-09T03:00Z",
+    "lat_raw": "20-04N",
+    "lon_raw": "121-35E",
+    "local": "1945-04-09 1200(I)",
+    "page": "rg367-74802934/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.5833,
+     20.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-10T03:00Z",
+    "lat_raw": "21-32N",
+    "lon_raw": "122-06E",
+    "local": "1945-04-10 1200(I)",
+    "page": "rg367-74802934/p07",
+    "note": "Submerged in Bashi Channel; longitude digit faded (12?-06E)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.1,
+     21.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-11T03:00Z",
+    "lat_raw": "23-19N",
+    "lon_raw": "121-55E",
+    "local": "1945-04-11 1200(I)",
+    "page": "rg367-74802934/p08",
+    "note": "Lifeguard station east of Formosa for British carrier strikes",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.9167,
+     23.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-12T03:00Z",
+    "lat_raw": "23-35N",
+    "lon_raw": "121-47E",
+    "local": "1945-04-12 1200(I)",
+    "page": "rg367-74802934/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.7833,
+     23.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-13T03:00Z",
+    "lat_raw": "23-18N",
+    "lon_raw": "121-55E",
+    "local": "1945-04-13 1200(I)",
+    "page": "rg367-74802934/p08",
+    "note": "News of President Roosevelt's death received 1400",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.9167,
+     23.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-14T03:00Z",
+    "lat_raw": "23-45N",
+    "lon_raw": "122-00E",
+    "local": "1945-04-14 1200(I)",
+    "page": "rg367-74802934/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.0,
+     23.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-16T03:00Z",
+    "lat_raw": "25-05N",
+    "lon_raw": "122-39E",
+    "local": "1945-04-16 1200(I)",
+    "page": "rg367-74802934/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.65,
+     25.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-17T03:00Z",
+    "lat_raw": "23-02N",
+    "lon_raw": "121-52E",
+    "local": "1945-04-17 1200(I)",
+    "page": "rg367-74802934/p10",
+    "note": "Lifeguard for 5th Air Force strike",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.8667,
+     23.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 18a",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-17T19:00Z",
+    "lat_raw": "24-11N",
+    "lon_raw": "122-23E",
+    "local": "1945-04-18 0400(I)",
+    "page": "rg367-74802934/p35",
+    "note": "Radar intercept 80 MC (Section U)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3833,
+     24.1833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-18T03:00Z",
+    "lat_raw": "24-35N",
+    "lon_raw": "122-38E",
+    "local": "1945-04-18 1200(I)",
+    "page": "rg367-74802934/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.6333,
+     24.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 18b",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-18T10:30Z",
+    "lat_raw": "24-23N",
+    "lon_raw": "122-37E",
+    "local": "1945-04-18 1930(I)",
+    "page": "rg367-74802934/p35",
+    "note": "Radar intercepts, same as 2230 13 Apr and 0400 18 Apr (Section U)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.6167,
+     24.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 19a",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-18T20:00Z",
+    "lat_raw": "24-00N",
+    "lon_raw": "122-23E",
+    "local": "1945-04-19 0500(I)",
+    "page": "rg367-74802934/p35",
+    "note": "Radar intercept, same as 2230 13 Apr (Section U)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3833,
+     24.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-19T03:00Z",
+    "lat_raw": "24-08N",
+    "lon_raw": "122-30E",
+    "local": "1945-04-19 1200(I)",
+    "page": "rg367-74802934/p11",
+    "note": "Floating mine sunk by gunfire 1320",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.5,
+     24.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 19b",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-19T07:00Z",
+    "lat_raw": "24-10N",
+    "lon_raw": "122-25E",
+    "local": "1945-04-19 1600(I)",
+    "page": "rg367-74802934/p35",
+    "note": "Radar intercepts, same as 2230 13 Apr, 0400 18 Apr, 1930 14 Apr (Section U)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.4167,
+     24.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-20T03:00Z",
+    "lat_raw": "24-05N",
+    "lon_raw": "122-06E",
+    "local": "1945-04-20 1200(I)",
+    "page": "rg367-74802934/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.1,
+     24.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-21T03:00Z",
+    "lat_raw": "24-34N",
+    "lon_raw": "122-47E",
+    "local": "1945-04-21 1200(I)",
+    "page": "rg367-74802934/p12",
+    "note": "1415 ordered to Sakishima Gunto to search for downed aviators",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.7833,
+     24.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 21",
+    "patrol": 6,
+    "on_track": false,
+    "utc": "1945-04-21T13:00Z",
+    "lat_raw": "24-06N",
+    "lon_raw": "125-14E",
+    "local": "1945-04-21 2200(I)",
+    "page": "rg367-74802934/p35",
+    "note": "Radar intercepts 156 MC and a possible land-based beacon (Section U, two entries at this time and position)",
+    "fix": "Typed 125-14E (both entries) puts BANG 40 nm south of Miyako-jima, but the narrative (p12) has her southwest of Iriomote-jima at 2150 and arriving southeast of Ishigaki-jima at 2330; 123-14E would fit the first but not the second. Unresolved, so kept off the track"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.2333,
+     24.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-22T03:00Z",
+    "lat_raw": "24-03N",
+    "lon_raw": "124-16E",
+    "local": "1945-04-22 1200(I)",
+    "page": "rg367-74802934/p13",
+    "note": "0737 rescued Ens. Donald E. Corzine (USS CHENANGO Hellcat pilot) after 14 h in the water (account on report page 12)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2667,
+     24.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 22",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-22T03:00Z",
+    "lat_raw": "24-01N",
+    "lon_raw": "124-12E",
+    "local": "1945-04-22 1200(I)",
+    "page": "rg367-74802934/p36",
+    "note": "Radar intercept 104 MC (Section U); the narrative's noon position is 24-03N 124-16E",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2,
+     24.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-23T03:00Z",
+    "lat_raw": "24-40N",
+    "lon_raw": "122-37E",
+    "local": "1945-04-23 1200(I)",
+    "page": "rg367-74802934/p14",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.6167,
+     24.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 23a",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-23T06:00Z",
+    "lat_raw": "24-20N",
+    "lon_raw": "122-32E",
+    "local": "1945-04-23 1500(I)",
+    "page": "rg367-74802934/p36",
+    "note": "Radar intercepts, same as 2230 13 Apr and 0400 18 Apr (Section U)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.5333,
+     24.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 23b",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-23T13:20Z",
+    "lat_raw": "24-38N",
+    "lon_raw": "122-27E",
+    "local": "1945-04-23 2220(I)",
+    "page": "rg367-74802934/p36",
+    "note": "Radar intercept 155 MC, came on suddenly; plane contact on the SJ shortly after (Section U)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.45,
+     24.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 24a",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-23T20:30Z",
+    "lat_raw": "24-24N",
+    "lon_raw": "122-35E",
+    "local": "1945-04-24 0530(I)",
+    "page": "rg367-74802934/p36",
+    "note": "Radar intercept 70 MC (Section U)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.5833,
+     24.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 24b",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-23T20:45Z",
+    "lat_raw": "24-24N",
+    "lon_raw": "122-35E",
+    "local": "1945-04-24 0545(I)",
+    "page": "rg367-74802934/p36",
+    "note": "Radar intercept, same as 2230 13 Apr (Section U)",
+    "fix": "latitude typed with E; 24-24N as in the 0530 entry at the same position"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.5833,
+     24.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-24T03:00Z",
+    "lat_raw": "24-31N",
+    "lon_raw": "122-40E",
+    "local": "1945-04-24 1200(I)",
+    "page": "rg367-74802934/p14",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.6667,
+     24.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-25T03:00Z",
+    "lat_raw": "24-18N",
+    "lon_raw": "122-34E",
+    "local": "1945-04-25 1200(I)",
+    "page": "rg367-74802934/p14",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.5667,
+     24.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "radar",
+    "ref": "Radar Apr 25",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-25T11:00Z",
+    "lat_raw": "24-28N",
+    "lon_raw": "122-37E",
+    "local": "1945-04-25 2000(I)",
+    "page": "rg367-74802934/p36",
+    "note": "Radar intercept 80 MC (Section U)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.6167,
+     24.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-26T03:00Z",
+    "lat_raw": "24-25N",
+    "lon_raw": "122-36E",
+    "local": "1945-04-26 1200(I)",
+    "page": "rg367-74802934/p14",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.6,
+     24.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-27T03:00Z",
+    "lat_raw": "24-11N",
+    "lon_raw": "122-23E",
+    "local": "1945-04-27 1200(I)",
+    "page": "rg367-74802934/p15",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3833,
+     24.1833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-28T03:00Z",
+    "lat_raw": "24-24N",
+    "lon_raw": "122-36E",
+    "local": "1945-04-28 1200(I)",
+    "page": "rg367-74802934/p15",
+    "note": "1745 dive-bombed by a Val northwest of Yonaguni Jima",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.6,
+     24.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-29T03:00Z",
+    "lat_raw": "22-48N",
+    "lon_raw": "121-37E",
+    "local": "1945-04-29 1200(I)",
+    "page": "rg367-74802934/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.6167,
+     22.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-04-30T03:00Z",
+    "lat_raw": "22-49N",
+    "lon_raw": "121-32E",
+    "local": "1945-04-30 1200(I)",
+    "page": "rg367-74802934/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.5333,
+     22.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-01T03:00Z",
+    "lat_raw": "22-32N",
+    "lon_raw": "121-25E",
+    "local": "1945-05-01 1200(I)",
+    "page": "rg367-74802934/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.4167,
+     22.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-02T03:00Z",
+    "lat_raw": "22-55N",
+    "lon_raw": "121-45E",
+    "local": "1945-05-02 1200(I)",
+    "page": "rg367-74802934/p17",
+    "note": "0800 felt an earthquake while submerged",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.75,
+     22.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-03T03:00Z",
+    "lat_raw": "21-46N",
+    "lon_raw": "121-49E",
+    "local": "1945-05-03 1200(I)",
+    "page": "rg367-74802934/p17",
+    "note": "Departed area 1948",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.8167,
+     21.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-04T03:00Z",
+    "lat_raw": "20-37N",
+    "lon_raw": "125-39E",
+    "local": "1945-05-04 1200(I)",
+    "page": "rg367-74802934/p17",
+    "note": "Floating mine exploded by gunfire 1100",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.65,
+     20.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-05T03:00Z",
+    "lat_raw": "20-46N",
+    "lon_raw": "132-21E",
+    "local": "1945-05-05 1200(I)",
+    "page": "rg367-74802934/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.35,
+     20.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-06T03:00Z",
+    "lat_raw": "18-00N",
+    "lon_raw": "137-45E",
+    "local": "1945-05-06 1200(I)",
+    "page": "rg367-74802934/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.75,
+     18.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-07T03:00Z",
+    "lat_raw": "14-45N",
+    "lon_raw": "142-40E",
+    "local": "1945-05-07 1200(I)",
+    "page": "rg367-74802934/p18",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.6667,
+     14.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Saipan",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-08T01:58Z",
+    "lat_raw": "15-14N",
+    "lon_raw": "145-43E",
+    "local": "1945-05-08 1058(I)",
+    "page": "rg367-74802934/p18",
+    "note": "Moored alongside ORION at Saipan (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7167,
+     15.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Saipan",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-09T06:29Z",
+    "lat_raw": "15-14N",
+    "lon_raw": "145-43E",
+    "local": "1945-05-09 1829(M)",
+    "page": "rg367-74802934/p18",
+    "note": "Underway with SEGUNDO and JACK (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7167,
+     15.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-10T00:00Z",
+    "lat_raw": "16-57N",
+    "lon_raw": "147-19E",
+    "local": "1945-05-10 1200(M)",
+    "page": "rg367-74802934/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.3167,
+     16.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-11T00:00Z",
+    "lat_raw": "18-20N",
+    "lon_raw": "152-55E",
+    "local": "1945-05-11 1200(M)",
+    "page": "rg367-74802934/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.9167,
+     18.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-12T00:00Z",
+    "lat_raw": "19-26N",
+    "lon_raw": "158-47E",
+    "local": "1945-05-12 1200(M)",
+    "page": "rg367-74802934/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     158.7833,
+     19.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-13T00:00Z",
+    "lat_raw": "20-22N",
+    "lon_raw": "165-10E",
+    "local": "1945-05-13 1200(M)",
+    "page": "rg367-74802934/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     165.1667,
+     20.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-14T00:00Z",
+    "lat_raw": "20-52N",
+    "lon_raw": "172-02E",
+    "local": "1945-05-14 1200(M)",
+    "page": "rg367-74802934/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     172.0333,
+     20.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-15T00:00Z",
+    "lat_raw": "20-50N",
+    "lon_raw": "178-45E",
+    "local": "1945-05-15 1200(M)",
+    "page": "rg367-74802934/p19",
+    "note": "Crossed date line 1630",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     178.75,
+     20.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-15T23:00Z",
+    "lat_raw": "20-55N",
+    "lon_raw": "174-36W",
+    "local": "1945-05-15 1200(X)",
+    "page": "rg367-74802934/p19",
+    "note": "15 May (repeated) after crossing date line",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -174.6,
+     20.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-16T23:00Z",
+    "lat_raw": "20-51N",
+    "lon_raw": "168-37W",
+    "local": "1945-05-16 1200(X)",
+    "page": "rg367-74802934/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -168.6167,
+     20.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "noon",
+    "ref": "Noon",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-17T22:00Z",
+    "lat_raw": "20-45N",
+    "lon_raw": "163-02W",
+    "local": "1945-05-17 1200(W)",
+    "page": "rg367-74802934/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -163.0333,
+     20.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Pearl",
+    "patrol": 6,
+    "on_track": true,
+    "utc": "1945-05-18T21:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-05-18 1200(VW)",
+    "page": "rg367-74802934/p20",
+    "note": "0600 rendezvous with BASHAW and escort; moored SubBase Pearl (mooring time not given; noon assumed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,445 @@
+[
+ {
+  "key": "ss-215-growler",
+  "alias": "growler",
+  "name": "GROWLER",
+  "hull": "SS-215",
+  "class": "Gato",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-215-growler/tracks.geojson",
+  "periods": [
+   {
+    "n": 9,
+    "name": "Ninth War Patrol",
+    "dates": "15 May 1944 – 17 Jul 1944"
+   }
+  ]
+ },
+ {
+  "key": "ss-235-shad",
+  "alias": "shad",
+  "name": "SHAD",
+  "hull": "SS-235",
+  "class": "Gato",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-235-shad/tracks.geojson",
+  "periods": [
+   {
+    "n": 8,
+    "name": "Eighth War Patrol",
+    "dates": "26 Oct 1944 – 5 Jan 1945"
+   }
+  ]
+ },
+ {
+  "key": "ss-267-pompon",
+  "alias": "pompon",
+  "name": "POMPON",
+  "hull": "SS-267",
+  "class": "Gato",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-267-pompon/tracks.geojson",
+  "periods": [
+   {
+    "n": 7,
+    "name": "Seventh War Patrol",
+    "dates": "5 Jan 1945 – 12 Feb 1945"
+   }
+  ]
+ },
+ {
+  "key": "ss-283-tinosa",
+  "alias": "tinosa",
+  "name": "TINOSA",
+  "hull": "SS-283",
+  "class": "Gato",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-283-tinosa/tracks.geojson",
+  "periods": [
+   {
+    "n": 6,
+    "name": "Sixth War Patrol",
+    "dates": "30 Mar 1944 – 15 May 1944"
+   }
+  ]
+ },
+ {
+  "key": "ss-304-seahorse",
+  "alias": "seahorse",
+  "name": "SEAHORSE",
+  "hull": "SS-304",
+  "class": "Balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-304-seahorse/tracks.geojson",
+  "periods": [
+   {
+    "n": 5,
+    "name": "Fifth War Patrol",
+    "dates": "3 Jun 1944 – 19 Jul 1944"
+   }
+  ]
+ },
+ {
+  "key": "ss-312-burrfish",
+  "alias": "burrfish",
+  "name": "BURRFISH",
+  "hull": "SS-312",
+  "class": "Balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-312-burrfish/tracks.geojson",
+  "periods": [
+   {
+    "n": 6,
+    "name": "Sixth War Patrol",
+    "dates": "25 Mar 1945 – 13 May 1945"
+   }
+  ]
+ },
+ {
+  "key": "ss-384-parche",
+  "alias": "parche",
+  "name": "PARCHE",
+  "hull": "SS-384",
+  "class": "Balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-384-parche/tracks.geojson",
+  "periods": [
+   {
+    "n": 1,
+    "name": "First War Patrol",
+    "dates": "30 Mar 1944 – 23 May 1944"
+   }
+  ]
+ },
+ {
+  "key": "ss-385-bang",
+  "alias": "bang",
+  "name": "BANG",
+  "hull": "SS-385",
+  "class": "Balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": true,
+  "geojson": "boats/ss-385-bang/tracks.geojson",
+  "catalogId": 74802746,
+  "intro": "Every position BANG reported in her six WWII war patrol reports, transcribed from the ",
+  "listTitle": "Six war patrols",
+  "span": "29 Mar 1944 – 18 May 1945",
+  "periods": [
+   {
+    "n": 1,
+    "name": "First War Patrol",
+    "dates": "29 Mar – 14 May 1944",
+    "area": "Luzon Strait",
+    "co": "Lt. Cdr. A. R. Gallaher"
+   },
+   {
+    "n": 2,
+    "name": "Second War Patrol",
+    "dates": "6 Jun – 2 Aug 1944",
+    "area": "Marianas lifeguard · Luzon Strait",
+    "co": "Lt. Cdr. A. R. Gallaher"
+   },
+   {
+    "n": 3,
+    "name": "Third War Patrol",
+    "dates": "27 Aug – 29 Sep 1944",
+    "area": "Bonins · east of Formosa",
+    "co": "Lt. Cdr. A. R. Gallaher"
+   },
+   {
+    "n": 4,
+    "name": "Fourth War Patrol",
+    "dates": "25 Oct – 5 Dec 1944",
+    "area": "East of Formosa",
+    "co": "Lt. Cdr. A. R. Gallaher"
+   },
+   {
+    "n": 5,
+    "name": "Fifth War Patrol",
+    "dates": "2 Jan – 24 Feb 1945",
+    "area": "East China & Yellow Seas",
+    "co": "Cdr. A. R. Gallaher"
+   },
+   {
+    "n": 6,
+    "name": "Sixth War Patrol",
+    "dates": "25 Mar – 18 May 1945",
+    "area": "Luzon Strait · Formosa lifeguard",
+    "co": "Lt. Cdr. O. W. Bagby"
+   }
+  ],
+  "ports": [
+   {
+    "name": "Pearl Harbor",
+    "lon": -157.97,
+    "lat": 21.35
+   },
+   {
+    "name": "Midway",
+    "lon": -177.37,
+    "lat": 28.21
+   },
+   {
+    "name": "Saipan",
+    "lon": 145.72,
+    "lat": 15.21
+   },
+   {
+    "name": "Guam",
+    "lon": 144.65,
+    "lat": 13.45
+   }
+  ],
+  "places": [
+   {
+    "name": "FORMOSA",
+    "lon": 121.0,
+    "lat": 23.7
+   },
+   {
+    "name": "LUZON",
+    "lon": 121.1,
+    "lat": 16.6
+   },
+   {
+    "name": "CHINA",
+    "lon": 114.5,
+    "lat": 27.0
+   },
+   {
+    "name": "JAPAN",
+    "lon": 138.2,
+    "lat": 36.4
+   },
+   {
+    "name": "KOREA",
+    "lon": 127.8,
+    "lat": 36.4
+   },
+   {
+    "name": "OKINAWA",
+    "lon": 128.4,
+    "lat": 26.4
+   },
+   {
+    "name": "BONIN IS.",
+    "lon": 142.2,
+    "lat": 27.6
+   },
+   {
+    "name": "SAKISHIMA",
+    "lon": 124.6,
+    "lat": 24.0
+   },
+   {
+    "name": "YELLOW SEA",
+    "lon": 123.0,
+    "lat": 35.6
+   },
+   {
+    "name": "SOUTH CHINA SEA",
+    "lon": 116.0,
+    "lat": 17.5
+   }
+  ]
+ },
+ {
+  "key": "ss-395-redfish",
+  "alias": "redfish",
+  "name": "REDFISH",
+  "hull": "SS-395",
+  "class": "Balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-395-redfish/tracks.geojson",
+  "periods": [
+   {
+    "n": 2,
+    "name": "Second War Patrol",
+    "dates": "26 Oct 1944 – 2 Jan 1945"
+   }
+  ]
+ },
+ {
+  "key": "ss-403-atule",
+  "alias": "atule",
+  "name": "ATULE",
+  "hull": "SS-403",
+  "class": "Balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-403-atule/tracks.geojson",
+  "periods": [
+   {
+    "n": 2,
+    "name": "Second War Patrol",
+    "dates": "5 Jan 1945 – 7 Mar 1945"
+   }
+  ]
+ },
+ {
+  "key": "ss-411-spadefish",
+  "alias": "spadefish",
+  "name": "SPADEFISH",
+  "hull": "SS-411",
+  "class": "Balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-411-spadefish/tracks.geojson",
+  "periods": [
+   {
+    "n": 3,
+    "name": "Third War Patrol",
+    "dates": "5 Jan 1945 – 13 Feb 1945"
+   }
+  ]
+ },
+ {
+  "key": "dd-700-haynsworth",
+  "alias": "haynsworth",
+  "name": "Haynsworth",
+  "hull": "DD-700",
+  "class": "Allen M. Sumner",
+  "kind": "destroyer",
+  "max_kts": 25.0,
+  "dives": false,
+  "silhouette": "sumner",
+  "geojson": "ships/dd-700-haynsworth/track.geojson",
+  "title": "USS Haynsworth (DD-700)",
+  "heading": "USS Haynsworth (DD-700) — April 1945",
+  "catalogId": 633422068,
+  "intro": "Every position USS Haynsworth reported in her April 1945 war diary: Okinawa, the kamikaze hit of 6 April, then Ulithi, Eniwetok and Pearl Harbor on the way to repairs. Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "n": 1,
+    "name": "April 1945 war diary",
+    "dates": "1 – 30 Apr 1945",
+    "area": "Okinawa · Ulithi · Eniwetok · Pearl Harbor",
+    "co": "Cdr. S. N. Tackney"
+   }
+  ],
+  "home": [
+   [
+    126.5,
+    29.5
+   ],
+   [
+    134.5,
+    22.0
+   ]
+  ],
+  "ports": [
+   {
+    "name": "Pearl Harbor",
+    "lon": -157.97,
+    "lat": 21.35
+   },
+   {
+    "name": "Ulithi",
+    "lon": 139.74,
+    "lat": 10.07
+   },
+   {
+    "name": "Eniwetok",
+    "lon": 162.3,
+    "lat": 11.37
+   }
+  ],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   },
+   {
+    "name": "KYUSHU",
+    "lon": 131.0,
+    "lat": 32.4
+   },
+   {
+    "name": "FORMOSA",
+    "lon": 121.0,
+    "lat": 23.7
+   },
+   {
+    "name": "SAKISHIMA",
+    "lon": 124.6,
+    "lat": 24.0
+   },
+   {
+    "name": "PHILIPPINE SEA",
+    "lon": 134.5,
+    "lat": 21.0
+   },
+   {
+    "name": "CAROLINE IS.",
+    "lon": 146.0,
+    "lat": 7.8
+   },
+   {
+    "name": "MARSHALL IS.",
+    "lon": 168.0,
+    "lat": 7.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "endText": "End of April 1945 diary",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "air": "Air contact",
+   "attack": "Kamikaze hit",
+   "event": "Logged event"
+  },
+  "counts": [
+   [
+    "Kamikaze hits",
+    "attack"
+   ],
+   [
+    "Air contacts logged",
+    "air"
+   ]
+  ],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   },
+   {
+    "cls": "air",
+    "text": "Air contact (position assumed)"
+   },
+   {
+    "cls": "attack",
+    "text": "Kamikaze hit (position assumed)"
+   },
+   {
+    "cls": "event",
+    "text": "Logged event (position assumed)",
+    "ifPresent": true
+   }
+  ]
+ }
+]

@@ -1,0 +1,99 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-01,0800,I,26-41N,129-00E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-01,1200,I,26-40N,129-17E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-01,2000,I,26-22N,130-06E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-02,0800,I,23-07N,131-38E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-02,1200,I,23-10N,132-11E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-02,2000,I,23-37N,132-37E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-03,0800,I,26-34N,129-44E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-03,1200,I,26-42N,129-54E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-03,2000,I,27-08N,130-36E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-04,0800,I,26-39N,129-18E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-04,1200,I,26-22N,129-25E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-04,2000,I,25-48N,129-12E,rg367-633422068/p02,,yes,,,,,
+diary,,1945-04-05,0800,I,23-21N,128-51E,rg367-633422068/p03,,yes,,,,,
+diary,,1945-04-05,1200,I,23-53N,128-57E,rg367-633422068/p03,,yes,,,,,
+diary,,1945-04-05,2000,I,25-05N,129-03E,rg367-633422068/p03,,yes,,,,,
+diary,,1945-04-06,0800,I,27-11N,129-29E,rg367-633422068/p03,,yes,,,,,
+diary,,1945-04-06,1200,I,26-55N,129-31E,rg367-633422068/p03,,yes,,,,,
+diary,,1945-04-06,2000,I,27-23N,130-05E,rg367-633422068/p03,,yes,,,,,
+diary,,1945-04-07,0800,I,27-02N,129-29E,rg367-633422068/p04,,yes,,,,,
+diary,,1945-04-07,1200,I,26-50N,128-49E,rg367-633422068/p04,,yes,,,,,
+diary,,1945-04-07,2000,I,26-59N,130-38E,rg367-633422068/p04,,yes,,,,,
+diary,,1945-04-08,0800,I,26-22N,129-04E,rg367-633422068/p04,,yes,,,,,
+diary,,1945-04-08,1200,I,26-27N,129-21E,rg367-633422068/p04,,yes,,,,,
+diary,,1945-04-08,2000,I,26-02N,130-25E,rg367-633422068/p04,,yes,,,,,
+diary,,1945-04-09,0800,I,24-32N,133-07E,rg367-633422068/p04,,yes,,,,,"typed 133-?07E with an overstrike; read as 133-07E"
+diary,,1945-04-09,1200,I,24-36N,133-46E,rg367-633422068/p04,,yes,,,,,
+diary,,1945-04-09,2000,I,23-36N,134-51E,rg367-633422068/p04,,yes,,,,,
+diary,,1945-04-10,0800,I,18-53N,135-22E,rg367-633422068/p05,,yes,,,,,
+diary,,1945-04-10,1200,I,17-45N,136-08E,rg367-633422068/p05,,yes,,,,,
+diary,,1945-04-10,2000,I,15-23N,137-19E,rg367-633422068/p05,,yes,,,,,
+diary,,1945-04-11,0800,K,11-42N,139-02E,rg367-633422068/p05,"Clocks changed to -10 at 0100",yes,,,,,
+diary,,1945-04-11,1200,K,10-24N,139-47E,rg367-633422068/p05,,yes,,,,,
+narrative,arrive Ulithi,1945-04-11,1355,K,10-04N,139-44E,rg367-633422068/p05,"Entered Ulithi Lagoon via Mugai Channel; fuelled from Sepulga (port position)",yes,,,,,"Ulithi anchorage coordinates are not in the diary; standard harbour position used"
+narrative,moor Ulithi,1945-04-11,200,K,10-04N,139-44E,rg367-633422068/p05,"Berth #319, Ulithi Lagoon, alongside Yosemite (AD-19) for tender availability (port position). 12-16 Apr: at Ulithi for services and repairs",yes,,,,2000,"table row typed '200'; read as 2000, the third daily position. Ulithi anchorage coordinates are not in the diary; standard harbour position used"
+narrative,depart Ulithi,1945-04-17,0612,K,10-04N,139-44E,rg367-633422068/p05,"Underway for Pearl Harbor via Eniwetok, SOA 20 kts (port position)",yes,,,,,"Ulithi anchorage coordinates are not in the diary; standard harbour position used"
+narrative,Ulithi Lagoon,1945-04-17,0800,K,10-04N,139-44E,rg367-633422068/p05,"Table row reads 'Ulithi Lagoon' (port position)",yes,,,,,"Ulithi anchorage coordinates are not in the diary; standard harbour position used"
+diary,,1945-04-17,1200,K,10-05N,140-47E,rg367-633422068/p05,,yes,,,,,
+diary,,1945-04-17,2000,K,10-50N,142-08E,rg367-633422068/p05,,yes,,,,,
+diary,,1945-04-18,0800,K,11-51N,147-21E,rg367-633422068/p05,,yes,,,,,
+diary,,1945-04-18,1200,K,12-02N,148-17E,rg367-633422068/p05,,yes,,,,,
+diary,,1945-04-18,2000,K,12-41N,150-47E,rg367-633422068/p05,,yes,,,,,
+diary,,1945-04-19,0800,L,12-10N,156-37E,rg367-633422068/p06,"Clocks changed to -11 at 0100",yes,,154-37E,,,"lon 156-37E -> 154-37E (typo): as typed the ship is 343 nm from the 2000 fix 11 h earlier (31 kn) and 43' west of the 1200 fix 4 h later; 154-37E fits both at about 19 kn"
+diary,,1945-04-19,1200,L,11-27N,155-54E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-19,2000,L,13-13N,158-14E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-20,0800,L,11-41N,170-22E,rg367-633422068/p06,,yes,,160-22E,,,"lon 170-22E -> 160-22E (typo): 170 is 10 degrees (about 590 nm) east of the 2000 fix 11 h earlier; 160-22E fits between 158-14E and 161-08E"
+diary,,1945-04-20,1200,L,11-41N,161-08E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-20,2000,L,11-12N,161-58E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-21,0800,M,11-47N,162-07E,rg367-633422068/p06,"Clocks changed to -12 at 0100. 0817 made landfall and entered Eniwetok Lagoon through Deep Channel",yes,,,,,
+narrative,arrive Eniwetok,1945-04-21,1145,M,11-22N,162-18E,rg367-633422068/p06,"Moored alongside USS Gemsbock in berth K-3 to fuel (port position)",yes,,,,,"Eniwetok anchorage coordinates are not in the diary; standard harbour position used"
+narrative,moor Eniwetok,1945-04-21,1200,M,11-22N,162-18E,rg367-633422068/p06,"Table row reads 'Berth K-3 Eniwetok Atoll' (port position)",yes,,,,,"Eniwetok anchorage coordinates are not in the diary; standard harbour position used"
+narrative,depart Eniwetok,1945-04-21,1652,M,11-22N,162-18E,rg367-633422068/p06,"Underway for Pearl Harbor (port position)",yes,,,,,"Eniwetok anchorage coordinates are not in the diary; standard harbour position used"
+diary,,1945-04-21,2000,M,11-34N,162-58E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-22,0800,M,12-26N,165-53E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-22,1200,M,12-38N,166-59E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-22,2000,M,13-30N,168-56E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-23,0800,M,14-04N,172-16E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-23,1200,M,14-23N,173-25E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-23,2000,M,14-56N,175-12E,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-23,0800,Y,15-50N,179-16E,rg367-633422068/p06,"The diary repeats 23 April: clocks changed to plus 12 at 0100, crossing the date line",yes,,,,,
+diary,,1945-04-23,1200,Y,16-07N,179-48W,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-23,2000,Y,16-39N,177-32W,rg367-633422068/p06,,yes,,,,,
+diary,,1945-04-24,0800,X,17-10N,174-32W,rg367-633422068/p07,"Clocks advanced 1 hour to plus 11 at 0100",yes,,,,,
+diary,,1945-04-24,1200,X,17-26N,173-31W,rg367-633422068/p07,,yes,,,,,
+diary,,1945-04-24,2000,X,17-55N,171-29W,rg367-633422068/p07,,yes,,,,,
+diary,,1945-04-25,0800,WX,18-13N,168-27W,rg367-633422068/p07,"Clocks advanced half an hour to plus 10 1/2 at 0100",yes,,,,,"latitude typed 18-?13N with an overstrike; read as 18-13N"
+diary,,1945-04-25,1200,WX,18-33N,167-22W,rg367-633422068/p07,,yes,,,,,
+diary,,1945-04-25,2000,WX,19-00N,165-00W,rg367-633422068/p07,,yes,,,,,
+diary,,1945-04-26,0800,W,19-19N,162-16W,rg367-633422068/p07,"Clocks advanced half an hour to plus 10 at 0100",yes,,,,,
+diary,,1945-04-26,1200,W,19-33N,161-14W,rg367-633422068/p07,,yes,,,,,
+diary,,1945-04-26,2000,W,19-56N,159-07W,rg367-633422068/p07,,yes,,,,,
+diary,,1945-04-27,0800,VW,21-22N8,157-58W,rg367-633422068/p07,"Clocks changed to plus 9 1/2 (Hawaii war time) at 0100. 0516 sighted Diamond Head",yes,21-22N,,,,"latitude typed 21-22N8 (stray 8 after the N); read as 21-22N"
+narrative,arrive Pearl Harbor,1945-04-27,0819,VW,21-21N,157-58W,rg367-633422068/p07,"Moored in berth D3, Middle Lock (port position)",yes,,,,,"Pearl Harbor coordinates are not in the diary; standard harbour position used"
+narrative,moor Pearl Harbor,1945-04-27,1200,VW,21-21N,157-58W,rg367-633422068/p07,"Table row reads 'Berth D3 Pearl Harbor, T.H.' (port position)",yes,,,,,"Pearl Harbor coordinates are not in the diary; standard harbour position used"
+narrative,moor Pearl Harbor,1945-04-27,2000,VW,21-21N,157-58W,rg367-633422068/p07,"Table row reads 'Berth D3 Pearl Harbor, T.H.' (port position)",yes,,,,,"Pearl Harbor coordinates are not in the diary; standard harbour position used"
+narrative,moor Pearl Harbor,1945-04-28,0800,VW,21-21N,157-58W,rg367-633422068/p07,"Table row reads 'Berth D3, Pearl Harbor, T.H.' (port position)",yes,,,,,"Pearl Harbor coordinates are not in the diary; standard harbour position used"
+narrative,moor Pearl Harbor,1945-04-28,1200,VW,21-21N,157-58W,rg367-633422068/p07,"Table row reads 'Berth D3, Pearl Harbor, T.H.' (port position)",yes,,,,,"Pearl Harbor coordinates are not in the diary; standard harbour position used"
+narrative,depart Pearl Harbor,1945-04-28,1246,VW,21-21N,157-58W,rg367-633422068/p07,"Underway for Mare Island, Calif. (port position)",yes,,,,,"Pearl Harbor coordinates are not in the diary; standard harbour position used"
+diary,,1945-04-28,2000,VW,22-13N,156-29W,rg367-633422068/p07,,yes,,,,,
+diary,,1945-04-29,0800,V,24-10N,153-35W,rg367-633422068/p07,"Clocks changed to plus 9 at 0100",yes,,,,,
+diary,,1945-04-29,1200,V,25-00N,152-31W,rg367-633422068/p07,,yes,,,,,
+diary,,1945-04-29,2000,V,26-30N,150-09W,rg367-633422068/p07,,yes,,,,,
+diary,,1945-04-30,0800,UV,28-18N,146-48W,rg367-633422068/p08,"Clocks changed to plus 8 1/2 at 0100",yes,,,,,
+diary,,1945-04-30,1200,UV,28-54N,145-38W,rg367-633422068/p08,,yes,,,,,
+diary,,1945-04-30,2000,UV,30-03N,143-16W,rg367-633422068/p08,,yes,,,,,
+event,Landings,1945-04-01,0830,I,,,rg367-633422068/p02,"""The initial landings took place at 0830 while our task group remained from 28 to 50 miles East of the island ... providing air support and guarding against any possible fleet action by the enemy."" (Okinawa)",no,,,,,
+event,Picket 2,1945-04-02,1603,I,,,rg367-633422068/p02,"""At 1603 we took picket station #2 with center of formation bearing 100°T, 12 miles.""",no,,,,,
+air,Air 1,1945-04-03,1200,I,,,rg367-633422068/p02,"""an enemy plane was discovered approaching the T.G. This was shot down by C.A.P. before it could come in.""",no,,,,,
+air,Air 2,1945-04-03,1720,I,,,rg367-633422068/p02,"""several enemy planes were picked up by radar. Four of these were shot down by C.A.P. and the rest turned away.""",no,,,,,
+event,Picket 1,1945-04-05,1700,I,,,rg367-633422068/p03,"""At 1700 we took picket station #1, 12 miles bearing 060°T from our group.""",no,,,,,
+air,Air 3,1945-04-06,1232,I,,,rg367-633422068/p03,"""1232 C/C to 020°T ... The SC-3 radar picked up bogey at 010°, distance 22 miles ... Fighters vectored out from task group merged with bogey on scope until raid had passed close aboard port beam.""",no,,,,,
+air,Air 4,1945-04-06,1245,I,,,rg367-633422068/p03,"""1245 the sound of dog-fight and MG fire was heard ... suddenly a Judy appeared in a very steep dive, out of the clouds, with two friendly Corsairs ... speed was increased to 25 knots ... The bomb fell harmlessly into the water about 1000yds abeam.""",no,,,,,
+attack,Hit,1945-04-06,1255,I,,,rg367-633422068/p03,"""Judy ... finally hit in main radio transmitter room, causing large fires"" (frames 65-88, main deck house; radio transmitter room, main radio and CIC ruptured and scorched; all radio and radar equipment destroyed or inoperative; galley scorched; flag bags and signal flags destroyed). The diary gives no time for the hit: placed at 1255, after the 1245 dog-fight and before the fires were under control (about 1300)",no,,,,1250,"Action report 140065945 p. 3: ""striking at 1250 Item"". COMDESRON 62 has 1318 and South Dakota 1321 (report received)"
+event,Fires out,1945-04-06,1300,I,,,rg367-633422068/p04,"""The following personnel casualties were sustained: Seven dead, eleven critically wounded, fourteen slightly wounded. By13?? all fires were reported under control, and we rejoined task group ... Since our radar was out, we were coached, by other ships, in our station keeping."" (time typed 13?? with overstrike; read as about 1300)",no,,,,,
+air,Air 5,1945-04-07,1210,I,,,rg367-633422068/p04,"""at 1210 Hancock was hit by a suicide dive bomber.""",no,,,,,
+event,Rescue,1945-04-07,1240,I,,,rg367-633422068/p04,"""From 1240 to 1345 we picked up 8 men who had been blown into the water when Hancock was hit.""",no,,,,,
+air,Air 6,1945-04-07,1420,I,,,rg367-633422068/p04,"""At 1420 another enemy dive bomber dove on the Essex, but she was shot down by AA fire before she could hit.""",no,,,,,
+event,Detached,1945-04-09,1315,I,,,rg367-633422068/p05,"""At 1315 ... we were detached from T.U. 58.3.4 and joined T.U. 58.3.10 proceeding to Ulithi."" (Hancock, Cabot, Stemble and Haynsworth)",no,,,,,
+event,Depth charges,1945-04-22,1902,M,,,rg367-633422068/p06,"""Between 1902 and 1929 we made two depth charge attacks on sonar contact with negative results. Contact classified as shoals.""",no,,,,,

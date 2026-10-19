@@ -1,0 +1,12 @@
+# USS SPADEFISH (SS-411). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: SPADEFISH
+hull: SS-411
+class: Balao
+kind: submarine
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 3, name: Third War Patrol, dates: 5 Jan 1945 – 13 Feb 1945 }

@@ -1,0 +1,12 @@
+# USS POMPON (SS-267). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: POMPON
+hull: SS-267
+class: Gato
+kind: submarine
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 7, name: Seventh War Patrol, dates: 5 Jan 1945 – 12 Feb 1945 }
