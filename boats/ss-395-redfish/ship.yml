@@ -2,6 +2,7 @@
 name: REDFISH
 hull: SS-395
 class: Balao
+silhouette: balao     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
 kind: submarine
 max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
 dives: false

@@ -166,6 +166,14 @@ oni-54:
   rights: Public domain (U.S. government publication)
   used_for: silhouettes/silhouettes.yml (each ship's heights and length, as its plate prints them)
 
+oni-222-us:
+  title: ONI 222-US, Recognition Manual, United States Naval Vessels (issued 1 September 1945)
+  by: Office of Naval Intelligence, Division of Naval Intelligence
+  held: Google Books (full view), id Epii9ppEzeYC
+  url: https://www.google.com/books/edition/ONI_222_US/Epii9ppEzeYC
+  rights: Public domain (U.S. government publication)
+  used_for: silhouettes/silhouettes.yml (GATO class plate, p. 113; BALAO class plate, p. 109)
+
 # ── Datasets ───────────────────────────────────────────────────────────────────────────────────
 
 etopo1:
