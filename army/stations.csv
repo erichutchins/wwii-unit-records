@@ -17,10 +17,10 @@ unit,date,station,place,offset,grid,grid_on,page,source,note
 106aaa-d,1944-08-27,"5 mi SW of Veiron, France, (552408)",Voiron,5 mi SW,552408,lambert3,rg64-565868906/p1161,mr,"Fwd Det. ""Veiron"" as typed: Voiron (Isère)."
 106aaa-d,1944-08-31,"1 mi SE of Bourgoin, France, (324681)",Bourgoin,1 mi SE,324681,lambert2,rg64-565868906/p1165,mr,Fwd Det.
 106aaa-d,1944-09-01,"1 Km E. of Chazey, France. (276035)",Chazey-sur-Ain,1 km E,276035,lambert2,rg64-569976582/p2947,mr,"Fwd Det. Record of events: ""Left area 1 mi SE of Bourgoin, 0755 hrs, Arrived 1 Km E. of Chazey, 1215 Hrs. Distance traveled 36 mi. Weather, Rain, Warm. No AA Action."""
-106aaa-d,1944-09-02,"?arambon, France, (?-300197)",Varambon,,?-300197,lambert2,rg64-569976582/p2948,mr,"Fwd Det. Station line blurred; the record of events reads ""Arrived Varambon, 1800 hrs. Distance traveled 18 miles."" (read by Eric). Varambon (Ain)."
+106aaa-d,1944-09-02,"?arambon, France, (?-300197)",Varambon,,?-300197,lambert2,rg64-569976582/p2948,mr,"Fwd Det. Station line blurred; the record of events reads ""Arrived Varambon, 1800 hrs. Distance traveled 18 miles."" (read on the page image). Varambon (Ain)."
 106aaa-d,1944-09-03,"2 Km NNE of Druillat, France, (292245)",Druillat,2 km NNE,292245,lambert2,rg64-569976582/p2949,mr,Fwd Det. Distance digit partly hidden by the handwritten note; 2 Km as on 4 Sep.
 106aaa-d,1944-09-04,"En route from 2 Km NNE of Druillat, 292245",,,292245,lambert2,rg64-569976582/p2950,mr,Fwd Det. On the move; no position.
-106aaa-d,1944-09-07,1500 yds E. of Adam-Les-Passavant (P-07463?),Adam-lès-Passavant,1500 yd E,P-07463?,lambert2,rg64-569976582/p2953,mr,"Faint carbon; Eric read ""Aiams-As-Passavant""; 9 Sep (p2955) has the same station with grid P-074638. The grid settles the village: in square P the September references fit 100 m units within 1 km (Viéthorey P-074766, Nans P-074830, Abbenans P-074873), and P-074638 falls 12.8 km south of the Viéthorey station, inside the commune of Adam-lès-Passavant (Doubs)."
+106aaa-d,1944-09-07,1500 yds E. of Adam-Les-Passavant (P-07463?),Adam-lès-Passavant,1500 yd E,P-07463?,lambert2,rg64-569976582/p2953,mr,"Faint carbon; reads ""Aiams-As-Passavant""; 9 Sep (p2955) has the same station with grid P-074638. The grid settles the village: in square P the September references fit 100 m units within 1 km (Viéthorey P-074766, Nans P-074830, Abbenans P-074873), and P-074638 falls 12.8 km south of the Viéthorey station, inside the commune of Adam-lès-Passavant (Doubs)."
 106aaa-d,1944-09-10,"1500 Yds SW Viethorey, France, (P-074766)",Viéthorey,1500 yd SW,P-074766,lambert2,rg64-569976582/p2956,mr,
 106aaa-d,1944-09-13,"Nans, France, (P-074830)",Nans (Doubs),,P-074830,lambert2,rg64-569976582/p2959,mr,"Page headed ""TRUE COPY""."
 106aaa-d,1944-09-14,"2 Km NW of Abbenans, France (P-074873)",Abbenans,2 km NW,P-074873,lambert2,rg64-569976582/p2960,mr,
@@ -28,7 +28,7 @@ unit,date,station,place,offset,grid,grid_on,page,source,note
 106aaa-d,1944-09-23,"2000 yds NE of Dounoux, France (V-056486)",Dounoux,2000 yd NE,V-056486,ndg,rg64-569976582/p2969,mr,
 106aaa-d,1944-09-26,"1 9/10 mi No of Epinal, France (V-044572)",Épinal,1.9 mi N,V-044572,ndg,rg64-569976582/p2972,mr,
 106aaa-d,1944-09-27,"500 Yds S. of Deyvillers, France (V-093557)",Deyvillers,500 yd S,V-093557,ndg,rg64-569976582/p2973,mr,
-106aaa-d,1944-09-30,"1 Km SE of ?eme?il, France, (V-167578)",Méménil,1 km SE,V-167578,ndg,rg64-569976582/p2976,mr,"Town name blurred (""Memeninil"" on 1 Oct, p1807); read as Méménil (Vosges) by Eric and me; fits the grid square V and the move east from Deyvillers."
+106aaa-d,1944-09-30,"1 Km SE of ?eme?il, France, (V-167578)",Méménil,1 km SE,V-167578,ndg,rg64-569976582/p2976,mr,"Town name blurred (""Memeninil"" on 1 Oct, p1807); read as Méménil (Vosges); fits the grid square V and the move east from Deyvillers."
 106aaa-d,1944-10-04,"1 Km NE of Me?eni?l, France (V-167573)",Méménil,1 km NE,V-167573,ndg,rg64-572189240/p1810,mr,
 106aaa-d,1944-10-07,"Gugnecourt, France (V-169616)",Gugnécourt,,V-169616,ndg,rg64-572189240/p1814,mr,
 106aaa-d,1944-10-25,"500 Yds. S. Rambersvillers, Fr. (V-184712)",Rambervillers,500 yd S,V-184712,ndg,rg64-572189240/p1837,mr,
@@ -36,7 +36,7 @@ unit,date,station,place,offset,grid,grid_on,page,source,note
 106aaa-d,1944-11-13,"Passavant, France (J-762365)",Passavant-la-Rochère,,J-762365,lambert2,rg64-576294507/p3628,mr,"Not September's Passavant (Doubs). J-762365 is on the Lambert Zone II grid, not the Nord de Guerre grid the battery had used since 20 Sep: on Zone II it falls 0.4 km from Passavant-la-Rochère (Haute-Saône). The same letter J is near Grenoble on Zone III (Aug 1944). See grids.html."
 106aaa-d,1944-11-23,"Hudiviller, France",Hudiviller,,,,rg64-576294507/p3638,mr,
 106aaa-d,1944-11-24,"Rohr, France",Rohr,,,,rg64-576294507/p3639,mr,
-106aaa-d,1944-11-25,"Jugenheimer, France",Ingenheim,,,,rg64-576294507/p3640,mr,"As typed (""Jugenheimer"", confirmed by Eric). Placed at Ingenheim (Bas-Rhin), the only close match: 4.8 km (3 mi) from Rohr, the day before, and 8.4 km (5 mi) from Ringendorf, three days after."
+106aaa-d,1944-11-25,"Jugenheimer, France",Ingenheim,,,,rg64-576294507/p3640,mr,"As typed (""Jugenheimer"", checked on the page). Placed at Ingenheim (Bas-Rhin), the only close match: 4.8 km (3 mi) from Rohr, the day before, and 8.4 km (5 mi) from Ringendorf, three days after."
 106aaa-d,1944-11-28,"Ringendorf, France",Ringendorf,,,,rg64-576294507/p3643,mr,"""4th"" handwritten in the margin."
 106aaa-d,1944-12-01,"Ringendorf, France (Q-8623)",Ringendorf,,Q-8623,ndg,rg64-578451549/p2630,mr,
 106aaa-d,1944-12-08,"Zutzendorf, France (Q-8628)",Zutzendorf,,Q-8628,ndg,rg64-578451549/p2637,mr,
