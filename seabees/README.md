@@ -33,6 +33,15 @@ its page (`ref`), in the forms listed in `../SOURCES.yml`.
   HyperWar, `bases-NN`): what the battalion built, and where, often to the month only.
 - ***Marines in the Central Solomons*** (Rentz, 1952; HyperWar): the 30 June 1943 landings at
   Oloana Bay (Wickham Anchorage, Vangunu) and Viru Harbor.
+- **War diaries** (NARA RG 38, `rg38-<file unit>/pNNNN`) of the ships and commands that moved the
+  battalion: Commander Amphibious Force South Pacific (May 1943, the Forward Echelon's six LSTs to
+  Townsville), Transport Division Two (May-June 1943, Nouméa to Guadalcanal), Commander Task Group
+  32.3 (June-July 1943, the Russells and the landings), Commander Task Force 31's operation and
+  loading orders for the New Georgia landings, Commander Task Group 31.3 (September and December
+  1943), and LST-824 and LST-898 (April 1945, Saipan to Okinawa). Found with a catalog search for the
+  battalion's name (`"20th Construction Battalion"`, `"20th USN Construction"`, `"20th NCB"` and so on)
+  and read on the scans. The history sheets' chronology (`ncbhist-020/p10`-`p12`) gives the rest of the
+  sailings, without ships.
 
 ## Files
 
@@ -45,6 +54,19 @@ Hand-edited:
 - `stations.csv`: each place the battalion, or one part of it, was recorded, with its source
 - `places.csv`: coordinates (`python3 tools/geocode_places.py records/seabees/places.csv` fills
   rows that have a `query`; hand-placed rows say where and why)
+
+- `voyages.csv`: the crossings between two stations, and what is known of the ships: `unit`, `part`,
+  `from_date` and `to_date` (the dates of the stations it joins: the page draws the legs between them),
+  `sailed`, `arrived`, `from_place`, `to_place`, `ships` (as the record names them), `status`
+  (`confirmed`: the ship's or the command's diary has the battalion aboard; `partial`: the equipment's
+  craft are named, not the men's; `planned`: from a loading order, before it sailed; `ordered`: a
+  diary orders the move; `named`: the history sheet names the ship; `not recorded`), `carried` (what
+  the record says was embarked), `ref`, `note`
+- `voyage_positions.csv`: positions a ship logged on the way (`unit` and `from_date` pick the voyage),
+  `seq`, `date`, `time` (local), `zone` (the zone letter: `L` = GMT+11, `K` = GMT+10, `I` = GMT+9),
+  `lat`, `lon` exactly as typed, `lat_fix`/`lon_fix` and `fix_note` for a typing slip, `on_track`
+  (`no` to leave a position off the drawn track), `ref`. Only the flagship's or the ship's own position:
+  a convoy's ships sailed together, so it stands for them all
 
 Generated (`python3 tools/fetch_station_weather.py seabees`):
 
@@ -63,11 +85,11 @@ Generated (`python3 tools/fetch_station_weather.py seabees`):
 | Column | Meaning |
 |---|---|
 | `unit` | Key into `units.csv` |
-| `part` | Which part of the battalion the row is about: `battalion` (all of it), `first wave` and `second wave` (the two sailings of 1942), `Forward Echelon` and `Rear Echelon` (the halves of May 1943 – June 1944, later the 1st and 2nd Sections), and within the Rear Echelon `Oloana Bay group`, `Viru company` and `Bau unit` |
+| `part` | Which part of the battalion the row is about: `battalion` (all of it), `first wave` and `second wave` (the two sailings of 1942), `Forward Echelon` and `Rear Echelon` (the halves of May 1943 – June 1944, later the 1st and 2nd Sections), and within the Rear Echelon `Oloana Bay group`, `Viru company` and `Bau unit`; `first echelon 1945` and `second echelon 1945` (Saipan to Okinawa, April-May 1945) |
 | `date` | The date the source gives for the row, ISO. For a muster-roll entry, the date of the entry (a transfer, a forwarding sheet); it shows the battalion there that day, not when it arrived |
 | `station` | The source's words, as typed or printed, abridged with `...` |
 | `place` | Key into `places.csv`; empty when the row has no position |
-| `source` | `muster` (the rolls), `ncbhist` (the Historical Information sheet), `bases` (*Building the Navy's Bases*), `mcsol` (*Marines in the Central Solomons*) |
+| `source` | `muster` (the rolls), `wardiary` (a ship's or a command's war diary), `ncbhist` (the Historical Information sheet and the museum's chronology), `bases` (*Building the Navy's Bases*), `mcsol` (*Marines in the Central Solomons*) |
 | `ref` | The citation: `rg24-<file unit>/pNNNN`, `ncbhist-NNN/pN`, `bases-NN`, or a URL; several separated by `;` |
 | `last_day` | `yes` when the row's date is the last day at the place (the day it sailed, or a place seen in passing): the stay doesn't run on to the next row |
 | `assumed` | What the row assumes, if anything: `date` (the source gives only the month; the row is put on the 15th) or `place` (the source names a mail address, an island or a group, or several places; the note says where the point is drawn and why) |
@@ -80,8 +102,11 @@ and don't say who was in which group.
 
 ## Not here yet
 
-- The ships: no roll or card names the transports, and the 1942 and 1945 crossings are known only
-  by their dates. The war diaries of the New Georgia landings that name the 20th
-  (`../inventory.yml`, `ncb-war-diaries`) should say which ships carried its groups.
-- March 1945, between Eniwetok (26 Feb) and Saipan (9 Apr): the reports name no place.
+- The ocean transports of October and November 1942 (San Francisco and San Pedro to Nouméa),
+  September 1944 (Banika to San Francisco) and February 1945 (San Francisco to Saipan), and the
+  second echelon's ship to Okinawa in May 1945: no record found online names them. The battalion's
+  cruise book, *Log of the 20th U.S. Naval Construction Battalion, First Cruise, 1942-1944*
+  (Baton Rouge: Army & Navy Publishing Co., [1945?]; Navy Department Library, New York Public
+  Library), may.
+- The other two of the four LSTs of April 1945.
 - The 79th's 1943–44 in Alaska, and its camp on Okinawa.

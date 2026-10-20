@@ -94,8 +94,8 @@ units:   # Army units in army/: each one's station history
 
 seabees:   # Naval construction battalions in seabees/: each one's stations
   20ncb:   # 20th Naval Construction Battalion
-    record: { status: mapped, from: 1942-08-20, to: 1945-08-29, stations: 48, sources: [muster, ncbhist, bases, mcsol], nara: [190273312], note: "Both halves of 1943-44. The crossings' ships and dates of sailing aren't in the rolls; Mar 1945 (between Eniwetok and Saipan) has no place." }
+    record: { status: mapped, from: 1942-08-20, to: 1945-08-29, stations: 64, sources: [muster, ncbhist, bases, mcsol], nara: [190273312], note: "Both halves of 1943-44, and the two echelons of April-May 1945. Ships in voyages.csv where found." }
   79ncb:   # 79th Naval Construction Battalion
     record: { status: transcribed, from: 1945-01-31, to: 1945-10-12, stations: 5, sources: [muster, ncbhist, bases], nara: [190327559], note: "1945 only; Alaska (1943-44) not transcribed. Its camp on Okinawa isn't located." }
-  ncb-war-diaries:   # the New Georgia landings' war diaries that name the 20th
-    record: { status: available, nara: [134297927, 78141899, 78208053, 78135154], note: "CTG 32.3 (Jun and Jul 1943), CTG 31.3 (Sep 1943), LST-449 (Jul 1943): which ships carried the 20th's groups to Viru and Oloana Bay. Not read yet." }
+  ncb-war-diaries:   # war diaries of the ships and commands that moved the 20th (voyages.csv, voyage_positions.csv)
+    record: { status: mapped, nara: [78130084, 134266079, 78205374, 134297927, 78141899, 135925349, 134319760, 78208053, 78285654, 633416845, 77471978], note: "The ships of 1943 and April 1945, with the logged positions of two voyages. The 1942, 1944 and February 1945 transports and the May 1945 second echelon's aren't found; the cruise book (not online) may name them." }
