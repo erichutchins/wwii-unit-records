@@ -73,6 +73,12 @@ ships:
     folder: ships/dd-700-haynsworth
     records:
       1945-04: { status: mapped, nara: [633422068], files: [positions], note: "April 1945 war diary: Okinawa, the 6 April kamikaze hit, the voyage to Pearl Harbor" }
+  DE-221:   # USS Solar
+    folder: ships/de-221-solar
+    records:
+      1944-02: { status: found, nara: [633401453, 78423064, 78471665, 78503825, 78594588, 134359696], note: "war diaries 15 Feb - 31 Aug 1944, not transcribed" }
+      1944-09: { status: mapped, nara: [78684020, 78709413, 139825595, 139905513, 633401458, 139992648, 633449597, 77464063, 77498013, 77513304, 77526853, 77595243], files: [positions], note: "war diaries Sep 1944 - Oct 1945: four Mediterranean convoys, training duty, Guantanamo, Miami, Navy Day at Baltimore" }
+      history: { status: found, nara: [77691503], note: "one-page war history" }
 
 units:   # Army units in army/: each one's station history
   62ca-c:   # Battery C, 62nd Coast Artillery (AA) / 62nd AAA Gun Bn

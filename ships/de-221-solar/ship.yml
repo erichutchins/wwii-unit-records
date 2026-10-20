@@ -1,0 +1,58 @@
+# USS Solar (DE-221): her war diaries, September 1944 - October 1945. Hand-edited; see boats/ss-385-bang/ship.yml.
+name: Solar
+hull: DE-221
+class: Buckley
+kind: destroyer escort
+# Her war history (NARA 77691503) gives 23 kn, a Buckley's turbo-electric top speed; the diaries' own legs run at
+# convoy speed, 10-12 kn.
+max_kts: 23.0
+dives: false
+
+map:
+  title: USS Solar (DE-221)
+  heading: USS Solar (DE-221) — September 1944 to October 1945
+  intro: "Every position USS Solar reported in her war diaries from September 1944 to October 1945: four Atlantic convoys
+    to North Africa and back (GUS-50 home, UGS-57/GUS-57, UGS-72/GUS-74 and UGS-84/GUS-86), training off Norfolk,
+    New London and Casco Bay, then Guantanamo, Miami and Navy Day at Baltimore. Transcribed from the "
+  introLink: National Archives scans
+  introEnd: . Click any point to see the page it came from.
+  periods:
+    - { n: 1, name: War diaries, dates: 1 Sep 1944 – 31 Oct 1945, area: North Atlantic · Mediterranean · U.S. East Coast · Caribbean,
+        co: Lt. Cdr. H. A. Hull; Lt. Cdr. W. F. Grubbs; Lt. Donough Prince (acting); George R. Brines }
+  home: [[-82.0, 44.0], [16.0, 18.0]]
+  rotate: 35     # centre the projection on the Atlantic (the Pacific ships use the default, 160E)
+  ports:
+    - { name: Mers-el-Kebir, lon: -0.68, lat: 35.73 }
+    - { name: Gibraltar, lon: -5.35, lat: 36.13 }
+    - { name: Bizerte, lon: 9.87, lat: 37.27 }
+    - { name: Palermo, lon: 13.37, lat: 38.13 }
+    - { name: Boston, lon: -71.03, lat: 42.35 }
+    - { name: Casco Bay, lon: -70.22, lat: 43.68 }
+    - { name: New York, lon: -74.0, lat: 40.7 }
+    - { name: Norfolk, lon: -76.33, lat: 36.95 }
+    - { name: New London, lon: -72.08, lat: 41.35 }
+    - { name: Philadelphia, lon: -75.18, lat: 39.88 }
+    - { name: Guantanamo, lon: -75.15, lat: 19.9 }
+    - { name: Miami, lon: -80.18, lat: 25.77 }
+    - { name: Havana, lon: -82.35, lat: 23.13 }
+    - { name: Baltimore, lon: -76.6, lat: 39.28 }
+  places:
+    - { name: NORTH ATLANTIC, lon: -42.0, lat: 38.5 }
+    - { name: AZORES, lon: -27.5, lat: 38.4 }
+    - { name: BERMUDA, lon: -64.8, lat: 32.3 }
+    - { name: MOROCCO, lon: -6.5, lat: 32.5 }
+    - { name: ALGERIA, lon: 2.5, lat: 34.0 }
+    - { name: MEDITERRANEAN, lon: 6.0, lat: 38.8 }
+    - { name: CUBA, lon: -79.0, lat: 21.8 }
+  listTitle: War diaries
+  daysLabel: Days covered
+  endText: End of the October 1945 diary
+  pageNoun: war diary page
+  docAlt: war diary
+  labels: { ship: Ships hit / mine sunk (their position), event: Logged event }
+  counts: [[Ships hit in her convoy, ship], [Logged events, event]]
+  legend:
+    - { cls: fix, text: War diary position }
+    - { cls: ship, text: "Ships hit, mine sunk (the diary's position for them)" }
+    - { cls: event, text: Logged event (position assumed), ifPresent: true }
+    - { cls: "off", text: Position left off the track, showOff: true }

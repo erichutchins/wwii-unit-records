@@ -418,6 +418,17 @@
    26
   ]
  },
+ "77464063": {
+  "title": "USS SOLAR - War Diary, 6/1-30/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77464063",
+  "pages": [
+   1,
+   2
+  ]
+ },
  "77471978": {
   "title": "USS LST-898 - War Diary, 2/1/45 to 5/31/45",
   "series": "World War II War Diaries, Other Operational Records and Histories",
@@ -427,6 +438,51 @@
   "pages": [
    4,
    5
+  ]
+ },
+ "77498013": {
+  "title": "USS SOLAR - War Diary, 7/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77498013",
+  "pages": [
+   1
+  ]
+ },
+ "77513304": {
+  "title": "USS SOLAR - War Diary, 8/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77513304",
+  "pages": [
+   1
+  ]
+ },
+ "77526853": {
+  "title": "USS SOLAR - War Diary, 9/1-30/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77526853",
+  "pages": [
+   1,
+   2,
+   3
+  ]
+ },
+ "77595243": {
+  "title": "USS SOLAR - War Diary, 10/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77595243",
+  "pages": [
+   1,
+   2,
+   3,
+   4
   ]
  },
  "78130084": {
@@ -474,6 +530,37 @@
   "pages": [
    99,
    104
+  ]
+ },
+ "78684020": {
+  "title": "USS SOLAR - War Diary, 9/1/44 to 10/31/44",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78684020",
+  "pages": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ]
+ },
+ "78709413": {
+  "title": "USS SOLAR - War Diary, 11/1-30/44",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78709413",
+  "pages": [
+   1,
+   2,
+   3,
+   4,
+   5
   ]
  },
  "134266079": {
@@ -544,6 +631,44 @@
    16,
    17,
    18
+  ]
+ },
+ "139825595": {
+  "title": "USS SOLAR - War Diary, 12/1/44 to 1/31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/139825595",
+  "pages": [
+   1,
+   2,
+   3
+  ]
+ },
+ "139905513": {
+  "title": "USS SOLAR - War Diary, 2/1-28/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/139905513",
+  "pages": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ "139992648": {
+  "title": "USS SOLAR - War Diary, 4/1-30/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/139992648",
+  "pages": [
+   1,
+   2,
+   3,
+   4
   ]
  },
  "190273312": {
@@ -1148,6 +1273,18 @@
    874
   ]
  },
+ "633401458": {
+  "title": "USS Solar - War Diary, 3/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/633401458",
+  "pages": [
+   1,
+   2,
+   3
+  ]
+ },
  "633416845": {
   "title": "USS LST-824 - War Diary, 4/1-30/45",
   "series": "World War II War Diaries, Other Operational Records and Histories",
@@ -1173,6 +1310,19 @@
    6,
    7,
    8
+  ]
+ },
+ "633449597": {
+  "title": "USS Solar - War Diary, 5/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/633449597",
+  "pages": [
+   1,
+   2,
+   3,
+   4
   ]
  }
 }
