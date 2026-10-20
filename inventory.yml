@@ -92,6 +92,35 @@ units:   # Army units in army/: each one's station history
   9ad:   # 9th Armored Division
     record: { status: mapped, from: 1944-04-15, to: 1945-05-08, stations: 17, sources: [div], nara: [579493448] }
 
+commands:   # Headquarters' war diaries in commands/: one catalog item per month
+  comsubpac:   # Commander Submarine Force, Pacific Fleet (Task Force Seventeen)
+    folder: commands/comsubpac
+    records:
+      1944-01: { status: not-searched }
+      1944-02: { status: available, nara: [78324939] }
+      1944-03: { status: available, nara: [78383462] }
+      1944-04: { status: available, nara: [78409851] }
+      1944-05: { status: available, nara: [78450785] }
+      1944-06: { status: available, nara: [78488720] }
+      1944-07: { status: available, nara: [78549315] }
+      1944-08: { status: available, nara: [78618461] }
+      1944-09: { status: available, nara: [134364392] }
+      1944-10: { status: transcribed, nara: [139761402], files: [disposition, task_organization, changes, log], note: "every page but the cover; submarines only in the dispositions; one reader" }
+      1944-11: { status: available, nara: [78697620] }
+      1944-12: { status: available, nara: [139801465] }
+      1945-01: { status: available, nara: [139848583] }
+      1945-02: { status: available, nara: [139897888] }
+      1945-03: { status: available, nara: [139948907] }
+      1945-04: { status: available, nara: [633423202] }
+      1945-05: { status: available, nara: [140062603] }
+      1945-06: { status: available, nara: [101722480] }
+      1945-07: { status: available, nara: [101771723] }
+      1945-08: { status: not-searched }
+      1945-09: { status: not-searched }
+      1945-10: { status: not-searched }
+      1945-11: { status: available, nara: [77584066] }
+      1945-12: { status: available, nara: [77609121] }
+
 seabees:   # Naval construction battalions in seabees/: each one's stations
   20ncb:   # 20th Naval Construction Battalion
     record: { status: mapped, from: 1942-08-20, to: 1945-08-29, stations: 64, sources: [muster, ncbhist, bases, mcsol], nara: [190273312], note: "Both halves of 1943-44, and the two echelons of April-May 1945. Ships in voyages.csv where found." }

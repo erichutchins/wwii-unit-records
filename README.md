@@ -29,6 +29,7 @@ still to look for.
 | `boats/<hull>-<name>/` | US submarines: `ship.yml` (name, class, speed limit, map wording), one `patrol-N/` per war patrol | War patrol reports (NARA series 305243, microfilm M1752) |
 | `boats/ss-385-bang/` | USS BANG, six patrols in full: positions, every dive and depth charge, density layers, the Japanese records of her attacks, the FRUPAC radio-intelligence maps ([README](boats/ss-385-bang/README.md)) | |
 | `ships/<hull>-<name>/` | Surface ships: one `positions.csv` from a war diary ([USS Haynsworth](ships/dd-700-haynsworth/README.md)) | War diaries (NARA RG 38) |
+| `commands/comsubpac/` | The submarine force's war diary for October 1944: where every Pacific Fleet submarine was on 1, 15 and 31 October, its task organization and changes, and the daily log of arrivals, departures and reports ([README](commands/comsubpac/README.md)) | War diaries (NARA RG 38) |
 | `engagements/<id>/` | One convoy battle each, from every boat's report and the Japanese side: `engagement.yml`, `notes.csv` | |
 | `army/` | Eight Army units' stations, actions and sea crossings, 1940–1945 ([README](army/README.md)) | Morning reports (NARA RG 64), battalion histories |
 | `seabees/` | The 20th Naval Construction Battalion, 1942–1945, and the 79th in 1945: stations of each battalion and each part of it ([README](seabees/README.md)) | Muster rolls (NARA RG 24), the Seabee Museum's battalion history sheets |

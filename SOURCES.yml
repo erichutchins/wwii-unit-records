@@ -42,7 +42,7 @@ nara-war-diaries:
   held: NARA, Record Group 38
   url: https://catalog.archives.gov/
   rights: Public domain
-  used_for: ships/dd-700-haynsworth/ (USS Haynsworth's April 1945 war diary); seabees/ (source wardiary, voyages.csv, voyage_positions.csv)
+  used_for: ships/dd-700-haynsworth/ (USS Haynsworth's April 1945 war diary); commands/comsubpac/ (the submarine force's October 1944 war diary); seabees/ (source wardiary, voyages.csv, voyage_positions.csv)
   series_of: nara-catalog
 
 nara-morning-reports:
