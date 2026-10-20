@@ -73,10 +73,10 @@ FRUPAC maps are linked, never copied).
 
 ### ship.yml
 
-`name`, `hull`, `class`, `kind` (`submarine`, `destroyer`), `max_kts` (the speed check's limit),
+`name`, `hull`, `class`, `kind` (`submarine`, `destroyer`, `destroyer escort`), `max_kts` (the speed check's limit),
 `dives` (has a depth log for the dive-profile page), `silhouette` (the class profile in
 `silhouettes/silhouettes.yml` that draws her: one silhouette serves every ship of a class, so the link runs
-from the ship to the silhouette, never back; left out until her class has one), and `map`: the map page's wording. `periods`
+from the ship to the silhouette, never back; left out until her class has one), and `map`: the map page's wording. A ship with no record transcribed yet has only a `ship.yml` (no `positions.csv`, no map; the tools and map pages skip her). `periods`
 lists each patrol (`n`, `name`, `dates`, `area`, `co` as the report gives the commanding officer);
 `ports`, `places` and `home` place labels and the opening view. Anything left out takes the page's
 defaults for that kind of vessel.

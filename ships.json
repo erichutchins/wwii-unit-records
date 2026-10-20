@@ -462,6 +462,7 @@
   "kind": "destroyer escort",
   "max_kts": 23.0,
   "dives": false,
+  "silhouette": "buckley",
   "geojson": "ships/de-221-solar/track.geojson",
   "title": "USS Solar (DE-221)",
   "heading": "USS Solar (DE-221) — September 1944 to October 1945",
