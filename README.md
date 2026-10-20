@@ -89,7 +89,7 @@ Fields are in the kit's `guides/BATTLES.md`.
 
 | Column | Meaning |
 |---|---|
-| `source` | Which part of the report: `bt` (bathythermograph / density-layer table, GCT), `air` (aircraft contacts — the boat's own position), `ship` (ship contacts — the **target's** position), `attack` (torpedo attack data sheet), `radar` (radar countermeasures log), `noon` (daily noon position in the narrative), `narrative` (ports, arrivals, departures) |
+| `source` | Which part of the report: `bt` (bathythermograph / density-layer table, GCT), `air` (aircraft contacts — the boat's own position), `ship` (ship contacts — the **target's** position), `attack` (torpedo attack data sheet), `gun` (gun attack), `radar` (radar countermeasures log), `noon` (daily noon position in the narrative), `narrative` (ports, arrivals, departures) |
 | `ref` | Contact or attack number as the report numbers it |
 | `date`, `time`, `zone` | Exactly as typed. Zones: Z = GCT, K = −10, I = −9, M = −12, Y = +12, X = +11, W = +10, VW = +9½ (US Navy letters; "−10" means local = GCT + 10) |
 | `lat_raw`, `lon_raw` | Exactly as typed, in deg-min (`19-26N`). `?` marks a digit that is illegible in the scan |
