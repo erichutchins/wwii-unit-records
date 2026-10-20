@@ -1,9 +1,9 @@
 # WWII unit records
 
-Where US submarines, a destroyer and Army units were in the Second World War, and what they did,
-transcribed from their own records: submarine war patrol reports, a destroyer's war diary, Army
-morning reports and battalion histories, with the Imperial Japanese Navy's records of the same
-convoys beside them. Every row cites the page it was read from.
+Where US submarines, a destroyer, Army units and Seabee battalions were in the Second World War,
+and what they did, transcribed from their own records: submarine war patrol reports, a destroyer's
+war diary, Army morning reports and battalion histories, and Navy muster rolls, with the Imperial
+Japanese Navy's records of the same convoys beside them. Every row cites the page it was read from.
 
 This is the data half of the [WWII research kit](https://github.com/erichutchins/wwii-research-kit), where it is the `records/` submodule: the kit's tools fetch, check and build
 these files, and its pages draw them. The data stands on its own: CSV and YAML, no code needed.
@@ -31,6 +31,7 @@ still to look for.
 | `ships/<hull>-<name>/` | Surface ships: one `positions.csv` from a war diary ([USS Haynsworth](ships/dd-700-haynsworth/README.md)) | War diaries (NARA RG 38) |
 | `engagements/<id>/` | One convoy battle each, from every boat's report and the Japanese side: `engagement.yml`, `notes.csv` | |
 | `army/` | Eight Army units' stations, actions and sea crossings, 1940–1945 ([README](army/README.md)) | Morning reports (NARA RG 64), battalion histories |
+| `seabees/` | The 20th Naval Construction Battalion, 1942–1945, and the 79th in 1945: stations of each battalion and each part of it ([README](seabees/README.md)) | Muster rolls (NARA RG 24), the Seabee Museum's battalion history sheets |
 | `silhouettes/` | Recognition silhouettes: aircraft traced from the 1943–45 plates, ships drawn to the ONI 54 heights, and the battle pages' generic shapes (`silhouettes.yml`; how they were made is in its header) | CINCPAC-CINCPOA Bulletin 105-45, FM 30-30, ONI 54 |
 | `SOURCES.yml`, `citations.json` | Every source, and every cited archive item's title | |
 

@@ -91,3 +91,11 @@ units:   # Army units in army/: each one's station history
     record: { status: mapped, from: 1943-08-07, to: 1945-05-04, stations: 28, sources: [aar, mr], nara: [443985443, 457860026, 462936808, 465688481, 467912468, 469722323, 478312698, 566286515, 569679942] }
   9ad:   # 9th Armored Division
     record: { status: mapped, from: 1944-04-15, to: 1945-05-08, stations: 17, sources: [div], nara: [579493448] }
+
+seabees:   # Naval construction battalions in seabees/: each one's stations
+  20ncb:   # 20th Naval Construction Battalion
+    record: { status: mapped, from: 1942-08-20, to: 1945-08-29, stations: 48, sources: [muster, ncbhist, bases, mcsol], nara: [190273312], note: "Both halves of 1943-44. The crossings' ships and dates of sailing aren't in the rolls; Mar 1945 (between Eniwetok and Saipan) has no place." }
+  79ncb:   # 79th Naval Construction Battalion
+    record: { status: transcribed, from: 1945-01-31, to: 1945-10-12, stations: 5, sources: [muster, ncbhist, bases], nara: [190327559], note: "1945 only; Alaska (1943-44) not transcribed. Its camp on Okinawa isn't located." }
+  ncb-war-diaries:   # the New Georgia landings' war diaries that name the 20th
+    record: { status: available, nara: [134297927, 78141899, 78208053, 78135154], note: "CTG 32.3 (Jun and Jul 1943), CTG 31.3 (Sep 1943), LST-449 (Jul 1943): which ships carried the 20th's groups to Viru and Oloana Bay. Not read yet." }

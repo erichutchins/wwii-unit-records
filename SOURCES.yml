@@ -55,6 +55,64 @@ nara-morning-reports:
   used_for: army/stations.csv (source mr, regt, div)
   series_of: nara-catalog
 
+nara-muster-rolls:
+  title: Muster Rolls of U.S. Navy Ships, Stations, and Other Naval Activities, 1939–1949
+  by: Bureau of Naval Personnel
+  held: NARA, Record Group 24, series 594996
+  id: NAID 594996
+  url: https://catalog.archives.gov/id/594996
+  rights: Public domain
+  used_for: seabees/stations.csv (source muster)
+  series_of: nara-catalog
+  note: >-
+    One file unit per ship or unit. Each quarter's roll lists every man on board; the monthly
+    Reports of Changes list men received, transferred, re-rated, or who died. Places appear only on
+    the forwarding sheet (often a code name, a Navy number, or "c/o FPO, San Francisco") and in the
+    hospitals and bases men were sent to. Navy numbers are decoded with navy-numbers.
+
+ncbhist:
+  title: Naval Construction Battalion "Historical Information" sheets (one per battalion)
+  by: Bureau of Yards and Docks (typed log cards, 1942–1945); scanned by the Navy Seabee Museum
+  held: Naval History and Heritage Command, Navy Seabee Museum, Seabee unit histories
+  url: https://www.history.navy.mil/content/history/museums/seabee/explore/seabee-unit-histories.html
+  rights: Public domain (U.S. Navy)
+  cite: ncbhist-<battalion, 3 digits>/p<PDF page>      # e.g. ncbhist-020/p2
+  match: '^ncbhist-(\d{3})/p(\d+)$'
+  link: https://www.history.navy.mil/content/dam/museums/Seabee/UnitListPages/NCB/{1}%20NCB.pdf#page={2}
+  used_for: seabees/stations.csv (source ncbhist)
+  note: >-
+    A cover page, then the Bureau of Yards and Docks' typed cards: each battalion's embarkations
+    and a dated log of its monthly reports and the letters and dispatches about it. Dates in the
+    left margin are when the entry was logged, not when the event happened; the entry's own dates
+    are used. The PDFs need a browser User-Agent to download.
+
+bases:
+  title: Building the Navy's Bases in World War II, vol. 2
+  by: Bureau of Yards and Docks
+  held: U.S. Government Printing Office, 1947; HyperWar transcription (ibiblio)
+  url: https://www.ibiblio.org/hyperwar/USN/Building_Bases/
+  rights: Public domain
+  cite: bases-<chapter>      # e.g. bases-25 (the Solomons)
+  match: '^bases-(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USN/Building_Bases/bases-{1}.html
+  used_for: seabees/stations.csv (source bases)
+
+mcsol:
+  title: Marines in the Central Solomons
+  by: John N. Rentz, Historical Branch, Headquarters, U.S. Marine Corps
+  held: 1952; HyperWar transcription (ibiblio)
+  url: https://www.ibiblio.org/hyperwar/USMC/USMC-M-CSol/
+  rights: Public domain
+  used_for: seabees/stations.csv (source mcsol; cited by the chapter's URL)
+
+navy-numbers:
+  title: Navy Numbers (OPNAV 29-P1000, 1949), the fleet post office numbers of World War II bases
+  by: Office of the Chief of Naval Operations
+  held: Naval History and Heritage Command, online reading room
+  url: https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-abbreviations-of-ww2/navy-numbers.html
+  rights: Public domain
+  used_for: seabees/stations.csv notes (Navy 10 Aiea, 60 Russell Islands, 250 Munda, 3237 Eniwetok, 3245 Saipan, 3256 Okinawa)
+
 ok45th:
   title: 106th Anti-Aircraft Artillery Automatic Weapons Battalion, History and Historical Records of Organization, and journal, July 1944 – May 1945
   held: 45th Infantry Division Museum collection, Metropolitan Library System of Oklahoma County (ContentDM collection ok45th)
@@ -191,7 +249,24 @@ era5:
   held: via the Open-Meteo historical weather API
   url: https://open-meteo.com/en/docs/historical-weather-api
   rights: CC BY 4.0 (Copernicus licence; Open-Meteo data CC BY 4.0)
-  files: boats/*/patrol-*/weather.csv
+  cite: era5
+  match: '^era5$'
+  files: boats/*/patrol-*/weather.csv; seabees/weather.csv (daily, at each station's place)
+
+isd:
+  title: Integrated Surface Database (ISD), global-hourly
+  by: NOAA National Centers for Environmental Information
+  held: NOAA open data on AWS (bucket noaa-global-hourly-pds); station list isd-history.csv
+  url: https://www.ncei.noaa.gov/products/land-based-station/integrated-surface-database
+  rights: Public domain (U.S. government)
+  cite: isd:<USAF+WBAN station ID>/<year>      # e.g. isd:74931699999/1945 (Kobler Field, Saipan)
+  match: '^isd:(\d{11})/(\d{4})$'
+  link: https://noaa-global-hourly-pds.s3.amazonaws.com/{2}/{1}.csv
+  used_for: seabees/weather.csv (the nearest station within 150 km with observations that day)
+  note: >-
+    Hourly and three-hourly surface observations, including the war's own military airfield
+    stations, digitized from the punched-card decks. A station's period in isd-history.csv can be
+    longer than the data NOAA actually holds; tools/fetch_station_weather.py checks each day.
 
 osm-nominatim:
   title: OpenStreetMap, via the Nominatim geocoder

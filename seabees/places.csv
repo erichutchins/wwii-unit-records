@@ -1,0 +1,23 @@
+place,query,lat,lon,source,note
+Norfolk,"Naval Station Norfolk, Virginia",36.9417,-76.2973,OSM Nominatim,"Naval Station Norfolk (the Naval Operating Base), where the Naval Construction Training Center was."
+Port Hueneme,"Port Hueneme, California",34.1478,-119.1952,OSM Nominatim,
+Nouméa,"Nouméa, New Caledonia",-22.2745,166.4424,OSM Nominatim,
+Townsville,"Townsville, Queensland, Australia",-19.2569,146.8240,OSM Nominatim,"matched: Townsville, Queensland, 4810, Australia"
+Guadalcanal,,-9.4345,159.9795,hand-placed,"Kukum, by Lunga Point, Guadalcanal (OSM Nominatim: Kukum, Honiara): the base area. Stands for the island when the record names only the island."
+Russell Islands,,-9.0804,159.1903,hand-placed,"Mbanika (Banika), Russell Islands (OSM Nominatim): stands for the group when the record names only the Russells."
+Banika,"Yandina, Russell Islands",-9.0769,159.2192,OSM Nominatim,"Yandina, on Banika (Mbanika) Island, Russell Islands; Banika itself isn't in OSM under that name."
+Woodlark,"Guasopa, Woodlark Island, Papua New Guinea",-9.2247,152.9448,OSM Nominatim,"Guasopa, at the east end of Woodlark Island, where the base and airfield were. matched: Guasopa, Samarai-Murua District, Milne Bay, Papua New Guinea"
+Oloana Bay,Oloana Bay,-8.7645,157.9939,OSM Nominatim,"Oloana Bay, on Vangunu's south shore in Wickham Anchorage (the card's ""Ohene Bay"" and ""Oleana Bay""). matched: Oloana Bay, Western, Solomon Islands"
+Viru Harbor,"Viru Harbour, New Georgia",-8.4920,157.7353,OSM Nominatim,"Viru Harbour, New Georgia."
+Kiriwina,"Losuia, Kiriwina, Papua New Guinea",-8.5454,151.0636,OSM Nominatim,"matched: Losuia, Kiriwina-Goodenough District, Milne Bay, Southern Region, Papua New Guinea"
+Bau Island,,-8.3975,157.3253,OSM Nominatim,"In Rendova Harbor, off the north end of Rendova Island."
+Ondonga,,-8.2450,157.2150,hand-placed,"Not in OpenStreetMap. Ondonga lies on the peninsula between Diamond Narrows (south) and Hathorn Sound (north) at the west end of New Georgia (Pacific Wrecks, Ondonga Airfield): placed between OSM's Diamond Narrows (-8.2677, 157.1946) and Hathorn Sound (-8.2167, 157.1930), on the New Georgia side. Good to a few km."
+Munda,"Munda, New Georgia, Solomon Islands",-8.2296,157.3010,OSM Nominatim,"Munda, New Georgia (Navy 250)."
+Milne Bay,"Alotau, Milne Bay, Papua New Guinea",-10.3061,150.4464,OSM Nominatim,"matched: Alotau, Milne Bay District, Alotau District, Milne Bay, Southern Region, Papua New Guinea"
+Brisbane,"Brisbane, Queensland, Australia",-27.4690,153.0235,OSM Nominatim,"matched: Brisbane, Queensland, Australia"
+Camp Parks,"Camp Parks, Dublin, California",37.7293,-121.8922,OSM Nominatim,"Camp Parks, near Shoemaker (now Dublin), California."
+Davisville,"Davisville, North Kingstown, Rhode Island",41.6134,-71.4751,OSM Nominatim,"Davisville, North Kingstown, R.I."
+Eniwetok,"Enewetak Atoll, Marshall Islands",11.4206,162.3406,OSM Nominatim,Enewetak Atoll.
+Saipan,"Saipan, Northern Mariana Islands",15.1910,145.7467,OSM Nominatim,"matched: Saipan, Garapan, Saipan Municipality, Northern Mariana Islands, 96950, United States"
+Chimu Wan,"Kin, Okinawa, Japan",26.4561,127.9260,OSM Nominatim,"Placed at Kin, on Chimu Wan (Kin Bay), Okinawa."
+Okinawa,,26.3500,127.8000,hand-placed,"Near Okinawa City, in the middle of the island: stands for Okinawa when the record doesn't say where on it."
