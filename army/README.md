@@ -47,7 +47,7 @@ Download and rendering instructions for each are in the kit's [guides](https://g
 
 Hand-edited (the source of truth):
 
-- `units.csv`: the units, with lineage notes (`unit`, `name`, `note`)
+- `units.csv`: the units, with lineage notes (`unit`, `name`, `short` (the map's label), `note`)
 - `stations.csv`: each unit's station whenever it changed, as typed, with its page
 - `places.csv`: coordinates for the places the stations name
 - `actions.csv`: Battery D, 106th AAA's engagements and casualties, from the battalion's monthly
@@ -57,8 +57,12 @@ Hand-edited (the source of truth):
   Columns: `unit`, `from_date`, `to_date` (the two stations it joins), `seq`, `lat`, `lon`,
   `note` (on the first row: why the route is drawn that way). Always drawn dashed as assumed.
 
+Generated, never edited: `army.json`, each unit's stations placed on the map (town, offset or
+grid reference), with its routes, ships and actions, for the kit's `site/army.html`.
+
 ```
 python3 tools/geocode_places.py   # fill in coordinates for new places.csv rows
+python3 tools/build_army.py       # check every row and write army.json; must report 0 problems
 ```
 
 ## stations.csv columns
