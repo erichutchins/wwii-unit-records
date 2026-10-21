@@ -68,6 +68,9 @@ Hand-edited:
   (`no` to leave a position off the drawn track), `ref`. Only the flagship's or the ship's own position:
   a convoy's ships sailed together, so it stands for them all
 
+Generated, never edited: `seabees.json`, the stations, parts' lines, voyages and weather for the kit's
+`site/seabees.html` (`uv run tools/build_seabees.py`, which checks every row first; it must report 0 problems).
+
 Generated (`python3 tools/fetch_station_weather.py seabees`):
 
 - `weather.csv`: the weather on each day a battalion (or a part) was at a place: `unit`, `place`,
