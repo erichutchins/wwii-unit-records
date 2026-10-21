@@ -1,0 +1,23 @@
+question,claim,weight,source,ref,note
+When?,1145 to 1147,record,"106th AAA AW Bn history, p. 6",ok45th-17560/p06,The battery's engagement: two minutes
+When?,"1145, 1150 and 1152",record,"Missing Air Crew Reports 14163, 14162, 14164",rg92-91150796/p02,The time each bomber was lost
+When?,1150 and 1155,secondary,"Galland's claims (Mathews and Foreman, via Wikipedia)",https://en.wikipedia.org/wiki/List_of_aerial_victories_claimed_by_Adolf_Galland,German summer time and the Army's B time were both UTC+2: no conversion
+When?,"""At 1200""",record,"189th FA Bn history, typed p. 246",ok45th-14862/p10,A round number
+When?,"""Approximately five minutes before reaching the target""",recollection,"Big Red's co-pilot, MACR 14162 p. 9",rg92-91150796/p09,
+How many jets?,Six,record,"106th AAA AW Bn history, p. 6",ok45th-17560/p06,
+How many jets?,Four,record,"189th FA Bn history, typed p. 246",ok45th-14862/p10,
+How many jets?,"""Two German Jet-Propelled Fighters""",recollection,"Big Red's pilot, 1st Lt. Alf P. Shatto, November 1945, MACR 14162 p. 10",rg92-91150796/p10,What attacked his own aircraft
+How many jets?,Twelve took off,secondary,"The Aviation Geek Club, after Forsyth",https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/,JV 44's whole formation
+How many bombers were lost?,Three,record,"Missing Air Crew Reports 14162-14164",rg92-91150810/p02,"One each from the 34th, 432nd and 37th squadrons"
+How many bombers were lost?,"""Three of the bombers were shot down""",record,"189th FA Bn history, typed p. 246",ok45th-14862/p10,
+How many bombers were lost?,Five claimed,secondary,"The Aviation Geek Club, after Forsyth",https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/,"JV 44's claims, including Galland's two"
+Was a jet brought down?,"""One of the German aircraft was downed""",record,"189th FA Bn history, typed p. 246",ok45th-14862/p10,
+Was a jet brought down?,"""Without result""",record,"106th AAA AW Bn history, p. 6",ok45th-17560/p06,"The 106th's own claim for its fire. Nobody's record says whose fire hit which jet"
+Was a jet brought down?,Two JV 44 pilots lost,secondary,"The Aviation Geek Club, after Forsyth",https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/,"One bailed out. Galland, wounded, crash-landed at Riem after a P-47 hit him"
+Whose flak?,"""We were also being fired upon by a German Anti-Aircraft Battery""",recollection,"Shatto, MACR 14162 p. 10",rg92-91150796/p10,
+Whose flak?,"The front was the Danube",inference,"The 106th's positions; the MACRs' sketch maps",ok45th-17541/p27,"German flak south of the river, the 45th Division's guns north of it. Either could have been firing at the bombers' altitude"
+Where did Big Red come down?,"48° 46′ N, 11° 11′ E",record,"MACR 14162, p. 2",rg92-91150796/p02,
+Where did Big Red come down?,Just north of Neuburg,record,"MACR 14162, p. 5 (sketch map)",rg92-91150796/p05,Agrees with the form
+Where did Big Red come down?,"""About four to six miles southwest of Ulm""",recollection,"S/Sgt. Louis N. Smith, MACR 14162 p. 11",rg92-91150796/p11,"60 km from the form's position and sketch. Unreliable on place"
+Whose jets?,JV 44's,inference,"Galland's claims; the secondary accounts",https://en.wikipedia.org/wiki/List_of_aerial_victories_claimed_by_Adolf_Galland,"Time, place and target type agree. JV 44's own records, and the Luftwaffe's loss returns, are still to find"
+Where was Battery D?,"With the 189th, near Bergen",inference,"106th AAA AW Bn history, p. 2",ok45th-17560/p02,"From its assignment that month. The battery's 1945 morning reports aren't online"

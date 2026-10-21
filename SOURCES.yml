@@ -114,14 +114,14 @@ navy-numbers:
   used_for: seabees/stations.csv notes (Navy 10 Aiea, 60 Russell Islands, 250 Munda, 3237 Eniwetok, 3245 Saipan, 3256 Okinawa)
 
 ok45th:
-  title: 106th Anti-Aircraft Artillery Automatic Weapons Battalion, History and Historical Records of Organization, and journal, July 1944 – May 1945
+  title: 45th Infantry Division unit histories and journals (the 106th AAA AW Bn's history and journal, July 1944 – May 1945; the 189th FA Bn's history)
   held: 45th Infantry Division Museum collection, Metropolitan Library System of Oklahoma County (ContentDM collection ok45th)
   url: https://cdm17494.contentdm.oclc.org/digital/collection/ok45th/
   rights: "Credit: Courtesy of 45th Infantry Division Museum and the Metropolitan Library System of Oklahoma County."
   cite: ok45th-<item ID>/p<page of the PDF>
   match: '^ok45th-(\d+)/p(\d+)$'
   link: https://cdm17494.contentdm.oclc.org/digital/collection/ok45th/id/{1}
-  used_for: army/stations.csv (source btry, bn), army/actions.csv
+  used_for: army/stations.csv (source btry, bn), army/actions.csv, engagements/neuburg-1945-04-26/
 
 cabn106:
   title: Historical Records – 106th AAA AW Bn, December 1943 (file CABN-106-0.3)

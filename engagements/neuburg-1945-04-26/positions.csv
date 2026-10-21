@@ -1,0 +1,9 @@
+id,label,side,kind,date,time,lat,lon,from,brg,nm,lat2,lon2,basis,source,ref,note
+neuburg,Neuburg an der Donau,geo,town,,,48.7456,11.1880,,,,,,approx,OpenStreetMap,OSM Nominatim,The town's centre. Spot Cash's last known position is given only as Neuburg
+bergen,"Bergen: the 189th FA Bn's position from 1015",us,unit,1945-04-26,1015,48.7837,11.1436,,,,,,approx,OpenStreetMap,OSM Nominatim,"The village's centre; the history names the village, not a grid. Battery D, defending the 189th, is assumed to be near it: the battery's own 1945 positions aren't online"
+wellheim,"Wellheim: the 106th AAA AW Bn's command post from 1515",us,unit,1945-04-26,1515,48.8183,11.1047,,,,,,approx,OpenStreetMap,OSM Nominatim,The journal gives T-455299; drawn at the village's centre as in army/stations.csv
+bigred,"Big Red's last known position",us,loss,1945-04-26,1150,48.7667,11.1833,,,,,,reported,"Missing Air Crew Report 14162, p. 2",rg92-91150796/p02,"48° 46′ N, 11° 11′ E as typed on the form: 3.5 km from Bergen"
+rohrenfels,"No. 25 down in the woods at Rohrenfels",us,loss,1945-04-26,1152,48.6862,11.1565,,,,,,approx,"Missing Air Crew Report 14164, p. 6 (sketch map)",rg92-91150835/p06,Drawn at the village's centre (OpenStreetMap); the sketch puts the crash in the woods near it
+riem,Munich-Riem: JV 44's airfield,de,base,1945-04-26,1130,48.1440,11.6778,,,,,,approx,OpenStreetMap,OSM Nominatim,"The district of Riem; the wartime airfield is now built over (Messestadt Riem)"
+lechfeld,Lechfeld airfield: the bombers' target,de,target,1945-04-26,,48.1818,10.8588,,,,,,approx,OpenStreetMap,OSM Nominatim,All three MACRs give Lechfeld airfield as the target
+eichstatt,Eichstätt,geo,town,,,48.8863,11.1989,,,,,,approx,OpenStreetMap,OSM Nominatim,On the 432nd's sketch of the formation's course
