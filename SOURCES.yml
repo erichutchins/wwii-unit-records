@@ -225,8 +225,10 @@ irons:
   cite: irons
   match: '^irons$'
   link: https://www.kamikazeimages.net/books/ships/haynsworth/index.htm
+  chicago_note: "Martin Irons, *Phalanx Against the Divine Wind: Protecting the Fast Carrier Task Force During World War 2* (Merriam Press, 2017)"
+  chicago_short: "Irons, *Phalanx*"
   used_for: engagements/haynsworth-1945-04-06/; secondary, quoting the ships' reports and the crew's letters and diaries.
-    Page numbers not yet recorded; the row's source column says which part of the book
+    Rows cite it in Chicago short form ("Irons, Phalanx, 327–30"); most page numbers are not yet recorded
 
 # ── Recognition plates (silhouettes/silhouettes.yml) ───────────────────────────────────────────
 
