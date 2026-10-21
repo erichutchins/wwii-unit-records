@@ -123,6 +123,23 @@ ok45th:
   link: https://cdm17494.contentdm.oclc.org/digital/collection/ok45th/id/{1}
   used_for: army/stations.csv (source btry, bn), army/actions.csv
 
+cabn106:
+  title: Historical Records – 106th AAA AW Bn, December 1943 (file CABN-106-0.3)
+  by: the battalion; filed by the War Department Records Branch, A.G.O., Historical Records Section
+  held: >-
+    NARA, RG 407 (WWII Operations Reports), file CABN-106-0.3, not online. A scan of the A.G.O. file
+    copy (11 pages, declassified NND 735017) was posted to the ww2aircraft.net forum as
+    "106th AA AW Bn (Henry Arnold cmding) Dec 43.pdf".
+  id: CABN-106-0.3
+  url: https://ww2aircraft.net/forum/attachments/106th-aa-aw-bn-henry-arnold-cmding-dec-43-pdf.576104/
+  cite: cabn106-<yyyy-mm>/p<page of the scan>
+  match: '^cabn106-(\d{4}-\d{2})/p(\d+)$'
+  used_for: army/README.md (where the 106th's records after May 1945 should be)
+  note: >-
+    The same month as ok45th item 17545 but a fuller copy: it adds the S-2 summary (p5) and the daily
+    action reports to the 35th AAA Brigade (pp6-10), and lacks the transmittal and casualty report.
+    The file number is on p1 (margin) and the folder cover (p11).
+
 aar3:
   title: After Action Report, Third US Army, 1 August 1944 – 9 May 1945, Vol. II, Staff Section Reports
   by: Headquarters, Third United States Army

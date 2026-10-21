@@ -85,6 +85,7 @@ units:   # Army units in army/: each one's station history
     record: { status: mapped, from: 1942-08-01, to: 1944-04-01, stations: 37, sources: [mr], nara: [427182819, 445153222, 468998085] }
   106aaa-d:   # Battery D, 106th AAA AW Bn (SP)
     record: { status: mapped, from: 1944-07-01, to: 1945-05-24, stations: 79, sources: [bn, btry, mr], nara: [481549976, 565868906, 569976582, 572189240, 576294507, 578451549] }
+    after-1945-05: { status: not-searched, note: "The battalion's histories from June 1945 on: RG 407 file series CABN-106-0.x (Dec 1943 is CABN-106-0.3, cabn106-1943-12/p1, p11), not online; see army/README.md" }
   67ca-med:   # Medical Detachment, 67th Coast Artillery (AA) / 894th AAA AW Bn
     record: { status: mapped, from: 1942-09-01, to: 1945-05-14, stations: 62, sources: [hist, mr, regt], nara: [427223420, 427231553, 427232554, 451691179, 454453373, 456842549, 459808359, 461580516, 466430104, 469125119, 474641175, 478085645, 481436282, 566195336, 570169606, 572491300, 576306103] }
   113inf-med:   # Medical Detachment, 113th Infantry

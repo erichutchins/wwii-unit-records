@@ -27,6 +27,13 @@ Every station row cites its page (`page`), in the forms listed in `../SOURCES.ym
   *Courtesy of 45th Infantry Division Museum and the Metropolitan Library System of Oklahoma County.*
   They give the battalion headquarters' moves (rows `bn`, drawn as assumed) except in May, when
   they give Battery D's.
+- **After May 1945, a lead**: the museum's run ends on 31 May 1945 (1–10 May is missing), and the
+  morning reports for 1945–46 aren't online. The War Department filed the battalion's monthly
+  histories, with their S-2 summaries and action reports, as **CABN-106-0.x** in NARA's RG 407
+  (WWII Operations Reports) at College Park, not online. A scan of the December 1943 file copy
+  ([ww2aircraft.net forum attachment](https://ww2aircraft.net/forum/attachments/106th-aa-aw-bn-henry-arnold-cmding-dec-43-pdf.576104/)) gives
+  the file number: `CABN-106-0.3` in the margin of its first page and on the folder cover
+  (`cabn106-1943-12/p1`, `/p11`). That file series is where June 1945 onward should be.
 - **Third Army's *After Action Report, 1 August 1944 – 9 May 1945, Vol. II*** ([Google Books ee9mAAAAMAAJ](https://books.google.com/books?id=ee9mAAAAMAAJ), full view):
   the Antiaircraft Section's month-end situation maps and the Provost Marshal's troop movements.
   Rows cite it as `aar3/pNNN`, the page of the downloaded PDF.
