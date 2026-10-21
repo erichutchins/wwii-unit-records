@@ -613,6 +613,7 @@
     "utc": "1945-01-23T08:10Z",
     "lat_raw": "33-38.0N",
     "lon_raw": "124-50.8E",
+    "typed": "33-38-0N 124-50.8E",
     "local": "1945-01-23 1710(I)",
     "page": "rg367-74834293/p46",
     "note": "Mines table (Section I) gives position and date only; time is the narrative's floating-mine entry (p38), matched in order",
