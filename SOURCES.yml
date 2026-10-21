@@ -217,6 +217,17 @@ combinedfleet:
   link: http://www.combinedfleet.com/{1}.htm
   used_for: boats/ss-385-bang/patrol-N/japanese.csv; secondary, compiled from Japanese and US records
 
+irons:
+  title: "Phalanx Against the Divine Wind: Protecting the Fast Carrier Task Force During World War 2"
+  by: Martin Irons
+  held: Merriam Press, 2017 (514 pp.)
+  url: https://www.kamikazeimages.net/books/ships/haynsworth/index.htm
+  cite: irons
+  match: '^irons$'
+  link: https://www.kamikazeimages.net/books/ships/haynsworth/index.htm
+  used_for: engagements/haynsworth-1945-04-06/; secondary, quoting the ships' reports and the crew's letters and diaries.
+    Page numbers not yet recorded; the row's source column says which part of the book
+
 # ── Recognition plates (silhouettes/silhouettes.yml) ───────────────────────────────────────────
 
 cincpac-105-45:
