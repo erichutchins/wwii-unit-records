@@ -72,6 +72,7 @@ ships:
   DD-700:   # USS Haynsworth
     folder: ships/dd-700-haynsworth
     records:
+      1944-12: { status: mapped, nara: [139832917], files: [positions], note: "December 1944 war diary (9 pp.): Pearl Harbor 1-14 Dec, with T.U. 12.5.5 to Eniwetok (16-23 Dec) and on to Ulithi (24-28 Dec), then T.G. 38.2 from 30 Dec" }
       1945-01: { status: mapped, nara: [139846605], files: [positions], note: "January 1945 war diary (12 pp.): with T.G. 38.2 on the Formosa, Luzon, Camranh Bay, Hong Kong and Hainan strikes and the South China Sea sweep (1-25 Jan), Ulithi from 26 Jan" }
       1945-02: { status: mapped, nara: [139903592], files: [positions], note: "February 1945 war diary (8 pp.): Ulithi 1-10 Feb, the Tokyo strikes of 16-17 Feb and 25 Feb with T.G. 58.3, the Iwo Jima landings of 19 Feb, the voyage to Okinawa waters" }
       1945-03: { status: mapped, nara: [139968200], files: [positions], note: "March 1945 war diary (11 pp.): Ulithi 4-14 Mar, the Kyushu and Okinawa strikes with T.G. 58.3, the Minami Daito Shima bombardment of 28 Mar" }
