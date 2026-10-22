@@ -64,7 +64,7 @@ boats:
     patrols:
       3: { status: mapped, nara: [74850282], first_fix: 1945-01-05, last_fix: 1945-02-13, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
   # BANG's other pack-mates (guides/FLEET.md), not started
-  SS-279: { name: SNOOK, note: "with BANG and BURRFISH, Patrol 6", patrols: { 9: { status: not-searched } } }
+  SS-279: { name: SNOOK, note: "with BANG and BURRFISH, Patrol 6", patrols: { 8: { status: available, nara: [74850126, 139895817], note: "31 Dec 1944 - 17 Feb 1945; the catalog title is blank, the pages are headed EIGHTH" }, 9: { status: missing, note: "searched 2026-10-22: no ninth-patrol folder in the war patrol reports (series 305243) or the war diaries (4697018); the eighth is the last" } } }
   SS-398: { name: SEGUNDO, note: "passage home with BANG, May 1945", patrols: {} }
   SS-259: { name: JACK, note: "passage home with BANG, May 1945", patrols: {} }
 
@@ -72,6 +72,7 @@ ships:
   DD-700:   # USS Haynsworth
     folder: ships/dd-700-haynsworth
     records:
+      1944-11: { status: mapped, nara: [78694496], files: [positions], note: "November 1944 war diary (7 pp.): Pearl Harbor and Hawaiian operating areas with DesDiv 123 (training, Kahoolawe shore bombardment, torpedo and AA exercises), then Navy Yard repairs from 18 Nov" }
       1944-12: { status: mapped, nara: [139832917], files: [positions], note: "December 1944 war diary (9 pp.): Pearl Harbor 1-14 Dec, with T.U. 12.5.5 to Eniwetok (16-23 Dec) and on to Ulithi (24-28 Dec), then T.G. 38.2 from 30 Dec" }
       1945-01: { status: mapped, nara: [139846605], files: [positions], note: "January 1945 war diary (12 pp.): with T.G. 38.2 on the Formosa, Luzon, Camranh Bay, Hong Kong and Hainan strikes and the South China Sea sweep (1-25 Jan), Ulithi from 26 Jan" }
       1945-02: { status: mapped, nara: [139903592], files: [positions], note: "February 1945 war diary (8 pp.): Ulithi 1-10 Feb, the Tokyo strikes of 16-17 Feb and 25 Feb with T.G. 58.3, the Iwo Jima landings of 19 Feb, the voyage to Okinawa waters" }

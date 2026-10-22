@@ -1,4 +1,66 @@
 source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+narrative,underway Pearl Harbor,1944-11-01,0642,VW,21-21N,157-58W,rg367-78694496/p02,"Diary types no zone letter; its only zone line is ""Time zone + 4."" on 1 Nov, which does not fit Hawaii (the December diary types ""Time Zone + 9½"" at Pearl Harbor). VW (+9½, Hawaii war time) is written for the whole month from the December diary's zone and because no clock change is typed; this letter is an assumption, not read from the November diary. ""At 0642 we got underway from berth D-1, Middle Loch, Pearl Harbor, T. H. in company with U.S.S. WALLER ... Proceeded to operation area C-10 and made ASW runs and simulated attacks on U.S. submarine S-1"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-01,0800,VW,21-14N,158-04W,rg367-78694496/p02,,yes,,,,,
+diary,,1944-11-01,1200,VW,21-17N,158-31W,rg367-78694496/p02,,yes,,,,,
+narrative,moor berth D-1,1944-11-01,1829,VW,21-21N,157-58W,rg367-78694496/p02,"""At 1829 we returned to our mooring at berth D-1"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-01,2000,VW,21-21N,157-58W,rg367-78694496/p02,"Table row reads ""Berth D-1, Middle Loch, Pearl Harbor, T. H."" with no coordinates (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1944-11-02,0709,VW,21-21N,157-58W,rg367-78694496/p02,"""Underway from berth D-1, Middle Loch, Pearl Harbor, T. H. at 0709 in accordance with ComDes Pac's operational orders of Nov. 1944, for Hawaiian operating areas"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-02,0800,VW,21-17N,157-57W,rg367-78694496/p02,,yes,,,,,
+diary,,1944-11-02,1200,VW,20-35N,158-49W,rg367-78694496/p02,,yes,,,,,
+diary,,1944-11-02,2000,VW,19-56N,157-30W,rg367-78694496/p02,,yes,,,,,
+diary,,1944-11-03,0800,VW,20-32N,157-37W,rg367-78694496/p02,,yes,,,,,
+diary,,1944-11-03,1200,VW,20-26N,156-55W,rg367-78694496/p02,,yes,,,,,
+diary,,1944-11-03,2000,VW,20-30N,158-00W,rg367-78694496/p02,,yes,,,,,
+diary,,1944-11-04,0800,VW,20-30N,158-00W,rg367-78694496/p03,"Table position kept as typed. It is the same as the 3 Nov 2000 position, while the narrative has the ship anchored off Kahoolawe Island at 0706 and under way again at 0718 for shore bombardment exercises (Kahoolawe is at about 156-35W, some 75 nm east of this fix). The table contradicts the narrative, so the row is kept as typed and left off the track; no fix",no,,,,,excluded from the track (inferred): table position repeats the 3 Nov 2000 fix and contradicts the narrative
+diary,,1944-11-04,1200,VW,20-24N,156-38W,rg367-78694496/p03,,yes,,,,,
+narrative,moor berth D-P-3,1944-11-04,1745,VW,21-21N,157-58W,rg367-78694496/p03,"""At 1745 we moored port side to dock D-P-3, Middle Loch, Pearl Harbor, T. H. for deperming operations"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-04,2000,VW,21-21N,157-58W,rg367-78694496/p03,"Table row reads ""Berth D-P-3, Middle Loch, Pearl Harbor, T. H."" with no coordinates (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,shift berth D-2,1944-11-05,0800,VW,21-21N,157-58W,rg367-78694496/p03,"""At 0800 we shifted berths to D-2, Middle Loch, Pearl Harbor, T. H., and spent the balance of the day there"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1944-11-06,0645,VW,21-21N,157-58W,rg367-78694496/p03,"""At 0645 we got underway from Berth D-2, Middle Loch ... Today was spent in company with U.S.S. SPERRY in area V-3 making simulated attacks on U.S. Submarine S-41"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-06,0800,VW,22-16N,157-56W,rg367-78694496/p03,"Typed 22-16N is 55 nm from the harbour 1 h 15 min after getting underway at 0645, about 44 kn. 21-16N (one digit changed) is 5 nm from the harbour and 30 nm from the 1200 fix, so the 22 is read as 21 in lat_fix",yes,21-16N,,,,22-16N is impossible 1 h 15 min after leaving the harbour (about 44 kn); 21-16N is the single-digit reading that fits the 0645 departure and the 1200 fix (21-16N 158-28W)
+diary,,1944-11-06,1200,VW,21-16N,158-28W,rg367-78694496/p03,,yes,,,,,
+narrative,moor alongside Sperry,1944-11-06,1838,VW,21-21N,157-58W,rg367-78694496/p03,"""At 1838 we moored port side to U.S.S. SPERRY in Middle Loch, Pearl Harbor, T. H."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-06,2000,VW,21-21N,157-58W,rg367-78694496/p03,"Table row reads ""Berth D-2 Middle Loch, Pearl Harbor, T. H."" with no coordinates (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-07,0800,VW,21-21N,157-58W,rg367-78694496/p03,"Table row reads ""Berth D-2, Pearl Harbor, T.H."" with no coordinates (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1944-11-07,0818,VW,21-21N,157-58W,rg367-78694496/p03,"""Underway for area S-1 at 0818 ... torpedo tracking and firing exercises, acting as target ship for U.S.S. GREGORY"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-07,1200,VW,21-01N,157-48W,rg367-78694496/p03,,yes,,,,,
+narrative,moor berth D-1,1944-11-07,1726,VW,21-21N,157-58W,rg367-78694496/p03,"""We returned to our mooring alongside U.S.S. SPERRY in Berth D-1 at 1726"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-07,2000,VW,21-21N,157-58W,rg367-78694496/p03,"Table row reads ""Berth D-1, Pearl Harbor, T.H."" with no coordinates (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1944-11-09,0709,VW,21-21N,157-58W,rg367-78694496/p04,"""Got underway at 0709 for operation areas ... torpedo firing exercises with SPERRY"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-09,0800,VW,21-18N,157-58W,rg367-78694496/p04,,yes,,,,,
+diary,,1944-11-09,1200,VW,21-10N,157-48W,rg367-78694496/p04,,yes,,,,,
+diary,,1944-11-09,2000,VW,20-53N,158-09W,rg367-78694496/p04,"""At 2000 AULT joined us, and we proceeded in a column formation ... throughout the night ... towards Kahoolawe Island, T. H.""",yes,,,,,
+diary,,1944-11-10,0800,VW,20-31N,156-50W,rg367-78694496/p04,"Typed the same at 0800, 1200 and 2000 (shore bombardment exercises at Kahoolawe Island all day); kept as typed",yes,,,,,
+diary,,1944-11-10,1200,VW,20-31N,156-50W,rg367-78694496/p04,,yes,,,,,
+diary,,1944-11-10,2000,VW,20-31N,156-50W,rg367-78694496/p04,,yes,,,,,
+diary,,1944-11-11,0800,VW,20-30N,156-30W,rg367-78694496/p04,,yes,,,,,
+diary,,1944-11-11,1200,VW,20-30N,156-30W,rg367-78694496/p04,,yes,,,,,
+diary,,1944-11-11,2000,VW,20-05N,156-40W,rg367-78694496/p04,,yes,,,,,
+diary,,1944-11-12,0800,VW,20-31N,156-50W,rg367-78694496/p05,"Typed the same as the 10 Nov 0800 position; 27 nm from the 11 Nov 2000 fix, so kept as typed",yes,,,,,
+diary,,1944-11-12,1200,VW,20-54N,157-40W,rg367-78694496/p05,,yes,,,,,
+narrative,moor berth K-8,1944-11-12,1420,VW,21-21N,157-58W,rg367-78694496/p05,"""we proceeded to Pearl Harbor and moored starboard side to, at Berth K-8 at 1420"" (Kuahua Island; port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-12,2000,VW,21-21N,157-58W,rg367-78694496/p05,"Table row reads ""Berth K-8, Kuahua Island, Pearl Harbor, T. H."" with no coordinates (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1944-11-13,0723,VW,21-21N,157-58W,rg367-78694496/p05,"""Underway at 0723 for operating area V-1 ... TR-1 runs in company with U.S.S. AULT (DD 698)"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-13,0800,VW,21-18N,157-58W,rg367-78694496/p05,,yes,,,,,
+diary,,1944-11-13,1200,VW,21-10N,157-45W,rg367-78694496/p05,,yes,,,,,
+narrative,moor berth K-1,1944-11-13,1848,VW,21-21N,157-58W,rg367-78694496/p05,"""At 1848 we moored port side to Berth K-1, Pearl Harbor, T. H."" (the table's 2000 row names Berth K-8; port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-13,2000,VW,21-21N,157-58W,rg367-78694496/p05,"Table row reads ""Berth K-8, Kuahua Island, Pearl Harbor, T. H."" with no coordinates (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway shift berths,1944-11-14,0734,VW,21-21N,157-58W,rg367-78694496/p05,"""At 0734 on the 14th of November, we got underway to shift berths"" (the 14 and 15 Nov entry is one, with no table; port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,moor berth D-1,1944-11-14,0813,VW,21-21N,157-58W,rg367-78694496/p05,"""at 0813 we moored starboard side to U.S.S. LOWRY (DD 770) in Berth D-1"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1944-11-16,0704,VW,21-21N,157-58W,rg367-78694496/p06,"""0704 Underway for Hawaiian Operating Areas in company with AULT, WALDRON, SPERRY, ENGLISH, and HYMAN. O.T.C. is C.D.S. 62 in AULT"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+event,collision backing from berth,1944-11-16,0706,VW,,,rg367-78694496/p06,"""At 0706, in backing from the berth, wind set ship down on U.S.S. LOWRY breaking her starboard anchor loose ... Damage to own ship slight, consisting of a bent stanchion below starboard forward 40 MM gun platform""",no,,,,,
+diary,,1944-11-16,0800,VW,21-09N,157-58W,rg367-78694496/p06,,yes,,,,,
+diary,,1944-11-16,1200,VW,21-35N,157-50W,rg367-78694496/p06,,yes,,,,,
+diary,,1944-11-16,2000,VW,20-07N,157-55W,rg367-78694496/p06,,yes,,,,,
+diary,,1944-11-17,0800,VW,20-43N,157-56W,rg367-78694496/p06,,yes,,,,,
+diary,,1944-11-17,1200,VW,20-12N,157-27W,rg367-78694496/p06,,yes,,,,,
+event,drone destroyed,1944-11-17,1445,VW,,,rg367-78694496/p06,"""At 1445 the drone was hit and destroyed by mount #3""",no,,,,,
+diary,,1944-11-17,2000,VW,20-58N,157-06W,rg367-78694496/p06,,yes,,,,,
+diary,,1944-11-18,0800,VW,20-40N,157-11W,rg367-78694496/p07,,yes,,,,,
+diary,,1944-11-18,1200,VW,20-44N,157-00W,rg367-78694496/p07,,yes,,,,,
+event,leave formation for Pearl Harbor,1944-11-18,1405,VW,,,rg367-78694496/p07,"""At 1405 we were ordered by C.D.S. 62 to leave the formation and proceed independently to Pearl Harbor""",no,,,,,
+narrative,moor berth B-18,1944-11-18,1706,VW,21-21N,157-58W,rg367-78694496/p07,"""at 1706 we moored starboard side to U.S.S. COLHOUN in berth B-18, Navy Yard, Pearl Harbor, T. H."" (port position); 19 to 30 Nov ""Moored in berth """"B"""" 18, Navy Yard ... for repairs, alterations, and installation of fighter director equipment"" with no times, so no rows",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-11-18,2000,VW,21-21N,157-58W,rg367-78694496/p07,"Table row reads ""Navy Yard, Pearl Harbor, T. H."" with no coordinates (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
 narrative,leave Navy Yard,1944-12-13,1156,VW,21-21N,157-58W,rg367-139832917/p02,"Diary types no zone letter; ""Time Zone + 9½"" for 1 to 12 Dec (Hawaii war time, VW) and the letters are written from the diary's own clock-change lines (with the zone each change names, 16 Dec onward). 1 to 12 Dec is one entry with no times, ""In Navy Yard, Pearl Harbor, T.H., for repairs, alterations, and installation of fighter director equipment"", so no row. ""We left the Navy Yard today at 1156 and proceeded to berth D3 in Middle Loch"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
 narrative,moor berth D3,1944-12-13,1211,VW,21-21N,157-58W,rg367-139832917/p02,"""where we moored at 1211"" (berth D3, Middle Loch; port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
 narrative,underway Pearl Harbor,1944-12-14,0720,VW,21-21N,157-58W,rg367-139832917/p02,"""At 0720 got underway in accordance with ComDesPac dispatch 132154 ... for Hawaiian Operating Area S-1, where we spent the day conducting a CXGA calibration"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used

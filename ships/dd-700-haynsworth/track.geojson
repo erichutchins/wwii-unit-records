@@ -6,12 +6,244 @@
    "properties": {
     "kind": "track",
     "patrol": 1,
-    "start": "1944-12-13T21:26Z",
+    "start": "1944-11-01T16:12Z",
     "end": "1945-05-01T04:30Z"
    },
    "geometry": {
     "type": "LineString",
     "coordinates": [
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -158.0667,
+      21.2333
+     ],
+     [
+      -158.5167,
+      21.2833
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.95,
+      21.2833
+     ],
+     [
+      -158.8167,
+      20.5833
+     ],
+     [
+      -157.5,
+      19.9333
+     ],
+     [
+      -157.6167,
+      20.5333
+     ],
+     [
+      -156.9167,
+      20.4333
+     ],
+     [
+      -158.0,
+      20.5
+     ],
+     [
+      -156.6333,
+      20.4
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9333,
+      21.2667
+     ],
+     [
+      -158.4667,
+      21.2667
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.8,
+      21.0167
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.3
+     ],
+     [
+      -157.8,
+      21.1667
+     ],
+     [
+      -158.15,
+      20.8833
+     ],
+     [
+      -156.8333,
+      20.5167
+     ],
+     [
+      -156.8333,
+      20.5167
+     ],
+     [
+      -156.8333,
+      20.5167
+     ],
+     [
+      -156.5,
+      20.5
+     ],
+     [
+      -156.5,
+      20.5
+     ],
+     [
+      -156.6667,
+      20.0833
+     ],
+     [
+      -156.8333,
+      20.5167
+     ],
+     [
+      -157.6667,
+      20.9
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.3
+     ],
+     [
+      -157.75,
+      21.1667
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.15
+     ],
+     [
+      -157.8333,
+      21.5833
+     ],
+     [
+      -157.9167,
+      20.1167
+     ],
+     [
+      -157.9333,
+      20.7167
+     ],
+     [
+      -157.45,
+      20.2
+     ],
+     [
+      -157.1,
+      20.9667
+     ],
+     [
+      -157.1833,
+      20.6667
+     ],
+     [
+      -157.0,
+      20.7333
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
      [
       -157.9667,
       21.35
@@ -1352,6 +1584,1436 @@
       -143.2667,
       30.05
      ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-01T16:12Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-01 0642(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "Diary types no zone letter; its only zone line is \"Time zone + 4.\" on 1 Nov, which does not fit Hawaii (the December diary types \"Time Zone + 9\u00bd\" at Pearl Harbor). VW (+9\u00bd, Hawaii war time) is written for the whole month from the December diary's zone and because no clock change is typed; this letter is an assumption, not read from the November diary. \"At 0642 we got underway from berth D-1, Middle Loch, Pearl Harbor, T. H. in company with U.S.S. WALLER ... Proceeded to operation area C-10 and made ASW runs and simulated attacks on U.S. submarine S-1\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-01T17:30Z",
+    "lat_raw": "21-14N",
+    "lon_raw": "158-04W",
+    "local": "1944-11-01 0800(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0667,
+     21.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-01T21:30Z",
+    "lat_raw": "21-17N",
+    "lon_raw": "158-31W",
+    "local": "1944-11-01 1200(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.5167,
+     21.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth D-1",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-02T03:59Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-01 1829(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "\"At 1829 we returned to our mooring at berth D-1\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-02T05:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-01 2000(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "Table row reads \"Berth D-1, Middle Loch, Pearl Harbor, T. H.\" with no coordinates (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-02T16:39Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-02 0709(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "\"Underway from berth D-1, Middle Loch, Pearl Harbor, T. H. at 0709 in accordance with ComDes Pac's operational orders of Nov. 1944, for Hawaiian operating areas\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-02T17:30Z",
+    "lat_raw": "21-17N",
+    "lon_raw": "157-57W",
+    "local": "1944-11-02 0800(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.95,
+     21.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-02T21:30Z",
+    "lat_raw": "20-35N",
+    "lon_raw": "158-49W",
+    "local": "1944-11-02 1200(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.8167,
+     20.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-03T05:30Z",
+    "lat_raw": "19-56N",
+    "lon_raw": "157-30W",
+    "local": "1944-11-02 2000(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.5,
+     19.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-03T17:30Z",
+    "lat_raw": "20-32N",
+    "lon_raw": "157-37W",
+    "local": "1944-11-03 0800(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.6167,
+     20.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-03T21:30Z",
+    "lat_raw": "20-26N",
+    "lon_raw": "156-55W",
+    "local": "1944-11-03 1200(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.9167,
+     20.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-04T05:30Z",
+    "lat_raw": "20-30N",
+    "lon_raw": "158-00W",
+    "local": "1944-11-03 2000(VW)",
+    "page": "rg367-78694496/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0,
+     20.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-11-04T17:30Z",
+    "lat_raw": "20-30N",
+    "lon_raw": "158-00W",
+    "local": "1944-11-04 0800(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "Table position kept as typed. It is the same as the 3 Nov 2000 position, while the narrative has the ship anchored off Kahoolawe Island at 0706 and under way again at 0718 for shore bombardment exercises (Kahoolawe is at about 156-35W, some 75 nm east of this fix). The table contradicts the narrative, so the row is kept as typed and left off the track; no fix",
+    "fix": "excluded from the track (inferred): table position repeats the 3 Nov 2000 fix and contradicts the narrative"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0,
+     20.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-04T21:30Z",
+    "lat_raw": "20-24N",
+    "lon_raw": "156-38W",
+    "local": "1944-11-04 1200(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.6333,
+     20.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth D-P-3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-05T03:15Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-04 1745(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "\"At 1745 we moored port side to dock D-P-3, Middle Loch, Pearl Harbor, T. H. for deperming operations\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-05T05:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-04 2000(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "Table row reads \"Berth D-P-3, Middle Loch, Pearl Harbor, T. H.\" with no coordinates (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "shift berth D-2",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-05T17:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-05 0800(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "\"At 0800 we shifted berths to D-2, Middle Loch, Pearl Harbor, T. H., and spent the balance of the day there\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-06T16:15Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-06 0645(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "\"At 0645 we got underway from Berth D-2, Middle Loch ... Today was spent in company with U.S.S. SPERRY in area V-3 making simulated attacks on U.S. Submarine S-41\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-06T17:30Z",
+    "lat_raw": "21-16N",
+    "lon_raw": "157-56W",
+    "typed": "22-16N 157-56W",
+    "local": "1944-11-06 0800(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "Typed 22-16N is 55 nm from the harbour 1 h 15 min after getting underway at 0645, about 44 kn. 21-16N (one digit changed) is 5 nm from the harbour and 30 nm from the 1200 fix, so the 22 is read as 21 in lat_fix",
+    "fix": "22-16N is impossible 1 h 15 min after leaving the harbour (about 44 kn); 21-16N is the single-digit reading that fits the 0645 departure and the 1200 fix (21-16N 158-28W)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9333,
+     21.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-06T21:30Z",
+    "lat_raw": "21-16N",
+    "lon_raw": "158-28W",
+    "local": "1944-11-06 1200(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.4667,
+     21.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor alongside Sperry",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-07T04:08Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-06 1838(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "\"At 1838 we moored port side to U.S.S. SPERRY in Middle Loch, Pearl Harbor, T. H.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-07T05:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-06 2000(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "Table row reads \"Berth D-2 Middle Loch, Pearl Harbor, T. H.\" with no coordinates (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-07T17:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-07 0800(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "Table row reads \"Berth D-2, Pearl Harbor, T.H.\" with no coordinates (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-07T17:48Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-07 0818(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "\"Underway for area S-1 at 0818 ... torpedo tracking and firing exercises, acting as target ship for U.S.S. GREGORY\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-07T21:30Z",
+    "lat_raw": "21-01N",
+    "lon_raw": "157-48W",
+    "local": "1944-11-07 1200(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.8,
+     21.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth D-1",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-08T02:56Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-07 1726(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "\"We returned to our mooring alongside U.S.S. SPERRY in Berth D-1 at 1726\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-08T05:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-07 2000(VW)",
+    "page": "rg367-78694496/p03",
+    "note": "Table row reads \"Berth D-1, Pearl Harbor, T.H.\" with no coordinates (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-09T16:39Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-09 0709(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "\"Got underway at 0709 for operation areas ... torpedo firing exercises with SPERRY\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-09T17:30Z",
+    "lat_raw": "21-18N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-09 0800(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-09T21:30Z",
+    "lat_raw": "21-10N",
+    "lon_raw": "157-48W",
+    "local": "1944-11-09 1200(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.8,
+     21.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-10T05:30Z",
+    "lat_raw": "20-53N",
+    "lon_raw": "158-09W",
+    "local": "1944-11-09 2000(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "\"At 2000 AULT joined us, and we proceeded in a column formation ... throughout the night ... towards Kahoolawe Island, T. H.\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.15,
+     20.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-10T17:30Z",
+    "lat_raw": "20-31N",
+    "lon_raw": "156-50W",
+    "local": "1944-11-10 0800(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "Typed the same at 0800, 1200 and 2000 (shore bombardment exercises at Kahoolawe Island all day); kept as typed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.8333,
+     20.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-10T21:30Z",
+    "lat_raw": "20-31N",
+    "lon_raw": "156-50W",
+    "local": "1944-11-10 1200(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.8333,
+     20.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-11T05:30Z",
+    "lat_raw": "20-31N",
+    "lon_raw": "156-50W",
+    "local": "1944-11-10 2000(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.8333,
+     20.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-11T17:30Z",
+    "lat_raw": "20-30N",
+    "lon_raw": "156-30W",
+    "local": "1944-11-11 0800(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.5,
+     20.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-11T21:30Z",
+    "lat_raw": "20-30N",
+    "lon_raw": "156-30W",
+    "local": "1944-11-11 1200(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.5,
+     20.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-12T05:30Z",
+    "lat_raw": "20-05N",
+    "lon_raw": "156-40W",
+    "local": "1944-11-11 2000(VW)",
+    "page": "rg367-78694496/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.6667,
+     20.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-12T17:30Z",
+    "lat_raw": "20-31N",
+    "lon_raw": "156-50W",
+    "local": "1944-11-12 0800(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "Typed the same as the 10 Nov 0800 position; 27 nm from the 11 Nov 2000 fix, so kept as typed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.8333,
+     20.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-12T21:30Z",
+    "lat_raw": "20-54N",
+    "lon_raw": "157-40W",
+    "local": "1944-11-12 1200(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.6667,
+     20.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth K-8",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-12T23:50Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-12 1420(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "\"we proceeded to Pearl Harbor and moored starboard side to, at Berth K-8 at 1420\" (Kuahua Island; port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-13T05:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-12 2000(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "Table row reads \"Berth K-8, Kuahua Island, Pearl Harbor, T. H.\" with no coordinates (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-13T16:53Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-13 0723(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "\"Underway at 0723 for operating area V-1 ... TR-1 runs in company with U.S.S. AULT (DD 698)\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-13T17:30Z",
+    "lat_raw": "21-18N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-13 0800(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-13T21:30Z",
+    "lat_raw": "21-10N",
+    "lon_raw": "157-45W",
+    "local": "1944-11-13 1200(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.75,
+     21.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth K-1",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-14T04:18Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-13 1848(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "\"At 1848 we moored port side to Berth K-1, Pearl Harbor, T. H.\" (the table's 2000 row names Berth K-8; port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-14T05:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-13 2000(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "Table row reads \"Berth K-8, Kuahua Island, Pearl Harbor, T. H.\" with no coordinates (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway shift berths",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-14T17:04Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-14 0734(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "\"At 0734 on the 14th of November, we got underway to shift berths\" (the 14 and 15 Nov entry is one, with no table; port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth D-1",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-14T17:43Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-14 0813(VW)",
+    "page": "rg367-78694496/p05",
+    "note": "\"at 0813 we moored starboard side to U.S.S. LOWRY (DD 770) in Berth D-1\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-16T16:34Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-16 0704(VW)",
+    "page": "rg367-78694496/p06",
+    "note": "\"0704 Underway for Hawaiian Operating Areas in company with AULT, WALDRON, SPERRY, ENGLISH, and HYMAN. O.T.C. is C.D.S. 62 in AULT\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "collision backing from berth",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-11-16T16:36Z",
+    "lat_raw": "~21-21N",
+    "lon_raw": "~157-58W",
+    "local": "1944-11-16 0706(VW)",
+    "page": "rg367-78694496/p06",
+    "note": "\"At 0706, in backing from the berth, wind set ship down on U.S.S. LOWRY breaking her starboard anchor loose ... Damage to own ship slight, consisting of a bent stanchion below starboard forward 40 MM gun platform\"",
+    "fix": "position assumed: interpolated between the 16 Nov 1634Z and 16 Nov 1730Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.3429
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-16T17:30Z",
+    "lat_raw": "21-09N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-16 0800(VW)",
+    "page": "rg367-78694496/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-16T21:30Z",
+    "lat_raw": "21-35N",
+    "lon_raw": "157-50W",
+    "local": "1944-11-16 1200(VW)",
+    "page": "rg367-78694496/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.8333,
+     21.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-17T05:30Z",
+    "lat_raw": "20-07N",
+    "lon_raw": "157-55W",
+    "local": "1944-11-16 2000(VW)",
+    "page": "rg367-78694496/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9167,
+     20.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-17T17:30Z",
+    "lat_raw": "20-43N",
+    "lon_raw": "157-56W",
+    "local": "1944-11-17 0800(VW)",
+    "page": "rg367-78694496/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9333,
+     20.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-17T21:30Z",
+    "lat_raw": "20-12N",
+    "lon_raw": "157-27W",
+    "local": "1944-11-17 1200(VW)",
+    "page": "rg367-78694496/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.45,
+     20.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "drone destroyed",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-11-18T00:15Z",
+    "lat_raw": "~20-28N",
+    "lon_raw": "~157-20W",
+    "local": "1944-11-17 1445(VW)",
+    "page": "rg367-78694496/p06",
+    "note": "\"At 1445 the drone was hit and destroyed by mount #3\"",
+    "fix": "position assumed: interpolated between the 17 Nov 2130Z and 18 Nov 0530Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.3301,
+     20.4636
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-18T05:30Z",
+    "lat_raw": "20-58N",
+    "lon_raw": "157-06W",
+    "local": "1944-11-17 2000(VW)",
+    "page": "rg367-78694496/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.1,
+     20.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-18T17:30Z",
+    "lat_raw": "20-40N",
+    "lon_raw": "157-11W",
+    "local": "1944-11-18 0800(VW)",
+    "page": "rg367-78694496/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.1833,
+     20.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-18T21:30Z",
+    "lat_raw": "20-44N",
+    "lon_raw": "157-00W",
+    "local": "1944-11-18 1200(VW)",
+    "page": "rg367-78694496/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.0,
+     20.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "leave formation for Pearl Harbor",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-11-18T23:35Z",
+    "lat_raw": "~20-59N",
+    "lon_raw": "~157-24W",
+    "local": "1944-11-18 1405(VW)",
+    "page": "rg367-78694496/p07",
+    "note": "\"At 1405 we were ordered by C.D.S. 62 to leave the formation and proceed independently to Pearl Harbor\"",
+    "fix": "position assumed: interpolated between the 18 Nov 2130Z and 19 Nov 0236Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.3939,
+     20.9859
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth B-18",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-19T02:36Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-18 1706(VW)",
+    "page": "rg367-78694496/p07",
+    "note": "\"at 1706 we moored starboard side to U.S.S. COLHOUN in berth B-18, Navy Yard, Pearl Harbor, T. H.\" (port position); 19 to 30 Nov \"Moored in berth \"\"B\"\" 18, Navy Yard ... for repairs, alterations, and installation of fighter director equipment\" with no times, so no rows",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-19T05:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-11-18 2000(VW)",
+    "page": "rg367-78694496/p07",
+    "note": "Table row reads \"Navy Yard, Pearl Harbor, T. H.\" with no coordinates (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
     ]
    }
   },
