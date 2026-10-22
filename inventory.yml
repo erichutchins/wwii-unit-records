@@ -72,6 +72,7 @@ ships:
   DD-700:   # USS Haynsworth
     folder: ships/dd-700-haynsworth
     records:
+      1945-03: { status: mapped, nara: [139968200], files: [positions], note: "March 1945 war diary (11 pp.): Ulithi 4-14 Mar, the Kyushu and Okinawa strikes with T.G. 58.3, the Minami Daito Shima bombardment of 28 Mar" }
       1945-04: { status: mapped, nara: [633422068], files: [positions], note: "April 1945 war diary: Okinawa, the 6 April kamikaze hit, the voyage to Pearl Harbor" }
   DE-221:   # USS Solar
     folder: ships/de-221-solar
