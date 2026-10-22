@@ -40,6 +40,10 @@ Every station row cites its page (`page`), in the forms listed in `../SOURCES.ym
 - **The 894th AAA AW Bn's history** (1945, mimeographed; a 2012 retyped copy): the battalion's
   moves in 1945.
 - The 9th Armored Division's G.I. Stories booklet (Lone Sentry) and Wikipedia, for division positions.
+- The *Order of Battle of the United States Army, World War II: European Theater of Operations: Divisions*
+  (Office of the Theater Historian, Paris, December 1945; `etoob` in `../SOURCES.yml`): each division's
+  assignments and attachments to corps and armies, and its command posts, by date. Rows cite the printed page
+  (`etoob-9AD/p502`).
 
 Download and rendering instructions for each are in the kit's [guides](https://github.com/erichutchins/wwii-research-kit/tree/main/guides) and the tools' own help.
 
@@ -53,6 +57,7 @@ Hand-edited (the source of truth):
 - `actions.csv`: Battery D, 106th AAA's engagements and casualties, from the battalion's monthly
   histories (Aug 1944 – Apr 1945)
 - `ships.csv`: the ships of the sea crossings
+- `relations.csv`: dated relationships between units (part of, attached to, under command of, took part in), each with its page
 - `routes.csv`: waypoints for legs the reports don't trace (Atlantic voyages, train rides).
   Columns: `unit`, `from_date`, `to_date` (the two stations it joins), `seq`, `lat`, `lon`,
   `note` (on the first row: why the route is drawn that way). Always drawn dashed as assumed.
@@ -77,8 +82,10 @@ python3 tools/build_army.py       # check every row and write army.json; must re
 | `grid` | The map grid reference as typed: a 100 km square letter and an easting-northing (some have no letter, or give a map sheet instead) |
 | `grid_on` | Which grid `grid` is on: `italy-s` / `italy-n` (South / North Italy Zone), `lambert3` / `lambert2` / `lambert1` (French Lambert Zones III, II and I; Zone I is Normandy, 1944), `ndg` (Nord de Guerre), `ndg-w` (its western 500 km block, lettered V). Found by decoding each reference on every grid and checking it against the named town (`site/grids.html` shows every check); `tools/grid_ref.py` converts. The station is mapped at the grid point when the reference is to 1 km or better and falls within 8 km of the town plus offset; otherwise at the town |
 | `page` | `rg64-<roll NAID>/pNNNN`: the page in the catalog viewer (`?objectPage=NNNN`); the cache's `nara/rg64-…/pNNNN.jpg` when downloaded. `ok45th-<item>/pNN`: page NN of a 45th Infantry Division Museum PDF; the cache's `45th-museum/ok45th-…/pNN.jpg` when rendered. `hist894/pNN`: page NN of the retyped copy of the 894th's history (not the booklet's printed page number, which is 8–9 lower). Every form is in `../SOURCES.yml` |
-| `source` | `mr` = morning report. `btry` = Battery D's own position in the battalion's records (the May table of battery CPs, or an action report naming the battery). `bn` = the battalion command post from its journal or history; the battery is assumed nearby, and the map draws it hollow with dashed legs. `regt` = the Regimental Headquarters Battery's morning report, used for the 67th CA (AA)'s medical detachment in March–April 1943 when its own reports are missing; drawn the same way. `hist` = the 894th battalion's position in its printed history (1945), the detachment assumed with battalion headquarters; drawn the same way. `aar` = the 128th AAA's battalion symbol on a Third Army antiaircraft situation map, or its move in that report's text (1945); drawn the same way. `div` = the 9th Armored Division's (or one combat command's) position; drawn the same way |
+| `source` | `mr` = morning report. `btry` = Battery D's own position in the battalion's records (the May table of battery CPs, or an action report naming the battery). `bn` = the battalion command post from its journal or history; the battery is assumed nearby, and the map draws it hollow with dashed legs. `regt` = the Regimental Headquarters Battery's morning report, used for the 67th CA (AA)'s medical detachment in March–April 1943 when its own reports are missing; drawn the same way. `hist` = the 894th battalion's position in its printed history (1945), the detachment assumed with battalion headquarters; drawn the same way. `aar` = the 128th AAA's battalion symbol on a Third Army antiaircraft situation map, or its move in that report's text (1945); drawn the same way. `div` = the 9th Armored Division's (or one combat command's) position; drawn the same way. `cp` = a division headquarters' command post, from the ETO order of battle (`etoob`): the headquarters' own position, drawn solid. `uaar` = a unit's own after action report, as transcribed (the 60th Armored Infantry Bn's, `eucmh60aib/<yyyy-mm>`, the month's report): the battalion's own position, drawn solid |
 | `note` | Readings, identifications, forward detachments, editorial context |
+| `when` | Optional: what the record supports about the date, when that is less than `date` (which stays an ISO day, for sorting and the map). `..1945-01-31`: there by then (a situation map of that day); `1945-02`: some day that month (a move given only by month). Empty: the row starts on its date. A row lasts until the next row starts, so these give each stay a certain part and a possible part (the evidence engine's date forms) |
+| `precision` | Optional: how the position was given, when the `source` doesn't say it (one of `grid-100m`, `grid-1km`, `town`, `area`, `division`; each stands for a working tolerance, a provisional assumption of the tools that compare positions, not a measured error). A division's symbol on a situation map is `area`: the map symbol's tolerance, though the position is still the division's (`source` `div`), which says nothing about where its units were |
 
 Only **changes** of station are recorded, plus anything worth noting; a unit
 stays where its last row puts it. The rows were found with
@@ -89,6 +96,30 @@ the source of a value.
 
 For the 1945 journal entries `station` is the place phrase as typed ("Gersfeld
 at N-550079"); the note gives the times and context.
+
+## relations.csv columns
+
+Dated relationships between units, so a unit's place in the chain of command is data, not a note. One row per
+relationship and period; a change of attachment is a new row.
+
+| Column | Meaning |
+|---|---|
+| `unit` | Key into `units.csv` (or a formation named in an earlier row's `other`) |
+| `relation` | `part_of` (permanent: a battery of its battalion), `attached_to` (temporary), `under_command` (in a corps' or an army's order of battle), `took_part` (in an operation or battle) |
+| `other`, `other_name` | The other end: an id, and its name as the records give it |
+| `from`, `to` | When it held, as far as the cited page says, in the same forms as `when` above: `..1945-01-20` (by then), `1945-05-04..` (still then), `1945-02` (some day that month). An empty `to` means no end is recorded |
+| `basis` | `reported` (the page says so) or `inferred` (reasoned; the note says from what). Relationships computed from positions (near, same path, inside an operation's area) are never stored |
+| `page` | The citation, in a form in `../SOURCES.yml` |
+| `note` | The record's words and what they don't say. A division's `took_part` is the division's: it is context for its units and men, not their participation |
+
+## Leads
+
+Statements found in research notes or secondary sources that no record cited here supports yet. They are kept
+here, not in the data, until a page says so.
+
+| Lead | Said by | Searched | Still to search |
+|---|---|---|---|
+| The 9th Armored Division's attachment to Third Army (from 9 Jan 1945) was for supply | Earlier research notes (no page) | The ETO order of battle (`etoob-9AD/p502`): it gives the attachment from 9 Jan, but marks only the 30 Dec 1944 attachment to Oise Section, Com Z, as "(Sup)". The 60th Armored Infantry Battalion's after action report, Jan–Feb 1945 (as transcribed by EUCMH, archived): no army named | Third Army's after action report, G-4 section (`aar3`); the 9th Armored's G-3 and G-4 reports and journals for January 1945 (NARA RG 407, the division's 609 files); Fifteenth Army's history; Third Army's letters of instruction, January 1945 |
 
 ## actions.csv columns
 

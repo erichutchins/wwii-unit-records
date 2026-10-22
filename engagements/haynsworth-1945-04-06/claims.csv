@@ -1,7 +1,7 @@
 question,claim,weight,source,ref,note
 When was she hit?,1250 Item,record,"Haynsworth action report, p. 3 (9 Apr 1945)",https://catalog.archives.gov/id/140065945?objectPage=3,"""striking at 1250 Item"". The ship's own report, three days after"
 When was she hit?,Fires under control about 1300,record,"Haynsworth war diary, p. 4",https://catalog.archives.gov/id/633422068?objectPage=4,"Typed ""By13??"" with an overstrike. Favours a hit before 1300"
-When was she hit?,1318,record,"COMDESRON 62 war diary, p. 8",https://catalog.archives.gov/id/140016153?objectPage=8,The squadron commander's diary
+When was she hit?,1318,record,"COMDESRON 62 war diary, p. 8",https://catalog.archives.gov/id/140016153?objectPage=8,"The squadron commander's diary, typed with no zone letter. Its line gives 7 killed and 14 wounded, where the ship's action report counts 27 wounded, so it was probably written from an early message: likely the time the news reached the squadron, not the hit (inferred). A zone slip can't explain it: 1250 to 1318 is 28 minutes"
 When was she hit?,1321 (report received),record,"South Dakota war diary, 6 Apr",https://catalog.archives.gov/id/633438508,"""reported having received a bomb hit"". Her radio was wrecked, so the report was late: this is when the news arrived, not when it happened"
 What hit her?,A Judy (Suisei),record,Action report p. 3; war diary p. 3,https://catalog.archives.gov/id/140065945?objectPage=3,The ship called it a Judy throughout
 What hit her?,The engine was a two-row radial,photo,"Ship's photo No. 26 (4228-45), in Irons, Phalanx",irons,"Rules out a Suisei Model 11 or 12 (inline Atsuta). Fits a Model 33, and also a Zeke 52"

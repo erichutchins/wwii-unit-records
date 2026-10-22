@@ -151,6 +151,28 @@ aar3:
   match: '^aar3/p(\d+)$'
   used_for: army/stations.csv (source aar, div)
 
+etoob:
+  title: "Order of Battle of the United States Army, World War II: European Theater of Operations: Divisions"
+  by: Office of the Theater Historian, Headquarters, U.S. Forces, European Theater (Paris, December 1945)
+  held: >-
+    U.S. Army Center of Military History, web edition (history.army.mil/documents/ETO-OB/, one page per
+    division), now refused to scripts; read through the Internet Archive's copies
+  id: CMH web edition, ETO-OB
+  url: https://web.archive.org/web/20141231105407/http://www.history.army.mil/documents/ETO-OB/etoob-toc.htm
+  rights: Public domain (U.S. government publication)
+  cite: etoob-<division page, e.g. 9AD>/p<printed page>      # e.g. etoob-9AD/p502; p503-504 where the break isn't marked
+  match: '^etoob-(\w+)/p(\d+)(?:-(\d+))?$'
+  link: https://web.archive.org/web/20140115200945/http://www.history.army.mil/documents/ETO-OB/{1}-ETO.htm
+  used_for: army/stations.csv (source div), army/relations.csv (assignments and attachments to corps and armies)
+  note: >-
+    Compiled at the end of the war by the theater's combat historians. For each division: command and
+    staff, statistics, organic units, attachments and detachments with dates, its assignments and
+    attachments to corps, armies and army groups by date, and its command posts by date. The web edition
+    is the manuscript "with only those limited modifications required to adapt to the World Wide Web"; the
+    printed page numbers are marked in it ("[page 502]"), and rows cite those. Inside a long table the web edition
+    drops the breaks and lists them at its foot ("[pages 504 (through 6 Mar 45)-505]"); a row whose page that leaves
+    uncertain cites the range (etoob-9AD/p503-504).
+
 hist894:
   title: 894th Anti-Aircraft Artillery Automatic Weapons Battalion, History and Combat Diary, 1940–1945
   by: the battalion (mimeographed in Germany after V-E Day)
@@ -167,6 +189,21 @@ gi9ad:
   cite: gi9ad
   match: '^gi9ad$'
   used_for: army/stations.csv (9th Armored Division positions)
+
+eucmh60aib:
+  title: "9th Armored Division, 60th Armored Infantry Battalion: After Action Reports, October 1944 - March 1945, as transcribed by EUCMH"
+  by: The battalion's commanding officer (the reports are signed by its Lt Col); transcribed by EUCMH (European Center of Military History)
+  held: >-
+    EUCMH's web page (eucmh.be, 17 Apr 2018), a transcription of the battalion's monthly after action reports
+    (original: NARA RG 407, WWII Operations Reports); the site is gone, so read through the Internet Archive's copy
+    (cached at sources/etoob/eucmh-60aib-aar.html). Not checked against the original: a transcription, with
+    its typing errors (some dates and place spellings are wrong or inconsistent within a report)
+  url: https://web.archive.org/web/20190817132207/https://www.eucmh.be/2018/04/17/9th-armored-division-60-aib-aar-10-1944-03-1945/
+  rights: Unit report (U.S. government record); the transcription is EUCMH's
+  cite: eucmh60aib/<yyyy-mm>      # the month's report on that page, e.g. eucmh60aib/1945-02; the page has no page numbers
+  match: '^eucmh60aib/(\d{4}-\d{2})$'
+  link: https://web.archive.org/web/20190817132207/https://www.eucmh.be/2018/04/17/9th-armored-division-60-aib-aar-10-1944-03-1945/
+  used_for: army/stations.csv (source uaar, the 60th Armored Infantry Battalion's own position)
 
 wiki9ad:
   title: 9th Armored Division (United States)
