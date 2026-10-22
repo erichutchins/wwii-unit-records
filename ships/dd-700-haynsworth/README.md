@@ -1,11 +1,11 @@
-# USS Haynsworth (DD-700): war diaries, February to April 1945
+# USS Haynsworth (DD-700): war diaries, January to April 1945
 
 `haynsworth/positions.csv` has the same columns as `patrol-N/positions.csv`, transcribed
-from the ship's war diaries for February 1945 ([NARA 139903592](https://catalog.archives.gov/id/139903592),
+from the ship's war diaries for January 1945 ([NARA 139846605](https://catalog.archives.gov/id/139846605),
+12 pages), February 1945 ([NARA 139903592](https://catalog.archives.gov/id/139903592),
 8 pages), March 1945 ([NARA 139968200](https://catalog.archives.gov/id/139968200),
 11 pages) and April 1945 ([NARA 633422068](https://catalog.archives.gov/id/633422068), 8 pages), RG 38;
-scans download to the kit's cache as `nara/rg367-<id>/`. Her other monthly diaries, November 1944 to
-January 1945 and May to October 1945, are in the catalog too and not yet transcribed (`../../inventory.yml`). Her deck logs are
+scans download to the kit's cache as `nara/rg367-<id>/`. Her other monthly diaries, November and December 1944 and May to October 1945, are in the catalog too and not yet transcribed (`../../inventory.yml`). Her deck logs are
 online only from 1957.
 
 - `source` is `diary` (a 0800 / 1200 / 2000 position from the diary's daily table) or
@@ -18,6 +18,7 @@ online only from 1957.
   1245 dog-fight and before the fires were under control (about 1300).
 - Zones: the March diary types no zone letter, only "Zone description -10" (K) on 1 March and "retarded all clocks to -9 zone time" (I) at 0400 on 14 March; the letters are written from those. In April, -9 (I) at Okinawa, then the diary's clock changes through K, L, M, the date line (the
   diary repeats 23 April; the second 23rd is zone Y), X, WX, W, VW (Hawaii war time), V and UV.
+- January: the diary types no zone letter, only "Zone description -9" on 1 Jan, so I (-9) is written from then to the clock change in the diary's last entry: at 0710 on 26 Jan "set all clocks ahead one hour to -10 zone time" (K from there; the 0647 and 0710 rows are typed before the change, so I). The January table runs 1 to 25 Jan (T.G. 38.2: Formosa and Luzon strikes, the Camranh Bay strike of 12 Jan, the South China Sea sweep and Hong Kong/Hainan strikes of 16 Jan, the Ballintang Channel exit on 20 Jan, Formosa and Okinawa Jima strikes of 21-22 Jan); 26 Jan has no table, only the entry into Ulithi (0647, port position) and mooring in berth 414 (1828); 27 to 31 Jan is one entry with no times, so no row. The 3 Jan 0545 "vicinity of 22 30 N, 122 50 E" is a narrative position, not a table fix, and is kept with `on_track=no`. The 12 Jan "rejoined the screen at 9907" has a 0 struck over the 9 on the scan and is written 0907. The 22 Jan 2000 to 23 Jan 0800 leg is 25.3 kn (304 nm), at the speed screen's edge, and is kept as typed.
 - March: the 24 March table is typed identical to the 25th's, though the narrative has the group off Okinawa until 2000 that day, so the 24th's rows are kept as typed with `on_track=no`. On 21 March the third row is typed 2400, not 2000: kept as typed, and written as 0000 on 22 March in the fix columns so the track can read it.
 - February: the diary types "Zone description -10" on 1 Feb and no clock change after it, so the whole month is K, including the days at Ulithi (139E) and off Honshu (141E). The table starts on 10 Feb (the 1 to 9 Feb entries are berths in Ulithi Lagoon, written as port rows with the standard harbour position and the diary's times, and 10 Feb's 0800 row, "Berth 417", the same). Two table entries were checked on the scan: the 10 Feb 1200 position (07-52N 140-00E) is 35 kn from Ulithi and is kept as typed with `on_track=no`, since the right digit can't be told from the page; and the 15 Feb 2000 longitude 141-21E is 36 kn from the 1200 fix and is read as 144-21E in `lon_fix` (the latitude and the next fix fit that). Events with a time (the picket boats sunk on 16 Feb, the Iwo Jima air alerts, the 25 Feb rescue) are `event` and `air` rows placed by interpolation, as in March.
 - Corrections: 19 Apr 0800 longitude 156-37E → 154-37E and 20 Apr 0800 longitude 170-22E →

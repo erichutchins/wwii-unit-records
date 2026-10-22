@@ -6,12 +6,320 @@
    "properties": {
     "kind": "track",
     "patrol": 1,
-    "start": "1945-01-31T22:03Z",
+    "start": "1944-12-31T23:00Z",
     "end": "1945-05-01T04:30Z"
    },
    "geometry": {
     "type": "LineString",
     "coordinates": [
+     [
+      131.7333,
+      18.25
+     ],
+     [
+      130.8667,
+      18.5167
+     ],
+     [
+      129.2667,
+      18.8333
+     ],
+     [
+      127.9667,
+      20.0167
+     ],
+     [
+      128.3833,
+      20.2833
+     ],
+     [
+      127.2,
+      21.0833
+     ],
+     [
+      123.0667,
+      22.1167
+     ],
+     [
+      123.0667,
+      22.45
+     ],
+     [
+      124.3333,
+      21.6333
+     ],
+     [
+      123.3167,
+      22.9333
+     ],
+     [
+      123.7833,
+      23.0667
+     ],
+     [
+      125.4667,
+      22.9
+     ],
+     [
+      126.4833,
+      19.8
+     ],
+     [
+      127.1333,
+      19.25
+     ],
+     [
+      126.85,
+      18.5167
+     ],
+     [
+      123.5167,
+      17.25
+     ],
+     [
+      123.5,
+      17.35
+     ],
+     [
+      123.95,
+      18.2833
+     ],
+     [
+      123.8667,
+      17.0167
+     ],
+     [
+      124.1,
+      16.9
+     ],
+     [
+      124.6333,
+      16.6667
+     ],
+     [
+      124.9833,
+      19.1167
+     ],
+     [
+      125.6667,
+      19.35
+     ],
+     [
+      125.55,
+      20.3167
+     ],
+     [
+      123.3333,
+      22.0333
+     ],
+     [
+      123.6167,
+      22.1667
+     ],
+     [
+      122.8667,
+      22.3667
+     ],
+     [
+      120.5333,
+      20.15
+     ],
+     [
+      119.7333,
+      19.3333
+     ],
+     [
+      117.95,
+      18.5
+     ],
+     [
+      115.95,
+      15.5
+     ],
+     [
+      115.5667,
+      14.7667
+     ],
+     [
+      113.35,
+      13.3167
+     ],
+     [
+      109.8,
+      11.6
+     ],
+     [
+      110.1333,
+      12.2333
+     ],
+     [
+      110.3667,
+      12.7
+     ],
+     [
+      113.0667,
+      13.9167
+     ],
+     [
+      114.1,
+      14.4
+     ],
+     [
+      114.75,
+      14.55
+     ],
+     [
+      116.1,
+      16.85
+     ],
+     [
+      116.55,
+      17.2
+     ],
+     [
+      117.4333,
+      18.3167
+     ],
+     [
+      118.3833,
+      21.2667
+     ],
+     [
+      118.6167,
+      21.3333
+     ],
+     [
+      118.6333,
+      21.9667
+     ],
+     [
+      114.85,
+      19.9
+     ],
+     [
+      115.1,
+      19.9833
+     ],
+     [
+      115.55,
+      19.6
+     ],
+     [
+      116.5667,
+      16.8833
+     ],
+     [
+      117.7333,
+      16.0667
+     ],
+     [
+      117.5167,
+      17.4333
+     ],
+     [
+      117.7,
+      18.3
+     ],
+     [
+      117.8,
+      17.9667
+     ],
+     [
+      117.7833,
+      16.7167
+     ],
+     [
+      117.75,
+      14.1333
+     ],
+     [
+      118.0167,
+      14.9667
+     ],
+     [
+      118.25,
+      16.2
+     ],
+     [
+      119.1667,
+      18.8833
+     ],
+     [
+      119.2667,
+      19.3667
+     ],
+     [
+      121.4833,
+      20.15
+     ],
+     [
+      122.5667,
+      22.7
+     ],
+     [
+      122.9667,
+      22.3667
+     ],
+     [
+      124.3333,
+      22.8833
+     ],
+     [
+      128.5333,
+      24.6667
+     ],
+     [
+      128.65,
+      24.85
+     ],
+     [
+      128.75,
+      25.0833
+     ],
+     [
+      126.8833,
+      20.3167
+     ],
+     [
+      127.2333,
+      20.0333
+     ],
+     [
+      127.6,
+      19.25
+     ],
+     [
+      131.4167,
+      17.8
+     ],
+     [
+      132.1833,
+      17.4167
+     ],
+     [
+      133.6833,
+      15.7667
+     ],
+     [
+      136.0667,
+      13.6
+     ],
+     [
+      136.6667,
+      13.45
+     ],
+     [
+      138.05,
+      12.0
+     ],
+     [
+      139.7333,
+      10.0667
+     ],
+     [
+      139.7333,
+      10.0667
+     ],
      [
       139.7333,
       10.0667
@@ -856,6 +1164,2112 @@
       -143.2667,
       30.05
      ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-12-31T23:00Z",
+    "lat_raw": "18-15N",
+    "lon_raw": "131-44E",
+    "local": "1945-01-01 0800(I)",
+    "page": "rg367-139846605/p02",
+    "note": "Diary types no zone letter; \"Zone description -9\" on 1 Jan, so I (-9) is written for the table to the clock change of 26 Jan; T.G. 38.2 (Fast Carrier Task Force 38) en route to the Formosa and Luzon strikes",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.7333,
+     18.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-01T03:00Z",
+    "lat_raw": "18-31N",
+    "lon_raw": "130-52E",
+    "local": "1945-01-01 1200(I)",
+    "page": "rg367-139846605/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.8667,
+     18.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-01T11:00Z",
+    "lat_raw": "18-50N",
+    "lon_raw": "129-16E",
+    "local": "1945-01-01 2000(I)",
+    "page": "rg367-139846605/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.2667,
+     18.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-01T23:00Z",
+    "lat_raw": "20-01N",
+    "lon_raw": "127-58E",
+    "local": "1945-01-02 0800(I)",
+    "page": "rg367-139846605/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.9667,
+     20.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-02T03:00Z",
+    "lat_raw": "20-17N",
+    "lon_raw": "128-23E",
+    "local": "1945-01-02 1200(I)",
+    "page": "rg367-139846605/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.3833,
+     20.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-02T11:00Z",
+    "lat_raw": "21-05N",
+    "lon_raw": "127-12E",
+    "local": "1945-01-02 2000(I)",
+    "page": "rg367-139846605/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.2,
+     21.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "strike launch Formosa",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-02T20:45Z",
+    "lat_raw": "22-30N",
+    "lon_raw": "122-50E",
+    "local": "1945-01-03 0545(I)",
+    "page": "rg367-139846605/p03",
+    "note": "\"At 0545 the formation changed course to 115 T. and the carriers launched their planes for the strike on Formosa and Okinawa Jima. At this time we were in the vicinity of 22 30' N, 122 50' E\" (typed as a vicinity, not a table fix; the group stayed there until about 1500, then returned on course 135 T., speed 15 knots)",
+    "fix": "excluded from the track: the narrative gives only a \"vicinity\" for the 0545 launch, not a table fix; the 0800 fix is 22-07N 123-04E"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.8333,
+     22.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-02T23:00Z",
+    "lat_raw": "22-07N",
+    "lon_raw": "123-04E",
+    "local": "1945-01-03 0800(I)",
+    "page": "rg367-139846605/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.0667,
+     22.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-03T03:00Z",
+    "lat_raw": "22-27N",
+    "lon_raw": "123-04E",
+    "local": "1945-01-03 1200(I)",
+    "page": "rg367-139846605/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.0667,
+     22.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Rescue 1 (Jan)",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-03T05:10Z",
+    "lat_raw": "~22-14N",
+    "lon_raw": "~123-25E",
+    "local": "1945-01-03 1410(I)",
+    "page": "rg367-139846605/p03",
+    "note": "\"At 1410 a T.B.F. Avenger which had its landing gear shot off over the target, landed in the water on our starboard bow ... we picked up the pilot and crew in good condition\"",
+    "fix": "position assumed: interpolated between the 03 Jan 0300Z and 03 Jan 1100Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.4112,
+     22.2298
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-03T11:00Z",
+    "lat_raw": "21-38N",
+    "lon_raw": "124-20E",
+    "local": "1945-01-03 2000(I)",
+    "page": "rg367-139846605/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.3333,
+     21.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-03T23:00Z",
+    "lat_raw": "22-56N",
+    "lon_raw": "123-19E",
+    "local": "1945-01-04 0800(I)",
+    "page": "rg367-139846605/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.3167,
+     22.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-04T03:00Z",
+    "lat_raw": "23-04N",
+    "lon_raw": "123-47E",
+    "local": "1945-01-04 1200(I)",
+    "page": "rg367-139846605/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.7833,
+     23.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Retiring",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-04T08:37Z",
+    "lat_raw": "~22-57N",
+    "lon_raw": "~124-58E",
+    "local": "1945-01-04 1737(I)",
+    "page": "rg367-139846605/p03",
+    "note": "\"at 1737 we commenced retiring to the Southeast to a fueling rendezvous\"",
+    "fix": "position assumed: interpolated between the 04 Jan 0300Z and 04 Jan 1100Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.9656,
+     22.9515
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-04T11:00Z",
+    "lat_raw": "22-54N",
+    "lon_raw": "125-28E",
+    "local": "1945-01-04 2000(I)",
+    "page": "rg367-139846605/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.4667,
+     22.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-04T23:00Z",
+    "lat_raw": "19-48N",
+    "lon_raw": "126-29E",
+    "local": "1945-01-05 0800(I)",
+    "page": "rg367-139846605/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.4833,
+     19.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-05T03:00Z",
+    "lat_raw": "19-15N",
+    "lon_raw": "127-08E",
+    "local": "1945-01-05 1200(I)",
+    "page": "rg367-139846605/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.1333,
+     19.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-05T11:00Z",
+    "lat_raw": "18-31N",
+    "lon_raw": "126-51E",
+    "local": "1945-01-05 2000(I)",
+    "page": "rg367-139846605/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.85,
+     18.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-05T23:00Z",
+    "lat_raw": "17-15N",
+    "lon_raw": "123-31E",
+    "local": "1945-01-06 0800(I)",
+    "page": "rg367-139846605/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.5167,
+     17.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-06T03:00Z",
+    "lat_raw": "17-21N",
+    "lon_raw": "123-30E",
+    "local": "1945-01-06 1200(I)",
+    "page": "rg367-139846605/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.5,
+     17.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-06T11:00Z",
+    "lat_raw": "18-17N",
+    "lon_raw": "123-57E",
+    "local": "1945-01-06 2000(I)",
+    "page": "rg367-139846605/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.95,
+     18.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-06T23:00Z",
+    "lat_raw": "17-01N",
+    "lon_raw": "123-52E",
+    "local": "1945-01-07 0800(I)",
+    "page": "rg367-139846605/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.8667,
+     17.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-07T03:00Z",
+    "lat_raw": "16-54N",
+    "lon_raw": "124-06E",
+    "local": "1945-01-07 1200(I)",
+    "page": "rg367-139846605/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.1,
+     16.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-07T11:00Z",
+    "lat_raw": "16-40N",
+    "lon_raw": "124-38E",
+    "local": "1945-01-07 2000(I)",
+    "page": "rg367-139846605/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.6333,
+     16.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-07T23:00Z",
+    "lat_raw": "19-07N",
+    "lon_raw": "124-59E",
+    "local": "1945-01-08 0800(I)",
+    "page": "rg367-139846605/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.9833,
+     19.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-08T03:00Z",
+    "lat_raw": "19-21N",
+    "lon_raw": "125-40E",
+    "local": "1945-01-08 1200(I)",
+    "page": "rg367-139846605/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.6667,
+     19.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-08T11:00Z",
+    "lat_raw": "20-19N",
+    "lon_raw": "125-33E",
+    "local": "1945-01-08 2000(I)",
+    "page": "rg367-139846605/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.55,
+     20.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Sound contact",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-08T18:35Z",
+    "lat_raw": "~21-24N",
+    "lon_raw": "~124-09E",
+    "local": "1945-01-09 0335(I)",
+    "page": "rg367-139846605/p05",
+    "note": "\"At 0335, the SPERRY, which was 3000 yards on our port quarter, reported a sound contact which she evaluated as submarine, and made 2 D.C. attacks with negative results\"; ordered by C.T.F. 38 to join the search at the stern of the formation; searched until 1130, then ordered to rejoin (the diary types no search position)",
+    "fix": "position assumed: interpolated between the 08 Jan 1100Z and 08 Jan 2300Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.1552,
+     21.4049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-08T23:00Z",
+    "lat_raw": "22-02N",
+    "lon_raw": "123-20E",
+    "local": "1945-01-09 0800(I)",
+    "page": "rg367-139846605/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.3333,
+     22.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-09T03:00Z",
+    "lat_raw": "22-10N",
+    "lon_raw": "123-37E",
+    "local": "1945-01-09 1200(I)",
+    "page": "rg367-139846605/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.6167,
+     22.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 1 (Jan)",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-09T04:43Z",
+    "lat_raw": "~22-13N",
+    "lon_raw": "~123-27E",
+    "local": "1945-01-09 1343(I)",
+    "page": "rg367-139846605/p05",
+    "note": "\"At 1343, while we were still six miles from our task group, C.T.G. 38.3 reported enemy planes approaching from the South-West\"; combat air patrols sent out, no visual contact; screen reported clear at 1355; back on station at 1410",
+    "fix": "position assumed: interpolated between the 09 Jan 0300Z and 09 Jan 1100Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.4559,
+     22.2099
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-09T11:00Z",
+    "lat_raw": "22-22N",
+    "lon_raw": "122-52E",
+    "local": "1945-01-09 2000(I)",
+    "page": "rg367-139846605/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.8667,
+     22.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-09T23:00Z",
+    "lat_raw": "20-09N",
+    "lon_raw": "120-32E",
+    "local": "1945-01-10 0800(I)",
+    "page": "rg367-139846605/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.5333,
+     20.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-10T03:00Z",
+    "lat_raw": "19-20N",
+    "lon_raw": "119-44E",
+    "local": "1945-01-10 1200(I)",
+    "page": "rg367-139846605/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.7333,
+     19.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-10T11:00Z",
+    "lat_raw": "18-30N",
+    "lon_raw": "117-57E",
+    "local": "1945-01-10 2000(I)",
+    "page": "rg367-139846605/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.95,
+     18.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-10T23:00Z",
+    "lat_raw": "15-30N",
+    "lon_raw": "115-57E",
+    "local": "1945-01-11 0800(I)",
+    "page": "rg367-139846605/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.95,
+     15.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-11T03:00Z",
+    "lat_raw": "14-46N",
+    "lon_raw": "115-34E",
+    "local": "1945-01-11 1200(I)",
+    "page": "rg367-139846605/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.5667,
+     14.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 2 (Jan)",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-11T07:23Z",
+    "lat_raw": "~13-58N",
+    "lon_raw": "~114-21E",
+    "local": "1945-01-11 1623(I)",
+    "page": "rg367-139846605/p06",
+    "note": "\"At 1623, two zekes were spotted 30 miles ahead of our formation ... intercepted and shot down by our fighters\"",
+    "fix": "position assumed: interpolated between the 11 Jan 0300Z and 11 Jan 1100Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.3486,
+     13.9747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-11T11:00Z",
+    "lat_raw": "13-19N",
+    "lon_raw": "113-21E",
+    "local": "1945-01-11 2000(I)",
+    "page": "rg367-139846605/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.35,
+     13.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-11T23:00Z",
+    "lat_raw": "11-36N",
+    "lon_raw": "109-48E",
+    "local": "1945-01-12 0800(I)",
+    "page": "rg367-139846605/p06",
+    "note": "Camranh Bay strike day; typed as 11 - 36 N 109 - 48 E",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.8,
+     11.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Rejoin screen",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-12T00:07Z",
+    "lat_raw": "~11-47N",
+    "lon_raw": "~109-54E",
+    "local": "1945-01-12 0907(I)",
+    "page": "rg367-139846605/p06",
+    "note": "\"We rejoined the screen at 0907\" after the pre-dawn approach to Camranh Bay, when she stood on strike picket station #2, 25 miles ahead of the formation (the first digit is typed 9 and struck over with 0 on the scan; read as 0907)",
+    "fix": "position assumed: interpolated between the 11 Jan 2300Z and 12 Jan 0300Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.8929,
+     11.7768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-12T03:00Z",
+    "lat_raw": "12-14N",
+    "lon_raw": "110-08E",
+    "local": "1945-01-12 1200(I)",
+    "page": "rg367-139846605/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1333,
+     12.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-12T11:00Z",
+    "lat_raw": "12-42N",
+    "lon_raw": "110-22E",
+    "local": "1945-01-12 2000(I)",
+    "page": "rg367-139846605/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.3667,
+     12.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-12T23:00Z",
+    "lat_raw": "13-55N",
+    "lon_raw": "113-04E",
+    "local": "1945-01-13 0800(I)",
+    "page": "rg367-139846605/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.0667,
+     13.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-13T03:00Z",
+    "lat_raw": "14-24N",
+    "lon_raw": "114-06E",
+    "local": "1945-01-13 1200(I)",
+    "page": "rg367-139846605/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.1,
+     14.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-13T11:00Z",
+    "lat_raw": "14-33N",
+    "lon_raw": "114-45E",
+    "local": "1945-01-13 2000(I)",
+    "page": "rg367-139846605/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.75,
+     14.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-13T23:00Z",
+    "lat_raw": "16-51N",
+    "lon_raw": "116-06E",
+    "local": "1945-01-14 0800(I)",
+    "page": "rg367-139846605/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.1,
+     16.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-14T03:00Z",
+    "lat_raw": "17-12N",
+    "lon_raw": "116-33E",
+    "local": "1945-01-14 1200(I)",
+    "page": "rg367-139846605/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.55,
+     17.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-14T11:00Z",
+    "lat_raw": "18-19N",
+    "lon_raw": "117-26E",
+    "local": "1945-01-14 2000(I)",
+    "page": "rg367-139846605/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.4333,
+     18.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-14T23:00Z",
+    "lat_raw": "21-16N",
+    "lon_raw": "118-23E",
+    "local": "1945-01-15 0800(I)",
+    "page": "rg367-139846605/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.3833,
+     21.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-15T03:00Z",
+    "lat_raw": "21-20N",
+    "lon_raw": "118-37E",
+    "local": "1945-01-15 1200(I)",
+    "page": "rg367-139846605/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.6167,
+     21.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-15T11:00Z",
+    "lat_raw": "21-58N",
+    "lon_raw": "118-38E",
+    "local": "1945-01-15 2000(I)",
+    "page": "rg367-139846605/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.6333,
+     21.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-15T23:00Z",
+    "lat_raw": "19-54N",
+    "lon_raw": "114-51E",
+    "local": "1945-01-16 0800(I)",
+    "page": "rg367-139846605/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.85,
+     19.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-16T03:00Z",
+    "lat_raw": "19-59N",
+    "lon_raw": "115-06E",
+    "local": "1945-01-16 1200(I)",
+    "page": "rg367-139846605/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.1,
+     19.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-16T11:00Z",
+    "lat_raw": "19-36N",
+    "lon_raw": "115-33E",
+    "local": "1945-01-16 2000(I)",
+    "page": "rg367-139846605/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.55,
+     19.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-16T23:00Z",
+    "lat_raw": "16-53N",
+    "lon_raw": "116-34E",
+    "local": "1945-01-17 0800(I)",
+    "page": "rg367-139846605/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.5667,
+     16.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-17T03:00Z",
+    "lat_raw": "16-04N",
+    "lon_raw": "117-44E",
+    "local": "1945-01-17 1200(I)",
+    "page": "rg367-139846605/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.7333,
+     16.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-17T11:00Z",
+    "lat_raw": "17-26N",
+    "lon_raw": "117-31E",
+    "local": "1945-01-17 2000(I)",
+    "page": "rg367-139846605/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.5167,
+     17.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-17T23:00Z",
+    "lat_raw": "18-18N",
+    "lon_raw": "117-42E",
+    "local": "1945-01-18 0800(I)",
+    "page": "rg367-139846605/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.7,
+     18.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-18T03:00Z",
+    "lat_raw": "17-58N",
+    "lon_raw": "117-48E",
+    "local": "1945-01-18 1200(I)",
+    "page": "rg367-139846605/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.8,
+     17.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-18T11:00Z",
+    "lat_raw": "16-43N",
+    "lon_raw": "117-47E",
+    "local": "1945-01-18 2000(I)",
+    "page": "rg367-139846605/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.7833,
+     16.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-18T23:00Z",
+    "lat_raw": "14-08N",
+    "lon_raw": "117-45E",
+    "local": "1945-01-19 0800(I)",
+    "page": "rg367-139846605/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.75,
+     14.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-19T03:00Z",
+    "lat_raw": "14-58N",
+    "lon_raw": "118-01E",
+    "local": "1945-01-19 1200(I)",
+    "page": "rg367-139846605/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.0167,
+     14.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-19T11:00Z",
+    "lat_raw": "16-12N",
+    "lon_raw": "118-15E",
+    "local": "1945-01-19 2000(I)",
+    "page": "rg367-139846605/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.25,
+     16.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-19T23:00Z",
+    "lat_raw": "18-53N",
+    "lon_raw": "119-10E",
+    "local": "1945-01-20 0800(I)",
+    "page": "rg367-139846605/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.1667,
+     18.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-20T03:00Z",
+    "lat_raw": "19-22N",
+    "lon_raw": "119-16E",
+    "local": "1945-01-20 1200(I)",
+    "page": "rg367-139846605/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.2667,
+     19.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-20T11:00Z",
+    "lat_raw": "20-09N",
+    "lon_raw": "121-29E",
+    "local": "1945-01-20 2000(I)",
+    "page": "rg367-139846605/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.4833,
+     20.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Ballintang Channel",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-20T13:15Z",
+    "lat_raw": "~20-38N",
+    "lon_raw": "~121-41E",
+    "local": "1945-01-20 2215(I)",
+    "page": "rg367-139846605/p09",
+    "note": "\"Shortly before 2000, when the entire Task Force commenced retiring from the South China Sea via Ballintang Channel, the formation changed to 5-V. Several raids approached our formation about this time, but only one plane penetrated. This was driven off by AA fire ... At 2215, after we had cleared the Channel, we secured from General Quarters, and the formation reverted to 5-R\"",
+    "fix": "position assumed: interpolated between the 20 Jan 1100Z and 20 Jan 2300Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.6836,
+     20.6286
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-20T23:00Z",
+    "lat_raw": "22-42N",
+    "lon_raw": "122-34E",
+    "local": "1945-01-21 0800(I)",
+    "page": "rg367-139846605/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.5667,
+     22.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-21T03:00Z",
+    "lat_raw": "22-22N",
+    "lon_raw": "122-58E",
+    "local": "1945-01-21 1200(I)",
+    "page": "rg367-139846605/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.9667,
+     22.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 3 (Jan)",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-21T03:15Z",
+    "lat_raw": "~22-23N",
+    "lon_raw": "~123-01E",
+    "local": "1945-01-21 1215(I)",
+    "page": "rg367-139846605/p09",
+    "note": "\"At 1215, T.G. 38.1, which was to the North of our formation reported that they were under attack by enemy planes. All our ships went to General Quarters immediately, and the formation changed to 5-V. We remained at G. Q. until 2034, but no bandits reached our formation\"",
+    "fix": "position assumed: interpolated between the 21 Jan 0300Z and 21 Jan 1100Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.0092,
+     22.383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-21T11:00Z",
+    "lat_raw": "22-53N",
+    "lon_raw": "124-20E",
+    "local": "1945-01-21 2000(I)",
+    "page": "rg367-139846605/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.3333,
+     22.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Retire from Formosa",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-21T12:28Z",
+    "lat_raw": "~23-06N",
+    "lon_raw": "~124-50E",
+    "local": "1945-01-21 2128(I)",
+    "page": "rg367-139846605/p10",
+    "note": "\"At 2128, the formation reverted to 5-R, and retired on course 065, speed 24\"",
+    "fix": "position assumed: interpolated between the 21 Jan 1100Z and 21 Jan 2300Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.8405,
+     23.1073
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-21T23:00Z",
+    "lat_raw": "24-40N",
+    "lon_raw": "128-32E",
+    "local": "1945-01-22 0800(I)",
+    "page": "rg367-139846605/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.5333,
+     24.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-22T03:00Z",
+    "lat_raw": "24-51N",
+    "lon_raw": "128-39E",
+    "local": "1945-01-22 1200(I)",
+    "page": "rg367-139846605/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.65,
+     24.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-22T11:00Z",
+    "lat_raw": "25-05N",
+    "lon_raw": "128-45E",
+    "local": "1945-01-22 2000(I)",
+    "page": "rg367-139846605/p10",
+    "note": "typed as 25 - 05 N 128 - 45 E; 304 nm from the 23 Jan 0800 fix in 12 h (25 kn), the group retiring after the Okinawa Jima strikes, inside the 25 kn + 30 nm screen",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.75,
+     25.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-22T23:00Z",
+    "lat_raw": "20-19N",
+    "lon_raw": "126-53E",
+    "local": "1945-01-23 0800(I)",
+    "page": "rg367-139846605/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.8833,
+     20.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-23T03:00Z",
+    "lat_raw": "20-02N",
+    "lon_raw": "127-14E",
+    "local": "1945-01-23 1200(I)",
+    "page": "rg367-139846605/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.2333,
+     20.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Fuelling group",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-23T05:00Z",
+    "lat_raw": "~19-50N",
+    "lon_raw": "~127-20E",
+    "local": "1945-01-23 1400(I)",
+    "page": "rg367-139846605/p10",
+    "note": "\"During the day we were assigned to contact a fueling group to the Southwest, to pick up U.S. and O.M. mail for our Task Group. This fueling group was contacted at 1400, and we were with them, fueling and receiving mail until 1753, when we left to rejoin T.G. 38.2\" (also \"until about 1800 ... proceeded on course 130, speed 16 knots, towards Ulithi\")",
+    "fix": "position assumed: interpolated between the 23 Jan 0300Z and 23 Jan 1100Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.3253,
+     19.8376
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-23T11:00Z",
+    "lat_raw": "19-15N",
+    "lon_raw": "127-36E",
+    "local": "1945-01-23 2000(I)",
+    "page": "rg367-139846605/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6,
+     19.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-23T23:00Z",
+    "lat_raw": "17-48N",
+    "lon_raw": "131-25E",
+    "local": "1945-01-24 0800(I)",
+    "page": "rg367-139846605/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.4167,
+     17.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Mail to TG 38.3",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-24T00:03Z",
+    "lat_raw": "~17-42N",
+    "lon_raw": "~131-37E",
+    "local": "1945-01-24 0903(I)",
+    "page": "rg367-139846605/p11",
+    "note": "\"At 0903 we proceeded to intercept T.G. 38.3 and delivered mail to them. At 1802 we rejoined T.G. 38.2 who was then on course 133 T., 18 knots, enroute to Ulithi\" (back on station in the group at 0118, course 130, speed 18)",
+    "fix": "position assumed: interpolated between the 23 Jan 2300Z and 24 Jan 0300Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.6182,
+     17.6997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-24T03:00Z",
+    "lat_raw": "17-25N",
+    "lon_raw": "132-11E",
+    "local": "1945-01-24 1200(I)",
+    "page": "rg367-139846605/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.1833,
+     17.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-24T11:00Z",
+    "lat_raw": "15-46N",
+    "lon_raw": "133-41E",
+    "local": "1945-01-24 2000(I)",
+    "page": "rg367-139846605/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.6833,
+     15.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-24T23:00Z",
+    "lat_raw": "13-36N",
+    "lon_raw": "136-04E",
+    "local": "1945-01-25 0800(I)",
+    "page": "rg367-139846605/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.0667,
+     13.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-25T03:00Z",
+    "lat_raw": "13-27N",
+    "lon_raw": "136-40E",
+    "local": "1945-01-25 1200(I)",
+    "page": "rg367-139846605/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.6667,
+     13.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Rescue 2 (Jan)",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-25T08:46Z",
+    "lat_raw": "~12-24N",
+    "lon_raw": "~137-40E",
+    "local": "1945-01-25 1746(I)",
+    "page": "rg367-139846605/p11",
+    "note": "\"At 1746, an ENTERPRISE T.B.M., in landing on carrier about 2000 yards ahead of us, crashed in water, and plane sank within 15 seconds. We rescued the pilot and one of the crewmen, but the third crewman did not get out\"; at 1752 an underwater explosion under the ship, believed to be the plane's depth charges, no damage",
+    "fix": "position assumed: interpolated between the 25 Jan 0300Z and 25 Jan 1100Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.6654,
+     12.4055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-25T11:00Z",
+    "lat_raw": "12-00N",
+    "lon_raw": "138-03E",
+    "local": "1945-01-25 2000(I)",
+    "page": "rg367-139846605/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.05,
+     12.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "enter Ulithi lagoon",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-25T21:47Z",
+    "lat_raw": "10-04N",
+    "lon_raw": "139-44E",
+    "local": "1945-01-26 0647(I)",
+    "page": "rg367-139846605/p12",
+    "note": "\"At 0647, the Task Group commenced entry into the lagoon via Mugai Channel\" (port position); time zone -9 (I) until the clock change at 0710; T.F. 38 dissolved on entering the channel",
+    "fix": "Ulithi anchorage coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7333,
+     10.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Clocks to -10",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-01-25T22:10Z",
+    "lat_raw": "~10-04N",
+    "lon_raw": "~139-44E",
+    "local": "1945-01-26 0710(I)",
+    "page": "rg367-139846605/p12",
+    "note": "\"At 0710, set all clocks ahead one hour to -10 zone time\" (time typed in zone -9 / I; rows from here, zone K / -10)",
+    "fix": "position assumed: interpolated between the 25 Jan 2147Z and 26 Jan 0828Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7333,
+     10.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth 414",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-26T08:28Z",
+    "lat_raw": "10-04N",
+    "lon_raw": "139-44E",
+    "local": "1945-01-26 1828(K)",
+    "page": "rg367-139846605/p12",
+    "note": "\"we reached our regularly assigned berth at 1828, when we moored port side to U.S.S. WEEKS in berth 414, Ulithi lagoon\" (port position); she stayed alongside Weeks, receiving supplies and doing maintenance, 27 to 31 Jan (\"Saturday, 27 January to Thursday, 31 January\", no times typed)",
+    "fix": "Ulithi anchorage coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7333,
+     10.0667
     ]
    }
   },
