@@ -335,18 +335,16 @@
   "silhouette": "sumner",
   "geojson": "ships/dd-700-haynsworth/track.geojson",
   "title": "USS Haynsworth (DD-700)",
-  "heading": "USS Haynsworth (DD-700) — April 1945",
-  "catalogId": 633422068,
-  "intro": "Every position USS Haynsworth reported in her April 1945 war diary: Okinawa, the kamikaze hit of 6 April, then Ulithi, Eniwetok and Pearl Harbor on the way to repairs. Transcribed from the ",
+  "intro": "Every position USS Haynsworth reported in her war diaries: exercises out of Pearl Harbor, Task Group 38.2's strikes on Formosa, Luzon and the South China Sea, the Tokyo strikes and Iwo Jima, Okinawa and the kamikaze hit of 6 April, then Ulithi, Eniwetok and Pearl Harbor on the way to repairs at Mare Island. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
    {
+    "dates": "1 Nov 1944 – 30 Jun 1945",
     "n": 1,
-    "name": "April 1945 war diary",
-    "dates": "1 – 30 Apr 1945",
-    "area": "Okinawa · Ulithi · Eniwetok · Pearl Harbor",
-    "co": "Cdr. S. N. Tackney"
+    "name": "War diaries",
+    "area": "Pearl Harbor · Formosa · South China Sea · Tokyo · Iwo Jima · Okinawa · Mare Island",
+    "co": "Cdr. Robert Brodie Jr.; Cdr. S. N. Tackney"
    }
   ],
   "home": [
@@ -374,6 +372,11 @@
     "name": "Eniwetok",
     "lon": 162.3,
     "lat": 11.37
+   },
+   {
+    "name": "Mare Island",
+    "lon": -122.27,
+    "lat": 38.07
    }
   ],
   "places": [
@@ -413,9 +416,8 @@
     "lat": 7.5
    }
   ],
-  "listTitle": "April 1945",
+  "listTitle": "War diaries",
   "daysLabel": "Days covered",
-  "endText": "End of April 1945 diary",
   "pageNoun": "war diary page",
   "docAlt": "war diary",
   "labels": {
@@ -451,7 +453,9 @@
     "text": "Logged event (position assumed)",
     "ifPresent": true
    }
-  ]
+  ],
+  "heading": "USS Haynsworth (DD-700) — November 1944 to June 1945",
+  "endText": "End of the June 1945 diary"
  },
  {
   "key": "de-221-solar",
@@ -471,9 +475,9 @@
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
    {
+    "dates": "1 Sep 1944 – 31 Oct 1945",
     "n": 1,
     "name": "War diaries",
-    "dates": "1 Sep 1944 – 31 Oct 1945",
     "area": "North Atlantic · Mediterranean · U.S. East Coast · Caribbean",
     "co": "Lt. Cdr. H. A. Hull; Lt. Cdr. W. F. Grubbs; Lt. Donough Prince (acting); George R. Brines"
    }

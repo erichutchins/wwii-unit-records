@@ -1,4 +1,6 @@
-# USS Haynsworth (DD-700): her April 1945 war diary. Hand-edited; see boats/ss-385-bang/ship.yml.
+# USS Haynsworth (DD-700): her war diaries. Hand-edited; see boats/ss-385-bang/ship.yml.
+# The heading, the dates and the end of the track are left out: check_track.py fills them in from
+# positions.csv when it writes ships.json, so they follow the diaries transcribed so far.
 name: Haynsworth
 hull: DD-700
 class: Allen M. Sumner
@@ -11,20 +13,22 @@ silhouette: sumner     # her class's profile in silhouettes/silhouettes.yml (ONI
 
 map:
   title: USS Haynsworth (DD-700)
-  heading: USS Haynsworth (DD-700) — April 1945
-  catalogId: 633422068
-  intro: "Every position USS Haynsworth reported in her April 1945 war diary: Okinawa, the kamikaze hit of 6 April,
-    then Ulithi, Eniwetok and Pearl Harbor on the way to repairs. Transcribed from the "
+  intro: "Every position USS Haynsworth reported in her war diaries: exercises out of Pearl Harbor, Task Group 38.2's
+    strikes on Formosa, Luzon and the South China Sea, the Tokyo strikes and Iwo Jima, Okinawa and the kamikaze hit
+    of 6 April, then Ulithi, Eniwetok and Pearl Harbor on the way to repairs at Mare Island. Transcribed from the "
   introLink: National Archives scans
   introEnd: . Click any point to see the page it came from.
-  # fixes are three a day, so the whole month is one record; open on Okinawa, where it happened
+  # fixes are three a day, so all the diaries are one record; open on Okinawa, where she was hit
+  # (co: the change of command at 1840 on 14 Dec 1944, rg367-139832917/p02)
   periods:
-    - { n: 1, name: April 1945 war diary, dates: 1 – 30 Apr 1945, area: Okinawa · Ulithi · Eniwetok · Pearl Harbor, co: Cdr. S. N. Tackney }
+    - { n: 1, name: War diaries, area: Pearl Harbor · Formosa · South China Sea · Tokyo · Iwo Jima · Okinawa · Mare Island,
+        co: Cdr. Robert Brodie Jr.; Cdr. S. N. Tackney }
   home: [[126.5, 29.5], [134.5, 22.0]]
   ports:
     - { name: Pearl Harbor, lon: -157.97, lat: 21.35 }
     - { name: Ulithi, lon: 139.74, lat: 10.07 }
     - { name: Eniwetok, lon: 162.3, lat: 11.37 }
+    - { name: Mare Island, lon: -122.27, lat: 38.07 }     # the standard position the diary rows use (README)
   places:
     - { name: OKINAWA, lon: 127.9, lat: 26.5 }
     - { name: KYUSHU, lon: 131.0, lat: 32.4 }
@@ -33,9 +37,8 @@ map:
     - { name: PHILIPPINE SEA, lon: 134.5, lat: 21.0 }
     - { name: CAROLINE IS., lon: 146.0, lat: 7.8 }
     - { name: MARSHALL IS., lon: 168.0, lat: 7.5 }
-  listTitle: April 1945
+  listTitle: War diaries
   daysLabel: Days covered
-  endText: End of April 1945 diary
   pageNoun: war diary page
   docAlt: war diary
   labels: { air: Air contact, attack: Kamikaze hit, event: Logged event }
