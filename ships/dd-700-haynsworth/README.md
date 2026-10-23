@@ -34,6 +34,27 @@ online only from 1957.
 - The speed screen is 25 kn plus 30 nm (`max_kts` in her `ship.yml`). The leg from 17 Apr 2000
   to 18 Apr 0800 averages 26 kn, just inside the tolerance; the scan reads 142-08E as typed.
 
+## 16 February 1945: the picket boats, against the other accounts
+
+The war diary (`rg367-139903592/p04`-`p05`, read on the scan) has two actions on the first day of the Tokyo strikes, while she
+was on picket station #2, 12 miles from the guide in Essex: a "fishing or picket boat" left sinking at 0713 (one prisoner), and
+at 1352 two pickets already strafed by the carriers' planes, sunk with 86 rounds of 5"/38 (one prisoner from the first, ten
+from the second). At 1700 the three seriously wounded and two others went to C.T.F. 58 in Bunker Hill, which leaves seven
+aboard. The diary says nothing more of them. The other accounts:
+
+| | Account | Agrees | Differs |
+|---|---|---|---|
+| Battle-star citation, 10 Feb - 3 Mar 1945 | quoted in Irons, Phalanx, 228 | three boats, twelve prisoners | "about 70 miles SE of Tokyo": the diary's 0800 and 1200 fixes (34-10N 141-29E, 34-12N 141-17E) are 115-125 nm from Tokyo, bearing about 140 |
+| Martin Irons, "Prisoners on the High Seas", with photos he lent | the Haynsworth Association's website, now only on the Wayback Machine (`haynsworth-org:20230208204038/dd700-photos/prisoners/prisoners.html`) | one prisoner from the first boat, "Eleven more" from the second action, 3 wounded + 2 others to Bunker Hill, 12 miles ahead of the carriers | the whole day "On the morning of February 16th"; the first boat sunk with "Forty rounds" of 5-inch (diary: 167 rounds of 40 mm and 125 of 5"/38, and left sinking); the seven others sent to Essex by bosun's chair while fuelling "Two days later", on the day of the Iwo Jima landings |
+| Morison, vol. 14, p. 24 and n. 5 | | survivors sent to Essex, brig, Marine guard | "During the afternoon three Japanese picket boats ... promptly sunk" (no morning boat) |
+| Herder, The Naval Siege of Japan 1945, p. 26 | captions to NARA 80-G-308577 (the smoke, seen from Essex) and 80-G-308465 (six prisoners aboard Essex) | | three boats "on the afternoon"; "A total of nine Japanese survivors" |
+
+The diary's times and rounds are kept. The transfer to Essex is not in the diary; the only time she was alongside Essex after
+the 16th is the fuelling from 1253 to 1432 on **18 February** (`rg367-139903592/p05`), two days after the action, while on
+the 19th (D-day) she fuelled from nobody. So the `Fuel from Essex` event row puts the transfer there as an assumption.
+The website's other photos (the attack, survivors in the water, the prisoners aboard Essex) were not captured by the Archive,
+so they can't be matched to the 80-G numbers.
+
 View it at `site/patrols.html?ship=haynsworth`. Regenerate with
 `uv run tools/check_track.py haynsworth --geojson`.
 

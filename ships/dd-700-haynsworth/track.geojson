@@ -7000,7 +7000,7 @@
     "lon_raw": "~141-40E",
     "local": "1945-02-16 0713(K)",
     "page": "rg367-139903592/p04",
-    "note": "\"At 0713 we contacted a Japanese fishing or picket boat which we left in a sinking condition, after expending 167 rounds of 40 MM HEI and 125 rounds of 5\"/38 AAC. We took one prisoner aboard\" (first day of the carrier strikes on Tokyo)",
+    "note": "\"At 0713 we contacted a Japanese fishing or picket boat which we left in a sinking condition, after expending 167 rounds of 40 MM HEI and 125 rounds of 5\"/38 AAC. We took one prisoner aboard\" (first day of the carrier strikes on Tokyo). Others: Irons's essay on the Haynsworth Association website (haynsworth-org:20230208204038/dd700-photos/prisoners/prisoners.html) has the boat seen by a lookout 7000 yards off the port bow and destroyed by \"Forty rounds\" of 5-inch, and puts the whole day \"On the morning of February 16th\"; the diary's rounds are kept. Morison (vol. 14, p. 24) and Herder (Naval Siege of Japan, p. 26) give only the afternoon action, as three boats.",
     "fix": "position assumed: interpolated between the 15 Feb 1000Z and 15 Feb 2200Z fixes",
     "assumed": true
    },
@@ -7070,7 +7070,7 @@
     "lon_raw": "~141-31E",
     "local": "1945-02-16 1352(K)",
     "page": "rg367-139903592/p04",
-    "note": "\"At 1352 smoke was observed on the horizon ... identified as two Jap pickets which had been strafed by our planes. We opened fire with our 5\" batteries, and sunk both pickets after expending 86 rounds of 5\"/38 AAC. One prisoner from the first, and ten prisoners from the second picket were taken aboard\"; five of the wounded were transferred to C.T.F. 58 in Bunker Hill at 1700",
+    "note": "\"At 1352 smoke was observed on the horizon ... identified as two Jap pickets which had been strafed by our planes. We opened fire with our 5\" batteries, and sunk both pickets after expending 86 rounds of 5\"/38 AAC. One prisoner from the first, and ten prisoners from the second picket were taken aboard. Three of these suvivors were seriously wounded. These were transferred along with two others to C.T.F. 58 in BUNKER HILL, at 1700\" (12 prisoners in the day). Others agree on 12: the battle-star citation quoted by Irons (Irons, Phalanx, 228: \"three Japanese picket boats ... twelve Japanese POW while about 70 miles SE of Tokyo\"; the diary's 0800 and 1200 fixes are 115-125 nm from Tokyo, bearing about 140) and Irons's essay on the Association website (haynsworth-org:20230208204038/dd700-photos/prisoners/prisoners.html: \"Eleven more\", two fighters leading the ship to the smoke, three wounded and two others to Bunker Hill). Herder (Naval Siege of Japan, p. 26, caption to NARA 80-G-308465) has nine survivors.",
     "fix": "position assumed: interpolated between the 16 Feb 0200Z and 16 Feb 1000Z fixes",
     "assumed": true
    },
@@ -7241,6 +7241,30 @@
     "coordinates": [
      140.4667,
      28.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Fuel from Essex",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-02-18T02:53Z",
+    "lat_raw": "~28-32N",
+    "lon_raw": "~140-25E",
+    "local": "1945-02-18 1253(K)",
+    "page": "rg367-139903592/p05",
+    "note": "\"From 1253 to 1432 we topped off our fuel supply from ESSEX and then resumed our station at the left center of the screen.\" The diary types no prisoner transfer. Irons's essay on the Haynsworth Association website (haynsworth-org:20230208204038/dd700-photos/prisoners/prisoners.html) has the seven prisoners still aboard sent to Essex by bosun's chair \"while refueling was done\", \"Two days later\" on the day of the Iwo Jima landings (19 Feb); the diary has no fuelling on 19 Feb, so the transfer is placed here, at the only Essex fuelling after the 16th (an assumption). Morison (vol. 14, p. 24, n. 5): the survivors were sent to Essex and kept in the brig under Marine guard; Herder (p. 26, NARA 80-G-308465): six photographed aboard Essex.",
+    "fix": "position assumed: interpolated between the 18 Feb 0200Z and 18 Feb 1000Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.4163,
+     28.529
     ]
    }
   },

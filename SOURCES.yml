@@ -267,6 +267,38 @@ irons:
   used_for: engagements/haynsworth-1945-04-06/; secondary, quoting the ships' reports and the crew's letters and diaries.
     Rows cite it in Chicago short form ("Irons, Phalanx, 327–30"); most page numbers are not yet recorded
 
+morison-v14:
+  title: "History of United States Naval Operations in World War II, vol. 14: Victory in the Pacific, 1945"
+  by: Samuel Eliot Morison
+  held: Little, Brown, 1960; University of Illinois Press reprint (Google Books PfrgDPhLkqcC)
+  url: https://books.google.com/books?id=PfrgDPhLkqcC
+  cite: in notes, Morison, vol. 14, p. <page>
+  used_for: ships/dd-700-haynsworth/ (16 Feb 1945 picket boats, p. 24 and n. 5); secondary
+
+herder-siege:
+  title: "The Naval Siege of Japan 1945: War Plan Orange Triumphant"
+  by: Brian Lane Herder
+  held: Osprey (Bloomsbury), 2020 (Google Books WD3JDwAAQBAJ)
+  url: https://books.google.com/books?id=WD3JDwAAQBAJ
+  cite: in notes, Herder, Naval Siege of Japan, p. <page>
+  used_for: ships/dd-700-haynsworth/ (16 Feb 1945 picket boats, p. 26 captions to NARA 80-G-308577 and 80-G-308465); secondary
+
+usshaynsworth-org:
+  title: USS Haynsworth (DD-700) Association website (usshaynsworth.org), as archived
+  by: the USS Haynsworth Association (crew photos, collections, memorials, newsletters)
+  held: Internet Archive, Wayback Machine (the site itself is no longer online)
+  url: https://web.archive.org/web/2026/http://usshaynsworth.org/
+  rights: The Association's and the contributors' (photos lent by crew and families); cite and link, don't republish
+  cite: haynsworth-org:<timestamp>/<path>      # e.g. haynsworth-org:20230208204038/dd700-photos/prisoners/prisoners.html
+  match: '^haynsworth-org:(\d{4,14})/(\S+)$'
+  link: https://web.archive.org/web/{1}/http://usshaynsworth.org/{2}
+  used_for: ships/dd-700-haynsworth/ (16 Feb 1945 picket boats and the prisoners)
+  note: >-
+    Downloaded with tools/wayback.py into sources/wayback/usshaynsworth.org/ (not committed);
+    manifest.tsv there gives each file's capture timestamp. Secondary: crew recollections and
+    photos, mostly postwar (the ship served until 1970); dates and places in captions are checked
+    against the ship's own records before they are used.
+
 # ── Recognition plates (silhouettes/silhouettes.yml) ───────────────────────────────────────────
 
 cincpac-105-45:
