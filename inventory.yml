@@ -72,12 +72,19 @@ ships:
   DD-700:   # USS Haynsworth
     folder: ships/dd-700-haynsworth
     records:
+      1944-06: { status: missing, note: "commissioned 22 Jun 1944; searched 2026-10-23 (catalog titles Haynsworth, DD700, war diary, action report): no war diary in series 4697018; the muster roll's forwarding sheets give places (ships/dd-700-haynsworth/README.md)" }
+      1944-07: { status: missing, note: "searched 2026-10-23: no war diary found; see 1944-06" }
+      1944-08: { status: missing, note: "searched 2026-10-23: no war diary found; see 1944-06" }
+      1944-09: { status: missing, note: "searched 2026-10-23: no war diary found; see 1944-06" }
+      1944-10: { status: missing, note: "searched 2026-10-23: no war diary found; the first diary found is November 1944" }
       1944-11: { status: mapped, nara: [78694496], files: [positions], note: "November 1944 war diary (7 pp.): Pearl Harbor and Hawaiian operating areas with DesDiv 123 (training, Kahoolawe shore bombardment, torpedo and AA exercises), then Navy Yard repairs from 18 Nov" }
       1944-12: { status: mapped, nara: [139832917], files: [positions], note: "December 1944 war diary (9 pp.): Pearl Harbor 1-14 Dec, with T.U. 12.5.5 to Eniwetok (16-23 Dec) and on to Ulithi (24-28 Dec), then T.G. 38.2 from 30 Dec" }
       1945-01: { status: mapped, nara: [139846605], files: [positions], note: "January 1945 war diary (12 pp.): with T.G. 38.2 on the Formosa, Luzon, Camranh Bay, Hong Kong and Hainan strikes and the South China Sea sweep (1-25 Jan), Ulithi from 26 Jan" }
       1945-02: { status: mapped, nara: [139903592], files: [positions], note: "February 1945 war diary (8 pp.): Ulithi 1-10 Feb, the Tokyo strikes of 16-17 Feb and 25 Feb with T.G. 58.3, the Iwo Jima landings of 19 Feb, the voyage to Okinawa waters" }
       1945-03: { status: mapped, nara: [139968200], files: [positions], note: "March 1945 war diary (11 pp.): Ulithi 4-14 Mar, the Kyushu and Okinawa strikes with T.G. 58.3, the Minami Daito Shima bombardment of 28 Mar" }
       1945-04: { status: mapped, nara: [633422068], files: [positions], note: "April 1945 war diary: Okinawa, the 6 April kamikaze hit, the voyage to Pearl Harbor" }
+      1945-05: { status: mapped, nara: [140048093], files: [positions], note: "May 1945 war diary (2 pp.): Pearl Harbor to Mare Island alone (1-3 May), then battle damage repairs and alterations in the Navy Yard from 4 May" }
+      1945-06: { status: mapped, nara: [101733725], files: [positions], note: "June 1945 war diary (2 pp.): Mare Island Navy Yard repairs to 26 June; ammunition, Hunters Point and a full power run, 27-30 June" }
   DE-221:   # USS Solar
     folder: ships/de-221-solar
     records:

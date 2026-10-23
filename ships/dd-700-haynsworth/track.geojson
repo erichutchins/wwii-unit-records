@@ -7,7 +7,7 @@
     "kind": "track",
     "patrol": 1,
     "start": "1944-11-01T16:12Z",
-    "end": "1945-05-01T04:30Z"
+    "end": "1945-07-01T03:42Z"
    },
    "geometry": {
     "type": "LineString",
@@ -1583,6 +1583,74 @@
      [
       -143.2667,
       30.05
+     ],
+     [
+      -139.7667,
+      31.7667
+     ],
+     [
+      -138.4667,
+      32.6667
+     ],
+     [
+      -135.8833,
+      33.85
+     ],
+     [
+      -131.9333,
+      35.3333
+     ],
+     [
+      -130.55,
+      35.0833
+     ],
+     [
+      -127.6333,
+      36.7333
+     ],
+     [
+      -123.2667,
+      37.7
+     ],
+     [
+      -122.2667,
+      38.0667
+     ],
+     [
+      -122.2667,
+      38.0667
+     ],
+     [
+      -122.2667,
+      38.0667
+     ],
+     [
+      -122.2667,
+      38.0667
+     ],
+     [
+      -122.2667,
+      38.0667
+     ],
+     [
+      -122.2667,
+      38.0667
+     ],
+     [
+      -122.2667,
+      38.0667
+     ],
+     [
+      -122.3667,
+      37.7167
+     ],
+     [
+      -122.3667,
+      37.7167
+     ],
+     [
+      -122.2667,
+      38.0667
      ]
     ]
    }
@@ -12103,6 +12171,421 @@
     "coordinates": [
      -143.2667,
      30.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-01T16:00Z",
+    "lat_raw": "31-46N",
+    "lon_raw": "139-46W",
+    "local": "1945-05-01 0800(U)",
+    "page": "rg367-140048093/p02",
+    "note": "\"Steaming singly enroute Pearl Harbor, T. H. to Mare Island, California. Time zone in use + 8\u00bd. At 0100 changed all clocks to + 8 zone time.\" U (+8) is written for all of 1 May, as the change was at 0100",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -139.7667,
+     31.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-01T20:00Z",
+    "lat_raw": "32-40N",
+    "lon_raw": "138-28W",
+    "local": "1945-05-01 1200(U)",
+    "page": "rg367-140048093/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -138.4667,
+     32.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-02T04:00Z",
+    "lat_raw": "33-51N",
+    "lon_raw": "135-53W",
+    "local": "1945-05-01 2000(U)",
+    "page": "rg367-140048093/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -135.8833,
+     33.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-02T15:30Z",
+    "lat_raw": "35-20N",
+    "lon_raw": "131-56W",
+    "local": "1945-05-02 0800(TU)",
+    "page": "rg367-140048093/p02",
+    "note": "\"At 0100 changed all clocks to + 7\u00bd zone time.\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -131.9333,
+     35.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-02T19:30Z",
+    "lat_raw": "35-05N",
+    "lon_raw": "130-33W",
+    "local": "1945-05-02 1200(TU)",
+    "page": "rg367-140048093/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -130.55,
+     35.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-03T03:30Z",
+    "lat_raw": "36-44N",
+    "lon_raw": "127-38W",
+    "local": "1945-05-02 2000(TU)",
+    "page": "rg367-140048093/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -127.6333,
+     36.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-03T15:30Z",
+    "lat_raw": "37-42N",
+    "lon_raw": "123-16W",
+    "local": "1945-05-03 0800(TU)",
+    "page": "rg367-140048093/p02",
+    "note": "Before the 0930 change to + 7",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2667,
+     37.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "San Francisco Bay",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-05-03T19:00Z",
+    "lat_raw": "~37-54N",
+    "lon_raw": "~122-42W",
+    "local": "1945-05-03 1200(T)",
+    "page": "rg367-140048093/p02",
+    "note": "The table's 1200 entry is the words \"San Francisco Bay\", with no position: placed by interpolation between the 0800 fix and the 1445 mooring. \"0930 Advanced all clocks to + 7 zone time\" (T from here)",
+    "fix": "position assumed: interpolated between the 03 May 1530Z and 03 May 2145Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7079,
+     37.9064
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Mare Island pier 35",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-03T21:45Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-05-03 1445(T)",
+    "page": "rg367-140048093/p02",
+    "note": "\"1445 Moored to pier #35 Mare Island Ammunition Depot to unload ammunition.\" (port position)",
+    "fix": "Mare Island coordinates are not in the diary; one standard Navy Yard position (38-04N 122-16W) is used for every Mare Island berth, the ammunition depot included, so the berths' real offsets (a few miles) are not shown"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Mare Island pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-04T03:00Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-05-03 2000(T)",
+    "page": "rg367-140048093/p02",
+    "note": "Table row reads \"Pier #3, Mare Island Ammunition Depot.\" The narrative of the same day has her moored at pier #35 at 1445 and no move after; the table's \"#3\" is probably the same pier, but the diary does not say (port position)",
+    "fix": "Mare Island coordinates are not in the diary; standard Navy Yard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway shift berths",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-04T13:08Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-05-04 0608(T)",
+    "page": "rg367-140048093/p02",
+    "note": "\"At Pier #35, Mare Island Ammunition Depot, unloading ammunition; 0608 Underway to shift berths;\" (port position)",
+    "fix": "Mare Island coordinates are not in the diary; standard Navy Yard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Mare Island pier 21",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-05-04T13:48Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-05-04 0648(T)",
+    "page": "rg367-140048093/p02",
+    "note": "\"0648 Moored to pier #21, Navy Yard, Mare Island, for battle damage repairs and alterations.\" (port position)",
+    "fix": "Mare Island coordinates are not in the diary; standard Navy Yard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway ammunition depot",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-06-27T14:05Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-06-27 0705(T)",
+    "page": "rg367-101733725/p02",
+    "note": "\"At Navy Yard, Mare Island, California. At 0705 the ship got underway for the Mare Island ammunition depot, where we moored at 0742 and received a full allowance of ammunition.\" Zone \"t7\" is typed once for 1 to 26 June (port position)",
+    "fix": "Mare Island coordinates are not in the diary; standard Navy Yard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor ammunition depot",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-06-27T14:42Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-06-27 0742(T)",
+    "page": "rg367-101733725/p02",
+    "note": "\"... moored at 0742 and received a full allowance of ammunition.\" (port position)",
+    "fix": "Mare Island coordinates are not in the diary; standard Navy Yard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway for Hunters Point",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-06-28T14:00Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-06-28 0700(T)",
+    "page": "rg367-101733725/p02",
+    "note": "\"At Naval Ammunition Depot, Mare Island, California. At 0700 underway for Hunter's Point. The magnetic compass was calibrated enroute.\" (port position)",
+    "fix": "Mare Island coordinates are not in the diary; standard Navy Yard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Hunters Point",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-06-29T00:24Z",
+    "lat_raw": "37-43N",
+    "lon_raw": "122-22W",
+    "local": "1945-06-28 1724(T)",
+    "page": "rg367-101733725/p02",
+    "note": "\"1724 Moored at berth #1, Hunter's Point, California.\" (port position)",
+    "fix": "Hunters Point coordinates are not in the diary; standard Navy Yard position used (37-43N 122-22W)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway full power run",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-06-30T14:15Z",
+    "lat_raw": "37-43N",
+    "lon_raw": "122-22W",
+    "local": "1945-06-30 0715(T)",
+    "page": "rg367-101733725/p02",
+    "note": "\"At 0715 ship got underway in accordance with Ship Movement Officer's verbal orders of 29 June 1945 for full power run and structural firing tests.\" (port position)",
+    "fix": "Hunters Point coordinates are not in the diary; standard Navy Yard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Mare Island pier 19",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-01T03:42Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-06-30 2042(T)",
+    "page": "rg367-101733725/p02",
+    "note": "\"... 24 rounds of 5\"/38 AAC were expended and at 2042 we returned to Mare Island where we moored alongside U.S.S. SHAW at pier 19.\" (port position)",
+    "fix": "Mare Island coordinates are not in the diary; standard Navy Yard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
     ]
    }
   }

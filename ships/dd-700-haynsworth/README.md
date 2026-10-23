@@ -1,4 +1,4 @@
-# USS Haynsworth (DD-700): war diaries, November 1944 to April 1945
+# USS Haynsworth (DD-700): war diaries, November 1944 to June 1945, and where she was before
 
 `haynsworth/positions.csv` has the same columns as `patrol-N/positions.csv`, transcribed
 from the ship's war diaries for November 1944 ([NARA 78694496](https://catalog.archives.gov/id/78694496),
@@ -6,8 +6,10 @@ from the ship's war diaries for November 1944 ([NARA 78694496](https://catalog.a
 9 pages), January 1945 ([NARA 139846605](https://catalog.archives.gov/id/139846605),
 12 pages), February 1945 ([NARA 139903592](https://catalog.archives.gov/id/139903592),
 8 pages), March 1945 ([NARA 139968200](https://catalog.archives.gov/id/139968200),
-11 pages) and April 1945 ([NARA 633422068](https://catalog.archives.gov/id/633422068), 8 pages), RG 38;
-scans download to the kit's cache as `nara/rg367-<id>/`. Her other monthly diaries, May to October 1945, are in the catalog too and not yet transcribed (`../../inventory.yml`). Her deck logs are
+11 pages), April 1945 ([NARA 633422068](https://catalog.archives.gov/id/633422068), 8 pages), May 1945
+([NARA 140048093](https://catalog.archives.gov/id/140048093), 2 pages) and June 1945
+([NARA 101733725](https://catalog.archives.gov/id/101733725), 2 pages), RG 38;
+scans download to the kit's cache as `nara/rg367-<id>/`. Her other monthly diaries, July to October 1945, are in the catalog too and not yet transcribed (`../../inventory.yml`). Her deck logs are
 online only from 1957.
 
 - `source` is `diary` (a 0800 / 1200 / 2000 position from the diary's daily table) or
@@ -25,6 +27,7 @@ online only from 1957.
 - January: the diary types no zone letter, only "Zone description -9" on 1 Jan, so I (-9) is written from then to the clock change in the diary's last entry: at 0710 on 26 Jan "set all clocks ahead one hour to -10 zone time" (K from there; the 0647 and 0710 rows are typed before the change, so I). The January table runs 1 to 25 Jan (T.G. 38.2: Formosa and Luzon strikes, the Camranh Bay strike of 12 Jan, the South China Sea sweep and Hong Kong/Hainan strikes of 16 Jan, the Ballintang Channel exit on 20 Jan, Formosa and Okinawa Jima strikes of 21-22 Jan); 26 Jan has no table, only the entry into Ulithi (0647, port position) and mooring in berth 414 (1828); 27 to 31 Jan is one entry with no times, so no row. The 3 Jan 0545 "vicinity of 22 30 N, 122 50 E" is a narrative position, not a table fix, and is kept with `on_track=no`. The 12 Jan "rejoined the screen at 9907" has a 0 struck over the 9 on the scan and is written 0907. The 22 Jan 2000 to 23 Jan 0800 leg is 25.3 kn (304 nm), at the speed screen's edge, and is kept as typed.
 - March: the 24 March table is typed identical to the 25th's, though the narrative has the group off Okinawa until 2000 that day, so the 24th's rows are kept as typed with `on_track=no`. On 21 March the third row is typed 2400, not 2000: kept as typed, and written as 0000 on 22 March in the fix columns so the track can read it.
 - February: the diary types "Zone description -10" on 1 Feb and no clock change after it, so the whole month is K, including the days at Ulithi (139E) and off Honshu (141E). The table starts on 10 Feb (the 1 to 9 Feb entries are berths in Ulithi Lagoon, written as port rows with the standard harbour position and the diary's times, and 10 Feb's 0800 row, "Berth 417", the same). Two table entries were checked on the scan: the 10 Feb 1200 position (07-52N 140-00E) is 35 kn from Ulithi and is kept as typed with `on_track=no`, since the right digit can't be told from the page; and the 15 Feb 2000 longitude 141-21E is 36 kn from the 1200 fix and is read as 144-21E in `lon_fix` (the latitude and the next fix fit that). Events with a time (the picket boats sunk on 16 Feb, the Iwo Jima air alerts, the 25 Feb rescue) are `event` and `air` rows placed by interpolation, as in March.
+- May and June: the May diary types its zones as plain numbers: "Time zone in use + 8½" and a change to + 8 at 0100 on 1 May, + 7½ at 0100 on 2 May, + 7 at 0930 on 3 May, so U, TU and T are written from those (the 1 May rows are U, as the change was at 0100). Alone from Pearl Harbor to Mare Island, the table's fixes run 1 to 3 May (speeds 17 to 22 kn, 0 too-fast legs). The 3 May 1200 entry is the words "San Francisco Bay", so it is an `event` row placed by interpolation; the 2000 entry reads "Pier #3, Mare Island Ammunition Depot" while the narrative moors her at pier #35 at 1445 with no later move, so it is kept as a port row and the discrepancy is said on it. Mare Island's berths (the Navy Yard, the ammunition depot) all use one standard position (38-04N 122-16W), Hunters Point 37-43N 122-22W; neither is in the diary. 5 to 31 May and 1 to 26 June are one entry each ("battle damage repairs and alterations", zone "t7"), so no rows; the 28 June compass calibration and the 30 June 24 rounds of 5"/38 AAC have no time and no row. The diaries' port-to-port legs on 27 to 30 June are port rows with the typed times, so their implied speeds (1 to 3 kn) only show the berths are a few miles apart.
 - Corrections: 19 Apr 0800 longitude 156-37E → 154-37E and 20 Apr 0800 longitude 170-22E →
   160-22E (both typos that put the ship 30+ kn from its neighbours); a stray `8` after
   `21-22N` on 27 Apr; `200` for 2000 on 11 Apr.
@@ -33,3 +36,24 @@ online only from 1957.
 
 View it at `site/patrols.html?ship=haynsworth`. Regenerate with
 `uv run tools/check_track.py haynsworth --geojson`.
+
+## Before November 1944: no war diary found
+
+Commissioned 22 June 1944 (the muster roll's first sheet, `rg24-127361253/p0005`). A catalog search on 2026-10-23 (titles
+with Haynsworth and DD700; the war diaries series 4697018) finds no war diary or action report for June to
+October 1944: the first is November. What does place her is the **muster roll's forwarding sheets** (NARA
+[127361253](https://catalog.archives.gov/id/127361253), "Haynsworth (DD-700), 6/22/44-1/1/49", RG 24, 409 pages), which type the place each
+quarterly roll was forwarded from. They place the ship only to a port, and only on the day of the paperwork, so none is a row in
+`positions.csv` (the track would draw a point at a harbour for a date the ship may have left):
+
+| Roll | Forwarded | From (as typed) | Page |
+|---|---|---|---|
+| Commissioning, 22 Jun 1944 | 1 Jul 1944 | c/o Fleet Post Office, New York, N.Y. | `rg24-127361253/p0005` |
+| 30 Jun 1944 | 4 Jul 1944 | Brooklyn Navy Yard, New York, N.Y. | `rg24-127361253/p0003` |
+| 30 Sep 1944 | 11 Oct 1944 | San Pedro, California | `rg24-127361253/p0059` |
+| 31 Dec 1944 | 16 Jan 1945 | Outside Cont. U.S. | `rg24-127361253/p0111` |
+
+So she was at the New York yard at commissioning and still there on 4 July, and at San Pedro (Los Angeles harbour) around 11 October,
+three weeks before the November diary has her at Pearl Harbor. Nothing in the sheets dates the passage between (shakedown, the
+Atlantic, the Panama Canal). The rolls are crew rosters, so nothing past the forwarding sheets is read or copied here; the Reports of
+Changes name the places men were received from and sent to, a further source for dates (not read).

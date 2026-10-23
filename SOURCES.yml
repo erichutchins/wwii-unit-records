@@ -62,7 +62,7 @@ nara-muster-rolls:
   id: NAID 594996
   url: https://catalog.archives.gov/id/594996
   rights: Public domain
-  used_for: seabees/stations.csv (source muster)
+  used_for: seabees/stations.csv (source muster); ships/dd-700-haynsworth/README.md (forwarding sheets, 1944)
   series_of: nara-catalog
   note: >-
     One file unit per ship or unit. Each quarter's roll lists every man on board; the monthly
