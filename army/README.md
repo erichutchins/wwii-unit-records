@@ -119,7 +119,7 @@ here, not in the data, until a page says so.
 
 | Lead | Said by | Searched | Still to search |
 |---|---|---|---|
-| The 9th Armored Division's attachment to Third Army (from 9 Jan 1945) was for supply | Earlier research notes (no page) | The ETO order of battle (`etoob-9AD/p502`): it gives the attachment from 9 Jan, but marks only the 30 Dec 1944 attachment to Oise Section, Com Z, as "(Sup)". The 60th Armored Infantry Battalion's after action report, Jan–Feb 1945 (as transcribed by EUCMH, archived): no army named | Third Army's after action report, G-4 section (`aar3`); the 9th Armored's G-3 and G-4 reports and journals for January 1945 (NARA RG 407, the division's 609 files); Fifteenth Army's history; Third Army's letters of instruction, January 1945 |
+| The 9th Armored Division's attachment to Third Army began 9 Jan 1945 (the order of battle) or 11 Jan (Third Army's Quartermaster and Antiaircraft sections): which date is right | `etoob-9AD/p502` (9 Jan); `aar3/p626` (11 Jan: "attached ... for supply and administration on 11 January, but remained assigned to the Fifteenth U. S. Army") and `aar3/p097` (the division's return to the Third Army area on 11 Jan) | Third Army's after action report, Quartermaster and Antiaircraft chapters for January (both read on the scan); the 9th Armored's own after action report and the 60th Armored Infantry Battalion's (transcribed by EUCMH, archived): no army named | The 9th Armored's G-3 and G-4 reports and journals for January 1945 (NARA RG 407, the division's 609 files); Fifteenth Army's history; Third Army's letters of instruction, January 1945 |
 
 ## actions.csv columns
 
