@@ -30,6 +30,7 @@ still to look for.
 | `boats/ss-385-bang/` | USS BANG, six patrols in full: positions, every dive and depth charge, density layers, the Japanese records of her attacks, the FRUPAC radio-intelligence maps ([README](boats/ss-385-bang/README.md)) | |
 | `ships/<hull>-<name>/` | Surface ships: one `positions.csv` from a war diary ([USS Haynsworth](ships/dd-700-haynsworth/README.md), [USS Solar](ships/de-221-solar/README.md)) | War diaries (NARA RG 38) |
 | `commands/comsubpac/` | The submarine force's war diary for October 1944: where every Pacific Fleet submarine was on 1, 15 and 31 October, its task organization and changes, and the daily log of arrivals, departures and reports ([README](commands/comsubpac/README.md)) | War diaries (NARA RG 38) |
+| `convoys/<id>/` | The ships of a Japanese convoy a boat attacked, one row each, with cargo and destination where a record gives them (`ships.csv`). TAMA-17 so far | Designated-ship movement tables, escort division diaries (JACAR) |
 | `engagements/<id>/` | One convoy battle each, from every boat's report and the Japanese side: `engagement.yml`, `notes.csv`. [USS Haynsworth, 6 April 1945](engagements/haynsworth-1945-04-06/README.md) and [Neuburg, 26 April 1945](engagements/neuburg-1945-04-26/README.md) are told as a timeline with the evidence weighed: `timeline.csv`, `positions.csv`, `claims.csv` | |
 | `army/` | Eight Army units' stations, actions and sea crossings, 1940–1945 ([README](army/README.md)) | Morning reports (NARA RG 64), battalion histories |
 | `seabees/` | The 20th Naval Construction Battalion, 1942–1945, and the 79th in 1945: stations of each battalion and each part of it ([README](seabees/README.md)) | Muster rolls (NARA RG 24), the Seabee Museum's battalion history sheets |
@@ -146,7 +147,7 @@ written, with the page, and with an English translation beside the original.
 | `source` | `jacar:<reference code>` (primary; the image is at `https://www.jacar.archives.go.jp/das/image/<code>`) or `combinedfleet:<page>` (secondary, e.g. `Daiyoku_t` = combinedfleet.com/Daiyoku_t.htm) |
 | `page` | Page of the JACAR PDF (`jacar/<code>/pNN.jpg` in the kit's cache after `tools/jacar.py fetch`) |
 | `ship`, `convoy` | Romanized as in English-language references (convoy TAMA-17 = タマ一七, Takao→Manila) |
-| `event` | `departed`, `joined`, `torpedoed`, `sank`, `rescue`, `attacked_no_damage`, `sub_sighted`, `status`, `weather`, `loss_list` (a monthly loss table) |
+| `event` | `departed`, `joined`, `torpedoed`, `sank`, `rescue`, `attacked_no_damage`, `sub_sighted`, `status`, `weather`, `air_cover` (an order for, or report of, a convoy's air escort), `loss_list` (a monthly loss table) |
 | `date`, `time`, `zone` | As written. Zone `I` (−9, Tokyo time), which the Imperial Navy and its convoys kept |
 | `lat_raw`, `lon_raw` | Converted from 北緯一九度〇六分 to `19-06N` (the original is in `original`) |
 | `original` | The Japanese text, abridged with `…` |
@@ -160,6 +161,26 @@ record), `miss` (same moment, no damage), `probable` (time and place point to
 this attack, but another boat is credited or was attacking too), `possible`
 (times fit, but more than one attack could explain the record), or `no_loss`
 (a claimed sinking with no matching entry in the Japanese loss list).
+
+### A convoy's ships (convoys/<id>/ships.csv)
+
+One row per ship, merchant or escort, each from a record that names it in the convoy. The ship's
+own events (torpedoed, sank, rescue) stay in the patrol's `japanese.csv`; this file is who was in the
+convoy, what each carried and where it was bound. A ship known only from a secondary list (the
+engagement's `ships`) has no row until a record names it.
+
+| Column | Meaning |
+|---|---|
+| `convoy` | As in `japanese.csv` (TAMA-17) |
+| `ship` | Romanized as in English-language references |
+| `role` | `merchant`, `escort`; `designated rescue ship` where the record says so |
+| `number` | Its number in the convoy (第十番船 = 10), if a record gives it |
+| `from`, `to` | Dates in the convoy (sailed or joined; arrived, left or sank), blank if not recorded |
+| `cargo`, `cargo_t`, `cargo_for` | What it carried, metric tons as written, and where it was to be landed, as the record says. Blank means not recorded, not "empty" |
+| `fate` | Lost in the convoy, with the `japanese.csv` row |
+| `source`, `page` | The record (`jacar:<code>`) and page |
+| `basis` | `reported` (the record says it), `secondary`, `inferred` |
+| `note` | The words read, and anything assumed |
 
 ### US radio intelligence (frupac.csv)
 
