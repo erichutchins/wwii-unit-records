@@ -76,9 +76,9 @@ ships:
       1944-07: { status: missing, note: "searched 2026-10-23: no war diary found; see 1944-06" }
       1944-08: { status: missing, note: "searched 2026-10-23: no war diary found; see 1944-06" }
       1944-09: { status: missing, note: "searched 2026-10-23: no war diary found; see 1944-06" }
-      1944-10: { status: missing, note: "searched 2026-10-23: no war diary found; the first diary found is November 1944" }
-      1944-11: { status: mapped, nara: [78694496], files: [positions], note: "November 1944 war diary (7 pp.): Pearl Harbor and Hawaiian operating areas with DesDiv 123 (training, Kahoolawe shore bombardment, torpedo and AA exercises), then Navy Yard repairs from 18 Nov" }
-      1944-12: { status: mapped, nara: [139832917], files: [positions], note: "December 1944 war diary (9 pp.): Pearl Harbor 1-14 Dec, with T.U. 12.5.5 to Eniwetok (16-23 Dec) and on to Ulithi (24-28 Dec), then T.G. 38.2 from 30 Dec" }
+      1944-10: { status: mapped, nara: [139889516], files: [positions], note: "pp. 11-23 of the same 42-pp. diary, all transcribed: Ulithi 1-6 Oct, Task Group 38.3, the Okinawa, Formosa and Philippines strikes, the Battle off Cape Engano period (24-26 Oct; narrative only, no rows), east of the Philippines to 31 Oct; two fixes (7 Oct 0800, 9 Oct 2000) marked off the track; I (-9) assumed from the 1 Oct line" }
+      1944-11: { status: mapped, nara: [139889516], files: [positions], note: "pp. 26-34 of the same 42-pp. diary, all transcribed: Task Group 38.1 and 38.3 off the Philippines and Luzon (Luzon strikes 5, 6, 13-14 Nov; 5 Nov burial at sea has typed coordinates), Ulithi 2 Nov and 17-22 Nov, east of the Philippines to 30 Nov; the three 4 Nov fixes are marked off the track (a wrong table: 544 nm in 12 hours, and the 1200 and 2000 columns repeat 5 Nov); zone I (-9) throughout" }
+      1944-12: { status: mapped, nara: [139889516], files: [positions], note: "pp. 35-42 of the same 42-pp. diary, all transcribed: to Ulithi 2 Dec (berth 6), at anchor to 11 Dec, the 14-16 Dec Luzon strikes (one table, 0800 / 1200 / 2200), Typhoon Cobra 17-18 Dec, Ulithi 24 Dec (berth 4) to 30 Dec, sortie with Task Group 38.1 on 30 Dec; zones I, K (4-11 Dec; 24-30 Dec) as typed; 11 Dec 1200 and 2000 fixes marked off the track (repeats of the 30 Dec table; the 2000 fix needs 32 kn)" }
       1945-01: { status: mapped, nara: [139846605], files: [positions], note: "January 1945 war diary (12 pp.): with T.G. 38.2 on the Formosa, Luzon, Camranh Bay, Hong Kong and Hainan strikes and the South China Sea sweep (1-25 Jan), Ulithi from 26 Jan" }
       1945-02: { status: mapped, nara: [139903592], files: [positions], note: "February 1945 war diary (8 pp.): Ulithi 1-10 Feb, the Tokyo strikes of 16-17 Feb and 25 Feb with T.G. 58.3, the Iwo Jima landings of 19 Feb, the voyage to Okinawa waters" }
       1945-03: { status: mapped, nara: [139968200], files: [positions], note: "March 1945 war diary (11 pp.): Ulithi 4-14 Mar, the Kyushu and Okinawa strikes with T.G. 58.3, the Minami Daito Shima bombardment of 28 Mar" }
@@ -91,6 +91,39 @@ ships:
       1944-02: { status: found, nara: [633401453, 78423064, 78471665, 78503825, 78594588, 134359696], note: "war diaries 15 Feb - 31 Aug 1944, not transcribed" }
       1944-09: { status: mapped, nara: [78684020, 78709413, 139825595, 139905513, 633401458, 139992648, 633449597, 77464063, 77498013, 77513304, 77526853, 77595243], files: [positions], note: "war diaries Sep 1944 - Oct 1945: four Mediterranean convoys, training duty, Guantanamo, Miami, Navy Day at Baltimore" }
       history: { status: found, nara: [77691503], note: "one-page war history" }
+  BB-57:   # USS South Dakota
+    folder: ships/bb-57-south-dakota
+    records:
+      1942-11: { status: mapped, nara: [78189543], files: [positions], note: "typed war diary 20 Mar 1942 - 28 Feb 1943 (22 pp.), pp. 14-20 transcribed: Noumea, the night action off Savo Island of 14-15 Nov (no position typed for the action itself; the action report, NARA 134006513, has not been read), Tongatabu, the Panama Canal, the New York Navy Yard on 18 Dec" }
+      1942-12: { status: mapped, nara: [78189543], files: [positions], note: "see 1942-11; 19 Dec 1942 - 31 Jan 1943 is one line, 'undergoing overhaul'" }
+      1943-02: { status: found, nara: [134088381], note: "49 pp. of handwritten log copies; pp. 1-24 are Brooklyn Navy Yard, dry dock then pier, 1-16 Feb (no positions); pp. 25-49 not read" }
+      1943-03: { status: found, nara: [134160670], note: "47 pp., not read" }
+      1943-04: { status: found, nara: [134195102], note: "43 pp., not read" }
+      1943-05: { status: found, nara: [139749322], note: "49 pp., not read" }
+      1943-06: { status: found, nara: [134273752], note: "46 pp., not read" }
+      1943-07: { status: found, nara: [78132408], note: "65 pp., not read" }
+      1943-08: { status: missing, note: "searched 2026-10-23 (catalog titles South Dakota, war diary, 8/43): no August 1943 war diary in series 4697018" }
+      1943-09: { status: found, nara: [78199368], note: "69 pp., not read" }
+      1943-10: { status: found, nara: [136045167], note: "73 pp., not read" }
+      1943-11: { status: found, nara: [78249593], note: "100 pp., not read" }
+      1943-12: { status: found, nara: [78271510], note: "5 pp., not read" }
+      1944-01: { status: mapped, nara: [78337817], files: [positions], note: "10 pp. typed diary, all transcribed: Havannah Harbor (Efate) to 18 Jan, Funafuti 20-23 Jan, then Task Force 58 (Flintlock) to the Kwajalein area; 20 January is typed twice (date line)" }
+      1944-02: { status: mapped, nara: [78361250], files: [positions], note: "8 pp. typed diary, all transcribed: with Task Force 58 off Kwajalein 1-3 Feb, Majuro 4-12 Feb, the Truk strike and the Marianas sweep 13-25 Feb, back at Majuro on 26 Feb; one fix (15 Feb 1200) is marked off the track" }
+      1944-03: { status: mapped, nara: [78391388], files: [positions], note: "8 pp. typed diary, all transcribed: Majuro to 22 Mar, then Task Force 58 for the Palau, Yap and Woleai strikes (30-31 Mar); equator crossed 25 Mar; 24 Mar skipped (plus 12 to minus 11)" }
+      1944-04: { status: mapped, nara: [78435161], files: [positions], note: "11 pp. typed diary, all transcribed: the Woleai strike 1 Apr, the date line crossed eastbound on 5 Apr (typed twice), Majuro 6-13 Apr, Task Force 58 to Hollandia (21-24 Apr), the Truk strikes 29-30 Apr; 28 Apr 0800 longitude typed with 60 seconds" }
+      1944-05: { status: mapped, nara: [78477472], files: [positions], note: "4 pp. typed diary, all transcribed: the Ponape bombardment 1 May, Majuro 4-16 May (berth 81), then overhaul and AA practice at Majuro with no positions after 16 May" }
+      1944-06: { status: mapped, nara: [78513245], files: [positions], note: "9 pp. typed diary, all transcribed: Majuro to 6 Jun, then Task Group 58.7 and 58.3 for Forager (Saipan bombardment 13 Jun, the Philippine Sea air attacks of 19-20 Jun, the bomb hit on 19 Jun), Eniwetok 27 Jun, the date line crossed eastbound on 29 Jun (typed twice), bound for Pearl Harbor; one fix (10 Jun 2000 longitude) is marked off the track; zone letters K for 10-25 Jun are assumed" }
+      1944-07: { status: mapped, nara: [78580035], files: [positions], note: "3 pp. typed diary, all transcribed: at sea to Pearl Harbor (moored 2 Jul), then to Puget Sound Navy Yard (anchored Sinclair Inlet 10 Jul, in dry dock 11 Jul) for repair of the 19 June bomb damage; two fixes (1 Jul 0800, 2 Jul 0800) are marked off the track; the diary types no zone line, X is carried (assumed)" }
+      1944-08: { status: mapped, nara: [78647682], files: [positions], note: "2 pp. typed diary, all transcribed: in dry dock and at pier 5, Puget Sound Navy Yard, to 21 Aug (no positions typed), left Puget Sound 25 Aug for Pearl Harbor, positions 26-31 Aug" }
+      1944-09: { status: mapped, nara: [139889516], files: [positions], note: "one NARA item (42 pp.) covers Sep, Oct, Nov and Dec 1944; September fully transcribed (pp. 2-8): Pearl Harbor to 8 Sep, dry dock 12-16 Sep, to Ulithi (entered 30 Sep); zones VW, W, X, Y, M, L, K; date line crossed westbound 22 Sep (23 Sep not typed); 30 Sep 1200 and 2000 fixes are repeats of 29 Sep and marked off the track" }
+      1944-10: { status: found, nara: [139889516], files: [positions], note: "pp. 11-21 of the same 42-pp. diary transcribed through 24 Oct (Ulithi, Task Group 38.3, Okinawa, Formosa and Philippines strikes); 25-31 Oct (p. 21 bottom onward) not yet; two fixes (7 Oct 0800, 9 Oct 2000) marked off the track; I (-9) assumed from the 1 Oct line" }
+      1944-11: { status: found, nara: [139889516], note: "same 42-pp. diary as 1944-09, not read" }
+      1944-12: { status: found, nara: [139889516], note: "same 42-pp. diary as 1944-09, not read" }
+      1945-01: { status: found, nara: [139891872], note: "14 pp., not read" }
+      1945-02: { status: found, nara: [139900467], note: "13 pp., not read" }
+      1945-03: { status: missing, note: "searched 2026-10-23: no March 1945 war diary; the report of operations 18 Mar - 11 May 1945 (NARA 77802097, 4 pp.) covers the strikes" }
+      1945-04: { status: found, nara: [633438508], note: "23 pp., not read" }
+      1945-05: { status: found, nara: [101760567], note: "14 pp., not read" }
 
 units:   # Army units in army/: each one's station history
   62ca-c:   # Battery C, 62nd Coast Artillery (AA) / 62nd AAA Gun Bn

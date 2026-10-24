@@ -324,6 +324,112 @@
   ]
  },
  {
+  "key": "bb-57-south-dakota",
+  "alias": "south dakota",
+  "name": "South Dakota",
+  "hull": "BB-57",
+  "class": "South Dakota",
+  "kind": "battleship",
+  "max_kts": 28.0,
+  "dives": false,
+  "silhouette": "southdakota",
+  "geojson": "ships/bb-57-south-dakota/track.geojson",
+  "title": "USS South Dakota (BB-57)",
+  "heading": "USS South Dakota (BB-57) — November 1942 to December 1944 (in progress)",
+  "catalogId": 78189543,
+  "intro": "Every position USS South Dakota reported in the war diaries transcribed so far: November and December 1942 (Noumea, the sortie toward Savo Island of 14-15 November, Tongatabu, Panama, the New York Navy Yard) and January to December 1944 (Funafuti, Majuro, Task Force 58, the Marianas, Puget Sound repairs, Ulithi, the Philippines). 1943 and 1945 are not yet transcribed. Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "n": 1,
+    "name": "War diaries 1942 and 1944",
+    "dates": "1 Nov 1942 – 31 Dec 1944 (1943 not yet transcribed)",
+    "area": "Noumea · Savo Island · Panama · New York · Funafuti · Majuro · Marianas · Puget Sound · Ulithi · Philippines",
+    "co": "Capt. T. L. Gatch (1942)"
+   }
+  ],
+  "home": [
+   [
+    166.0,
+    -24.0
+   ],
+   [
+    -72.0,
+    41.0
+   ]
+  ],
+  "ports": [
+   {
+    "name": "Noumea",
+    "lon": 166.43,
+    "lat": -22.27
+   },
+   {
+    "name": "Nukualofa",
+    "lon": -175.2,
+    "lat": -21.13
+   },
+   {
+    "name": "Cristobal",
+    "lon": -79.9,
+    "lat": 9.35
+   },
+   {
+    "name": "New York Navy Yard",
+    "lon": -74.0,
+    "lat": 40.7
+   }
+  ],
+  "places": [
+   {
+    "name": "GUADALCANAL",
+    "lon": 160.0,
+    "lat": -9.6
+   },
+   {
+    "name": "SAVO I.",
+    "lon": 159.8,
+    "lat": -9.1
+   },
+   {
+    "name": "NEW CALEDONIA",
+    "lon": 165.5,
+    "lat": -21.5
+   },
+   {
+    "name": "TONGA",
+    "lon": -175.0,
+    "lat": -20.5
+   },
+   {
+    "name": "PANAMA",
+    "lon": -80.0,
+    "lat": 8.5
+   }
+  ],
+  "listTitle": "1942 and 1944",
+  "daysLabel": "Days covered",
+  "endText": "End of the transcribed diaries",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   },
+   {
+    "cls": "event",
+    "text": "Logged event (position assumed)",
+    "ifPresent": true
+   }
+  ]
+ },
+ {
   "key": "dd-700-haynsworth",
   "alias": "haynsworth",
   "name": "Haynsworth",
