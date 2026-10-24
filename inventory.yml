@@ -100,7 +100,7 @@ ships:
     records:
       1942-11: { status: mapped, nara: [78189543], files: [positions], note: "typed war diary 20 Mar 1942 - 28 Feb 1943 (22 pp.), pp. 14-20 transcribed: Noumea, the night action off Savo Island of 14-15 Nov (no position typed for the action itself; the action report, NARA 134006513, has not been read), Tongatabu, the Panama Canal, the New York Navy Yard on 18 Dec" }
       1942-12: { status: mapped, nara: [78189543], files: [positions], note: "see 1942-11; 19 Dec 1942 - 31 Jan 1943 is one line, 'undergoing overhaul'" }
-      1943-02: { status: found, nara: [134088381], note: "49 pp. of handwritten log copies; pp. 1-24 are Brooklyn Navy Yard, dry dock then pier, 1-16 Feb (no positions); pp. 25-49 not read" }
+      1943-02: { status: mapped, nara: [134088381], files: [positions], note: "49 pp. of handwritten deck-log copies with no coordinates; pp. 1-24 Brooklyn Navy Yard, dry dock then pier, 1-16 Feb; 21-28 Feb transcribed as 7 port and harbour rows (Brooklyn, Tompkinsville anchorage, Ambrose Channel departure, Hampton Roads, Cape Henry); p31 read; pp. 30, 32-37 and 46-48 not read (24-25 Feb watches, 27-28 Feb including the 28 Feb sortie)" }
       1943-03: { status: found, nara: [134160670], note: "47 pp., not read" }
       1943-04: { status: found, nara: [134195102], note: "43 pp., not read" }
       1943-05: { status: found, nara: [139749322], note: "49 pp., not read" }
@@ -110,7 +110,7 @@ ships:
       1943-09: { status: found, nara: [78199368], note: "69 pp., not read" }
       1943-10: { status: found, nara: [136045167], note: "73 pp., not read" }
       1943-11: { status: found, nara: [78249593], note: "100 pp., not read" }
-      1943-12: { status: found, nara: [78271510], note: "5 pp., not read" }
+      1943-12: { status: mapped, nara: [78271510], files: [positions], note: "5 pp. typed diary, all transcribed: Task Group 50.4 near the Gilberts to 6 Dec, the Nauru bombardment of 8 Dec (no position typed for it), Havannah Harbor from 12 Dec" }
       1944-01: { status: mapped, nara: [78337817], files: [positions], note: "10 pp. typed diary, all transcribed: Havannah Harbor (Efate) to 18 Jan, Funafuti 20-23 Jan, then Task Force 58 (Flintlock) to the Kwajalein area; 20 January is typed twice (date line)" }
       1944-02: { status: mapped, nara: [78361250], files: [positions], note: "8 pp. typed diary, all transcribed: with Task Force 58 off Kwajalein 1-3 Feb, Majuro 4-12 Feb, the Truk strike and the Marianas sweep 13-25 Feb, back at Majuro on 26 Feb; one fix (15 Feb 1200) is marked off the track" }
       1944-03: { status: mapped, nara: [78391388], files: [positions], note: "8 pp. typed diary, all transcribed: Majuro to 22 Mar, then Task Force 58 for the Palau, Yap and Woleai strikes (30-31 Mar); equator crossed 25 Mar; 24 Mar skipped (plus 12 to minus 11)" }

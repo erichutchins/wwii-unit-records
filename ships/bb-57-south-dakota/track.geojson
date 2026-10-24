@@ -325,6 +325,158 @@
       40.7
      ],
      [
+      -74.0,
+      40.7
+     ],
+     [
+      -74.0667,
+      40.6167
+     ],
+     [
+      -74.0667,
+      40.6167
+     ],
+     [
+      -73.8333,
+      40.45
+     ],
+     [
+      -76.3167,
+      36.9667
+     ],
+     [
+      -76.0,
+      36.9333
+     ],
+     [
+      -76.3167,
+      36.9667
+     ],
+     [
+      174.2333,
+      1.85
+     ],
+     [
+      173.7333,
+      2.2333
+     ],
+     [
+      173.3167,
+      1.3667
+     ],
+     [
+      174.3167,
+      2.3167
+     ],
+     [
+      174.2667,
+      1.7333
+     ],
+     [
+      174.1333,
+      1.4167
+     ],
+     [
+      174.1833,
+      2.3
+     ],
+     [
+      173.8167,
+      2.0333
+     ],
+     [
+      174.3833,
+      1.55
+     ],
+     [
+      174.1667,
+      2.4
+     ],
+     [
+      173.6833,
+      2.2667
+     ],
+     [
+      174.7167,
+      1.65
+     ],
+     [
+      174.15,
+      3.15
+     ],
+     [
+      173.6833,
+      2.55
+     ],
+     [
+      174.3167,
+      1.4667
+     ],
+     [
+      173.1333,
+      -0.6
+     ],
+     [
+      173.0,
+      -1.2333
+     ],
+     [
+      173.2667,
+      -2.5167
+     ],
+     [
+      170.1833,
+      -2.2333
+     ],
+     [
+      169.4333,
+      -2.2
+     ],
+     [
+      168.6333,
+      -0.7
+     ],
+     [
+      166.8667,
+      -0.5
+     ],
+     [
+      167.4333,
+      -0.1
+     ],
+     [
+      167.5,
+      -2.25
+     ],
+     [
+      167.2,
+      -5.3833
+     ],
+     [
+      168.0333,
+      -6.15
+     ],
+     [
+      168.1833,
+      -7.2833
+     ],
+     [
+      168.1833,
+      -10.9
+     ],
+     [
+      167.9667,
+      -11.8333
+     ],
+     [
+      168.4167,
+      -13.95
+     ],
+     [
+      168.2833,
+      -17.55
+     ],
+     [
       168.2833,
       -17.55
      ],
@@ -4979,6 +5131,880 @@
     "coordinates": [
      -74.0,
      40.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Brooklyn Navy Yard",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-02-21T14:30Z",
+    "lat_raw": "40-42N",
+    "lon_raw": "74-00W",
+    "local": "1943-02-21 1030(Q)",
+    "page": "rg367-134088381/p29",
+    "note": "\"1030 Underway on various courses and at various speeds, pilot at conn\" (from \"Pier C, Berth 2, Navy Yard, Brooklyn\"; port position: the log types no coordinates; the Navy Yard position used for 18 Dec 1942). Zone Q is assumed (no zone typed on this page); the form on p49 (28 Feb) types 'Zone description +4'.",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     40.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "anchored Tompkinsville",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-02-21T15:55Z",
+    "lat_raw": "40-37N",
+    "lon_raw": "74-04W",
+    "local": "1943-02-21 1155(Q)",
+    "page": "rg367-134088381/p29",
+    "note": "\"1155 Anchored at Tompkinsville, N.Y. in ten fathoms of water with sixty fathoms of chain out to starboard anchor\", bearings Robbins Reef 344.5, buoy 24 070, stack 101.5. Approximate anchorage position (the log types no coordinates; chosen from the place and the Robbins Reef bearing, inferred; about 2 nm). Loading ammunition 22-24 Feb (pp. 31-37, not transcribed). Zone Q is assumed (no zone typed on this page); the form on p49 (28 Feb) types 'Zone description +4'.",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0667,
+     40.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "anchor aweigh Tompkinsville",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-02-25T15:26Z",
+    "lat_raw": "40-37N",
+    "lon_raw": "74-04W",
+    "local": "1943-02-25 1126(Q)",
+    "page": "rg367-134088381/p38",
+    "note": "Read as \"1102 [struck: Underway at] 1126 anchor aweigh. Captain, Executive Officer, Navigator on the bridge, Pilot Wood has the conn\" (the correction is hard to read; 1050 \"ship reported ready for getting underway\"; 1128 passed buoy 22, 1132 buoy 20, 1154 entered Ambrose Channel). Same approximate anchorage position as 21 Feb. Zone Q is assumed (no zone typed on this page); the form on p49 (28 Feb) types 'Zone description +4'.",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0667,
+     40.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "departure Ambrose Channel",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-02-25T16:51Z",
+    "lat_raw": "40-27N",
+    "lon_raw": "73-50W",
+    "local": "1943-02-25 1251(Q)",
+    "page": "rg367-134088381/p39",
+    "note": "\"1250 Left Ambrose Channel 1251 Took departure with buoy I abeam to port, distance 100 yds, steering 162 pgc, speed 15 kts\" with Niblack, Butler and Kendrick (Ryan left at 1255). Approximate: the log types no coordinates; the position of Ambrose Light at the channel entrance, inferred; about 3 nm. This page types no date; it follows p38 (25 Feb) and p40 is headed Thurs Feb 25. Zone Q is assumed (no zone typed on this page); the form on p49 (28 Feb) types 'Zone description +4'.",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8333,
+     40.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "anchored Hampton Roads",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-02-26T16:44Z",
+    "lat_raw": "36-58N",
+    "lon_raw": "76-19W",
+    "local": "1943-02-26 1244(Q)",
+    "page": "rg367-134088381/p43",
+    "note": "\"1244 Anchored in Hampton Roads in 12 fathoms with 60 fathoms of chain to the port anchor\", bearings Old Point Comfort 045, Fort Wool 092, Clock Tower 167. Approximate anchorage position (the log types no coordinates; from the bearing to Old Point Comfort, inferred; about 2 nm). Passed buoy XM 0658 (swept channel to Hampton Roads); ammunition barges alongside from 1400. Anchored in berth Baker at 0000 on 27 Feb (p45). Zone Q is assumed (no zone typed on this page); the form on p49 (28 Feb) types 'Zone description +4'.",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.3167,
+     36.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "passed Cape Henry Light",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-02-28T18:55Z",
+    "lat_raw": "36-56N",
+    "lon_raw": "76-00W",
+    "local": "1943-02-28 1455(Q)",
+    "page": "rg367-134088381/p49",
+    "note": "\"1455 Passed Cape Henry Light abeam to port\" (inbound: 1504 entered Thimble Shoal Channel, buoy 1 abeam to port, 300 yards). Position of the light, approximate (the log types no coordinates or distance; inferred; about 2 nm). Where the ship was before this, from the morning of 28 Feb (pp. 46-48, not read), is not recorded here: 1327 cleared York Spit Channel, steering 150.",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.0,
+     36.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "anchored Hampton Roads",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-02-28T20:20Z",
+    "lat_raw": "36-58N",
+    "lon_raw": "76-19W",
+    "local": "1943-02-28 1620(Q)",
+    "page": "rg367-134088381/p49",
+    "note": "\"1620 Anchored at Hampton Roads, Virginia in berth B in 12 fathoms of water with 60 fathoms of chain to the starboard anchor\", bearings Point Comfort 044, Fort Wool 092, East Tower 033.75, lighted buoy 10 107, buoy 14 001.25. Zone +4 typed on the form (Q). Approximate anchorage position as for 26 Feb.",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.3167,
+     36.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-01T20:00Z",
+    "lat_raw": "01-51N",
+    "lon_raw": "174-14E",
+    "local": "1943-12-01 0800(Y)",
+    "page": "rg367-78271510/p01",
+    "note": "Zone Y: \"Using ZONE PLUS TWELVE TIME\" (p01, 1 Dec; the diary types no change to 9 Dec). Task Group 50.4 (Operation Galvanic, east of the Gilbert Islands)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.2333,
+     1.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-02T00:00Z",
+    "lat_raw": "02-14N",
+    "lon_raw": "173-44E",
+    "local": "1943-12-01 1200(Y)",
+    "page": "rg367-78271510/p01",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     173.7333,
+     2.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-02T08:00Z",
+    "lat_raw": "01-22N",
+    "lon_raw": "173-19E",
+    "local": "1943-12-01 2000(Y)",
+    "page": "rg367-78271510/p01",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     173.3167,
+     1.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-02T20:00Z",
+    "lat_raw": "02-19N",
+    "lon_raw": "174-19E",
+    "local": "1943-12-02 0800(Y)",
+    "page": "rg367-78271510/p01",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.3167,
+     2.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-03T00:00Z",
+    "lat_raw": "01-44N",
+    "lon_raw": "174-16E",
+    "local": "1943-12-02 1200(Y)",
+    "page": "rg367-78271510/p01",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.2667,
+     1.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-03T08:00Z",
+    "lat_raw": "01-25N",
+    "lon_raw": "174-08E",
+    "local": "1943-12-02 2000(Y)",
+    "page": "rg367-78271510/p01",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.1333,
+     1.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-03T20:00Z",
+    "lat_raw": "02-18N",
+    "lon_raw": "174-11E",
+    "local": "1943-12-03 0800(Y)",
+    "page": "rg367-78271510/p01",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.1833,
+     2.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-04T00:00Z",
+    "lat_raw": "02-02N",
+    "lon_raw": "173-49E",
+    "local": "1943-12-03 1200(Y)",
+    "page": "rg367-78271510/p01",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     173.8167,
+     2.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-04T08:00Z",
+    "lat_raw": "01-33N",
+    "lon_raw": "174-23E",
+    "local": "1943-12-03 2000(Y)",
+    "page": "rg367-78271510/p01",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.3833,
+     1.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-04T20:00Z",
+    "lat_raw": "02-24N",
+    "lon_raw": "174-10E",
+    "local": "1943-12-04 0800(Y)",
+    "page": "rg367-78271510/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.1667,
+     2.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-05T00:00Z",
+    "lat_raw": "02-16N",
+    "lon_raw": "173-41E",
+    "local": "1943-12-04 1200(Y)",
+    "page": "rg367-78271510/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     173.6833,
+     2.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-05T08:00Z",
+    "lat_raw": "01-39N",
+    "lon_raw": "174-43E",
+    "local": "1943-12-04 2000(Y)",
+    "page": "rg367-78271510/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.7167,
+     1.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-05T20:00Z",
+    "lat_raw": "03-09N",
+    "lon_raw": "174-09E",
+    "local": "1943-12-05 0800(Y)",
+    "page": "rg367-78271510/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.15,
+     3.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-06T00:00Z",
+    "lat_raw": "02-33N",
+    "lon_raw": "173-41E",
+    "local": "1943-12-05 1200(Y)",
+    "page": "rg367-78271510/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     173.6833,
+     2.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-06T08:00Z",
+    "lat_raw": "01-28N",
+    "lon_raw": "174-19E",
+    "local": "1943-12-05 2000(Y)",
+    "page": "rg367-78271510/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.3167,
+     1.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-06T20:00Z",
+    "lat_raw": "00-36S",
+    "lon_raw": "173-08E",
+    "local": "1943-12-06 0800(Y)",
+    "page": "rg367-78271510/p02",
+    "note": "Task Group 50.4 fuelled 6 Dec and Task Group 50.8 (the bombardment group for Nauru) became effective at 1430 (p03)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     173.1333,
+     -0.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-07T00:00Z",
+    "lat_raw": "01-14S",
+    "lon_raw": "173-00E",
+    "local": "1943-12-06 1200(Y)",
+    "page": "rg367-78271510/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     173.0,
+     -1.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-07T08:00Z",
+    "lat_raw": "02-31S",
+    "lon_raw": "173-16E",
+    "local": "1943-12-06 2000(Y)",
+    "page": "rg367-78271510/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     173.2667,
+     -2.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-07T20:00Z",
+    "lat_raw": "02-14S",
+    "lon_raw": "170-11E",
+    "local": "1943-12-07 0800(Y)",
+    "page": "rg367-78271510/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     170.1833,
+     -2.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-08T00:00Z",
+    "lat_raw": "02-12S",
+    "lon_raw": "169-26E",
+    "local": "1943-12-07 1200(Y)",
+    "page": "rg367-78271510/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     169.4333,
+     -2.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-08T08:00Z",
+    "lat_raw": "00-42S",
+    "lon_raw": "168-38E",
+    "local": "1943-12-07 2000(Y)",
+    "page": "rg367-78271510/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     168.6333,
+     -0.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-08T20:00Z",
+    "lat_raw": "00-30S",
+    "lon_raw": "166-52E",
+    "local": "1943-12-08 0800(Y)",
+    "page": "rg367-78271510/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     166.8667,
+     -0.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-09T00:00Z",
+    "lat_raw": "00-06S",
+    "lon_raw": "167-26E",
+    "local": "1943-12-08 1200(Y)",
+    "page": "rg367-78271510/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     167.4333,
+     -0.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-09T08:00Z",
+    "lat_raw": "02-15S",
+    "lon_raw": "167-30E",
+    "local": "1943-12-08 2000(Y)",
+    "page": "rg367-78271510/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     167.5,
+     -2.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-09T20:00Z",
+    "lat_raw": "05-23S",
+    "lon_raw": "167-12E",
+    "local": "1943-12-09 0800(Y)",
+    "page": "rg367-78271510/p04",
+    "note": "Zone Y. The narrative (p04) types \"At 0800 set all clocks to ZONE MINUS TWELVE TIME, date changed to 10 December 1943\" while the table is headed 9 December: Y 9 Dec and M 10 Dec are the same instant, so the three columns are kept under the diary's date with Y (assumed); the 1200 and 2000 columns may be M, 10 Dec",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     167.2,
+     -5.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-10T00:00Z",
+    "lat_raw": "06-09S",
+    "lon_raw": "168-02E",
+    "local": "1943-12-09 1200(Y)",
+    "page": "rg367-78271510/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     168.0333,
+     -6.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-10T08:00Z",
+    "lat_raw": "07-17S",
+    "lon_raw": "168-11E",
+    "local": "1943-12-09 2000(Y)",
+    "page": "rg367-78271510/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     168.1833,
+     -7.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-10T20:00Z",
+    "lat_raw": "10-54S",
+    "lon_raw": "168-11E",
+    "local": "1943-12-11 0800(M)",
+    "page": "rg367-78271510/p04",
+    "note": "Zone M (minus twelve, set on 9/10 Dec, p04); the diary has no table headed 10 December",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     168.1833,
+     -10.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-11T00:00Z",
+    "lat_raw": "11-50S",
+    "lon_raw": "167-58E",
+    "local": "1943-12-11 1200(M)",
+    "page": "rg367-78271510/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     167.9667,
+     -11.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-11T08:00Z",
+    "lat_raw": "13-57S",
+    "lon_raw": "168-25E",
+    "local": "1943-12-11 2000(M)",
+    "page": "rg367-78271510/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     168.4167,
+     -13.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moored Havannah Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1943-12-11T23:43Z",
+    "lat_raw": "17-33S",
+    "lon_raw": "168-17E",
+    "local": "1943-12-12 1143(M)",
+    "page": "rg367-78271510/p05",
+    "note": "\"1143 moored to buoy number 10 in HAVANNAH HARBOR for upkeep and repairs\" (port position: the diary types no coordinates for berths; standard harbour position used). \"At 1200 set all clocks back one hour to ZONE MINUS ELEVEN\" (the 1143 row is M). 13 to 31 December: moored at Havannah Harbor, Efate (a range entry, no positions; Washington and North Carolina got underway 25 Dec, South Dakota did not)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     168.2833,
+     -17.55
     ]
    }
   },
