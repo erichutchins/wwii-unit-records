@@ -341,7 +341,7 @@
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
    {
-    "dates": "30 Oct 1942 – 31 Dec 1944",
+    "dates": "30 Oct 1942 – 28 Feb 1945",
     "n": 1,
     "name": "War diaries 1942 and 1944 (1943 not yet transcribed)",
     "area": "Noumea · Savo Island · Panama · New York · Funafuti · Majuro · Marianas · Puget Sound · Ulithi · Philippines",
@@ -426,8 +426,8 @@
     "ifPresent": true
    }
   ],
-  "heading": "USS South Dakota (BB-57) — October 1942 to December 1944",
-  "endText": "End of the December 1944 diary"
+  "heading": "USS South Dakota (BB-57) — October 1942 to February 1945",
+  "endText": "End of the February 1945 diary"
  },
  {
   "key": "dd-700-haynsworth",
@@ -441,16 +441,16 @@
   "silhouette": "sumner",
   "geojson": "ships/dd-700-haynsworth/track.geojson",
   "title": "USS Haynsworth (DD-700)",
-  "intro": "Every position USS Haynsworth reported in her war diaries: exercises out of Pearl Harbor, Task Group 38.2's strikes on Formosa, Luzon and the South China Sea, the Tokyo strikes and Iwo Jima, Okinawa and the kamikaze hit of 6 April, then Ulithi, Eniwetok and Pearl Harbor on the way to repairs at Mare Island. Transcribed from the ",
+  "intro": "Every position USS Haynsworth reported in her war diaries: exercises out of Pearl Harbor, Task Group 38.2's strikes on Formosa, Luzon and the South China Sea, the Tokyo strikes and Iwo Jima, Okinawa and the kamikaze hit of 6 April, then Ulithi, Eniwetok and Pearl Harbor on the way to repairs at Mare Island, and after them refresher training at San Diego, training-destroyer duty out of Treasure Island and the passage back to Pearl Harbor to October 1945. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
    {
-    "dates": "1 Nov 1944 – 30 Jun 1945",
+    "dates": "1 Nov 1944 – 31 Oct 1945",
     "n": 1,
     "name": "War diaries",
-    "area": "Pearl Harbor · Formosa · South China Sea · Tokyo · Iwo Jima · Okinawa · Mare Island",
-    "co": "Cdr. Robert Brodie Jr.; Cdr. S. N. Tackney"
+    "area": "Pearl Harbor · Formosa · South China Sea · Tokyo · Iwo Jima · Okinawa · Mare Island · San Diego · San Francisco",
+    "co": "Cdr. Robert Brodie Jr.; Cdr. S. N. Tackney; Cdr. J. E. Smith"
    }
   ],
   "home": [
@@ -483,6 +483,21 @@
     "name": "Mare Island",
     "lon": -122.27,
     "lat": 38.07
+   },
+   {
+    "name": "San Diego",
+    "lon": -117.17,
+    "lat": 32.7
+   },
+   {
+    "name": "Treasure Island",
+    "lon": -122.37,
+    "lat": 37.82
+   },
+   {
+    "name": "Kahului",
+    "lon": -156.47,
+    "lat": 20.9
    }
   ],
   "places": [
@@ -560,8 +575,8 @@
     "ifPresent": true
    }
   ],
-  "heading": "USS Haynsworth (DD-700) — November 1944 to June 1945",
-  "endText": "End of the June 1945 diary"
+  "heading": "USS Haynsworth (DD-700) — November 1944 to October 1945",
+  "endText": "End of the October 1945 diary"
  },
  {
   "key": "de-221-solar",

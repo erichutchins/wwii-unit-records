@@ -473,3 +473,216 @@ narrative,underway for Hunters Point,1945-06-28,0700,T,38-04N,122-16W,rg367-1017
 narrative,moor Hunters Point,1945-06-28,1724,T,37-43N,122-22W,rg367-101733725/p02,"""1724 Moored at berth #1, Hunter's Point, California."" (port position)",yes,,,,,"Hunters Point coordinates are not in the diary; standard Navy Yard position used (37-43N 122-22W)"
 narrative,underway full power run,1945-06-30,0715,T,37-43N,122-22W,rg367-101733725/p02,"""At 0715 ship got underway in accordance with Ship Movement Officer's verbal orders of 29 June 1945 for full power run and structural firing tests."" (port position)",yes,,,,,"Hunters Point coordinates are not in the diary; standard Navy Yard position used"
 narrative,moor Mare Island pier 19,1945-06-30,2042,T,38-04N,122-16W,rg367-101733725/p02,"""... 24 rounds of 5""/38 AAC were expended and at 2042 we returned to Mare Island where we moored alongside U.S.S. SHAW at pier 19."" (port position)",yes,,,,,"Mare Island coordinates are not in the diary; standard Navy Yard position used"
+narrative,underway Mare Island,1945-07-04,0704,T,38-04N,122-16W,rg367-77477470/p02,"""0704 Underway for San Diego, California, in accordance with CWSFT orders of 3 July 1945, for refresher shakedown training."" (port position) Time zone +7 is typed on 1-3 July (""Time zone t 7""); T is written for the month.",yes,,,,,Mare Island coordinates are not in the diary; standard harbour position used
+narrative,table: Mare Island Navy Yard,1945-07-04,0800,T,38-04N,122-16W,rg367-77477470/p02,"(port position) The 0800 table entry is the words ""Mare Island, Navy Yard"", but the narrative has her under way at 0704; kept as a port row, off the track.",no,,,,,Mare Island coordinates are not in the diary; standard harbour position used
+diary,,1945-07-04,1200,T,37-22N,123-23W,rg367-77477470/p02,,yes,,,,,
+diary,,1945-07-04,2000,T,34-46N,122-35W,rg367-77477470/p02,,yes,,,,,
+diary,,1945-07-05,0800,T,32-32N,118-41W,rg367-77477470/p02,,yes,,,,,
+event,swept channel San Diego,1945-07-05,1200,T,,,rg367-77477470/p02,"The 1200 table entry is ""In swept channel to San Diego Bay"", no position: placed by interpolation. ""1130 Entered swept channel to San Diego Bay.""",no,,,,,
+narrative,moor buoy 8 San Diego,1945-07-05,1332,T,32-42N,117-10W,rg367-77477470/p02,"""1332 Moored to Buoy 8, San Diego Bay, California."" (port position)",yes,,,,,San Diego Bay coordinates are not in the diary; standard harbour position used
+diary,,1945-07-06,0800,T,32-35N,117-20W,rg367-77477470/p02,"0655 underway for OpArea II 9 with FRANKS, COGHLAN and STANSBURY, refresher shakedown training",yes,,,,,
+diary,,1945-07-06,1200,T,32-21N,117-58W,rg367-77477470/p02,,yes,,,,,
+diary,,1945-07-06,2000,T,32-32N,117-44W,rg367-77477470/p02,,yes,,,,,
+diary,,1945-07-07,0800,T,32-32N,117-47W,rg367-77477470/p02,,yes,,,,,
+diary,,1945-07-07,1200,T,32-26N,117-53W,rg367-77477470/p02,,yes,,,,,
+narrative,moor buoy 8 San Diego,1945-07-07,1800,T,32-42N,117-10W,rg367-77477470/p02,"""At 1800, we moored to Buoy 8, San Diego Bay."" (port position)",yes,,,,,San Diego Bay coordinates are not in the diary; standard harbour position used
+narrative,table: buoy 8,1945-07-07,2000,T,32-42N,117-10W,rg367-77477470/p02,"(port position) The 2000 table entry reads ""Buoy 8, San Diego Bay.""",yes,,,,,San Diego Bay coordinates are not in the diary; standard harbour position used
+diary,,1945-07-08,0800,T,32-32N,117-25W,rg367-77477470/p03,0633 underway for exercise area II 3,yes,,,,,
+diary,,1945-07-08,1200,T,32-20N,117-50W,rg367-77477470/p03,,yes,,,,,
+narrative,table: berth 8,1945-07-08,2000,T,32-42N,117-10W,rg367-77477470/p03,"(port position) The 2000 table entry reads ""Berth 8, San Diego Bay""; the narrative moors in berth 8 at 1800.",yes,,,,,San Diego Bay coordinates are not in the diary; standard harbour position used
+diary,,1945-07-09,0800,T,32-32N,117-37W,rg367-77477470/p03,0615 underway for exercise area II 3 with HALSEY POWELL,yes,,,,,
+diary,,1945-07-09,1200,T,32-34N,117-50W,rg367-77477470/p03,,yes,,,,,
+diary,,1945-07-09,2000,T,32-33N,117-48W,rg367-77477470/p03,,yes,,,,,
+diary,,1945-07-10,0800,T,32-49N,118-23W,rg367-77477470/p03,"The 0800, 1200 and 2000 table positions are typed the same; the narrative has her at Wilson Cove, San Clemente, from 0533, all day, shore bombardment exercises",yes,,,,,
+diary,,1945-07-10,1200,T,32-49N,118-23W,rg367-77477470/p03,,yes,,,,,
+diary,,1945-07-10,2000,T,32-49N,118-23W,rg367-77477470/p03,,yes,,,,,
+diary,,1945-07-11,0800,T,32-48N,117-30W,rg367-77477470/p03,,yes,,,,,
+diary,,1945-07-11,1200,T,33-01N,117-32W,rg367-77477470/p03,,yes,,,,,
+diary,,1945-07-11,2000,T,33-09N,117-43W,rg367-77477470/p03,,yes,,,,,
+diary,,1945-07-12,0800,T,32-04N,117-43W,rg367-77477470/p03,,yes,,,,,
+diary,,1945-07-12,1200,T,31-59N,117-51W,rg367-77477470/p03,,yes,,,,,
+narrative,moor buoy 45,1945-07-12,2000,T,32-42N,117-10W,rg367-77477470/p03,"""We returned to San Diego Bay at 2000 and moored to buoy 45."" (port position)",yes,,,,,San Diego Bay coordinates are not in the diary; standard harbour position used
+diary,,1945-07-13,0800,T,32-32N,117-26W,rg367-77477470/p04,0700 underway for torpedo firing exercises with HALSEY POWELL; three exercise torpedoes fired,yes,,,,,
+diary,,1945-07-13,1200,T,32-26N,117-36W,rg367-77477470/p04,,yes,,,,,
+narrative,return to base San Diego,1945-07-13,1830,T,32-42N,117-10W,rg367-77477470/p04,"""We returned to base at 1830. (The 2000 table entry reads ""Buoy 45, San Diego, California."")"" (port position)",yes,,,,,San Diego Bay coordinates are not in the diary; standard harbour position used
+diary,,1945-07-14,0800,T,32-34N,117-21W,rg367-77477470/p04,0629 underway for areas II 1-3,yes,,,,,
+diary,,1945-07-14,1200,T,32-33N,117-54W,rg367-77477470/p04,,yes,,,,,
+narrative,moor buoy 15,1945-07-14,1704,T,32-42N,117-10W,rg367-77477470/p04,"""At 1704 we returned to base and moored to buoy 15."" (port position)",yes,,,,,San Diego Bay coordinates are not in the diary; standard harbour position used
+diary,,1945-07-15,0800,T,32-33N,117-34W,rg367-77477470/p04,"0622 underway for exercise areas with MC KEAN, ADAMS and COGHLAN",yes,,,,,
+diary,,1945-07-15,1200,T,32-32N,118-00W,rg367-77477470/p04,,yes,,,,,
+narrative,"return San Diego, Mole Pier",1945-07-15,1803,T,32-42N,117-10W,rg367-77477470/p04,"""We returned to San Diego at 1803. (The 2000 table entry reads ""Mole Pier, San Diego, California."")"" (port position)",yes,,,,,San Diego Bay coordinates are not in the diary; standard harbour position used
+diary,,1945-07-16,0800,T,32-42N,117-14W,rg367-77477470/p04,"0712 underway for San Francisco via Wilson Cove, San Clemente, on CotCPac 110023",yes,,,,,
+diary,,1945-07-16,1200,T,32-50N,118-27W,rg367-77477470/p04,Arrived at Wilson Cove at 1226 and picked up several passengers,yes,,,,,
+diary,,1945-07-16,2000,T,34-01N,120-51W,rg367-77477470/p04,,yes,,,,,
+diary,,1945-07-17,0800,T,36-59N,122-48W,rg367-77477470/p04,Steaming singly en route San Francisco,yes,,,,,
+event,swept channel San Francisco,1945-07-17,1200,T,,,rg367-77477470/p04,"The 1200 table entry is ""San Francisco Swept Channel"", no position: placed by interpolation.",no,,,,,
+narrative,moor pier 1 Treasure Island,1945-07-17,1358,T,37-49N,122-22W,rg367-77477470/p05,"""1358 moored at pier 1, Treasure Island, California, and reported to C.O.-P.C.T.C. there for duty."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+event,change of command,1945-07-17,1500,T,,,rg367-77477470/p05,"""At 1500 Commander S. N. Tackney ... was relieved as commanding officer of this vessel by Commander J. E. Smith."" Pier 1, Treasure Island; she begins duty as a training destroyer for the Pacific Coast Training Command (PCTC).",no,,,,,
+diary,,1945-07-19,0800,T,37-46N,122-36W,rg367-77477470/p05,"0651 underway for area H-5, scheduled drills and exercises (PCTC trainees)",yes,,,,,
+diary,,1945-07-19,1200,T,37-06N,123-44W,rg367-77477470/p05,,yes,,,,,
+diary,,1945-07-19,2000,T,37-58N,123-57W,rg367-77477470/p05,,yes,,,,,
+diary,,1945-07-20,0800,T,37-46N,123-34W,rg367-77477470/p05,In exercise area H-5,yes,,,,,
+diary,,1945-07-20,1200,T,38-01N,123-55W,rg367-77477470/p05,,yes,,,,,
+diary,,1945-07-20,2000,T,37-52N,123-58W,rg367-77477470/p05,,yes,,,,,
+diary,,1945-07-21,0800,T,37-43N,123-39W,rg367-77477470/p05,In exercise area H-5,yes,,,,,
+diary,,1945-07-21,1200,T,37-48N,122-23W,rg367-77477470/p05,,yes,,,,,
+narrative,moor pier 3 Treasure Island,1945-07-21,1225,T,37-49N,122-22W,rg367-77477470/p05,"""We returned to base at 1225 and moored to pier 3, Treasure Island."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-07-23,0800,T,37-49N,122-22W,rg367-77477470/p05,"(port position) The 0800 table entry reads ""Pier 3, Treasure Island, California""; the narrative has her under way at 0851 for San Clemente (CTG 14.5 OpOrder 19-45).",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-07-23,1200,T,37-24N,123-06W,rg367-77477470/p05,,yes,,,,,
+diary,,1945-07-23,2000,T,35-22N,122-15W,rg367-77477470/p05,,yes,,,,,
+diary,,1945-07-24,0800,T,32-53N,119-12W,rg367-77477470/p06,"Steaming singly to San Clemente; after disembarking the trainee group, to the San Francisco exercise areas",yes,,,,,
+diary,,1945-07-24,1200,T,33-01N,118-44W,rg367-77477470/p06,,yes,,,,,
+diary,,1945-07-24,2000,T,34-09N,120-52W,rg367-77477470/p06,,yes,,,,,
+diary,,1945-07-25,0800,T,37-37N,123-27W,rg367-77477470/p06,"0923 rendezvous with USS ARLINGTON, fuelling at sea exercises",yes,,,,,
+diary,,1945-07-25,1200,T,37-52N,123-20W,rg367-77477470/p06,,yes,,,,,
+narrative,moor pier 3 Treasure Island,1945-07-25,1500,T,37-49N,122-22W,rg367-77477470/p06,"""We arrived at Treasure Island at 1500 and moored to pier 3."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-07-27,0800,T,37-49N,122-22W,rg367-77477470/p06,"(port position) The 0800 table entry reads ""Pier 3, Treasure Island""; 0826 underway for area H-5 (PCTC Op Order of 26 July).",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-07-27,1200,T,37-44N,123-18W,rg367-77477470/p06,,yes,,,,,
+diary,,1945-07-27,2000,T,37-45N,123-40W,rg367-77477470/p06,,yes,,,,,
+diary,,1945-07-28,0800,T,37-48N,122-53W,rg367-77477470/p06,Areas H-5 and H-3; torpedo firing cancelled for fog,yes,,,,,
+diary,,1945-07-28,1200,T,37-56N,123-04W,rg367-77477470/p06,,yes,,,,,
+narrative,moor pier 3 Treasure Island,1945-07-28,1623,T,37-49N,122-22W,rg367-77477470/p06,"""We returned to base at pier 3, Treasure Island, at 1623."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-07-30,0800,T,37-49N,122-22W,rg367-77477470/p07,"(port position) The 0800 table entry reads ""Pier 3, Treasure Island""; 0829 underway for Pyramid Cove, San Clemente (PCTC 0400 of 28 July).",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-07-30,1200,T,37-14N,123-11W,rg367-77477470/p07,,yes,,,,,
+diary,,1945-07-30,2000,T,34-37N,121-47W,rg367-77477470/p07,,yes,,,,,
+diary,,1945-07-31,0800,T,32-48N,118-23W,rg367-77477470/p07,"Arrived Pyramid Cove at 0637; shore bombardment exercises, ""The ship qualified in these exercises.""",yes,,,,,
+diary,,1945-07-31,1200,T,32-47N,118-22W,rg367-77477470/p07,,yes,,,,,
+diary,,1945-07-31,2000,T,32-47N,118-22W,rg367-77477470/p07,,yes,,,,,
+diary,,1945-08-01,0800,T,34-58N,121-28W,rg367-83577147/p02,"Steaming singly en route San Clemente to Treasure Island. ""Present assignment of this ship is training destroyers for P.C.T.C."" ""Time Zone + 7.""",yes,,,,,
+diary,,1945-08-01,1200,T,36-43N,122-34W,rg367-83577147/p02,,yes,,,,,
+narrative,moor pier 3 Treasure Island,1945-08-01,1905,T,37-49N,122-22W,rg367-83577147/p02,"""At 1905 We arrived at Treasure Island and moored to pier #3."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-08-03,0800,T,37-49N,122-22W,rg367-83577147/p02,"(port position) The 0800 table entry reads ""Pier #3, Treasure Island""; 0805 underway for area H-5.",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-08-03,1200,T,37-53N,123-40W,rg367-83577147/p02,,yes,,,,,
+diary,,1945-08-03,2000,T,38-00N,123-53W,rg367-83577147/p02,,yes,,,,,
+diary,,1945-08-04,0800,T,37-48N,122-53W,rg367-83577147/p02,Areas H-5 and H-3; three exercise torpedoes fired,yes,,,,,
+event,San Francisco Bay,1945-08-04,1200,T,,,rg367-83577147/p02,"The 1200 table entry is ""San Francisco Bay, Calif."", no position: placed by interpolation.",no,,,,,
+narrative,return pier 3 Treasure Island,1945-08-04,1232,T,37-49N,122-22W,rg367-83577147/p02,"""returned to base at pier #3 Treasure Island at 1232."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-08-06,0800,T,37-49N,122-22W,rg367-83577147/p02,"(port position) The 0800 table entry reads ""Pier #3, Treasure Island""; 0829 underway for San Clemente (CTG 14.5 Op Order 21-45 of 4 August).",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-08-06,1200,T,37-14N,123-08W,rg367-83577147/p02,,yes,,,,,
+diary,,1945-08-06,2000,T,35-05N,122-07W,rg367-83577147/p02,The hyphen in 35-05 is struck over by a stray mark on the scan; read 35-05,yes,,,,,
+diary,,1945-08-07,0800,T,33-02N,119-02W,rg367-83577147/p03,Steaming singly to San Clemente,yes,,,,,
+diary,,1945-08-07,1200,T,33-01N,118-33W,rg367-83577147/p03,1117 anchored at Wilson Cove to pick up trainee passengers; 1210 underway for San Francisco,yes,,,,,
+diary,,1945-08-07,2000,T,34-13N,120-57W,rg367-83577147/p03,,yes,,,,,
+diary,,1945-08-08,0800,T,37-41N,123-30W,rg367-83577147/p03,,yes,,,,,
+diary,,1945-08-08,1200,T,38-40N,123-10W,rg367-83577147/p03,,yes,,,,,
+narrative,moor pier 3 Treasure Island,1945-08-08,1416,T,37-49N,122-22W,rg367-83577147/p03,"""At 1416 we moored at pier #3 Treasure Island, Calif."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-08-10,0800,T,37-49N,122-22W,rg367-83577147/p03,"(port position) The 0800 table entry reads ""Pier #3, Treasure Island""; 0808 underway for area H-5.",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-08-10,1200,T,37-57N,123-36W,rg367-83577147/p03,,yes,,,,,
+diary,,1945-08-10,2000,T,38-04N,123-56W,rg367-83577147/p03,,yes,,,,,
+diary,,1945-08-11,0800,T,37-39N,123-16W,rg367-83577147/p03,In area H-5,yes,,,,,
+diary,,1945-08-11,1200,T,37-40N,123-27W,rg367-83577147/p03,,yes,,,,,
+narrative,return pier 3 Treasure Island,1945-08-11,1550,T,37-49N,122-22W,rg367-83577147/p03,"""Returned to base at 1550. (The third table entry is typed ""2600"" for 2000: ""Pier #3, Treasure Island, Calif."")"" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-08-13,0800,T,37-49N,122-22W,rg367-83577147/p04,"(port position) The 0800 table entry reads ""Pier #3, Treasure Island""; 0830 underway for San Clemente for trainee exercises.",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-08-13,1200,T,37-13N,123-09W,rg367-83577147/p04,,yes,,,,,
+diary,,1945-08-13,2000,T,34-58N,122-05W,rg367-83577147/p04,,yes,,,,,
+diary,,1945-08-14,0800,T,32-59N,119-02W,rg367-83577147/p04,Steaming singly to San Clemente,yes,,,,,
+diary,,1945-08-14,1200,T,33-09N,118-49W,rg367-83577147/p04,1045 anchored in Wilson Cove to transfer passengers; 1110 underway for Treasure Island,yes,,,,,
+diary,,1945-08-14,2000,T,34-34N,121-08W,rg367-83577147/p04,,yes,,,,,
+diary,,1945-08-15,0800,T,33-30N,123-10W,rg367-83577147/p04,The longitude has a damaged first digit on the scan (1?3); read 123-10. Moored at pier 3 at 1142 the same morning,yes,37-30N,,,,"33-30N is about 250 nm from Treasure Island, where she moored at 1142 (3.7 hours later); 37-30N fits her arrival. The same 33-for-37 slip may be on 18 Aug 0800 and 30 Aug 1200. Inferred, one digit; the typed value is kept"
+narrative,moor pier 3 Treasure Island,1945-08-15,1142,T,37-49N,122-22W,rg367-83577147/p04,"""1142 Moored to pier #3, Treasure Island, Calif."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-08-17,0800,T,37-49N,122-22W,rg367-83577147/p04,"(port position) The 0800 table entry reads ""Pier #3, Treasure Island""; 0830 underway for area H-5, remained in the area overnight.",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-08-17,1200,T,37-41N,122-57W,rg367-83577147/p04,,yes,,,,,
+diary,,1945-08-17,2000,T,37-55N,124-01W,rg367-83577147/p04,,yes,,,,,
+diary,,1945-08-18,0800,T,34-52N,122-57W,rg367-83577147/p05,Steaming singly in area H-5. The 1200 table entry is blank,yes,,,,,
+narrative,moor pier 3 Treasure Island,1945-08-18,1425,T,37-49N,122-22W,rg367-83577147/p05,"""We returned to base at 1425 and moored to pier #3, Treasure Island, Calif."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-08-20,0800,T,37-49N,122-22W,rg367-83577147/p05,"(port position) The 0800 table entry reads ""Pier #3, Treasure Island""; 0830 underway for the exercise area (PCTC 18-30 of August 1945).",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-08-20,1200,T,37-47N,123-15W,rg367-83577147/p05,,yes,,,,,
+diary,,1945-08-20,2000,T,37-55N,124-02W,rg367-83577147/p05,,yes,,,,,
+diary,,1945-08-21,0800,T,37-58N,124-28W,rg367-83577147/p05,"In area H-5, AA firing runs",yes,,,,,
+diary,,1945-08-21,1200,T,37-56N,123-49W,rg367-83577147/p05,,yes,,,,,
+diary,,1945-08-21,2000,T,37-44N,124-46W,rg367-83577147/p05,,yes,,,,,
+diary,,1945-08-22,0800,T,37-46N,123-29W,rg367-83577147/p05,With USS ARLINGTON in the San Francisco exercise area,yes,,,,,
+diary,,1945-08-22,1200,T,37-44N,122-59W,rg367-83577147/p05,,yes,,,,,
+narrative,moor pier 3 Treasure Island,1945-08-22,1350,T,37-49N,122-22W,rg367-83577147/p05,"""At 1350 Moored to pier #3, Treasure Island, Calif."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-08-24,0800,T,37-49N,122-22W,rg367-83577147/p06,"(port position) The 0800 table entry reads ""Pier #3, Treasure Island""; 0830 underway for area How-5, remained there overnight.",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-08-24,1200,T,37-44N,122-29W,rg367-83577147/p06,,yes,,,,,
+diary,,1945-08-24,2000,T,37-57N,123-55W,rg367-83577147/p06,,yes,,,,,
+diary,,1945-08-25,0800,T,37-47N,122-53W,rg367-83577147/p06,0830 rendezvous with PC776 for torpedo firing exercises,yes,,,,,
+diary,,1945-08-25,1200,T,37-48N,122-54W,rg367-83577147/p06,,yes,,,,,
+narrative,return pier 3 Treasure Island,1945-08-25,1428,T,37-49N,122-22W,rg367-83577147/p06,"""returned to pier #3, Treasure Island, Calif. at 1428."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,table: pier 3,1945-08-27,0800,T,37-49N,122-22W,rg367-83577147/p06,"(port position) The 0800 table entry reads ""Pier #3, Treasure Island""; 0825 underway for Wilson Cove, San Clemente.",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-08-27,1200,T,37-14N,123-10W,rg367-83577147/p06,,yes,,,,,
+diary,,1945-08-27,2000,T,35-07N,123-11W,rg367-83577147/p06,,yes,,,,,
+diary,,1945-08-28,0800,T,33-00N,119-20W,rg367-83577147/p06,Steaming singly to Wilson Cove; 1246 anchored and picked up passengers; 1307 underway for Treasure Island,yes,,,,,
+diary,,1945-08-28,1200,T,33-01N,118-33W,rg367-83577147/p06,,yes,,,,,
+diary,,1945-08-28,2000,T,34-37N,130-57W,rg367-83577147/p06,1307 underway from Wilson Cove for Treasure Island,yes,,120-57W,,,130-57W is 600 nm from the 1200 fix (8 hours earlier); 120-57W (one digit) fits it and is the 2000 longitude of 7 Aug on the same leg. Inferred
+diary,,1945-08-29,0800,T,37-58N,123-50W,rg367-83577147/p06,,yes,,,,,
+diary,,1945-08-29,1200,T,38-01N,123-51W,rg367-83577147/p06,The time is typed with an overstrike (read 1200),yes,,,,,
+diary,,1945-08-29,2000,T,38-01N,123-51W,rg367-83577147/p06,"Typed the same as the 1200 row, but the narrative has her moored at pier 3, Treasure Island, from 1728 (p07); kept as typed, off the track",no,,,,,
+narrative,moor pier 3 Treasure Island,1945-08-29,1728,T,37-49N,122-22W,rg367-83577147/p07,"""1728 Moored to pier #3, Treasure Island, Calif."" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-08-30,0800,T,37-53N,122-59W,rg367-83577147/p07,0610 underway for exercise areas (ComWesSeaFront op order of 27 August),yes,,,,,
+diary,,1945-08-30,1200,T,33-06N,123-23W,rg367-83577147/p07,"4 hours after 37-53N 122-59W: 280 nm, 70 kn. 37-06N would fit (the same 33-for-37 slip as 15 Aug) but nothing else on the page says so; kept as typed, off the track",no,,,,,
+narrative,table: pier 3,1945-08-30,2000,T,37-49N,122-22W,rg367-83577147/p07,"(port position) The 2000 table entry reads ""Pier #3, Treasure Island""; ""after completing scheduled drills, we returned to base"" (no time).",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+narrative,underway for Pearl Harbor,1945-09-05,1258,T,37-49N,122-22W,rg367-77516593/p02,"""1258 Underway singly enroute to Pearl Harbor, T.H., as ordered by Commander Western Sea Frontier Movement #745-C&C. (Moored to Pier #16, Treasure Island, 1-5 Sept, ""Time zone, + 7"".)"" (port position)",yes,,,,,Treasure Island coordinates are not in the diary; standard harbour position used
+diary,,1945-09-05,2000,T,36-59N,124-19W,rg367-77516593/p02,,yes,,,,,
+diary,,1945-09-06,0800,T,35-40N,127-34W,rg367-77516593/p02,Steaming singly to Pearl Harbor; 1830 clocks set back to +7½ (TU from there),yes,,,,,
+diary,,1945-09-06,1200,T,35-19.33N,128-41W,rg367-77516593/p02,"Typed 35°19'20""N: seconds written as decimal minutes (20"" = 0.33')",yes,,,,,
+diary,,1945-09-06,2000,TU,34-35.08N,131-11W,rg367-77516593/p02,"Typed 34°35'05""N (the page prints 05'): read as 5 seconds, 0.08'",yes,,,,,
+diary,,1945-09-07,0800,TU,33-18N,134-34W,rg367-77516593/p02,1830 clocks set back to +8 (U from there),yes,,,,,
+diary,,1945-09-07,1200,TU,32-45N,135-37W,rg367-77516593/p02,,yes,,,,,
+diary,,1945-09-07,2000,U,32-01N,135-47W,rg367-77516593/p02,,yes,,,,,
+diary,,1945-09-08,0800,U,30-40N,141-03W,rg367-77516593/p02,1830 clocks set back to +8½ (UV from there); AA firing at balloons in the afternoon,yes,,,,,
+diary,,1945-09-08,1200,U,30-12N,142-05W,rg367-77516593/p02,The 5 of 142°05' is struck over on the scan; read 05,yes,,,,,
+diary,,1945-09-08,2000,UV,29-05N,143-58W,rg367-77516593/p02,,yes,,,,,
+diary,,1945-09-09,0800,UV,27-41N,146-59W,rg367-77516593/p03,1830 clocks set back to +9 (V from there),yes,,,,,
+diary,,1945-09-09,1200,UV,27-13N,148-06W,rg367-77516593/p03,,yes,,,,,
+diary,,1945-09-09,2000,V,26-08N,150-08W,rg367-77516593/p03,,yes,,,,,
+diary,,1945-09-10,0800,V,24-30N,152-58W,rg367-77516593/p03,1830 clocks set back to +9½ (VW from there),yes,,,,,
+diary,,1945-09-10,1200,V,23-57N,153-55W,rg367-77516593/p03,,yes,,,,,
+diary,,1945-09-10,2000,VW,22-54N,155-47W,rg367-77516593/p03,,yes,,,,,
+diary,,1945-09-11,0800,VW,21-45N,157-31W,rg367-77516593/p03,AA firing at a sleeve in the forenoon,yes,,,,,
+diary,,1945-09-11,1200,VW,21-15N,157-46W,rg367-77516593/p03,,yes,,,,,
+narrative,moor berth D-1 Pearl Harbor,1945-09-11,1352,VW,21-21N,157-58W,rg367-77516593/p03,"""1352 Moored alongside USS McKee (DD575) in berth D-1, Middle Lock, Pearl Harbor, T.H."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1945-09-13,0800,VW,21-15N,157-56W,rg367-77516593/p03,Underway from berth D-1 for area V-II (radar and air-burst calibration),yes,,,,,
+diary,,1945-09-13,1200,VW,21-22N,157-40W,rg367-77516593/p03,,yes,,,,,
+diary,,1945-09-13,2000,VW,20-37N,157-55W,rg367-77516593/p03,,yes,,,,,
+diary,,1945-09-14,0800,VW,21-36N,157-29W,rg367-77516593/p04,"AA exercises, then shore bombardment exercise on Kahoolawe Island; steaming singly south of Kahoolawe at night",yes,,,,,
+diary,,1945-09-14,1200,VW,21-29N,156-52W,rg367-77516593/p04,,yes,,,,,
+diary,,1945-09-14,2000,VW,20-28N,156-44W,rg367-77516593/p04,,yes,,,,,
+diary,,1945-09-15,0800,VW,20-30N,156-43W,rg367-77516593/p04,"Returned to Kahoolawe, completed the bombardment exercise; AA firing with USS LOFBERG",yes,,,,,
+diary,,1945-09-15,1200,VW,20-36N,157-03W,rg367-77516593/p04,,yes,,,,,
+narrative,moor berth X-20 Pearl Harbor,1945-09-15,1740,VW,21-21N,157-58W,rg367-77516593/p04,"""Moored in Berth X-20, Middle Lock, Pearl Harbor, T.H. at 1740."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway X-20 Pearl Harbor,1945-09-19,0758,VW,21-21N,157-58W,rg367-77516593/p04,"""Underway at 0758 from berth X-20, Middle Lock ... radar calibration in operational training area S-1 in the forenoon. Returned to port in the afternoon and moored in berth X-22."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway D-1 Pearl Harbor,1945-09-23,0707,VW,21-21N,157-58W,rg367-77516593/p05,"""Underway from berth D-1 Middle Lock, Pearl Harbor, T.H. at 0707. Conducted fade chart calibration, radar calibration and AA tracking exercise with USS LOFBERG."" (port position) The heading types ""Monday 23 September 1945""; Monday was the 24th (the entry before is 21 to 23 September), so the date is written 24 September (date assumed from the weekday).",yes,,,1945-09-24,,"Pearl Harbor coordinates are not in the diary; standard harbour position used; Heading types ""Monday, 23 September""; Monday was 24 September (the entry before is 21-23 September, and 25 September is a Tuesday). Date read from the weekday"
+diary,,1945-09-23,0800,VW,21-14N,157-56W,rg367-77516593/p05,"Heading types ""23 September"" for Monday; date written 24 September from the weekday",yes,,,1945-09-24,,"Heading types ""Monday, 23 September""; Monday was 24 September (the entry before is 21-23 September, and 25 September is a Tuesday). Date read from the weekday"
+diary,,1945-09-23,1200,VW,20-33N,158-00W,rg367-77516593/p05,,yes,,,1945-09-24,,"Heading types ""Monday, 23 September""; Monday was 24 September (the entry before is 21-23 September, and 25 September is a Tuesday). Date read from the weekday"
+diary,,1945-09-23,2000,VW,20-36N,157-52W,rg367-77516593/p05,,yes,,,1945-09-24,,"Heading types ""Monday, 23 September""; Monday was 24 September (the entry before is 21-23 September, and 25 September is a Tuesday). Date read from the weekday"
+diary,,1945-09-25,0800,VW,20-39N,157-41N,rg367-77516593/p05,Steaming with USS LOFBERG; AA firing in the forenoon,yes,,157-41W,,,"The longitude is typed with the hemisphere letter N (157°41'N); W is read, as every other fix is in west longitude and it fits the 1200 fix (157-13W)"
+diary,,1945-09-25,1200,VW,20-38N,157-13W,rg367-77516593/p05,,yes,,,,,
+narrative,moor berth D-1 Pearl Harbor,1945-09-25,1800,VW,21-21N,157-58W,rg367-77516593/p05,"""Moored in berth D-1, Middle Lock, Pearl Harbor, T.H., at 1800."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway D-1 Pearl Harbor,1945-09-27,0634,VW,21-21N,157-58W,rg367-77516593/p05,"""Underway from Berth D-1 ... anti-submarine practice with USS GURKE (DD783) and the submarine MENHADEN. Return to port in the late afternoon and moored in berth D-1."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1945-09-28,0800,VW,21-08N,157-51W,rg367-77516593/p06,"0640 underway from berth D-1; five torpedoes fired at the target vessel RICHARD WARD (DE243), the last one lost",yes,,,,,
+diary,,1945-09-28,1200,VW,21-09N,157-51W,rg367-77516593/p06,,yes,,,,,
+narrative,underway Pearl Harbor,1945-10-02,0738,VW,21-21N,157-58W,rg367-77558379/p02,"""Underway at 0738 for operational training area S-1 for gunnery exercise. Moored in berth X-21 Middle Loch."" (port position) October types no zone and no clock change; VW (+9½) is carried from the September diary (assumed).",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1945-10-02,1200,VW,21-12N,157-57W,rg367-77558379/p02,,yes,,,,,
+diary,,1945-10-08,0800,VW,21-05N,158-01W,rg367-77558379/p02,Radar calibration exercise for gunnery school students in area C-10,yes,,,,,
+diary,,1945-10-08,1200,VW,20-52N,158-06W,rg367-77558379/p02,,yes,,,,,
+diary,,1945-10-10,1200,VW,20-48N,158-15W,rg367-77558379/p02,AA firing exercise for gunnery school students in area C-10,yes,,,,,
+narrative,underway rendezvous Bunker Hill,1945-10-11,1653,VW,21-21N,157-58W,rg367-77558379/p03,"""At 1653 underway after transferring student officers and instructors for rendezvous with USS Bunker Hill (CV17)."" (port position) The 1758 rendezvous (station 1180, as typed) is below.",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+event,rendezvous Bunker Hill,1945-10-11,1758,VW,,,rg367-77558379/p03,"""1758 Rendezvoused with the USS Bunker Hill and took station 1180."" (typed ""station1180""). Placed by interpolation.",no,,,,,
+diary,,1945-10-11,0800,VW,21-07N,158-59W,rg367-77558379/p03,"The table (0800, 1200, 2000) is on the continuation page; the narrative of the day has her moored in berth X-21 and under way at 1653, so the early positions are those of the exercise area (area C-10)",yes,,,,,
+diary,,1945-10-11,1200,VW,20-45N,158-50W,rg367-77558379/p03,,yes,,,,,
+diary,,1945-10-11,2000,VW,20-43N,158-16W,rg367-77558379/p03,,yes,,,,,
+diary,,1945-10-12,0800,VW,20-16N,159-22W,rg367-77558379/p03,Steaming with USS BUNKER HILL acting as plane guard,yes,,,,,
+diary,,1945-10-12,1200,VW,19-59N,159-24W,rg367-77558379/p03,,yes,,,,,
+diary,,1945-10-12,2000,VW,20-16.5N,159-16.5W,rg367-77558379/p03,"Typed with decimal minutes (20° 16.5 N, 159° 16.5' W)",yes,,,,,
+diary,,1945-10-13,0800,VW,20-36N,158-38W,rg367-77558379/p03,"With BUNKER HILL, plane guard",yes,,,,,
+event,rescued pilot,1945-10-13,1323,VW,,,rg367-77558379/p03,"""At 1323 rescued pilot who made a water landing."" No position: placed by interpolation.",no,,,,,
+diary,,1945-10-13,1200,VW,20-36N,158-24W,rg367-77558379/p03,,yes,,,,,
+diary,,1945-10-13,2000,VW,20-39N,158-36W,rg367-77558379/p03,,yes,,,,,
+diary,,1945-10-14,0800,VW,20-27N,159-02W,rg367-77558379/p03,With BUNKER HILL; AA firing; USS LAFFEY (DD724) joined for a night launching exercise; ship detached at 2226,yes,,,,,
+diary,,1945-10-14,1200,VW,20-40N,159-23W,rg367-77558379/p03,,yes,,,,,
+diary,,1945-10-14,2000,VW,20-01N,158-40W,rg367-77558379/p03,,yes,,,,,
+diary,,1945-10-15,0800,VW,20-20N,158-47W,rg367-77558379/p03,Detached by BUNKER HILL,yes,,,,,
+narrative,moor berth X-23 Pearl Harbor,1945-10-15,1350,VW,21-21N,157-58W,rg367-77558379/p03,"""Detached by the USS Bunker Hill (CV17) and moored in berth X-23, Middle Loch, Pearl Harbor, T.H. at 1350."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1945-10-18,0604,VW,21-21N,157-58W,rg367-77558379/p04,"""Underway at 0604 for operational training area V-3E. Conducted ASW exercise with Parda (SS264) and USS Eberle (DD430)."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,moor berth X-21 Pearl Harbor,1945-10-18,1731,VW,21-21N,157-58W,rg367-77558379/p04,"""Moored at berth X-21, Middle Loch, Pearl Harbor, T.H. at 1731."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1945-10-25,2000,VW,21-02N,157-57.5W,rg367-77558379/p04,"1700 underway for Kahului, Maui, under ComDesPac Flt Orders 232391; typed 157° 57.5' W",yes,,,,,
+narrative,moor Kahului,1945-10-26,0807,VW,20-54N,156-28W,rg367-77558379/p04,"""Moored in Kahului Harbor, Maui, T.H. at 0807."" (port position)",yes,,,,,Kahului coordinates are not in the diary; standard harbour position used
+narrative,underway Kahului,1945-10-28,1720,VW,20-54N,156-28W,rg367-77558379/p04,"""Underway at 1720 enroute to Pearl Harbor, T.H."" (port position)",yes,,,,,Kahului coordinates are not in the diary; standard harbour position used
+diary,,1945-10-28,2000,VW,21-05N,156-38.65W,rg367-77558379/p04,"Typed 156° 38' 39"" W: seconds written as decimal minutes (39"" = 0.65')",yes,,,,,
+narrative,moor berth X-23 Pearl Harbor,1945-10-29,0928,VW,21-21N,157-58W,rg367-77558379/p05,"""Moored in berth X-23, Middle Loch, Pearl Harbor, T.H. at 0928."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1945-10-30,1725,VW,21-21N,157-58W,rg367-77558379/p05,"""Underway at 1725 for operational training area M-30 ... to rendezvous with USS Cape Gloucester (CVE 109)."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1945-10-30,2000,VW,21-14.25N,158-09.75W,rg367-77558379/p05,"Typed 21° 14' 15"" N, 158° 09' 45"" W: seconds written as decimal minutes",yes,,,,,
+event,rendezvous Cape Gloucester,1945-10-31,0535,VW,,,rg367-77558379/p05,"""Effected rendezvous at 0535 and took plane guard station."" Placed by interpolation.",no,,,,,
+diary,,1945-10-31,0800,VW,21-71.5N,158-21.5W,rg367-77558379/p05,"Typed 21° 71' 30"" N, 158° 21' 30"" W: 71 minutes cannot be. ""Duties completed at 0800. Returned to port and moored in berth X-23."" Kept as typed, off the track; 21-17.5N (digits transposed) fits the 2000 fix and the harbour, but so would other readings",no,,,,,

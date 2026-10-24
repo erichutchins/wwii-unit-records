@@ -7,7 +7,7 @@
     "kind": "track",
     "patrol": 1,
     "start": "1944-11-01T16:12Z",
-    "end": "1945-07-01T03:42Z"
+    "end": "1945-10-31T05:30Z"
    },
    "geometry": {
     "type": "LineString",
@@ -1651,6 +1651,814 @@
      [
       -122.2667,
       38.0667
+     ],
+     [
+      -122.2667,
+      38.0667
+     ],
+     [
+      -123.3833,
+      37.3667
+     ],
+     [
+      -122.5833,
+      34.7667
+     ],
+     [
+      -118.6833,
+      32.5333
+     ],
+     [
+      -117.1667,
+      32.7
+     ],
+     [
+      -117.3333,
+      32.5833
+     ],
+     [
+      -117.9667,
+      32.35
+     ],
+     [
+      -117.7333,
+      32.5333
+     ],
+     [
+      -117.7833,
+      32.5333
+     ],
+     [
+      -117.8833,
+      32.4333
+     ],
+     [
+      -117.1667,
+      32.7
+     ],
+     [
+      -117.1667,
+      32.7
+     ],
+     [
+      -117.4167,
+      32.5333
+     ],
+     [
+      -117.8333,
+      32.3333
+     ],
+     [
+      -117.1667,
+      32.7
+     ],
+     [
+      -117.6167,
+      32.5333
+     ],
+     [
+      -117.8333,
+      32.5667
+     ],
+     [
+      -117.8,
+      32.55
+     ],
+     [
+      -118.3833,
+      32.8167
+     ],
+     [
+      -118.3833,
+      32.8167
+     ],
+     [
+      -118.3833,
+      32.8167
+     ],
+     [
+      -117.5,
+      32.8
+     ],
+     [
+      -117.5333,
+      33.0167
+     ],
+     [
+      -117.7167,
+      33.15
+     ],
+     [
+      -117.7167,
+      32.0667
+     ],
+     [
+      -117.85,
+      31.9833
+     ],
+     [
+      -117.1667,
+      32.7
+     ],
+     [
+      -117.4333,
+      32.5333
+     ],
+     [
+      -117.6,
+      32.4333
+     ],
+     [
+      -117.1667,
+      32.7
+     ],
+     [
+      -117.35,
+      32.5667
+     ],
+     [
+      -117.9,
+      32.55
+     ],
+     [
+      -117.1667,
+      32.7
+     ],
+     [
+      -117.5667,
+      32.55
+     ],
+     [
+      -118.0,
+      32.5333
+     ],
+     [
+      -117.1667,
+      32.7
+     ],
+     [
+      -117.2333,
+      32.7
+     ],
+     [
+      -118.45,
+      32.8333
+     ],
+     [
+      -120.85,
+      34.0167
+     ],
+     [
+      -122.8,
+      36.9833
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.6,
+      37.7667
+     ],
+     [
+      -123.7333,
+      37.1
+     ],
+     [
+      -123.95,
+      37.9667
+     ],
+     [
+      -123.5667,
+      37.7667
+     ],
+     [
+      -123.9167,
+      38.0167
+     ],
+     [
+      -123.9667,
+      37.8667
+     ],
+     [
+      -123.65,
+      37.7167
+     ],
+     [
+      -122.3833,
+      37.8
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -123.1,
+      37.4
+     ],
+     [
+      -122.25,
+      35.3667
+     ],
+     [
+      -119.2,
+      32.8833
+     ],
+     [
+      -118.7333,
+      33.0167
+     ],
+     [
+      -120.8667,
+      34.15
+     ],
+     [
+      -123.45,
+      37.6167
+     ],
+     [
+      -123.3333,
+      37.8667
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -123.3,
+      37.7333
+     ],
+     [
+      -123.6667,
+      37.75
+     ],
+     [
+      -122.8833,
+      37.8
+     ],
+     [
+      -123.0667,
+      37.9333
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -123.1833,
+      37.2333
+     ],
+     [
+      -121.7833,
+      34.6167
+     ],
+     [
+      -118.3833,
+      32.8
+     ],
+     [
+      -118.3667,
+      32.7833
+     ],
+     [
+      -118.3667,
+      32.7833
+     ],
+     [
+      -121.4667,
+      34.9667
+     ],
+     [
+      -122.5667,
+      36.7167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -123.6667,
+      37.8833
+     ],
+     [
+      -123.8833,
+      38.0
+     ],
+     [
+      -122.8833,
+      37.8
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -123.1333,
+      37.2333
+     ],
+     [
+      -122.1167,
+      35.0833
+     ],
+     [
+      -119.0333,
+      33.0333
+     ],
+     [
+      -118.55,
+      33.0167
+     ],
+     [
+      -120.95,
+      34.2167
+     ],
+     [
+      -123.5,
+      37.6833
+     ],
+     [
+      -123.1667,
+      38.6667
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -123.6,
+      37.95
+     ],
+     [
+      -123.9333,
+      38.0667
+     ],
+     [
+      -123.2667,
+      37.65
+     ],
+     [
+      -123.45,
+      37.6667
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -123.15,
+      37.2167
+     ],
+     [
+      -122.0833,
+      34.9667
+     ],
+     [
+      -119.0333,
+      32.9833
+     ],
+     [
+      -118.8167,
+      33.15
+     ],
+     [
+      -121.1333,
+      34.5667
+     ],
+     [
+      -123.1667,
+      37.5
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.95,
+      37.6833
+     ],
+     [
+      -124.0167,
+      37.9167
+     ],
+     [
+      -122.95,
+      34.8667
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -123.25,
+      37.7833
+     ],
+     [
+      -124.0333,
+      37.9167
+     ],
+     [
+      -124.4667,
+      37.9667
+     ],
+     [
+      -123.8167,
+      37.9333
+     ],
+     [
+      -124.7667,
+      37.7333
+     ],
+     [
+      -123.4833,
+      37.7667
+     ],
+     [
+      -122.9833,
+      37.7333
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.4833,
+      37.7333
+     ],
+     [
+      -123.9167,
+      37.95
+     ],
+     [
+      -122.8833,
+      37.7833
+     ],
+     [
+      -122.9,
+      37.8
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -123.1667,
+      37.2333
+     ],
+     [
+      -123.1833,
+      35.1167
+     ],
+     [
+      -119.3333,
+      33.0
+     ],
+     [
+      -118.55,
+      33.0167
+     ],
+     [
+      -120.95,
+      34.6167
+     ],
+     [
+      -123.8333,
+      37.9667
+     ],
+     [
+      -123.85,
+      38.0167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.9833,
+      37.8833
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -122.3667,
+      37.8167
+     ],
+     [
+      -124.3167,
+      36.9833
+     ],
+     [
+      -127.5667,
+      35.6667
+     ],
+     [
+      -128.6833,
+      35.3222
+     ],
+     [
+      -131.1833,
+      34.5847
+     ],
+     [
+      -134.5667,
+      33.3
+     ],
+     [
+      -135.6167,
+      32.75
+     ],
+     [
+      -135.7833,
+      32.0167
+     ],
+     [
+      -141.05,
+      30.6667
+     ],
+     [
+      -142.0833,
+      30.2
+     ],
+     [
+      -143.9667,
+      29.0833
+     ],
+     [
+      -146.9833,
+      27.6833
+     ],
+     [
+      -148.1,
+      27.2167
+     ],
+     [
+      -150.1333,
+      26.1333
+     ],
+     [
+      -152.9667,
+      24.5
+     ],
+     [
+      -153.9167,
+      23.95
+     ],
+     [
+      -155.7833,
+      22.9
+     ],
+     [
+      -157.5167,
+      21.75
+     ],
+     [
+      -157.7667,
+      21.25
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9333,
+      21.25
+     ],
+     [
+      -157.6667,
+      21.3667
+     ],
+     [
+      -157.9167,
+      20.6167
+     ],
+     [
+      -157.4833,
+      21.6
+     ],
+     [
+      -156.8667,
+      21.4833
+     ],
+     [
+      -156.7333,
+      20.4667
+     ],
+     [
+      -156.7167,
+      20.5
+     ],
+     [
+      -157.05,
+      20.6
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9333,
+      21.2333
+     ],
+     [
+      -158.0,
+      20.55
+     ],
+     [
+      -157.8667,
+      20.6
+     ],
+     [
+      -157.6833,
+      20.65
+     ],
+     [
+      -157.2167,
+      20.6333
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.85,
+      21.1333
+     ],
+     [
+      -157.85,
+      21.15
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.95,
+      21.2
+     ],
+     [
+      -158.0167,
+      21.0833
+     ],
+     [
+      -158.1,
+      20.8667
+     ],
+     [
+      -158.25,
+      20.8
+     ],
+     [
+      -158.9833,
+      21.1167
+     ],
+     [
+      -158.8333,
+      20.75
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -158.2667,
+      20.7167
+     ],
+     [
+      -159.3667,
+      20.2667
+     ],
+     [
+      -159.4,
+      19.9833
+     ],
+     [
+      -159.275,
+      20.275
+     ],
+     [
+      -158.6333,
+      20.6
+     ],
+     [
+      -158.4,
+      20.6
+     ],
+     [
+      -158.6,
+      20.65
+     ],
+     [
+      -159.0333,
+      20.45
+     ],
+     [
+      -159.3833,
+      20.6667
+     ],
+     [
+      -158.6667,
+      20.0167
+     ],
+     [
+      -158.7833,
+      20.3333
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9583,
+      21.0333
+     ],
+     [
+      -156.4667,
+      20.9
+     ],
+     [
+      -156.4667,
+      20.9
+     ],
+     [
+      -156.6442,
+      21.0833
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -158.1625,
+      21.2375
      ]
     ]
    }
@@ -12610,6 +13418,4915 @@
     "coordinates": [
      -122.2667,
      38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Mare Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-04T14:04Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-07-04 0704(T)",
+    "page": "rg367-77477470/p02",
+    "note": "\"0704 Underway for San Diego, California, in accordance with CWSFT orders of 3 July 1945, for refresher shakedown training.\" (port position) Time zone +7 is typed on 1-3 July (\"Time zone t 7\"); T is written for the month.",
+    "fix": "Mare Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: Mare Island Navy Yard",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-07-04T15:00Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "122-16W",
+    "local": "1945-07-04 0800(T)",
+    "page": "rg367-77477470/p02",
+    "note": "(port position) The 0800 table entry is the words \"Mare Island, Navy Yard\", but the narrative has her under way at 0704; kept as a port row, off the track.",
+    "fix": "Mare Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2667,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-04T19:00Z",
+    "lat_raw": "37-22N",
+    "lon_raw": "123-23W",
+    "local": "1945-07-04 1200(T)",
+    "page": "rg367-77477470/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.3833,
+     37.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-05T03:00Z",
+    "lat_raw": "34-46N",
+    "lon_raw": "122-35W",
+    "local": "1945-07-04 2000(T)",
+    "page": "rg367-77477470/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5833,
+     34.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-05T15:00Z",
+    "lat_raw": "32-32N",
+    "lon_raw": "118-41W",
+    "local": "1945-07-05 0800(T)",
+    "page": "rg367-77477470/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.6833,
+     32.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "swept channel San Diego",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-07-05T19:00Z",
+    "lat_raw": "~32-39N",
+    "lon_raw": "~117-35W",
+    "local": "1945-07-05 1200(T)",
+    "page": "rg367-77477470/p02",
+    "note": "The 1200 table entry is \"In swept channel to San Diego Bay\", no position: placed by interpolation. \"1130 Entered swept channel to San Diego Bay.\"",
+    "fix": "position assumed: interpolated between the 05 Jul 1500Z and 05 Jul 2032Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5875,
+     32.6556
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor buoy 8 San Diego",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-05T20:32Z",
+    "lat_raw": "32-42N",
+    "lon_raw": "117-10W",
+    "local": "1945-07-05 1332(T)",
+    "page": "rg367-77477470/p02",
+    "note": "\"1332 Moored to Buoy 8, San Diego Bay, California.\" (port position)",
+    "fix": "San Diego Bay coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1667,
+     32.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-06T15:00Z",
+    "lat_raw": "32-35N",
+    "lon_raw": "117-20W",
+    "local": "1945-07-06 0800(T)",
+    "page": "rg367-77477470/p02",
+    "note": "0655 underway for OpArea II 9 with FRANKS, COGHLAN and STANSBURY, refresher shakedown training",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.3333,
+     32.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-06T19:00Z",
+    "lat_raw": "32-21N",
+    "lon_raw": "117-58W",
+    "local": "1945-07-06 1200(T)",
+    "page": "rg367-77477470/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9667,
+     32.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-07T03:00Z",
+    "lat_raw": "32-32N",
+    "lon_raw": "117-44W",
+    "local": "1945-07-06 2000(T)",
+    "page": "rg367-77477470/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.7333,
+     32.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-07T15:00Z",
+    "lat_raw": "32-32N",
+    "lon_raw": "117-47W",
+    "local": "1945-07-07 0800(T)",
+    "page": "rg367-77477470/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.7833,
+     32.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-07T19:00Z",
+    "lat_raw": "32-26N",
+    "lon_raw": "117-53W",
+    "local": "1945-07-07 1200(T)",
+    "page": "rg367-77477470/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8833,
+     32.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor buoy 8 San Diego",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-08T01:00Z",
+    "lat_raw": "32-42N",
+    "lon_raw": "117-10W",
+    "local": "1945-07-07 1800(T)",
+    "page": "rg367-77477470/p02",
+    "note": "\"At 1800, we moored to Buoy 8, San Diego Bay.\" (port position)",
+    "fix": "San Diego Bay coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1667,
+     32.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: buoy 8",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-08T03:00Z",
+    "lat_raw": "32-42N",
+    "lon_raw": "117-10W",
+    "local": "1945-07-07 2000(T)",
+    "page": "rg367-77477470/p02",
+    "note": "(port position) The 2000 table entry reads \"Buoy 8, San Diego Bay.\"",
+    "fix": "San Diego Bay coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1667,
+     32.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-08T15:00Z",
+    "lat_raw": "32-32N",
+    "lon_raw": "117-25W",
+    "local": "1945-07-08 0800(T)",
+    "page": "rg367-77477470/p03",
+    "note": "0633 underway for exercise area II 3",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.4167,
+     32.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-08T19:00Z",
+    "lat_raw": "32-20N",
+    "lon_raw": "117-50W",
+    "local": "1945-07-08 1200(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8333,
+     32.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: berth 8",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-09T03:00Z",
+    "lat_raw": "32-42N",
+    "lon_raw": "117-10W",
+    "local": "1945-07-08 2000(T)",
+    "page": "rg367-77477470/p03",
+    "note": "(port position) The 2000 table entry reads \"Berth 8, San Diego Bay\"; the narrative moors in berth 8 at 1800.",
+    "fix": "San Diego Bay coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1667,
+     32.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-09T15:00Z",
+    "lat_raw": "32-32N",
+    "lon_raw": "117-37W",
+    "local": "1945-07-09 0800(T)",
+    "page": "rg367-77477470/p03",
+    "note": "0615 underway for exercise area II 3 with HALSEY POWELL",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.6167,
+     32.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-09T19:00Z",
+    "lat_raw": "32-34N",
+    "lon_raw": "117-50W",
+    "local": "1945-07-09 1200(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8333,
+     32.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-10T03:00Z",
+    "lat_raw": "32-33N",
+    "lon_raw": "117-48W",
+    "local": "1945-07-09 2000(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8,
+     32.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-10T15:00Z",
+    "lat_raw": "32-49N",
+    "lon_raw": "118-23W",
+    "local": "1945-07-10 0800(T)",
+    "page": "rg367-77477470/p03",
+    "note": "The 0800, 1200 and 2000 table positions are typed the same; the narrative has her at Wilson Cove, San Clemente, from 0533, all day, shore bombardment exercises",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3833,
+     32.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-10T19:00Z",
+    "lat_raw": "32-49N",
+    "lon_raw": "118-23W",
+    "local": "1945-07-10 1200(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3833,
+     32.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-11T03:00Z",
+    "lat_raw": "32-49N",
+    "lon_raw": "118-23W",
+    "local": "1945-07-10 2000(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3833,
+     32.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-11T15:00Z",
+    "lat_raw": "32-48N",
+    "lon_raw": "117-30W",
+    "local": "1945-07-11 0800(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5,
+     32.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-11T19:00Z",
+    "lat_raw": "33-01N",
+    "lon_raw": "117-32W",
+    "local": "1945-07-11 1200(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5333,
+     33.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-12T03:00Z",
+    "lat_raw": "33-09N",
+    "lon_raw": "117-43W",
+    "local": "1945-07-11 2000(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.7167,
+     33.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-12T15:00Z",
+    "lat_raw": "32-04N",
+    "lon_raw": "117-43W",
+    "local": "1945-07-12 0800(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.7167,
+     32.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-12T19:00Z",
+    "lat_raw": "31-59N",
+    "lon_raw": "117-51W",
+    "local": "1945-07-12 1200(T)",
+    "page": "rg367-77477470/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.85,
+     31.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor buoy 45",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-13T03:00Z",
+    "lat_raw": "32-42N",
+    "lon_raw": "117-10W",
+    "local": "1945-07-12 2000(T)",
+    "page": "rg367-77477470/p03",
+    "note": "\"We returned to San Diego Bay at 2000 and moored to buoy 45.\" (port position)",
+    "fix": "San Diego Bay coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1667,
+     32.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-13T15:00Z",
+    "lat_raw": "32-32N",
+    "lon_raw": "117-26W",
+    "local": "1945-07-13 0800(T)",
+    "page": "rg367-77477470/p04",
+    "note": "0700 underway for torpedo firing exercises with HALSEY POWELL; three exercise torpedoes fired",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.4333,
+     32.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-13T19:00Z",
+    "lat_raw": "32-26N",
+    "lon_raw": "117-36W",
+    "local": "1945-07-13 1200(T)",
+    "page": "rg367-77477470/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.6,
+     32.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "return to base San Diego",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-14T01:30Z",
+    "lat_raw": "32-42N",
+    "lon_raw": "117-10W",
+    "local": "1945-07-13 1830(T)",
+    "page": "rg367-77477470/p04",
+    "note": "\"We returned to base at 1830. (The 2000 table entry reads \"Buoy 45, San Diego, California.\")\" (port position)",
+    "fix": "San Diego Bay coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1667,
+     32.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-14T15:00Z",
+    "lat_raw": "32-34N",
+    "lon_raw": "117-21W",
+    "local": "1945-07-14 0800(T)",
+    "page": "rg367-77477470/p04",
+    "note": "0629 underway for areas II 1-3",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.35,
+     32.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-14T19:00Z",
+    "lat_raw": "32-33N",
+    "lon_raw": "117-54W",
+    "local": "1945-07-14 1200(T)",
+    "page": "rg367-77477470/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9,
+     32.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor buoy 15",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-15T00:04Z",
+    "lat_raw": "32-42N",
+    "lon_raw": "117-10W",
+    "local": "1945-07-14 1704(T)",
+    "page": "rg367-77477470/p04",
+    "note": "\"At 1704 we returned to base and moored to buoy 15.\" (port position)",
+    "fix": "San Diego Bay coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1667,
+     32.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-15T15:00Z",
+    "lat_raw": "32-33N",
+    "lon_raw": "117-34W",
+    "local": "1945-07-15 0800(T)",
+    "page": "rg367-77477470/p04",
+    "note": "0622 underway for exercise areas with MC KEAN, ADAMS and COGHLAN",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5667,
+     32.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-15T19:00Z",
+    "lat_raw": "32-32N",
+    "lon_raw": "118-00W",
+    "local": "1945-07-15 1200(T)",
+    "page": "rg367-77477470/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0,
+     32.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "return San Diego, Mole Pier",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-16T01:03Z",
+    "lat_raw": "32-42N",
+    "lon_raw": "117-10W",
+    "local": "1945-07-15 1803(T)",
+    "page": "rg367-77477470/p04",
+    "note": "\"We returned to San Diego at 1803. (The 2000 table entry reads \"Mole Pier, San Diego, California.\")\" (port position)",
+    "fix": "San Diego Bay coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1667,
+     32.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-16T15:00Z",
+    "lat_raw": "32-42N",
+    "lon_raw": "117-14W",
+    "local": "1945-07-16 0800(T)",
+    "page": "rg367-77477470/p04",
+    "note": "0712 underway for San Francisco via Wilson Cove, San Clemente, on CotCPac 110023",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.2333,
+     32.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-16T19:00Z",
+    "lat_raw": "32-50N",
+    "lon_raw": "118-27W",
+    "local": "1945-07-16 1200(T)",
+    "page": "rg367-77477470/p04",
+    "note": "Arrived at Wilson Cove at 1226 and picked up several passengers",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.45,
+     32.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-17T03:00Z",
+    "lat_raw": "34-01N",
+    "lon_raw": "120-51W",
+    "local": "1945-07-16 2000(T)",
+    "page": "rg367-77477470/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85,
+     34.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-17T15:00Z",
+    "lat_raw": "36-59N",
+    "lon_raw": "122-48W",
+    "local": "1945-07-17 0800(T)",
+    "page": "rg367-77477470/p04",
+    "note": "Steaming singly en route San Francisco",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8,
+     36.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "swept channel San Francisco",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-07-17T19:00Z",
+    "lat_raw": "~37-33N",
+    "lon_raw": "~122-31W",
+    "local": "1945-07-17 1200(T)",
+    "page": "rg367-77477470/p04",
+    "note": "The 1200 table entry is \"San Francisco Swept Channel\", no position: placed by interpolation.",
+    "fix": "position assumed: interpolated between the 17 Jul 1500Z and 17 Jul 2058Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5106,
+     37.5422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 1 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-17T20:58Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-07-17 1358(T)",
+    "page": "rg367-77477470/p05",
+    "note": "\"1358 moored at pier 1, Treasure Island, California, and reported to C.O.-P.C.T.C. there for duty.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "change of command",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-07-17T22:00Z",
+    "lat_raw": "~37-49N",
+    "lon_raw": "~122-22W",
+    "local": "1945-07-17 1500(T)",
+    "page": "rg367-77477470/p05",
+    "note": "\"At 1500 Commander S. N. Tackney ... was relieved as commanding officer of this vessel by Commander J. E. Smith.\" Pier 1, Treasure Island; she begins duty as a training destroyer for the Pacific Coast Training Command (PCTC).",
+    "fix": "position assumed: interpolated between the 17 Jul 2058Z and 19 Jul 1500Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3724,
+     37.8154
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-19T15:00Z",
+    "lat_raw": "37-46N",
+    "lon_raw": "122-36W",
+    "local": "1945-07-19 0800(T)",
+    "page": "rg367-77477470/p05",
+    "note": "0651 underway for area H-5, scheduled drills and exercises (PCTC trainees)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6,
+     37.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-19T19:00Z",
+    "lat_raw": "37-06N",
+    "lon_raw": "123-44W",
+    "local": "1945-07-19 1200(T)",
+    "page": "rg367-77477470/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.7333,
+     37.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-20T03:00Z",
+    "lat_raw": "37-58N",
+    "lon_raw": "123-57W",
+    "local": "1945-07-19 2000(T)",
+    "page": "rg367-77477470/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.95,
+     37.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-20T15:00Z",
+    "lat_raw": "37-46N",
+    "lon_raw": "123-34W",
+    "local": "1945-07-20 0800(T)",
+    "page": "rg367-77477470/p05",
+    "note": "In exercise area H-5",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.5667,
+     37.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-20T19:00Z",
+    "lat_raw": "38-01N",
+    "lon_raw": "123-55W",
+    "local": "1945-07-20 1200(T)",
+    "page": "rg367-77477470/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.9167,
+     38.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-21T03:00Z",
+    "lat_raw": "37-52N",
+    "lon_raw": "123-58W",
+    "local": "1945-07-20 2000(T)",
+    "page": "rg367-77477470/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.9667,
+     37.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-21T15:00Z",
+    "lat_raw": "37-43N",
+    "lon_raw": "123-39W",
+    "local": "1945-07-21 0800(T)",
+    "page": "rg367-77477470/p05",
+    "note": "In exercise area H-5",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.65,
+     37.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-21T19:00Z",
+    "lat_raw": "37-48N",
+    "lon_raw": "122-23W",
+    "local": "1945-07-21 1200(T)",
+    "page": "rg367-77477470/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3833,
+     37.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-21T19:25Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-07-21 1225(T)",
+    "page": "rg367-77477470/p05",
+    "note": "\"We returned to base at 1225 and moored to pier 3, Treasure Island.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-23T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-07-23 0800(T)",
+    "page": "rg367-77477470/p05",
+    "note": "(port position) The 0800 table entry reads \"Pier 3, Treasure Island, California\"; the narrative has her under way at 0851 for San Clemente (CTG 14.5 OpOrder 19-45).",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-23T19:00Z",
+    "lat_raw": "37-24N",
+    "lon_raw": "123-06W",
+    "local": "1945-07-23 1200(T)",
+    "page": "rg367-77477470/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.1,
+     37.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-24T03:00Z",
+    "lat_raw": "35-22N",
+    "lon_raw": "122-15W",
+    "local": "1945-07-23 2000(T)",
+    "page": "rg367-77477470/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25,
+     35.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-24T15:00Z",
+    "lat_raw": "32-53N",
+    "lon_raw": "119-12W",
+    "local": "1945-07-24 0800(T)",
+    "page": "rg367-77477470/p06",
+    "note": "Steaming singly to San Clemente; after disembarking the trainee group, to the San Francisco exercise areas",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2,
+     32.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-24T19:00Z",
+    "lat_raw": "33-01N",
+    "lon_raw": "118-44W",
+    "local": "1945-07-24 1200(T)",
+    "page": "rg367-77477470/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.7333,
+     33.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-25T03:00Z",
+    "lat_raw": "34-09N",
+    "lon_raw": "120-52W",
+    "local": "1945-07-24 2000(T)",
+    "page": "rg367-77477470/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8667,
+     34.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-25T15:00Z",
+    "lat_raw": "37-37N",
+    "lon_raw": "123-27W",
+    "local": "1945-07-25 0800(T)",
+    "page": "rg367-77477470/p06",
+    "note": "0923 rendezvous with USS ARLINGTON, fuelling at sea exercises",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.45,
+     37.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-25T19:00Z",
+    "lat_raw": "37-52N",
+    "lon_raw": "123-20W",
+    "local": "1945-07-25 1200(T)",
+    "page": "rg367-77477470/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.3333,
+     37.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-25T22:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-07-25 1500(T)",
+    "page": "rg367-77477470/p06",
+    "note": "\"We arrived at Treasure Island at 1500 and moored to pier 3.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-27T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-07-27 0800(T)",
+    "page": "rg367-77477470/p06",
+    "note": "(port position) The 0800 table entry reads \"Pier 3, Treasure Island\"; 0826 underway for area H-5 (PCTC Op Order of 26 July).",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-27T19:00Z",
+    "lat_raw": "37-44N",
+    "lon_raw": "123-18W",
+    "local": "1945-07-27 1200(T)",
+    "page": "rg367-77477470/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.3,
+     37.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-28T03:00Z",
+    "lat_raw": "37-45N",
+    "lon_raw": "123-40W",
+    "local": "1945-07-27 2000(T)",
+    "page": "rg367-77477470/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.6667,
+     37.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-28T15:00Z",
+    "lat_raw": "37-48N",
+    "lon_raw": "122-53W",
+    "local": "1945-07-28 0800(T)",
+    "page": "rg367-77477470/p06",
+    "note": "Areas H-5 and H-3; torpedo firing cancelled for fog",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8833,
+     37.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-28T19:00Z",
+    "lat_raw": "37-56N",
+    "lon_raw": "123-04W",
+    "local": "1945-07-28 1200(T)",
+    "page": "rg367-77477470/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.0667,
+     37.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-28T23:23Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-07-28 1623(T)",
+    "page": "rg367-77477470/p06",
+    "note": "\"We returned to base at pier 3, Treasure Island, at 1623.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-30T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-07-30 0800(T)",
+    "page": "rg367-77477470/p07",
+    "note": "(port position) The 0800 table entry reads \"Pier 3, Treasure Island\"; 0829 underway for Pyramid Cove, San Clemente (PCTC 0400 of 28 July).",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-30T19:00Z",
+    "lat_raw": "37-14N",
+    "lon_raw": "123-11W",
+    "local": "1945-07-30 1200(T)",
+    "page": "rg367-77477470/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.1833,
+     37.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-31T03:00Z",
+    "lat_raw": "34-37N",
+    "lon_raw": "121-47W",
+    "local": "1945-07-30 2000(T)",
+    "page": "rg367-77477470/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7833,
+     34.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-31T15:00Z",
+    "lat_raw": "32-48N",
+    "lon_raw": "118-23W",
+    "local": "1945-07-31 0800(T)",
+    "page": "rg367-77477470/p07",
+    "note": "Arrived Pyramid Cove at 0637; shore bombardment exercises, \"The ship qualified in these exercises.\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3833,
+     32.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-07-31T19:00Z",
+    "lat_raw": "32-47N",
+    "lon_raw": "118-22W",
+    "local": "1945-07-31 1200(T)",
+    "page": "rg367-77477470/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3667,
+     32.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-01T03:00Z",
+    "lat_raw": "32-47N",
+    "lon_raw": "118-22W",
+    "local": "1945-07-31 2000(T)",
+    "page": "rg367-77477470/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3667,
+     32.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-01T15:00Z",
+    "lat_raw": "34-58N",
+    "lon_raw": "121-28W",
+    "local": "1945-08-01 0800(T)",
+    "page": "rg367-83577147/p02",
+    "note": "Steaming singly en route San Clemente to Treasure Island. \"Present assignment of this ship is training destroyers for P.C.T.C.\" \"Time Zone + 7.\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4667,
+     34.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-01T19:00Z",
+    "lat_raw": "36-43N",
+    "lon_raw": "122-34W",
+    "local": "1945-08-01 1200(T)",
+    "page": "rg367-83577147/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5667,
+     36.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-02T02:05Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-01 1905(T)",
+    "page": "rg367-83577147/p02",
+    "note": "\"At 1905 We arrived at Treasure Island and moored to pier #3.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-03T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-03 0800(T)",
+    "page": "rg367-83577147/p02",
+    "note": "(port position) The 0800 table entry reads \"Pier #3, Treasure Island\"; 0805 underway for area H-5.",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-03T19:00Z",
+    "lat_raw": "37-53N",
+    "lon_raw": "123-40W",
+    "local": "1945-08-03 1200(T)",
+    "page": "rg367-83577147/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.6667,
+     37.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-04T03:00Z",
+    "lat_raw": "38-00N",
+    "lon_raw": "123-53W",
+    "local": "1945-08-03 2000(T)",
+    "page": "rg367-83577147/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.8833,
+     38.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-04T15:00Z",
+    "lat_raw": "37-48N",
+    "lon_raw": "122-53W",
+    "local": "1945-08-04 0800(T)",
+    "page": "rg367-83577147/p02",
+    "note": "Areas H-5 and H-3; three exercise torpedoes fired",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8833,
+     37.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "San Francisco Bay",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-08-04T19:00Z",
+    "lat_raw": "~37-49N",
+    "lon_raw": "~122-26W",
+    "local": "1945-08-04 1200(T)",
+    "page": "rg367-83577147/p02",
+    "note": "The 1200 table entry is \"San Francisco Bay, Calif.\", no position: placed by interpolation.",
+    "fix": "position assumed: interpolated between the 04 Aug 1500Z and 04 Aug 1932Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4275,
+     37.8148
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "return pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-04T19:32Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-04 1232(T)",
+    "page": "rg367-83577147/p02",
+    "note": "\"returned to base at pier #3 Treasure Island at 1232.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-06T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-06 0800(T)",
+    "page": "rg367-83577147/p02",
+    "note": "(port position) The 0800 table entry reads \"Pier #3, Treasure Island\"; 0829 underway for San Clemente (CTG 14.5 Op Order 21-45 of 4 August).",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-06T19:00Z",
+    "lat_raw": "37-14N",
+    "lon_raw": "123-08W",
+    "local": "1945-08-06 1200(T)",
+    "page": "rg367-83577147/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.1333,
+     37.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-07T03:00Z",
+    "lat_raw": "35-05N",
+    "lon_raw": "122-07W",
+    "local": "1945-08-06 2000(T)",
+    "page": "rg367-83577147/p02",
+    "note": "The hyphen in 35-05 is struck over by a stray mark on the scan; read 35-05",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1167,
+     35.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-07T15:00Z",
+    "lat_raw": "33-02N",
+    "lon_raw": "119-02W",
+    "local": "1945-08-07 0800(T)",
+    "page": "rg367-83577147/p03",
+    "note": "Steaming singly to San Clemente",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0333,
+     33.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-07T19:00Z",
+    "lat_raw": "33-01N",
+    "lon_raw": "118-33W",
+    "local": "1945-08-07 1200(T)",
+    "page": "rg367-83577147/p03",
+    "note": "1117 anchored at Wilson Cove to pick up trainee passengers; 1210 underway for San Francisco",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.55,
+     33.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-08T03:00Z",
+    "lat_raw": "34-13N",
+    "lon_raw": "120-57W",
+    "local": "1945-08-07 2000(T)",
+    "page": "rg367-83577147/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.95,
+     34.2167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-08T15:00Z",
+    "lat_raw": "37-41N",
+    "lon_raw": "123-30W",
+    "local": "1945-08-08 0800(T)",
+    "page": "rg367-83577147/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.5,
+     37.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-08T19:00Z",
+    "lat_raw": "38-40N",
+    "lon_raw": "123-10W",
+    "local": "1945-08-08 1200(T)",
+    "page": "rg367-83577147/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.1667,
+     38.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-08T21:16Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-08 1416(T)",
+    "page": "rg367-83577147/p03",
+    "note": "\"At 1416 we moored at pier #3 Treasure Island, Calif.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-10T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-10 0800(T)",
+    "page": "rg367-83577147/p03",
+    "note": "(port position) The 0800 table entry reads \"Pier #3, Treasure Island\"; 0808 underway for area H-5.",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-10T19:00Z",
+    "lat_raw": "37-57N",
+    "lon_raw": "123-36W",
+    "local": "1945-08-10 1200(T)",
+    "page": "rg367-83577147/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.6,
+     37.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-11T03:00Z",
+    "lat_raw": "38-04N",
+    "lon_raw": "123-56W",
+    "local": "1945-08-10 2000(T)",
+    "page": "rg367-83577147/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.9333,
+     38.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-11T15:00Z",
+    "lat_raw": "37-39N",
+    "lon_raw": "123-16W",
+    "local": "1945-08-11 0800(T)",
+    "page": "rg367-83577147/p03",
+    "note": "In area H-5",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2667,
+     37.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-11T19:00Z",
+    "lat_raw": "37-40N",
+    "lon_raw": "123-27W",
+    "local": "1945-08-11 1200(T)",
+    "page": "rg367-83577147/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.45,
+     37.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "return pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-11T22:50Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-11 1550(T)",
+    "page": "rg367-83577147/p03",
+    "note": "\"Returned to base at 1550. (The third table entry is typed \"2600\" for 2000: \"Pier #3, Treasure Island, Calif.\")\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-13T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-13 0800(T)",
+    "page": "rg367-83577147/p04",
+    "note": "(port position) The 0800 table entry reads \"Pier #3, Treasure Island\"; 0830 underway for San Clemente for trainee exercises.",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-13T19:00Z",
+    "lat_raw": "37-13N",
+    "lon_raw": "123-09W",
+    "local": "1945-08-13 1200(T)",
+    "page": "rg367-83577147/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.15,
+     37.2167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-14T03:00Z",
+    "lat_raw": "34-58N",
+    "lon_raw": "122-05W",
+    "local": "1945-08-13 2000(T)",
+    "page": "rg367-83577147/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0833,
+     34.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-14T15:00Z",
+    "lat_raw": "32-59N",
+    "lon_raw": "119-02W",
+    "local": "1945-08-14 0800(T)",
+    "page": "rg367-83577147/p04",
+    "note": "Steaming singly to San Clemente",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0333,
+     32.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-14T19:00Z",
+    "lat_raw": "33-09N",
+    "lon_raw": "118-49W",
+    "local": "1945-08-14 1200(T)",
+    "page": "rg367-83577147/p04",
+    "note": "1045 anchored in Wilson Cove to transfer passengers; 1110 underway for Treasure Island",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8167,
+     33.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-15T03:00Z",
+    "lat_raw": "34-34N",
+    "lon_raw": "121-08W",
+    "local": "1945-08-14 2000(T)",
+    "page": "rg367-83577147/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1333,
+     34.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-15T15:00Z",
+    "lat_raw": "37-30N",
+    "lon_raw": "123-10W",
+    "typed": "33-30N 123-10W",
+    "local": "1945-08-15 0800(T)",
+    "page": "rg367-83577147/p04",
+    "note": "The longitude has a damaged first digit on the scan (1?3); read 123-10. Moored at pier 3 at 1142 the same morning",
+    "fix": "33-30N is about 250 nm from Treasure Island, where she moored at 1142 (3.7 hours later); 37-30N fits her arrival. The same 33-for-37 slip may be on 18 Aug 0800 and 30 Aug 1200. Inferred, one digit; the typed value is kept"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.1667,
+     37.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-15T18:42Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-15 1142(T)",
+    "page": "rg367-83577147/p04",
+    "note": "\"1142 Moored to pier #3, Treasure Island, Calif.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-17T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-17 0800(T)",
+    "page": "rg367-83577147/p04",
+    "note": "(port position) The 0800 table entry reads \"Pier #3, Treasure Island\"; 0830 underway for area H-5, remained in the area overnight.",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-17T19:00Z",
+    "lat_raw": "37-41N",
+    "lon_raw": "122-57W",
+    "local": "1945-08-17 1200(T)",
+    "page": "rg367-83577147/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.95,
+     37.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-18T03:00Z",
+    "lat_raw": "37-55N",
+    "lon_raw": "124-01W",
+    "local": "1945-08-17 2000(T)",
+    "page": "rg367-83577147/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0167,
+     37.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-18T15:00Z",
+    "lat_raw": "34-52N",
+    "lon_raw": "122-57W",
+    "local": "1945-08-18 0800(T)",
+    "page": "rg367-83577147/p05",
+    "note": "Steaming singly in area H-5. The 1200 table entry is blank",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.95,
+     34.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-18T21:25Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-18 1425(T)",
+    "page": "rg367-83577147/p05",
+    "note": "\"We returned to base at 1425 and moored to pier #3, Treasure Island, Calif.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-20T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-20 0800(T)",
+    "page": "rg367-83577147/p05",
+    "note": "(port position) The 0800 table entry reads \"Pier #3, Treasure Island\"; 0830 underway for the exercise area (PCTC 18-30 of August 1945).",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-20T19:00Z",
+    "lat_raw": "37-47N",
+    "lon_raw": "123-15W",
+    "local": "1945-08-20 1200(T)",
+    "page": "rg367-83577147/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.25,
+     37.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-21T03:00Z",
+    "lat_raw": "37-55N",
+    "lon_raw": "124-02W",
+    "local": "1945-08-20 2000(T)",
+    "page": "rg367-83577147/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0333,
+     37.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-21T15:00Z",
+    "lat_raw": "37-58N",
+    "lon_raw": "124-28W",
+    "local": "1945-08-21 0800(T)",
+    "page": "rg367-83577147/p05",
+    "note": "In area H-5, AA firing runs",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.4667,
+     37.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-21T19:00Z",
+    "lat_raw": "37-56N",
+    "lon_raw": "123-49W",
+    "local": "1945-08-21 1200(T)",
+    "page": "rg367-83577147/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.8167,
+     37.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-22T03:00Z",
+    "lat_raw": "37-44N",
+    "lon_raw": "124-46W",
+    "local": "1945-08-21 2000(T)",
+    "page": "rg367-83577147/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.7667,
+     37.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-22T15:00Z",
+    "lat_raw": "37-46N",
+    "lon_raw": "123-29W",
+    "local": "1945-08-22 0800(T)",
+    "page": "rg367-83577147/p05",
+    "note": "With USS ARLINGTON in the San Francisco exercise area",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.4833,
+     37.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-22T19:00Z",
+    "lat_raw": "37-44N",
+    "lon_raw": "122-59W",
+    "local": "1945-08-22 1200(T)",
+    "page": "rg367-83577147/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9833,
+     37.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-22T20:50Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-22 1350(T)",
+    "page": "rg367-83577147/p05",
+    "note": "\"At 1350 Moored to pier #3, Treasure Island, Calif.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-24T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-24 0800(T)",
+    "page": "rg367-83577147/p06",
+    "note": "(port position) The 0800 table entry reads \"Pier #3, Treasure Island\"; 0830 underway for area How-5, remained there overnight.",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-24T19:00Z",
+    "lat_raw": "37-44N",
+    "lon_raw": "122-29W",
+    "local": "1945-08-24 1200(T)",
+    "page": "rg367-83577147/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4833,
+     37.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-25T03:00Z",
+    "lat_raw": "37-57N",
+    "lon_raw": "123-55W",
+    "local": "1945-08-24 2000(T)",
+    "page": "rg367-83577147/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.9167,
+     37.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-25T15:00Z",
+    "lat_raw": "37-47N",
+    "lon_raw": "122-53W",
+    "local": "1945-08-25 0800(T)",
+    "page": "rg367-83577147/p06",
+    "note": "0830 rendezvous with PC776 for torpedo firing exercises",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8833,
+     37.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-25T19:00Z",
+    "lat_raw": "37-48N",
+    "lon_raw": "122-54W",
+    "local": "1945-08-25 1200(T)",
+    "page": "rg367-83577147/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9,
+     37.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "return pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-25T21:28Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-25 1428(T)",
+    "page": "rg367-83577147/p06",
+    "note": "\"returned to pier #3, Treasure Island, Calif. at 1428.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-27T15:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-27 0800(T)",
+    "page": "rg367-83577147/p06",
+    "note": "(port position) The 0800 table entry reads \"Pier #3, Treasure Island\"; 0825 underway for Wilson Cove, San Clemente.",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-27T19:00Z",
+    "lat_raw": "37-14N",
+    "lon_raw": "123-10W",
+    "local": "1945-08-27 1200(T)",
+    "page": "rg367-83577147/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.1667,
+     37.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-28T03:00Z",
+    "lat_raw": "35-07N",
+    "lon_raw": "123-11W",
+    "local": "1945-08-27 2000(T)",
+    "page": "rg367-83577147/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.1833,
+     35.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-28T15:00Z",
+    "lat_raw": "33-00N",
+    "lon_raw": "119-20W",
+    "local": "1945-08-28 0800(T)",
+    "page": "rg367-83577147/p06",
+    "note": "Steaming singly to Wilson Cove; 1246 anchored and picked up passengers; 1307 underway for Treasure Island",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3333,
+     33.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-28T19:00Z",
+    "lat_raw": "33-01N",
+    "lon_raw": "118-33W",
+    "local": "1945-08-28 1200(T)",
+    "page": "rg367-83577147/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.55,
+     33.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-29T03:00Z",
+    "lat_raw": "34-37N",
+    "lon_raw": "120-57W",
+    "typed": "34-37N 130-57W",
+    "local": "1945-08-28 2000(T)",
+    "page": "rg367-83577147/p06",
+    "note": "1307 underway from Wilson Cove for Treasure Island",
+    "fix": "130-57W is 600 nm from the 1200 fix (8 hours earlier); 120-57W (one digit) fits it and is the 2000 longitude of 7 Aug on the same leg. Inferred"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.95,
+     34.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-29T15:00Z",
+    "lat_raw": "37-58N",
+    "lon_raw": "123-50W",
+    "local": "1945-08-29 0800(T)",
+    "page": "rg367-83577147/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.8333,
+     37.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-29T19:00Z",
+    "lat_raw": "38-01N",
+    "lon_raw": "123-51W",
+    "local": "1945-08-29 1200(T)",
+    "page": "rg367-83577147/p06",
+    "note": "The time is typed with an overstrike (read 1200)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.85,
+     38.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor pier 3 Treasure Island",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-30T00:28Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-29 1728(T)",
+    "page": "rg367-83577147/p07",
+    "note": "\"1728 Moored to pier #3, Treasure Island, Calif.\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-08-30T03:00Z",
+    "lat_raw": "38-01N",
+    "lon_raw": "123-51W",
+    "local": "1945-08-29 2000(T)",
+    "page": "rg367-83577147/p06",
+    "note": "Typed the same as the 1200 row, but the narrative has her moored at pier 3, Treasure Island, from 1728 (p07); kept as typed, off the track",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.85,
+     38.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-30T15:00Z",
+    "lat_raw": "37-53N",
+    "lon_raw": "122-59W",
+    "local": "1945-08-30 0800(T)",
+    "page": "rg367-83577147/p07",
+    "note": "0610 underway for exercise areas (ComWesSeaFront op order of 27 August)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9833,
+     37.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-08-30T19:00Z",
+    "lat_raw": "33-06N",
+    "lon_raw": "123-23W",
+    "local": "1945-08-30 1200(T)",
+    "page": "rg367-83577147/p07",
+    "note": "4 hours after 37-53N 122-59W: 280 nm, 70 kn. 37-06N would fit (the same 33-for-37 slip as 15 Aug) but nothing else on the page says so; kept as typed, off the track",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.3833,
+     33.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "table: pier 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-08-31T03:00Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-08-30 2000(T)",
+    "page": "rg367-83577147/p07",
+    "note": "(port position) The 2000 table entry reads \"Pier #3, Treasure Island\"; \"after completing scheduled drills, we returned to base\" (no time).",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway for Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-05T19:58Z",
+    "lat_raw": "37-49N",
+    "lon_raw": "122-22W",
+    "local": "1945-09-05 1258(T)",
+    "page": "rg367-77516593/p02",
+    "note": "\"1258 Underway singly enroute to Pearl Harbor, T.H., as ordered by Commander Western Sea Frontier Movement #745-C&C. (Moored to Pier #16, Treasure Island, 1-5 Sept, \"Time zone, + 7\".)\" (port position)",
+    "fix": "Treasure Island coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3667,
+     37.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-06T03:00Z",
+    "lat_raw": "36-59N",
+    "lon_raw": "124-19W",
+    "local": "1945-09-05 2000(T)",
+    "page": "rg367-77516593/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.3167,
+     36.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-06T15:00Z",
+    "lat_raw": "35-40N",
+    "lon_raw": "127-34W",
+    "local": "1945-09-06 0800(T)",
+    "page": "rg367-77516593/p02",
+    "note": "Steaming singly to Pearl Harbor; 1830 clocks set back to +7\u00bd (TU from there)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -127.5667,
+     35.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-06T19:00Z",
+    "lat_raw": "35-19.33N",
+    "lon_raw": "128-41W",
+    "local": "1945-09-06 1200(T)",
+    "page": "rg367-77516593/p02",
+    "note": "Typed 35\u00b019'20\"N: seconds written as decimal minutes (20\" = 0.33')",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -128.6833,
+     35.3222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-07T03:30Z",
+    "lat_raw": "34-35.08N",
+    "lon_raw": "131-11W",
+    "local": "1945-09-06 2000(TU)",
+    "page": "rg367-77516593/p02",
+    "note": "Typed 34\u00b035'05\"N (the page prints 05'): read as 5 seconds, 0.08'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -131.1833,
+     34.5847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-07T15:30Z",
+    "lat_raw": "33-18N",
+    "lon_raw": "134-34W",
+    "local": "1945-09-07 0800(TU)",
+    "page": "rg367-77516593/p02",
+    "note": "1830 clocks set back to +8 (U from there)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -134.5667,
+     33.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-07T19:30Z",
+    "lat_raw": "32-45N",
+    "lon_raw": "135-37W",
+    "local": "1945-09-07 1200(TU)",
+    "page": "rg367-77516593/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -135.6167,
+     32.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-08T04:00Z",
+    "lat_raw": "32-01N",
+    "lon_raw": "135-47W",
+    "local": "1945-09-07 2000(U)",
+    "page": "rg367-77516593/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -135.7833,
+     32.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-08T16:00Z",
+    "lat_raw": "30-40N",
+    "lon_raw": "141-03W",
+    "local": "1945-09-08 0800(U)",
+    "page": "rg367-77516593/p02",
+    "note": "1830 clocks set back to +8\u00bd (UV from there); AA firing at balloons in the afternoon",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -141.05,
+     30.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-08T20:00Z",
+    "lat_raw": "30-12N",
+    "lon_raw": "142-05W",
+    "local": "1945-09-08 1200(U)",
+    "page": "rg367-77516593/p02",
+    "note": "The 5 of 142\u00b005' is struck over on the scan; read 05",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -142.0833,
+     30.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-09T04:30Z",
+    "lat_raw": "29-05N",
+    "lon_raw": "143-58W",
+    "local": "1945-09-08 2000(UV)",
+    "page": "rg367-77516593/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -143.9667,
+     29.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-09T16:30Z",
+    "lat_raw": "27-41N",
+    "lon_raw": "146-59W",
+    "local": "1945-09-09 0800(UV)",
+    "page": "rg367-77516593/p03",
+    "note": "1830 clocks set back to +9 (V from there)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -146.9833,
+     27.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-09T20:30Z",
+    "lat_raw": "27-13N",
+    "lon_raw": "148-06W",
+    "local": "1945-09-09 1200(UV)",
+    "page": "rg367-77516593/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -148.1,
+     27.2167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-10T05:00Z",
+    "lat_raw": "26-08N",
+    "lon_raw": "150-08W",
+    "local": "1945-09-09 2000(V)",
+    "page": "rg367-77516593/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -150.1333,
+     26.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-10T17:00Z",
+    "lat_raw": "24-30N",
+    "lon_raw": "152-58W",
+    "local": "1945-09-10 0800(V)",
+    "page": "rg367-77516593/p03",
+    "note": "1830 clocks set back to +9\u00bd (VW from there)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -152.9667,
+     24.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-10T21:00Z",
+    "lat_raw": "23-57N",
+    "lon_raw": "153-55W",
+    "local": "1945-09-10 1200(V)",
+    "page": "rg367-77516593/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -153.9167,
+     23.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-11T05:30Z",
+    "lat_raw": "22-54N",
+    "lon_raw": "155-47W",
+    "local": "1945-09-10 2000(VW)",
+    "page": "rg367-77516593/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -155.7833,
+     22.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-11T17:30Z",
+    "lat_raw": "21-45N",
+    "lon_raw": "157-31W",
+    "local": "1945-09-11 0800(VW)",
+    "page": "rg367-77516593/p03",
+    "note": "AA firing at a sleeve in the forenoon",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.5167,
+     21.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-11T21:30Z",
+    "lat_raw": "21-15N",
+    "lon_raw": "157-46W",
+    "local": "1945-09-11 1200(VW)",
+    "page": "rg367-77516593/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.7667,
+     21.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth D-1 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-11T23:22Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-09-11 1352(VW)",
+    "page": "rg367-77516593/p03",
+    "note": "\"1352 Moored alongside USS McKee (DD575) in berth D-1, Middle Lock, Pearl Harbor, T.H.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-13T17:30Z",
+    "lat_raw": "21-15N",
+    "lon_raw": "157-56W",
+    "local": "1945-09-13 0800(VW)",
+    "page": "rg367-77516593/p03",
+    "note": "Underway from berth D-1 for area V-II (radar and air-burst calibration)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9333,
+     21.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-13T21:30Z",
+    "lat_raw": "21-22N",
+    "lon_raw": "157-40W",
+    "local": "1945-09-13 1200(VW)",
+    "page": "rg367-77516593/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.6667,
+     21.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-14T05:30Z",
+    "lat_raw": "20-37N",
+    "lon_raw": "157-55W",
+    "local": "1945-09-13 2000(VW)",
+    "page": "rg367-77516593/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9167,
+     20.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-14T17:30Z",
+    "lat_raw": "21-36N",
+    "lon_raw": "157-29W",
+    "local": "1945-09-14 0800(VW)",
+    "page": "rg367-77516593/p04",
+    "note": "AA exercises, then shore bombardment exercise on Kahoolawe Island; steaming singly south of Kahoolawe at night",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.4833,
+     21.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-14T21:30Z",
+    "lat_raw": "21-29N",
+    "lon_raw": "156-52W",
+    "local": "1945-09-14 1200(VW)",
+    "page": "rg367-77516593/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.8667,
+     21.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-15T05:30Z",
+    "lat_raw": "20-28N",
+    "lon_raw": "156-44W",
+    "local": "1945-09-14 2000(VW)",
+    "page": "rg367-77516593/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.7333,
+     20.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-15T17:30Z",
+    "lat_raw": "20-30N",
+    "lon_raw": "156-43W",
+    "local": "1945-09-15 0800(VW)",
+    "page": "rg367-77516593/p04",
+    "note": "Returned to Kahoolawe, completed the bombardment exercise; AA firing with USS LOFBERG",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.7167,
+     20.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-15T21:30Z",
+    "lat_raw": "20-36N",
+    "lon_raw": "157-03W",
+    "local": "1945-09-15 1200(VW)",
+    "page": "rg367-77516593/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.05,
+     20.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth X-20 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-16T03:10Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-09-15 1740(VW)",
+    "page": "rg367-77516593/p04",
+    "note": "\"Moored in Berth X-20, Middle Lock, Pearl Harbor, T.H. at 1740.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway X-20 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-19T17:28Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-09-19 0758(VW)",
+    "page": "rg367-77516593/p04",
+    "note": "\"Underway at 0758 from berth X-20, Middle Lock ... radar calibration in operational training area S-1 in the forenoon. Returned to port in the afternoon and moored in berth X-22.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway D-1 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-24T16:37Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-09-24 0707(VW)",
+    "page": "rg367-77516593/p05",
+    "note": "\"Underway from berth D-1 Middle Lock, Pearl Harbor, T.H. at 0707. Conducted fade chart calibration, radar calibration and AA tracking exercise with USS LOFBERG.\" (port position) The heading types \"Monday 23 September 1945\"; Monday was the 24th (the entry before is 21 to 23 September), so the date is written 24 September (date assumed from the weekday).",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used; Heading types \"Monday, 23 September\"; Monday was 24 September (the entry before is 21-23 September, and 25 September is a Tuesday). Date read from the weekday"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-24T17:30Z",
+    "lat_raw": "21-14N",
+    "lon_raw": "157-56W",
+    "local": "1945-09-24 0800(VW)",
+    "page": "rg367-77516593/p05",
+    "note": "Heading types \"23 September\" for Monday; date written 24 September from the weekday",
+    "fix": "Heading types \"Monday, 23 September\"; Monday was 24 September (the entry before is 21-23 September, and 25 September is a Tuesday). Date read from the weekday"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9333,
+     21.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-24T21:30Z",
+    "lat_raw": "20-33N",
+    "lon_raw": "158-00W",
+    "local": "1945-09-24 1200(VW)",
+    "page": "rg367-77516593/p05",
+    "note": "",
+    "fix": "Heading types \"Monday, 23 September\"; Monday was 24 September (the entry before is 21-23 September, and 25 September is a Tuesday). Date read from the weekday"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0,
+     20.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-25T05:30Z",
+    "lat_raw": "20-36N",
+    "lon_raw": "157-52W",
+    "local": "1945-09-24 2000(VW)",
+    "page": "rg367-77516593/p05",
+    "note": "",
+    "fix": "Heading types \"Monday, 23 September\"; Monday was 24 September (the entry before is 21-23 September, and 25 September is a Tuesday). Date read from the weekday"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.8667,
+     20.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-25T17:30Z",
+    "lat_raw": "20-39N",
+    "lon_raw": "157-41W",
+    "typed": "20-39N 157-41N",
+    "local": "1945-09-25 0800(VW)",
+    "page": "rg367-77516593/p05",
+    "note": "Steaming with USS LOFBERG; AA firing in the forenoon",
+    "fix": "The longitude is typed with the hemisphere letter N (157\u00b041'N); W is read, as every other fix is in west longitude and it fits the 1200 fix (157-13W)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.6833,
+     20.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-25T21:30Z",
+    "lat_raw": "20-38N",
+    "lon_raw": "157-13W",
+    "local": "1945-09-25 1200(VW)",
+    "page": "rg367-77516593/p05",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.2167,
+     20.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth D-1 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-26T03:30Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-09-25 1800(VW)",
+    "page": "rg367-77516593/p05",
+    "note": "\"Moored in berth D-1, Middle Lock, Pearl Harbor, T.H., at 1800.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway D-1 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-27T16:04Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-09-27 0634(VW)",
+    "page": "rg367-77516593/p05",
+    "note": "\"Underway from Berth D-1 ... anti-submarine practice with USS GURKE (DD783) and the submarine MENHADEN. Return to port in the late afternoon and moored in berth D-1.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-28T17:30Z",
+    "lat_raw": "21-08N",
+    "lon_raw": "157-51W",
+    "local": "1945-09-28 0800(VW)",
+    "page": "rg367-77516593/p06",
+    "note": "0640 underway from berth D-1; five torpedoes fired at the target vessel RICHARD WARD (DE243), the last one lost",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.85,
+     21.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-09-28T21:30Z",
+    "lat_raw": "21-09N",
+    "lon_raw": "157-51W",
+    "local": "1945-09-28 1200(VW)",
+    "page": "rg367-77516593/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.85,
+     21.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-02T17:08Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-10-02 0738(VW)",
+    "page": "rg367-77558379/p02",
+    "note": "\"Underway at 0738 for operational training area S-1 for gunnery exercise. Moored in berth X-21 Middle Loch.\" (port position) October types no zone and no clock change; VW (+9\u00bd) is carried from the September diary (assumed).",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-02T21:30Z",
+    "lat_raw": "21-12N",
+    "lon_raw": "157-57W",
+    "local": "1945-10-02 1200(VW)",
+    "page": "rg367-77558379/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.95,
+     21.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-08T17:30Z",
+    "lat_raw": "21-05N",
+    "lon_raw": "158-01W",
+    "local": "1945-10-08 0800(VW)",
+    "page": "rg367-77558379/p02",
+    "note": "Radar calibration exercise for gunnery school students in area C-10",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0167,
+     21.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-08T21:30Z",
+    "lat_raw": "20-52N",
+    "lon_raw": "158-06W",
+    "local": "1945-10-08 1200(VW)",
+    "page": "rg367-77558379/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.1,
+     20.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-10T21:30Z",
+    "lat_raw": "20-48N",
+    "lon_raw": "158-15W",
+    "local": "1945-10-10 1200(VW)",
+    "page": "rg367-77558379/p02",
+    "note": "AA firing exercise for gunnery school students in area C-10",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.25,
+     20.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-11T17:30Z",
+    "lat_raw": "21-07N",
+    "lon_raw": "158-59W",
+    "local": "1945-10-11 0800(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "The table (0800, 1200, 2000) is on the continuation page; the narrative of the day has her moored in berth X-21 and under way at 1653, so the early positions are those of the exercise area (area C-10)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.9833,
+     21.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-11T21:30Z",
+    "lat_raw": "20-45N",
+    "lon_raw": "158-50W",
+    "local": "1945-10-11 1200(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.8333,
+     20.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway rendezvous Bunker Hill",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-12T02:23Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-10-11 1653(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "\"At 1653 underway after transferring student officers and instructors for rendezvous with USS Bunker Hill (CV17).\" (port position) The 1758 rendezvous (station 1180, as typed) is below.",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "rendezvous Bunker Hill",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-10-12T03:28Z",
+    "lat_raw": "~21-08N",
+    "lon_raw": "~158-04W",
+    "local": "1945-10-11 1758(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "\"1758 Rendezvoused with the USS Bunker Hill and took station 1180.\" (typed \"station1180\"). Placed by interpolation.",
+    "fix": "position assumed: interpolated between the 12 Oct 0223Z and 12 Oct 0530Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0712,
+     21.1299
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-12T05:30Z",
+    "lat_raw": "20-43N",
+    "lon_raw": "158-16W",
+    "local": "1945-10-11 2000(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.2667,
+     20.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-12T17:30Z",
+    "lat_raw": "20-16N",
+    "lon_raw": "159-22W",
+    "local": "1945-10-12 0800(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "Steaming with USS BUNKER HILL acting as plane guard",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -159.3667,
+     20.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-12T21:30Z",
+    "lat_raw": "19-59N",
+    "lon_raw": "159-24W",
+    "local": "1945-10-12 1200(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -159.4,
+     19.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-13T05:30Z",
+    "lat_raw": "20-16.5N",
+    "lon_raw": "159-16.5W",
+    "local": "1945-10-12 2000(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "Typed with decimal minutes (20\u00b0 16.5 N, 159\u00b0 16.5' W)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -159.275,
+     20.275
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-13T17:30Z",
+    "lat_raw": "20-36N",
+    "lon_raw": "158-38W",
+    "local": "1945-10-13 0800(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "With BUNKER HILL, plane guard",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.6333,
+     20.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-13T21:30Z",
+    "lat_raw": "20-36N",
+    "lon_raw": "158-24W",
+    "local": "1945-10-13 1200(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.4,
+     20.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "rescued pilot",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-10-13T22:53Z",
+    "lat_raw": "~20-37N",
+    "lon_raw": "~158-26W",
+    "local": "1945-10-13 1323(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "\"At 1323 rescued pilot who made a water landing.\" No position: placed by interpolation.",
+    "fix": "position assumed: interpolated between the 13 Oct 2130Z and 14 Oct 0530Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.4346,
+     20.6087
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-14T05:30Z",
+    "lat_raw": "20-39N",
+    "lon_raw": "158-36W",
+    "local": "1945-10-13 2000(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.6,
+     20.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-14T17:30Z",
+    "lat_raw": "20-27N",
+    "lon_raw": "159-02W",
+    "local": "1945-10-14 0800(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "With BUNKER HILL; AA firing; USS LAFFEY (DD724) joined for a night launching exercise; ship detached at 2226",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -159.0333,
+     20.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-14T21:30Z",
+    "lat_raw": "20-40N",
+    "lon_raw": "159-23W",
+    "local": "1945-10-14 1200(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -159.3833,
+     20.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-15T05:30Z",
+    "lat_raw": "20-01N",
+    "lon_raw": "158-40W",
+    "local": "1945-10-14 2000(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.6667,
+     20.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-15T17:30Z",
+    "lat_raw": "20-20N",
+    "lon_raw": "158-47W",
+    "local": "1945-10-15 0800(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "Detached by BUNKER HILL",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.7833,
+     20.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth X-23 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-15T23:20Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-10-15 1350(VW)",
+    "page": "rg367-77558379/p03",
+    "note": "\"Detached by the USS Bunker Hill (CV17) and moored in berth X-23, Middle Loch, Pearl Harbor, T.H. at 1350.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-18T15:34Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-10-18 0604(VW)",
+    "page": "rg367-77558379/p04",
+    "note": "\"Underway at 0604 for operational training area V-3E. Conducted ASW exercise with Parda (SS264) and USS Eberle (DD430).\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth X-21 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-19T03:01Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-10-18 1731(VW)",
+    "page": "rg367-77558379/p04",
+    "note": "\"Moored at berth X-21, Middle Loch, Pearl Harbor, T.H. at 1731.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-26T05:30Z",
+    "lat_raw": "21-02N",
+    "lon_raw": "157-57.5W",
+    "local": "1945-10-25 2000(VW)",
+    "page": "rg367-77558379/p04",
+    "note": "1700 underway for Kahului, Maui, under ComDesPac Flt Orders 232391; typed 157\u00b0 57.5' W",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9583,
+     21.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Kahului",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-26T17:37Z",
+    "lat_raw": "20-54N",
+    "lon_raw": "156-28W",
+    "local": "1945-10-26 0807(VW)",
+    "page": "rg367-77558379/p04",
+    "note": "\"Moored in Kahului Harbor, Maui, T.H. at 0807.\" (port position)",
+    "fix": "Kahului coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.4667,
+     20.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Kahului",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-29T02:50Z",
+    "lat_raw": "20-54N",
+    "lon_raw": "156-28W",
+    "local": "1945-10-28 1720(VW)",
+    "page": "rg367-77558379/p04",
+    "note": "\"Underway at 1720 enroute to Pearl Harbor, T.H.\" (port position)",
+    "fix": "Kahului coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.4667,
+     20.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-29T05:30Z",
+    "lat_raw": "21-05N",
+    "lon_raw": "156-38.65W",
+    "local": "1945-10-28 2000(VW)",
+    "page": "rg367-77558379/p04",
+    "note": "Typed 156\u00b0 38' 39\" W: seconds written as decimal minutes (39\" = 0.65')",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.6442,
+     21.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth X-23 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-29T18:58Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-10-29 0928(VW)",
+    "page": "rg367-77558379/p05",
+    "note": "\"Moored in berth X-23, Middle Loch, Pearl Harbor, T.H. at 0928.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-31T02:55Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1945-10-30 1725(VW)",
+    "page": "rg367-77558379/p05",
+    "note": "\"Underway at 1725 for operational training area M-30 ... to rendezvous with USS Cape Gloucester (CVE 109).\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-10-31T05:30Z",
+    "lat_raw": "21-14.25N",
+    "lon_raw": "158-09.75W",
+    "local": "1945-10-30 2000(VW)",
+    "page": "rg367-77558379/p05",
+    "note": "Typed 21\u00b0 14' 15\" N, 158\u00b0 09' 45\" W: seconds written as decimal minutes",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.1625,
+     21.2375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "rendezvous Cape Gloucester",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-10-31T15:05Z",
+    "lat_raw": "~21-14N",
+    "lon_raw": "~158-10W",
+    "local": "1945-10-31 0535(VW)",
+    "page": "rg367-77558379/p05",
+    "note": "\"Effected rendezvous at 0535 and took plane guard station.\" Placed by interpolation.",
+    "fix": "position assumed: interpolated between the 31 Oct 0255Z and 31 Oct 0530Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.1625,
+     21.2375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-10-31T17:30Z",
+    "lat_raw": "21-71.5N",
+    "lon_raw": "158-21.5W",
+    "local": "1945-10-31 0800(VW)",
+    "page": "rg367-77558379/p05",
+    "note": "Typed 21\u00b0 71' 30\" N, 158\u00b0 21' 30\" W: 71 minutes cannot be. \"Duties completed at 0800. Returned to port and moored in berth X-23.\" Kept as typed, off the track; 21-17.5N (digits transposed) fits the 2000 fix and the harbour, but so would other readings",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.3583,
+     22.1917
     ]
    }
   }

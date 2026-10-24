@@ -7,7 +7,7 @@
     "kind": "track",
     "patrol": 1,
     "start": "1942-10-30T03:15Z",
-    "end": "1944-12-31T11:00Z"
+    "end": "1945-02-28T10:00Z"
    },
    "geometry": {
     "type": "LineString",
@@ -2643,6 +2643,546 @@
      [
       135.0,
       15.7542
+     ],
+     [
+      131.3125,
+      18.1292
+     ],
+     [
+      130.7667,
+      18.2292
+     ],
+     [
+      129.5792,
+      18.8
+     ],
+     [
+      127.8333,
+      19.7333
+     ],
+     [
+      128.3792,
+      20.1583
+     ],
+     [
+      127.0917,
+      20.9417
+     ],
+     [
+      122.7958,
+      22.125
+     ],
+     [
+      123.2125,
+      22.2167
+     ],
+     [
+      124.225,
+      21.375
+     ],
+     [
+      123.3833,
+      22.6792
+     ],
+     [
+      123.7792,
+      22.6
+     ],
+     [
+      125.4833,
+      22.425
+     ],
+     [
+      126.4458,
+      19.475
+     ],
+     [
+      126.825,
+      19.0917
+     ],
+     [
+      126.6625,
+      18.525
+     ],
+     [
+      124.0292,
+      17.275
+     ],
+     [
+      124.2333,
+      17.5833
+     ],
+     [
+      125.0167,
+      18.2458
+     ],
+     [
+      123.75,
+      16.825
+     ],
+     [
+      124.2375,
+      16.6458
+     ],
+     [
+      124.7833,
+      16.5042
+     ],
+     [
+      124.9542,
+      18.8792
+     ],
+     [
+      125.7292,
+      19.225
+     ],
+     [
+      125.5917,
+      20.1917
+     ],
+     [
+      122.6208,
+      22.1375
+     ],
+     [
+      122.7042,
+      22.875
+     ],
+     [
+      122.575,
+      22.2083
+     ],
+     [
+      120.15,
+      19.9208
+     ],
+     [
+      119.6667,
+      19.575
+     ],
+     [
+      117.9833,
+      18.5167
+     ],
+     [
+      115.9833,
+      15.1667
+     ],
+     [
+      115.85,
+      14.7
+     ],
+     [
+      114.2083,
+      13.6917
+     ],
+     [
+      110.175,
+      11.4167
+     ],
+     [
+      110.0,
+      12.6667
+     ],
+     [
+      110.6042,
+      12.5958
+     ],
+     [
+      114.05,
+      13.8
+     ],
+     [
+      114.4667,
+      14.2917
+     ],
+     [
+      115.0958,
+      14.9167
+     ],
+     [
+      116.3417,
+      16.675
+     ],
+     [
+      116.5792,
+      16.975
+     ],
+     [
+      117.5042,
+      18.0208
+     ],
+     [
+      118.35,
+      20.85
+     ],
+     [
+      118.8917,
+      21.1875
+     ],
+     [
+      118.4917,
+      20.4083
+     ],
+     [
+      115.1833,
+      20.1625
+     ],
+     [
+      115.2,
+      20.0333
+     ],
+     [
+      115.5833,
+      19.5028
+     ],
+     [
+      116.975,
+      17.2583
+     ],
+     [
+      117.25,
+      16.8167
+     ],
+     [
+      117.7333,
+      17.4167
+     ],
+     [
+      117.9708,
+      18.6208
+     ],
+     [
+      118.0083,
+      18.325
+     ],
+     [
+      117.5542,
+      16.7583
+     ],
+     [
+      117.4542,
+      13.975
+     ],
+     [
+      117.95,
+      14.7
+     ],
+     [
+      118.5417,
+      16.05
+     ],
+     [
+      119.0458,
+      18.2792
+     ],
+     [
+      119.5417,
+      19.1833
+     ],
+     [
+      121.2083,
+      20.2375
+     ],
+     [
+      122.7292,
+      22.4083
+     ],
+     [
+      123.0333,
+      22.175
+     ],
+     [
+      124.4583,
+      22.7542
+     ],
+     [
+      128.35,
+      24.4667
+     ],
+     [
+      128.425,
+      24.4667
+     ],
+     [
+      129.225,
+      25.2042
+     ],
+     [
+      127.15,
+      20.6
+     ],
+     [
+      127.5042,
+      20.0
+     ],
+     [
+      128.825,
+      19.6278
+     ],
+     [
+      131.2125,
+      17.9125
+     ],
+     [
+      131.9,
+      17.0042
+     ],
+     [
+      133.2875,
+      15.7542
+     ],
+     [
+      135.7833,
+      13.2958
+     ],
+     [
+      136.5917,
+      12.6125
+     ],
+     [
+      138.4833,
+      11.8708
+     ],
+     [
+      139.5417,
+      11.3417
+     ],
+     [
+      139.8333,
+      10.25
+     ],
+     [
+      139.7333,
+      10.0667
+     ],
+     [
+      139.7333,
+      10.0667
+     ],
+     [
+      139.7333,
+      10.0667
+     ],
+     [
+      140.0167,
+      9.8375
+     ],
+     [
+      141.4,
+      10.3833
+     ],
+     [
+      144.5292,
+      11.7792
+     ],
+     [
+      145.6125,
+      11.9917
+     ],
+     [
+      146.7292,
+      12.7542
+     ],
+     [
+      147.5542,
+      15.4542
+     ],
+     [
+      147.6542,
+      16.3375
+     ],
+     [
+      147.9292,
+      17.1208
+     ],
+     [
+      148.7542,
+      20.0833
+     ],
+     [
+      148.8542,
+      21.0208
+     ],
+     [
+      149.8542,
+      22.1958
+     ],
+     [
+      149.6458,
+      24.4
+     ],
+     [
+      149.7,
+      25.0875
+     ],
+     [
+      147.8708,
+      26.1792
+     ],
+     [
+      146.5708,
+      29.1958
+     ],
+     [
+      146.2667,
+      29.9667
+     ],
+     [
+      145.275,
+      32.0292
+     ],
+     [
+      141.2458,
+      34.0917
+     ],
+     [
+      141.4792,
+      34.0458
+     ],
+     [
+      142.6917,
+      34.8542
+     ],
+     [
+      141.8,
+      34.0625
+     ],
+     [
+      142.0458,
+      33.9417
+     ],
+     [
+      141.7667,
+      32.6
+     ],
+     [
+      141.2167,
+      29.2167
+     ],
+     [
+      140.3042,
+      28.4125
+     ],
+     [
+      139.9292,
+      27.1
+     ],
+     [
+      140.5917,
+      24.8042
+     ],
+     [
+      140.4708,
+      25.7667
+     ],
+     [
+      140.6458,
+      25.5667
+     ],
+     [
+      139.9583,
+      23.075
+     ],
+     [
+      140.075,
+      23.8792
+     ],
+     [
+      140.0917,
+      25.3292
+     ],
+     [
+      140.0417,
+      25.175
+     ],
+     [
+      140.3042,
+      25.2875
+     ],
+     [
+      140.8,
+      25.9042
+     ],
+     [
+      139.9583,
+      24.9167
+     ],
+     [
+      140.1333,
+      24.6375
+     ],
+     [
+      141.5167,
+      23.2833
+     ],
+     [
+      144.9042,
+      24.975
+     ],
+     [
+      145.0083,
+      25.55
+     ],
+     [
+      145.0125,
+      26.6542
+     ],
+     [
+      146.65,
+      28.8792
+     ],
+     [
+      146.4958,
+      29.4042
+     ],
+     [
+      145.3667,
+      30.7667
+     ],
+     [
+      142.4333,
+      33.2667
+     ],
+     [
+      142.7083,
+      33.8625
+     ],
+     [
+      141.9625,
+      32.6
+     ],
+     [
+      139.725,
+      30.5667
+     ],
+     [
+      139.725,
+      29.6792
+     ],
+     [
+      140.125,
+      23.8333
+     ],
+     [
+      140.55,
+      23.0833
+     ],
+     [
+      139.0875,
+      22.625
+     ],
+     [
+      135.5167,
+      22.9417
+     ],
+     [
+      134.6375,
+      23.0083
+     ],
+     [
+      132.4125,
+      22.8458
      ]
     ]
    }
@@ -18078,6 +18618,3136 @@
     "coordinates": [
      135.0,
      15.7542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-12-31T23:00Z",
+    "lat_raw": "18-7.75N",
+    "lon_raw": "131-18.75E",
+    "local": "1945-01-01 0800(I)",
+    "page": "rg367-139891872/p01",
+    "note": "Diary types \"Keeping minus 9 zone time\" (I); no change until 0000 on 26 January; Typed 18\u00b007'45\"N 131\u00b018'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.3125,
+     18.1292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-01T03:00Z",
+    "lat_raw": "18-13.75N",
+    "lon_raw": "130-46E",
+    "local": "1945-01-01 1200(I)",
+    "page": "rg367-139891872/p01",
+    "note": "Typed 18\u00b013'45\"N 130\u00b046'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.7667,
+     18.2292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-01T11:00Z",
+    "lat_raw": "18-48N",
+    "lon_raw": "129-34.75E",
+    "local": "1945-01-01 2000(I)",
+    "page": "rg367-139891872/p01",
+    "note": "Typed 18\u00b048'00\"N 129\u00b034'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.5792,
+     18.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-01T23:00Z",
+    "lat_raw": "19-44N",
+    "lon_raw": "127-50E",
+    "local": "1945-01-02 0800(I)",
+    "page": "rg367-139891872/p03",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.8333,
+     19.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-02T03:00Z",
+    "lat_raw": "20-9.5N",
+    "lon_raw": "128-22.75E",
+    "local": "1945-01-02 1200(I)",
+    "page": "rg367-139891872/p03",
+    "note": "Typed 20\u00b009'30\"N 128\u00b022'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.3792,
+     20.1583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-02T11:00Z",
+    "lat_raw": "20-56.5N",
+    "lon_raw": "127-5.5E",
+    "local": "1945-01-02 2000(I)",
+    "page": "rg367-139891872/p03",
+    "note": "Typed 20\u00b056'30\"N 127\u00b005'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0917,
+     20.9417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-02T23:00Z",
+    "lat_raw": "22-7.5N",
+    "lon_raw": "122-47.75E",
+    "local": "1945-01-03 0800(I)",
+    "page": "rg367-139891872/p03",
+    "note": "Typed 22\u00b007'30\"N 122\u00b047'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.7958,
+     22.125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-03T03:00Z",
+    "lat_raw": "22-13N",
+    "lon_raw": "123-12.75E",
+    "local": "1945-01-03 1200(I)",
+    "page": "rg367-139891872/p03",
+    "note": "Typed 22\u00b013'00\"N 123\u00b012'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.2125,
+     22.2167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-03T11:00Z",
+    "lat_raw": "21-22.5N",
+    "lon_raw": "124-13.5E",
+    "local": "1945-01-03 2000(I)",
+    "page": "rg367-139891872/p03",
+    "note": "Typed 21\u00b022'30\"N 124\u00b013'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.225,
+     21.375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-03T23:00Z",
+    "lat_raw": "22-40.75N",
+    "lon_raw": "123-23E",
+    "local": "1945-01-04 0800(I)",
+    "page": "rg367-139891872/p04",
+    "note": "Typed 22\u00b040'45\"N 123\u00b023'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.3833,
+     22.6792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-04T03:00Z",
+    "lat_raw": "22-36N",
+    "lon_raw": "123-46.75E",
+    "local": "1945-01-04 1200(I)",
+    "page": "rg367-139891872/p04",
+    "note": "Typed 22\u00b036'00\"N 123\u00b046'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.7792,
+     22.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-04T11:00Z",
+    "lat_raw": "22-25.5N",
+    "lon_raw": "125-29E",
+    "local": "1945-01-04 2000(I)",
+    "page": "rg367-139891872/p04",
+    "note": "Typed 22\u00b025'30\"N 125\u00b029'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.4833,
+     22.425
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-04T23:00Z",
+    "lat_raw": "19-28.5N",
+    "lon_raw": "126-26.75E",
+    "local": "1945-01-05 0800(I)",
+    "page": "rg367-139891872/p04",
+    "note": "Typed 19\u00b028'30\"N 126\u00b026'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.4458,
+     19.475
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-05T03:00Z",
+    "lat_raw": "19-5.5N",
+    "lon_raw": "126-49.5E",
+    "local": "1945-01-05 1200(I)",
+    "page": "rg367-139891872/p04",
+    "note": "Typed 19\u00b005'30\"N 126\u00b049'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.825,
+     19.0917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-05T11:00Z",
+    "lat_raw": "18-31.5N",
+    "lon_raw": "126-39.75E",
+    "local": "1945-01-05 2000(I)",
+    "page": "rg367-139891872/p04",
+    "note": "Typed 18\u00b031'30\"N 126\u00b039'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.6625,
+     18.525
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-05T23:00Z",
+    "lat_raw": "17-16.5N",
+    "lon_raw": "124-1.75E",
+    "local": "1945-01-06 0800(I)",
+    "page": "rg367-139891872/p04",
+    "note": "Typed 17\u00b016'30\"N 124\u00b001'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.0292,
+     17.275
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-06T03:00Z",
+    "lat_raw": "17-35N",
+    "lon_raw": "124-14E",
+    "local": "1945-01-06 1200(I)",
+    "page": "rg367-139891872/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2333,
+     17.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-06T11:00Z",
+    "lat_raw": "18-14.75N",
+    "lon_raw": "125-1E",
+    "local": "1945-01-06 2000(I)",
+    "page": "rg367-139891872/p04",
+    "note": "Typed 18\u00b014'45\"N 125\u00b001'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.0167,
+     18.2458
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-06T23:00Z",
+    "lat_raw": "16-49.5N",
+    "lon_raw": "123-45E",
+    "local": "1945-01-07 0800(I)",
+    "page": "rg367-139891872/p05",
+    "note": "Typed 16\u00b049'30\"N 123\u00b045'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.75,
+     16.825
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-07T03:00Z",
+    "lat_raw": "16-38.75N",
+    "lon_raw": "124-14.25E",
+    "local": "1945-01-07 1200(I)",
+    "page": "rg367-139891872/p05",
+    "note": "Typed 16\u00b038'45\"N 124\u00b014'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2375,
+     16.6458
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-07T11:00Z",
+    "lat_raw": "16-30.25N",
+    "lon_raw": "124-47E",
+    "local": "1945-01-07 2000(I)",
+    "page": "rg367-139891872/p05",
+    "note": "Typed 16\u00b030'15\"N 124\u00b047'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.7833,
+     16.5042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-07T23:00Z",
+    "lat_raw": "18-52.75N",
+    "lon_raw": "124-57.25E",
+    "local": "1945-01-08 0800(I)",
+    "page": "rg367-139891872/p05",
+    "note": "Typed 18\u00b052'45\"N 124\u00b057'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.9542,
+     18.8792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-08T03:00Z",
+    "lat_raw": "19-13.5N",
+    "lon_raw": "125-43.75E",
+    "local": "1945-01-08 1200(I)",
+    "page": "rg367-139891872/p05",
+    "note": "Typed 19\u00b013'30\"N 125\u00b043'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.7292,
+     19.225
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-08T11:00Z",
+    "lat_raw": "20-11.5N",
+    "lon_raw": "125-35.5E",
+    "local": "1945-01-08 2000(I)",
+    "page": "rg367-139891872/p05",
+    "note": "Typed 20\u00b011'30\"N 125\u00b035'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.5917,
+     20.1917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-08T23:00Z",
+    "lat_raw": "22-8.25N",
+    "lon_raw": "122-37.25E",
+    "local": "1945-01-09 0800(I)",
+    "page": "rg367-139891872/p06",
+    "note": "Typed 22\u00b008'15\"N 122\u00b037'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.6208,
+     22.1375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-09T03:00Z",
+    "lat_raw": "22-52.5N",
+    "lon_raw": "122-42.25E",
+    "local": "1945-01-09 1200(I)",
+    "page": "rg367-139891872/p06",
+    "note": "Typed 22\u00b052'30\"N 122\u00b042'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.7042,
+     22.875
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-09T11:00Z",
+    "lat_raw": "22-12.5N",
+    "lon_raw": "122-34.5E",
+    "local": "1945-01-09 2000(I)",
+    "page": "rg367-139891872/p06",
+    "note": "Typed 22\u00b012'30\"N 122\u00b034'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.575,
+     22.2083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-09T23:00Z",
+    "lat_raw": "19-55.25N",
+    "lon_raw": "120-9E",
+    "local": "1945-01-10 0800(I)",
+    "page": "rg367-139891872/p07",
+    "note": "Typed 19\u00b055'15\"N 120\u00b009'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.15,
+     19.9208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-10T03:00Z",
+    "lat_raw": "19-34.5N",
+    "lon_raw": "119-40E",
+    "local": "1945-01-10 1200(I)",
+    "page": "rg367-139891872/p07",
+    "note": "Typed 19\u00b034'30\"N 119\u00b040'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.6667,
+     19.575
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-10T11:00Z",
+    "lat_raw": "18-31N",
+    "lon_raw": "117-59E",
+    "local": "1945-01-10 2000(I)",
+    "page": "rg367-139891872/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.9833,
+     18.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-10T23:00Z",
+    "lat_raw": "15-10N",
+    "lon_raw": "115-59E",
+    "local": "1945-01-11 0800(I)",
+    "page": "rg367-139891872/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.9833,
+     15.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-11T03:00Z",
+    "lat_raw": "14-42N",
+    "lon_raw": "115-51E",
+    "local": "1945-01-11 1200(I)",
+    "page": "rg367-139891872/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.85,
+     14.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-11T11:00Z",
+    "lat_raw": "13-41.5N",
+    "lon_raw": "114-12.5E",
+    "local": "1945-01-11 2000(I)",
+    "page": "rg367-139891872/p07",
+    "note": "Typed 13\u00b041'30\"N 114\u00b012'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.2083,
+     13.6917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-11T23:00Z",
+    "lat_raw": "11-25N",
+    "lon_raw": "110-10.5E",
+    "local": "1945-01-12 0800(I)",
+    "page": "rg367-139891872/p08",
+    "note": "Typed 11\u00b025'00\"N 110\u00b010'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.175,
+     11.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-12T03:00Z",
+    "lat_raw": "12-40N",
+    "lon_raw": "110-0E",
+    "local": "1945-01-12 1200(I)",
+    "page": "rg367-139891872/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.0,
+     12.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-12T11:00Z",
+    "lat_raw": "12-35.75N",
+    "lon_raw": "110-36.25E",
+    "local": "1945-01-12 2000(I)",
+    "page": "rg367-139891872/p08",
+    "note": "Typed 12\u00b035'45\"N 110\u00b036'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.6042,
+     12.5958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-12T23:00Z",
+    "lat_raw": "13-48N",
+    "lon_raw": "114-3E",
+    "local": "1945-01-13 0800(I)",
+    "page": "rg367-139891872/p08",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.05,
+     13.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-13T03:00Z",
+    "lat_raw": "14-17.5N",
+    "lon_raw": "114-28E",
+    "local": "1945-01-13 1200(I)",
+    "page": "rg367-139891872/p08",
+    "note": "Typed 14\u00b017'30\"N 114\u00b028'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.4667,
+     14.2917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-13T11:00Z",
+    "lat_raw": "14-55N",
+    "lon_raw": "115-5.75E",
+    "local": "1945-01-13 2000(I)",
+    "page": "rg367-139891872/p08",
+    "note": "Typed 14\u00b055'00\"N 115\u00b005'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.0958,
+     14.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-13T23:00Z",
+    "lat_raw": "16-40.5N",
+    "lon_raw": "116-20.5E",
+    "local": "1945-01-14 0800(I)",
+    "page": "rg367-139891872/p09",
+    "note": "Typed 16\u00b040'30\"N 116\u00b020'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.3417,
+     16.675
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-14T03:00Z",
+    "lat_raw": "16-58.5N",
+    "lon_raw": "116-34.75E",
+    "local": "1945-01-14 1200(I)",
+    "page": "rg367-139891872/p09",
+    "note": "Typed 16\u00b058'30\"N 116\u00b034'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.5792,
+     16.975
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-14T11:00Z",
+    "lat_raw": "18-1.25N",
+    "lon_raw": "117-30.25E",
+    "local": "1945-01-14 2000(I)",
+    "page": "rg367-139891872/p09",
+    "note": "Typed 18\u00b001'15\"N 117\u00b030'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.5042,
+     18.0208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-14T23:00Z",
+    "lat_raw": "20-51N",
+    "lon_raw": "118-21E",
+    "local": "1945-01-15 0800(I)",
+    "page": "rg367-139891872/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.35,
+     20.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-15T03:00Z",
+    "lat_raw": "21-11.25N",
+    "lon_raw": "118-53.5E",
+    "local": "1945-01-15 1200(I)",
+    "page": "rg367-139891872/p09",
+    "note": "Typed 21\u00b011'15\"N 118\u00b053'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.8917,
+     21.1875
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-15T11:00Z",
+    "lat_raw": "20-24.5N",
+    "lon_raw": "118-29.5E",
+    "local": "1945-01-15 2000(I)",
+    "page": "rg367-139891872/p09",
+    "note": "Typed 20\u00b024'30\"N 118\u00b029'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.4917,
+     20.4083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-15T23:00Z",
+    "lat_raw": "20-9.75N",
+    "lon_raw": "115-11E",
+    "local": "1945-01-16 0800(I)",
+    "page": "rg367-139891872/p10",
+    "note": "Typed 20\u00b009'45\"N 115\u00b011'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.1833,
+     20.1625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-16T03:00Z",
+    "lat_raw": "20-2N",
+    "lon_raw": "115-12E",
+    "local": "1945-01-16 1200(I)",
+    "page": "rg367-139891872/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.2,
+     20.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-16T11:00Z",
+    "lat_raw": "19-30.17N",
+    "lon_raw": "115-35E",
+    "local": "1945-01-16 2000(I)",
+    "page": "rg367-139891872/p10",
+    "note": "Typed 19\u00b030'10\"N 115\u00b035'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.5833,
+     19.5028
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-16T23:00Z",
+    "lat_raw": "17-15.5N",
+    "lon_raw": "116-58.5E",
+    "local": "1945-01-17 0800(I)",
+    "page": "rg367-139891872/p10",
+    "note": "Typed 17\u00b015'30\"N 116\u00b058'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.975,
+     17.2583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-17T03:00Z",
+    "lat_raw": "16-49N",
+    "lon_raw": "117-15E",
+    "local": "1945-01-17 1200(I)",
+    "page": "rg367-139891872/p10",
+    "note": "Latitude typed 168\u00b049' on the scan (a degree sign over the 6); read 16\u00b049'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.25,
+     16.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-17T11:00Z",
+    "lat_raw": "17-25N",
+    "lon_raw": "117-44E",
+    "local": "1945-01-17 2000(I)",
+    "page": "rg367-139891872/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.7333,
+     17.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-17T23:00Z",
+    "lat_raw": "18-37.25N",
+    "lon_raw": "117-58.25E",
+    "local": "1945-01-18 0800(I)",
+    "page": "rg367-139891872/p10",
+    "note": "Typed 18\u00b037'15\"N 117\u00b058'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.9708,
+     18.6208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-18T03:00Z",
+    "lat_raw": "18-19.5N",
+    "lon_raw": "118-0.5E",
+    "local": "1945-01-18 1200(I)",
+    "page": "rg367-139891872/p10",
+    "note": "Typed 18\u00b019'30\"N 118\u00b000'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.0083,
+     18.325
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-18T11:00Z",
+    "lat_raw": "16-45.5N",
+    "lon_raw": "117-33.25E",
+    "local": "1945-01-18 2000(I)",
+    "page": "rg367-139891872/p10",
+    "note": "Typed 16\u00b045'30\"N 117\u00b033'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.5542,
+     16.7583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-18T23:00Z",
+    "lat_raw": "13-58.5N",
+    "lon_raw": "117-27.25E",
+    "local": "1945-01-19 0800(I)",
+    "page": "rg367-139891872/p10",
+    "note": "Typed 13\u00b058'30\"N 117\u00b027'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.4542,
+     13.975
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-19T03:00Z",
+    "lat_raw": "14-42N",
+    "lon_raw": "117-57E",
+    "local": "1945-01-19 1200(I)",
+    "page": "rg367-139891872/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.95,
+     14.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-19T11:00Z",
+    "lat_raw": "16-3N",
+    "lon_raw": "118-32.5E",
+    "local": "1945-01-19 2000(I)",
+    "page": "rg367-139891872/p10",
+    "note": "Typed 16\u00b003'00\"N 118\u00b032'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.5417,
+     16.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-19T23:00Z",
+    "lat_raw": "18-16.75N",
+    "lon_raw": "119-2.75E",
+    "local": "1945-01-20 0800(I)",
+    "page": "rg367-139891872/p11",
+    "note": "Typed 18\u00b016'45\"N 119\u00b002'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.0458,
+     18.2792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-20T03:00Z",
+    "lat_raw": "19-11N",
+    "lon_raw": "119-32.5E",
+    "local": "1945-01-20 1200(I)",
+    "page": "rg367-139891872/p11",
+    "note": "Typed 19\u00b011'00\"N 119\u00b032'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.5417,
+     19.1833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-20T11:00Z",
+    "lat_raw": "20-14.25N",
+    "lon_raw": "121-12.5E",
+    "local": "1945-01-20 2000(I)",
+    "page": "rg367-139891872/p11",
+    "note": "Typed 20\u00b014'15\"N 121\u00b012'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.2083,
+     20.2375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-20T23:00Z",
+    "lat_raw": "22-24.5N",
+    "lon_raw": "122-43.75E",
+    "local": "1945-01-21 0800(I)",
+    "page": "rg367-139891872/p11",
+    "note": "Typed 22\u00b024'30\"N 122\u00b043'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.7292,
+     22.4083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-21T03:00Z",
+    "lat_raw": "22-10.5N",
+    "lon_raw": "123-2E",
+    "local": "1945-01-21 1200(I)",
+    "page": "rg367-139891872/p11",
+    "note": "Typed 22\u00b010'30\"N 123\u00b002'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.0333,
+     22.175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-21T11:00Z",
+    "lat_raw": "22-45.25N",
+    "lon_raw": "124-27.5E",
+    "local": "1945-01-21 2000(I)",
+    "page": "rg367-139891872/p11",
+    "note": "Typed 22\u00b045'15\"N 124\u00b027'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.4583,
+     22.7542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-21T23:00Z",
+    "lat_raw": "24-28N",
+    "lon_raw": "128-21E",
+    "local": "1945-01-22 0800(I)",
+    "page": "rg367-139891872/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.35,
+     24.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-22T03:00Z",
+    "lat_raw": "24-28N",
+    "lon_raw": "128-25.5E",
+    "local": "1945-01-22 1200(I)",
+    "page": "rg367-139891872/p12",
+    "note": "Typed 24\u00b028'00\"N 128\u00b025'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.425,
+     24.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-22T11:00Z",
+    "lat_raw": "25-12.25N",
+    "lon_raw": "129-13.5E",
+    "local": "1945-01-22 2000(I)",
+    "page": "rg367-139891872/p12",
+    "note": "Typed 25\u00b012'15\"N 129\u00b013'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.225,
+     25.2042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-22T23:00Z",
+    "lat_raw": "20-36N",
+    "lon_raw": "127-9E",
+    "local": "1945-01-23 0800(I)",
+    "page": "rg367-139891872/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.15,
+     20.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-23T03:00Z",
+    "lat_raw": "20-0N",
+    "lon_raw": "127-30.25E",
+    "local": "1945-01-23 1200(I)",
+    "page": "rg367-139891872/p12",
+    "note": "Typed 20\u00b000'00\"N 127\u00b030'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.5042,
+     20.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-23T11:00Z",
+    "lat_raw": "19-37.67N",
+    "lon_raw": "128-49.5E",
+    "local": "1945-01-23 2000(I)",
+    "page": "rg367-139891872/p12",
+    "note": "Typed 19\u00b037'40\"N 128\u00b049'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.825,
+     19.6278
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-23T23:00Z",
+    "lat_raw": "17-54.75N",
+    "lon_raw": "131-12.75E",
+    "local": "1945-01-24 0800(I)",
+    "page": "rg367-139891872/p13",
+    "note": "Typed 17\u00b054'45\"N 131\u00b012'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.2125,
+     17.9125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-24T03:00Z",
+    "lat_raw": "17-0.25N",
+    "lon_raw": "131-54E",
+    "local": "1945-01-24 1200(I)",
+    "page": "rg367-139891872/p13",
+    "note": "Typed 17\u00b000'15\"N 131\u00b054'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.9,
+     17.0042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-24T11:00Z",
+    "lat_raw": "15-45.25N",
+    "lon_raw": "133-17.25E",
+    "local": "1945-01-24 2000(I)",
+    "page": "rg367-139891872/p13",
+    "note": "Typed 15\u00b045'15\"N 133\u00b017'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.2875,
+     15.7542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-24T23:00Z",
+    "lat_raw": "13-17.75N",
+    "lon_raw": "135-47E",
+    "local": "1945-01-25 0800(I)",
+    "page": "rg367-139891872/p13",
+    "note": "Typed 13\u00b017'45\"N 135\u00b047'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.7833,
+     13.2958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-25T03:00Z",
+    "lat_raw": "12-36.75N",
+    "lon_raw": "136-35.5E",
+    "local": "1945-01-25 1200(I)",
+    "page": "rg367-139891872/p13",
+    "note": "Typed 12\u00b036'45\"N 136\u00b035'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.5917,
+     12.6125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-25T11:00Z",
+    "lat_raw": "11-52.25N",
+    "lon_raw": "138-29E",
+    "local": "1945-01-25 2000(I)",
+    "page": "rg367-139891872/p13",
+    "note": "Typed 11\u00b052'15\"N 138\u00b029'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.4833,
+     11.8708
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-25T22:00Z",
+    "lat_raw": "11-20.5N",
+    "lon_raw": "139-32.5E",
+    "local": "1945-01-26 0800(K)",
+    "page": "rg367-139891872/p14",
+    "note": "At 0000 set all clocks ahead one hour to minus ten (K from here); Typed 11\u00b020'30\"N 139\u00b032'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5417,
+     11.3417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-26T02:00Z",
+    "lat_raw": "10-15N",
+    "lon_raw": "139-50E",
+    "typed": "10-15N 135-50E",
+    "local": "1945-01-26 1200(K)",
+    "page": "rg367-139891872/p14",
+    "note": "",
+    "fix": "Typed 135\u00b050'00\"E, 4 degrees west of Ulithi, where she anchored at 1355 and where the 0800 fix is 139-32E; 139-50E (one digit) fits both. Inferred"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8333,
+     10.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "enter Ulithi lagoon",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-26T03:09Z",
+    "lat_raw": "10-04N",
+    "lon_raw": "139-44E",
+    "local": "1945-01-26 1309(K)",
+    "page": "rg367-139891872/p14",
+    "note": "\"At 1309 commenced steaming on various courses and at various speeds to enter ULITHI lagoon through MUGAI channel.\" Port position: the diary types no coordinates; standard Ulithi harbour position used (10-04N 139-44E, as in the December 1944 rows).",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7333,
+     10.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "anchored Ulithi berth 6",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-01-26T03:55Z",
+    "lat_raw": "10-04N",
+    "lon_raw": "139-44E",
+    "local": "1945-01-26 1355(K)",
+    "page": "rg367-139891872/p14",
+    "note": "\"At 1355 anchored in berth #6 in 22 fathoms of water with 90 fathoms of chain to the port anchor.\" (27 to 31 January: anchored in Ulithi, no positions or times; \"reported to Commander FIFTH Fleet ... a unit of Task Group 58.3\".) Port position: the diary types no coordinates; standard Ulithi harbour position used (10-04N 139-44E, as in the December 1944 rows).",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7333,
+     10.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Ulithi",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-09T23:05Z",
+    "lat_raw": "10-04N",
+    "lon_raw": "139-44E",
+    "local": "1945-02-10 0905(K)",
+    "page": "rg367-139900467/p02",
+    "note": "\"At 0905 underway and stood out of harbor as a part of Task Group 58.3 ... Operation Order No. 2-45.\" Port position: the diary types no coordinates; standard Ulithi harbour position used (10-04N 139-44E, as in the other ships' diaries). (1-10 Feb: anchored in berth #6, Ulithi; 4 Feb shifted to \"firing berth ABLE\" for AA practice, LCI 681 scraped alongside; no times.)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7333,
+     10.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-10T02:00Z",
+    "lat_raw": "09-50.25N",
+    "lon_raw": "140-1E",
+    "local": "1945-02-10 1200(K)",
+    "page": "rg367-139900467/p02",
+    "note": "Diary types \"Keeping minus 10 zone time\" for 1-10 Feb and no change after it; K is written for the whole month (an assumption: the ship went east to 150E and then north to 34N 141E); Typed 09\u00b050'15\"N 140\u00b001'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0167,
+     9.8375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-10T10:00Z",
+    "lat_raw": "10-23N",
+    "lon_raw": "141-24E",
+    "local": "1945-02-10 2000(K)",
+    "page": "rg367-139900467/p02",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.4,
+     10.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-10T22:00Z",
+    "lat_raw": "11-46.75N",
+    "lon_raw": "144-31.75E",
+    "local": "1945-02-11 0800(K)",
+    "page": "rg367-139900467/p03",
+    "note": "Typed 11\u00b046'45\"N 144\u00b031'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.5292,
+     11.7792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-11T02:00Z",
+    "lat_raw": "11-59.5N",
+    "lon_raw": "145-36.75E",
+    "local": "1945-02-11 1200(K)",
+    "page": "rg367-139900467/p03",
+    "note": "Typed 11\u00b059'30\"N 145\u00b036'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.6125,
+     11.9917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-11T10:00Z",
+    "lat_raw": "12-45.25N",
+    "lon_raw": "146-43.75E",
+    "local": "1945-02-11 2000(K)",
+    "page": "rg367-139900467/p03",
+    "note": "Typed 12\u00b045'15\"N 146\u00b043'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.7292,
+     12.7542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-11T22:00Z",
+    "lat_raw": "15-27.25N",
+    "lon_raw": "147-33.25E",
+    "local": "1945-02-12 0800(K)",
+    "page": "rg367-139900467/p04",
+    "note": "Typed 15\u00b027'15\"N 147\u00b033'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.5542,
+     15.4542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-12T02:00Z",
+    "lat_raw": "16-20.25N",
+    "lon_raw": "147-39.25E",
+    "local": "1945-02-12 1200(K)",
+    "page": "rg367-139900467/p04",
+    "note": "Typed 16\u00b020'15\"N 147\u00b039'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.6542,
+     16.3375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-12T10:00Z",
+    "lat_raw": "17-7.25N",
+    "lon_raw": "147-55.75E",
+    "local": "1945-02-12 2000(K)",
+    "page": "rg367-139900467/p04",
+    "note": "Typed 17\u00b007'15\"N 147\u00b055'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.9292,
+     17.1208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-12T22:00Z",
+    "lat_raw": "20-5N",
+    "lon_raw": "148-45.25E",
+    "local": "1945-02-13 0800(K)",
+    "page": "rg367-139900467/p04",
+    "note": "Typed 20\u00b005'00\"N 148\u00b045'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.7542,
+     20.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-13T02:00Z",
+    "lat_raw": "21-1.25N",
+    "lon_raw": "148-51.25E",
+    "local": "1945-02-13 1200(K)",
+    "page": "rg367-139900467/p04",
+    "note": "Typed 21\u00b001'15\"N 148\u00b051'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.8542,
+     21.0208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-13T10:00Z",
+    "lat_raw": "22-11.75N",
+    "lon_raw": "149-51.25E",
+    "local": "1945-02-13 2000(K)",
+    "page": "rg367-139900467/p04",
+    "note": "Typed 22\u00b011'45\"N 149\u00b051'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.8542,
+     22.1958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-13T22:00Z",
+    "lat_raw": "24-24N",
+    "lon_raw": "149-38.75E",
+    "local": "1945-02-14 0800(K)",
+    "page": "rg367-139900467/p05",
+    "note": "Typed 24\u00b024'00\"N 149\u00b038'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.6458,
+     24.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-14T02:00Z",
+    "lat_raw": "25-5.25N",
+    "lon_raw": "149-42E",
+    "local": "1945-02-14 1200(K)",
+    "page": "rg367-139900467/p05",
+    "note": "Typed 25\u00b005'15\"N 149\u00b042'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.7,
+     25.0875
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-14T10:00Z",
+    "lat_raw": "26-10.75N",
+    "lon_raw": "147-52.25E",
+    "local": "1945-02-14 2000(K)",
+    "page": "rg367-139900467/p05",
+    "note": "Typed 26\u00b010'45\"N 147\u00b052'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.8708,
+     26.1792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-14T22:00Z",
+    "lat_raw": "29-11.75N",
+    "lon_raw": "146-34.25E",
+    "local": "1945-02-15 0800(K)",
+    "page": "rg367-139900467/p06",
+    "note": "Typed 29\u00b011'45\"N 146\u00b034'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.5708,
+     29.1958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-15T02:00Z",
+    "lat_raw": "29-58N",
+    "lon_raw": "146-16E",
+    "local": "1945-02-15 1200(K)",
+    "page": "rg367-139900467/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.2667,
+     29.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-15T10:00Z",
+    "lat_raw": "32-1.75N",
+    "lon_raw": "145-16.5E",
+    "local": "1945-02-15 2000(K)",
+    "page": "rg367-139900467/p06",
+    "note": "Typed 32\u00b001'45\"N 145\u00b016'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.275,
+     32.0292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-15T22:00Z",
+    "lat_raw": "34-5.5N",
+    "lon_raw": "141-14.75E",
+    "local": "1945-02-16 0800(K)",
+    "page": "rg367-139900467/p06",
+    "note": "Typed 34\u00b005'30\"N 141\u00b014'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.2458,
+     34.0917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-16T02:00Z",
+    "lat_raw": "34-2.75N",
+    "lon_raw": "141-28.75E",
+    "local": "1945-02-16 1200(K)",
+    "page": "rg367-139900467/p06",
+    "note": "Typed 34\u00b002'45\"N 141\u00b028'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.4792,
+     34.0458
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-16T10:00Z",
+    "lat_raw": "34-51.25N",
+    "lon_raw": "142-41.5E",
+    "local": "1945-02-16 2000(K)",
+    "page": "rg367-139900467/p06",
+    "note": "Typed 34\u00b051'15\"N 142\u00b041'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.6917,
+     34.8542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-16T22:00Z",
+    "lat_raw": "34-3.75N",
+    "lon_raw": "141-48E",
+    "local": "1945-02-17 0800(K)",
+    "page": "rg367-139900467/p06",
+    "note": "Typed 34\u00b003'45\"N 141\u00b048'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.8,
+     34.0625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-17T02:00Z",
+    "lat_raw": "33-56.5N",
+    "lon_raw": "142-2.75E",
+    "local": "1945-02-17 1200(K)",
+    "page": "rg367-139900467/p06",
+    "note": "Typed 33\u00b056'30\"N 142\u00b002'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.0458,
+     33.9417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-17T10:00Z",
+    "lat_raw": "32-36N",
+    "lon_raw": "141-46E",
+    "local": "1945-02-17 2000(K)",
+    "page": "rg367-139900467/p06",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.7667,
+     32.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-17T22:00Z",
+    "lat_raw": "29-13N",
+    "lon_raw": "141-13E",
+    "local": "1945-02-18 0800(K)",
+    "page": "rg367-139900467/p07",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.2167,
+     29.2167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-18T02:00Z",
+    "lat_raw": "28-24.75N",
+    "lon_raw": "140-18.25E",
+    "local": "1945-02-18 1200(K)",
+    "page": "rg367-139900467/p07",
+    "note": "Typed 28\u00b024'45\"N 140\u00b018'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.3042,
+     28.4125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-18T10:00Z",
+    "lat_raw": "27-6N",
+    "lon_raw": "139-55.75E",
+    "local": "1945-02-18 2000(K)",
+    "page": "rg367-139900467/p07",
+    "note": "Typed 27\u00b006'00\"N 139\u00b055'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9292,
+     27.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-18T22:00Z",
+    "lat_raw": "24-48.25N",
+    "lon_raw": "140-35.5E",
+    "local": "1945-02-19 0800(K)",
+    "page": "rg367-139900467/p07",
+    "note": "Typed 24\u00b048'15\"N 140\u00b035'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.5917,
+     24.8042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-19T02:00Z",
+    "lat_raw": "25-46N",
+    "lon_raw": "140-28.25E",
+    "local": "1945-02-19 1200(K)",
+    "page": "rg367-139900467/p07",
+    "note": "Typed 25\u00b046'00\"N 140\u00b028'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.4708,
+     25.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-19T10:00Z",
+    "lat_raw": "25-34N",
+    "lon_raw": "140-38.75E",
+    "local": "1945-02-19 2000(K)",
+    "page": "rg367-139900467/p07",
+    "note": "Typed 25\u00b034'00\"N 140\u00b038'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.6458,
+     25.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-19T22:00Z",
+    "lat_raw": "23-4.5N",
+    "lon_raw": "139-57.5E",
+    "local": "1945-02-20 0800(K)",
+    "page": "rg367-139900467/p08",
+    "note": "Typed 23\u00b004'30\"N 139\u00b057'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9583,
+     23.075
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-20T02:00Z",
+    "lat_raw": "23-52.75N",
+    "lon_raw": "140-4.5E",
+    "local": "1945-02-20 1200(K)",
+    "page": "rg367-139900467/p08",
+    "note": "Typed 23\u00b052'45\"N 140\u00b004'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.075,
+     23.8792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-20T10:00Z",
+    "lat_raw": "25-19.75N",
+    "lon_raw": "140-5.5E",
+    "local": "1945-02-20 2000(K)",
+    "page": "rg367-139900467/p08",
+    "note": "Typed 25\u00b019'45\"N 140\u00b005'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0917,
+     25.3292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-20T22:00Z",
+    "lat_raw": "25-10.5N",
+    "lon_raw": "140-2.5E",
+    "local": "1945-02-21 0800(K)",
+    "page": "rg367-139900467/p08",
+    "note": "Typed 25\u00b010'30\"N 140\u00b002'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.0417,
+     25.175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-21T02:00Z",
+    "lat_raw": "25-17.25N",
+    "lon_raw": "140-18.25E",
+    "local": "1945-02-21 1200(K)",
+    "page": "rg367-139900467/p08",
+    "note": "Typed 25\u00b017'15\"N 140\u00b018'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.3042,
+     25.2875
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-21T10:00Z",
+    "lat_raw": "25-54.25N",
+    "lon_raw": "140-48E",
+    "local": "1945-02-21 2000(K)",
+    "page": "rg367-139900467/p08",
+    "note": "Typed 25\u00b054'15\"N 140\u00b048'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.8,
+     25.9042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-21T22:00Z",
+    "lat_raw": "24-55N",
+    "lon_raw": "139-57.5E",
+    "local": "1945-02-22 0800(K)",
+    "page": "rg367-139900467/p09",
+    "note": "Typed 24\u00b055'00\"N 139\u00b057'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9583,
+     24.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-22T02:00Z",
+    "lat_raw": "24-38.25N",
+    "lon_raw": "140-8E",
+    "local": "1945-02-22 1200(K)",
+    "page": "rg367-139900467/p09",
+    "note": "Typed 24\u00b038'15\"N 140\u00b008'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.1333,
+     24.6375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-22T10:00Z",
+    "lat_raw": "23-17N",
+    "lon_raw": "141-31E",
+    "local": "1945-02-22 2000(K)",
+    "page": "rg367-139900467/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.5167,
+     23.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-22T22:00Z",
+    "lat_raw": "24-58.5N",
+    "lon_raw": "144-54.25E",
+    "local": "1945-02-23 0800(K)",
+    "page": "rg367-139900467/p10",
+    "note": "Typed 24\u00b058'30\"N 144\u00b054'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9042,
+     24.975
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-23T02:00Z",
+    "lat_raw": "25-33N",
+    "lon_raw": "145-0.5E",
+    "local": "1945-02-23 1200(K)",
+    "page": "rg367-139900467/p10",
+    "note": "Typed 25\u00b033'00\"N 145\u00b000'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.0083,
+     25.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-23T10:00Z",
+    "lat_raw": "26-39.25N",
+    "lon_raw": "145-0.75E",
+    "local": "1945-02-23 2000(K)",
+    "page": "rg367-139900467/p10",
+    "note": "Typed 26\u00b039'15\"N 145\u00b000'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.0125,
+     26.6542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-23T22:00Z",
+    "lat_raw": "28-52.75N",
+    "lon_raw": "146-39E",
+    "local": "1945-02-24 0800(K)",
+    "page": "rg367-139900467/p11",
+    "note": "Typed 28\u00b052'45\"N 146\u00b039'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.65,
+     28.8792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-24T02:00Z",
+    "lat_raw": "29-24.25N",
+    "lon_raw": "146-29.75E",
+    "local": "1945-02-24 1200(K)",
+    "page": "rg367-139900467/p11",
+    "note": "Typed 29\u00b024'15\"N 146\u00b029'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.4958,
+     29.4042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-24T10:00Z",
+    "lat_raw": "30-46N",
+    "lon_raw": "145-22E",
+    "typed": "50-46N 145-22E",
+    "local": "1945-02-24 2000(K)",
+    "page": "rg367-139900467/p11",
+    "note": "Latitude typed 50\u00b046' (a 5 for a 3?)",
+    "fix": "50-46N is 1,260 nm from the 1200 fix; 30-46N (one digit) fits the 1200 fix and the next day's 0800 fix and the speed in the narrative (16 kn). Inferred"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.3667,
+     30.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-24T22:00Z",
+    "lat_raw": "33-16N",
+    "lon_raw": "142-26E",
+    "local": "1945-02-25 0800(K)",
+    "page": "rg367-139900467/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.4333,
+     33.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-25T02:00Z",
+    "lat_raw": "33-51.75N",
+    "lon_raw": "142-42.5E",
+    "local": "1945-02-25 1200(K)",
+    "page": "rg367-139900467/p11",
+    "note": "Typed 33\u00b051'45\"N 142\u00b042'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.7083,
+     33.8625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-25T10:00Z",
+    "lat_raw": "32-36N",
+    "lon_raw": "141-57.75E",
+    "local": "1945-02-25 2000(K)",
+    "page": "rg367-139900467/p11",
+    "note": "Typed 32\u00b036'00\"N 141\u00b057'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.9625,
+     32.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-25T22:00Z",
+    "lat_raw": "30-34N",
+    "lon_raw": "139-43.5E",
+    "local": "1945-02-26 0800(K)",
+    "page": "rg367-139900467/p12",
+    "note": "Typed 30\u00b034'00\"N 139\u00b043'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.725,
+     30.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-26T02:00Z",
+    "lat_raw": "29-40.75N",
+    "lon_raw": "139-43.5E",
+    "local": "1945-02-26 1200(K)",
+    "page": "rg367-139900467/p12",
+    "note": "Typed 29\u00b040'45\"N 139\u00b043'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.725,
+     29.6792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-02-26T10:00Z",
+    "lat_raw": "29-40.75N",
+    "lon_raw": "139-8E",
+    "local": "1945-02-26 2000(K)",
+    "page": "rg367-139900467/p12",
+    "note": "Latitude typed the same as the 1200 row (29\u00b040'45\"N) while the longitude differs; the narrative has her steaming south from 1430 at 22 kn, and the 27 Feb 0800 fix is 355 nm (29.6 kn) from this one, so the latitude is probably a copy of the 1200 one; kept as typed, off the track, with no fix (the right value is not on the page). Typed 29\u00b040'45\"N 139\u00b008'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.1333,
+     29.6792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-26T22:00Z",
+    "lat_raw": "23-50N",
+    "lon_raw": "140-7.5E",
+    "local": "1945-02-27 0800(K)",
+    "page": "rg367-139900467/p12",
+    "note": "Typed 23\u00b050'00\"N 140\u00b007'30\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.125,
+     23.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-27T02:00Z",
+    "lat_raw": "23-5N",
+    "lon_raw": "140-33E",
+    "local": "1945-02-27 1200(K)",
+    "page": "rg367-139900467/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.55,
+     23.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-27T10:00Z",
+    "lat_raw": "22-37.5N",
+    "lon_raw": "139-5.25E",
+    "local": "1945-02-27 2000(K)",
+    "page": "rg367-139900467/p12",
+    "note": "Typed 22\u00b037'30\"N 139\u00b005'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.0875,
+     22.625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-27T22:00Z",
+    "lat_raw": "22-56.5N",
+    "lon_raw": "135-31E",
+    "local": "1945-02-28 0800(K)",
+    "page": "rg367-139900467/p13",
+    "note": "Typed 22\u00b056'30\"N 135\u00b031'00\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.5167,
+     22.9417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-28T02:00Z",
+    "lat_raw": "23-0.5N",
+    "lon_raw": "134-38.25E",
+    "local": "1945-02-28 1200(K)",
+    "page": "rg367-139900467/p13",
+    "note": "Typed 23\u00b000'30\"N 134\u00b038'15\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.6375,
+     23.0083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-02-28T10:00Z",
+    "lat_raw": "22-50.75N",
+    "lon_raw": "132-24.75E",
+    "local": "1945-02-28 2000(K)",
+    "page": "rg367-139900467/p13",
+    "note": "Typed 22\u00b050'45\"N 132\u00b024'45\"E; seconds written as fractions of a minute",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.4125,
+     22.8458
     ]
    }
   }
