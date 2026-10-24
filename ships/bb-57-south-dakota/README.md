@@ -27,7 +27,8 @@ November 1942 to May 1945 is found in the catalog and listed in `../../inventory
   between the fixes would be well away from where she was. The action report ([NARA 134006513](https://catalog.archives.gov/id/134006513),
   196 pages) is the place to get one.
 - Before 1 November: 29 and 30 October (return from Santa Cruz to Noumea) are typed on p14 with positions and are
-  not transcribed, because the work started at November.
+  not transcribed, because the work started at November. The one row taken from them is the 30 October 1415 mooring at
+  Noumea, the anchor of the 31 October - 11 November stay (zone L assumed: the diary types Zone -11 from 31 October).
 - The speed screen is 28 kn (`max_kts` in `ship.yml`); the diary's own speeds run to 26 kn.
 
 ## What is in the catalog for the rest of the range
