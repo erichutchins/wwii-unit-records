@@ -109,6 +109,54 @@ ships:
     folder: ships/cv-20-bennington
     records:
       1945-04: { status: partial, nara: [633421783], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (29 pp.): only the three 6 April fixes (p09) so far, for Task Group 58.1 on the day (lead L49); zone I stated" }
+  CV-10:   # USS Yorktown
+    folder: ships/cv-10-yorktown
+    records:
+      1945-04: { status: partial, nara: [140001274], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (66 pages): only the three 6 April fixes (p11) so far, for Task Group 58.4 on the day (lead L49)" }
+  CVL-28:   # USS Cabot
+    folder: ships/cvl-28-cabot
+    records:
+      1945-04: { status: partial, nara: [139967685], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "report on air operations 18 Mar - 8 Apr 1945 (79 pp.): two 6 April fixes from the AA action forms (p38 1227, p40 1305), Task Unit 58.3.1; her April war diary (633431403) starts 12 April (lead L49)" }
+  CL-66:   # USS Springfield
+    folder: ships/cl-66-springfield
+    records:
+      1945-04: { status: partial, nara: [140000852], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (23 pp.): only the three 6 April fixes (p04) so far, for Task Group 58.3 on the day (lead L49); zone assumed" }
+  CL-90:   # USS Astoria
+    folder: ships/cl-90-astoria
+    records:
+      1945-04: { status: partial, nara: [140001860], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (65 pp.): only the three 6 April fixes (p12) so far, for Task Group 58.3 on the day (lead L49); zone assumed" }
+  CL-103:   # USS Wilkes-Barre
+    folder: ships/cl-103-wilkes-barre
+    records:
+      1945-04: { status: partial, nara: [633438670], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (4 pp.): only the three 6 April fixes (p02) so far, for Task Group 58.3 on the day (lead L49); zone stated; the 2000 fix is off the track" }
+  BB-56:   # USS Washington
+    folder: ships/bb-56-washington
+    records:
+      1945-04: { status: partial, nara: [139999393], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (12 pp.): only the three 6 April fixes (p04) so far, for Task Group 58.3 on the day (lead L49); zone stated" }
+  BB-55:   # USS North Carolina
+    folder: ships/bb-55-north-carolina
+    records:
+      1945-04: { status: partial, nara: [139988591], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (33 pp.): only the three 6 April fixes (p06) so far, for Task Group 58.3 on the day (lead L49); zone assumed" }
+  BB-63:   # USS Missouri
+    folder: ships/bb-63-missouri
+    records:
+      1945-04: { status: partial, nara: [140000011], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (17 pp.): only the three 6 April fixes (p05) so far, for Task Group 58.4 on the day (lead L49); zone assumed" }
+  BB-64:   # USS Wisconsin
+    folder: ships/bb-64-wisconsin
+    records:
+      1945-04: { status: partial, nara: [139992751], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (16 pp.): only the three 6 April fixes (p03) so far, for Task Group 58.4 on the day (lead L49); zone assumed" }
+  CV-9:   # USS Essex
+    folder: ships/cv-9-essex
+    records:
+      1945-04: { status: partial, nara: [140006935], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (10 pp.): only the three 6 April fixes (p03) so far, for Task Group 58.3 on the day (lead L49); zone stated" }
+  CVL-24:   # USS Belleau Wood
+    folder: ships/cvl-24-belleau-wood
+    records:
+      1945-04: { status: partial, nara: [140035903], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (11 pages): only the three 6 April fixes (p04) so far, for Task Group 58.1 on the day (lead L49)" }
+  CVL-30:   # USS San Jacinto
+    folder: ships/cvl-30-san-jacinto
+    records:
+      1945-04: { status: partial, nara: [139992560], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (20 pages): only the three 6 April fixes (p04) so far, for Task Group 58.1 on the day (lead L49)" }
   DE-221:   # USS Solar
     folder: ships/de-221-solar
     records:
@@ -146,6 +194,7 @@ ships:
       1945-01: { status: mapped, nara: [139891872], files: [positions], note: "14 pp. typed diary, all transcribed: Task Group 38.1 and Task Force 34 (1-3 Jan), the Formosa and Luzon strikes, Camranh Bay (12 Jan), Hong Kong and Hainan (16 Jan), Formosa and Okinawa Jima (21-22 Jan), Task Force 34's exercises, Ulithi from 26 Jan (berth 6); zone I (minus 9) to 0000 on 26 Jan, then K; one fix (26 Jan 1200 longitude) read in lon_fix" }
       1945-02: { status: mapped, nara: [139900467], files: [positions], note: "13 pp. typed diary, all transcribed: Ulithi to 10 Feb, then Task Group 58.3 (Tokyo strikes 16-17 Feb, Iwo Jima 19-22 Feb, the 25 Feb Tokyo strike, the 28 Feb run to Okinawa); zone K (minus 10) written for the month, assumed after 10 Feb; 24 Feb 2000 latitude read in lat_fix, 26 Feb 2000 off the track" }
       1945-03: { status: missing, note: "searched 2026-10-23: no March 1945 war diary; the report of operations 18 Mar - 11 May 1945 (NARA 77802097, 4 pp.) covers the strikes" }
+      1945-04: { status: partial, nara: [633438508], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (23 pp.): only the three 6 April fixes (p04) so far, for Task Group 58.3 on the day (lead L49); zone I assumed" }
       1945-04: { status: found, nara: [633438508], note: "23 pp., not read" }
       1945-05: { status: found, nara: [101760567], note: "14 pp., not read" }
 

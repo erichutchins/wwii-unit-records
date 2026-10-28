@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1945-04-06T03:27Z",
+    "end": "1945-04-06T04:05Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      129.45,
+      26.6333
+     ],
+     [
+      129.4833,
+      26.8333
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "action",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T03:27Z",
+    "lat_raw": "26-38N",
+    "lon_raw": "129-27E",
+    "local": "1945-04-06 1227(I)",
+    "page": "rg367-139967685/p38",
+    "note": "Typed \"Long. 129\u00b0 27' E., Lat. 26\u00b0 38' N.\" as the \"Location of ship (area)\" on her anti-aircraft action form (COMINCH F-01 AA-1), \"Zone Time 1227, Zone Minus Nine\": zone I (-9) stated. The form records one Judy attacking the ship, shot down 'sure (assist)', no hits",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.45,
+     26.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "action",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T04:05Z",
+    "lat_raw": "26-50N",
+    "lon_raw": "129-29E",
+    "local": "1945-04-06 1305(I)",
+    "page": "rg367-139967685/p40",
+    "note": "Typed \"Long. 129\u00b0 29' E., Lat. 26\u00b0 50' N.\" on her second AA action form, \"Zone Time 1305, Zone Minus Nine\": zone I (-9) stated. One Zeke attacked, shot down, strafed the ship and a near miss by the kamikaze (see notes, not read)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4833,
+     26.8333
+    ]
+   }
+  }
+ ]
+}

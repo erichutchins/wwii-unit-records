@@ -324,6 +324,114 @@
   ]
  },
  {
+  "key": "bb-55-north-carolina",
+  "alias": "north carolina",
+  "name": "North Carolina",
+  "hull": "BB-55",
+  "class": "North Carolina",
+  "kind": "battleship",
+  "max_kts": 28.0,
+  "dives": false,
+  "geojson": "ships/bb-55-north-carolina/track.geojson",
+  "title": "USS North Carolina (BB-55)",
+  "intro": "North Carolina's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS North Carolina (BB-55) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "bb-56-washington",
+  "alias": "washington",
+  "name": "Washington",
+  "hull": "BB-56",
+  "class": "North Carolina",
+  "kind": "battleship",
+  "max_kts": 28.0,
+  "dives": false,
+  "geojson": "ships/bb-56-washington/track.geojson",
+  "title": "USS Washington (BB-56)",
+  "intro": "Washington's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Washington (BB-56) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
   "key": "bb-57-south-dakota",
   "alias": "south dakota",
   "name": "South Dakota",
@@ -341,7 +449,7 @@
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
    {
-    "dates": "30 Oct 1942 – 28 Feb 1945",
+    "dates": "30 Oct 1942 – 6 Apr 1945",
     "n": 1,
     "name": "War diaries 1942 and 1944 (1943 not yet transcribed)",
     "area": "Noumea · Savo Island · Panama · New York · Funafuti · Majuro · Marianas · Puget Sound · Ulithi · Philippines",
@@ -426,8 +534,332 @@
     "ifPresent": true
    }
   ],
-  "heading": "USS South Dakota (BB-57) — October 1942 to February 1945",
-  "endText": "End of the February 1945 diary"
+  "heading": "USS South Dakota (BB-57) — October 1942 to April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "bb-63-missouri",
+  "alias": "missouri",
+  "name": "Missouri",
+  "hull": "BB-63",
+  "class": "Iowa",
+  "kind": "battleship",
+  "max_kts": 32.0,
+  "dives": false,
+  "geojson": "ships/bb-63-missouri/track.geojson",
+  "title": "USS Missouri (BB-63)",
+  "intro": "Missouri's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Missouri (BB-63) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "bb-64-wisconsin",
+  "alias": "wisconsin",
+  "name": "Wisconsin",
+  "hull": "BB-64",
+  "class": "Iowa",
+  "kind": "battleship",
+  "max_kts": 32.0,
+  "dives": false,
+  "geojson": "ships/bb-64-wisconsin/track.geojson",
+  "title": "USS Wisconsin (BB-64)",
+  "intro": "Wisconsin's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Wisconsin (BB-64) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cl-103-wilkes-barre",
+  "alias": "wilkes-barre",
+  "name": "Wilkes-Barre",
+  "hull": "CL-103",
+  "class": "Cleveland",
+  "kind": "cruiser",
+  "max_kts": 32.5,
+  "dives": false,
+  "geojson": "ships/cl-103-wilkes-barre/track.geojson",
+  "title": "USS Wilkes-Barre (CL-103)",
+  "intro": "Wilkes-Barre's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Wilkes-Barre (CL-103) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cl-66-springfield",
+  "alias": "springfield",
+  "name": "Springfield",
+  "hull": "CL-66",
+  "class": "Cleveland",
+  "kind": "cruiser",
+  "max_kts": 32.5,
+  "dives": false,
+  "geojson": "ships/cl-66-springfield/track.geojson",
+  "title": "USS Springfield (CL-66)",
+  "intro": "Springfield's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Springfield (CL-66) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cl-90-astoria",
+  "alias": "astoria",
+  "name": "Astoria",
+  "hull": "CL-90",
+  "class": "Cleveland",
+  "kind": "cruiser",
+  "max_kts": 32.5,
+  "dives": false,
+  "geojson": "ships/cl-90-astoria/track.geojson",
+  "title": "USS Astoria (CL-90)",
+  "intro": "Astoria's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Astoria (CL-90) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cv-10-yorktown",
+  "alias": "yorktown",
+  "name": "Yorktown",
+  "hull": "CV-10",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cv-10-yorktown/track.geojson",
+  "title": "USS Yorktown (CV-10)",
+  "intro": "Yorktown's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4 (cruising disposition 5-R), en route to fuel and rearm from Task Group 50.8. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Yorktown (CV-10) — April 1945",
+  "endText": "End of the April 1945 diary"
  },
  {
   "key": "cv-11-intrepid",
@@ -697,6 +1129,223 @@
    }
   ],
   "heading": "USS Bennington (CV-20) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cv-9-essex",
+  "alias": "essex",
+  "name": "Essex",
+  "hull": "CV-9",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cv-9-essex/track.geojson",
+  "title": "USS Essex (CV-9)",
+  "intro": "Essex's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Essex (CV-9) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cvl-24-belleau-wood",
+  "alias": "belleau wood",
+  "name": "Belleau Wood",
+  "hull": "CVL-24",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cvl-24-belleau-wood/track.geojson",
+  "title": "USS Belleau Wood (CVL-24)",
+  "intro": "Belleau Wood's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.1 beside Task Group 58.3 east of Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Belleau Wood (CVL-24) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cvl-28-cabot",
+  "alias": "cabot",
+  "name": "Cabot",
+  "hull": "CVL-28",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cvl-28-cabot/track.geojson",
+  "title": "USS Cabot (CVL-28)",
+  "intro": "Cabot's two positions for 6 April 1945 (1227 and 1305), typed on her anti-aircraft action forms, in Task Unit 58.3.1 (Task Group 58.3) east of Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "AA action forms",
+    "6 April 1945": null,
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "action report page",
+  "docAlt": "action report",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "AA action form position"
+   }
+  ],
+  "heading": "USS Cabot (CVL-28) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cvl-30-san-jacinto",
+  "alias": "san jacinto",
+  "name": "San Jacinto",
+  "hull": "CVL-30",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cvl-30-san-jacinto/track.geojson",
+  "title": "USS San Jacinto (CVL-30)",
+  "intro": "San Jacinto's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.1 (Hornet guide) east of Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS San Jacinto (CVL-30) — April 1945",
   "endText": "End of the April 1945 diary"
  },
  {

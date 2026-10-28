@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,23-23N,130-54E,rg367-139992751/p03,"Typed ""Ship's Position 0800 Lat. 23-23 N Long. 130-54 E""; alongside Aucilla (AO 56) fuelling from 0806, Task Group 58.4. Zone I (-9) assumed: No zone is typed on this page (the diary is Wisconsin's; Missouri's p03 types Zone Time -9 for the same group)",yes,,,,,
+diary,,1945-04-06,1200,I,23-48N,131-22E,rg367-139992751/p03,"Zone as the 0800 row (assumed)",yes,,,,,
+diary,,1945-04-06,2000,I,24-49N,131-43E,rg367-139992751/p03,"Zone as the 0800 row (assumed)",yes,,,,,

@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,26-47N,129-42E,rg367-139992560/p04,"Typed ""26° 47' N / 129° 42' E"" in the Position table at the foot of the page, which closes the 6 April entry. Zone I (-9) stated: the 6 April heading on rg367-139992560/p03 types 6 April (Zone -9)""; the position table is on p04. That heading types ""Task Group 58.2"" for the 6th, taken as a typing slip for 58.1: the 5 and 7 April headings type 58.1, all three give ""HORNET guide"", and no record names a 58.2 that day (see the README). The entry has the ship attacked at 1318 and 1330 (a Kate crashing off the starboard bow)",yes,,,,,
+diary,,1945-04-06,1200,I,26-45.2N,129-45.2E,rg367-139992560/p04,"Zone as the 0800 row (stated, p03 heading)",yes,,,,,
+diary,,1945-04-06,2000,I,27-13N,130-21E,rg367-139992560/p04,"Zone as the 0800 row (stated, p03 heading)",yes,,,,,

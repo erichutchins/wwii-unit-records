@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,26-57.7N,129-25.6E,rg367-139999393/p04,"Typed as ""26°-57.7'N."" and ""129°-25.6'E.""; ""steaming on northerly course in waters south and east of Okinawa Jima""; TG 58.3 (diary p03 lists the group). Zone I (-9) stated: Typed ""Friday, 6 April 1945 ( Zone -9 time )""",yes,,,,,
+diary,,1945-04-06,1200,I,26-42.2N,129-25.6E,rg367-139999393/p04,Zone as the 0800 row (stated),yes,,,,,
+diary,,1945-04-06,2000,I,26-54.8N,129-34.0E,rg367-139999393/p04,"Zone as the 0800 row (stated); Typed so (read on the scan, 28 Oct 2026), but 31-34 nm from every other TG 58.3 ship's 2000 position (Essex, Bunker Hill, South Dakota, North Carolina, all within about 5 nm of each other near 27-08N 130-07E), and only 15 nm from her own noon fix in eight hours: probably a typing slip in the diary, not correctable from the page, so off the track",no,,,,,

@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,26-59-00N,129-20-06E,rg367-140001860/p12,"Typed as ""26-59-00N"" and ""129-20-06E"" in the table at the foot of the 6 April entry; Task Group 58.3 (guide Essex, p10). Zone I (-9) assumed: p10 and p12 do not state a zone",yes,,,,,
+diary,,1945-04-06,1200,I,26-39-00N,129-25-00E,rg367-140001860/p12,Zone as the 0800 row (assumed),yes,,,,,
+diary,,1945-04-06,2000,I,27-05-00N,130-02-00E,rg367-140001860/p12,Zone as the 0800 row (assumed),yes,,,,,

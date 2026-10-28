@@ -1,0 +1,27 @@
+# USS Cabot (CVL-28): her 6 April 1945 AA action forms, from the action report of 18 March - 8 April 1945. Hand-edited; see ../dd-700-haynsworth/ship.yml.
+name: Cabot
+hull: CVL-28
+class: Essex
+kind: carrier
+max_kts: 33.0      # the class's design speed; the report gives no higher figure
+dives: false
+
+map:
+  title: USS Cabot (CVL-28)
+  intro: "Cabot's two positions for 6 April 1945 (1227 and 1305), typed on her anti-aircraft action forms, in Task Unit 58.3.1 (Task Group 58.3) east of Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the "
+  introLink: National Archives scans
+  introEnd: . Click any point to see the page it came from.
+  periods:
+    - { n: 1, name: AA action forms, 6 April 1945, area: Okinawa · east of Okinawa, co: "" }
+  home: [[129.7, 26.7]]
+  ports: []
+  places:
+    - { name: OKINAWA, lon: 127.9, lat: 26.5 }
+  listTitle: April 1945
+  daysLabel: Days covered
+  pageNoun: action report page
+  docAlt: action report
+  labels: { event: Logged event }
+  counts: []
+  legend:
+    - { cls: fix, text: AA action form position }

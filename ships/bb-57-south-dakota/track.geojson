@@ -7,7 +7,7 @@
     "kind": "track",
     "patrol": 1,
     "start": "1942-10-30T03:15Z",
-    "end": "1945-02-28T10:00Z"
+    "end": "1945-04-06T11:00Z"
    },
    "geometry": {
     "type": "LineString",
@@ -3335,6 +3335,18 @@
      [
       132.4125,
       22.8458
+     ],
+     [
+      129.3833,
+      26.9375
+     ],
+     [
+      129.425,
+      26.6958
+     ],
+     [
+      130.1,
+      27.1167
      ]
     ]
    }
@@ -22774,6 +22786,75 @@
     "coordinates": [
      132.4125,
      22.8458
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T23:00Z",
+    "lat_raw": "26-56-15N",
+    "lon_raw": "129-23-00E",
+    "local": "1945-04-06 0800(I)",
+    "page": "rg367-633438508/p04",
+    "note": "Typed in degrees, minutes and seconds (26\u00b056'15\"N 129\u00b023'00\"E), recorded as typed. Zone I (-9) is assumed: the page types no zone line (the February diary rows here are zone K); Task Group 58.3 east of Okinawa, 6 April (same page)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.3833,
+     26.9375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T03:00Z",
+    "lat_raw": "26-41-45N",
+    "lon_raw": "129-25-30E",
+    "local": "1945-04-06 1200(I)",
+    "page": "rg367-633438508/p04",
+    "note": "Zone assumed as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.425,
+     26.6958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T11:00Z",
+    "lat_raw": "27-07-00N",
+    "lon_raw": "130-06-00E",
+    "local": "1945-04-06 2000(I)",
+    "page": "rg367-633438508/p04",
+    "note": "Zone assumed as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.1,
+     27.1167
     ]
    }
   }

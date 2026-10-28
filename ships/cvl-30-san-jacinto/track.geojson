@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1945-04-05T23:00Z",
+    "end": "1945-04-06T11:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      129.7,
+      26.7833
+     ],
+     [
+      129.7533,
+      26.7533
+     ],
+     [
+      130.35,
+      27.2167
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T23:00Z",
+    "lat_raw": "26-47N",
+    "lon_raw": "129-42E",
+    "local": "1945-04-06 0800(I)",
+    "page": "rg367-139992560/p04",
+    "note": "Typed \"26\u00b0 47' N / 129\u00b0 42' E\" in the Position table at the foot of the page, which closes the 6 April entry. Zone I (-9) stated: the 6 April heading on rg367-139992560/p03 types 6 April (Zone -9)\"; the position table is on p04. That heading types \"Task Group 58.2\" for the 6th, taken as a typing slip for 58.1: the 5 and 7 April headings type 58.1, all three give \"HORNET guide\", and no record names a 58.2 that day (see the README). The entry has the ship attacked at 1318 and 1330 (a Kate crashing off the starboard bow)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.7,
+     26.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T03:00Z",
+    "lat_raw": "26-45.2N",
+    "lon_raw": "129-45.2E",
+    "local": "1945-04-06 1200(I)",
+    "page": "rg367-139992560/p04",
+    "note": "Zone as the 0800 row (stated, p03 heading)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.7533,
+     26.7533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T11:00Z",
+    "lat_raw": "27-13N",
+    "lon_raw": "130-21E",
+    "local": "1945-04-06 2000(I)",
+    "page": "rg367-139992560/p04",
+    "note": "Zone as the 0800 row (stated, p03 heading)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.35,
+     27.2167
+    ]
+   }
+  }
+ ]
+}

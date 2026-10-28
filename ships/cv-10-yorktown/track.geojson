@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1945-04-05T23:00Z",
+    "end": "1945-04-06T11:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      130.8983,
+      23.4817
+     ],
+     [
+      131.4983,
+      23.81
+     ],
+     [
+      131.8517,
+      24.92
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T23:00Z",
+    "lat_raw": "23-28.9N",
+    "lon_raw": "130-53.9E",
+    "local": "1945-04-06 0800(I)",
+    "page": "rg367-140001274/p11",
+    "note": "Typed \"Lat. 23 degrees 28.9' N. Long. 130 degrees 53.9' E.\" Task Group 58.4 in cruising disposition 5-R, en route to the vicinity of 23N 131E to rendezvous with Task Group 50.8; fuelled from Lackawanna, rearmed from Wrangell (same page)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.8983,
+     23.4817
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T03:00Z",
+    "lat_raw": "23-48.6N",
+    "lon_raw": "131-29.9E",
+    "local": "1945-04-06 1200(I)",
+    "page": "rg367-140001274/p11",
+    "note": "Zone as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.4983,
+     23.81
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T11:00Z",
+    "lat_raw": "24-55.2N",
+    "lon_raw": "131-51.1E",
+    "local": "1945-04-06 2000(I)",
+    "page": "rg367-140001274/p11",
+    "note": "Zone as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.8517,
+     24.92
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+# USS Wilkes-Barre (CL-103): April 1945 war diary, 6 April only (so far)
+
+`positions.csv` is transcribed from the April 1945 war diary ([NARA 633438670](https://catalog.archives.gov/id/633438670), 4 pages): the 0800, 1200 and 2000 positions of 6 April 1945 (`p02`, read on the scan). Zone stated: "All zone times are Item (-9) time" (p02). The 2000 fix is typed 27°10'N 128°05'E (checked on the scan), about 115 nm west of Springfield's and Astoria's 2000 positions and 100 nm from her own noon fix: kept as typed, off the track (`on_track=no`). Task Group 58.3. Other days are not transcribed (lead L49).

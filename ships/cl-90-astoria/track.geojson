@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1945-04-05T23:00Z",
+    "end": "1945-04-06T11:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      129.335,
+      26.9833
+     ],
+     [
+      129.4167,
+      26.65
+     ],
+     [
+      130.0333,
+      27.0833
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T23:00Z",
+    "lat_raw": "26-59-00N",
+    "lon_raw": "129-20-06E",
+    "local": "1945-04-06 0800(I)",
+    "page": "rg367-140001860/p12",
+    "note": "Typed as \"26-59-00N\" and \"129-20-06E\" in the table at the foot of the 6 April entry; Task Group 58.3 (guide Essex, p10). Zone I (-9) assumed: p10 and p12 do not state a zone",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.335,
+     26.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T03:00Z",
+    "lat_raw": "26-39-00N",
+    "lon_raw": "129-25-00E",
+    "local": "1945-04-06 1200(I)",
+    "page": "rg367-140001860/p12",
+    "note": "Zone as the 0800 row (assumed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4167,
+     26.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T11:00Z",
+    "lat_raw": "27-05-00N",
+    "lon_raw": "130-02-00E",
+    "local": "1945-04-06 2000(I)",
+    "page": "rg367-140001860/p12",
+    "note": "Zone as the 0800 row (assumed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.0333,
+     27.0833
+    ]
+   }
+  }
+ ]
+}

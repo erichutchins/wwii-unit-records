@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,23-20-30N,130-57-30E,rg367-140000011/p05,"Typed in degrees-minutes-seconds, ""Lat. 23-20-30 N. Long. 130-57-30 E.""; Task Group 58.4 fuelling from the fuelling group (Missouri replenished 0945-1109, p05). Zone I (-9) assumed: The month's first entry (p03) types ""1 April 1945 (Zone Time -9)""; no zone is repeated on 6 April",yes,,,,,
+diary,,1945-04-06,1200,I,23-48-18N,131-21-30E,rg367-140000011/p05,"Zone as the 0800 row (assumed)",yes,,,,,
+diary,,1945-04-06,2000,I,24-47-36N,131-40-36E,rg367-140000011/p05,"Zone as the 0800 row (assumed)",yes,,,,,

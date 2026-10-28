@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,26-50.0N,129-39.0E,rg367-140035903/p04,"Typed ""26 - 50.0 N; 129 - 39.0 E"". Zone I (-9) is assumed: the pages read (p03-p05) type no zone line; the group's other diaries use -9. The 6 April entry runs p03-p04 and has the ship at general quarters at about noon under attack, a Zeke crashing off the starboard beam and the near miss on San Jacinto",yes,,,,,
+diary,,1945-04-06,1200,I,26-44.0N,129-41.0E,rg367-140035903/p04,"Zone as the 0800 row",yes,,,,,
+diary,,1945-04-06,2000,I,27-11.0N,130-20.0E,rg367-140035903/p04,"Zone as the 0800 row",yes,,,,,

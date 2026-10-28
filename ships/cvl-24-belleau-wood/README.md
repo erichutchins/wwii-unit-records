@@ -1,0 +1,5 @@
+# USS Belleau Wood (CVL-24): April 1945 war diary, 6 April only (so far)
+
+`positions.csv` is transcribed from the April 1945 war diary ([NARA 140035903](https://catalog.archives.gov/id/140035903), 11 pages): the 0800, 1200 and 2000 positions of 6 April 1945 (`p04`, read on the scan). Zone assumed (-9, I): the pages read (p03-p05) type no zone line. Task Group 58.1. Other days are not transcribed (lead L49).
+
+Her anti-aircraft action report for 6 April ([NARA 633424241](https://catalog.archives.gov/id/633424241), 4 pages, forwarded 1 May 1945 "via Commander, Task Group Fifty-eight point one", `p01`) was read: one Form AA-1 (`p02`-`p03`), "Zone Time 1317", location only "East of Okinawa" (no latitude or longitude), with a sketch (`p04`) of one plane (Oscar or Zeke) diving from the starboard beam, shot down about 50 yards off, and a second that did not attack and was shot down by other ships. It gives no position and no new fix, so none is entered; it does put her in Task Group 58.1 that day. The time is consistent with San Jacinto's diary, which has a plane shot down diving on Belleau Wood shortly after 1318 (`rg367-139992560/p04`).

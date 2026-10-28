@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,26-59N,129-26E,rg367-140000852/p04,"Typed as ""latitude 26-59 N, longitude 129-26 E"" in the 6 April entry's closing line; Task Group 58.3 (guide Essex). Zone I (-9) assumed: the pages read (p02-p04) do not state a zone",yes,,,,,
+diary,,1945-04-06,1200,I,26-42N,129-31E,rg367-140000852/p04,Zone as the 0800 row (assumed),yes,,,,,
+diary,,1945-04-06,2000,I,27-09N,130-04E,rg367-140000852/p04,Zone as the 0800 row (assumed),yes,,,,,
