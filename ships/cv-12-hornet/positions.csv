@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,26-43.0N,129-40.2E,rg367-140006155/p04,"Zone I (-9) is the diary's own statement for the whole April diary (p01: ""East Longitude dates and Minus Nine (-9) Zone Times are used throughout""). Hornet was guide of Task Group 58.1 (p01, 1 Apr)",yes,,,,,
+diary,,1945-04-06,1200,I,26-43.2N,129-43.0E,rg367-140006155/p04,Zone as the 0800 row,yes,,,,,
+diary,,1945-04-06,2000,I,27-14.5N,130-24.0E,rg367-140006155/p04,Zone as the 0800 row,yes,,,,,

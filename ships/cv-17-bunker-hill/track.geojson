@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1945-04-05T23:00Z",
+    "end": "1945-04-06T11:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      129.3917,
+      27.05
+     ],
+     [
+      129.45,
+      26.775
+     ],
+     [
+      130.1,
+      27.1833
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T23:00Z",
+    "lat_raw": "27-03N",
+    "lon_raw": "129-23.5E",
+    "local": "1945-04-06 0800(I)",
+    "page": "rg367-633434642/p07",
+    "note": "Zone I (-9) stated in the date line ('6 April 1945 (-9)'). Task Group 58.3 off Okinawa (same page)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.3917,
+     27.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T03:00Z",
+    "lat_raw": "26-46.5N",
+    "lon_raw": "129-27E",
+    "local": "1945-04-06 1200(I)",
+    "page": "rg367-633434642/p07",
+    "note": "Zone as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.45,
+     26.775
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T11:00Z",
+    "lat_raw": "27-11N",
+    "lon_raw": "130-06E",
+    "local": "1945-04-06 2000(I)",
+    "page": "rg367-633434642/p07",
+    "note": "Zone as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.1,
+     27.1833
+    ]
+   }
+  }
+ ]
+}

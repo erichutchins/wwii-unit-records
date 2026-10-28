@@ -1,0 +1,127 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1945-04-05T20:40Z",
+    "end": "1945-04-06T11:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      129.1667,
+      26.8333
+     ],
+     [
+      129.4,
+      27.0
+     ],
+     [
+      129.5,
+      26.7
+     ],
+     [
+      130.05,
+      27.0833
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T20:40Z",
+    "lat_raw": "26-50N",
+    "lon_raw": "129-10E",
+    "local": "1945-04-06 0540(I)",
+    "page": "rg367-633427363/p05",
+    "note": "Typed 'approximate position' of the first CAP and sweep launch. Zone I (-9): the 6 April block is typed 0800I/1200I/2000I",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.1667,
+     26.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T23:00Z",
+    "lat_raw": "27-00N",
+    "lon_raw": "129-24E",
+    "local": "1945-04-06 0800(I)",
+    "page": "rg367-633427363/p06",
+    "note": "Zone I (-9) stated in the position block (0800I). The block follows the 6 April narrative on p05-p06, before the '7 April 1945' heading",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4,
+     27.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T03:00Z",
+    "lat_raw": "26-42N",
+    "lon_raw": "129-30E",
+    "local": "1945-04-06 1200(I)",
+    "page": "rg367-633427363/p06",
+    "note": "Zone as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.5,
+     26.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T11:00Z",
+    "lat_raw": "27-05N",
+    "lon_raw": "130-03E",
+    "local": "1945-04-06 2000(I)",
+    "page": "rg367-633427363/p06",
+    "note": "Zone as the 0800 row. Night of 6/7 April 'in general area near 26-30N 130-00E' (same page)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.05,
+     27.0833
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1945-04-05T23:00Z",
+    "end": "1945-04-06T11:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      129.5583,
+      26.5917
+     ],
+     [
+      129.8333,
+      26.7167
+     ],
+     [
+      130.3833,
+      27.3
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T23:00Z",
+    "lat_raw": "26-35.5N",
+    "lon_raw": "129-33.5E",
+    "local": "1945-04-06 0800(I)",
+    "page": "rg367-633421783/p09",
+    "note": "Zone (I) stated on the position line. Task Group 58.1 (page header of the 7 April entry: in company with TG 58.1, guide in Hornet)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.5583,
+     26.5917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T03:00Z",
+    "lat_raw": "26-43N",
+    "lon_raw": "129-50E",
+    "local": "1945-04-06 1200(I)",
+    "page": "rg367-633421783/p09",
+    "note": "Zone as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.8333,
+     26.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T11:00Z",
+    "lat_raw": "27-18N",
+    "lon_raw": "130-23E",
+    "local": "1945-04-06 2000(I)",
+    "page": "rg367-633421783/p09",
+    "note": "Zone as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.3833,
+     27.3
+    ]
+   }
+  }
+ ]
+}

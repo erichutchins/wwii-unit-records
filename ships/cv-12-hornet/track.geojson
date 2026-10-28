@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1945-04-05T23:00Z",
+    "end": "1945-04-06T11:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      129.67,
+      26.7167
+     ],
+     [
+      129.7167,
+      26.72
+     ],
+     [
+      130.4,
+      27.2417
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T23:00Z",
+    "lat_raw": "26-43.0N",
+    "lon_raw": "129-40.2E",
+    "local": "1945-04-06 0800(I)",
+    "page": "rg367-140006155/p04",
+    "note": "Zone I (-9) is the diary's own statement for the whole April diary (p01: \"East Longitude dates and Minus Nine (-9) Zone Times are used throughout\"). Hornet was guide of Task Group 58.1 (p01, 1 Apr)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.67,
+     26.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T03:00Z",
+    "lat_raw": "26-43.2N",
+    "lon_raw": "129-43.0E",
+    "local": "1945-04-06 1200(I)",
+    "page": "rg367-140006155/p04",
+    "note": "Zone as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.7167,
+     26.72
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T11:00Z",
+    "lat_raw": "27-14.5N",
+    "lon_raw": "130-24.0E",
+    "local": "1945-04-06 2000(I)",
+    "page": "rg367-140006155/p04",
+    "note": "Zone as the 0800 row",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.4,
+     27.2417
+    ]
+   }
+  }
+ ]
+}

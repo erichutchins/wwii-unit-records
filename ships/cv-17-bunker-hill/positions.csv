@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,27-03N,129-23.5E,rg367-633434642/p07,"Zone I (-9) stated in the date line ('6 April 1945 (-9)'). Task Group 58.3 off Okinawa (same page)",yes,,,,,
+diary,,1945-04-06,1200,I,26-46.5N,129-27E,rg367-633434642/p07,Zone as the 0800 row,yes,,,,,
+diary,,1945-04-06,2000,I,27-11N,130-06E,rg367-633434642/p07,Zone as the 0800 row,yes,,,,,

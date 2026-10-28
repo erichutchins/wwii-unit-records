@@ -430,6 +430,276 @@
   "endText": "End of the February 1945 diary"
  },
  {
+  "key": "cv-11-intrepid",
+  "alias": "intrepid",
+  "name": "Intrepid",
+  "hull": "CV-11",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cv-11-intrepid/track.geojson",
+  "title": "USS Intrepid (CV-11)",
+  "intro": "Intrepid's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4 fueling and rearming about 200 miles southeast of Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Intrepid (CV-11) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cv-12-hornet",
+  "alias": "hornet",
+  "name": "Hornet",
+  "hull": "CV-12",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cv-12-hornet/track.geojson",
+  "title": "USS Hornet (CV-12)",
+  "intro": "Hornet's three war diary positions for 6 April 1945 (0800, 1200, 2000), guide of Task Group 58.1 with Bennington, Belleau Wood and San Jacinto. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Hornet (CV-12) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cv-17-bunker-hill",
+  "alias": "bunker hill",
+  "name": "Bunker Hill",
+  "hull": "CV-17",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cv-17-bunker-hill/track.geojson",
+  "title": "USS Bunker Hill (CV-17)",
+  "intro": "Bunker Hill's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3 off Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Bunker Hill (CV-17) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cv-19-hancock",
+  "alias": "hancock",
+  "name": "Hancock",
+  "hull": "CV-19",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cv-19-hancock/track.geojson",
+  "title": "USS Hancock (CV-19)",
+  "intro": "Hancock's war diary positions for 6 April 1945 (an approximate 0540 launch position, then 0800, 1200, 2000), in Task Group 58.3 off Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Hancock (CV-19) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
+  "key": "cv-20-bennington",
+  "alias": "bennington",
+  "name": "Bennington",
+  "hull": "CV-20",
+  "class": "Essex",
+  "kind": "carrier",
+  "max_kts": 33.0,
+  "dives": false,
+  "geojson": "ships/cv-20-bennington/track.geojson",
+  "title": "USS Bennington (CV-20)",
+  "intro": "Bennington's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.1 beside Task Group 58.3 off Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "introLink": "National Archives scans",
+  "introEnd": ". Click any point to see the page it came from.",
+  "periods": [
+   {
+    "dates": "6 – 6 Apr 1945",
+    "n": 1,
+    "name": "War diary April 1945 (6 April only)",
+    "area": "Okinawa · east of Okinawa",
+    "co": ""
+   }
+  ],
+  "home": [
+   [
+    129.7,
+    26.7
+   ]
+  ],
+  "ports": [],
+  "places": [
+   {
+    "name": "OKINAWA",
+    "lon": 127.9,
+    "lat": 26.5
+   }
+  ],
+  "listTitle": "April 1945",
+  "daysLabel": "Days covered",
+  "pageNoun": "war diary page",
+  "docAlt": "war diary",
+  "labels": {
+   "event": "Logged event"
+  },
+  "counts": [],
+  "legend": [
+   {
+    "cls": "fix",
+    "text": "War diary position"
+   }
+  ],
+  "heading": "USS Bennington (CV-20) — April 1945",
+  "endText": "End of the April 1945 diary"
+ },
+ {
   "key": "dd-700-haynsworth",
   "alias": "haynsworth",
   "name": "Haynsworth",

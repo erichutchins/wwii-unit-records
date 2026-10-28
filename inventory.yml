@@ -89,6 +89,26 @@ ships:
       1945-08: { status: mapped, nara: [83577147], files: [positions], note: "August 1945 war diary (7 pp.): training destroyer out of Treasure Island (area H-5, trips to Wilson Cove, San Clemente); nothing on the Japanese surrender; zone +7 (T)" }
       1945-09: { status: mapped, nara: [77516593], files: [positions], note: "September 1945 war diary (6 pp.): Treasure Island to Pearl Harbor alone, 5-11 Sep (clocks set back half an hour each evening, T to VW), Kahoolawe bombardment 14-15 Sep, exercises out of Pearl Harbor" }
       1945-10: { status: mapped, nara: [77558379], files: [positions], note: "October 1945 war diary (5 pp.): training for the gunnery school out of Pearl Harbor, plane guard for Bunker Hill 11-15 Oct and Cape Gloucester 31 Oct, Kahului 26-28 Oct (Navy Day); the last war diary in the catalog; zone VW assumed" }
+  CV-12:   # USS Hornet
+    folder: ships/cv-12-hornet
+    records:
+      1945-04: { status: partial, nara: [140006155], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (13 pp.): only the three 6 April fixes (p04) so far, for Task Group 58.1 on the day (lead L49); zone I (-9) as the diary states" }
+  CV-11:   # USS Intrepid
+    folder: ships/cv-11-intrepid
+    records:
+      1945-04: { status: partial, nara: [140058107], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (9 pp.): only the three 6 April fixes (p03) so far, for Task Group 58.4 on the day (lead L49); zone I (-9) assumed" }
+  CV-17:   # USS Bunker Hill
+    folder: ships/cv-17-bunker-hill
+    records:
+      1945-04: { status: partial, nara: [633434642], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (32 pp.): only the three 6 April fixes (p07) so far, for Task Group 58.3 on the day (lead L49); zone (-9) stated" }
+  CV-19:   # USS Hancock
+    folder: ships/cv-19-hancock
+    records:
+      1945-04: { status: partial, nara: [633427363], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (13 pp.): only the 6 April fixes (p05-p06) so far, for Task Group 58.3 on the day (lead L49); zone I stated" }
+  CV-20:   # USS Bennington
+    folder: ships/cv-20-bennington
+    records:
+      1945-04: { status: partial, nara: [633421783], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (29 pp.): only the three 6 April fixes (p09) so far, for Task Group 58.1 on the day (lead L49); zone I stated" }
   DE-221:   # USS Solar
     folder: ships/de-221-solar
     records:

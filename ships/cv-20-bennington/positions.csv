@@ -1,0 +1,4 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-06,0800,I,26-35.5N,129-33.5E,rg367-633421783/p09,"Zone (I) stated on the position line. Task Group 58.1 (page header of the 7 April entry: in company with TG 58.1, guide in Hornet)",yes,,,,,
+diary,,1945-04-06,1200,I,26-43N,129-50E,rg367-633421783/p09,Zone as the 0800 row,yes,,,,,
+diary,,1945-04-06,2000,I,27-18N,130-23E,rg367-633421783/p09,Zone as the 0800 row,yes,,,,,
