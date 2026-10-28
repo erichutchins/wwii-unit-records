@@ -569,7 +569,10 @@ ams-l772:
     1936), planimetric detail partially revised from aerial photography of 1944-1945. Polyconic; the
     neatlines are the Japanese sheet lines, labelled 130°45'10.4" etc. (Tokyo datum, the old Japanese
     longitude corrected by 10.4"); the true minute ticks are printed beside them. 4242-II Kokubu
-    (N3140-E13045), 4242-III Kajiki (N3140-E13030), 4341-III Shibushi (N3120-E13100).
+    (N3140-E13045), 4242-III Kajiki (N3140-E13030), 4341-III Shibushi (N3120-E13100), 4143-II Izumi
+    (N3200-E13015; Type C AMS 3, 1945, from the Imperial Land Survey Izumi 1936), 4342-I Miyazaki (N3150-E13115;
+    from Miyazaki 1937), 4141-II Kawanabe (N3120-E13015; from Kawanabe 1936),
+    4342-III Miyakonojō (N3140-E13100; from Takajō 1937 and Miyakonojō 1937).
 
 ams-l506:
   title: "Japan 1:250,000, Series L506 (sheets cited by number, e.g. NH 52-4 Kagoshima)"
