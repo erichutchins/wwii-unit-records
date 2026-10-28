@@ -225,6 +225,79 @@ frupac:
   link: https://texashistory.unt.edu/ark:/67531/{1}/
   used_for: boats/ss-385-bang/patrol-N/frupac.csv
 
+# ── French and Italian records ─────────────────────────────────────────────────────────────────
+
+gallica:
+  title: Gallica, the digital library of the Bibliothèque nationale de France (newspapers)
+  held: Bibliothèque nationale de France
+  url: https://gallica.bnf.fr/
+  rights: Public domain (the 1940s Algerian dailies); free to view
+  cite: gallica:<issue ark>, e.g. gallica:bpt6k75870445 (L'Écho d'Alger, 13 May 1943)
+  match: '^gallica:(bpt6k\w+)(?:/f(\d+))?$'
+  link: https://gallica.bnf.fr/ark:/12148/{1}
+  used_for: army/actions.csv notes (L'Écho d'Alger on the Algiers raids of May 1943)
+  note: >-
+    Titles: L'Écho d'Alger (cb327596899, 1912–1955), L'Écho d'Oran (cb32759772v; none for 1941–42 or
+    1944–45, and 1943 incomplete, without January or February), Oran-matin
+    (cb32829421p; 1935–36 only); a title's issues by date are at https://gallica.bnf.fr/ark:/12148/<title ark>/date.
+    Gallica's text export is the paper's OCR without page breaks, so an issue is cited by its ark until
+    a page (/fN) is read on the image. The press in Algeria was censored in 1942–43.
+
+lastampa:
+  title: La Stampa (Turin), daily, the Internet Archive's mirror of the paper's historical archive
+  held: La Stampa, Archivio Storico (archiviolastampa.it); mirrored at archive.org, one item per issue
+  url: https://archive.org/search?query=lastampa_1943
+  rights: Free to view
+  cite: lastampa:<YYYY-MM-DD>/p<page>, e.g. lastampa:1943-01-22/p1 (Bulletin no. 971)
+  match: '^lastampa:(\d{4}-\d{2}-\d{2})(?:/p(\d+))?$'
+  link: https://archive.org/details/lastampa_{1}
+  used_for: army/actions.csv notes (the Italian Supreme Command's bulletins and the German communiqués on the Algerian raids)
+  note: >-
+    Each issue prints the Italian Supreme Command's daily bulletin (issued the afternoon before, so
+    "questa notte" is the night before that) and usually the German High Command's communiqué. They are
+    the Axis side's claims, not facts. Under the Salò Republic from September 1943. The OCR runs the
+    columns together: find the bulletin by its number, then read it on the page image.
+
+skl-ktb:
+  title: War Diary, German Naval Staff Operations Division (Kriegstagebuch der Seekriegsleitung, Teil A), 1943
+  by: Seekriegsleitung; translated by the US Office of Naval Intelligence
+  held: Internet Archive (the ONI translation, one item per volume)
+  url: https://archive.org/details/wardiarygermann451943germ
+  rights: Public domain (US government translation)
+  cite: skl:<volume>/p<page>, e.g. skl:46/p38 (4 June 1943)
+  match: '^skl:(\d+)/p(\d+)$'
+  link: https://archive.org/details/wardiarygermann{1}1943germ
+  used_for: army/actions.csv notes (the German side of the Algiers raids, May–June 1943)
+  note: >-
+    The Naval Staff's daily summary includes the Luftwaffe's operations it was told of, with numbers of aircraft and
+    losses, but rarely the units. The link pattern holds for the 1943 volumes (45 = May, 46 = June).
+
+alieuomini:
+  title: Ali e Uomini (alieuomini.it), catalogue of Italian aircraft and their units
+  url: https://www.alieuomini.it/
+  rights: Free to view
+  cite: alieuomini:<page slug>, e.g. alieuomini:piaggio_p_b,71
+  match: '^alieuomini:(\S+)$'
+  link: https://www.alieuomini.it/catalogo/dettaglio_catalogo/{1}.html
+  used_for: army/actions.csv notes (the 274ª Squadriglia's P.108B raid on Oran, 20 Jan 1943)
+  note: >-
+    Secondary. Its P.108B page cites G. Garello, Il Piaggio P.108 (Bizzarri, 1973), Dimensione Cielo 6 (1974) and
+    Monografie Aeronautiche Italiane 53/54 (1985); other web accounts likely go back to Garello, so they count once.
+
+tna:
+  title: The National Archives (UK), Kew
+  held: The National Archives, Kew
+  url: https://discovery.nationalarchives.gov.uk/
+  rights: Crown copyright; the digitised AIR 27 files are free to download after signing in
+  cite: tna:<reference>/p<page of the downloaded PDF>, e.g. tna:AIR 27/1027/38/p2
+  match: '^tna:([A-Z]+ \d+/\d+(?:/\d+)?)(?:/p(\d+))?$'
+  link: https://discovery.nationalarchives.gov.uk/results/r?_q={1}
+  used_for: army/actions.csv notes (No. 153 Squadron RAF's operations record book, AIR 27/1027, on the Algiers raids)
+  note: >-
+    AIR 27 is the RAF squadrons' operations record books: Form 540 (summary of events) and Form 541 (detail of
+    work carried out: each sortie's aircraft, crew, times and result). The page is the downloaded PDF's, not the
+    book's own page number. Claims are the squadron's claims.
+
 # ── Japanese records ───────────────────────────────────────────────────────────────────────────
 
 jacar:
@@ -315,7 +388,7 @@ fm-30-30:
   held: Internet Archive
   url: https://archive.org/details/Fm30-30
   rights: Public domain (U.S. government publication)
-  used_for: silhouettes/silhouettes.yml (F4U CORSAIR plate, leaf n62)
+  used_for: silhouettes/silhouettes.yml (F4U CORSAIR plate, leaf n62; Ju 88A-6 n118, Beaufighter I n92, F.W. 200K n132, CANT Z-1007 bis n180, He 111K n120, Me 109F n110, F.W. 190A-3 n112, P-47D n26, P-51 n28, P-39E n22, Hurricane IIc n80, A-29 Hudson n34, Spitfire V n78, Wellington IV n84)
 
 oni-54:
   title: ONI 54-series recognition manuals (ONI 54-D destroyers, 54-CV carriers, 54-R battleships, 54-C cruisers), 1943–1944

@@ -55,7 +55,8 @@ Hand-edited (the source of truth):
 - `stations.csv`: each unit's station whenever it changed, as typed, with its page
 - `places.csv`: coordinates for the places the stations name
 - `actions.csv`: Battery D, 106th AAA's engagements and casualties, from the battalion's monthly
-  histories (Aug 1944 – Apr 1945)
+  histories (Aug 1944 – Apr 1945); Battery C, 62nd CA (AA)'s firings, from its morning reports
+  (Oran and Algiers, 1943)
 - `ships.csv`: the ships of the sea crossings
 - `relations.csv`: dated relationships between units (part of, attached to, under command of, took part in), each with its page
 - `routes.csv`: waypoints for legs the reports don't trace (Atlantic voyages, train rides).
@@ -127,6 +128,11 @@ Each history logs the battalion's engagements day by day: aircraft engaged,
 ground fire missions, casualties. A row is kept when the entry names Battery D
 (alone, with other batteries, or "all batteries") — entries that say only
 "this battalion engaged" are left out, since D may not have fired.
+
+Battery C, 62nd CA (AA)'s rows come from the record of events on its own morning reports, which
+give only "Fired on hostile targets" and the times: no aircraft type, no result (`unknown`). A
+newspaper or communiqué that reports the same raid is cited in the note (`gallica:`), and its claims
+are the whole defense's, not the battery's.
 
 | Column | Meaning |
 |---|---|
