@@ -1,0 +1,19 @@
+{
+ "box": [
+  [
+   2.939959,
+   36.700012
+  ],
+  [
+   3.129988,
+   36.830035
+  ]
+ ],
+ "zoom": 14,
+ "size": [
+  2214,
+  1891
+ ],
+ "source": "aws-terrain-tiles",
+ "note": "Today's coastline at the tiles' resolution; harbour works since 1943 show as land."
+}

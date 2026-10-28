@@ -382,6 +382,46 @@ cincpac-105-45:
   rights: Public domain (U.S. government publication)
   used_for: silhouettes/silhouettes.yml (JUDY 33, July 1945 revision p. 23; DINAH 43, July 1945 revision pp. 43-44; ZEKE 52, April 1945 edition p. 1)
 
+commons-p108:
+  title: 'Piaggio P.108.svg: a three-view drawing of the Piaggio P.108B'
+  by: Kaboldy (Wikimedia Commons user), 2013, "own work"
+  held: Wikimedia Commons
+  url: https://commons.wikimedia.org/wiki/File:Piaggio_P.108.svg
+  rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); attribution required, adaptations share alike
+  used_for: silhouettes/silhouettes.yml (p108; the traced silhouette is an adaptation and carries CC BY-SA 3.0)
+  note: >-
+    A modern drawing, not a wartime recognition plate, used because no plate of the P.108 was found (FM 30-30
+    has none). Traced from the SVG's heavier outline strokes (detail lines, propeller discs and the antenna
+    dropped; the outside flood-filled), then with tools/trace_silhouette.py. It prints no dimensions. The file page (read 28 Oct 2026)
+    gives its source as "own work" and names no reference drawings, so its accuracy can't be traced further.
+
+princeton-amsalger:
+  title: Algeria, Alger and vicinity (uncontrolled mosaic), sheet 3 of 7, 1:13,040
+  by: Army Map Service, U.S. Army, 1942 (aerial photography by the R.A.F., Jan 1942; revision from air photographs 8/41 and intelligence reports, 1941)
+  held: Princeton University Library (scan), via its IIIF image server
+  url: https://maps.princeton.edu/catalog/princeton-bk128c659
+  rights: Princeton marks its WWII Army Map Service scans "No Known Copyright"; a U.S. government work
+  cite: princeton-amsalger
+  match: '^princeton-amsalger$'
+  used_for: tools/grid_ref.py nwa (the grid's printed definition and the worked reference Mon Rouge = H743072); engagements/algiers-1943 landmarks
+  note: >-
+    Prints "N. W. Africa Zone Grid (Purple): Lambert Conical Orthomorphic, Clarke 1880, origin 34 N and Greenwich
+    Meridian, false co-ordinates of origin 1,000,000 meters East, 500,000 meters North", and a worked example (Mon
+    Rouge, letter H, reference H743072). Read 28 Oct 2026 at full resolution from
+    https://iiif-cloud.princeton.edu/iiif/2/6a%2Fa6%2F7b%2F6aa67b79e33a47f88e983a25649de97e%2Fintermediate_file
+
+fm-4-155:
+  title: FM 4-155, Coast Artillery Field Manual, Antiaircraft Artillery, Reference Data (1940)
+  by: War Department
+  held: Internet Archive
+  url: https://archive.org/details/FM_4_155_S_A_A_A_R_D_1940
+  rights: Public domain (U.S. government publication)
+  used_for: site/algiers.js (Battery C's range rings, table A, printed p. 8); FM 4-110 (1942) para 4 gives the same figures
+  note: >-
+    Table A gives each weapon's maximum horizontal and vertical range "as limited by fuze or tracer": 3-inch AA gun
+    11,100 / 9,800 yd; 90 mm 12,600 / 11,000 yd (read on the page image, 28 Oct 2026). These are the limits, not an
+    "effective" range: the manuals read give none for the guns.
+
 fm-30-30:
   title: FM 30-30 / BuAer 3, Recognition Pictorial Manual (April 1943)
   by: War Department and Navy Department, Bureau of Aeronautics
@@ -481,6 +521,19 @@ natural-earth:
   rights: Public domain
   used_for: base maps on every page; battles/*.json coastlines
 
+aws-terrain-tiles:
+  title: 'Terrain Tiles (Terrarium format), Registry of Open Data on AWS (Tilezen / Mapzen "joerd")'
+  by: Tilezen, from SRTM, GMTED2010, ETOPO1 and other elevation sources
+  url: https://registry.opendata.aws/terrain-tiles/
+  rights: >-
+    SRTM and GMTED2010 public domain (USGS asks for credit); ETOPO1 public domain (NOAA). Attribution, as the
+    project's attribution page asks: "SRTM and GMTED2010 terrain data courtesy of the U.S. Geological Survey;
+    ETOPO1 courtesy of NOAA NCEI." (https://github.com/tilezen/joerd/blob/master/docs/attribution.md)
+  used_for: 'relief/*/ (land.png and shade.png, shaded relief and a land mask made by tools/build_relief.py)'
+  note: >-
+    Today's ground, not 1943's: the coastline includes harbour works and reclamation since the war. Modified
+    (hillshaded, thresholded at sea level) by tools/build_relief.py; not endorsed by USGS or NOAA.
+
 # ── Derived, not an outside source ─────────────────────────────────────────────────────────────
 
 grid:
@@ -536,3 +589,35 @@ url:
   kind: url
   title: A web page cited by its address (ship histories, catalog records)
   match: '^https?://\S+$'
+
+sigterritoires-nwa-grid:
+  title: "How to manage the NW Africa Grid projection with ArcGis and QGis"
+  by: Atilio Francois, Blog GIS & Territories (sigterritoires.fr), 13 Aug 2018, updated 17 Oct 2018
+  url: https://www.sigterritoires.fr/index.php/en/how-to-manage-the-nw-africa-grid-projection-with-arcgis-and-qgis/
+  rights: Web page, cited for the grid's parameters only
+  cite: sigterritoires-nwa-grid
+  match: '^sigterritoires-nwa-grid$'
+  used_for: tools/grid_ref.py (nwa)
+  note: >-
+    Gives the British N.W. Africa grid as Lambert, Clarke 1880, lat_0 = lat_1 = 34 N, lon_0 0, k0 0.9994,
+    false origin 1,000,000 E 500,000 N, metres. A secondary source: not checked against a War Office
+    grid specification. It does not give the 100 km square lettering. A 1943 Tunis plan printed "British
+    North West Africa Grid" with grid north 5 deg 41' E of true; this definition gives 5 deg 41' at Tunis.
+
+oss-967:
+  title: "Algeria and Tunisia: Principal Highways and Landing Places (Map No. 967, Provisional Edition), 22 August 1942"
+  by: Geography Division, Office of Strategic Services (O.S.S.); reproduced by the OSS Repro. Section
+  held: Stanford University Libraries (G8241 .P2 1942 .U5)
+  id: vs189tm5539
+  url: https://purl.stanford.edu/vs189tm5539
+  rights: public domain (Stanford University Libraries)
+  cite: oss-967
+  match: '^oss-967$'
+  used_for: >-
+    roads/oss967-primary.geojson (the primary roads, traced by tools/trace_roads.py); the road moves in
+    army/routes.csv of Battery C, 62nd CA (AA) and the 67th CA (AA) medical detachment, Feb–Jun 1943
+  note: >-
+    About 1:3,000,000; primary roads heavy, secondary thin, town rings. The printed 1-degree ticks don't
+    agree with the drawing (fitted to them, towns land 11–36 km off; the 7°E tick on the lower edge is
+    about 10 km out of line with the rest), so the scan is fitted to 33 of its town rings instead
+    (roads/oss967-gcps.csv), 2nd-order polynomial: 3.2 km rms, 3.9 km leave-one-out, worst 12 km (Mascara).
