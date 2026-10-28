@@ -1325,10 +1325,6 @@
       27.0333
      ],
      [
-      128.8167,
-      26.8333
-     ],
-     [
       130.6333,
       26.9833
      ],
@@ -11394,13 +11390,13 @@
     "kind": "diary",
     "ref": "",
     "patrol": 1,
-    "on_track": true,
+    "on_track": false,
     "utc": "1945-04-07T03:00Z",
     "lat_raw": "26-50N",
     "lon_raw": "128-49E",
     "local": "1945-04-07 1200(I)",
     "page": "rg367-633422068/p04",
-    "note": "",
+    "note": "Typed so (checked on the scan, 28 Oct 2026), but 54-59 nm west of South Dakota's (27-15-00N 129-49-00E) and Wilkes-Barre's (27-12N 129-44E) 1200 fixes, which agree within 5 nm, while she was 'steaming in company with T.G. 58.3' (same page); her 0800 and 2000 fixes are within 10 nm of theirs. Reading 128 as 129 still leaves her 22-25 nm off, so no correction is safe: kept as typed, off the track",
     "fix": ""
    },
    "geometry": {
@@ -11419,19 +11415,19 @@
     "patrol": 1,
     "on_track": false,
     "utc": "1945-04-07T03:10Z",
-    "lat_raw": "~26-50N",
-    "lon_raw": "~128-51E",
+    "lat_raw": "~27-01N",
+    "lon_raw": "~129-53E",
     "local": "1945-04-07 1210(I)",
     "page": "rg367-633422068/p04",
     "note": "\"at 1210 Hancock was hit by a suicide dive bomber.\"",
-    "fix": "position assumed: interpolated between the 07 Apr 0300Z and 07 Apr 1100Z fixes",
+    "fix": "position assumed: interpolated between the 06 Apr 2300Z and 07 Apr 1100Z fixes",
     "assumed": true
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     128.8545,
-     26.8367
+     129.8828,
+     27.017
     ]
    }
   },
@@ -11443,19 +11439,19 @@
     "patrol": 1,
     "on_track": false,
     "utc": "1945-04-07T03:40Z",
-    "lat_raw": "~26-51N",
-    "lon_raw": "~128-58E",
+    "lat_raw": "~27-01N",
+    "lon_raw": "~129-56E",
     "local": "1945-04-07 1240(I)",
     "page": "rg367-633422068/p04",
     "note": "\"From 1240 to 1345 we picked up 8 men who had been blown into the water when Hancock was hit.\"",
-    "fix": "position assumed: interpolated between the 07 Apr 0300Z and 07 Apr 1100Z fixes",
+    "fix": "position assumed: interpolated between the 06 Apr 2300Z and 07 Apr 1100Z fixes",
     "assumed": true
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     128.9679,
-     26.8467
+     129.9307,
+     27.015
     ]
    }
   },
@@ -11467,19 +11463,19 @@
     "patrol": 1,
     "on_track": false,
     "utc": "1945-04-07T05:20Z",
-    "lat_raw": "~26-53N",
-    "lon_raw": "~129-21E",
+    "lat_raw": "~27-00N",
+    "lon_raw": "~130-05E",
     "local": "1945-04-07 1420(I)",
     "page": "rg367-633422068/p04",
     "note": "\"At 1420 another enemy dive bomber dove on the Essex, but she was shot down by AA fire before she could hit.\"",
-    "fix": "position assumed: interpolated between the 07 Apr 0300Z and 07 Apr 1100Z fixes",
+    "fix": "position assumed: interpolated between the 06 Apr 2300Z and 07 Apr 1100Z fixes",
     "assumed": true
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     129.346,
-     26.8795
+     130.0904,
+     27.0081
     ]
    }
   },

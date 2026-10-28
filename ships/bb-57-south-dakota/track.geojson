@@ -7,7 +7,7 @@
     "kind": "track",
     "patrol": 1,
     "start": "1942-10-30T03:15Z",
-    "end": "1945-04-06T11:00Z"
+    "end": "1945-04-09T11:00Z"
    },
    "geometry": {
     "type": "LineString",
@@ -3347,6 +3347,42 @@
      [
       130.1,
       27.1167
+     ],
+     [
+      129.4333,
+      26.9125
+     ],
+     [
+      129.8167,
+      27.25
+     ],
+     [
+      130.575,
+      27.0667
+     ],
+     [
+      128.975,
+      26.5542
+     ],
+     [
+      129.3333,
+      26.4583
+     ],
+     [
+      130.45,
+      26.0333
+     ],
+     [
+      133.1625,
+      24.4917
+     ],
+     [
+      133.875,
+      24.65
+     ],
+     [
+      134.7833,
+      25.1833
      ]
     ]
    }
@@ -22855,6 +22891,213 @@
     "coordinates": [
      130.1,
      27.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T23:00Z",
+    "lat_raw": "26-54-45N",
+    "lon_raw": "129-26-00E",
+    "local": "1945-04-07 0800(I)",
+    "page": "rg367-633438508/p06",
+    "note": "Zone assumed as 6 April (the page types none); typed in degrees minutes and seconds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4333,
+     26.9125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-07T03:00Z",
+    "lat_raw": "27-15-00N",
+    "lon_raw": "129-49-00E",
+    "local": "1945-04-07 1200(I)",
+    "page": "rg367-633438508/p06",
+    "note": "Zone assumed as 6 April (the page types none); typed in degrees minutes and seconds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.8167,
+     27.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-07T11:00Z",
+    "lat_raw": "27-04-00N",
+    "lon_raw": "130-34-30E",
+    "local": "1945-04-07 2000(I)",
+    "page": "rg367-633438508/p06",
+    "note": "Zone assumed as 6 April (the page types none); typed in degrees minutes and seconds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.575,
+     27.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-07T23:00Z",
+    "lat_raw": "26-33-15N",
+    "lon_raw": "128-58-30E",
+    "local": "1945-04-08 0800(I)",
+    "page": "rg367-633438508/p07",
+    "note": "Zone assumed as 6 April (the page types none); typed in degrees minutes and seconds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.975,
+     26.5542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-08T03:00Z",
+    "lat_raw": "26-27-30N",
+    "lon_raw": "129-20-00E",
+    "local": "1945-04-08 1200(I)",
+    "page": "rg367-633438508/p07",
+    "note": "Zone assumed as 6 April (the page types none); typed in degrees minutes and seconds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.3333,
+     26.4583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-08T11:00Z",
+    "lat_raw": "26-02-00N",
+    "lon_raw": "130-27-00E",
+    "local": "1945-04-08 2000(I)",
+    "page": "rg367-633438508/p07",
+    "note": "Zone assumed as 6 April (the page types none); typed in degrees minutes and seconds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.45,
+     26.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-08T23:00Z",
+    "lat_raw": "24-29-30N",
+    "lon_raw": "133-09-45E",
+    "local": "1945-04-09 0800(I)",
+    "page": "rg367-633438508/p07",
+    "note": "Zone assumed as 6 April (the page types none); typed in degrees minutes and seconds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.1625,
+     24.4917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-09T03:00Z",
+    "lat_raw": "24-39-00N",
+    "lon_raw": "133-52-30E",
+    "local": "1945-04-09 1200(I)",
+    "page": "rg367-633438508/p07",
+    "note": "Zone assumed as 6 April (the page types none); typed in degrees minutes and seconds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.875,
+     24.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-09T11:00Z",
+    "lat_raw": "25-11-00N",
+    "lon_raw": "134-47-00E",
+    "local": "1945-04-09 2000(I)",
+    "page": "rg367-633438508/p07",
+    "note": "Zone assumed as 6 April (the page types none); typed in degrees minutes and seconds",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.7833,
+     25.1833
     ]
    }
   }
