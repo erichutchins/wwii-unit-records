@@ -428,6 +428,37 @@ hand-placed:
   cite: hand-placed
   match: '^hand-placed$'
 
+ams-l772:
+  title: "Kyushu 1:50,000, Series L772 (sheets cited by number, e.g. 4242-III Kajiki)"
+  by: U.S. Army Map Service (AMS), Corps of Engineers
+  held: University of Texas Libraries, Perry-Castañeda Library Map Collection (OCLC 6594238)
+  url: https://maps.lib.utexas.edu/maps/ams/japan/
+  rights: Public domain (U.S. government work)
+  cite: ams-l772:<sheet>      # e.g. ams-l772:4242-III
+  match: '^ams-l772:(\d{4}-(?:I|II|III|IV))$'
+  used_for: engagements/haynsworth-1945-04-06/positions.csv (airfields)
+  note: >-
+    Read from each sheet's margin: First Edition (AMS 1), 1943; Revised (AMS 2), 1945; Type F (AMS 3), 1945.
+    Redrawn in 1945 from the Japanese Imperial Land Survey 1:25,000 and 1:50,000 sheets (Kajiki and Kokubu
+    1936), planimetric detail partially revised from aerial photography of 1944-1945. Polyconic; the
+    neatlines are the Japanese sheet lines, labelled 130°45'10.4" etc. (Tokyo datum, the old Japanese
+    longitude corrected by 10.4"); the true minute ticks are printed beside them. 4242-II Kokubu
+    (N3140-E13045), 4242-III Kajiki (N3140-E13030), 4341-III Shibushi (N3120-E13100).
+
+ams-l506:
+  title: "Japan 1:250,000, Series L506 (sheets cited by number, e.g. NH 52-4 Kagoshima)"
+  by: U.S. Army Map Service (AMS), Corps of Engineers
+  held: University of Texas Libraries, Perry-Castañeda Library Map Collection (OCLC 6900707)
+  url: https://maps.lib.utexas.edu/maps/ams/japan/
+  rights: Public domain (U.S. government work)
+  cite: ams-l506:<sheet>      # e.g. ams-l506:NH52-4
+  match: '^ams-l506:(N[GHI]52-\d+)$'
+  used_for: engagements/haynsworth-1945-04-06/positions.csv (airfields not on an available 1:50,000 sheet)
+  note: >-
+    Postwar: Edition 1-AMS, compiled 1952 from the 1945 Kyushu 1:50,000 and other sources, planimetry
+    revised by photo-planimetric methods, printed 4-54. Transverse Mercator; graticule crosses every 15'.
+    Shows the airfields as in use about 1952 (Kanoya as "Aux AB"), so a field on it is a postwar position.
+
 url:
   kind: url
   title: A web page cited by its address (ship histories, catalog records)
