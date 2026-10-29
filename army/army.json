@@ -11073,7 +11073,8 @@
      35.85
     ]
    ],
-   "note": "Route not in the reports, drawn approximately. Sailing from Gourock on 1 Nov and arriving at Mers El Kébir on 11 Nov fits convoy KMF 2 (Clyde 1 Nov, North Africa 11–12 Nov 1942). Like the other Torch convoys it is drawn down the Firth of Clyde, through the North Channel, west round Ireland, far out into the Atlantic away from U-boats and aircraft, and east through the Strait of Gibraltar. The exact track isn't known."
+   "note": "Route not in the reports, drawn approximately. Sailing from Gourock on 1 Nov and arriving at Mers El Kébir on 11 Nov fits convoy KMF 2 (Clyde 1 Nov, North Africa 11–12 Nov 1942). Like the other Torch convoys it is drawn down the Firth of Clyde, through the North Channel, west round Ireland, far out into the Atlantic away from U-boats and aircraft, and east through the Strait of Gibraltar. The exact track isn't known.",
+   "by": "sea"
   },
   {
    "unit": "62ca-c",
@@ -11117,7 +11118,8 @@
      55.7
     ]
    ],
-   "note": "Route not in the reports, drawn approximately: out past Sandy Hook, south of Nova Scotia and Newfoundland, across the North Atlantic, round the north of Ireland and up the Firth of Clyde to Greenock. The Queen Elizabeth crossed alone, without escort, relying on her speed; she took about five days (sailed 31 Aug 10:05, anchored at Greenock 5 Sep 19:00)."
+   "note": "Route not in the reports, drawn approximately: out past Sandy Hook, south of Nova Scotia and Newfoundland, across the North Atlantic, round the north of Ireland and up the Firth of Clyde to Greenock. The Queen Elizabeth crossed alone, without escort, relying on her speed; she took about five days (sailed 31 Aug 10:05, anchored at Greenock 5 Sep 19:00).",
+   "by": "sea"
   },
   {
    "unit": "62ca-c",
@@ -11165,7 +11167,8 @@
      51.34
     ]
    ],
-   "note": "Rail route not in the reports, drawn approximately. They say only that the battery entrained and then boarded lorries; the stops (Glasgow, Carlisle, Crewe, Birmingham, Oxford, Reading, Pewsey) are a guess from the 1940s rail network, and the line from Greenock to Glasgow is not traced. The reported times (entrained 0230, arrived 0330) are too short for about 400 miles and were probably typed loosely. The route runs well to the west of London."
+   "note": "Rail route not in the reports, drawn approximately. They say only that the battery entrained and then boarded lorries; the stops (Glasgow, Carlisle, Crewe, Birmingham, Oxford, Reading, Pewsey) are a guess from the 1940s rail network, and the line from Greenock to Glasgow is not traced. The reported times (entrained 0230, arrived 0330) are too short for about 400 miles and were probably typed loosely. The route runs well to the west of London.",
+   "by": "rail"
   },
   {
    "unit": "62ca-c",
@@ -11205,7 +11208,8 @@
      55.86
     ]
    ],
-   "note": "Rail route not in the reports, drawn approximately: they say only that the train left Porton at 1900 and the battery detrained at Gourock at 1355. The return is assumed to retrace the outbound stops."
+   "note": "Rail route not in the reports, drawn approximately: they say only that the train left Porton at 1900 and the battery detrained at Gourock at 1355. The return is assumed to retrace the outbound stops.",
+   "by": "rail"
   },
   {
    "unit": "67ca-med",
@@ -11265,7 +11269,8 @@
      35.7277
     ]
    ],
-   "note": "Route not in the reports, drawn approximately. By rail from Fort Dix to the Staten Island piers (13 Jan 1943), then convoy UGF-4: out past Sandy Hook on 14 Jan, southeast to a rendezvous, a few hundred miles north of Bermuda on the 16th, east across the Atlantic, British and Canadian escorts joining west of Gibraltar on the morning of the 25th, through the Strait that night, into Mers-el-Kébir on the evening of the 26th. Dates from the Regimental HQ Battery's report and the Ancon's war diary as summarised by the 32nd Station Hospital (32ndstationhospital.com); the mid-ocean track is a guess."
+   "note": "Route not in the reports, drawn approximately. By rail from Fort Dix to the Staten Island piers (13 Jan 1943), then convoy UGF-4: out past Sandy Hook on 14 Jan, southeast to a rendezvous, a few hundred miles north of Bermuda on the 16th, east across the Atlantic, British and Canadian escorts joining west of Gibraltar on the morning of the 25th, through the Strait that night, into Mers-el-Kébir on the evening of the 26th. Dates from the Regimental HQ Battery's report and the Ancon's war diary as summarised by the 32nd Station Hospital (32ndstationhospital.com); the mid-ocean track is a guess.",
+   "by": "sea"
   },
   {
    "unit": "62ca-c",
@@ -11405,7 +11410,8 @@
      36.2092
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Oran – Orléansville: traced 147 mi (236 km) against the report's 154 mi (\"Traveled 154 miles\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Oran – Orléansville: traced 147 mi (236 km) against the report's 154 mi (\"Traveled 154 miles\").",
+   "by": "road"
   },
   {
    "unit": "62ca-c",
@@ -11529,7 +11535,8 @@
      36.5711
     ]
    ],
-   "note": "Along the roads (89% on primary roads, the rest secondary) on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Orléansville – L'Arba: traced 129 mi (207 km) against the report's 139 mi (\"Travelled 139 miles\")."
+   "note": "Along the roads (89% on primary roads, the rest secondary) on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Orléansville – L'Arba: traced 129 mi (207 km) against the report's 139 mi (\"Travelled 139 miles\").",
+   "by": "road"
   },
   {
    "unit": "62ca-c",
@@ -11689,7 +11696,8 @@
      36.1863
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). L'Arba – Sétif: traced 169 mi (272 km) against the report's 195 mi (\"Travelled 195 miles\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). L'Arba – Sétif: traced 169 mi (272 km) against the report's 195 mi (\"Travelled 195 miles\").",
+   "by": "road"
   },
   {
    "unit": "62ca-c",
@@ -11737,7 +11745,8 @@
      36.1705
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Sétif – Châteaudun-du-Rhumel: traced 46 mi (74 km) against the report's 41 mi (\"Travelled 41 miles\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Sétif – Châteaudun-du-Rhumel: traced 46 mi (74 km) against the report's 41 mi (\"Travelled 41 miles\").",
+   "by": "road"
   },
   {
    "unit": "62ca-c",
@@ -11945,7 +11954,8 @@
      36.7414
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Châteaudun-du-Rhumel – Algiers: traced 223 mi (359 km) against the report's 270 mi (\"168 and 102 miles, total 270\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Châteaudun-du-Rhumel – Algiers: traced 223 mi (359 km) against the report's 270 mi (\"168 and 102 miles, total 270\").",
+   "by": "road"
   },
   {
    "unit": "62ca-c",
@@ -11965,7 +11975,8 @@
      36.7553
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Algiers – Rouiba: traced 15 mi (24 km) against the report's 21 mi (\"travelled 21 miles\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Algiers – Rouiba: traced 15 mi (24 km) against the report's 21 mi (\"travelled 21 miles\").",
+   "by": "road"
   },
   {
    "unit": "62ca-c",
@@ -12045,7 +12056,8 @@
      36.3501
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Rouiba – Beni Mansour: traced 83 mi (133 km); the report gives no usable distance (\"travelled ?0 mi (a digit illegible)\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Rouiba – Beni Mansour: traced 83 mi (133 km); the report gives no usable distance (\"travelled ?0 mi (a digit illegible)\").",
+   "by": "road"
   },
   {
    "unit": "62ca-c",
@@ -12205,7 +12217,8 @@
      36.0419
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Beni Mansour – Aïn M'lila: traced 170 mi (273 km) against the report's 175 mi (\"travelled 175 mi\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Beni Mansour – Aïn M'lila: traced 170 mi (273 km) against the report's 175 mi (\"travelled 175 mi\").",
+   "by": "road"
   },
   {
    "unit": "62ca-c",
@@ -12357,7 +12370,8 @@
      36.8709
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Aïn M'lila – La Calle: traced 160 mi (258 km) against the report's 209 mi (\"travelled 209 mi\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Aïn M'lila – La Calle: traced 160 mi (258 km) against the report's 209 mi (\"travelled 209 mi\").",
+   "by": "road"
   },
   {
    "unit": "62ca-c",
@@ -12449,7 +12463,8 @@
      37.1331
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). La Calle – Ferryville: traced 97 mi (155 km) against the report's 115 mi (\"travelled 115 mi\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). La Calle – Ferryville: traced 97 mi (155 km) against the report's 115 mi (\"travelled 115 mi\").",
+   "by": "road"
   },
   {
    "unit": "67ca-med",
@@ -12589,7 +12604,8 @@
      36.1835
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Canastel – Orléansville: traced 149 mi (240 km) against the report's 137.5 mi (\"Distance Travelled 137.5 Miles\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Canastel – Orléansville: traced 149 mi (240 km) against the report's 137.5 mi (\"Distance Travelled 137.5 Miles\").",
+   "by": "road"
   },
   {
    "unit": "67ca-med",
@@ -12713,7 +12729,8 @@
      36.5711
     ]
    ],
-   "note": "Along the roads (89% on primary roads, the rest secondary) on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Orléansville – L'Arba: traced 129 mi (207 km) against the report's 141 mi (\"Distance Travelled 141 Miles\")."
+   "note": "Along the roads (89% on primary roads, the rest secondary) on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Orléansville – L'Arba: traced 129 mi (207 km) against the report's 141 mi (\"Distance Travelled 141 Miles\").",
+   "by": "road"
   },
   {
    "unit": "67ca-med",
@@ -12797,7 +12814,8 @@
      36.3488
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). L'Arba – Beni Mansour: traced 87 mi (140 km) against the report's 109 mi (\"Distance Travelled 109 Miles\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). L'Arba – Beni Mansour: traced 87 mi (140 km) against the report's 109 mi (\"Distance Travelled 109 Miles\").",
+   "by": "road"
   },
   {
    "unit": "67ca-med",
@@ -12957,7 +12975,8 @@
      36.0419
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Beni Mansour – Aïn M'lila: traced 170 mi (273 km) against the report's 200 mi (\"Distance Travelled 200 Miles\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Beni Mansour – Aïn M'lila: traced 170 mi (273 km) against the report's 200 mi (\"Distance Travelled 200 Miles\").",
+   "by": "road"
   },
   {
    "unit": "67ca-med",
@@ -13049,7 +13068,8 @@
      35.5496
     ]
    ],
-   "note": "Along the roads (85% on primary roads, the rest secondary) on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Aïn M'lila – Tébessa: traced 97 mi (156 km) against the report's 105 mi (\"Distance Travelled 105 Miles\")."
+   "note": "Along the roads (85% on primary roads, the rest secondary) on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Aïn M'lila – Tébessa: traced 97 mi (156 km) against the report's 105 mi (\"Distance Travelled 105 Miles\").",
+   "by": "road"
   },
   {
    "unit": "67ca-med",
@@ -13137,7 +13157,190 @@
      36.3936
     ]
    ],
-   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Mateur – Hammamet: traced 91 mi (147 km) against the report's 83 mi (\"distance travelled 83 miles\")."
+   "note": "Along the primary road on OSS Map 967 (1942), traced: the reports give only the towns and distances, so the route is assumed; ±4 km (map fit). Mateur – Hammamet: traced 91 mi (147 km) against the report's 83 mi (\"distance travelled 83 miles\").",
+   "by": "road"
+  },
+  {
+   "unit": "62ca-g",
+   "from": "1943-02-09",
+   "to": "1943-02-14",
+   "points": [
+    [
+     -0.4523,
+     35.5519
+    ],
+    [
+     0.067,
+     35.5892
+    ],
+    [
+     0.9119,
+     35.8363
+    ],
+    [
+     0.9181,
+     35.9608
+    ],
+    [
+     1.3316,
+     36.1649
+    ],
+    [
+     2.0843,
+     36.1587
+    ],
+    [
+     2.2206,
+     36.256
+    ],
+    [
+     2.6267,
+     36.4697
+    ],
+    [
+     2.8275,
+     36.4706
+    ],
+    [
+     2.9129,
+     36.5756
+    ],
+    [
+     3.0588,
+     36.7729
+    ],
+    [
+     3.1374,
+     36.7208
+    ],
+    [
+     3.5569,
+     36.725
+    ],
+    [
+     3.5968,
+     36.5644
+    ],
+    [
+     3.9083,
+     36.2316
+    ],
+    [
+     4.3559,
+     36.3361
+    ],
+    [
+     4.4716,
+     36.1004
+    ],
+    [
+     4.7613,
+     36.0741
+    ],
+    [
+     5.4047,
+     36.1893
+    ],
+    [
+     5.6912,
+     36.1529
+    ],
+    [
+     6.3581,
+     36.118
+    ]
+   ],
+   "note": "Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. \"1 officer and 71 EM boarded the train 2230\" at Oran on 10 Feb and arrived at Telergma at 1600 on the 14th, then by truck to Châteaudun; the other 5 officers and 94 men went by motor convoy (rg64-427183820/p0539). The map follows the train party.",
+   "by": "rail"
+  },
+  {
+   "unit": "62ca-hq2",
+   "from": "1943-02-08",
+   "to": "1943-02-13",
+   "points": [
+    [
+     -0.4523,
+     35.5519
+    ],
+    [
+     0.067,
+     35.5892
+    ],
+    [
+     0.9119,
+     35.8363
+    ],
+    [
+     0.9181,
+     35.9608
+    ],
+    [
+     1.3316,
+     36.1649
+    ],
+    [
+     2.0843,
+     36.1587
+    ],
+    [
+     2.2206,
+     36.256
+    ],
+    [
+     2.6267,
+     36.4697
+    ],
+    [
+     2.8275,
+     36.4706
+    ],
+    [
+     2.9129,
+     36.5756
+    ],
+    [
+     3.0588,
+     36.7729
+    ],
+    [
+     3.1374,
+     36.7208
+    ],
+    [
+     3.5569,
+     36.725
+    ],
+    [
+     3.5968,
+     36.5644
+    ],
+    [
+     3.9083,
+     36.2316
+    ],
+    [
+     4.3559,
+     36.3361
+    ],
+    [
+     4.4716,
+     36.1004
+    ],
+    [
+     4.7613,
+     36.0741
+    ],
+    [
+     5.4047,
+     36.1893
+    ],
+    [
+     5.6912,
+     36.1529
+    ]
+   ],
+   "note": "Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. 58 men \"moved by train to Telergma 2300\" on 9 Feb, \"arrived Algiers 0330\" on the 12th and Telergma at 1600 on the 14th; the other 29 men and 2 officers went by truck and arrived on the 13th (rg64-427179736/p0450). The map follows the train party.",
+   "by": "rail"
   }
  ]
 }

@@ -64,7 +64,8 @@ Hand-edited (the source of truth):
 - `relations.csv`: dated relationships between units (part of, attached to, under command of, took part in), each with its page
 - `routes.csv`: waypoints for legs the reports don't trace (Atlantic voyages, train rides).
   Columns: `unit`, `from_date`, `to_date` (the two stations it joins), `seq`, `lat`, `lon`,
-  `note` (on the first row: why the route is drawn that way). Always drawn dashed as assumed.
+  `note` (on the first row: why the route is drawn that way), `by` (`sea`, `rail` or `road`: how the unit travelled, which
+  the map draws differently). Always drawn dashed as assumed.
 
 Generated, never edited: `army.json`, each unit's stations placed on the map (town, offset or
 grid reference), with its routes, ships and actions, for the kit's `site/army.html`.
