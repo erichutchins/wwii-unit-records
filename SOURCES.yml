@@ -489,6 +489,16 @@ osm-nominatim:
   match: '^OSM Nominatim$'
   used_for: army/places.csv (coordinates of the towns stations name)
 
+wikipedia-coordinates:
+  title: Wikipedia, article coordinates for a place
+  by: Wikipedia contributors
+  held: Wikipedia
+  url: https://en.wikipedia.org/wiki/San_Pedro_Bay_(Philippines)
+  rights: CC BY-SA 4.0
+  cite: Wikipedia coordinates
+  match: '^Wikipedia coordinates$'
+  used_for: ships/cve-100-bougainville/positions.csv (San Pedro Bay, Leyte Gulf; a port position where no gazetteer point was found, cited by URL in fix_note)
+
 usgs-comcat:
   title: ANSS Comprehensive Earthquake Catalog (ComCat)
   by: U.S. Geological Survey
