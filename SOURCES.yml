@@ -617,6 +617,31 @@ sigterritoires-nwa-grid:
     grid specification. It does not give the 100 km square lettering. A 1943 Tunis plan printed "British
     North West Africa Grid" with grid north 5 deg 41' E of true; this definition gives 5 deg 41' at Tunis.
 
+ams-algeria-50k:
+  title: "Algeria 1:50,000 (A.M.S. P741), 1941: sheets 93 Sétif, 94 St.-Arnaud, 95 Châteaudun du Rhumel, 96 Oued Athmenia, 118 Navarin, 119 St.-Donat, 120 Aïn M'lila, 121 Aïn Fakroun"
+  by: Army Map Service, U.S. Army, 1941, from the French 1:50,000 sheets; North West Africa grid (1 km lines)
+  held: University of Texas Libraries, Perry-Castañeda Library Map Collection (scans), mirrored on Wikimedia Commons (public domain)
+  url: https://commons.wikimedia.org/wiki/Category:Maps_of_Algeria_by_the_United_States_Army_Map_Service
+  rights: public domain (a U.S. government work)
+  cite: ams-algeria-50k/<sheet>
+  match: '^ams-algeria-50k/\d+$'
+  used_for: >-
+    army/stations.csv notes (Battery B's "Ouimene" sought, not found on these eight sheets, OCR'd with macOS Vision and
+    checked by eye)
+
+ams-algeria-200k:
+  title: "Algeria 1:200,000 (G.S.G.S. 4180; A.M.S. P541), sheets 16 Sétif (2nd edition, War Office 1942) and 27 Batna (2nd GSGS edition 1942, AMS printing 1947)"
+  by: War Office, Geographical Section, General Staff; Army Map Service, U.S. Army. Copied from French maps (1927, 1930) with revision from intelligence reports of 1941
+  held: University of Texas Libraries, Perry-Castañeda Library Map Collection (scans), mirrored on Wikimedia Commons (public domain)
+  url: https://commons.wikimedia.org/wiki/Category:Maps_of_Algeria_by_the_United_States_Army_Map_Service
+  rights: public domain (a U.S. government work; Commons marks it so)
+  cite: ams-algeria-200k/<sheet>
+  match: '^ams-algeria-200k/(16|27)$'
+  used_for: army/places.csv (Fontaine-Chaude station, read off sheet 27 on the North West Africa grid)
+  note: >-
+    Printed with the North West Africa grid (purple, 10 km lines). The UT site itself is behind a bot check; the Commons
+    copies are the same scans (txu-pclmaps-oclc-6543574-setif-16.jpg, -batna-27.jpg).
+
 oss-967:
   title: "Algeria and Tunisia: Principal Highways and Landing Places (Map No. 967, Provisional Edition), 22 August 1942"
   by: Geography Division, Office of Strategic Services (O.S.S.); reproduced by the OSS Repro. Section
