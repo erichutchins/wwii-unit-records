@@ -1,13 +1,16 @@
 # Army units: stations, actions and crossings, 1942–1945
 
-Where eight Army units were, day by day, from their own records: an anti-aircraft battery's
-and a medical detachment's war from Oran to Bavaria, an infantry company in Normandy, a gun
+Where twenty Army units were, day by day, from their own records: an anti-aircraft battery's
+and a medical detachment's war from Oran to Bavaria, the 62nd CA (AA)'s batteries and headquarters
+around it in North Africa, an infantry company in Normandy, a gun
 battalion's headquarters battery with Third Army, and the 9th Armored Division's positions.
 Every station row cites its page (`page`), in the forms listed in `../SOURCES.yml`.
 
 | Unit | Records | Years |
 |---|---|---|
 | `62ca-c` Battery C, 62nd Coast Artillery (AA) / 62nd AAA Gun Bn | Morning reports (roll 783) | 1942–1944 |
+| `62ca-a`, `62ca-b`, `62ca-g`; `62ca-d`, `62ca-e` Batteries A, B and G, 62nd CA (AA); Batteries D and E (July 1943 only) | Morning reports (rolls 782 and 783) | 1942–1943 |
+| `62ca-hq1`, `62ca-hq2`, `62ca-hq3` the headquarters batteries of the 62nd CA (AA)'s 1st, 2nd and 3rd Bns; `62ca-med` its Medical Detachment | Morning reports (rolls 782 and 783) | 1942–1943 |
 | `106aaa-d` Battery D, 106th AAA AW Bn (SP) | Morning reports; for 1945 the battalion's own histories and journal (45th Infantry Division Museum) | 1944–1945 |
 | `67ca-med` Medical Detachment, 67th CA (AA) / 894th AAA AW Bn | Morning reports (rolls 792–794); for 1945 the battalion's printed history | 1942–1945 |
 | `113inf-med`, `113inf-g` Medical Detachment and Company G, 113th Infantry | Morning reports (rolls 1689–1690, handwritten, filmed sideways; later rolls for 1943–44) | 1940–1944 |
@@ -55,8 +58,8 @@ Hand-edited (the source of truth):
 - `stations.csv`: each unit's station whenever it changed, as typed, with its page
 - `places.csv`: coordinates for the places the stations name
 - `actions.csv`: Battery D, 106th AAA's engagements and casualties, from the battalion's monthly
-  histories (Aug 1944 – Apr 1945); Battery C, 62nd CA (AA)'s firings, from its morning reports
-  (Oran and Algiers, 1943)
+  histories (Aug 1944 – Apr 1945); the 62nd CA (AA) batteries' firings (A, B, C and G), from their morning reports
+  (Oran and Algiers, 1942–43)
 - `ships.csv`: the ships of the sea crossings
 - `relations.csv`: dated relationships between units (part of, attached to, under command of, took part in), each with its page
 - `routes.csv`: waypoints for legs the reports don't trace (Atlantic voyages, train rides).
