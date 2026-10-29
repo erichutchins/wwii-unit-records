@@ -194,8 +194,7 @@ ships:
       1945-01: { status: mapped, nara: [139891872], files: [positions], note: "14 pp. typed diary, all transcribed: Task Group 38.1 and Task Force 34 (1-3 Jan), the Formosa and Luzon strikes, Camranh Bay (12 Jan), Hong Kong and Hainan (16 Jan), Formosa and Okinawa Jima (21-22 Jan), Task Force 34's exercises, Ulithi from 26 Jan (berth 6); zone I (minus 9) to 0000 on 26 Jan, then K; one fix (26 Jan 1200 longitude) read in lon_fix" }
       1945-02: { status: mapped, nara: [139900467], files: [positions], note: "13 pp. typed diary, all transcribed: Ulithi to 10 Feb, then Task Group 58.3 (Tokyo strikes 16-17 Feb, Iwo Jima 19-22 Feb, the 25 Feb Tokyo strike, the 28 Feb run to Okinawa); zone K (minus 10) written for the month, assumed after 10 Feb; 24 Feb 2000 latitude read in lat_fix, 26 Feb 2000 off the track" }
       1945-03: { status: missing, note: "searched 2026-10-23: no March 1945 war diary; the report of operations 18 Mar - 11 May 1945 (NARA 77802097, 4 pp.) covers the strikes" }
-      1945-04: { status: partial, nara: [633438508], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (23 pp.): only the three 6 April fixes (p04) so far, for Task Group 58.3 on the day (lead L49); zone I assumed" }
-      1945-04: { status: found, nara: [633438508], note: "23 pp., not read" }
+      1945-04: { status: partial, nara: [633438508], first_fix: 1945-04-06, last_fix: 1945-04-09, files: [positions], note: "April 1945 war diary (23 pp.): 6-9 April transcribed (p04, p06, p07: Task Group 58.3 on and after Haynsworth's day, leads L49 and L38), positions typed in degrees, minutes and seconds; the rest of the month not yet; zone I assumed" }
       1945-05: { status: found, nara: [101760567], note: "14 pp., not read" }
 
 units:   # Army units in army/: each one's station history
