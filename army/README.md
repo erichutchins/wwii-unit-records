@@ -9,7 +9,7 @@ Every station row cites its page (`page`), in the forms listed in `../SOURCES.ym
 | Unit | Records | Years |
 |---|---|---|
 | `62ca-c` Battery C, 62nd Coast Artillery (AA) / 62nd AAA Gun Bn | Morning reports (roll 783) | 1942–1944 |
-| `62ca-a`, `62ca-b`, `62ca-g`; `62ca-d`, `62ca-e` Batteries A, B and G, 62nd CA (AA); Batteries D and E (July 1943 only) | Morning reports (rolls 782 and 783) | 1942–1943 |
+| `62ca-a`, `62ca-b`, `62ca-g`, `62ca-h`; `62ca-d`, `62ca-e`, `62ca-f`, `62ca-i`, `62ca-k` Batteries A, B, G and H, 62nd CA (AA); Batteries D, E, F, I and K (July 1943 only) | Morning reports (rolls 782 and 783) | 1942–1943 |
 | `62ca-hq1`, `62ca-hq2`, `62ca-hq3` the headquarters batteries of the 62nd CA (AA)'s 1st, 2nd and 3rd Bns; `62ca-med` its Medical Detachment | Morning reports (rolls 782 and 783) | 1942–1943 |
 | `106aaa-d` Battery D, 106th AAA AW Bn (SP) | Morning reports; for 1945 the battalion's own histories and journal (45th Infantry Division Museum) | 1944–1945 |
 | `67ca-med` Medical Detachment, 67th CA (AA) / 894th AAA AW Bn | Morning reports (rolls 792–794); for 1945 the battalion's printed history | 1942–1945 |
@@ -68,11 +68,15 @@ Hand-edited (the source of truth):
   the map draws differently). Always drawn dashed as assumed.
 
 Generated, never edited: `army.json`, each unit's stations placed on the map (town, offset or
-grid reference), with its routes, ships and actions, for the kit's `site/army.html`.
+grid reference), with its routes, ships and actions, for the kit's `site/army.html`; and `seafloor.csv`, the
+seafloor every 2 nm under each LST crossing as the map draws it (NOAA ETOPO1, `etopo1` in `../SOURCES.yml`; the
+convoys' own courses aren't recorded, so these are depths under the drawn line), for the map's "How they
+travelled" section.
 
 ```
 python3 tools/geocode_places.py   # fill in coordinates for new places.csv rows
 python3 tools/build_army.py       # check every row and write army.json; must report 0 problems
+uv run tools/army_seafloor.py     # then: seafloor.csv under the sea crossings (cached ETOPO1 tiles)
 ```
 
 ## stations.csv columns
@@ -167,6 +171,7 @@ on the station rows.
 | `voyage` | What the unit's own records say about the crossing, with pages |
 | `about` | The ship's history, from the source in `links` |
 | `links` | Space-separated sources (the Navy's DANFS ship histories) |
+| `silhouette` | Optional: the ship's class profile in `../silhouettes/silhouettes.yml` (`lst1`), when the ship is identified; the silhouettes page lists the crossing under it |
 
 ## places.csv columns
 

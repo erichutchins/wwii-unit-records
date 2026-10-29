@@ -22,7 +22,7 @@ unit,from_date,to_date,seq,lat,lon,note,by
 62ca-c,1942-08-28,1942-09-05,7,55.4,-6.4,,sea
 62ca-c,1942-08-28,1942-09-05,8,55.22,-5.85,,sea
 62ca-c,1942-08-28,1942-09-05,9,55.7,-4.93,,sea
-62ca-c,1942-09-05,1942-09-07,1,55.947,-4.757,"Rail route not in the reports, drawn approximately. They say only that the battery entrained and then boarded lorries; the stops (Glasgow, Carlisle, Crewe, Birmingham, Oxford, Reading, Pewsey) are a guess from the 1940s rail network, and the line from Greenock to Glasgow is not traced. The reported times (entrained 0230, arrived 0330) are too short for about 400 miles and were probably typed loosely. The route runs well to the west of London.",rail
+62ca-c,1942-09-05,1942-09-07,1,55.947,-4.757,"Rail route not in the reports, drawn approximately. They say only that the battery entrained and then boarded lorries; the stops (Glasgow, Carlisle, Crewe, Birmingham, Oxford, Reading, Pewsey) are a guess from the 1940s rail network, and the line from Greenock to Glasgow is not traced. The reported times (entrained 0230, arrived 0330) are too short for about 400 miles and were probably typed loosely. The route runs well to the west of London. The train (inferred; the reports don't describe it): a British troop special of compartment coaches, the British passenger car being ""designed to effect ready discharge of passengers from many compartments"" (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 122). From the Clyde it ran on the LMS (Gourock and Greenock's lines were LMS from 1923), through junctions such as Crewe, as troop trains from the Clyde did (p. 116). Lavington was a Great Western station and Porton a Southern Railway one (Wikipedia), so the train changed companies on the way.",rail
 62ca-c,1942-09-05,1942-09-07,2,55.86,-4.258,,rail
 62ca-c,1942-09-05,1942-09-07,3,55.69,-3.68,,rail
 62ca-c,1942-09-05,1942-09-07,4,54.89,-2.93,,rail
@@ -32,7 +32,7 @@ unit,from_date,to_date,seq,lat,lon,note,by
 62ca-c,1942-09-05,1942-09-07,8,51.75,-1.27,,rail
 62ca-c,1942-09-05,1942-09-07,9,51.458,-0.972,,rail
 62ca-c,1942-09-05,1942-09-07,10,51.34,-1.77,,rail
-62ca-c,1942-10-28,1942-10-29,1,51.458,-0.972,"Rail route not in the reports, drawn approximately: they say only that the train left Porton at 1900 and the battery detrained at Gourock at 1355. The return is assumed to retrace the outbound stops.",rail
+62ca-c,1942-10-28,1942-10-29,1,51.458,-0.972,"Rail route not in the reports, drawn approximately: they say only that the train left Porton at 1900 and the battery detrained at Gourock at 1355. The return is assumed to retrace the outbound stops. The train (inferred; the reports don't describe it): a British troop special of compartment coaches, the British passenger car being ""designed to effect ready discharge of passengers from many compartments"" (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 122). From the Clyde it ran on the LMS (Gourock and Greenock's lines were LMS from 1923), through junctions such as Crewe, as troop trains from the Clyde did (p. 116). Lavington was a Great Western station and Porton a Southern Railway one (Wikipedia), so the train changed companies on the way.",rail
 62ca-c,1942-10-28,1942-10-29,2,51.75,-1.27,,rail
 62ca-c,1942-10-28,1942-10-29,3,52.48,-1.9,,rail
 62ca-c,1942-10-28,1942-10-29,4,53.09,-2.43,,rail
@@ -489,7 +489,7 @@ unit,from_date,to_date,seq,lat,lon,note,by
 67ca-med,1943-05-05,1943-05-31,18,36.4583,10.5642,,road
 67ca-med,1943-05-05,1943-05-31,19,36.4023,10.5431,,road
 67ca-med,1943-05-05,1943-05-31,20,36.3936,10.5689,,road
-62ca-g,1943-02-09,1943-02-14,1,35.5519,-0.4523,"Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. ""1 officer and 71 EM boarded the train 2230"" at Oran on 10 Feb and arrived at Telergma at 1600 on the 14th, then by truck to Châteaudun; the other 5 officers and 94 men went by motor convoy (rg64-427183820/p0539). The map follows the train party.",rail
+62ca-g,1943-02-09,1943-02-14,1,35.5519,-0.4523,"Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. ""1 officer and 71 EM boarded the train 2230"" at Oran on 10 Feb and arrived at Telergma at 1600 on the 14th, then by truck to Châteaudun; the other 5 officers and 94 men went by motor convoy (rg64-427183820/p0539). The map follows the train party. The train (inferred; the reports say only ""train""): the Algerian railways' (CFA) standard-gauge main line from Oran through Algiers to Constantine, single track and steam-hauled, with small engines and hand-braked cars, and slow (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 168). The U.S. Military Railway Service took over CFA lines only from early March 1943, and only east of Beni Mansour (p. 174), so this February train was most likely French-run. Whether the men rode in coaches or in French box cars isn't recorded.",rail
 62ca-g,1943-02-09,1943-02-14,2,35.5892,0.0670,,rail
 62ca-g,1943-02-09,1943-02-14,3,35.8363,0.9119,,rail
 62ca-g,1943-02-09,1943-02-14,4,35.9608,0.9181,,rail
@@ -510,7 +510,7 @@ unit,from_date,to_date,seq,lat,lon,note,by
 62ca-g,1943-02-09,1943-02-14,19,36.1893,5.4047,,rail
 62ca-g,1943-02-09,1943-02-14,20,36.1529,5.6912,,rail
 62ca-g,1943-02-09,1943-02-14,21,36.1180,6.3581,,rail
-62ca-hq2,1943-02-08,1943-02-13,1,35.5519,-0.4523,"Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. 58 men ""moved by train to Telergma 2300"" on 9 Feb, ""arrived Algiers 0330"" on the 12th and Telergma at 1600 on the 14th; the other 29 men and 2 officers went by truck and arrived on the 13th (rg64-427179736/p0450). The map follows the train party.",rail
+62ca-hq2,1943-02-08,1943-02-13,1,35.5519,-0.4523,"Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. 58 men ""moved by train to Telergma 2300"" on 9 Feb, ""arrived Algiers 0330"" on the 12th and Telergma at 1600 on the 14th; the other 29 men and 2 officers went by truck and arrived on the 13th (rg64-427179736/p0450). The map follows the train party. The train (inferred; the reports say only ""train""): the Algerian railways' (CFA) standard-gauge main line from Oran through Algiers to Constantine, single track and steam-hauled, with small engines and hand-braked cars, and slow (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 168). The U.S. Military Railway Service took over CFA lines only from early March 1943, and only east of Beni Mansour (p. 174), so this February train was most likely French-run. Whether the men rode in coaches or in French box cars isn't recorded.",rail
 62ca-hq2,1943-02-08,1943-02-13,2,35.5892,0.0670,,rail
 62ca-hq2,1943-02-08,1943-02-13,3,35.8363,0.9119,,rail
 62ca-hq2,1943-02-08,1943-02-13,4,35.9608,0.9181,,rail
@@ -530,3 +530,51 @@ unit,from_date,to_date,seq,lat,lon,note,by
 62ca-hq2,1943-02-08,1943-02-13,18,36.0741,4.7613,,rail
 62ca-hq2,1943-02-08,1943-02-13,19,36.1893,5.4047,,rail
 62ca-hq2,1943-02-08,1943-02-13,20,36.1529,5.6912,,rail
+62ca-a,1942-11-01,1942-11-11,1,55.70,-4.93,"Route not in the reports, drawn approximately: Battery C's (see its row of 29 Oct 1942). Battery A sailed from Gourock on 1 Nov in the Argentina with Battery C (rg64-427180737/p0535) and arrived at Mers El Kébir on 11 Nov, so the same convoy (inferred).",sea
+62ca-a,1942-11-01,1942-11-11,2,55.22,-5.85,,sea
+62ca-a,1942-11-01,1942-11-11,3,55.40,-6.40,,sea
+62ca-a,1942-11-01,1942-11-11,4,55.55,-7.40,,sea
+62ca-a,1942-11-01,1942-11-11,5,55.40,-10.50,,sea
+62ca-a,1942-11-01,1942-11-11,6,52.50,-16.00,,sea
+62ca-a,1942-11-01,1942-11-11,7,47.00,-19.00,,sea
+62ca-a,1942-11-01,1942-11-11,8,41.00,-17.00,,sea
+62ca-a,1942-11-01,1942-11-11,9,37.00,-11.50,,sea
+62ca-a,1942-11-01,1942-11-11,10,36.40,-8.50,,sea
+62ca-a,1942-11-01,1942-11-11,11,35.95,-6.30,,sea
+62ca-a,1942-11-01,1942-11-11,12,35.96,-5.60,,sea
+62ca-a,1942-11-01,1942-11-11,13,35.90,-4.00,,sea
+62ca-a,1942-11-01,1942-11-11,14,35.85,-2.00,,sea
+62ca-h,1942-12-22,1943-01-03,1,55.70,-4.93,"Route not in the reports, drawn approximately. Battery H embarked in HMT Strathaird at Glasgow on 22 Dec 1942 and sailed in convoy from the Clyde on the 26th (rg64-427184821/p0397), reaching Algiers on one of 1-3 Jan 1943 (p0412). The convoy is not identified; drawn as the Torch convoys went (Battery C's route, 29 Oct 1942), then east along the Algerian coast to Algiers.",sea
+62ca-h,1942-12-22,1943-01-03,2,55.22,-5.85,,sea
+62ca-h,1942-12-22,1943-01-03,3,55.40,-6.40,,sea
+62ca-h,1942-12-22,1943-01-03,4,55.55,-7.40,,sea
+62ca-h,1942-12-22,1943-01-03,5,55.40,-10.50,,sea
+62ca-h,1942-12-22,1943-01-03,6,52.50,-16.00,,sea
+62ca-h,1942-12-22,1943-01-03,7,47.00,-19.00,,sea
+62ca-h,1942-12-22,1943-01-03,8,41.00,-17.00,,sea
+62ca-h,1942-12-22,1943-01-03,9,37.00,-11.50,,sea
+62ca-h,1942-12-22,1943-01-03,10,36.40,-8.50,,sea
+62ca-h,1942-12-22,1943-01-03,11,35.95,-6.30,,sea
+62ca-h,1942-12-22,1943-01-03,12,35.96,-5.60,,sea
+62ca-h,1942-12-22,1943-01-03,13,35.90,-4.00,,sea
+62ca-h,1942-12-22,1943-01-03,14,35.85,-2.00,,sea
+62ca-h,1942-12-22,1943-01-03,15,36.30,0.50,,sea
+62ca-h,1942-12-22,1943-01-03,16,36.85,2.90,,sea
+62ca-a,1942-09-05,1942-09-07,1,55.947,-4.757,"Rail route not in the reports, drawn as Battery C's (its row of 5 Sep 1942). Battery A disembarked at Greenock and entrained at 0930 on 6 Sep, arriving at Lavington at 0300 on the 7th (rg64-427180737/p0502): a different train from Battery C's, on the same journey. The train (inferred; the reports don't describe it): a British troop special of compartment coaches, the British passenger car being ""designed to effect ready discharge of passengers from many compartments"" (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 122). From the Clyde it ran on the LMS (Gourock and Greenock's lines were LMS from 1923), through junctions such as Crewe, as troop trains from the Clyde did (p. 116). Lavington was a Great Western station and Porton a Southern Railway one (Wikipedia), so the train changed companies on the way.",rail
+62ca-a,1942-09-05,1942-09-07,2,55.86,-4.258,,rail
+62ca-a,1942-09-05,1942-09-07,3,55.69,-3.68,,rail
+62ca-a,1942-09-05,1942-09-07,4,54.89,-2.93,,rail
+62ca-a,1942-09-05,1942-09-07,5,53.76,-2.7,,rail
+62ca-a,1942-09-05,1942-09-07,6,53.09,-2.43,,rail
+62ca-a,1942-09-05,1942-09-07,7,52.48,-1.9,,rail
+62ca-a,1942-09-05,1942-09-07,8,51.75,-1.27,,rail
+62ca-a,1942-09-05,1942-09-07,9,51.458,-0.972,,rail
+62ca-a,1942-09-05,1942-09-07,10,51.34,-1.77,,rail
+62ca-a,1942-10-28,1942-10-29,1,51.458,-0.972,"Rail route not in the reports, drawn as Battery C's (its row of 28 Oct 1942). Battery A entrucked at Lopcombe Corner and entrained (""PORTSMOUTH"" as typed; Porton inferred) on 28 Oct, detraining at Gourock at 1430 on the 29th (rg64-427180737/p0519). The train (inferred; the reports don't describe it): a British troop special of compartment coaches, the British passenger car being ""designed to effect ready discharge of passengers from many compartments"" (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 122). From the Clyde it ran on the LMS (Gourock and Greenock's lines were LMS from 1923), through junctions such as Crewe, as troop trains from the Clyde did (p. 116). Lavington was a Great Western station and Porton a Southern Railway one (Wikipedia), so the train changed companies on the way.",rail
+62ca-a,1942-10-28,1942-10-29,2,51.75,-1.27,,rail
+62ca-a,1942-10-28,1942-10-29,3,52.48,-1.9,,rail
+62ca-a,1942-10-28,1942-10-29,4,53.09,-2.43,,rail
+62ca-a,1942-10-28,1942-10-29,5,53.76,-2.7,,rail
+62ca-a,1942-10-28,1942-10-29,6,54.89,-2.93,,rail
+62ca-a,1942-10-28,1942-10-29,7,55.69,-3.68,,rail
+62ca-a,1942-10-28,1942-10-29,8,55.86,-4.258,,rail

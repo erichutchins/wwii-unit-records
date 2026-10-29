@@ -36,7 +36,19 @@
      "place_source": "hand-placed",
      "grid": "",
      "placed": "town",
-     "grid_check": null
+     "grid_check": null,
+     "ships": [
+      {
+       "as_typed": "H.M.S. Queen Elizabeth",
+       "ship": "RMS Queen Elizabeth",
+       "status": "confirmed",
+       "voyage": "Boarded at 1630 on 28 Aug at the 57th St pier, New York (p0372); sailed 1005 on 31 Aug \"Aboard HMS Queen Elizabeth\"; at sea 1-4 Sep \"aboard HMT Queen Elizabeth\" (p0389); anchored at Greenock 1900 on 5 Sep (p0389).",
+       "about": "The Cunard liner (launched 1938 at Clydebank), the largest passenger ship then built; a troopship from 1940, painted grey, sailing fast and usually alone across the Atlantic (Wikipedia).",
+       "links": [
+        "https://en.wikipedia.org/wiki/RMS_Queen_Elizabeth"
+       ]
+      }
+     ]
     },
     {
      "unit": "62ca-c",
@@ -84,7 +96,19 @@
      "place_source": "OSM Nominatim",
      "grid": "",
      "placed": "town",
-     "grid_check": null
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "H.M.S. Queen Elizabeth",
+       "ship": "RMS Queen Elizabeth",
+       "status": "confirmed",
+       "voyage": "Boarded at 1630 on 28 Aug at the 57th St pier, New York (p0372); sailed 1005 on 31 Aug \"Aboard HMS Queen Elizabeth\"; at sea 1-4 Sep \"aboard HMT Queen Elizabeth\" (p0389); anchored at Greenock 1900 on 5 Sep (p0389).",
+       "about": "The Cunard liner (launched 1938 at Clydebank), the largest passenger ship then built; a troopship from 1940, painted grey, sailing fast and usually alone across the Atlantic (Wikipedia).",
+       "links": [
+        "https://en.wikipedia.org/wiki/RMS_Queen_Elizabeth"
+       ]
+      }
+     ]
     },
     {
      "date": "1942-09-07",
@@ -148,7 +172,20 @@
      "place_source": "OSM Nominatim",
      "grid": "",
      "placed": "town",
-     "grid_check": null
+     "grid_check": null,
+     "ships": [
+      {
+       "as_typed": "USAT Argentina",
+       "ship": "USAT Argentina",
+       "status": "confirmed",
+       "voyage": "Detrained at Gourock 1355 on 29 Oct and boarded ship; 30-31 Oct \"Usual duties aboard ship USAT Argentina\" (p0405); sailed 1 Nov and arrived at Mers El Kébir 11 Nov (convoy KMF 2, inferred; routes.csv).",
+       "about": "The Moore-McCormack liner (built 1929 as the Pennsylvania, renamed 1938), requisitioned in January 1942 as a US Army transport; she had already landed troops at Gourock in July 1942, and later sailed to Casablanca (December 1942) and Cherbourg (1944) (Wikipedia, which does not list this Oct-Nov 1942 voyage).",
+       "links": [
+        "https://en.wikipedia.org/wiki/SS_Argentina_(1929)"
+       ],
+       "silhouette": "argentina"
+      }
+     ]
     },
     {
      "unit": "62ca-c",
@@ -180,7 +217,20 @@
      "place_source": "OSM Nominatim",
      "grid": "",
      "placed": "town",
-     "grid_check": null
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "USAT Argentina",
+       "ship": "USAT Argentina",
+       "status": "confirmed",
+       "voyage": "Detrained at Gourock 1355 on 29 Oct and boarded ship; 30-31 Oct \"Usual duties aboard ship USAT Argentina\" (p0405); sailed 1 Nov and arrived at Mers El Kébir 11 Nov (convoy KMF 2, inferred; routes.csv).",
+       "about": "The Moore-McCormack liner (built 1929 as the Pennsylvania, renamed 1938), requisitioned in January 1942 as a US Army transport; she had already landed troops at Gourock in July 1942, and later sailed to Casablanca (December 1942) and Cherbourg (1944) (Wikipedia, which does not list this Oct-Nov 1942 voyage).",
+       "links": [
+        "https://en.wikipedia.org/wiki/SS_Argentina_(1929)"
+       ],
+       "silhouette": "argentina"
+      }
+     ]
     },
     {
      "date": "1942-11-12",
@@ -552,7 +602,8 @@
        "about": "A US Navy tank landing ship (LST-1 class), built by Bethlehem Steel at Quincy, Mass., and commissioned on 23 Jan 1943. She took part in the Sicily landings (July 1943), Salerno (September 1943) and Normandy (June 1944), and earned three battle stars. Scrapped 1947.",
        "links": [
         "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-372.html"
-       ]
+       ],
+       "silhouette": "lst1"
       }
      ]
     },
@@ -580,7 +631,8 @@
        "about": "A US Navy tank landing ship (LST-1 class), built by Bethlehem Steel at Quincy, Mass., and commissioned on 23 Jan 1943. She took part in the Sicily landings (July 1943), Salerno (September 1943) and Normandy (June 1944), and earned three battle stars. Scrapped 1947.",
        "links": [
         "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-372.html"
-       ]
+       ],
+       "silhouette": "lst1"
       }
      ]
     },
@@ -3102,7 +3154,20 @@
      "when": "",
      "precision": "",
      "lat": null,
-     "lon": null
+     "lon": null,
+     "ships": [
+      {
+       "as_typed": "U.S.S. Anacon",
+       "ship": "USS Ancon (AP-66)",
+       "status": "confirmed",
+       "voyage": "\"At sea on U.S.S. Anacon\" (p0058; as written). The Regimental HQ Battery's report has the regiment leaving Fort Dix by rail on 13 Jan and embarking at the New York Port of Embarkation; convoy UGF-4; disembarked at Mers-el-Kébir 26 Jan (p0058).",
+       "about": "The Panama Railroad Company liner (launched 1938), an Army transport from January 1942 and in Navy commission from August 1942 as USS Ancon (AP-66); flagship of a transport division at Fedhala in Operation Torch; she sailed for Algeria on 14 Jan 1943 and reached Oran on the 26th (Wikipedia; later the headquarters ship AGC-4).",
+       "links": [
+        "https://en.wikipedia.org/wiki/USS_Ancon_(AGC-4)"
+       ],
+       "silhouette": "ancon"
+      }
+     ]
     },
     {
      "date": "1943-01-26",
@@ -3118,7 +3183,20 @@
      "place_source": "hand-placed",
      "grid": "",
      "placed": "town",
-     "grid_check": null
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "U.S.S. Anacon",
+       "ship": "USS Ancon (AP-66)",
+       "status": "confirmed",
+       "voyage": "\"At sea on U.S.S. Anacon\" (p0058; as written). The Regimental HQ Battery's report has the regiment leaving Fort Dix by rail on 13 Jan and embarking at the New York Port of Embarkation; convoy UGF-4; disembarked at Mers-el-Kébir 26 Jan (p0058).",
+       "about": "The Panama Railroad Company liner (launched 1938), an Army transport from January 1942 and in Navy commission from August 1942 as USS Ancon (AP-66); flagship of a transport division at Fedhala in Operation Torch; she sailed for Algeria on 14 Jan 1943 and reached Oran on the 26th (Wikipedia; later the headquarters ship AGC-4).",
+       "links": [
+        "https://en.wikipedia.org/wiki/USS_Ancon_(AGC-4)"
+       ],
+       "silhouette": "ancon"
+      }
+     ]
     },
     {
      "date": "1943-02-24",
@@ -3593,20 +3671,20 @@
      "grid_check": null
     },
     {
-     "unit": "67ca-med",
      "date": "1944-05-20",
-     "station": "Pimpinelli, Italy.",
-     "place": "",
+     "lat": 41.3796,
+     "lon": 13.7482,
+     "place": "Pimpinelli",
      "offset": "",
-     "grid": "",
-     "grid_on": "",
+     "station": "Pimpinelli, Italy.",
      "page": "rg64-474641175/p0459",
      "source": "mr",
-     "note": "First on the 20 May report (p0459; 19 May, p0458, still Sessa Aurunca); same 21 May (p0460). Not identified on modern maps (not in OpenStreetMap); not on the map.",
-     "when": "",
-     "precision": "",
-     "lat": null,
-     "lon": null
+     "note": "First on the 20 May report (p0459; 19 May, p0458, still Sessa Aurunca); same 21 May (p0460). Placed from the period map: \"Pimpinelli\" on the 1:100,000 sheet 160 Cassino, between Esperia and Castelnuovo Parano (places.csv), on the road from the Garigliano front toward Pico.",
+     "place_note": "Printed \"Pimpinelli\" beside a building symbol on the Italy 1:100,000 sheet 160 Cassino (ams-italy-100k/160), on the Esperia - Castelnuovo Parano road, about 3 km east of Esperia and 2 km WSW of Castelnuovo Parano (spot height 175 below it). Read off the sheet's 1 km South Italy grid (about E 678.95 N 808.56) and converted with tools/grid_ref.py; checked on Pico's symbol (within 0.2 km); good to about 0.3 km. Not in OpenStreetMap.",
+     "place_source": "hand-placed",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
     },
     {
      "date": "1944-05-29",
@@ -3706,15 +3784,15 @@
     },
     {
      "date": "1944-06-14",
-     "lat": 42.5254,
-     "lon": 11.9825,
-     "place": "Poggio del Borgale",
+     "lat": 42.5255,
+     "lon": 11.9802,
+     "place": "Madonna del Borgale",
      "offset": "",
      "station": "Mad de Borgale, Italy.",
      "page": "rg64-478085645/p0094",
      "source": "mr",
-     "note": "As typed; Poggio del Borgale (Montefiascone) lies between Lago di Vico and the next stations.",
-     "place_note": "matched: Poggio del Borgale, Montefiascone, Viterbo, Lazio, 01027, Italy",
+     "note": "As typed. Read as Madonna del Borgale, a church at Le Mosse on the Verentana road, Montefiascone (places.csv; \"Mad.\" for Madonna), between Lago di Vico and the next stations. The period sheet (137 Viterbo) has not been found online.",
+     "place_note": "matched: Chiesa Madonna del Borgale, Strada provinciale Verentana, Le Mosse, Montefiascone (Viterbo). The 67th CA (AA) medical detachment's \"Mad de Borgale\" (14 Jun 1944) read as Madonna del Borgale, \"Mad.\" being the usual abbreviation of Madonna; 200 m from Poggio del Borgale, the earlier guess. Not checked on a period sheet: 137 Viterbo is not in UT's collection or on Commons.",
      "place_source": "OSM Nominatim",
      "grid": "",
      "placed": "town",
@@ -3722,22 +3800,22 @@
     },
     {
      "date": "1944-06-17",
-     "lat": 42.72,
-     "lon": 11.89,
+     "lat": 42.7121,
+     "lon": 11.8851,
      "place": "Campo Moro",
      "offset": "",
      "station": "Campo Moro, Italy.",
      "page": "rg64-478085645/p0097",
      "source": "mr",
      "note": "Grid \"RA 25\" typed on 19 Jun (p0099).",
-     "place_note": "Not found on modern maps. Placed by its grid square RA 25, taking RA as 10-km squares fixed by Radicofani (RA 17) and Castiglione d'Orcia (RA 08): about 10 km E and 20 km S of Radicofani, near Acquapendente. Approximate, ±5 km.",
-     "place_source": "estimated from grid",
+     "place_note": "Printed \"Campo Moro\" (spot height 454 above it) on the Italy 1:100,000 sheet 129 Santa Fiora (ams-italy-100k/129), about 1 km west of the main road and 5 km north of Grotte di Castro, inside the grid square RA 25 the report types. Read off the sheet's 1 km grid and converted with tools/grid_ref.py; good to about 0.3 km. Not \"Campo Morino\", 0.7 km ENE. Was 42.72, 11.89.",
+     "place_source": "hand-placed",
      "grid": "RA 25",
      "placed": "town",
      "grid_check": {
       "on": "South Italy Zone",
       "cell_m": 10000,
-      "km_from_town": 4.9,
+      "km_from_town": 3.9,
       "square_from_town": false
      }
     },
@@ -9178,7 +9256,19 @@
      "when": "",
      "precision": "",
      "lat": null,
-     "lon": null
+     "lon": null,
+     "ships": [
+      {
+       "as_typed": "TRANSPORT NY 400",
+       "ship": "RMS Queen Elizabeth",
+       "status": "candidate",
+       "voyage": "\"AT SEA ABROAD TRANSPORT NY 400\" (as read) 1-4 Sep; anchored at Greenock 1700 on 5 Sep (p0502). The ship is not named. Battery C of the same battalion crossed in the Queen Elizabeth on the same days, anchoring at Greenock the same evening (rg64-427182819/p0389), so probably the same ship (inferred); \"NY 400\" may be a transport or troop-movement number.",
+       "about": "The Cunard liner (launched 1938 at Clydebank), the largest passenger ship then built; a troopship from 1940, painted grey, sailing fast and usually alone across the Atlantic (Wikipedia).",
+       "links": [
+        "https://en.wikipedia.org/wiki/RMS_Queen_Elizabeth"
+       ]
+      }
+     ]
     },
     {
      "date": "1942-09-05",
@@ -9194,7 +9284,19 @@
      "place_source": "OSM Nominatim",
      "grid": "",
      "placed": "town",
-     "grid_check": null
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "TRANSPORT NY 400",
+       "ship": "RMS Queen Elizabeth",
+       "status": "candidate",
+       "voyage": "\"AT SEA ABROAD TRANSPORT NY 400\" (as read) 1-4 Sep; anchored at Greenock 1700 on 5 Sep (p0502). The ship is not named. Battery C of the same battalion crossed in the Queen Elizabeth on the same days, anchoring at Greenock the same evening (rg64-427182819/p0389), so probably the same ship (inferred); \"NY 400\" may be a transport or troop-movement number.",
+       "about": "The Cunard liner (launched 1938 at Clydebank), the largest passenger ship then built; a troopship from 1940, painted grey, sailing fast and usually alone across the Atlantic (Wikipedia).",
+       "links": [
+        "https://en.wikipedia.org/wiki/RMS_Queen_Elizabeth"
+       ]
+      }
+     ]
     },
     {
      "date": "1942-09-07",
@@ -9274,7 +9376,20 @@
      "place_source": "OSM Nominatim",
      "grid": "",
      "placed": "town",
-     "grid_check": null
+     "grid_check": null,
+     "ships": [
+      {
+       "as_typed": "SHIP ARGENTINA",
+       "ship": "USAT Argentina",
+       "status": "confirmed",
+       "voyage": "\"Detrained GUROCK ENG 14:30, embarked on SHIP ARGENTINA 1740\" (p0519); sailed from Gourock 1 Nov and arrived at Mers-el-Kébir 11 Nov (p0535).",
+       "about": "The Moore-McCormack liner (built 1929 as the Pennsylvania, renamed 1938), requisitioned in January 1942 as a US Army transport; she had already landed troops at Gourock in July 1942, and later sailed to Casablanca (December 1942) and Cherbourg (1944) (Wikipedia, which does not list this Oct-Nov 1942 voyage).",
+       "links": [
+        "https://en.wikipedia.org/wiki/SS_Argentina_(1929)"
+       ],
+       "silhouette": "argentina"
+      }
+     ]
     },
     {
      "date": "1942-11-01",
@@ -9306,7 +9421,20 @@
      "place_source": "OSM Nominatim",
      "grid": "",
      "placed": "town",
-     "grid_check": null
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "SHIP ARGENTINA",
+       "ship": "USAT Argentina",
+       "status": "confirmed",
+       "voyage": "\"Detrained GUROCK ENG 14:30, embarked on SHIP ARGENTINA 1740\" (p0519); sailed from Gourock 1 Nov and arrived at Mers-el-Kébir 11 Nov (p0535).",
+       "about": "The Moore-McCormack liner (built 1929 as the Pennsylvania, renamed 1938), requisitioned in January 1942 as a US Army transport; she had already landed troops at Gourock in July 1942, and later sailed to Casablanca (December 1942) and Cherbourg (1944) (Wikipedia, which does not list this Oct-Nov 1942 voyage).",
+       "links": [
+        "https://en.wikipedia.org/wiki/SS_Argentina_(1929)"
+       ],
+       "silhouette": "argentina"
+      }
+     ]
     },
     {
      "date": "1942-11-12",
@@ -10250,9 +10378,60 @@
       "km_from_town": 0.0,
       "square_from_town": true
      }
+    },
+    {
+     "date": "1943-08-01",
+     "lat": 38.1112,
+     "lon": 13.3524,
+     "place": "Palermo",
+     "offset": "",
+     "station": "Palermo, Sicily",
+     "page": "rg64-445153222/p0085",
+     "source": "mr",
+     "note": "August 1943 (roll 550 part 3): the daily form of 1 Aug, \"Btry \"\"D\"\", 62nd CA(AA)\", read on the scan; the same on 4 Aug (p0091). When and how the battery moved from the Agrigento sheet (22 Jul) to Palermo is not read. Its position in the city is not given.",
+     "place_note": "matched: Palermo, Sicily, Italy",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
     }
    ],
-   "actions": []
+   "actions": [
+    {
+     "unit": "62ca-d",
+     "date": "1943-08-01",
+     "time": "0400",
+     "who": "D",
+     "kind": "air",
+     "result": "unknown",
+     "text": "Btry alerted 0400 hours. Area flared & attacked by hostile planes 0400-0500 hours. Fired 115 rounds. 1 casualty from superficial wound.",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-445153222/p0086",
+     "note": "Battery D's own morning report (record of events on the back of the 1 Aug form, p0085-p0086), read on the scan. The first Axis raid on Palermo after its capture: an AP dispatch \"Palermo, Sicily, Aug. 1 (Delayed)\" has the first planes \"a little after 4 a.m., dropping flares and incendiaries ... diving to release their bombs at a low altitude\" and four raiders shot down by Allied planes (Evening Star, Washington, 4 Aug 1943, p. 26, \"Palermo Bombed 52 Times By Allies, Now Hit by Axis\", https://www.loc.gov/resource/sn83045462/1943-08-04/ed-1/?sp=26; read on the page image). The attacking units are not identified. The casualty is not named here.",
+     "grid_on": "",
+     "lat": 38.1112,
+     "lon": 13.3524
+    },
+    {
+     "unit": "62ca-d",
+     "date": "1943-08-04",
+     "time": "0355",
+     "who": "D",
+     "kind": "air",
+     "result": "unknown",
+     "text": "Area Flared and attacked by hostile planes 0355. Btry alerted 0400 hours. All clear 0512 hours. Results of firing unknown, no planes claimed. No casualties.",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-445153222/p0092",
+     "note": "Battery D's own morning report (record of events on the back of the 4 Aug form, p0091-p0092), read on the scan. The German side: the Naval Staff's war diary, 4 Aug 1943: \"On the night of 3 August, 125 of our bombers were sent out against the harbor of Palermo\", claiming a destroyer and two steamers sunk and a cruiser and eight steamers damaged (skl:48/p57; the attackers' claim, not a fact). The Italian bulletin no. 1167 (lastampa:1943-08-06/p1, read on the scan) gives no night but the same figures (a destroyer and two steamers of 13,000 tons sunk, a cruiser and eight merchant ships damaged), so it reports the same raid: one claim told twice, not corroboration.",
+     "grid_on": "",
+     "lat": 38.1112,
+     "lon": 13.3524
+    }
+   ]
   },
   {
    "unit": "62ca-e",
@@ -11008,6 +11187,790 @@
     }
    ],
    "actions": []
+  },
+  {
+   "unit": "62ca-h",
+   "name": "Battery H, 62nd Coast Artillery (AA)",
+   "short": "Battery H, 62nd CA",
+   "note": "An automatic-weapons battery (8 guns; inferred from the lettering). Book-type reports Nov 1942 - Jun 1943 (roll 783 part 3, rg64-427184821). Sailed from Glasgow in the Strathaird on 26 Dec 1942 and landed at Algiers in the first days of January 1943, after the rest of the regiment; defended Algiers and Maison Carrée, then an airfield the reports call Louisiana Airbase (Mar - May 1943), then the Ferryville sector.",
+   "stations": [
+    {
+     "date": "1942-11-01",
+     "lat": 51.598,
+     "lon": -1.6609,
+     "place": "Shrivenham",
+     "offset": "",
+     "station": "Shrivenham Barracks, England",
+     "page": "rg64-427184821/p0381",
+     "source": "mr",
+     "note": "November 1942 (book from p0369; cover p0369 has no month, fixed by the first entries page, p0373, \"2400 Oct 31\"). 1-10, 11-20, 21-30: \"Usual Garrison Duties\".",
+     "place_note": "matched: Shrivenham, Vale of White Horse, Oxfordshire, England",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1942-12-21",
+     "lat": 51.598,
+     "lon": -1.6609,
+     "place": "Shrivenham",
+     "offset": "",
+     "station": "Shrivenham, England - Left station at 2030 hours",
+     "page": "rg64-427184821/p0397",
+     "source": "mr",
+     "note": "December 1942 (book from p0385; month from the books' order and the sailing). 1-20 usual garrison duties at Shrivenham. 21st: left 2030 \"Enroute To Glasgow, Scotland\"; how it travelled is not stated.",
+     "place_note": "matched: Shrivenham, Vale of White Horse, Oxfordshire, England",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1942-12-22",
+     "lat": 55.8612,
+     "lon": -4.2502,
+     "place": "Glasgow",
+     "offset": "",
+     "station": "Glasgow, England",
+     "page": "rg64-427184821/p0397",
+     "source": "mr",
+     "note": "As written (\"Glasgow, England\"). Arrived 1330; embarked on HMT \"STRATHAIRD\" at 1500 (ships.csv). 23rd: aboard, \"Preparations To Assist In Manning Guns Aboard Ship\".",
+     "place_note": "matched: Glasgow, Glasgow City, Scotland",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null,
+     "ships": [
+      {
+       "as_typed": "HMT \"STRATHAIRD\"",
+       "ship": "HMT Strathaird",
+       "status": "confirmed",
+       "voyage": "Embarked at Glasgow 22 Dec 1942 at 1500 (p0397); sailed in convoy 26 Dec 0030; arrived at Algiers at 1500 on one of 1-3 Jan 1943, disembarked 1700 (p0412, \"Stathaird\" there).",
+       "about": "The P&O liner Strathaird (1932), a troopship from 1940.",
+       "links": [
+        "https://en.wikipedia.org/wiki/SS_Strathaird"
+       ]
+      }
+     ]
+    },
+    {
+     "unit": "62ca-h",
+     "date": "1942-12-24",
+     "station": "On Board HMT \"Strathaird\"",
+     "place": "",
+     "offset": "",
+     "grid": "",
+     "grid_on": "",
+     "page": "rg64-427184821/p0397",
+     "source": "mr",
+     "note": "24-25: \"Left port, sailed up Clyde River and anchored\" (as written). 26th 0030: \"Sailed in Convoy, Destination Unknown\"; 27-31 en route. No position.",
+     "when": "",
+     "precision": "",
+     "lat": null,
+     "lon": null
+    },
+    {
+     "date": "1943-01-03",
+     "lat": 36.7729,
+     "lon": 3.0588,
+     "place": "Algiers",
+     "offset": "",
+     "station": "On Board H.M.T. Stathaird",
+     "page": "rg64-427184821/p0412",
+     "source": "mr",
+     "note": "January 1943 (book from p0401). Days 1-3 in one line: \"ARRIVED at Algiers, AFRICA 1500. Disembarked at Algiers 1700. Stationed within City limits.\" (the ship spelt \"Stathaird\" here). Which of the three days is not written.",
+     "place_note": "matched: Algiers, Sidi M'Hamed District, Algiers, 16000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null,
+     "when": "1943-01-01/1943-01-03",
+     "arrived_by": [
+      {
+       "as_typed": "HMT \"STRATHAIRD\"",
+       "ship": "HMT Strathaird",
+       "status": "confirmed",
+       "voyage": "Embarked at Glasgow 22 Dec 1942 at 1500 (p0397); sailed in convoy 26 Dec 0030; arrived at Algiers at 1500 on one of 1-3 Jan 1943, disembarked 1700 (p0412, \"Stathaird\" there).",
+       "about": "The P&O liner Strathaird (1932), a troopship from 1940.",
+       "links": [
+        "https://en.wikipedia.org/wiki/SS_Strathaird"
+       ]
+      }
+     ]
+    },
+    {
+     "date": "1943-01-09",
+     "lat": 36.7729,
+     "lon": 3.0588,
+     "place": "Algiers",
+     "offset": "",
+     "station": "Algers, Africa",
+     "page": "rg64-427184821/p0412",
+     "source": "mr",
+     "note": "\"8 Guns moved into position in Algers.\" 11th: \"4 Guns moved to vicinity of Maison Carrie\" (Maison Carrée, now El Harrach, about 8 km east-south-east of the centre): from here the battery is split, the station kept at Algiers. Firings on the 13th, 15th, 20th, 21st and 27th (actions.csv).",
+     "place_note": "matched: Algiers, Sidi M'Hamed District, Algiers, 16000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-02-01",
+     "lat": 36.7729,
+     "lon": 3.0588,
+     "place": "Algiers",
+     "offset": "",
+     "station": "Algers- Africa",
+     "page": "rg64-427184821/p0429",
+     "source": "mr",
+     "note": "February 1943 (book from p0417). 1-10, 10-20, 20-28: \"Maintaining Static Positions, No Action\".",
+     "place_note": "matched: Algiers, Sidi M'Hamed District, Algiers, 16000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-03-01",
+     "lat": 36.1772,
+     "lon": 5.4574,
+     "place": "El Hassi",
+     "offset": "",
+     "station": "El Hassi, ALGERIA",
+     "page": "rg64-427184821/p0446",
+     "source": "mr",
+     "note": "March 1943 (book from p0433). \"Left Algers 0600 Truck Convoy. Arrived El Hassi, Algeria 1900. Distance traveled 200 miles.\" The day is overwritten by a later scribble; read as the 1st (the month's first line). El Hassi as placed is the one on the east side of Sétif (inferred: about 300 km by road from Algiers, and a day short of St. Donat).",
+     "place_note": "matched: El Hassi, Sétif (the eastern quarter of Sétif, on the road to Saint-Donat). Other El Hassis exist (Batna, Relizane); this one is chosen by the route (inferred).",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-03-02",
+     "lat": 36.1193,
+     "lon": 5.9858,
+     "place": "Saint-Donat",
+     "offset": "",
+     "station": "St. Donat, Algeria",
+     "page": "rg64-427184821/p0446",
+     "source": "mr",
+     "note": "\"ARRIVED 1200. Maintaining Static Positions.\" The day is overwritten like the 1st's; read as the 2nd. Same 3-10, 11-20, 20-22.",
+     "place_note": "matched: Tadjenanet, Tadjenanet District, Mila, 43000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-03-23",
+     "lat": 36.1606,
+     "lon": 6.1673,
+     "place": "Châteaudun-du-Rhumel",
+     "offset": "",
+     "station": "Louisiana Airbase",
+     "page": "rg64-427184821/p0446",
+     "source": "mr",
+     "note": "\"Left St. Donat, Algeria By Motor Convoy. Distance travelled 11 miles. Maintaining Static Positions.\" 23-31 \"Louisiana Airbase, Algeria\". Louisiana Airbase is not identified on any map or list found; placed at Châteaudun-du-Rhumel (inferred): about 11 miles from St. Donat, and on 30 May the battery drove 51 miles from it to Aïn Yagout in four hours, as Battery G drove 53 miles from Châteaudun to Aïn Yagout the same morning (rg64-427183820/p0588).",
+     "place_note": "matched: Chelghoum Laïd, Chelghoum Laid District, Mila, 43000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-04-01",
+     "lat": 36.1606,
+     "lon": 6.1673,
+     "place": "Châteaudun-du-Rhumel",
+     "offset": "",
+     "station": "Louisiana Airbase, Algeria",
+     "page": "rg64-427184821/p0462",
+     "source": "mr",
+     "note": "April 1943 (book from p0450). 1-10, 11-20, 21-30: \"Maintaining Static Positions\". Placed as March (inferred).",
+     "place_note": "matched: Chelghoum Laïd, Chelghoum Laid District, Mila, 43000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-05-01",
+     "lat": 36.1606,
+     "lon": 6.1673,
+     "place": "Châteaudun-du-Rhumel",
+     "offset": "",
+     "station": "Louisiana Airbase, Algeria",
+     "page": "rg64-427184821/p0479",
+     "source": "mr",
+     "note": "May 1943 (book from p0466). 1-10, 11-20, 21-29: \"Maintaining Static Positions\". Placed as March (inferred).",
+     "place_note": "matched: Chelghoum Laïd, Chelghoum Laid District, Mila, 43000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-05-30",
+     "lat": 35.7866,
+     "lon": 6.4182,
+     "place": "Aïn Yagout",
+     "offset": "",
+     "station": "Ain Yagout",
+     "page": "rg64-427184821/p0479",
+     "source": "mr",
+     "note": "\"Left Louisiana Airbase, Algeria by Motor Convoy 0700. Arrived Destination 1100. Distance traveled 51 miles. Set up Base Camp in Training Area.\" 31st: \"Base Camp. Preparation for Training Program\".",
+     "place_note": "matched: Aïn Yagout, El Madher district, Batna, 05000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-06-01",
+     "lat": 35.7866,
+     "lon": 6.4182,
+     "place": "Aïn Yagout",
+     "offset": "",
+     "station": "New Jersey Airbase",
+     "page": "rg64-427184821/p0497",
+     "source": "mr",
+     "note": "June 1943 (book from p0483). \"Left Ain Yagout 1200 by Motor Convoy. Arrived 1315. Distance traveled\" a few miles (the figure is unclear). 2-8 static positions. New Jersey Airbase is not identified; placed at Aïn Yagout (inferred: a short drive from it).",
+     "place_note": "matched: Aïn Yagout, El Madher district, Batna, 05000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-06-09",
+     "lat": 36.1379,
+     "lon": 7.8262,
+     "place": "Souk Ahras",
+     "offset": "",
+     "station": "Souk-Ahras Staging Area",
+     "page": "rg64-427184821/p0497",
+     "source": "mr",
+     "note": "\"Left New Jersey Airbase by Motor Convoy 1100. Arrived at Souk-Ahras Staging Area 2000. Distance Traveled 141 miles.\"",
+     "place_note": "matched: Souk Ahras, 41000, Algeria",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-06-10",
+     "lat": 37.155,
+     "lon": 9.7926,
+     "place": "Ferryville",
+     "offset": "",
+     "station": "Vicinity of Ferryville",
+     "page": "rg64-427184821/p0497",
+     "source": "mr",
+     "note": "\"Left Souk-Ahras Staging Area by Motor Convoy at 0800. Arrived 2200. Distance travelled 175 miles.\" 11-25 training area. 26th: \"Vicinity of Ferryville Sector\", 8 guns moved to positions; 27-28 static positions.",
+     "place_note": "matched: Manzil Bourguiba, Al Madina, معتمدية منزل بورقيبة, Bizerte, 7050, Tunisia",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-06-29",
+     "lat": 37.1399,
+     "lon": 10.1021,
+     "place": "El Aousja",
+     "offset": "",
+     "station": "Vicinity of Aousdja",
+     "page": "rg64-427184821/p0498",
+     "source": "mr",
+     "note": "\"Left Ferryville Sector, emplaced Guns\" (the rest of the line cut by the film's edge), \"Static Position\". 30th: \"Hq Section left Ferryville Sector 1330. Arrived 1430. Distance traveled 16 miles.\" Aousdja read as El Aousja (Ghar el Melh, Bizerte), about 17 miles by the map from Ferryville (inferred).",
+     "place_note": "matched: Aousja (عوسجة), Ghar el Melh, Bizerte, Tunisia",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-07-01",
+     "lat": 37.1399,
+     "lon": 10.1021,
+     "place": "El Aousja",
+     "offset": "",
+     "station": "Vicinity of Aousdja",
+     "page": "rg64-427184821/p0502",
+     "source": "mr",
+     "note": "July 1943, daily forms (p0502-p0556). The station adds \"British N.W.A. Grid, Sheet 6(?) 1:50,000\" but no reference.",
+     "place_note": "matched: Aousja (عوسجة), Ghar el Melh, Bizerte, Tunisia",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-07-02",
+     "lat": 37.1305,
+     "lon": 10.0805,
+     "place": "Aousja (J 951913)",
+     "offset": "",
+     "station": "J951913 British NWA grid Sheet #7-1:50,000",
+     "page": "rg64-427184821/p0503",
+     "source": "mr",
+     "note": "The same to 7 Jul (p0504-p0508). About 2 km west of El Aousja, which the June panel names.",
+     "place_note": "From the grid (tools/grid_ref.py, British North West Africa Grid), the J square nearest Ferryville. Battery H's 2-7 Jul 1943 reference, about 2 km west of El Aousja.",
+     "place_source": "grid",
+     "grid": "J 951913",
+     "placed": "grid-place",
+     "grid_check": {
+      "on": "British N.W. Africa Grid",
+      "cell_m": 100,
+      "km_from_town": 0.0,
+      "square_from_town": false
+     }
+    },
+    {
+     "date": "1943-07-08",
+     "lat": 37.1366,
+     "lon": 9.8983,
+     "place": "Lake Bizerte SE (J 789904)",
+     "offset": "",
+     "station": "J789904 British NWA Grid Sheet#7-1:50,000",
+     "page": "rg64-427184821/p0509",
+     "source": "mr",
+     "note": "From 9 Jul the same reference is typed with \"Sheet #6\" (p0510), to 16 Jul (p0520). The cluster: Batteries D, F, H, I and K and the 2nd Bn headquarters typed references within about 400 m of each other here in July 1943 (J 787903 - J 790903), most likely a common bivouac or assembly area before Sicily rather than gun sites (inferred).",
+     "place_note": "From the grid (tools/grid_ref.py, British North West Africa Grid), the J square nearest Ferryville. Battery H's 8-16 Jul 1943 reference, about 10 km south-east of Ferryville, beside J 790903.",
+     "place_source": "grid",
+     "grid": "J 789904",
+     "placed": "grid-place",
+     "grid_check": {
+      "on": "British N.W. Africa Grid",
+      "cell_m": 100,
+      "km_from_town": 0.0,
+      "square_from_town": false
+     }
+    },
+    {
+     "date": "1943-07-17",
+     "lat": 37.2721,
+     "lon": 9.8709,
+     "place": "Bizerte",
+     "offset": "",
+     "station": "Bizerte, Tunisia",
+     "page": "rg64-427184821/p0521",
+     "source": "mr",
+     "note": "To 20 Jul. The records of events not read.",
+     "place_note": "matched: Bizerte, بوبكر باكير, معتمدية بنزرت الشمالية, Bizerte, 7000, Tunisia",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "unit": "62ca-h",
+     "date": "1943-07-21",
+     "station": "Aboard LST #352",
+     "place": "",
+     "offset": "",
+     "grid": "",
+     "grid_on": "",
+     "page": "rg64-427184821/p0536",
+     "source": "mr",
+     "note": "22 Jul \"Aboard LST #352 At Sea\" (p0537). No position (ships.csv).",
+     "when": "",
+     "precision": "",
+     "lat": null,
+     "lon": null,
+     "ships": [
+      {
+       "as_typed": "Aboard LST #352",
+       "ship": "USS LST-352",
+       "status": "confirmed",
+       "voyage": "Bizerte to Sicily: aboard 21 Jul (p0536), \"At Sea\" 22 Jul (p0537); Licata 23 Jul (p0539).",
+       "about": "A US Navy tank landing ship, laid down 9 Nov 1942 at the Norfolk Navy Yard and commissioned 26 Feb 1943; Sicily (July 1943), Salerno, Anzio-Nettuno, Elba and Pianosa, and southern France; transferred to the United Kingdom 24 Dec 1944, returned 1946 and sold to Greece. Four battle stars (DANFS).",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-352.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
+    },
+    {
+     "date": "1943-07-23",
+     "lat": 37.1016,
+     "lon": 13.9377,
+     "place": "Licata",
+     "offset": "",
+     "station": "Licata, Sicily",
+     "page": "rg64-427184821/p0539",
+     "source": "mr",
+     "note": "Landed by sea.",
+     "place_note": "matched: Licata, Agrigento, Sicily, 92027, Italy",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "Aboard LST #352",
+       "ship": "USS LST-352",
+       "status": "confirmed",
+       "voyage": "Bizerte to Sicily: aboard 21 Jul (p0536), \"At Sea\" 22 Jul (p0537); Licata 23 Jul (p0539).",
+       "about": "A US Navy tank landing ship, laid down 9 Nov 1942 at the Norfolk Navy Yard and commissioned 26 Feb 1943; Sicily (July 1943), Salerno, Anzio-Nettuno, Elba and Pianosa, and southern France; transferred to the United Kingdom 24 Dec 1944, returned 1946 and sold to Greece. Four battle stars (DANFS).",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-352.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
+    },
+    {
+     "date": "1943-07-24",
+     "lat": 37.3122,
+     "lon": 13.5746,
+     "place": "Agrigento",
+     "offset": "",
+     "station": "Agrigento, Sicily",
+     "page": "rg64-427184821/p0542",
+     "source": "mr",
+     "note": "Unchanged 25 Jul.",
+     "place_note": "matched: Agrigento, Sicilia, 92100, Italia",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-07-26",
+     "lat": 37.8845,
+     "lon": 13.3014,
+     "place": "Corleone",
+     "offset": "5 mi N",
+     "station": "Staging Area 5 mi. NO. of Corleone, Sic.",
+     "page": "rg64-427184821/p0545",
+     "source": "mr",
+     "note": "\"NO.\" as typed, read as north.",
+     "place_note": "matched: Corleone, Palermo, Sicilia, 90034, Italia",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-07-27",
+     "lat": 38.1112,
+     "lon": 13.3524,
+     "place": "Palermo",
+     "offset": "",
+     "station": "Palermo, Sicily",
+     "page": "rg64-427184821/p0547",
+     "source": "mr",
+     "note": "To 31 Jul (\"Palemo\" on p0555).",
+     "place_note": "matched: Palermo, Sicily, Italy",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    }
+   ],
+   "actions": [
+    {
+     "unit": "62ca-h",
+     "date": "1943-01-13",
+     "time": "",
+     "who": "H",
+     "kind": "air",
+     "result": "unknown",
+     "text": "Provisional Platoon of 4 Guns at Maison Carrie opened fire on enemy aircraft",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-427184821/p0412",
+     "note": "Battery H's own morning report, Algiers. No time or result given. The 4-gun platoon at Maison Carrée (now El Harrach).",
+     "grid_on": "",
+     "lat": 36.7729,
+     "lon": 3.0588
+    },
+    {
+     "unit": "62ca-h",
+     "date": "1943-01-15",
+     "time": "",
+     "who": "H",
+     "kind": "air",
+     "result": "claimed",
+     "text": "All Guns opened fire on enemy aircraft in area of Algers and also Maison Carrie. Credited with one enemy plane",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-427184821/p0412",
+     "note": "Battery H's own morning report, Algiers. \"Credited with one enemy plane\": the battery's own claim; no time given.",
+     "grid_on": "",
+     "lat": 36.7729,
+     "lon": 3.0588
+    },
+    {
+     "unit": "62ca-h",
+     "date": "1943-01-20",
+     "time": "1930",
+     "who": "H",
+     "kind": "air",
+     "result": "unknown",
+     "text": "Guns at Alger opened fire on enemy aircraft at 1930 hours. Guns at Maison Carrie opened fire on enemy aircraft at 1935 hours",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-427184821/p0412",
+     "note": "Battery H's own morning report, Algiers. No result given.",
+     "grid_on": "",
+     "lat": 36.7729,
+     "lon": 3.0588
+    },
+    {
+     "unit": "62ca-h",
+     "date": "1943-01-21",
+     "time": "0200",
+     "who": "H",
+     "kind": "air",
+     "result": "unknown",
+     "text": "Action continues from previous evening till 0200 hours this date. 7 Guns opened fire on targets, but aircraft out of Range. Men on alert from previous evening",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-427184821/p0412",
+     "note": "Battery H's own morning report, Algiers. The hour as read. The raid of the night of 20-21 Jan, continued.",
+     "grid_on": "",
+     "lat": 36.7729,
+     "lon": 3.0588
+    },
+    {
+     "unit": "62ca-h",
+     "date": "1943-01-27",
+     "time": "0500",
+     "who": "H",
+     "kind": "air",
+     "result": "unknown",
+     "text": "Guns #7, 8 engaged enemy dive-bombers at 0500 ... [no] apparent damage to enemy aircraft",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-427184821/p0413",
+     "note": "Battery H's own morning report, Algiers. The hour as read (faint); the line is cut where the two halves of the panel meet.",
+     "grid_on": "",
+     "lat": 36.7729,
+     "lon": 3.0588
+    }
+   ]
+  },
+  {
+   "unit": "62ca-f",
+   "name": "Battery F, 62nd Coast Artillery (AA)",
+   "short": "Battery F, 62nd CA",
+   "note": "July 1943 only in this series (roll 783 part 1, rg64-427182819). By Lake Bizerte, then Bizerte, LST 314, Porto Empedocle and Palermo.",
+   "stations": [
+    {
+     "date": "1943-07-01",
+     "lat": 37.1359,
+     "lon": 9.8959,
+     "place": "Lake Bizerte SE (J 787903)",
+     "offset": "",
+     "station": "British N.W.A. Grid. 1:50,000 J 787903",
+     "page": "rg64-427182819/p0717",
+     "source": "mr",
+     "note": "July 1943, the only month of Battery F's reports filmed in this series so far as found (cover p0716, \"Battery F 62d CA Regt (AA)\"; roll 783 part 1, p0717-p0765). \"Sheet #6\" from 2 Jul (p0718); the same reference to 17 Jul. On the 17th \"1 Officer & 46 EM\" went to temporary duty (p0734). The cluster: Batteries D, F, H, I and K and the 2nd Bn headquarters typed references within about 400 m of each other here in July 1943 (J 787903 - J 790903), most likely a common bivouac or assembly area before Sicily rather than gun sites (inferred).",
+     "place_note": "From the grid (tools/grid_ref.py, British North West Africa Grid), the J square nearest Ferryville. Battery F's July 1943 reference, about 9 km south-east of Ferryville, 300 m west of J 790903.",
+     "place_source": "grid",
+     "grid": "J 787903",
+     "placed": "grid-place",
+     "grid_check": {
+      "on": "British N.W. Africa Grid",
+      "cell_m": 100,
+      "km_from_town": 0.0,
+      "square_from_town": false
+     }
+    },
+    {
+     "date": "1943-07-18",
+     "lat": 37.2721,
+     "lon": 9.8709,
+     "place": "Bizerte",
+     "offset": "",
+     "station": "Bizerte, Tunisia",
+     "page": "rg64-427182819/p0738",
+     "source": "mr",
+     "note": "No move entry read.",
+     "place_note": "matched: Bizerte, بوبكر باكير, معتمدية بنزرت الشمالية, Bizerte, 7000, Tunisia",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "unit": "62ca-f",
+     "date": "1943-07-22",
+     "station": "Aboard LST #314",
+     "place": "",
+     "offset": "",
+     "grid": "",
+     "grid_on": "",
+     "page": "rg64-427182819/p0746",
+     "source": "mr",
+     "note": "22-23 Jul aboard (p0746-p0749). At sea; no position (ships.csv).",
+     "when": "",
+     "precision": "",
+     "lat": null,
+     "lon": null,
+     "ships": [
+      {
+       "as_typed": "Aboard LST #314",
+       "ship": "USS LST-314",
+       "status": "confirmed",
+       "voyage": "Bizerte to Sicily: aboard 22-23 Jul (p0746-p0749); \"South of Empedocle, Sicily\" on 24 Jul (p0750).",
+       "about": "A US Navy tank landing ship, laid down 7 Sep 1942 at the New York Navy Yard and commissioned 15 Jan 1943; Sicily (July 1943), Salerno and Normandy, where a torpedo sank her on 9 Jun 1944. Three battle stars (DANFS).",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-314.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
+    },
+    {
+     "date": "1943-07-24",
+     "lat": 37.2883,
+     "lon": 13.5275,
+     "place": "Porto Empedocle",
+     "offset": "",
+     "station": "South of Empedocle, Sicily",
+     "page": "rg64-427182819/p0750",
+     "source": "mr",
+     "note": "Landed by sea. As typed; placed at Porto Empedocle (no offset given).",
+     "place_note": "matched: Porto Empedocle, Agrigento, Sicily, 92014, Italy",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "Aboard LST #314",
+       "ship": "USS LST-314",
+       "status": "confirmed",
+       "voyage": "Bizerte to Sicily: aboard 22-23 Jul (p0746-p0749); \"South of Empedocle, Sicily\" on 24 Jul (p0750).",
+       "about": "A US Navy tank landing ship, laid down 7 Sep 1942 at the New York Navy Yard and commissioned 15 Jan 1943; Sicily (July 1943), Salerno and Normandy, where a torpedo sank her on 9 Jun 1944. Three battle stars (DANFS).",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-314.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
+    },
+    {
+     "date": "1943-07-25",
+     "lat": 38.1112,
+     "lon": 13.3524,
+     "place": "Palermo",
+     "offset": "",
+     "station": "Palermo, Sicily",
+     "page": "rg64-427182819/p0752",
+     "source": "mr",
+     "note": "To 31 Jul (p0765 read on the scan; the days between by thumbnail).",
+     "place_note": "matched: Palermo, Sicily, Italy",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    }
+   ],
+   "actions": []
+  },
+  {
+   "unit": "62ca-i",
+   "name": "Battery I, 62nd Coast Artillery (AA)",
+   "short": "Battery I, 62nd CA",
+   "note": "July 1943 only in this series (roll 783 part 3, rg64-427184821). By Lake Bizerte, then Bizerte.",
+   "stations": [
+    {
+     "date": "1943-07-01",
+     "lat": 37.1356,
+     "lon": 9.8993,
+     "place": "Lake Bizerte SE (J 790903)",
+     "offset": "",
+     "station": "J790903, Sheet 6, 1:50,000 Br NWA Grid",
+     "page": "rg64-427184821/p0609",
+     "source": "mr",
+     "note": "July 1943, the only month of Battery I's reports filmed in this series so far as found (roll 783 part 3, p0609-p0655). The second figure is overtyped (as read, 790903). The same reference to 16 Jul. The cluster: Batteries D, F, H, I and K and the 2nd Bn headquarters typed references within about 400 m of each other here in July 1943 (J 787903 - J 790903), most likely a common bivouac or assembly area before Sicily rather than gun sites (inferred).",
+     "place_note": "From the grid (tools/grid_ref.py, British North West Africa Grid): Hq Btry, 2d Bn's July 1943 reference, about 10 km south-east of Ferryville, on Lake Bizerte's south-east shore.",
+     "place_source": "grid",
+     "grid": "J 790903",
+     "placed": "grid-place",
+     "grid_check": {
+      "on": "British N.W. Africa Grid",
+      "cell_m": 100,
+      "km_from_town": 0.0,
+      "square_from_town": false
+     }
+    },
+    {
+     "date": "1943-07-17",
+     "lat": 37.2721,
+     "lon": 9.8709,
+     "place": "Bizerte",
+     "offset": "",
+     "station": "Bizerta, Tunisia",
+     "page": "rg64-427184821/p0626",
+     "source": "mr",
+     "note": "\"44 EM fr duty to DS secret mission\" the same day (p0626-p0627). Bizerta to 31 Jul.",
+     "place_note": "matched: Bizerte, بوبكر باكير, معتمدية بنزرت الشمالية, Bizerte, 7000, Tunisia",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    }
+   ],
+   "actions": []
+  },
+  {
+   "unit": "62ca-k",
+   "name": "Battery K, 62nd Coast Artillery (AA)",
+   "short": "Battery K, 62nd CA",
+   "note": "July 1943 only in this series (roll 783 part 3, rg64-427184821). By Lake Bizerte, then the loading area at Bizerte.",
+   "stations": [
+    {
+     "date": "1943-07-01",
+     "lat": 37.1356,
+     "lon": 9.8993,
+     "place": "Lake Bizerte SE (J 790903)",
+     "offset": "",
+     "station": "J790903 Sheet 6, 1:50,000 Br. NWA Grid",
+     "page": "rg64-427184821/p0658",
+     "source": "mr",
+     "note": "July 1943, the only month of Battery K's reports filmed in this series so far as found (cover p0657, \"Battery K 62nd CA Regt (AA) M/R July 1943\"). The same reference to 16 Jul. The cluster: Batteries D, F, H, I and K and the 2nd Bn headquarters typed references within about 400 m of each other here in July 1943 (J 787903 - J 790903), most likely a common bivouac or assembly area before Sicily rather than gun sites (inferred).",
+     "place_note": "From the grid (tools/grid_ref.py, British North West Africa Grid): Hq Btry, 2d Bn's July 1943 reference, about 10 km south-east of Ferryville, on Lake Bizerte's south-east shore.",
+     "place_source": "grid",
+     "grid": "J 790903",
+     "placed": "grid-place",
+     "grid_check": {
+      "on": "British N.W. Africa Grid",
+      "cell_m": 100,
+      "km_from_town": 0.0,
+      "square_from_town": false
+     }
+    },
+    {
+     "date": "1943-07-17",
+     "lat": 37.2721,
+     "lon": 9.8709,
+     "place": "Bizerte",
+     "offset": "",
+     "station": "Loading Area - Bizerta, Tunisia",
+     "page": "rg64-427184821/p0674",
+     "source": "mr",
+     "note": "To 31 Jul (p0688): still in the loading area at the month's end; August not filmed here.",
+     "place_note": "matched: Bizerte, بوبكر باكير, معتمدية بنزرت الشمالية, Bizerte, 7000, Tunisia",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    }
+   ],
+   "actions": []
   }
  ],
  "routes": [
@@ -11167,7 +12130,7 @@
      51.34
     ]
    ],
-   "note": "Rail route not in the reports, drawn approximately. They say only that the battery entrained and then boarded lorries; the stops (Glasgow, Carlisle, Crewe, Birmingham, Oxford, Reading, Pewsey) are a guess from the 1940s rail network, and the line from Greenock to Glasgow is not traced. The reported times (entrained 0230, arrived 0330) are too short for about 400 miles and were probably typed loosely. The route runs well to the west of London.",
+   "note": "Rail route not in the reports, drawn approximately. They say only that the battery entrained and then boarded lorries; the stops (Glasgow, Carlisle, Crewe, Birmingham, Oxford, Reading, Pewsey) are a guess from the 1940s rail network, and the line from Greenock to Glasgow is not traced. The reported times (entrained 0230, arrived 0330) are too short for about 400 miles and were probably typed loosely. The route runs well to the west of London. The train (inferred; the reports don't describe it): a British troop special of compartment coaches, the British passenger car being \"designed to effect ready discharge of passengers from many compartments\" (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 122). From the Clyde it ran on the LMS (Gourock and Greenock's lines were LMS from 1923), through junctions such as Crewe, as troop trains from the Clyde did (p. 116). Lavington was a Great Western station and Porton a Southern Railway one (Wikipedia), so the train changed companies on the way.",
    "by": "rail"
   },
   {
@@ -11208,7 +12171,7 @@
      55.86
     ]
    ],
-   "note": "Rail route not in the reports, drawn approximately: they say only that the train left Porton at 1900 and the battery detrained at Gourock at 1355. The return is assumed to retrace the outbound stops.",
+   "note": "Rail route not in the reports, drawn approximately: they say only that the train left Porton at 1900 and the battery detrained at Gourock at 1355. The return is assumed to retrace the outbound stops. The train (inferred; the reports don't describe it): a British troop special of compartment coaches, the British passenger car being \"designed to effect ready discharge of passengers from many compartments\" (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 122). From the Clyde it ran on the LMS (Gourock and Greenock's lines were LMS from 1923), through junctions such as Crewe, as troop trains from the Clyde did (p. 116). Lavington was a Great Western station and Porton a Southern Railway one (Wikipedia), so the train changed companies on the way.",
    "by": "rail"
   },
   {
@@ -13250,7 +14213,7 @@
      36.118
     ]
    ],
-   "note": "Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. \"1 officer and 71 EM boarded the train 2230\" at Oran on 10 Feb and arrived at Telergma at 1600 on the 14th, then by truck to Châteaudun; the other 5 officers and 94 men went by motor convoy (rg64-427183820/p0539). The map follows the train party.",
+   "note": "Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. \"1 officer and 71 EM boarded the train 2230\" at Oran on 10 Feb and arrived at Telergma at 1600 on the 14th, then by truck to Châteaudun; the other 5 officers and 94 men went by motor convoy (rg64-427183820/p0539). The map follows the train party. The train (inferred; the reports say only \"train\"): the Algerian railways' (CFA) standard-gauge main line from Oran through Algiers to Constantine, single track and steam-hauled, with small engines and hand-braked cars, and slow (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 168). The U.S. Military Railway Service took over CFA lines only from early March 1943, and only east of Beni Mansour (p. 174), so this February train was most likely French-run. Whether the men rode in coaches or in French box cars isn't recorded.",
    "by": "rail"
   },
   {
@@ -13339,7 +14302,235 @@
      36.1529
     ]
    ],
-   "note": "Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. 58 men \"moved by train to Telergma 2300\" on 9 Feb, \"arrived Algiers 0330\" on the 12th and Telergma at 1600 on the 14th; the other 29 men and 2 officers went by truck and arrived on the 13th (rg64-427179736/p0450). The map follows the train party.",
+   "note": "Rail route not in the reports, drawn approximately through the stations of the Oran-Algiers-Constantine main line, in order (Ste-Barbe-du-Tlélat, Perrégaux, Relizane, Inkermann, Orléansville, Duperré, Affreville, El Affroun, Blida, Boufarik, Algiers, Maison-Carrée, Ménerville, Palestro, Bouira, Beni Mansour, Mansourah, Bordj Bou Arreridj, Sétif, Saint-Arnaud, Telergma; placed at today's towns, OSM Nominatim): the line between them isn't traced. Telergma is on the main line; Châteaudun-du-Rhumel isn't. 58 men \"moved by train to Telergma 2300\" on 9 Feb, \"arrived Algiers 0330\" on the 12th and Telergma at 1600 on the 14th; the other 29 men and 2 officers went by truck and arrived on the 13th (rg64-427179736/p0450). The map follows the train party. The train (inferred; the reports say only \"train\"): the Algerian railways' (CFA) standard-gauge main line from Oran through Algiers to Constantine, single track and steam-hauled, with small engines and hand-braked cars, and slow (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 168). The U.S. Military Railway Service took over CFA lines only from early March 1943, and only east of Beni Mansour (p. 174), so this February train was most likely French-run. Whether the men rode in coaches or in French box cars isn't recorded.",
+   "by": "rail"
+  },
+  {
+   "unit": "62ca-a",
+   "from": "1942-11-01",
+   "to": "1942-11-11",
+   "points": [
+    [
+     -4.93,
+     55.7
+    ],
+    [
+     -5.85,
+     55.22
+    ],
+    [
+     -6.4,
+     55.4
+    ],
+    [
+     -7.4,
+     55.55
+    ],
+    [
+     -10.5,
+     55.4
+    ],
+    [
+     -16.0,
+     52.5
+    ],
+    [
+     -19.0,
+     47.0
+    ],
+    [
+     -17.0,
+     41.0
+    ],
+    [
+     -11.5,
+     37.0
+    ],
+    [
+     -8.5,
+     36.4
+    ],
+    [
+     -6.3,
+     35.95
+    ],
+    [
+     -5.6,
+     35.96
+    ],
+    [
+     -4.0,
+     35.9
+    ],
+    [
+     -2.0,
+     35.85
+    ]
+   ],
+   "note": "Route not in the reports, drawn approximately: Battery C's (see its row of 29 Oct 1942). Battery A sailed from Gourock on 1 Nov in the Argentina with Battery C (rg64-427180737/p0535) and arrived at Mers El Kébir on 11 Nov, so the same convoy (inferred).",
+   "by": "sea"
+  },
+  {
+   "unit": "62ca-h",
+   "from": "1942-12-22",
+   "to": "1943-01-03",
+   "points": [
+    [
+     -4.93,
+     55.7
+    ],
+    [
+     -5.85,
+     55.22
+    ],
+    [
+     -6.4,
+     55.4
+    ],
+    [
+     -7.4,
+     55.55
+    ],
+    [
+     -10.5,
+     55.4
+    ],
+    [
+     -16.0,
+     52.5
+    ],
+    [
+     -19.0,
+     47.0
+    ],
+    [
+     -17.0,
+     41.0
+    ],
+    [
+     -11.5,
+     37.0
+    ],
+    [
+     -8.5,
+     36.4
+    ],
+    [
+     -6.3,
+     35.95
+    ],
+    [
+     -5.6,
+     35.96
+    ],
+    [
+     -4.0,
+     35.9
+    ],
+    [
+     -2.0,
+     35.85
+    ],
+    [
+     0.5,
+     36.3
+    ],
+    [
+     2.9,
+     36.85
+    ]
+   ],
+   "note": "Route not in the reports, drawn approximately. Battery H embarked in HMT Strathaird at Glasgow on 22 Dec 1942 and sailed in convoy from the Clyde on the 26th (rg64-427184821/p0397), reaching Algiers on one of 1-3 Jan 1943 (p0412). The convoy is not identified; drawn as the Torch convoys went (Battery C's route, 29 Oct 1942), then east along the Algerian coast to Algiers.",
+   "by": "sea"
+  },
+  {
+   "unit": "62ca-a",
+   "from": "1942-09-05",
+   "to": "1942-09-07",
+   "points": [
+    [
+     -4.757,
+     55.947
+    ],
+    [
+     -4.258,
+     55.86
+    ],
+    [
+     -3.68,
+     55.69
+    ],
+    [
+     -2.93,
+     54.89
+    ],
+    [
+     -2.7,
+     53.76
+    ],
+    [
+     -2.43,
+     53.09
+    ],
+    [
+     -1.9,
+     52.48
+    ],
+    [
+     -1.27,
+     51.75
+    ],
+    [
+     -0.972,
+     51.458
+    ],
+    [
+     -1.77,
+     51.34
+    ]
+   ],
+   "note": "Rail route not in the reports, drawn as Battery C's (its row of 5 Sep 1942). Battery A disembarked at Greenock and entrained at 0930 on 6 Sep, arriving at Lavington at 0300 on the 7th (rg64-427180737/p0502): a different train from Battery C's, on the same journey. The train (inferred; the reports don't describe it): a British troop special of compartment coaches, the British passenger car being \"designed to effect ready discharge of passengers from many compartments\" (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 122). From the Clyde it ran on the LMS (Gourock and Greenock's lines were LMS from 1923), through junctions such as Crewe, as troop trains from the Clyde did (p. 116). Lavington was a Great Western station and Porton a Southern Railway one (Wikipedia), so the train changed companies on the way.",
+   "by": "rail"
+  },
+  {
+   "unit": "62ca-a",
+   "from": "1942-10-28",
+   "to": "1942-10-29",
+   "points": [
+    [
+     -0.972,
+     51.458
+    ],
+    [
+     -1.27,
+     51.75
+    ],
+    [
+     -1.9,
+     52.48
+    ],
+    [
+     -2.43,
+     53.09
+    ],
+    [
+     -2.7,
+     53.76
+    ],
+    [
+     -2.93,
+     54.89
+    ],
+    [
+     -3.68,
+     55.69
+    ],
+    [
+     -4.258,
+     55.86
+    ]
+   ],
+   "note": "Rail route not in the reports, drawn as Battery C's (its row of 28 Oct 1942). Battery A entrucked at Lopcombe Corner and entrained (\"PORTSMOUTH\" as typed; Porton inferred) on 28 Oct, detraining at Gourock at 1430 on the 29th (rg64-427180737/p0519). The train (inferred; the reports don't describe it): a British troop special of compartment coaches, the British passenger car being \"designed to effect ready discharge of passengers from many compartments\" (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 122). From the Clyde it ran on the LMS (Gourock and Greenock's lines were LMS from 1923), through junctions such as Crewe, as troop trains from the Clyde did (p. 116). Lavington was a Great Western station and Porton a Southern Railway one (Wikipedia), so the train changed companies on the way.",
    "by": "rail"
   }
  ]

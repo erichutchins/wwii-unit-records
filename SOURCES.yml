@@ -444,6 +444,32 @@ oni-222-us:
   rights: Public domain (U.S. government publication)
   used_for: silhouettes/silhouettes.yml (GATO class plate, p. 113; BALAO class plate, p. 109; FLETCHER class plate, p. 89; BUCKLEY class plate, p. 117)
 
+tc-overseas:
+  title: "The Transportation Corps: Operations Overseas (United States Army in World War II: The Technical Services)"
+  by: Joseph Bykofsky and Harold Larson, Office of the Chief of Military History, 1957
+  held: Internet Archive (full text)
+  url: https://archive.org/details/transportationco00byko
+  rights: Public domain (U.S. government publication)
+  used_for: >-
+    army/routes.csv (the trains likely used: the Clyde troop trains, p. 116; British compartment coaches, p. 122;
+    the North African main line, p. 168; the Military Railway Service on the Algerian lines from March 1943, p. 174)
+
+oni-208:
+  title: O.N.I. 208, Merchant Ship Recognition Manual (21 April 1942)
+  by: Office of Naval Intelligence, Division of Naval Intelligence (Op-16-F-20)
+  held: Internet Archive (also on HyperWar, filed there as "ONI 207")
+  url: https://archive.org/details/MerchShipRecogManual
+  rights: Public domain (U.S. government publication)
+  used_for: silhouettes/silhouettes.yml (the ARGENTINA plate, p. 13, and the ANCON plate, p. 27; index pp. 50-51)
+
+oni-226:
+  title: ONI 226, Allied Landing Craft and Ships (7 April 1944)
+  by: Office of Naval Intelligence, Division of Naval Intelligence
+  held: Internet Archive, a 2013 reprint ("Allied Landing Craft and Ships, World War II Recognition Guide"), PDF pages as printed
+  url: https://archive.org/details/allied-landing-craft-and-ships-world-war-ii-recognition-guide
+  rights: Public domain (U.S. government publication); the reprint adds nothing used here
+  used_for: silhouettes/silhouettes.yml (the LST plate, p. 110, PDF page 112)
+
 # ── Datasets ───────────────────────────────────────────────────────────────────────────────────
 
 etopo1:
@@ -628,6 +654,26 @@ ams-algeria-50k:
   used_for: >-
     army/stations.csv notes (Battery B's "Ouimene" sought, not found on these eight sheets, OCR'd with macOS Vision and
     checked by eye)
+
+ams-italy-50k:
+  title: "Italy 1:50,000 (G.S.G.S. 4229), the Army Map Service's printings, 1943-44"
+  by: Geographical Section, General Staff (War Office), from the Italian IGM sheets; printed by the Army Map Service, U.S. Army; South Italy Zone grid
+  held: University of Texas Libraries, Perry-Castañeda Library Map Collection (scans), mirrored on Wikimedia Commons (public domain)
+  url: https://commons.wikimedia.org/wiki/File:Map_by_the_US_Army_Map_Service_-_Caserta_-_italy_50k_-_txu-pclmaps-oclc-6540719-caserta-172-2.jpg
+  rights: public domain (a U.S. government work)
+  cite: ams-italy-50k/<sheet>, e.g. ams-italy-50k/172-II (Caserta)
+  match: '^ams-italy-50k/\d+-[IV]+$'
+  used_for: army/places.csv (La Fagianeria, read off sheet 172-II Caserta)
+
+ams-italy-100k:
+  title: "Italy 1:100,000 (G.S.G.S. 4164), the Army Map Service's printings, 1941-43"
+  by: Geographical Section, General Staff (War Office), from the Italian IGM sheets; printed by the Army Map Service, U.S. Army; South Italy Zone grid (1 km lines)
+  held: University of Texas Libraries, Perry-Castañeda Library Map Collection (scans), mirrored on Wikimedia Commons (public domain)
+  url: https://commons.wikimedia.org/wiki/File:Map_by_the_US_Army_Map_Service_-_Santa_Fiora_-_italy_100k_-_txu-pclmaps-oclc-6540635-santa-fiora-129-1941.jpg
+  rights: public domain (a U.S. government work)
+  cite: ams-italy-100k/<sheet>, e.g. ams-italy-100k/160 (Cassino)
+  match: '^ams-italy-100k/\d+$'
+  used_for: army/places.csv (Pimpinelli, read off sheet 160 Cassino; Campo Moro, sheet 129 Santa Fiora)
 
 ams-algeria-200k:
   title: "Algeria 1:200,000 (G.S.G.S. 4180; A.M.S. P541), sheets 16 Sétif (2nd edition, War Office 1942) and 27 Batna (2nd GSGS edition 1942, AMS printing 1947)"
