@@ -706,3 +706,29 @@ oss-967:
     agree with the drawing (fitted to them, towns land 11–36 km off; the 7°E tick on the lower edge is
     about 10 km out of line with the rest), so the scan is fitted to 33 of its town rings instead
     (roads/oss967-gcps.csv), 2nd-order polynomial: 3.2 km rms, 3.9 km leave-one-out, worst 12 km (Mascara).
+
+nara-film:
+  title: National Archives Catalog, moving images (one film reel or story per catalogue item)
+  held: U.S. National Archives and Records Administration (NARA), Motion Picture, Sound and Video Branch
+  url: https://catalog.archives.gov/
+  rights: Public domain (records of the U.S. government)
+  cite: nara-film:<catalog ID>      # e.g. nara-film:75826 (428-NPC-1084)
+  match: '^nara-film:(\d+)$'
+  link: https://catalog.archives.gov/id/{1}
+  used_for: film/clips.csv
+  note: >-
+    The catalogue gives each film a shot list and a production date, and most have the film itself as an MP4.
+    The date is the catalogue's (when it was shot or received), not read off the film.
+
+youtube:
+  title: YouTube, an archive's own upload (the channels in film/channels.yml with tier archive)
+  url: https://www.youtube.com/
+  rights: Linked, not copied; each archive's own terms
+  cite: youtube:<video id>      # e.g. youtube:N5q3UAIkc-o (British Pathé, film ID 1083.24)
+  match: '^youtube:([A-Za-z0-9_-]{11})$'
+  link: https://youtu.be/{1}
+  used_for: film/clips.csv
+  note: >-
+    Only an archive's own channel is cited this way, with the archive's number in clips.csv's archive_id. A
+    re-upload of a government film is a finding aid: cite the archive's catalogue item instead. A modern caption
+    or narration added to an old film is the uploader's, not the film's.

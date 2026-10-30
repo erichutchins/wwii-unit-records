@@ -1,0 +1,33 @@
+# Film channels on YouTube whose uploads count as sources (records/film/README.md).
+# tier archive: the channel is the archive that holds the film; its upload is cited as youtube:<id>, with the
+#   archive's own number (film ID, story number, catalogue number) in clips.csv's archive_id.
+# tier finding-aid: a re-uploader of public-domain government film. Never cited: trace the film to the archive's
+#   own catalogue (for the US National Archives, nara-film:<naId>) and cite that.
+# Anything else is not a source. Uploads after 2023 from channels outside this list are not considered at all.
+# Channel IDs as yt-dlp reports them (search results' channel_id), 29 Oct 2026.
+- name: British Pathé
+  channel_id: UCGp4u0WHLsK8OAxnvwiTyhA
+  tier: archive
+  archive_id: 'FILM ID: <canister>.<reel>, in the description'
+  note: Newsreels 1910-1970, many silent ("Mute & Track Negs") with a shot list in the description.
+- name: British Movietone
+  channel_id: UCHq777_waKMJw6SZdABmyaA
+  tier: archive
+  archive_id: 'story number, in the description (held by AP Archive)'
+  note: The uploads are often edited compilations ("Movietone Moment") with a modern caption; the story's own shot list follows. The modern caption's framing is not the film's.
+- name: Imperial War Museums
+  channel_id: UC3uAjWoLZ4bSi6qI9SjALxA
+  tier: archive
+  archive_id: 'IWM film number, when the description gives one; the channel also posts modern explainers, which are not sources'
+- name: WWIIPublicDomain
+  channel_id: UCMoXHn9mjBW5VHAK86bG5xw
+  tier: finding-aid
+  note: Re-uploads US National Archives film under the catalogue's titles (e.g. 428-NPC-1913 as "Bomb Damage In Harbor & City, Palermo, Sicily, 08/03/1943").
+- name: Combat Camera Archive
+  channel_id: UCk0WqjLTQqlXmVxEyXcEq6A
+  tier: finding-aid
+  note: Re-uploads Army Air Forces film (e.g. 342-USAF-18468, 37th Bomb Group at Gela and Palermo).
+- name: CriticalPast
+  channel_id: UCEnl2ZDocvt4aoIyT3fl8SQ
+  tier: finding-aid
+  note: Commercial stock footage, watermarked, cut from US National Archives film; its descriptions give date and place.
