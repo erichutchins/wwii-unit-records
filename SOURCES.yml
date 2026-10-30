@@ -265,12 +265,27 @@ skl-ktb:
   url: https://archive.org/details/wardiarygermann451943germ
   rights: Public domain (US government translation)
   cite: skl:<volume>/p<page>, e.g. skl:46/p38 (4 June 1943)
-  match: '^skl:(\d+)/p(\d+)$'
+  match: '^skl:(4[3-9]|5[0-2])/p(\d+)$'
   link: https://archive.org/details/wardiarygermann{1}1943germ
-  used_for: army/actions.csv notes (the German side of the Algiers raids, May–June 1943)
+  used_for: army/actions.csv notes (the German side of the Algiers raids, May–June 1943, and the Palermo raids, Aug 1943)
   note: >-
     The Naval Staff's daily summary includes the Luftwaffe's operations it was told of, with numbers of aircraft and
-    losses, but rarely the units. The link pattern holds for the 1943 volumes (45 = May, 46 = June).
+    losses, but rarely the units. The link pattern holds for the 1943 volumes (43 to 52; 45 = May, 46 = June,
+    48 = August, 51 = November). The page is the number printed at the foot of the page; the Internet Archive's leaf
+    (page/nN) runs one to five ahead.
+
+skl-ktb-1944:
+  title: War Diary, German Naval Staff Operations Division (Kriegstagebuch der Seekriegsleitung, Teil A), 1944
+  by: Seekriegsleitung; translated by the US Office of Naval Intelligence
+  held: Internet Archive (the ONI translation, one item per volume; vol. 54, February 1944, is not there)
+  url: https://archive.org/details/wardiarygermann551944germ
+  rights: Public domain (US government translation)
+  cite: skl:<volume>/p<page>, e.g. skl:55/p397 (27 March 1944)
+  match: '^skl:(5[3-9]|6\d)/p(\d+)$'
+  link: https://archive.org/details/wardiarygermann{1}1944germ
+  used_for: army/actions.csv notes (the German side of the 62nd's alerts at Palermo, 1944)
+  note: >-
+    As the 1943 volumes (53 = January, 55 = March 1944). Printed page numbers, as there.
 
 alieuomini:
   title: Ali e Uomini (alieuomini.it), catalogue of Italian aircraft and their units
