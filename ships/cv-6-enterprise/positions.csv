@@ -1,0 +1,7 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+diary,,1945-04-05,1200,K,10-16.4N,139-24.8E,rg367-633437380/p02,"Typed under ""Positions:"" for ""5 April 1945 (Zone -10)""; sortied Ulithi 0930 as ""a detached unit of Task Group 58.2"" (O.T.C. Rear Admiral M.B. Gardner in Enterprise); clocks set back to -9 at 1800",yes,,,,,
+diary,,1945-04-05,2000,I,12-08.3N,137-51.1E,rg367-633437380/p02,"Zone: the diary sets clocks back to Zone -9 at 1800, so 2000 is taken as -9 (the day's heading says -10): check",yes,,,,,
+diary,,1945-04-06,0800,I,16-19.2N,136-05.3E,rg367-633437380/p03,"""6 April 1945 (Zone -9)"" stated. ""At 0645 took station in Task Group 58.2 in cruising disposition 5-ROGER ... Guide is RANDOLPH, O.T.C. is Rear Admiral G.F. BOGAN, USN, in RANDOLPH""; formation course 340°T, 23 knots",yes,,,,,
+diary,,1945-04-06,1200,I,17-59.9N,135-32.5E,rg367-633437380/p03,Zone as the 0800 row (stated),yes,,,,,
+diary,,1945-04-06,2000,I,21-00.0N,134-37.0E,rg367-633437380/p03,Zone as the 0800 row (stated),yes,,,,,
+diary,,1945-04-07,0800,I,24-39.7N,133-57.9E,rg367-633437380/p03,"""7 April 1945 (Zone -9)"". Fuelled from Enoree; at 1010 Independence, Oakland, Flint and DesDiv 105 joined TG 58.2",yes,,,,,

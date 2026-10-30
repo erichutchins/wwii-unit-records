@@ -6,12 +6,16 @@
    "properties": {
     "kind": "track",
     "patrol": 1,
-    "start": "1945-04-05T23:00Z",
+    "start": "1945-04-05T19:30Z",
     "end": "1945-04-06T11:00Z"
    },
    "geometry": {
     "type": "LineString",
     "coordinates": [
+     [
+      129.1667,
+      26.8333
+     ],
      [
       129.45,
       26.9333
@@ -21,9 +25,67 @@
       26.7
      ],
      [
+      129.7667,
+      26.9833
+     ],
+     [
+      129.7667,
+      26.8333
+     ],
+     [
+      129.7667,
+      26.8333
+     ],
+     [
       130.1167,
       27.1333
      ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "action",
+    "ref": "VF-83 #36",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-05T19:30Z",
+    "lat_raw": "26-50N",
+    "lon_raw": "129-10E",
+    "local": "1945-04-06 0430(I)",
+    "page": "rg367-140048758/p400",
+    "note": "Aircraft Action Report (ACA-1) sheet 1, item (d) Take off: typed \"6 April 1945 / 0430 I / Lat. 26\u00b050'N / Long. 129\u00b0 10'E\" (the carrier's position at launch). Mission \"Dawn Target Combat Air Patrol\", return 0700 I. Zone stated",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.1667,
+     26.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "action",
+    "ref": "VBF-83 #40 / VF-83 #35A",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-04-05T20:36Z",
+    "lat_raw": "25-48N",
+    "lon_raw": "129-31E",
+    "local": "1945-04-06 0536(I)",
+    "page": "rg367-140048758/p396",
+    "note": "ACA-1 sheet 1 (d): typed \"0536(I)\" \"25-48'N\" \"129-31'E\". Mission \"300 mile anti-shipping search\", return 1006(I). 62 nm south of the 0430 launch in 66 minutes (about 56 kn) and 68 nm from the diary's 0800 fix: probably a typing slip (26-48N would fit); kept as typed, off the track",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.5167,
+     25.8
     ]
    }
   },
@@ -53,6 +115,29 @@
   {
    "type": "Feature",
    "properties": {
+    "kind": "action",
+    "ref": "VBF-83 #41 / VF-83 #39",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-04-05T23:54Z",
+    "lat_raw": "26-33N",
+    "lon_raw": "129-59E",
+    "local": "1945-04-06 0854(I)",
+    "page": "rg367-140048758/p403",
+    "note": "ACA-1 sheet 1 (d): typed \"0854(I)\" \"26-33'N\" \"129-59'E\". Mission \"Force Combat Air Patrol\", return 1252(I). About 37 nm from Essex's own 0800 diary fix (26-56N 129-27E) in 54 minutes, which Bunker Hill's and Hancock's 0800 fixes confirm; kept as typed, off the track",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.9833,
+     26.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "kind": "diary",
     "ref": "",
     "patrol": 1,
@@ -70,6 +155,98 @@
     "coordinates": [
      129.4667,
      26.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "action",
+    "ref": "CVG-83 #39 / VF-83 #37 / VBF-83 #42 / VB-83 #20 / VT-83 #24",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1945-04-06T03:12Z",
+    "lat_raw": "26-50N",
+    "lon_raw": "129-33E",
+    "local": "1945-04-06 1212(I)",
+    "page": "rg367-140048758/p407",
+    "note": "ACA-1 sheet 1 (d): typed \"1212(I)\" \"26-50'N\" \"129-33'E\". Mission \"Strike against WAN Airfield KIKAI JIMA\" (partly legible on the crop), return 1530(I). About 9 nm from the diary's 1200 fix in 12 minutes: whole-minute launch positions on these forms; review against the speed check before entering",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.55,
+     26.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "action",
+    "ref": "CVG-83 #40 / VF-83 #38 / VBF-83 #43",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T05:00Z",
+    "lat_raw": "26-59N",
+    "lon_raw": "129-46E",
+    "local": "1945-04-06 1400(I)",
+    "page": "rg367-140048758/p413",
+    "note": "ACA-1 sheet 1 (d): typed \"1400(I)\" \"26-59'N\" \"129-46'E\" (mission line not read)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.7667,
+     26.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "action",
+    "ref": "VF-83 #40",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T07:40Z",
+    "lat_raw": "26-50N",
+    "lon_raw": "129-46E",
+    "local": "1945-04-06 1640(I)",
+    "page": "rg367-140048758/p422",
+    "note": "ACA-1 sheet 1 (d): typed \"1640 I\" \"26\u00b050'N\" \"129\u00b0 46'E\". Mission \"Special Combat Air Patrol\", return 1825 I",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.7667,
+     26.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "action",
+    "ref": "VF-83 #41",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-04-06T07:45Z",
+    "lat_raw": "26-50N",
+    "lon_raw": "129-46E",
+    "local": "1945-04-06 1645(I)",
+    "page": "rg367-140048758/p426",
+    "note": "ACA-1 sheet 1 (d): typed \"1645 I\" \"26\u00b050'N\" (a stray mark before it) \"129\u00b0 46'E\" (the E smudged). Mission \"Dusk Target Combat Air Patrol\", return 2045 I",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.7667,
+     26.8333
     ]
    }
   },

@@ -112,6 +112,14 @@ ships:
     folder: ships/cv-12-hornet
     records:
       1945-04: { status: partial, nara: [140006155], first_fix: 1945-04-06, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary (13 pp.): only the three 6 April fixes (p04) so far, for Task Group 58.1 on the day (lead L49); zone I (-9) as the diary states" }
+  CV-15:   # USS Randolph
+    folder: ships/cv-15-randolph
+    records:
+      1945-04: { status: partial, nara: [140007383], first_fix: 1945-04-05, last_fix: 1945-04-06, files: [positions], note: "April 1945 war diary: 5-6 April only (p04), Task Group 58.2's flagship and guide, south-east of Okinawa on 6 April (lead L49)" }
+  CV-6:   # USS Enterprise
+    folder: ships/cv-6-enterprise
+    records:
+      1945-04: { status: partial, nara: [633437380], first_fix: 1945-04-05, last_fix: 1945-04-07, files: [positions], note: "April 1945 war diary: 5-7 April only (p02-p03), joining Task Group 58.2 on 6 April (lead L49)" }
   CV-11:   # USS Intrepid
     folder: ships/cv-11-intrepid
     records:

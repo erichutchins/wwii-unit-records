@@ -1,0 +1,27 @@
+# USS Enterprise (CV-6): her April 1945 war diary, 5-7 April so far. Hand-edited; see ../dd-700-haynsworth/ship.yml.
+name: Enterprise
+hull: CV-6
+class: Yorktown
+kind: carrier
+max_kts: 32.5      # the class's design speed; the diary gives no higher figure
+dives: false
+
+map:
+  title: USS Enterprise (CV-6)
+  intro: "Enterprise's war diary positions for 5-7 April 1945: a detached unit of Task Group 58.2 from Ulithi, joining Randolph's group at 0645 on 6 April (lead L49). Transcribed from the "
+  introLink: National Archives scans
+  introEnd: . Click any point to see the page it came from.
+  periods:
+    - { n: 1, name: War diary April 1945 (5-7 April), area: Philippine Sea · south-east of Okinawa, co: "" }
+  home: [[135.5, 18.0]]
+  ports: []
+  places:
+    - { name: OKINAWA, lon: 127.9, lat: 26.5 }
+  listTitle: April 1945
+  daysLabel: Days covered
+  pageNoun: war diary page
+  docAlt: war diary
+  labels: { event: Logged event }
+  counts: []
+  legend:
+    - { cls: fix, text: War diary position }
