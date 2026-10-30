@@ -9,8 +9,9 @@ of the same day. Hand-edited; every row cites its page in `ref`. Columns as in
 
 - `timeline.csv`: the batteries' engagements and the German reports of the day, in the records' words.
 - `positions.csv`: the two batteries' stations (placed at the villages; the gun positions aren't given). The German
-  reports give places as squares of the January 1944 Bezugspunktkarte, which isn't decoded yet (`guides/BEZUGSPUNKTE.md`),
-  so they aren't placed.
+  reports' places are points of the January 1944 Bezugspunktkarte, decoded with `tools/bezugspunkt.py` (`basis`
+  `derived`; `guides/BEZUGSPUNKTE.md`): the French attack's front from M 46 to C 11, the points lost at noon, Acquafondata
+  occupied, and the Allied fighter-bombers' target M 28 (Vallerotonda).
 - `claims.csv`: whether the batteries' claims are matched by a German loss (none found so far), and which unit flew.
 
 Context, not identification: the German army reports don't report the Luftwaffe's sorties or losses, and the Luftwaffe's
