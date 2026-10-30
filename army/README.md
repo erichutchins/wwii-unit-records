@@ -13,7 +13,7 @@ Every station row cites its page (`page`), in the forms listed in `../SOURCES.ym
 | `62ca-hq1`, `62ca-hq2`, `62ca-hq3` the headquarters batteries of the 62nd CA (AA)'s 1st, 2nd and 3rd Bns; `62ca-med` its Medical Detachment | Morning reports (rolls 782 and 783) | 1942–1943 |
 | `106aaa-d` Battery D, 106th AAA AW Bn (SP) | Morning reports; for 1945 the battalion's own histories and journal (45th Infantry Division Museum) | 1944–1945 |
 | `67ca-med` Medical Detachment, 67th CA (AA) / 894th AAA AW Bn | Morning reports (rolls 792–794); for 1945 the battalion's printed history | 1942–1945 |
-| `67ca-hq2` Hq Battery, 2nd Bn, 67th CA (AA) / 894th AAA AW Bn | Morning reports | Oct 1943 – Mar 1944 |
+| `67ca-hq2` Hq Battery, 2nd Bn, 67th CA (AA) / 894th AAA AW Bn | Morning reports | Oct 1943 – Sep 1944 |
 | `113inf-med`, `113inf-g` Medical Detachment and Company G, 113th Infantry | Morning reports (rolls 1689–1690, handwritten, filmed sideways; later rolls for 1943–44) | 1940–1944 |
 | `313inf-b` Company B, 313th Infantry (79th Division) | Morning reports | 1944 |
 | `128aaa-hq` HQ Battery, 128th AAA Gun Bn (Mbl) | Morning reports; for 1945 Third Army's after action report | 1943–1945 |
