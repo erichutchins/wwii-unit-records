@@ -680,6 +680,17 @@ ams-italy-50k:
   match: '^ams-italy-50k/\d+-[IV]+$'
   used_for: army/places.csv (La Fagianeria, read off sheet 172-II Caserta)
 
+gsgs-italy-card:
+  title: "Glossary and Reference Card for G.S.G.S. Maps of Italy (O.R. 1376)"
+  by: War Office, March 1943
+  held: scan at borneo.name (Borneo maps collection)
+  url: https://www.borneo.name/maps/GSGS/glossary_and_reference_card_for_GSGS_maps_of_Italy.pdf
+  rights: Crown copyright, expired (published 1943)
+  cite: gsgs-italy-card/p<page>, the PDF's page (1 the index to sheets, 2 the conventional signs, 3 the topographical terms and abbreviations)
+  match: '^gsgs-italy-card/p[1-3]$'
+  link: https://www.borneo.name/maps/GSGS/glossary_and_reference_card_for_GSGS_maps_of_Italy.pdf#page={1}
+  used_for: "army/places.csv: the sheets' longitudes are on the meridian of Rome, 12° 27' 7.1\" E (p1); reading Italian map names and abbreviations (Mass.a = Masseria, p3)"
+
 ams-italy-100k:
   title: "Italy 1:100,000 (G.S.G.S. 4164), the Army Map Service's printings, 1941-43"
   by: Geographical Section, General Staff (War Office), from the Italian IGM sheets; printed by the Army Map Service, U.S. Army; South Italy Zone grid (1 km lines)
