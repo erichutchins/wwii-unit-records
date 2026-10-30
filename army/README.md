@@ -14,6 +14,7 @@ Every station row cites its page (`page`), in the forms listed in `../SOURCES.ym
 | `106aaa-d` Battery D, 106th AAA AW Bn (SP) | Morning reports; for 1945 the battalion's own histories and journal (45th Infantry Division Museum) | 1944–1945 |
 | `67ca-med` Medical Detachment, 67th CA (AA) / 894th AAA AW Bn | Morning reports (rolls 792–794); for 1945 the battalion's printed history | 1942–1945 |
 | `67ca-hq2` Hq Battery, 2nd Bn, 67th CA (AA) / 894th AAA AW Bn | Morning reports | Oct 1943 – Sep 1944 |
+| `67ca-a` Battery A, 67th CA (AA) / 67th AAA Gun Bn (1st Bn) | Morning reports | Jan – Mar 1944 |
 | `67ca-e` Battery E, 67th CA (AA) / Battery A, 894th AAA AW Bn | Morning reports | Jan – Mar 1944 |
 | `67ca-f` Battery F, 67th CA (AA) / Battery B, 894th AAA AW Bn | Morning reports | Jan – Mar 1944 |
 | `67ca-g` Battery G, 67th CA (AA) / Battery C, 894th AAA AW Bn | Morning reports | Jan – Mar 1944 |
@@ -155,7 +156,7 @@ are the whole defense's, not the battery's.
 | `kind` | `air` (engaged aircraft), `ground` (ground fire), `casualty`, `event` |
 | `result` | The entry's outcome: `destroyed`, `probable`, `hits`, `none`, `unknown`, `friendly` (the plane turned out to be American), `captured`, `neutralized`, `wounded`, `killed`, `injured` |
 | `text` | The entry's words, abridged with `...`. Other soldiers' names and serial numbers are left out; the note says when the record names someone |
-| `placed` | How the map point is made: `grid` (the entry's Nord de Guerre reference, via `tools/ndg_grid.py`), `place` (a `places.csv` row), or `station` (no usable position: the battery's station that day) |
+| `placed` | How the map point is made: `grid` (the entry's Nord de Guerre reference, via `tools/ndg_grid.py`), `place` (a `places.csv` row), or `station` (no usable position: the battery's station that day; when that station isn't placed on the map yet, the action is left off the map too) |
 | `place`, `grid`, `grid_on` | As used by `placed`; `grid_on` as in stations.csv |
 | `page` | `ok45th-<item>/pNN` |
 | `note` | Context, and which position a grid marks (often the target or the crash, not the battery) |
