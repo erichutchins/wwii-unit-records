@@ -237,7 +237,7 @@ units:   # Army units in army/: each one's station history
   67ca-a:   # Battery A, 67th Coast Artillery (AA) / 67th AAA Gun Bn (1st Bn)
     record: { status: in-progress, from: 1944-01-01, to: 1944-03-31, stations: 5, sources: [mr], nara: [461579515, 461580516, 463960255, 466429103], note: "Read for the winter at Venafro only; Baraccone, Callemeruno and Colli not placed; backs read where the OCR showed text" }
   67ca-e:   # Battery E, 67th Coast Artillery (AA) / Battery A, 894th AAA AW Bn
-    record: { status: in-progress, from: 1944-01-01, to: 1944-03-20, stations: 6, sources: [mr], nara: [461580516, 463960255, 466429103], note: "Read for the winter at Venafro only; Vallemaduna and Mona-Spaccatta not placed; most record-of-events backs screened by OCR" }
+    record: { status: in-progress, from: 1944-01-01, to: 1944-08-31, stations: 40, sources: [mr], nara: [461580516, 463960255, 466429103, 469125119, 474641175, 478084644, 481436282, 566195336], note: "Jan-Mar 1944 as Battery E, 67th CA; Apr-Aug as Battery A, 894th (heads on the scan, few backs; a few days not read: 1 May, 30-31 May, 1 Jun, 29-30 Jun, 4 and 31 Jul); many small places not placed" }
   67ca-f:   # Battery F, 67th Coast Artillery (AA) / Battery B, 894th AAA AW Bn
     record: { status: in-progress, from: 1944-01-01, to: 1944-03-20, stations: 7, sources: [mr], nara: [461580516, 463960255, 466429103, 466430104], note: "Read for the winter at Venafro only; the 2nd Platoon near Selva della Rocca from 26 Jan not followed; most backs screened by OCR" }
   67ca-g:   # Battery G, 67th Coast Artillery (AA) / Battery C, 894th AAA AW Bn
