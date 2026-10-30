@@ -1,0 +1,6 @@
+id,label,side,kind,date,time,lat,lon,from,brg,nm,lat2,lon2,basis,source,ref,note
+battery-f,"Battery F, 67th CA (AA), Selvone",allied,point,1944-01-09,,41.5677,14.0518,,,,,,approx,Battery F morning reports,rg64-461580516/p0208,"The battery's station, 9-19 Jan 1944, placed at the village (army/places.csv); the gun positions (""position #25"") are not given."
+battery-g,"Battery G, 67th CA (AA), Filignano",allied,point,1944-01-06,,41.5453,14.0562,,,,,,approx,Battery G morning reports,rg64-461580516/p0263,"The battery's station, 6-19 Jan 1944, giving AA protection to the 938th FA; placed at the village (army/places.csv)."
+venafro,Venafro,geo,point,,,41.4834,14.0451,,,,,,approx,OSM Nominatim (as army/places.csv),rg64-461580516/p0193,The town; Battery F's station to 5 Jan 1944.
+pozzilli,Pozzilli,geo,point,,,41.5114,14.0625,,,,,,approx,OSM Nominatim (as army/places.csv),rg64-461579515/p0946,"The 2nd Battalion's headquarters battery, 8-19 Jan 1944 (army/stations.csv, 67ca-hq2), and Battery F's rear CP."
+capriati,Capriati a Volturno,geo,point,,,41.4686,14.1454,,,,,,approx,OSM Nominatim (as army/places.csv),rg64-461580516/p0253,Battery G's station to 5 Jan 1944; the regiment's medical detachment with the 2nd Battalion reported Capriati until 19 Jan.
