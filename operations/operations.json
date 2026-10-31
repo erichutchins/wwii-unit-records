@@ -1,0 +1,446 @@
+{
+ "operations": [
+  {
+   "id": "mediterranean",
+   "theater": "mediterranean",
+   "name": "The Mediterranean",
+   "short": "Mediterranean",
+   "kind": "theater",
+   "from": "1942-11-08",
+   "to": null,
+   "area": [
+    -10,
+    30,
+    20,
+    47
+   ],
+   "area_precision": "region",
+   "ref": [
+    "howe-nwa/13/p229",
+    "garland-smyth/1/p1"
+   ],
+   "note": "Open end: the theater's war went on to May 1945; entered here so far to July 1944. Starts with the Torch landings of 8 November 1942 (p229).",
+   "sections": [
+    {
+     "heading": "What it was for",
+     "paras": [
+      {
+       "text": "Looking back, the official history of Sicily sums up the Allies' Mediterranean strategy in four steps: \"first, to expel Italo-German forces from North Africa; second, to attack Sicily as a steppingstone to the Italian mainland; third, to invade the mainland and eliminate Italy from the war; and finally, to contain and wear down German forces in Italy as a prelude to the main attack across the English Channel into northwest Europe.\" [[cite:garland-smyth/1/p1]]",
+       "aside": false
+      },
+      {
+       "text": "The same history warns that the plan was clearer afterwards than at the time: in January 1943 there was \"no agreement even that knocking Italy out of the war was the immediate objective of Anglo-American strategy.\" [[cite:garland-smyth/1/p11]]",
+       "aside": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "torch",
+   "theater": "mediterranean",
+   "name": "Operation TORCH",
+   "short": "Torch",
+   "kind": "operation",
+   "parent": "mediterranean",
+   "from": "1942-11-08",
+   "to": "1942-11-11",
+   "area": [
+    -10,
+    30,
+    4,
+    37.5
+   ],
+   "area_precision": "region",
+   "ref": [
+    "howe-nwa/13/p229",
+    "howe-nwa/9/p171"
+   ],
+   "note": "Landings in French Morocco and Algeria on 8 November (p229); the French at Casablanca ordered to cease firing early on 11 November (p171). Area: the coast from Safi to Algiers, drawn by hand.",
+   "sections": [
+    {
+     "heading": "What it was for",
+     "paras": [
+      {
+       "text": "The landings were to put the Allies ashore in French North Africa \"as a step preliminary to seizing the easternmost protectorate, Tunisia.\" [[cite:howe-nwa/13/p229]]",
+       "aside": false
+      },
+      {
+       "text": "\"Algiers was the most important objective of Operation TORCH.\" Its port, railroad terminal, room for a supply base and two airfields made it a prize; its buildings made it the likeliest home for Allied Force Headquarters; and it was the seat of government for all French North Africa. [[cite:howe-nwa/13/p229]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tunisia",
+   "theater": "mediterranean",
+   "name": "The Tunisian campaign",
+   "short": "Tunisia",
+   "kind": "campaign",
+   "parent": "mediterranean",
+   "from": "1942-11-12",
+   "to": "1943-05-13",
+   "area": [
+    7.5,
+    32,
+    11.5,
+    37.6
+   ],
+   "area_precision": "region",
+   "ref": [
+    "howe-nwa/35/p675",
+    "howe-nwa/34/p665"
+   ],
+   "note": "Dates as the official history's casualty table gives them (12 November 1942 - 13 May 1943, p675); the First Italian Army's commander surrendered on 13 May (p665). Area drawn by hand.",
+   "sections": [
+    {
+     "heading": "What it meant",
+     "paras": [
+      {
+       "text": "By May 1943, \"with the southern side of the Sicilian straits in Allied possession, Allied surface vessels could henceforth move with fair security through the central Mediterranean,\" and airfields along the African coast \"permitted long-range bombing missions deep into the enemy's European fortress.\" [[cite:howe-nwa/35/p676]]",
+       "aside": false
+      },
+      {
+       "text": "The Axis losses in Tunisia, \"added to those sustained by the Axis at Stalingrad a few months earlier, left the Axis powers unable to take the initiative henceforth except for local operations.\" [[cite:howe-nwa/35/p676]]",
+       "aside": false
+      },
+      {
+       "text": "For the U.S. Army, the operations in Northwest Africa \"were of inestimable value in making it a far more efficient fighting force.\" The official history doubts that the Allies, even with a bridgehead in Normandy in 1943, could then have broken out of it. [[cite:howe-nwa/35/p677]]",
+       "aside": false
+      },
+      {
+       "text": "When the fighting ended, Allied Force Headquarters in Algiers was \"a successful going concern ready for what the future might bring.\" General Bradley left for Algiers on 13 May for conferences on the Sicilian plans. [[cite:howe-nwa/35/p675]] [[cite:howe-nwa/34/p667]]",
+       "aside": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "husky",
+   "theater": "mediterranean",
+   "name": "Sicily (Operation HUSKY)",
+   "short": "Sicily",
+   "kind": "campaign",
+   "parent": "mediterranean",
+   "from": "1943-07-10",
+   "to": "1943-08-17",
+   "area": [
+    12.3,
+    36.6,
+    15.7,
+    38.4
+   ],
+   "area_precision": "region",
+   "ref": [
+    "garland-smyth/6/p119",
+    "garland-smyth/21/p416"
+   ],
+   "note": "The assault divisions began to come ashore early on 10 July (p119); the last Axis troops left Sicily on the morning of 17 August (p416). Area: the island.",
+   "sections": [
+    {
+     "heading": "What it was for",
+     "paras": [
+      {
+       "text": "The invasion of Sicily was decided at Casablanca in January 1943. General Marshall, who had wanted to cross the Channel that year, \"was more concerned with the security of Mediterranean shipping and with the immediate effects of operations against Germany, however indirect, than he was with eliminating Italy from the war.\" [[cite:garland-smyth/1/p1]] [[cite:garland-smyth/1/p9]] [[cite:garland-smyth/1/p10]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What it meant",
+     "paras": [
+      {
+       "text": "On 25 July, two weeks into the campaign, the King of Italy accepted Mussolini's resignation and appointed Marshal Badoglio head of government. Badoglio's first proclamation told Italy and the world that \"the war continues.\" [[cite:garland-smyth/15/p281]]",
+       "aside": false
+      },
+      {
+       "text": "The campaign ended at Messina on 17 August, after \"thirty-eight days of fighting.\" [[cite:garland-smyth/21/p416]] [[cite:garland-smyth/21/p417]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "salerno",
+   "theater": "mediterranean",
+   "name": "Salerno and Naples",
+   "short": "Salerno",
+   "kind": "phase",
+   "parent": "mediterranean",
+   "from": "1943-09-09",
+   "to": "1943-10-31",
+   "area": [
+    13.8,
+    40.2,
+    15.2,
+    41.4
+   ],
+   "area_precision": "region",
+   "ref": [
+    "blumenson/p73",
+    "blumenson/p165"
+   ],
+   "note": "Landing at Salerno 9 September (p73); Naples entered 1 October (p165). The end is our grouping: the month the front reached the Volturno and beyond. Area drawn by hand.",
+   "sections": [
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "The Allies landed at Salerno on 9 September 1943 and entered Naples on 1 October. [[cite:blumenson/p73]] [[cite:blumenson/p165]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cassino",
+   "theater": "mediterranean",
+   "name": "Cassino and Anzio",
+   "short": "Cassino & Anzio",
+   "kind": "phase",
+   "parent": "mediterranean",
+   "from": "1944-01-12",
+   "to": "1944-05-10",
+   "area": [
+    12.5,
+    41.2,
+    14.3,
+    41.8
+   ],
+   "area_precision": "region",
+   "ref": [
+    "blumenson/p313",
+    "fisher/p3"
+   ],
+   "note": "From the French corps' attack toward Sant'Elia on 12 January (Blumenson p313) to the eve of the May offensive (Fisher p3). The Winter Line's battles of November and December 1943 are not yet entered. Area drawn by hand.",
+   "sections": [
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "On 12 January 1944 the French corps attacked toward Sant'Elia, north of Cassino. [[cite:blumenson/p313]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "diadem",
+   "theater": "mediterranean",
+   "name": "The May offensive and Rome",
+   "short": "Rome",
+   "kind": "phase",
+   "parent": "mediterranean",
+   "from": "1944-05-11",
+   "to": "1944-06-04",
+   "area": [
+    12.4,
+    41.2,
+    14.0,
+    41.95
+   ],
+   "area_precision": "region",
+   "ref": [
+    "fisher/p3",
+    "fisher/p230"
+   ],
+   "note": "The guns opened at 2300 on 11 May (p3); Rome on 4 June (p230). Area drawn by hand.",
+   "sections": [
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "At 2300 on 11 May 1944 the guns opened \"from the slopes of Monte Cassino to the Tyrrhenian Sea.\" By 16 May the French and II Corps were through the Gustav Line; Rome fell on 4 June. [[cite:fisher/p3]] [[cite:fisher/p56]] [[cite:fisher/p76]] [[cite:fisher/p230]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome-siena",
+   "theater": "mediterranean",
+   "name": "Rome to Siena",
+   "short": "To Siena",
+   "kind": "phase",
+   "parent": "mediterranean",
+   "from": "1944-06-04",
+   "to": "1944-07-03",
+   "area": [
+    11.0,
+    41.8,
+    12.7,
+    43.4
+   ],
+   "area_precision": "region",
+   "ref": [
+    "fisher/p230",
+    "fisher/p266"
+   ],
+   "note": "Rome 4 June (p230); the first French troops entered Siena at 0630 on 3 July (p266). Area drawn by hand.",
+   "sections": [
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "\"The first French troops entered [Siena] at 0630 on 3 July.\" By then the decision had been taken to withdraw the US VI Corps and the French corps from the Fifth Army for the landings in southern France. [[cite:fisher/p266]] [[cite:fisher/p236]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cites": {
+  "blumenson/p313": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Salerno/",
+   "short": "Blumenson",
+   "title": "Salerno to Cassino (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "313"
+  },
+  "fisher/p3": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/",
+   "short": "Fisher",
+   "title": "Cassino to the Alps (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "3"
+  },
+  "fisher/p230": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/",
+   "short": "Fisher",
+   "title": "Cassino to the Alps (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "230"
+  },
+  "fisher/p56": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/",
+   "short": "Fisher",
+   "title": "Cassino to the Alps (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "56"
+  },
+  "fisher/p76": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/",
+   "short": "Fisher",
+   "title": "Cassino to the Alps (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "76"
+  },
+  "garland-smyth/6/p119": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/USA-MTO-Sicily-6.html#page119",
+   "short": "Garland and Smyth",
+   "title": "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "119"
+  },
+  "garland-smyth/21/p416": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/USA-MTO-Sicily-21.html#page416",
+   "short": "Garland and Smyth",
+   "title": "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "416"
+  },
+  "garland-smyth/1/p1": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/USA-MTO-Sicily-1.html#page1",
+   "short": "Garland and Smyth",
+   "title": "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "1"
+  },
+  "garland-smyth/1/p9": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/USA-MTO-Sicily-1.html#page9",
+   "short": "Garland and Smyth",
+   "title": "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "9"
+  },
+  "garland-smyth/1/p10": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/USA-MTO-Sicily-1.html#page10",
+   "short": "Garland and Smyth",
+   "title": "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "10"
+  },
+  "garland-smyth/15/p281": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/USA-MTO-Sicily-15.html#page281",
+   "short": "Garland and Smyth",
+   "title": "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "281"
+  },
+  "garland-smyth/21/p417": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/USA-MTO-Sicily-21.html#page417",
+   "short": "Garland and Smyth",
+   "title": "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "417"
+  },
+  "howe-nwa/13/p229": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/USA-MTO-NWA-13.html#page229",
+   "short": "Howe",
+   "title": "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "229"
+  },
+  "garland-smyth/1/p11": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/USA-MTO-Sicily-1.html#page11",
+   "short": "Garland and Smyth",
+   "title": "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "11"
+  },
+  "fisher/p266": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/",
+   "short": "Fisher",
+   "title": "Cassino to the Alps (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "266"
+  },
+  "fisher/p236": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/",
+   "short": "Fisher",
+   "title": "Cassino to the Alps (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "236"
+  },
+  "blumenson/p73": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Salerno/",
+   "short": "Blumenson",
+   "title": "Salerno to Cassino (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "73"
+  },
+  "blumenson/p165": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Salerno/",
+   "short": "Blumenson",
+   "title": "Salerno to Cassino (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "165"
+  },
+  "howe-nwa/9/p171": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/USA-MTO-NWA-9.html#page171",
+   "short": "Howe",
+   "title": "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "171"
+  },
+  "howe-nwa/35/p675": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/USA-MTO-NWA-35.html#page675",
+   "short": "Howe",
+   "title": "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "675"
+  },
+  "howe-nwa/34/p665": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/USA-MTO-NWA-34.html#page665",
+   "short": "Howe",
+   "title": "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "665"
+  },
+  "howe-nwa/35/p676": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/USA-MTO-NWA-35.html#page676",
+   "short": "Howe",
+   "title": "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "676"
+  },
+  "howe-nwa/35/p677": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/USA-MTO-NWA-35.html#page677",
+   "short": "Howe",
+   "title": "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "677"
+  },
+  "howe-nwa/34/p667": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/USA-MTO-NWA-34.html#page667",
+   "short": "Howe",
+   "title": "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)",
+   "page": "667"
+  }
+ }
+}

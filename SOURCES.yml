@@ -8,8 +8,9 @@
 #
 # Fields: title, by (author or creator), held (archive or publisher), id (the source's own
 # identifier), url, rights, cite (how rows cite it), match (a regex for `cite`; groups fill `link`),
-# link (URL for one cited page), used_for, note. `kind: derived` marks a method rather than an
-# outside source (a position worked out from a grid reference); its rows explain themselves.
+# link (URL for one cited page), short (how a page names it in a citation), used_for, note.
+# `kind: derived` marks a method rather than an outside source (a position worked out from a grid
+# reference); its rows explain themselves.
 
 # ── US records ─────────────────────────────────────────────────────────────────────────────────
 
@@ -104,6 +105,54 @@ mcsol:
   url: https://www.ibiblio.org/hyperwar/USMC/USMC-M-CSol/
   rights: Public domain
   used_for: seabees/stations.csv (source mcsol; cited by the chapter's URL)
+
+howe-nwa:
+  title: "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)"
+  short: Howe      # how a page names it in a citation: (Howe p. 676)
+  by: George F. Howe, Office of the Chief of Military History
+  held: 1957; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/
+  rights: Public domain
+  cite: howe-nwa/<chapter>/p<page>      # e.g. howe-nwa/35/p676 (chapter XXXV, printed page 676)
+  match: '^howe-nwa/(\d+|[A-Z])/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/USA-MTO-NWA-{1}.html#page{2}
+  used_for: operations/ (Torch and Tunisia, their dates and what they achieved)
+
+garland-smyth:
+  title: "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)"
+  short: Garland and Smyth
+  by: Albert N. Garland and Howard McGaw Smyth, Office of the Chief of Military History
+  held: 1965; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/
+  rights: Public domain
+  cite: garland-smyth/<chapter>/p<page>      # e.g. garland-smyth/1/p1
+  match: '^garland-smyth/(\d+|[A-Z])/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/USA-MTO-Sicily-{1}.html#page{2}
+  used_for: operations/ (the Mediterranean strategy, Sicily)
+
+blumenson-salerno:
+  title: "Salerno to Cassino (United States Army in World War II: Mediterranean Theater of Operations)"
+  short: Blumenson
+  by: Martin Blumenson, Office of the Chief of Military History
+  held: 1969; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Salerno/
+  rights: Public domain
+  cite: blumenson/p<page>      # the page as printed; the link opens the contents (chapter not yet mapped)
+  match: '^blumenson/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Salerno/
+  used_for: operations/ (Salerno to the Winter Line)
+
+fisher-cassino:
+  title: "Cassino to the Alps (United States Army in World War II: Mediterranean Theater of Operations)"
+  short: Fisher
+  by: Ernest F. Fisher, Jr., Center of Military History
+  held: 1977; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/
+  rights: Public domain
+  cite: fisher/p<page>      # the page as printed; the link opens the contents (chapter not yet mapped)
+  match: '^fisher/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/
+  used_for: operations/ (the May offensive, Rome, Siena)
 
 navy-numbers:
   title: Navy Numbers (OPNAV 29-P1000, 1949), the fleet post office numbers of World War II bases
