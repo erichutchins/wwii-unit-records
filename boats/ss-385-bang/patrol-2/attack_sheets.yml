@@ -1,0 +1,170 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`.
+# Attack 2 is typed as three sheets, 2(a), 2(b) and 2(c), each with its own target, range and torpedo table; all
+# three are positions.csv's "Attack 2" (cited there at 2(a)'s page, p25). attacks.csv cites each sheet's own first
+# page (p25, p27, p29), and each sheet has its own entry here, named by `sheet`.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# firing_int in seconds from the sheet's first torpedo (typed as plain numbers); depth_set as typed (a bare 9 or 6);
+# power as typed ("-" where no power is typed, the Mark 23 having one speed). A typed ½ is written .5 (354½ -> 354.5,
+# 1½R -> 1.5R). Gyro angles are typed as on each sheet: Attack 1's as degrees right of the bow (10R), the others'
+# as true gyro angles (356). Track as typed with its side joined (134P); Attack 3's tracks are typed 0, no side.
+# This report's "Type Spread" row gives each torpedo's offset, not a kind (1½R, 0, 1½L, set with the TDC's offset
+# knob): attacks.csv's `spread` holds that typed offset, and the sheet's words are `type_attack` here.
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  sheet: '1'
+  type_attack: >-
+    Day periscope attack. Fired three torpedoes using 1½° between torpedoes applied from aft forward by means of
+    the offset knob on TDC. Kept constant periscope bearings to TDC during firing.
+  description: >-
+    Empty tanker. Nearest estimate SYOYO MARU, page 286, ONI 208-J (revised), except he had a short heavy goal
+    post between foremast and bridge structure. Estimate certain.
+  damaged: One 7000-8000 ton AO.
+  determined_by: >-
+    Saw and heard one hit forward of stack. Saw target list and settle by stern, and put out life boats.
+  target_line: >-
+    Target Draft: 14' (light) Course: 044° Speed: 10 (At firing) Range: 3600
+  own_ship: >-
+    Speed: 4.0 Course: 080° Depth: 58' Angle: 0° (at firing)
+  sea: Rough, force 4-5
+  overhaul: U.S.S. PROTEUS
+  remarks: >-
+    Nine foot depth set because of rough sea conditions. Believe a shallower depth would have caused more damage
+    on empty tanker.
+  page: rg367-74802784/p23
+  table_page: rg367-74802784/p24
+  note: >-
+    Gyro angles are typed relative to the bow (10R, 8R, 6R), not as true gyro angles as on the other sheets; with
+    own course 080 and target course 044 they give the typed tracks (134P, 136P, 138P). Tube 1 (Mark 23) has power
+    typed "-". The Mark 14-3A entries for tubes 2 and 3 are circled by hand on the scan. The longitude's last
+    characters are cut off at the scan's edge (143°-15.6E in positions.csv).
+
+- attack: Attack 2
+  sheet: 2(a)
+  type_attack: >-
+    Day periscope attack. Fired four torpedoes using 2° spread between torpedoes, applied from aft forward by
+    means of the offset knob on the TDC. Kept continuous periscope bearings to the TDC during firing.
+  description: >-
+    Large engine aft MARU. Considerable superstructure amidships, believed to be freighter, but possibly a
+    tanker. One of convoy of at least 11 MARUS including two tankers and one possible C.S, with five or more
+    escorts, two of which were identified as CHIDORI torpedo boats. Contact initially made by sighting smoke in
+    dawn twilight. Visibility unlimited at time of attack. Estimate uncertain.
+  sunk: One large engine aft freighter or tanker.
+  determined_by: >-
+    Heard three hits in this MARU. Saw large hole amidships that had blown up through the deck. Heard loud
+    explosion followed by heavy persistent rumbling noise three minutes after she was hit.
+  target_line: >-
+    Target Draft: 29' Course: 225° Speed: 14.0 Range: 1750 yds.
+  own_ship: >-
+    Speed: 2.0 Course: 320° Depth: 66' Angle: 0°
+  sea: Flat calm
+  overhaul: U.S.S. PROTEUS
+  remarks: See attack 2(c).
+  page: rg367-74802784/p25
+  table_page: rg367-74802784/p26
+  note: >-
+    The Hit or Miss row is typed "3 Hits" across the four columns, not per torpedo, so attacks.csv's `hit` is
+    blank for tubes 1-4. Tube 4's Mark 14-3A is circled by hand on the scan.
+
+- attack: Attack 2
+  sheet: 2(b)
+  type_attack: >-
+    Day periscope attack. This ship selected as primary target of convoy - TDC kept set up on her and one sound
+    head trained constantly on her with bearings coming in continuously until just before firing, when set-up was
+    shifted to target at greater range (attack No. 2(a)), then back to her. Fired two torpedoes spread 2° aft and
+    2° forward of MOT with offset knob on TDC. Kept continuous periscope bearings to TDC during firing.
+  description: >-
+    Large passenger freighter of convoy of attack No. 2(a). This ship was selected early in the approach as the
+    best target of the group with the exception of a possible CVS astern of her. She was very long with two goal
+    posts forward and two aft. Estimate uncertain.
+  sunk: One large passenger freighter.
+  determined_by: >-
+    Heard two hits in this MARU. Saw large hole under bridge that had blown up through deck and blown port half
+    of bridge away. Target listed 20° to port, deck line under and going down.
+  target_line: >-
+    Target Draft: 29' Course: 225° Speed: 14.0 Range: 750 yds.
+  own_ship: >-
+    Speed: 2.0 Course: 320° Depth: 66' Angle: 0°
+  sea: Flat calm
+  overhaul: U.S.S. PROTEUS
+  remarks: See attack 2(c).
+  page: rg367-74802784/p27
+  table_page: rg367-74802784/p28
+  note: >-
+    Typed at 1508 (I), the same minute as 2(a); 2(c)'s remarks put 17 seconds between 2(a) and 2(b). Its sheet
+    starts at p27, not the p25 positions.csv cites for Attack 2. The Mark 14-3A entries are circled by hand.
+
+- attack: Attack 2
+  sheet: 2(c)
+  type_attack: >-
+    Day periscope attack with stern tubes immediately after firing bow tubes in attacks 2(a) and 2(b). Torpedoes
+    spread 1° aft, 0°, 0°, and 1° forward by means of the offset knob on the TDC. Target observed to be turning
+    slowly away during firing. Angle on the bow 20° less than that estimated was given to TDC to give less lead
+    angle to torpedoes and thus allow for turn during torpedo run.
+  description: >-
+    Freighter similar to TERUKAWA MARU, page 198, ONI 208-J (revised). This ship was not smoking at all at 14
+    knots. One of convoy of attack No. 2(a). Estimate certain.
+  probably_sunk: One freighter similar to TERUKAWA MARU.
+  determined_by: >-
+    Heard three torpex hits in this MARU timed and spaced perfectly for torpedoes fired at her.
+  target_line: >-
+    Target Draft: 26' Course: 205° Speed: 14.0 Range: 1300 yds.
+  own_ship: >-
+    Speed: 2.5 Course: 320° Depth: 63' Angle: 0°
+  sea: Flat calm
+  overhaul: U.S.S. PROTEUS
+  footnote: '*Solution not generated.'
+  remarks: >-
+    On attacks 2(a) and 2(c) a point of aim 1/4 of target length inside stern was taken since the range to the
+    target was sufficient to allow for maneuver to avoid on sighting the wakes, and with angle on the bow near
+    90° any appreciable maneuver in either direction would tend to make the torpedoes pass ahead. On attack 2(c),
+    since target was actually observed to be turning away, the angle on the bow was deliberately underestimated
+    by 20° as a further precaution against the torpedoes passing ahead. On attack 2(b) the target was so close
+    that no maneuver could cause the torpedoes to miss, so the MOT was taken as point of aim.
+    The 17 seconds between attack 2(a) and 2(b) seemed long, and the 51 seconds between 2(b) and 2(c) was like as
+    many minutes. In my anxiety to get the stern torpedoes out as soon as possible I said something that
+    influenced the officer at the firing key to fire No. 7 tube before a solution was generated. I also told the
+    assistant TDC operator to use 2° spread for the stern tubes, meaning 2° between torpedoes. This was my mistake
+    since the approach party has been instructed that I will always give over-all spread.
+    A stern tube spread of 1L, 0, 0, 1R was set, whereas 3L, 1L, 1R, 3R was intended. Fortunately the spread
+    coverage was not needed. Steps have been taken to prevent a recurrence of the above mistake.
+  page: rg367-74802784/p29
+  table_page: rg367-74802784/p30
+  note: >-
+    Typed at 1509 (I); positions.csv's Attack 2 is 1508 (2(a)'s time). The sheet starts at p29, not the p25
+    positions.csv cites. Tube 7 has its track typed "*" and gyro "060*" (the footnote: solution not generated),
+    kept as typed. Tubes 8-10's typed tracks (105S, 108S, 111S) are each about 4° wider than own course 320 + gyro
+    + 180 - the typed target course 205 gives (101S, 103.5S, 107S): kept as typed; the remarks say the angle on the
+    bow given to the TDC was 20° less than estimated, so the TDC's target course was not the 205 typed here.
+
+- attack: Attack 3
+  sheet: '3'
+  type_attack: >-
+    Down the throat shot. Three torpedoes spread 0, ½R, ½L by means of the offset knob on the TDC. Constant TBT
+    bearings and radar ranges to the TDC.
+  description: >-
+    One WAKATAKE destroyer. This destroyer was one of three escorts protecting one small AK. The other two escorts
+    were not identified. These were probably the remnants of a convoy previously attacked by SEAHORSE.
+    Visibility very poor. No moon, sky overcast. Estimate certain. Verified by periscope sighting at 6500 yards
+    with excellent visibility later in the day.
+  sunk: None.
+  damaged: None.
+  target_line: >-
+    Target Draft: 8'3" Course: 335° Speed: 15 Range: 1300 yds.
+  own_ship: >-
+    Speed: 3.5 Course: 155° Depth: Surface Angle: 0°
+  sea: Slight chop
+  overhaul: U.S.S. PROTEUS
+  remarks: >-
+    The wakes were seen heading directly for the target. Due to the limited time that the target had to maneuver
+    it is believed that the torpedoes might have run under.
+  page: rg367-74802784/p32
+  table_page: rg367-74802784/p33
+  note: >-
+    Target draft typed 8'3" (8 ft 3 in), left blank in attacks.csv (a CSV cell can't hold the inch mark; the typed value is in target_line).
+    Tracks are typed 0 with no side (a down the throat shot, own course 155 against target course 335).
+    Own depth typed "Surface". The page before this sheet (p31) is a sketch of "the formation of the convoy ... at the time of firing";
+    it follows 2(c)'s table, so it is probably Attack 2's convoy (inferred from its place; the page names no
+    attack).

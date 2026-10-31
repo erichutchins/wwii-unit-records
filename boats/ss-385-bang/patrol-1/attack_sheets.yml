@@ -1,0 +1,189 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet ("(H) ATTACK DATA", Enclosure (A)) is two pages: `page` (time, position, target and own-ship data, type
+# attack) and `table_page` (one column per torpedo, in firing order). attacks.csv cites `page`, the attack's row in
+# positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# own_depth typed "Surface" for the surface attacks; depth_set typed as a bare number under "Depth Set (ft)" (6, 8, 7).
+# Power "-" (the Mark 23 torpedoes, which had one speed) is kept as -.
+# These sheets differ from the later form in three ways, kept as typed:
+# - "Firing Interval" is typed as the time from the first torpedo (0, 8, 16, 24 ...), not the gap between torpedoes;
+#   a typed minute (1-05) is written in plain seconds (65).
+# - "Type Spread" is typed per torpedo as the offset from the point of aim (1½R, ½L, 0); in attacks.csv `spread` holds
+#   that offset, with ½ written .5 (1½R -> 1.5R). Gyro 013½ is written 013.5 the same way.
+# - Gyro angles are typed as three figures (013, 345); a footnote mark on a gyro (*195) is dropped from attacks.csv
+#   and its footnote quoted in `remarks`.
+# track as typed with its side (123S). target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    Night periscope depth attack. Fired four torpedoes using 1° spread between torpedoes applied from forward aft by
+    means of the offset knob on TDC, at DD range 1800 yards in line with AK range 3000 yards and second AK range 4000
+    yards; then fired two torpedoes using 2° spread from forward aft by means of offset knob on TDC at AO range 2800
+    yards.
+  description: >-
+    Convoy consisting of at least 12 ships with minimum of 4 DD escorts (Probably 8 or more escorts). One AO, one AP
+    and four fleet type destroyers identified. Others seemed to be 5000-9000 ton AK's. Contact initially made by
+    sighting smoke through periscope while submerged. Bright moonlit night at time of attack.
+  sunk: None.
+  damaged: >-
+    One 7000 ton AK probably sunk. One 8000 ton AO damaged. One AK or DD possibly damaged.
+  determined_by: >-
+    Saw torpedo hit AK followed by smoke from her bow to bridge. Heard torpedo explosion at time of this hit. Heard
+    high noise level and popping noises at 400 feet over JK ten minutes after attack on bearing of the AK, which may
+    have been her sinking. Heard two other torpedo explosions one timed to hit AO, the other possibly a second hit in
+    first AK or a hit in another AK or DD.
+  target_line: >-
+    Target: DD Draft 10 ft. Course: 160° Speed: 10.5 Range: 1800 yds. / AK Draft 27 ft. Course: 160° Speed: 10.5
+    Range: 3000 yds. / AO Draft 28 ft. Course: 160° Speed: 10.5 Range: 2800 yds. (At firing)
+  own_ship: >-
+    Speed: 2.5 knots Course: 090 Depth: 60 ft. Angle: 0° (at firing)
+  spread: >-
+    FIRST TARGET (tubes 1-4): 1½R, ½R, ½L, 1½L. SECOND TARGET (tubes 5, 6): 1R, 1L.
+  sea: SLIGHT SWELL
+  overhaul: U.S. Submarine Base, Pearl Harbor.
+  remarks: >-
+    Below Sketch shows conditions as seen at time of firing. Torpedoes hit at 02m 10s; 02m 12s; and 02m 39s. after
+    firing. From the below table it can be seen that there are various combinations of possible hits. The only hit
+    observed corresponded to the time of the first explosion and was in AK1. It is believed that the first two hits
+    were in this AK and that the discrepancy between the difference between the time of explosions, 2 seconds, and
+    between time of firing, 8 seconds, is due to different running speeds of the two torpedoes; and that the third
+    hit was in the AO. ... Only one degree spread between torpedoes was used when firing at the DD to enhance the
+    poasibility of hits on the Marus in line with her.
+  page: rg367-74802746/p16
+  table_page: rg367-74802746/p17
+  note: >-
+    Two targets on one sheet. Tubes 1-4 (FIRST TARGET) were fired on the TDC solution for the DD at 1800 yards, in
+    line with an AK at 3000 and a second AK at 4000 (type attack; remarks, p18), so attacks.csv gives the DD's draft
+    and range for them; the one hit seen was in AK1, not the DD. Tubes 5 and 6 (SECOND TARGET) are the AO's. The
+    type attack says the AO pair was fired with a 2° spread; the table types 1R and 1L, which is 2° between them.
+    The remarks continue on p18 with a table of torpedo runs against the times of the three hits (#2 at 2-10, #3 at
+    2-12, #6 at 2-39 underlined, matching the table's Hit column) and a sketch of the convoy. The sheet's damage
+    lines say none sunk and one AK probably sunk.
+
+- attack: Attack 2
+  type_attack: >-
+    Night surface radar attack, using constant radar ranges and constant TBT bearings to TDC. Used 1° spread between
+    torpedoes, applied from forward aft by means of the offset knob on the TDC.
+  description: >-
+    One large AP of convoy of attack No. 1. This ship was at first believed to be a 17000 ton AP, but later
+    identification with large angle on the bow at range of 1300 yards showed her silhouette to be identical to that of
+    page 88 of O.N.I. 208-J (issue August 24, 1942), a 10400 ton AP. One DD escort patrolling ahead; two other DD's
+    that had been patrolling astern had just left her.
+  sunk: None.
+  damaged: None.
+  target_line: >-
+    Target Draft: 29 ft. Course: 130°T. Speed: 9.5 knots Range: 2300 yds.
+  own_ship: >-
+    Speed: 10 knots Course: 150°T. Depth: Surface Angle: 0° (at firing)
+  spread: 2L, 1L, 0, 1R, 2R, 3R.
+  sea: SLIGHT SWELL
+  overhaul: U.S. Submarine Base, Pearl Harbor.
+  remarks: >-
+    Target zigged right immediately after firing. Spread was offset one degree to right realizing that a zig to the
+    right would give the target the greatest chance to avoid. If the spread had been applied from aft forward I do not
+    believe the target could have avoided since the first torpedo reached the track 40 seconds before the last one did.
+  page: rg367-74802746/p19
+  table_page: rg367-74802746/p20
+  note: >-
+    One track angle, 160P, is typed for all six torpedoes, though the gyros step from 354 to 359; computed from own
+    course 150 and target course 130 the tracks run 166P to 161P. Kept as typed (check_attacks.py flags tubes 3, 4
+    and 5 at 4-6°).
+
+- attack: Attack 3
+  type_attack: >-
+    Night surface radar attack, using constant radar ranges and constant TBT bearings to TDC. Used 1° spread between
+    torpedoes applied from forward aft by means of the offset knob on the TDC.
+  description: Same as for Attack No. 2.
+  sunk: None.
+  damaged: None.
+  target_line: >-
+    Target Draft: 29 ft. Course: 180°T. Speed: 9.5 knots Range: 3200 yds.
+  own_ship: >-
+    Speed: 11 knots Course: 340°T. Depth: Surface Angle: 0° (at firing)
+  spread: 1½R, ½R, ½L, 1½L.
+  sea: SLIGHT SWELL
+  overhaul: U.S. Submarine Base, Pearl Harbor.
+  remarks: >-
+    *Check of TDC after firing showed that the after angle solver was not solving. Correct gyro angle should have been
+    184. Did not see wakes in time to check fire.
+  page: rg367-74802746/p21
+  table_page: rg367-74802746/p22
+  note: >-
+    The gyro is typed *195 for all four stern tubes, the asterisk pointing to the remarks: the TDC's after angle solver
+    was not solving and the gyro should have been 184. attacks.csv keeps 195 as typed. From own course 340 and target
+    course 180, gyro 195 gives a track of 175S, against the typed 160S (check_attacks.py: DISAGREES, 15°); the
+    corrected 184 would give 164S. The typed track, own course, target course and gyro were re-read at zoom (p21,
+    p22) and are as typed: the disagreement is the sheet's own, the fault its remarks describe. All four missed.
+
+- attack: Attack 4
+  type_attack: >-
+    Night surface radar attack, using constant radar ranges and constant TBT bearings to TDC. Used 3° spread between
+    torpedoes, applied from forward aft by means of the offset knob on the TDC, for the first three torpedoes. Fired
+    the fourth torpedo with torpedo gyro set on zero using lead angle from bridge.
+  description: Same as for Attack No. 2, except DD was now patrolling astern.
+  sunk: One 10,400 ton AP.
+  damaged: None.
+  determined_by: Saw ship explode, break in half and sink.
+  target_line: >-
+    Target Draft: 29ft. Course: 090°T, Speed: 10.0 knots Range: 1800 yds. (At firing)
+  own_ship: >-
+    Speed: 4 knots Course: 320°T. Depth: Surface Angle: 0° (at firing)
+  spread: 4½R, 1½R, 1½L, 0.
+  sea: MODERATE SWELL
+  overhaul: U.S. Submarine Base, Pearl Harbor.
+  remarks: >-
+    I checked fire after the third torpedo left the tube because the first two torpedo wakes seemed to be leading the
+    target too much (This impression was natural because the first two torpedoes were spread ahead of the MOT), and
+    having seen 10 previous torpedoes miss this target I decided to fire the fourth torpedo bow and arrow; so came
+    right, took a 10° lead on the stern and fired with a zero gyro angle. I knew that a zig toward could not make this
+    torpedo miss, whereas I thought a zig away would bring the other torpedoes on better. The second and third
+    torpedoes hit at 1m 15s, and 1m 23s after firing - there was very little left of the target when the fourth
+    torpedo got there.
+  page: rg367-74802746/p23
+  table_page: rg367-74802746/p24
+  note: >-
+    One track angle, 60S, is typed for all four. The fourth torpedo (tube 2, gyro 000) was fired 1-05 (65 seconds)
+    after the first, after the boat "came right"; the sheet gives only the one own course, 320, so its computed track
+    (50S) is 10° off the typed 60S. Tube 3 (gyro 015) computes to 65S. Kept as typed. The typed spread of the first
+    three (4½R, 1½R, 1½L) steps 3°, as the type attack says. The table's hits (tubes 4 and 1) match the remarks'
+    second and third torpedoes.
+
+- attack: Attack 5
+  type_attack: >-
+    Night surface radar attack, using constant radar ranges and constant TBT bearings to TDC. Used 1° spread between
+    torpedoes applied from forward aft by means of the offset knob of TDC.
+  description: >-
+    One 5000-9000 ton AK or AP identified at 3400 yards as silhouette similar to page 59, 60 or 62 in O.N.I. 208-J
+    (issue August 24, 1942). This target gave largest radar pip at greater range than two other Marus. Two destroyers,
+    best seen with 90° angle on the bow at 4000 yards, very long and low, tapering from highest point about ¼ length
+    from bow back to stern, believed to be UN-1 class, O.N.I. 41-42. One Maru otherwise unidentified. These ships in
+    line at time of firing. These ships part of convoy consisting of at least six Marus and five escorts that had been
+    scattered by previous attacks by PARCHE and TINOSA.
+  sunk: One 5000-9000 ton AK or AP. One DD.
+  damaged: None.
+  determined_by: >-
+    Saw and heard two hits in Maru, saw her explode in flame, saw her radar pip disappear. Heard hit in DD, saw her
+    radar pip disappear. Was entering rain squall for protection at time of explosions and could see Maru only by fire
+    with which she burned before she sank. Could not see DD at time of hit, but saw her pip very definitely disappear
+    about one minute after the Maru sunk. The four ships had all been sighted on the bridge before firing, their pips
+    were distinct and separate at time of firing. The PPI showed the very definite disappearance of the two near pips.
+  target_line: >-
+    Target (Maru) Draft: 27 ft. Course: 065°T. Speed: 7.8 knots Range: 3400 yds. / (DD) Draft: 10 Ft. Course: 065°T.
+    Speed: 7.8 knots Range: 4200 yds.
+  own_ship: >-
+    Speed: 0.5 knots Course: 340°T. Depth: Surface Angle: 0° (at firing)
+  spread: 1½L, ½L, ½R, 1½R.
+  sea: MODERATELY CHOPPY
+  overhaul: U.S. Submarine Base, Pearl Harbor.
+  remarks: >-
+    Target group was lined up as shown in below sketch at time of firing. ... The time of hits were recorded as 2m 15s,
+    2m 21s, and 2m 45s after first torpedo was fired. The time of run, and plot of data, indicates that the first
+    torpedo fired hit the DD, and the second and third torpedoes hit the AP.
+  page: rg367-74802746/p25
+  table_page: rg367-74802746/p26
+  note: >-
+    The sheet types two targets, the Maru at 3400 yards and a DD at 4200, on one course and speed; attacks.csv gives
+    the Maru's draft and range, the target the description names and the point of aim. The remarks conclude from the
+    run times that the first torpedo (tube 9) hit the DD and the second and third the AP, though the table types no
+    separate solution for the DD. The description calls the target an AK or AP, the remarks an AP. The sketch (p26,
+    drawn by hand) shows AK, DD, DD and AP in line.

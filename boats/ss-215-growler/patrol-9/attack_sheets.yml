@@ -1,0 +1,54 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# The sheet is two pages: `page` (time, position, target data, damage) and `table_page` (own-ship data and one
+# column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on this sheet: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# firing_int in seconds (the first torpedo's is blank on the sheet); depth_set as typed (8'); power as typed (high).
+# This sheet differs from the SEAHORSE model: the track angle is typed without a side (111, not 111S), so `track`
+# has no side; halves and quarters are typed as fractions, written as decimals (114½ -> 114.5, 354½ -> 354.5); `spread` is
+# typed per torpedo as an offset (½R, 1¼L, 2L, 0), the same way (0.5R, 1.25L). Rows are in firing order (tube 2 fired after tube 1, remarks).
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    Night surface radar attack. TBT bearings and SJa radar ranges were entered in TDC.
+  description: >-
+    Target was a large tanker, about 10,000 tons, in convoy with three large escorts and one small escort. Initial
+    contact was made by SJa radar at range of 21,750 yards at 2119(I), 28 June. Sight contact was made at range of
+    19,000 yards. Visibility was very good; moon was at first quarter. Tracked target until after moonset at
+    0047(I), 29 June, at which time visibility was fair. At time of firing, 0228(I), range of 3,240 yards, target,
+    with angle on bow of 100s filled about ½ of 7x50 binocular field (approx. 565'). It was an engines aft type with
+    heavy stack; the bridge was located well forward and about the height of the stack. Large escorts appeared as
+    long, low shapes half the length of the target (approx. 280').
+  sunk: >-
+    1 large tanker - 10,000 T. (approx.). 1 large escort - 600 T. (approx.). Probably CHIDORI or OTORI class.
+  determined_by: >-
+    Commanding Officer observed first timed hit. TBT officer saw at least three torpedo hits. Heard four explosions
+    plus explosion of tanker. Column of smoke rose about 700' into the air followed by flames of equal height.
+    Executive officer and radar officer saw tanker's pip disappear from A scope and PPI. Bridge could no longer see
+    target. Target had sunk. At time of firing a large escort was seen to be on port bow of tanker. Radar showed
+    this escort to be at 800 yards greater range and slightly to the right of the tanker. After tanker sank, only
+    two escorts could be seen on the A scope and PPI by executive and radar officers: whereas 3 were seen upon
+    firing. Plot of the torpedo salvo indicates that the 1st, 2nd, and 4th torpedoes hit the tanker, while the 3rd
+    ran ahead and is believed to have hit the port bow escort. Bridge could see two escorts signalling in vicinity
+    where tanker sank. One large escort had sunk.
+  target_line: >-
+    Target Draft: Tanker - 29' Course: 250° Speed: 9.5 Range: 3240 yds. Escort - 7' 250° 9.5 4040 yds.
+  own_ship: >-
+    Speed: 10 Kts. Course: 180 T.(right slowly). Depth: 20 feet. Angle 0° (at firing).
+  spread: per torpedo, ½R ½L 1¼R 1¼L 2L 0 (tubes 6 5 4 3 1 2)
+  sea: 3 from South.
+  overhaul: U.S.S. SPERRY.
+  remarks: >-
+    Tube #2 did not fire upon first attempt either electrically or by hand. Tube #1 was then fired after which #2
+    was again fired. This time it fired normally. Failure to fire was due to stop bolt not lifting. In accordance
+    with instructions for rubber gasket buffers, none of the buffers had been backed off.
+  page: rg367-74818866/p37
+  table_page: rg367-74818866/p38
+  note: >-
+    attacks.csv gives the tanker's draft, course, speed and range (the target); the escort's (7', 250°, 9.5,
+    4040 yds) are in target_line. The table types tubes 6, 5, 4 and 3 Hit and 1 and 2 Miss; the damage paragraph
+    (p37) says the 1st, 2nd and 4th torpedoes hit the tanker and the 3rd is believed to have hit the escort: kept as
+    typed. The track angles are typed without a side; from own course 180, target course 250 and the gyros they work
+    out starboard, and the first (tube 6: 180 + 001 + 180 - 250 = 111) agrees exactly. The later torpedoes' typed
+    tracks run 3 to 10 degrees above what the gyros give from a steady 180 (tube 2: 104 against 114½); own course is
+    typed "right slowly", so the boat was turning while firing over about 55 seconds: kept as typed.

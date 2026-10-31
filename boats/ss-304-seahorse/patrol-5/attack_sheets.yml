@@ -1,0 +1,153 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# firing_int in seconds (typed 10" etc.); depth_set as typed (6'); power "- - -" typed as ---;
+# track as typed with its side (62 S -> 62S). spread there is the kind only; the sheet's words are `spread` here.
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    Submerged radar going to periscope depth at 2500 yards. Periscope bearings, radar ranges, T.D.C. and
+    "continuous bearing" method of fire were used.
+  description: >-
+    Medium AK in ten ship convoy. Number of escorts unknown. Contacted by radar at 26,000 yards.
+  sunk: 1 medium AK (EU) 4,000 tons.
+  damaged: 1 medium AK (EU) 4,000 tons.
+  determined_by: >-
+    Heard two torpedo explosions at 1' - 34" and 1' - 58" after firing. On coming to periscope depth 1 hour
+    and 50 minutes after attack, two medium AK's were observed dead in water. One was low in water with a 20°
+    port list. The other was down slightly by the stern with a 5° port list. A Chidori was standing by with two
+    planes overhead. After running towards targets for 25 minutes a periscope observation disclosed that the one
+    with large list had sunk and the other was underway escorted by the Chidori. The angle on the bow was 160°
+    port, range 13,000 yards.
+  target_line: >-
+    TARGET'S DRAFT: 23 ft. COURSE: 010° (T) SPEED: 8.4 kts; RANGE: 2450 yards to 1st AK; 3200 yards to 2nd AK.
+  own_ship: >-
+    Speed: 2 kts. COURSE: 110° (T) DEPTH: 63 ft. ANGLE: 0
+  spread: Divergent point of Aim Spread.
+  sea: SW 1
+  overhaul: Submarine Repair Unit, Navy No. 134.
+  remarks: >-
+    Both torpedoes were fired at one AK that had AK's in other column overlapping. One missed and struck an AK
+    in far column.
+  page: rg367-74845019/p25
+  table_page: rg367-74845019/p26
+  note: >-
+    attacks.csv gives the range to the 1st AK (2450), the ship both torpedoes were fired at (remarks). Both
+    torpedoes are typed Hit, though the remarks say one missed its target and struck an AK in the far column:
+    kept as typed.
+
+- attack: Attack 2
+  type_attack: >-
+    Submerged radar going to periscope depth at 2500 yards. Periscope bearings, radar ranges, T.D.C. and
+    "continuous bearing" method of fire were used.
+  description: Large AO in ten ship convoy of Attack No. 1.
+  sunk: 1 large AO (EU) 10,000 tons.
+  determined_by: >-
+    Saw and heard first hit at point of aim. Two other timed hits were heard. Second torpedo ran erratic as a
+    miss was impossible. Many light explosions and approximately eight heavy explosions were heard on the target
+    bearing for a period of over one hour. Upon reaching periscope depth one hour and fifty minutes after the
+    attack the tanker had sunk and heavy black smoke was coming up from oil fire on water. Fire seen by USS BANG
+    from a distance of 50 to 60 miles.
+  target_line: >-
+    TARGET'S DRAFT: 30 ft. COURSE: 350° (T) SPEED: 8.4 kts. RANGE: 950 yds
+  own_ship: >-
+    Speed: 2 kts. Course: 110° (T) Depth: 58 ft. Angle: 2° D.
+  spread: Divergent point of aim spread
+  sea: SW 1
+  overhaul: Submarine Repair Unit, Navy No. 134.
+  page: rg367-74845019/p27
+  table_page: rg367-74845019/p28
+
+- attack: Attack 3
+  type_attack: >-
+    Submerged radar going to periscope depth in final stages of approach. Periscope bearings, radar ranges,
+    T.D.C. and "continuous bearing" method of fire were used.
+  description: >-
+    1 large AK in five ship convoy escorted by two DD's and various other escort craft.
+  sunk: 1 large AK (EU) 7500 tons.
+  determined_by: >-
+    One hit was observed aft of target's bridge and another was heard seven seconds later. His stern was blown
+    completely off. Loud breaking up noises and internal explosions were heard from target bearing for a period
+    of twenty minutes following attack. A periscope observation after forty minutes revealed that target had
+    sunk.
+  target_line: >-
+    TARGET'S DRAFT: 28 ft. COURSE: 320° (T) SPEED: 7.5 kts. RANGE: 595 yds.
+  own_ship: >-
+    Speed: 3 kts. Course: 040° (T) (carrying right full rudder) Depth: 64 ft. Angle 0°.
+  spread: Divergent point of aim spread.
+  sea: SW 1
+  overhaul: Submarine Repair Unit, Navy No. 134.
+  page: rg367-74845019/p29
+  table_page: rg367-74845019/p30
+
+- attack: Attack 4
+  type_attack: >-
+    Submerged radar going to periscope depth in final stages of approach. Periscope bearings, radar ranges,
+    T.D.C., and "continuous bearing" method of fire were used.
+  description: 1 medium AK in convoy of attack No. 3.
+  sunk: 1 medium AK (EU) 4,000 tons.
+  determined_by: >-
+    Three timed hits were heard. Breaking up noises and explosions could still be heard from target on
+    surfacing two hours later. Forty minutes after attack a periscope observation showed him to be too low in
+    the water for his hull to be visible although escorts milling around him could plainly be seen. On closing
+    scene of sinking two hours after last observation, target had sunk and an escort was seen cruising around
+    apparently picking up survivors.
+  target_line: >-
+    TARGET'S DRAFT: 23ft. COURSE: 320° (T) SPEED: 7.5 kts. RANGE: 2600 yds
+  own_ship: >-
+    Speed: 4 kts. Course: 050-069° (T) (swinging with full rudder) Depth: 64 ft. Angle: 0°.
+  spread: Divergent, point of aim.
+  sea: SW 1
+  overhaul: Submarine Repair Unit, Navy No. 134.
+  remarks: Two three torpedo salvos were fired at the same target
+  page: rg367-74845019/p31
+  table_page: rg367-74845019/p32
+  note: >-
+    The sheet gives one set of target and own-ship data for both salvos; the second salvo (tubes 3, 2, 1,
+    47 seconds after the first) has its own track and gyro angles. Own course is typed as a range, 050-069,
+    because the boat was swinging.
+
+- attack: Attack 5
+  type_attack: >-
+    Submerged periscope. Periscope bearings and ranges, T.D.C. and "continuous bearing" method of fire were
+    used.
+  description: >-
+    1 medium passenger freighter in company with 1 large passenger freighter and 1 small AK escorted by one
+    MOMO class DD. Part of convoy of attacks 3 and 4.
+  sunk: 1 medium passenger freighter (EU) 4000 tons.
+  determined_by: >-
+    Three very loud hits were heard at times corresponding to run. Loud internal explosions and breaking up
+    noises were heard for less than ten minutes after hits and then they stopped abruptly. A periscope
+    observation two hours and fifty minutes later revealed that the target had sunk and remainder of convoy was
+    picking up suvivors.
+  target_line: >-
+    TARGET'S DRAFT: 23 ft. COURSE: 307° (T) SPEED: 8 kts. RANGE: 1175 yds.
+  own_ship: >-
+    Speed: 4 kts. Course: 323° (T) DEPTH: 66 ft. Angle: 0°.
+  spread: Divergent, point of aim.
+  sea: SW 2
+  overhaul: Submarine Repair Unit, Navy No. 134.
+  page: rg367-74845019/p33
+  table_page: rg367-74845019/p34
+
+- attack: Attack 6
+  type_attack: >-
+    Submerged periscope. Periscope bearings and ranges, T.D.C., and "continuous bearing" method of fire were
+    used.
+  description: 1 large passenger freighter of convoy of attack No. 5.
+  sunk: 1 large passenger freighter (EU) 7,500 tons.
+  determined_by: >-
+    Two timed hits were heard. Loud internal explosions and breaking up noises were heard on target bearing for
+    over an hour after attack. A periscope observation two hours and fifty minutes later revealed that target had
+    sunk and remainder of convoy were picking up suvivors.
+  target_line: >-
+    TARGET'S DRAFT: 28 ft. COURSE: 296° (T) SPEED: 8 kts. RANGE: 1003 yds.
+  own_ship: >-
+    Speed: 4kts. Course: 325-330° (T) (swinging with full rudder) Depth: 66 feet Angle: 0°.
+  spread: Divergent, point of aim.
+  sea: SW 2
+  overhaul: Submarine Repair Unit, Navy No. 134.
+  page: rg367-74845019/p35
+  table_page: rg367-74845019/p36

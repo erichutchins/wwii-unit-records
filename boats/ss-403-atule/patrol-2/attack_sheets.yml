@@ -1,0 +1,75 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# One sheet covers both attacks ("TORPEDO ATTACKS 1 & 2"), two pages: `page` (times, position, target data, damage,
+# own-ship data, type attack) and `table_page` (one column per torpedo). attacks.csv cites `page`, the attacks' rows
+# in positions.csv.
+# attacks.csv units, as typed on this sheet: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# firing_int in seconds, "-" where typed so; depth_set as typed (3, no unit).
+# This sheet differs from the SEAHORSE model: it has no power row; its "Mk 18 speed" row (27.7 for the Mark 18s,
+# High for the others) is in `power`. It has no erratic row (`erratic` blank). `spread` is typed per torpedo
+# (MOT, 225'Aft, 75'ahead, 150'ahead) and kept as typed. A gyro typed in degrees and minutes is in decimal degrees (358-30 -> 358.5).
+# The sheet types one set of target and own-ship data; it repeats on every row (see the notes).
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    First attack was a combined day surface radar-periscope approach on a simply zigging unescorted target. On
+    surfacing after this attack, a single torpedo was fired by pointing the ship at the drifting hulk, but it
+    missed. The final attack was made after dark, firing a single bow torpedo submerged.
+  description: >-
+    The target was a new engines aft medium AK traveling without escort. Contact was made by periscope at the
+    maximum visible range of 21,000 yards. A submerged attack was made in which tubes 7, 8, 9, and 10 were fired
+    for 2 hits which blew off the enemy's stern and left him down by the bow. Surfaced and attempted to finish him
+    off with the gun. Enemy countered with a 40mm attack which drove us off. Made ready tube number 6 and fired it
+    at 1720 I, but it missed ahead. Cleared area and returned after dark, again attempted to finish off hulk by
+    gunfire. Deck gun refused to fire as result of extreme cold, however, so dived for moonlight submerged attack.
+    Fired number 1 tube at 2233 I which hit amidships; hulk commenced settling by the bow.
+  sunk: One medium AK (EC) - 4,000 tons.
+  determined_by: >-
+    Target had broken in half and stern fell off after first attack. When last seen after last attack, hulk was
+    vertical with midship section high in the air. Though not seen to sink, target is believed to have either sunk
+    or been damaged beyond possibility of salvage.
+  target_line: Target draft 6' Course 264 Speed 7.8 Range 750
+  own_ship: Speed 2 Course 350. Depth 64'. Angle 1/2 up.
+  spread: per torpedo, MOT 225'Aft 75'ahead 150'ahead (tubes 7 8 9 10); blank for tubes 6 and 1
+  sea: Calm.
+  overhaul: U.S.S. BUSHNELL.
+  remarks: >-
+    Latest speed reduction for shallow depth was used for Mark 18s. Torpedoes were fired three hours after
+    completion of charge and no accurate information on electrolyte temperature was available. Injection was 45°
+    and 65° battery temperature was assumed, giving a torpedo speed of 27.7 knots. Torpedo run of 1000 yards was
+    used in TDC on basis of a ping range taken just before firing. Duration of run on first hit was 45 seconds, on
+    second hit 54 seconds. Both hits were well aft of point of aim. Post-firing analysis indicates ping was a
+    second echo and that actual run was about 650 yards. Duration of run for steam torpedo was 50 seconds, TDC run
+    about 1000 yards. The torpedo fired on the surface broached and porpoised badly, but apparently ran straight.
+  page: rg367-74802211/p32
+  table_page: rg367-74802211/p33
+  note: >-
+    The sheet's date is 23 January 1945; positions.csv keeps it as typed and fixes it to 24 January from the
+    narrative and the ship-contact table. Tubes 7-10 were fired submerged at 1700; tube 6 was fired from the surface
+    at 1720 (description) and is part of this attack in positions.csv. The sheet types one set of target and
+    own-ship data (own course 350, depth 64'), which fits the submerged salvo; it repeats on tube 6's row, though
+    tube 6 was fired on the surface with the ship pointed at the drifting hulk (gyro 0). From the typed 350 the
+    gyros give tracks of about 119S, 117S, 131S and 141S for tubes 7-10 against the typed 110S, 114S, 118S, 122S,
+    and 94P for tube 6 against 130S; the typed tracks rise by exactly 4 degrees a torpedo. Read again at zoom: the
+    sheet says so; kept as typed.
+
+- attack: Attack 2
+  type_attack: >-
+    The final attack was made after dark, firing a single bow torpedo submerged. (The sheet's one type-attack
+    paragraph, under Attack 1.)
+  description: >-
+    Same sheet as Attack 1: returned after dark, deck gun refused to fire as result of extreme cold, dived for
+    moonlight submerged attack. Fired number 1 tube at 2233 I which hit amidships; hulk commenced settling by the
+    bow.
+  sunk: One medium AK (EC) - 4,000 tons. (One claim for both attacks.)
+  target_line: Target draft 6' Course 264 Speed 7.8 Range 750
+  own_ship: Speed 2 Course 350. Depth 64'. Angle 1/2 up.
+  sea: Calm.
+  overhaul: U.S.S. BUSHNELL.
+  page: rg367-74802211/p32
+  table_page: rg367-74802211/p33
+  note: >-
+    The sheet's date is 23 January 1945; positions.csv fixes it to 24 January. The sheet's single set of target and
+    own-ship data (typed for the 1700 attack) repeats on tube 1's row; the hulk was drifting, so its course and
+    speed at 2233 are not typed. The gyro is typed 358-30 (358 degrees 30 minutes); from own course 350 it gives a
+    track of about 96P against the typed 90P.

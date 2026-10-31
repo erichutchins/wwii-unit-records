@@ -1,0 +1,7 @@
+attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,firing_int,spread,page
+Attack 1,1944-06-29,0228,I,6,180,10,20,250,9.5,3240,29,111,001,8',high,Hit,No,14-3A,,0.5R,rg367-74818866/p37
+Attack 1,1944-06-29,0228,I,5,180,10,20,250,9.5,3240,29,110,357,8',high,Hit,No,14-3A,9,0.5L,rg367-74818866/p37
+Attack 1,1944-06-29,0228,I,4,180,10,20,250,9.5,3240,29,114.5,358,8',high,Hit,No,14-3A,9,1.25R,rg367-74818866/p37
+Attack 1,1944-06-29,0228,I,3,180,10,20,250,9.5,3240,29,111,354.5,8',high,Hit,No,14-3A,8,1.25L,rg367-74818866/p37
+Attack 1,1944-06-29,0228,I,1,180,10,20,250,9.5,3240,29,112,354,8',high,Miss,No,14-3A,17,2L,rg367-74818866/p37
+Attack 1,1944-06-29,0228,I,2,180,10,20,250,9.5,3240,29,114.5,354,8',high,Miss,No,14-3A,12,0,rg367-74818866/p37

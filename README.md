@@ -179,6 +179,34 @@ bathythermograph on a dive, usually once a day around 2000-2100 GCT).
 | `date_fix` | Same corrections as positions.csv where the date was mistyped |
 | `note` | Pencilled circles on the scans (someone at headquarters marking strong layers), second isothermal lines, faded values |
 
+### attacks.csv columns and attack_sheets.yml
+
+The torpedo attack data sheets (the report's "Torpedo Attack Report Form", usually two pages an attack): the numbers
+in `attacks.csv`, one row per torpedo fired, and the sheet's words in `attack_sheets.yml`, one entry per attack. A gun
+attack has no rows.
+
+| Column | Meaning |
+|---|---|
+| `attack` | The attack's `ref` in positions.csv (`Attack 3`) |
+| `date`, `time`, `zone` | As typed on the sheet; repeated on each torpedo's row, like every per-attack value. A time typed with seconds stays so, `1616-32` (positions.csv has the minute, 1616); `zone` is blank where the sheet types none (positions.csv has it) |
+| `tube` | The tube fired, as typed |
+| `own_course`, `own_speed`, `own_depth` | The boat's, as typed (degrees true, knots, feet, or `Surface`). A course swinging while firing is the typed range, `050-069` |
+| `target_course`, `target_speed`, `target_range`, `target_draft` | The target's, as typed (degrees true, knots, yards, feet). A range typed for two targets keeps the one aimed at; the words are in the YAML. A draft in feet and inches (`8'3"`) is blank here and typed in `target_line` |
+| `track` | Track angle with its side joined, `62S` / `86P`; a track typed without a side (`0`) or as a mark (`*`) stays so |
+| `gyro` | Gyro angle as typed: three figures (`162`), or right or left of the bow (`10R`); ½ is written `.5`. A footnote mark is dropped here and quoted in the YAML |
+| `depth_set`, `power`, `torpedo` | As typed (`6'`; `High`, or `---` for "- - -"; the mark, `14-3A`, `18`) |
+| `hit`, `erratic` | As typed in the table, even where the remarks disagree (the `note` says so). Blank where the sheet types the hits once for the salvo ("2 Hits"); that is the YAML's `hits` |
+| `firing_int` | Seconds, as typed: after the previous torpedo on some sheets, after the first on others (0, 8, 16, 24); the YAML's header says which. A typed minute (`1-05`) is written in seconds |
+| `spread` | The sheet's "Type Spread" as a short code: the kind (`divergent`; the words are `spread` in the YAML), or, where the sheet types one per torpedo, that torpedo's offset from the point of aim (`1.5R`, `0`, `1L`) |
+| `page` | The sheet's first page, the same as the attack's row in positions.csv |
+
+`attack_sheets.yml` keys, each as typed and left out where the sheet has none: `attack`, `type_attack`, `description`,
+`sunk`, `damaged`, `determined_by`, `target_line` and `own_ship` (the data lines), `spread`, `sea`, `overhaul`,
+`remarks`, `hits` (typed once for the salvo), `page`, `table_page` (the torpedo table's page), `sheet` (where one attack is typed
+on several sheets, `2(a)`, each citing its own first page), and `note` (what couldn't be read, and where the sheet
+disagrees with itself or the narrative). `uv run tools/check_attacks.py` recomputes every torpedo's track from own
+course, gyro and target course and lists the ones that disagree; a typed value is never changed to agree.
+
 ### A patrol's Japanese record (japanese.yml) and claims (claims.yml)
 
 The other side of a boat's attacks, from Japanese wartime records (JACAR,

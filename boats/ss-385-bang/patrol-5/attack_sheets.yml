@@ -1,0 +1,33 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft
+# (typed "64 feet", "4 feet"); time and zone typed together, 1326(I). depth_set as typed under the heading
+# "Depth Set (ft)" (4, no foot mark); firing_int as typed (seconds; 0, 8, 16 typed, apparently from the first
+# torpedo). track as typed with its side (146S). `spread` here holds the sheet's "Type Spread" row, typed per
+# torpedo as the offset from the point of aim (1½L, 0, 1R); the type attack's words are below.
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    Day submerged. Fired after quick set-up with guess at targets speed. Three torpedoes fired spread from aft
+    forward by means of the offset knob on the TDC.
+  description: One small unescorted freighter of about 1000 tons.
+  damaged: None.
+  sunk: None.
+  target_line: >-
+    Target Draft: 4 feet Course: 185° Speed: 7 Range: 1250
+  own_ship: >-
+    Speed: 3.0 Course: 333° Depth: 64 feet Angle: 0°
+  sea: Moderate Swell
+  overhaul: U.S. Submarine Base, Pearl Harbor.
+  remarks: Misses due to unknown control errors, or torpedoes under running the target.
+  actuation_actual: '- (each column)'
+  time: 1326(I)
+  position: 36°-55'N 124°-01'E
+  page: rg367-74802868/p46
+  table_page: rg367-74802868/p47
+  note: >-
+    Own speed typed 3.0 (the point is faint and looks like a comma on the scan, p46). The typed tracks (146S, 148S,
+    152S) are 3-4° less than own course 333 + gyro + 180 - target course 185 gives (150S, 152S, 155S); re-read at
+    zoom (p46, p47) and kept as typed. The type attack says the target's speed was a guess.

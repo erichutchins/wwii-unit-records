@@ -5,7 +5,7 @@ narrative,depart Midway,1944-09-01,0900,Y,28-12N,177-23W,rg367-74802831/p03,Depa
 bt,BT,1944-09-09,1950,Z,29-04N,137-35E,rg367-74802831/p28,,yes,,,,,
 ship,Ship 1,1944-09-09,1305,K,29-01N,137-37E,rg367-74802831/p10,Convoy (1 AO 2 AK 2 escorts) 32000 yds; attacks 1 & 2,no,,,,,ship-contact positions are the target not BANG
 attack,Attack 1,1944-09-09,1616,K,28-53N,137-42E,rg367-74802831/p13,Torpedo attack No. 1,yes,,,,,
-attack,Attack 2,1944-09-09,1632,K,28-55N,137-42E,rg367-74802831/p15,Torpedo attack No. 2 (time 1616-32),yes,,,,,
+attack,Attack 2,1944-09-09,1616,K,28-55N,137-42E,rg367-74802831/p15,Torpedo attack No. 2 (time 1616-32),yes,,,,,
 air,Air 1,1944-09-10,1627,K,27-47N,135-01E,rg367-74802831/p11,zone not stated; King assumed,yes,,,,,
 air,Air 2,1944-09-11,1630,K,26-42N,134-09E,rg367-74802831/p11,zone not stated; King assumed,yes,,,,,
 bt,BT,1944-09-12,2031,Z,25-07N,129-30E,rg367-74802831/p28,,yes,,,,,
@@ -16,7 +16,7 @@ air,Air 4,1944-09-17,1440,K,24-25N,122-41E,rg367-74802831/p11,zone not stated; K
 bt,BT,1944-09-17,2040,Z,25-00N,123-30E,rg367-74802831/p28,,yes,,,,,
 ship,Ship 2,1944-09-19,0615,K,24-59N,122-21E,rg367-74802831/p10,Convoy (8 merchantmen incl. AO; 5+ escorts) 30000 yds; attacks 3 & 4,no,,,,,ship-contact positions are the target not BANG
 attack,Attack 3,1944-09-19,0915,K,24-56N,122-14.5E,rg367-74802831/p17,Torpedo attack No. 3,yes,,,,,
-attack,Attack 4,1944-09-19,0955,K,24-56N,122-14.5E,rg367-74802831/p19,Torpedo attack No. 4 (time 0915-55),yes,,,,,
+attack,Attack 4,1944-09-19,0915,K,24-56N,122-14.5E,rg367-74802831/p19,Torpedo attack No. 4 (time 0915-55),yes,,,,,
 bt,BT,1944-09-19,2051,Z,24-00N,122-00E,rg367-74802831/p28,,yes,,,,,
 ship,Ship 3,1944-09-20,1655,K,25-07N,122-57E,rg367-74802831/p10,Convoy 35000 yds (JK sound pinging); attacks 5 & 6,no,,,,,ship-contact positions are the target not BANG
 attack,Attack 5,1944-09-21,0015,K,25-21N,123-58E,rg367-74802831/p21,Torpedo attack No. 5,yes,,,,,

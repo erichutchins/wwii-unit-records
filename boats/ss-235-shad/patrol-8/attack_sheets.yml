@@ -1,0 +1,36 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# This report's sheet is one page (`page`, which is also `table_page`): time, position, target and own-ship data,
+# type attack and the torpedo table (one column per tube). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on this sheet: courses degrees (T), speeds kts, ranges yds, drafts ft; firing_int in
+# seconds as typed (0, 4, 4: typed per column, not stated whether from the first torpedo or the one before);
+# depth_set as typed ("4 feet"); power, hit, erratic and spread as typed, in capitals (HIGH, MISS, NO, NONE);
+# tube 1's Type Spread is blank on the sheet. Track as typed with its side joined (120 S -> 120S).
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    NIGHT SURFACE ATTACK. Having obtained a favorable attack position on a CHIDORI escort, range 3,100 yards, 90 S
+    track, gyro angle near 000, the bow tubes were ordered to be made ready. While oping the outer door of number 4
+    torpedo tube, a "hot run" in the tube followed, which jammed the gyro-spindle of that tube, thereby overloading
+    the gyro-setter motor so that it failed to follow up thereafter. While matching gyro angles by hand, the
+    forward torpedo room mistook a gyro angle for an order to fire and they did so. Three tubes were fired, none
+    having match gyro angles.
+  description: CHIDORI type TBD.
+  target_line: >-
+    TARGET DRAFT 6 Feet. COURSE 120 SPEED 6 RANGE 800 yards.
+  own_ship: >-
+    SPEED 9 COURSE 020 DEPTH Surface ANGLE 0
+  sea: '1'
+  overhaul: SUBMARINE BASE, NAVY NO. 1504.
+  remarks: >-
+    All three tubes were fired while attempting to match gyro angles by hand, and all were fired before being
+    matched.
+  page: rg367-74848165/p26
+  table_page: rg367-74848165/p26
+  note: >-
+    The typed tracks (120S for all three) are 7-9° from what own course 020 + the typed gyro angles (031, 032, 033)
+    + 180 - target course 120 give (111S, 112S, 113S): kept as typed. The sheet says the gyros were being matched
+    by hand when the tubes were fired and none had matched its gyro angle, so the typed gyro angles and the typed
+    track need not agree. The type-attack paragraph gives the planned set-up as range 3,100 yards, 90 S track,
+    gyro near 000, against the 800 yards and 120 S of the table. The sheet has no damage lines (no ship sunk or
+    damaged is typed). A handwritten mark under the time (2338 K) is not read.

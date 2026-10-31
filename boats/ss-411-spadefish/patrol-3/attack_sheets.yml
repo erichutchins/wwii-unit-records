@@ -1,0 +1,187 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target data, damage, own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# firing_int in seconds (the first torpedo's is typed as a dash, written ---); depth_set as typed (6 ft, 6', 8', 4');
+# power as typed (HP; a dash, the Mark 23s, written ---); hit and erratic as typed (HIT, Hit*, Probable, Prob).
+# Gyro angles typed in degrees and minutes are in decimal degrees, to two places (220-30 -> 220.5; 357-20 -> 357.33;
+# 003-10 -> 003.17). `spread` is the kind (divergent) where the sheet types one word for the salvo, and the typed
+# offset per torpedo where it types one (1R, 3¼L written 3.25L; 0 for Attack 5's single stern shot). Where a sheet types two solutions, (A) and (B), each row has the one
+# its torpedo was fired with.
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    Tracked on surface by radar; radar submerged at range of 16,000 yards; periscope attack from 7200 yards.
+    Subsequent zigging of convoy necessitated changing targets. Estimated range at 1700 yards. Speed was known from
+    tracking. Actual range was less than estimated as torpedo run averaged 20 seconds.
+  description: >-
+    Convoy of four AK's, with four escorts crossing Yellow Sea on course 250, speed 11. The AK's were: a large
+    four-goal-poster composite type, and a medium well-decked type, one engine aft AK (may have been tanker from type
+    of smoke as this ship burned), and a smaller ship, unidentified. Escorts were new type PC. Visibility - full
+    moon overhead, scattered clouds. Initial contact was made by sighting smoke. Radar contact at 22,000 yards on
+    largest ship.
+  sunk: 1 Large AK (EU) - 4 goal post, composite superstructure.
+  determined_by: >-
+    Three torpedo hits. Ship last seen listing very heavily to port, surrounded by much smoke and debris. Later
+    passed through large area of debris and oil in vicinity of this attack.
+  target_line: Target Draft 18 Course 270 Speed 13 Range 750 (at firing)
+  own_ship: Speed 4 Course 355 Depth 65' Angle ½°D (at firing)
+  spread: Divergent
+  sea: (2) 340°
+  overhaul: USS BUSHNELL
+  remarks: >-
+    All three torpedoes hit with a 20-second run, proving arming distance. Estimated target draft was 18';
+    torpedo depth setting 6'.
+  page: rg367-74850282/p24
+  table_page: rg367-74850282/p25
+  note: >-
+    The description gives the convoy's course 250, speed 11; the target line, at firing, 270 and 13. The type
+    attack paragraph puts the estimated range at 1700 yards and the target line at 750; the CSV has the line's 750.
+
+- attack: Attack 2
+  type_attack: >-
+    Radar tracking, surface and submerged, of convoy until 7200 yard range. Estimated range of this target put in
+    TDC, with known convoy speed. Fired all stern tubes. Number 9 tube torpedo was timed to hit. The track was
+    large and target may have started turning dur to torpedoes hitting target of Attack No. 1, causing misses with
+    other torpedoes.
+  description: Convoy of Attack No. 1.
+  damaged: >-
+    1 Engine Aft AK (EU) - Similar to HOKKO MARU type, page 265 ONI 208-J Rev. (Ship Damaged or Probably Sunk)
+  determined_by: >-
+    Heard one timed torpedo explosion. Saw target burning, with heavy explosions, until 0745. Target had not moved
+    from position of attack. At that time two heavy columns of smoke could be seen at a range of about 16,000 yards.
+    Submerged and at next look, 0755, smoke was plainly seen. However, at 0800, all smoke had disappeared. The only
+    way that sized fire could be put out that quickly is by ship sinking. Pinging from escorts in vicinity persisted
+    for two hours afterwards. The type of smoke and recurring flames resembled an oil fire, giving indication the
+    ship might have been a tanker, although from the size of the cargo booms it was taken as a cargo ship. Search
+    of the area later, uoon surfacing, revealed nothing but oil and wreckage.
+  target_line: Target Draft 18' Course 270 Speed 13 Range 1500 (at firing)
+  own_ship: Speed 4 Course 355 Depth 65' Angle ½°D (at firing)
+  spread: Divergent
+  sea: (2) 340°
+  overhaul: USS BUSHNELL
+  remarks: >-
+    A sharp crack was heard by everyone in the boat at the time #7 should have hit. There was no explosion. This
+    may have been a dud.
+  page: rg367-74850282/p26
+  table_page: rg367-74850282/p27
+  note: >-
+    Tube 7 is typed "Probable" (hit) and "Prob" (erratic), kept as typed; the remarks call it a possible dud. Tubes
+    7 and 8 agree with the gyros; tubes 9 and 10 are typed 135S and 154S where own course 355, target course 270 and
+    gyros 219-30 and 234 give about 124.5S and 139S. Read again at zoom: the sheet says so; kept as typed. The type
+    attack paragraph says the target may have started turning.
+
+- attack: Attack 3
+  type_attack: >-
+    Radar tracking, surface to 9800 yards, submerged to 5300 yards, then attack at periscope depth. Visibility
+    conditions poor but not poor enough to stay at radar depth, in the close proximity of escorts. First torpedo
+    exploded after 20 seconds, probably hitting an escort. Either this or a scheduled zig caused targets to turn
+    towards after firing. Also target speed believed lower than that used.
+  description: >-
+    Convoy of three merchant ships with four escorts, on base course 260, speed 9, crossing Yellow Sea from
+    position between KOKUZAN TO and KO TO. This convoy had been sighted by a China plane. The light cloud overcast
+    with a full moon made visibility good enough so a surface attack was impossible, but bad enough to make a
+    submerged attack difficult. Only the two leading ships were seen close enough to identify. One was a large
+    composite superstructure AK; the other an engine aft AK. The escorts were not seen distinctly but were believed
+    to be PC.
+  damaged: 1 PC. (Ship Damaged or Believed Sunk)
+  determined_by: >-
+    First torpedo exploded after a 20-second run. An escort had passed ahead just prior to firing. Sound heard his
+    screws slow down and plot had him in correct bearing and range to catch the first torpedo. Breaking up noises
+    were heard after the explosion for a short period.
+  target_line: Target (Convoy) Draft 15 Course 260 Speed 13 Range 3300 / 1800 (at firing)
+  own_ship: Speed 4 Course 330 Depth 65' Angle ½°D (at firing)
+  spread: Divergent (typed twice, over tubes 2 and 5)
+  sea: 2-3 070°
+  overhaul: USS BUSHNELL
+  remarks: >-
+    *No. 1 torpedo exploded after 20 second run. An escort was in position to have received this torpedo. The
+    explosion was not seen through the periscope.
+  page: rg367-74850282/p28
+  table_page: rg367-74850282/p29
+  note: >-
+    Two ranges are typed, 3300 above 1800 on the range line; the CSV has 1800 (positions.csv cites it too). The
+    target is the convoy (course 260, speed 13); the description gives base speed 9 and the type attack paragraph
+    says the speed used was believed too high. Every typed track is about 20 degrees less than own course 330,
+    target course 260 and the gyros give (tube 1: 102.5P computed, 82P typed); an own course of about 350 would fit
+    them all. Own course re-read at zoom: 330 as typed; kept.
+
+- attack: Attack 4
+  type_attack: >-
+    Tracked by radar on surface while making end around. Submerged approach and attack. 112 starboard track, 357
+    gyro, 8 foot depth setting, divergent spread. Sound tracked torpedoes to run normal in direction of target.
+    Misses unaccountable. Low temperature of water, 35°, may have caused sluggish performance of depth mechanism.
+    Torpedoes apparently ran under. Heavy seas and shallow water may have caused erratic depth performance.
+  description: >-
+    Medium-sized AK, composite superstructure, high stack, rake bow, counter stern, two tripod masts with no top
+    stick, headed SW down the coast of KOREA towards the channel leading to the port of JINSEN. Speed 9, on course
+    100 until he approached TOKUSEKI GUNTO, then course 140, speed 7. Not zig-zagging. No escort. Partially loaded.
+  sunk: None.
+  target_line: Target Draft 15' Course 140 Speed 7 Range 2340 (at firing)
+  own_ship: Speed 4 Course 051 Depth 63' Angle ½°D (at firing)
+  spread: per torpedo, 1R 1L 3¼L 3¼R (tubes 3 4 5 6)
+  sea: 330° Force 6
+  overhaul: USS BUSHNELL
+  remarks: >-
+    Setup was such that torpedoes should have hit. Heavy seas may have caused erratic depth performance.
+  page: rg367-74850282/p30
+  table_page: rg367-74850282/p31
+  note: >-
+    The sheet's date is 1 February 1945; positions.csv keeps it and fixes it to 2 February from the narrative. The
+    typed tracks (112S for gyro 357, as the type attack paragraph also says) are about 25 degrees more than own
+    course 051 and target course 140 give (tube 3: 88S computed); an own course of about 075, or a target course of
+    about 116, would fit. Own and target course re-read at zoom: as typed; kept. Erratic is typed "Prob" for all
+    four.
+
+- attack: Attack 5
+  type_attack: >-
+    Submerged periscope attack. Fired three bow torpedoes, getting one hit which stopped target. Swung ship and
+    fired one stern torpedo which sank target.
+  description: >-
+    Medium AK, similar to ANZAN MARU, ONI-208J Rev., page 215, except for high narrow goal post masts; headed on
+    course 315 along 10 fathom bank, west of the port of JINSEN, unescorted and not zig-zagging. Speed 7 knots. Ship
+    was riding empty. P.O.W. called the ship the TAIDAI MARU, tonnage 4375.
+  sunk: 1 AK (EC) Similar to ANZAN MARU, ONI 208J Rev., p215.
+  determined_by: Saw it sink after hitting it with two torpedoes.
+  target_line: >-
+    Target Draft 8' Course (A) 315 (B) 120 Speed (A) 7 (B) 1 Range (A) 1500 (B) 650 (at firing)
+  own_ship: Speed 4 Course (A) 055 (B) 300 Depth 65' Angle ½°D (at firing)
+  spread: Divergent (tubes 2, 1, 4); 0 (tube 7)
+  sea: 350° Force 4
+  overhaul: USS BUSHNELL
+  remarks: >-
+    Torpedoes from tubes 2 and 1 were erratic in deflection. They broached repeatedly and were deflected to the
+    right of torpedo from tube 4 whose true course should have been the furthest right. The torpedo from #7 tube
+    showed a speed of 20 knots for a 650 yard torpedo run. Battery temperature was 44°, sea temperature 31°. Target
+    speed was 0-½ knots.
+  page: rg367-74850282/p32
+  table_page: rg367-74850282/p33
+  note: >-
+    The sheet types two solutions: (A) for the bow salvo (tubes 2, 1, 4) and (B) for the stern shot (tube 7); each
+    row has its own. The sheet types one time, 1654; positions.csv's note puts the stern shot at 1707. Tube 2's
+    power is typed "HO" (kept). Erratic is typed Yes for tube 7, which hit. The bow tracks are typed about 13 degrees more
+    than own 055, target 315 and the gyros give (tube 2: 81.5P computed, 95P typed). Tube 7's typed 102S does not
+    follow from (B) at all (own 300 + gyro 187 against target 120 gives about 173P); remarks put target speed at 0-½
+    knots, and the hulk's heading after the first hit is not typed. Read again at zoom; kept as typed.
+
+- attack: Attack 6
+  type_attack: >-
+    Submerged attack, using stern tubes, track 100 starboard, gyro 164, torpedo run 1500 yards. Torpedo spread to
+    the right, hit stern of target. Target speed apparently higher than the 7 knots used.
+  description: >-
+    2 AK, medium-sized, well deck, split superstructure, MFM type, headed from DAIREN through POHAI Strait towards
+    TIENTSIN. Attacked off PORT ARTHUR. Target resembled GENZAN MARU, ONI 208J Rev., page 239, in construction,
+    particularly in shape of well deck but was not as large. Estimated as 4,000 tons. Sea was flat. Visibility good
+    except for surface haze.
+  sunk: >-
+    1 AK Medium (EU) Similar in construction to GENZAN MARU, ONI 208J Rev. page 239, but smaller.
+  determined_by: Saw torpedo hit and ship sink.
+  target_line: Target Draft 10 Course 235 Speed 7 Range 1480 (at firing)
+  own_ship: Speed 3 Course 350 Depth 65' Angle 1°Up (at firing)
+  spread: Divergent
+  sea: 000° Force 0
+  overhaul: USS BUSHNELL
+  remarks: None
+  page: rg367-74850282/p34
+  table_page: rg367-74850282/p35

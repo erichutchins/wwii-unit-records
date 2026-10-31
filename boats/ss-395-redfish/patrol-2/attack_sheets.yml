@@ -1,0 +1,271 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv. Attacks 4 and 5 share one sheet.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft.
+# Differences from the SEAHORSE sheets:
+# - Angles typed with a raised 30 (minutes: 110 with a superscript 30 = 110 deg 30 min) are written .5 (110.5P, 356.5).
+# - own_depth "Surf" and target_draft "Unk" are the typed words; depth_set is typed without a unit (3, 10, 15, 6).
+# - power is typed "-" (Attacks 1, 2, 4, 5) or a long dash (Attacks 3, 6, 10, 11; written ---).
+# - firing_int: the first column is typed "---", written 0; the rest typed "10sec." or "8sec" (seconds since the
+#   torpedo before).
+# - spread: the sheets give no kind of spread, only each torpedo's offset as typed (3/4R, 2 1/2 L, 2 1/8 L, 6 L);
+#   attacks.csv writes it in decimal as in BANG patrol 1 (0.75R, 2.5L, 2.125L, 6L); 0 = typed 0.
+# - Attacks 7 and 8 type the track without a side (123 30, 125, 140); attacks.csv keeps it without one.
+# - erratic * (Attacks 7, 8) is the sheet's asterisk, explained in the remarks.
+# - Attack 10's target course is typed as a range, 210 - 260 (written 210-260), and its time 1637-30 with the zone
+#   letter illegible (?).
+# target_line and own_ship are the sheet's lines as typed. Hit or Miss typed HIT/MISS, written Hit/Miss.
+
+- attack: Attack 1
+  type_attack: Night radar surface attack. Three ships were over lapping.
+  description: >-
+    Seven ship convoy, none identified as to type or tonnage. Contact made at 18,800 yards by SJ Radar. Visibility
+    at time of attack about 3000 yards.
+  sunk: (UN) One unidentified engine-aft MARU. This ship gave the largest radar pip of the ships in convoy.
+  damaged: None
+  determined_by: >-
+    Two timed hits in target, also a subsequent search by radar revealed one less ship in convoy.
+  target_line: "TARGET DRAFT: Unk. COURSE: 040 SPEED: 6 RANGE: 2610"
+  own_ship: "SPEED: 3.0 COURSE: 345 DEPTH: Surf. ANGLE: --"
+  spread: "#7 3/4R, #8 3/4L, #9 2 1/2 R, #10 2 1/2 L"
+  sea: State 3, medium swell.
+  overhaul: U.S.S. PROTEUS (tubes 7, 8); USS PROTEUS S/M Base, MIDWAY (9, 10) (typed run together).
+  remarks: Timed explosions recorded at 2min. 25 sec. and 2min. 34 sec. after firing.
+  page: rg367-74837267/p43
+  table_page: rg367-74837267/p44
+  note: >-
+    The middle digit of the longitude is faint (1?2-43.2E; positions.csv). The overhaul line is typed with
+    repeated words; the per-tube attribution here is our reading of the column layout.
+
+- attack: Attack 2
+  type_attack: Night radar surface attack. These misses cannot be explained.
+  description: Same as on attack No. 1 less one ship sunk in Attack No. 1.
+  sunk: None.
+  damaged: None.
+  determined_by: "---"
+  target_line: "TARGET DRAFT: Unk. COURSE: 130 SPEED: 6.5 RANGE: 2500"
+  own_ship: "SPEED: 9.4 COURSE: 191 DEPTH: Surf ANGLE: ---"
+  spread: "#5 0, #6 1 1/2 L, #1 1 1/2 R"
+  sea: State 3, swells medium.
+  overhaul: USS PROTEUS
+  remarks: None
+  page: rg367-74837267/p45
+  table_page: rg367-74837267/p46
+  note: >-
+    Tube 5's gyro is typed over (struck-over figures) with 359 typed again to its left; attacks.csv has 359.
+    The typed tracks run 121P, 119P, 120P against gyros 359, 358, 000; the arithmetic gives 120P, 121P, 119P,
+    each within 2 degrees.
+
+- attack: Attack 3
+  type_attack: Night radar surface attack.
+  description: Same as Attack No. 1 less one ship sunk in Attack No. 1.
+  sunk: (UN) One unidentified AK - heavily loaded.
+  damaged: None
+  determined_by: C.O. witnessed target sinking. One observed hit at 2min. 18sec.
+  target_line: "TARGET DRAFT: Unk COURSE: 130 SPEED: 6 RANGE: 1850"
+  own_ship: "SPEED: 9.5 COURSE: 203 DEPTH: Surf ANGLE: ---"
+  spread: "#2 0, #3 2 1/8 L, #4 2 1/8 R"
+  sea: State 3, medium swell.
+  overhaul: USS PROTEUS (tube 2); US S/M Base, MIDWAY (3, 4).
+  remarks: One observed hit at 2min. 18 sec.
+  page: rg367-74837267/p47
+  table_page: rg367-74837267/p48
+  note: >-
+    Tracks and gyros of tubes 3 and 4 are typed with a raised 30 (110 30 P, 105 30 P; 356 30, 001 30): written
+    110.5P, 105.5P, 356.5, 001.5.
+
+- attack: Attack 4
+  type_attack: >-
+    Night radar surface attack. Three torpedoes were fired at target and then three more at trailing escort.
+    Cannot explain missing target. The escort made a radical change of course and avoided torpedoes.
+  description: >-
+    Same as Attack No. 1 except that there is only one ship and her escort left. Visibility 2000 yards.
+  sunk: None
+  damaged: None.
+  determined_by: None.
+  target_line: "TARGET DRAFT: Unk COURSE: 070 SPEED: 4 RANGE: 2600 / 2750"
+  own_ship: "SPEED: 8.5 / 8.3 COURSE: 164 30 / 161 30 DEPTH: Surf ANGLE: ---"
+  spread: "#1 0, #2 1 3/4 L, #3 1 3/4 R"
+  sea: State 3, medium swell.
+  overhaul: USS PROTEUS (tubes 1, 2); US S/M Base, MIDWAY (3).
+  remarks: One of these torpedoes broached. It is not known which one.
+  page: rg367-74837267/p49
+  table_page: rg367-74837267/p50
+  note: >-
+    One sheet, "TORPEDO ATTACK NO. 4 & 5", for both salvos. It types two ranges (2600, 2750), two own speeds
+    (8.5, 8.3) and two own courses (164 30, 161 30) one above the other, and one target course and speed. Attack 4
+    (tubes 1-3, at the ship) takes the first of each, Attack 5 (tubes 4-6, at the trailing escort) the second; the
+    tracks agree with that pairing. The broaching remark covers all six torpedoes.
+
+- attack: Attack 5
+  type_attack: >-
+    Night radar surface attack. Three torpedoes were fired at target and then three more at trailing escort.
+    Cannot explain missing target. The escort made a radical change of course and avoided torpedoes.
+  description: >-
+    Same as Attack No. 1 except that there is only one ship and her escort left. Visibility 2000 yards.
+  sunk: None
+  damaged: None.
+  determined_by: None.
+  target_line: "TARGET DRAFT: Unk COURSE: 070 SPEED: 4 RANGE: 2600 / 2750"
+  own_ship: "SPEED: 8.5 / 8.3 COURSE: 164 30 / 161 30 DEPTH: Surf ANGLE: ---"
+  spread: "#4 0, #5 1 3/4 L, #6 1 3/4 R"
+  sea: State 3, medium swell.
+  overhaul: US S/M Base, MIDWAY (tube 4); USS PROTEUS (5, 6).
+  remarks: One of these torpedoes broached. It is not known which one.
+  page: rg367-74837267/p49
+  table_page: rg367-74837267/p50
+  note: >-
+    Shares the sheet of Attack 4 (see its note). The target course and speed typed (070, 4) are the ship's; the
+    sheet gives none of its own for the escort, and the tracks computed with 070 agree with those typed. Tube 4's
+    firing interval is typed "---" (the first of the second salvo), written 0.
+
+- attack: Attack 6
+  type_attack: Night radar surface attack.
+  description: Remaining ship of original convoy and one escort. Visibility 2000 yards.
+  sunk: None.
+  damaged: None.
+  determined_by: None.
+  target_line: "TARGET DRAFT: Unk COURSE: 050 SPEED: 6 RANGE: 2830"
+  own_ship: "SPEED: 9.0 COURSE: 343 DEPTH: Surf ANGLE: ____"
+  spread: "#1 3/4 R, #2 3/4 L, #3 2 1/4 L, #4 2 1/4 R"
+  sea: State 3, medium swell.
+  overhaul: USS PROTEUS (tubes 1, 2); US S/M Base, MIDWAY (3, 4).
+  remarks: One of the torpedoes broached. It is not known which one. These misses cannot be explained.
+  page: rg367-74837267/p51
+  table_page: rg367-74837267/p52
+  note: >-
+    Tube 2's gyro (356, last digit faint) and tube 3's (355) are faint; the typed tracks agree with them.
+
+- attack: Attack 7
+  type_attack: Night radar surface attack.
+  description: >-
+    Task Force consisting of one SHOKAKU or HAYATAKA type aircraft carrier, one battleship, three escorting
+    destroyers. The aircraft carrier was attacked. Initial contact was by SJ Radar range 31,000 yards. Visibility
+    at time of attack about 6,000 yds.
+  sunk: None
+  damaged: (EC) Damaged one SHOKAKU or HAYATAKA type aircraft carrier (29,800 tons).
+  determined_by: Commanding Officer on bridge observed one timed hit (2min. 10 sec) after commenced firing.
+  target_line: "TARGET DRAFT: 21ft. COURSE: 070 SPEED: 11 RANGE: 2900"
+  own_ship: "SPEED: 13.0 COURSE: 010 DEPTH: Surf ANGLE: ---"
+  spread: "#1 1/2 R, #2 1/2 L, #3 1 1/2 L, #4 1 1/2 R, #5 2 1/2 R, #6 2 1/2 L"
+  sea: Sea from 000T., amount 2, swell 3.
+  overhaul: USS FULTON
+  remarks: >-
+    * At least one of these torpedoes ran erratic as determined by sound bearings after firing. It is not known
+    which one. Unable to explain other misses. Course 050T. and speed 13 were used in estimate of course and
+    speed. Plotting of definitely observed timed hit shows course 070T. speed 11. It is believed target was
+    employing a modified constant helm zig plan.
+  page: rg367-74837267/p53
+  table_page: rg367-74837267/p54
+  note: >-
+    The sheet types the time 0156 (J); positions.csv has zone I (the patrol's zone that week; Attack 8, 84 minutes
+    later, is typed (I)). Kept as typed. The target course on the sheet (070, first digit faint) is the plotted one
+    from the remarks, not the 050 set on the T.D.C. at firing. Tracks are typed without a side: with 070 they
+    compute starboard and within 3 degrees of those typed (125S, 130S, 131S, 127S for tubes 3-6 against 124 30,
+    128, 128 30, 124), not checked by the tool, which needs a side. Erratic is typed * for tubes 2-6 (the remarks' asterisk).
+
+- attack: Attack 8
+  type_attack: >-
+    Night radar surface attack. Target zigged away during firing - T.D.C. was corrected and firing continued.
+  description: Task force as described in Attack No. 1. Visibility at this firing 12,000 yards.
+  sunk: None.
+  damaged: (EC) Damaged one SHOKAKU or HAYATAKA type aircraft carrier (29,800 tons).
+  determined_by: One timed hit at 3min. 59 sec. after commenced firing.
+  target_line: "TARGET DRAFT: 21ft. COURSE: 035T. SPEED: 12 RANGE: 3500"
+  own_ship: "SPEED: 13.0 COURSE: 010T. DEPTH: Surf. ANGLE: ---"
+  spread: "#1 1/2 R, #2 1/2 L, #3 1 1/2 L, #4 1 1/2 R, #5 2 1/2 R, #6 2 1/2 L"
+  sea: Sea from 000T., amount 2, swell 3.
+  overhaul: USS FULTON
+  remarks: >-
+    * One premature explosion was observed at 2min. 15sec. after firing. It is not known which torpedo was the
+    premature. Explosion observed by C.O. Target was seen to zig away during firing of torpedoes resulting in a
+    greater track angle than at instant of commence firing. Course and speed of target estimated to be 050T. - 12.
+  page: rg367-74837267/p55
+  table_page: rg367-74837267/p56
+  note: >-
+    "Task force as described in Attack No. 1" means this patrol's Attack 7 (the carrier group). Tracks are typed
+    without a side. The sheet's one target course (035) gives about 156 starboard for tubes 1-3 and 160 and 155 for
+    4-6; the typed tracks of tubes 1 and 2 (140, 139) fit the course before the zig (about 050, the remarks'
+    estimate), those of tubes 3-6 (154, 158, 158, 153) the corrected T.D.C. Kept as typed. The narrative times
+    the first torpedo 0320.37 (positions.csv). Erratic * on tubes 1-5 marks the unidentified premature; tube 6 is
+    the one typed Hit.
+
+- attack: Attack 9
+  type_attack: >-
+    Submerged periscope depth approach. Target zigged toward apparently trying to avoid torpedo wakes.
+  description: >-
+    * One UNRYU aircraft carrier with prominent island and planes on deck, escorted by three modern destroyers.
+    Contact made by periscope while submerged. Visibility at firing about 8000 yds.
+  sunk: >-
+    (EC) One UNRYU class CV (tonnage 42,000 from addendum to Cincpac - CincpOA "WEEKLY INTELLIGENCE", VOL. 1, NO. 7
+    entitled "Silhouettes of Japanese Warships, 'Know your Enemy!".
+  damaged: None.
+  determined_by: >-
+    C.O. observed two timed torpedo hits and witnessed sinking of target at range of about 2000 yds.
+  target_line: "TARGET DRAFT: 21ft. COURSE: 188T. SPEED: 18 RANGE: 1275"
+  own_ship: "SPEED: 3 kts. COURSE: 098T. DEPTH: 60ft. ANGLE: 1 deg down."
+  spread: "#3 2 1/4 R, #4 2 1/4 L, #5 6 L, #6 6 R"
+  sea: Sea from 340T. amount 3, swells from 340T., amount 4.
+  overhaul: USS FULTON
+  remarks: >-
+    First hit witnessed and timed at 45sec. after commenced firing. Plot and post-firing analysis indicated actual
+    mast head height of 9? ft. instead of 80ft. as used. Also true course of 188T. instead of 190T. as used and
+    speed 18 instead of 16 as used.
+  footnote: "* For exact identification see Comsubpac dispatch 290906 of December 1944."
+  page: rg367-74837267/p57
+  table_page: rg367-74837267/p58
+  note: >-
+    The typed tracks (93S, 96S, 98S, 82S) disagree with own course 098 + gyro + 180 - target course 188, which
+    gives 87S, 84S, 82S, 98S: each typed track is 180 degrees minus the computed one (the same figures, measured
+    from the other end). Re-read at zoom; the sheet says this, and the 190 course used at firing does not explain
+    it. Kept as typed; check_attacks lists the four. The determined_by line says two hits; the table types one
+    (tube 3), and the remarks time the first at 45 sec. The mast-head height in the remarks is typed over (9 and a
+    struck-over second digit, written 9?). The sinking was witnessed after Attack 11 (that sheet's remarks).
+
+- attack: Attack 10
+  type_attack: Submerged periscope depth approach.
+  description: >-
+    Task force as composed in attack No. 9. Carrier is badly damaged, listing heavily and burning. Target is now
+    one of the escorting destroyers.
+  sunk: None.
+  damaged: None.
+  determined_by: None.
+  target_line: "TARGET DRAFT: 6' - 8' COURSE: 210 - 260 SPEED: 18 RANGE: 1700"
+  own_ship: "SPEED: 3 kts. COURSE: 095 DEPTH: 60ft. ANGLE: 1 deg down."
+  spread: "#7 4R, #8 2 R, #9 2 L, #10 4 L"
+  sea: Sea from 340T., amount 3, swells from 340T., amount 4.
+  overhaul: USS PROTEUS
+  remarks: Target zigged away immediately after firing first torpedo. Should have ceased firing.
+  page: rg367-74837267/p59
+  table_page: rg367-74837267/p60
+  note: >-
+    Time typed 1637-30 with the zone letter illegible; positions.csv has 1637 I. The target course is typed as a
+    range, 210 - 260: tube 7's track (123P) computes from 210 and tubes 8-10 (171P, 167P, 171P) from 260, within 1
+    degree, matching the remarks' zig after the first torpedo. check_attacks cannot compute a track from a range of
+    target courses, so these four are not checked by the tool. The target speed's second digit is faint (18).
+
+- attack: Attack 11
+  type_attack: Submerged periscope depth approach.
+  description: >-
+    Task force as indicated in Attack No. 10. Carrier is listing 20 deg to starboard, burning and stopped, and is
+    the target once more for the "coup de grace."
+  sunk: >-
+    * (EC) One UNRYU Class CV (Tonnage 42,000 from addendum to Cincpac - CincpacOA "WEEKLY INTELLIGENCE", VOL. 1,
+    NO. 7 entitled "Silhouettes of Japanese Warships, 'Know your Enemy!".
+  damaged: None.
+  determined_by: C.O. watched second hit in carrier and witnessed her sink.
+  target_line: "TARGET DRAFT: 21ft. COURSE: 015T. SPEED: 0 (zero) RANGE: 1133"
+  own_ship: "SPEED: 3 kts. COURSE: 050T. DEPTH: 60ft. ANGLE: 1 deg down."
+  spread: "0"
+  sea: Sea from 340T., amount 3, swells from 340T., amount 4.
+  overhaul: USS FULTON
+  remarks: >-
+    This torpedo must have hit a vital spot - a magazine or gasoline stowage for it was no ordinary torpedo hit.
+    The initial explosion timed at 1min. 08sec. was continued for several seconds and accompanied by tremendous
+    flames, smoke and debris. Eight minutes later, the carrier had sunk.
+  footnote: "* For exact identification see Comsubpac dispatch 290906 of December 1944."
+  page: rg367-74837267/p61
+  table_page: rg367-74837267/p62
+  note: >-
+    The sheet's time is 1650 (I); the narrative has fired 1649.35, hit 1650.43, sunk 1659 (positions.csv). The
+    sheet's 1 min 08 sec run agrees with the narrative's 1649.35 to 1650.43.

@@ -1,0 +1,179 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, drafts ft (typed
+# "21 Feet"); own_depth typed "Surface" for every attack. The sheets type no zone letter: zone K is positions.csv's
+# (King, per the narrative). Times as typed, some with seconds ("0032-50" = 00h 32m 50s). depth_set as typed under
+# the heading "Depth Set (ft.)" (6, no foot mark); power typed "-" in every column; firing_int as typed (seconds).
+# track as typed with its side (80S). `spread` here holds the sheet's "Type Spread" row, typed per torpedo as the
+# offset from the point of aim (3L, 0, 3R); the type attack's words are below. Where the sheet types the hits once
+# across the columns ("2 Hits") and not per torpedo, `hit` is left blank in attacks.csv and the words are `hits`
+# here. A draft typed in feet and inches (6'9") does not fit a CSV cell: blank there, as typed in target_line here.
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    Night surface. Used radar ranges and TBT bearings. Fired three torpedoes spread 3-0-3 from aft forward by means
+    of the offset knob on the TDC.
+  description: >-
+    Convoy consisting of one large loaded AK, seen at 1800 yards with overcast half moon, much larger than any
+    other ship in convoy, an outstanding pip throughout the approach; five medium AK's; and three or four escorts,
+    one similar to the ITSUKUSHIMA (CM-4) class minelayer, ONI 41-42, and the others probably CHIDORI class.
+    Fired at one medium AK.
+  sunk: One medium AK. EU.
+  determined_by: Saw and heard two hits. Saw target disappear visually and from radar screen.
+  target_line: >-
+    Target Draft: 21 Feet. Course: 115° Speed: ? Range: 2350
+  own_ship: >-
+    Speed: 6.0 Course: 025° Depth: Surface Angle: 0°
+  hits: 2 Hits
+  sea: Choppy; State 2-3
+  overhaul: Submarine Base, Midway.
+  remarks: Miss due to spread used.
+  time: '0032'
+  position: 24°23'5N 122°41'E
+  page: rg367-74802868/p12
+  table_page: rg367-74802868/p13
+  note: >-
+    The target's speed is a blot on the scan (p12; read at zoom): unreadable, `?` in attacks.csv. The sheet types
+    the hits once across the three columns ("2 Hits") and the remarks say one torpedo missed; which tube missed is
+    not typed, so `hit` is blank for each torpedo.
+
+- attack: Attack 2
+  type_attack: >-
+    Night surface. Used radar ranges and TBT bearings. Fired three torpedoes spread 3-0-3 from aft forward by means
+    of the offset knob on the TDC.
+  description: Same convoy as Attack No. 1. Fired at the large AK.
+  sunk: One large AK. Similar to NANKAI MARU. Page 77 of ONI 208J (Revised). EU.
+  determined_by: Saw and heard two hits. Saw target sink and disappear from radar screen.
+  target_line: >-
+    Target Draft: 28 Feet Course: 115° Speed: 7 Range: 2000
+  own_ship: >-
+    Speed: 8 Course: 009° Depth: Surface Angle: 0°
+  hits: 2 Hits
+  sea: Choppy; State 2-3
+  overhaul: Submarine Base, Midway.
+  remarks: Miss due to spread used.
+  time: 0032-50
+  position: 24°23'5N 122°41'E
+  page: rg367-74802868/p14
+  table_page: rg367-74802868/p15
+  note: >-
+    Time typed 0032-50 (p14); positions.csv has the minute, 0032. The hits are typed once across the columns
+    ("2 Hits") with one miss in the remarks; which tube missed is not typed, so `hit` is blank for each torpedo.
+
+- attack: Attack 3
+  type_attack: >-
+    Night surface. Used radar ranges and TBT bearings. Fired four torpedoes at large AK with medium AK
+    overlapping, spread 3-1-1-3 from aft forward by means of the offset knob on the TDC.
+  description: >-
+    Same convoy as Attack No. 1. Fired at same large AK as Attack No. 2, overlapping with one medium AK.
+  damaged_or_probably_sunk: One medium AK. EU.
+  determined_by: Saw and heard one hit.
+  target_line: >-
+    Target Draft: 28 Feet / 21 Feet (typed one above the other) Course: 115° Speed: 7 Range: 2200 / 3100 (typed
+    one above the other)
+  own_ship: >-
+    Speed: 12 Course: 200° Depth: Surface Angle: 0°
+  sea: Choppy; State 2-3
+  overhaul: Submarine Base, Midway.
+  remarks: >-
+    Misses due to target sinking before torpedoes reached track. Hit was in an overlapping target.
+  time: 0034-50
+  position: 24°23'5N 122°41'E
+  page: rg367-74802868/p16
+  table_page: rg367-74802868/p17
+  note: >-
+    Two drafts and two ranges are typed, one above the other (p16): attacks.csv gives the upper pair (28 ft,
+    2200 yds), taken as the large AK the torpedoes were fired at; the 21 ft, 3100 yds pair is taken as the
+    overlapping medium AK (the sheet does not label them). Time typed 0034-50; positions.csv has the minute, 0034.
+    The typed tracks (85S, 88S, 91S, 93S) are 14° less than own course 200 + gyro + 180 - target course 115 gives
+    (99S, 102S, 105S, 107S), the same for all four torpedoes; re-read at zoom (p16, p17) and kept as typed. The
+    sheet's own course or target course does not match the fire-control solution its tracks and gyros came from
+    (an own course near 186° would fit).
+
+- attack: Attack 4
+  type_attack: >-
+    Night surface. Used radar ranges and TBT bearings. Fired three torpedoes spread 3-0-3 from aft forward by means
+    of the offset knob on the TDC.
+  description: Same convoy as Attack No. 1. Fired at one escort, probably CHIDORI type.
+  sunk_or_damaged: None.
+  target_line: >-
+    Target Draft: 6'9" Course: 130° Speed: 7 Range: 2000
+  own_ship: >-
+    Speed: 5 Course: 350° Depth: Surface Angle: 0°
+  sea: Choppy; State 2-3
+  overhaul: Submarine Base, Midway.
+  remarks: Misses probably due to depth setting too deep.
+  time: '0147'
+  position: 24°24'N 122°45'E
+  page: rg367-74802868/p18
+  table_page: rg367-74802868/p19
+  note: Target draft typed 6'9" (p18); blank in attacks.csv (feet and inches do not fit a CSV cell).
+
+- attack: Attack 5
+  type_attack: >-
+    Night surface. Used radar ranges and TBT bearings. Fired three torpedoes spread 3-0-3 from aft forward by means
+    of the offset knob on the TDC.
+  description: Same convoy as Attack No. 1. Fired at one medium AK.
+  sunk_or_damaged: None.
+  target_line: >-
+    Target Draft: 21 Feet Course: 100° Speed: 7 Range: 2100
+  own_ship: >-
+    Speed: 7 Course: 350° Depth: Surface Angle: 0°
+  sea: Choppy; State 2-3
+  overhaul: Submarine Base, Midway.
+  remarks: Misses probably due to unknown control errors.
+  time: '0148'
+  position: 24°24'N 122°45'E
+  page: rg367-74802868/p20
+  table_page: rg367-74802868/p21
+
+- attack: Attack 6
+  type_attack: >-
+    Night surface. Used radar ranges and TBT bearings. Fired four torpedoes spread 3-1-1-3 from aft forward by
+    means of the offset knob on the TDC.
+  description: Same convoy as Attack No. 1. Fired at one medium AK.
+  sunk: One medium AK. EU.
+  determined_by: Heard three hits, saw target sink and disappear from radar screen.
+  target_line: >-
+    Target Draft: 21 Feet Course: 100° Speed: 7 Range: 2200
+  own_ship: >-
+    Speed: 12 Course: 150° Depth: Surface Angle: 0°
+  hits: 3 Hits
+  sea: Choppy; State 2-3
+  overhaul: Submarine Base, Midway.
+  remarks: Miss due to spread used.
+  time: 0150-40
+  position: 24°24'N 122°45'E
+  page: rg367-74802868/p22
+  table_page: rg367-74802868/p23
+  note: >-
+    Time typed 0150-40 (p22); positions.csv has the minute, 0150. The hits are typed once across the columns
+    ("3 Hits") with one miss in the remarks; which tube missed is not typed, so `hit` is blank for each torpedo.
+
+- attack: Attack 7
+  type_attack: >-
+    Night surface. Used radar ranges and TBT bearings. Fired four torpedoes spread 1L, 1R, 4L and 4R by means of
+    the offset knob on the TDC. The greater spread on the wing torpedoes was used to take care of probable zig
+    during torpedo run.
+  description: >-
+    Same convoy as Attack No. 1. Fired at escort, best estimate ITSUKUSHIMA (CM-4) class minesweep. ONI 41-42.
+  sunk: One minesweep. EU.
+  determined_by: >-
+    Heard two hits. Saw flash in target and target disappear immediately afterward from visual and radar sight.
+  target_line: >-
+    Target Draft: 10'1" Course: 105° Speed: 7 Range: 2550
+  own_ship: >-
+    Speed: 8 Course: 335° Depth: Surface Angle: 0°
+  sea: Choppy; State 2-3
+  overhaul: Submarine Base, Midway.
+  remarks: Misses due to spread used.
+  time: '0314'
+  position: 24°12'N 122°53'E
+  page: rg367-74802868/p24
+  table_page: rg367-74802868/p25
+  note: >-
+    Target draft typed 10'1" (p24); blank in attacks.csv (feet and inches do not fit a CSV cell). Depth set typed
+    3 ft for all four torpedoes (p25), against 6 ft in attacks 1-6. Tubes 4 and 2 are typed with the same track
+    and gyro (60S, 010) though their spreads are typed 1L and 4L: kept as typed.

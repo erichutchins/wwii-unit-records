@@ -1,0 +1,101 @@
+# TINOSA's sixth patrol report has no torpedo attack data sheets. Its only attack data is one page, "VII. SUMMARY
+# OF SUBMARINE ATTACKS" (p26), one column per attack, which attacks.csv transcribes. Hand-edited; the numbers are
+# in attacks.csv, the words here.
+# What that table does not give is blank in attacks.csv: tube, own course, speed and depth, target course,
+# power, each torpedo's hit or miss, erratic. Each attack has one row per torpedo fired (the table's "No. & Type
+# of Torpedo Fired"), and every row repeats the attack's one typed value: the table gives a single track, gyro,
+# depth setting, range and interval per attack, not one per torpedo. firing_int is the table's one interval
+# ("9 Sec.") on every row: the interval between torpedoes, not each torpedo's time from the first.
+# spread is the kind (Div. -> divergent, Long. -> longitudinal); the amount as typed is `spread` here.
+# Times are typed "Time G.C.T." (zone Z), as positions.csv has them. Ranges typed with thousands commas
+# (3,000) are written without (3000). Where the table types more than one draft, track or gyro for an attack,
+# attacks.csv leaves the cell blank and the values are here.
+# The track check (tools/check_attacks.py) can't be run on these rows: no own or target course is typed.
+
+- attack: Attack 1
+  type_attack: P
+  torpedoes: 6 14-3A
+  hits: "4"
+  sunk: 1-AK 5,500
+  damaged: 1-AO 7,500 1-AK 5,500
+  type_of_target: 1-AO 2-AK
+  draft: 20' 18' 18'
+  shot: Bow
+  spread: 10° Div.
+  performance_satisfactory: "Yes"
+  overhaul: U.S.S. BUSHNELL
+  location: Lat. 18-15.5N Long. 120-18.4E
+  page: rg367-74856363/p26
+  note: >-
+    A summary table, not a data sheet. Three drafts are typed for three targets (one AO, two AK) and one range
+    (3,000), so the drafts are left out of attacks.csv. positions.csv's note records that the narrative fires
+    at 0919 H (0119 GCT), 18 minutes before this table's 0137, and that the table's longitude is 63 nm east of
+    the narrative's sinking position; neither re-read here.
+
+- attack: Attack 2
+  type_attack: RP
+  torpedoes: 6 14-3A
+  hits: "5"
+  sunk: 1-AO 10,000
+  damaged: 1-AK 6,000 1-AK 6,000
+  type_of_target: 1-AO 2-AK
+  draft: 29' 18' 18'
+  track: 105S 92S
+  gyro: 011 333
+  shot: Bow
+  spread: 4° Div.
+  performance_satisfactory: "Yes"
+  overhaul: U.S.S. BUSHNELL
+  location: Lat. 20-27N Long. 118-55.5E
+  page: rg367-74856363/p26
+  note: >-
+    Two tracks (105S above 92S) and two gyro angles (011 above 333) are typed in this column, and three drafts,
+    with no word of which torpedoes went with which: track, gyro and draft are left blank in attacks.csv. The
+    sunk tonnage is typed "10,000" with a mark after it (perhaps a struck-over or hand-added character).
+    positions.csv's note records that the narrative fires at 23-09-16 H (1509 GCT) with the tanker sinking at
+    20-51N 118-02E, against this table's 0835 and 20-27N 118-55.5E; not re-read here.
+
+- attack: Attack 3
+  type_attack: RS
+  torpedoes: 4 14-3A
+  hits: "4"
+  sunk: 1-AK 9,467
+  damaged: "0"
+  type_of_target: AK
+  shot: Stern
+  spread: 4° Div.
+  performance_satisfactory: "Yes"
+  overhaul: U.S.S. BUSHNELL
+  location: Lat. 20-54.8N Long. 118-14.9E
+  page: rg367-74856363/p26
+  note: >-
+    positions.csv's note records that the narrative fires at 02-49-31 H on 4 May (1849 GCT 3 May), an hour
+    before this table's 1952; not re-read here. Gyro typed 006.5 with a faint point.
+
+- attack: Attack 4
+  type_attack: RS
+  torpedoes: 4 14-3A
+  hits: Unknown 2 Explosions
+  sunk: "--"
+  damaged: Unknown
+  type_of_target: AK
+  shot: Bow
+  spread: 2° Long.
+  performance_satisfactory: "Yes"
+  overhaul: U.S.S. BUSHNELL
+  location: Lat. 20-57.4N Long. 118-06.3E
+  page: rg367-74856363/p26
+
+- attack: Attack 5
+  type_attack: P
+  torpedoes: 4 14-3A
+  hits: Unknown 2 Explosions
+  sunk: "--"
+  damaged: Unknown
+  type_of_target: AK
+  shot: Stern
+  spread: 3° Div.
+  performance_satisfactory: "Yes"
+  overhaul: U.S.S. BUSHNELL
+  location: Lat. 21-04N Long. 118-10.1E
+  page: rg367-74856363/p26

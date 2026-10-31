@@ -1,0 +1,119 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type of attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# firing_int in seconds (typed "11 sec." etc.); depth_set as typed (6'); power typed "-" kept as -;
+# track as typed with its side (91 S -> 91S); own depth typed "Surface" kept as Surface.
+# Halves typed as fractions (169½°, 10½ kts, 002½) are written .5. PARCHE's "Type Spread" row is typed per
+# torpedo as an offset ("1 R", "1°R", "0°"), so attacks.csv's spread holds that offset (1R, 0), not a kind.
+# Where a sheet types two targets (draft and range for each), attacks.csv gives each torpedo the values of the
+# target it was aimed at; the note says how that was decided.
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    Submerged periscope attack from ahead. Made end around and dived ahead of convoy with tops in sight. Convoy
+    consisted of ten ships disposed in three columns in line, zig-zagging 40° right and left of the base course
+    200 T. The slick sea, bright sun, and two planes patrolling ahead necessitated going to 90 feet between
+    periscope exposures. At 3000 yards we were 20° on port bow of center column, then maneuvered to gain position
+    between center and port columns in order to fire both bow and stern tubes. At 1007 observed convoy had zigged
+    radically to the left putting us 40 degrees on starboard bow of starboard column with no alternative but
+    stern shots. 1010-11 Fired four MK 18 torpedoes from stern tubes; two each at first and second AK in
+    starboard column. Just at firing the targets were observed to hoist a two pennant signal and commence
+    turning away, having apparently seen the periscope slick. At 1013 observed no hits on targets but their
+    maneuver put entire convoy on course about normal to torpedo tracks with all three columns overlapping. Was
+    forced to go deep by aircraft but set up still looked good as all four torpedoes (electric) were heard
+    running straight and normal in direction of convoy. At 1014 heard heavy explosion 3 min. 55 sec. after
+    firing last torpedo which was believed to be a hit. 1018 Received first stick of aircraft bombs.
+  description: >-
+    (1) Medium freighter MFM similar to SAIHO MARU. (2) Medium freighter MFM similar to TAZAN MARU.
+  sunk: None.
+  damaged: One medium freighter (class unknown)
+  determined_by: Heavy explosion 3'-55" after firing.
+  target_line: >-
+    Target Draft (1) 18' (2) 15' Course 170 T 170 T Speed 10½ kts 10½ kts Range 1750 2250 (at firing)
+  own_ship: Speed 2 kts Course 250° T Depth 65' Angle 0 (at firing)
+  spread: 1 R, 1 L, 1 R, 1 L (one per torpedo, tubes 7 to 10)
+  hits: Miss, Miss, Miss, Miss (One probable hit on another target)
+  torpedo_detail: Mark 18 torpedoes, Mark 4-2 exploders, actuation set Contact, Mark 18 warheads, TPX.
+  sea: Calm sea
+  overhaul: S/M Base, Pearl.
+  page: rg367-74828582/p18
+  table_page: rg367-74828582/p19
+  note: >-
+    Every typed track is about 20° wider than own course + gyro + 180 - target course gives (91S typed, 69.5S
+    computed for tube 7; the same for all four). Read twice on the scan: kept as typed. The sheet's target
+    course (170 T) is the one solution for both ships; the narrative on the sheet has the targets turning away
+    just at firing, which may be why. Range and draft per torpedo are inferred: the sheet types (1) 1750 yds,
+    18' and (2) 2250, 15', and says two torpedoes each at the first and second AK; tubes 7 and 8 (the first
+    pair by firing interval and spread 1 R, 1 L) are given target (1), tubes 9 and 10 target (2). Firing
+    intervals are typed 0, 11, 32, 55 sec.: they read as times from the first torpedo, not between torpedoes.
+    All four typed Miss, with "One probable hit on another target" under the row.
+
+- attack: Attack 2
+  type_attack: >-
+    Night surface attack on 6 ship convoy. Commenced approach from position 15,000 yards on starboard flank.
+    Shortly thereafter convoy made a 90 degree change of course, going from a line to column formation. Crossed
+    ahead of column regaining position on starboard bow then swung in for straight bow shots on 80 S track.
+    Fired four torpedoes at leading ship, range 1900 yards, using radar ranges, TBT bearings, and one degree
+    divergent spread. Then swung left to close second ship and then right for 80 S track. Fired two torpedoes
+    at second ship, range 2200 yards. Ranges, bearings, and spread as before. Observed 3 hits on first target
+    and 2 hits on second.
+  description: >-
+    (1) Heavily loaded AK with long straight bow, split superstructure, MFM, slim stack similar to RYUYO MARU.
+    (2) Heavily loaded AK, MFM, slightly raised bow, smooth deckline, split superstructure, slim stack similar
+    to GENOA MARU.
+  sunk: (1) AK similar to RYUYO MARU. (2) AK similar to GENOA MARU.
+  damaged: None
+  determined_by: >-
+    (1) 3 hits amidships, broke back, blew up and sank in less than 2 minutes. (2) 2 hits just abaft stack,
+    settled stern first. Sank in 10 minutes.
+  target_line: >-
+    Target Draft (1) 25' (2) 29' Course 030° T 030° T Speed 9½ kts 9½ kts Range 1850 yds 2250 yds (at firing)
+  own_ship: Speed 15 knots Course 286-289 T Depth Surface Angle 90-80 S (at firing)
+  spread: 1 R, 0, 1 L, 2 L, 1 L, 0 (one per torpedo, tubes 1 to 6)
+  torpedo_detail: >-
+    Tube 1 Mark 23, tubes 2-4 Mark 14-3A, tubes 5-6 Mark 23; exploders 6-1A (tubes 1-4) and 6-4 (tubes 5-6);
+    actuation set and actual Contact; warheads 16 (tubes 1-4) and 16-1 (tubes 5-6); TPX.
+  sea: Moderate
+  overhaul: S/M Base, Pearl.
+  page: rg367-74828582/p20
+  table_page: rg367-74828582/p21
+  note: >-
+    Tubes 1-4 typed 95 S track; own course 286-289 + gyro 002½-003 against target course 030 gives 81.5-82S,
+    which agrees with the sheet's own words ("straight bow shots on 80 S track") and its angle on the bow
+    (90-80 S), not with 95 S. Tubes 5 and 6 (83 S, 81 S) agree with the arithmetic. Kept as typed. Ranges:
+    the target line types 1850 and 2250 yds, the type-of-attack words 1900 and 2200 yards; attacks.csv holds
+    the target line's. Tubes 1-4 at the leading ship (target 1), 5-6 at the second (target 2), as the words
+    say. Tube 6's depth set is typed 6 followed by a mark that is not clearly an apostrophe (it could be read
+    6½): written 6?. Firing intervals typed 0, 8, 8, 8 then 0, 8: between torpedoes, restarting for the second
+    target.
+
+- attack: Attack 3
+  type_attack: >-
+    Night surface attack directly following attack No. 2 on third ship in same convoy. Maneuvered on various
+    courses and at various speeds to obtain favorable track on target which was zigging radically. Finally
+    steadied on course 090 T and fired 4 torpedoes on 110-120 Port track at 1600 yards with one degree
+    divergent spread. Second and third torpedoes hit. Target appeared to be turning slowly away increasing
+    track during the firing.
+  description: >-
+    Large AK or AP, MKFKM, well decks fore and aft, composite superstructure; 3 decks, tall stack, similar to
+    HAKONE MARU.
+  sunk: AK or AP similar to HAKONE MARU.
+  damaged: None
+  determined_by: >-
+    2 hits, one amidships and one aft blowing out after mast. Ship settled by the stern, listed heavily to
+    port, deck awash, fires out and disappeared from radar at 6000 yards.
+  target_line: Darget Draft 29' Course 020° T Speed 9 knts Range 1675 (at firing)
+  own_ship: Speed 15 kts Course 090° T Depth Surface Angle 110° P (at firing)
+  spread: 1°R, 0°, 1°L, 2°L (one per torpedo, tubes 1 to 4)
+  torpedo_detail: >-
+    Tube 1 Mark 14-3 A, tubes 2-4 Mark 23; exploders 6-4; actuation set and actual Contact; warheads 16-1; TPX.
+  sea: Moderate
+  overhaul: S/M Base, Pearl.
+  page: rg367-74828582/p22
+  table_page: rg367-74828582/p23
+  note: >-
+    Typed tracks 110P-113P are 5-6° narrower than own course 090 + gyro against target course 020 gives
+    (116P-119P); the words say the target was turning away, increasing the track, during the firing, and give
+    "110-120 Port track". Kept as typed. Range: the target line types 1675, the words "at 1600 yards".
