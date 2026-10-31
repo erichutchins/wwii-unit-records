@@ -67,10 +67,10 @@ actions:
     and an escort from a different convoy 130 nm to the northeast (her claim), then left for home on fuel.
 - id: south-china-sea
   label: 4 July 1944
-  convoy: ''
+  convoy: No. 91
   start: 1944-07-03T12:00Z
   end: 1944-07-04T06:00Z
-  route: ''
+  route: Not recorded; toward Hong Kong by its course (inferred).
   ships:
   - name: Five freighters (AK)
     kind: As SEAHORSE identified them; BANG saw 1 AK
@@ -90,7 +90,7 @@ actions:
     115-50E. BANG fired at 0506 I on what was left of the convoy; Kuri reported being under torpedo attack with no
     damage at 0515 I, and SEAHORSE logged depth charges eleven minutes after BANG fired "(Bang?)". SEAHORSE attacked
     again at 1238–1239 H and claimed two passenger freighters; Kuri reported Gyoyu Maru and No. 28 Kyodo Maru
-    torpedoed and sunk at 1345 I, 20-18N 115-02E. The convoy's name and ports are not in that table; its course
+    torpedoed and sunk at 1345 I, 20-18N 115-02E. The diary's narrative (p27) names it 第九一船団 (No. 91 convoy), attacked southwest of Pratas Island by two or three submarines; its ports are not recorded there, and its course
     (270, then 320–335 on SEAHORSE's sheets) points to Hong Kong. FRUPAC's "torp attack 0105/04" fits SEAHORSE's first attack.
   target_label: Convoy of five freighters with destroyer escorts
 places:
