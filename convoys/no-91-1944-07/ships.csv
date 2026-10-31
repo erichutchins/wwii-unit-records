@@ -1,6 +1,6 @@
 convoy,ship,role,number,from,to,cargo,cargo_t,cargo_for,fate,source,page,basis,note
 No. 91,Kuri,escort,,,,,,,,jacar:C08030032900,p27,reported,Destroyer. Named as escort (護衛艦栗) of 第九一船団 on 4 July; sent the convoy's reports in the submarine table (p28)
 No. 91,Hatsukari,escort,,,,,,,,jacar:C08030032900,p27,reported,"Torpedo boat. Named as escort (初雁) of 第九一船団 on 4 July; at 1055 reported a periscope sighted and attacked, oil brought up (p28)"
-No. 91,Nitto Maru,merchant,,,1944-07-04,,,,"sunk 1944-07-04 0100 I, 19-21N 115-50E (SEAHORSE patrol 5 J01)",jacar:C08030032900,p28,reported,"日東丸. In the convoy by inference: Kuri reported her sinking, and the narrative (p27) puts 第九一船団 under attack that day"
-No. 91,Gyoyu Maru,merchant,,,1944-07-04,,,,"sunk 1944-07-04 1345 I, 20-18N 115-02E (SEAHORSE patrol 5 J02)",jacar:C08030032900,p28,reported,"暁勇丸. In the convoy by inference, as Nitto Maru"
-No. 91,No. 28 Kyodo Maru,merchant,,,1944-07-04,,,,"sunk 1944-07-04 1345 I, 20-18N 115-02E (SEAHORSE patrol 5 J02)",jacar:C08030032900,p28,reported,"第二八共同丸. In the convoy by inference, as Nitto Maru"
+No. 91,Nitto Maru,merchant,,,1944-07-04,,,,"sunk 1944-07-04 0100 I, 19-21N 115-50E (SEAHORSE patrol 5 J01)",jacar:C08030032900,p28,inferred,"日東丸. In the convoy by inference: Kuri reported her sinking, and the narrative (p27) puts 第九一船団 under attack that day"
+No. 91,Gyoyu Maru,merchant,,,1944-07-04,,,,"sunk 1944-07-04 1345 I, 20-18N 115-02E (SEAHORSE patrol 5 J02)",jacar:C08030032900,p28,inferred,"暁勇丸. In the convoy by inference, as Nitto Maru"
+No. 91,No. 28 Kyodo Maru,merchant,,,1944-07-04,,,,"sunk 1944-07-04 1345 I, 20-18N 115-02E (SEAHORSE patrol 5 J02)",jacar:C08030032900,p28,inferred,"第二八共同丸. In the convoy by inference, as Nitto Maru"

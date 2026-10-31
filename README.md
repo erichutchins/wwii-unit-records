@@ -186,6 +186,14 @@ engagement's `ships`) has no row until a record names it.
 | `basis` | `reported` (the record says it), `secondary`, `inferred` |
 | `note` | The words read, and anything assumed |
 
+### A convoy's voyage (convoys/<id>/convoy.md)
+
+The convoy as a whole: YAML front matter for `convoy`, `name_ja`, `from`, `to`, `via`, `sailed`, `arrived`,
+`ships` (as a record counts them), `cargo` (the convoy's, in a few words), `attacked_by` (patrols, as
+`<boat>/<n>`) and `sources` (each `jacar:<code> pN` with a comment saying what it gives). The body says which
+values are reported, secondary or inferred. An empty value means not recorded; `(inferred)` after a value
+labels it. A ship's own cargo stays in `ships.csv`.
+
 ### US radio intelligence (frupac.csv)
 
 The National Museum of the Pacific War's Fleet Radio Unit Pacific map
