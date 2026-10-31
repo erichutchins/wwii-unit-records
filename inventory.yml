@@ -17,31 +17,31 @@ boats:
   SS-215:   # GROWLER, Gato class
     folder: boats/ss-215-growler
     patrols:
-      9: { status: mapped, nara: [74818866], first_fix: 1944-05-15, last_fix: 1944-07-17, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      9: { status: mapped, nara: [74818866], first_fix: 1944-05-15, last_fix: 1944-07-17, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   SS-235:   # SHAD, Gato class
     folder: boats/ss-235-shad
     patrols:
-      8: { status: mapped, nara: [74848165], first_fix: 1944-10-26, last_fix: 1945-01-05, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      8: { status: mapped, nara: [74848165], first_fix: 1944-10-26, last_fix: 1945-01-05, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   SS-267:   # POMPON, Gato class
     folder: boats/ss-267-pompon
     patrols:
-      7: { status: mapped, nara: [74834293], first_fix: 1945-01-05, last_fix: 1945-02-12, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      7: { status: mapped, nara: [74834293], first_fix: 1945-01-05, last_fix: 1945-02-12, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   SS-283:   # TINOSA, Gato class
     folder: boats/ss-283-tinosa
     patrols:
-      6: { status: mapped, nara: [74856363], first_fix: 1944-03-30, last_fix: 1944-05-15, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      6: { status: mapped, nara: [74856363], first_fix: 1944-03-30, last_fix: 1944-05-15, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   SS-304:   # SEAHORSE, Balao class
     folder: boats/ss-304-seahorse
     patrols:
-      5: { status: mapped, nara: [74845019], first_fix: 1944-06-03, last_fix: 1944-07-19, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      5: { status: mapped, nara: [74845019], first_fix: 1944-06-03, last_fix: 1944-07-19, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   SS-312:   # BURRFISH, Balao class
     folder: boats/ss-312-burrfish
     patrols:
-      6: { status: mapped, nara: [74809762], first_fix: 1945-03-25, last_fix: 1945-05-13, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      6: { status: mapped, nara: [74809762], first_fix: 1945-03-25, last_fix: 1945-05-13, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   SS-384:   # PARCHE, Balao class
     folder: boats/ss-384-parche
     patrols:
-      1: { status: mapped, nara: [74828582], first_fix: 1944-03-30, last_fix: 1944-05-23, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      1: { status: mapped, nara: [74828582], first_fix: 1944-03-30, last_fix: 1944-05-23, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   SS-385:   # BANG, Balao class
     folder: boats/ss-385-bang
     patrols:
@@ -54,15 +54,15 @@ boats:
   SS-395:   # REDFISH, Balao class
     folder: boats/ss-395-redfish
     patrols:
-      2: { status: mapped, nara: [74837267, 74837338], first_fix: 1944-10-26, last_fix: 1945-01-02, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      2: { status: mapped, nara: [74837267, 74837338], first_fix: 1944-10-26, last_fix: 1945-01-02, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   SS-403:   # ATULE, Balao class
     folder: boats/ss-403-atule
     patrols:
-      2: { status: mapped, nara: [74802211], first_fix: 1945-01-05, last_fix: 1945-03-07, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      2: { status: mapped, nara: [74802211], first_fix: 1945-01-05, last_fix: 1945-03-07, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   SS-411:   # SPADEFISH, Balao class
     folder: boats/ss-411-spadefish
     patrols:
-      3: { status: mapped, nara: [74850282], first_fix: 1945-01-05, last_fix: 1945-02-13, files: [positions], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      3: { status: mapped, nara: [74850282], first_fix: 1945-01-05, last_fix: 1945-02-13, files: [positions, japanese, crossrefs], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
   # BANG's other pack-mates (guides/FLEET.md), not started
   SS-279: { name: SNOOK, note: "with BANG and BURRFISH, Patrol 6", patrols: { 8: { status: available, nara: [74850126, 139895817], note: "31 Dec 1944 - 17 Feb 1945; the catalog title is blank, the pages are headed EIGHTH" }, 9: { status: missing, note: "searched 2026-10-22: no ninth-patrol folder in the war patrol reports (series 305243) or the war diaries (4697018); the eighth is the last" } } }
   SS-398: { name: SEGUNDO, note: "passage home with BANG, May 1945", patrols: {} }

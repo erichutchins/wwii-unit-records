@@ -1,0 +1,122 @@
+[
+ {
+  "attack": "Attack 3",
+  "boat": "ss-304-seahorse",
+  "relation": "hit",
+  "note": "Nitto Maru sunk at 0100 I, about 11 nm from SEAHORSE's position for her stern-tube attack at 2354 H (0054 I). Attacks 3 and 4 were a minute apart on the same convoy; the Japanese table records one ship sunk",
+  "submarine": {
+   "utc": "1944-07-03T15:54Z",
+   "local": "1944-07-03 2354(H)",
+   "lat_raw": "19-28N",
+   "lon_raw": "115-41E",
+   "page": "rg367-74845019/p29"
+  },
+  "japanese": {
+   "id": "J01",
+   "ship": "Nitto Maru",
+   "convoy": "",
+   "event": "sank",
+   "utc": "1944-07-03T16:00Z",
+   "local": "1944-07-04 0100(I)",
+   "lat_raw": "19-21N",
+   "lon_raw": "115-50E",
+   "original": "〃 〇一〇〇 N一九-二一 E一一五-五〇 栗 日東丸敵潜ノ雷撃ヲ受ケ沈没",
+   "translation": "(4th) 0100, N 19°21′ E 115°50′, from Kuri: Nitto Maru torpedoed by an enemy submarine and sunk",
+   "source": "jacar:C08030032900",
+   "page": "p28",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030032900"
+  },
+  "minutes_apart": 6,
+  "nm_apart": 11.0
+ },
+ {
+  "attack": "Attack 4",
+  "boat": "ss-304-seahorse",
+  "relation": "possible",
+  "note": "Same minute as Attack 3; the Japanese table has one ship sunk at 0100 I, so one of SEAHORSE's two claims there has no matching loss",
+  "submarine": {
+   "utc": "1944-07-03T15:55Z",
+   "local": "1944-07-03 2355(H)",
+   "lat_raw": "19-28N",
+   "lon_raw": "115-41E",
+   "page": "rg367-74845019/p31"
+  },
+  "japanese": {
+   "id": "J01",
+   "ship": "Nitto Maru",
+   "convoy": "",
+   "event": "sank",
+   "utc": "1944-07-03T16:00Z",
+   "local": "1944-07-04 0100(I)",
+   "lat_raw": "19-21N",
+   "lon_raw": "115-50E",
+   "original": "〃 〇一〇〇 N一九-二一 E一一五-五〇 栗 日東丸敵潜ノ雷撃ヲ受ケ沈没",
+   "translation": "(4th) 0100, N 19°21′ E 115°50′, from Kuri: Nitto Maru torpedoed by an enemy submarine and sunk",
+   "source": "jacar:C08030032900",
+   "page": "p28",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030032900"
+  },
+  "minutes_apart": 5,
+  "nm_apart": 11.0
+ },
+ {
+  "attack": "Attack 5",
+  "boat": "ss-304-seahorse",
+  "relation": "hit",
+  "note": "Gyoyu Maru and No. 28 Kyodo Maru sunk at 1345 I, seven minutes after SEAHORSE's bow tubes (1237-45 H = 1337 I), about 8 nm from her position. SEAHORSE claimed a medium and a large passenger freighter",
+  "submarine": {
+   "utc": "1944-07-04T04:38Z",
+   "local": "1944-07-04 1238(H)",
+   "lat_raw": "20-20N",
+   "lon_raw": "114-54E",
+   "page": "rg367-74845019/p33"
+  },
+  "japanese": {
+   "id": "J02",
+   "ship": "Gyoyu Maru; No. 28 Kyodo Maru",
+   "convoy": "",
+   "event": "sank",
+   "utc": "1944-07-04T04:45Z",
+   "local": "1944-07-04 1345(I)",
+   "lat_raw": "20-18N",
+   "lon_raw": "115-02E",
+   "original": "〃 一三四五 N二〇-一八 E一一五-〇二 栗 暁勇丸 第二八共同丸 雷撃ヲ受ケ沈没",
+   "translation": "(4th) 1345, N 20°18′ E 115°02′, from Kuri: Gyoyu Maru and No. 28 Kyodo Maru torpedoed and sunk",
+   "source": "jacar:C08030032900",
+   "page": "p28",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030032900"
+  },
+  "minutes_apart": 7,
+  "nm_apart": 7.8
+ },
+ {
+  "attack": "Attack 6",
+  "boat": "ss-304-seahorse",
+  "relation": "hit",
+  "note": "Stern tubes 45 seconds after Attack 5; the two ships sunk together in J02",
+  "submarine": {
+   "utc": "1944-07-04T04:39Z",
+   "local": "1944-07-04 1239(H)",
+   "lat_raw": "20-20N",
+   "lon_raw": "114-54E",
+   "page": "rg367-74845019/p35"
+  },
+  "japanese": {
+   "id": "J02",
+   "ship": "Gyoyu Maru; No. 28 Kyodo Maru",
+   "convoy": "",
+   "event": "sank",
+   "utc": "1944-07-04T04:45Z",
+   "local": "1944-07-04 1345(I)",
+   "lat_raw": "20-18N",
+   "lon_raw": "115-02E",
+   "original": "〃 一三四五 N二〇-一八 E一一五-〇二 栗 暁勇丸 第二八共同丸 雷撃ヲ受ケ沈没",
+   "translation": "(4th) 1345, N 20°18′ E 115°02′, from Kuri: Gyoyu Maru and No. 28 Kyodo Maru torpedoed and sunk",
+   "source": "jacar:C08030032900",
+   "page": "p28",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030032900"
+  },
+  "minutes_apart": 6,
+  "nm_apart": 7.8
+ }
+]

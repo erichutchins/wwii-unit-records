@@ -27,6 +27,7 @@ boats:
   patrol_no: 9
 japanese:
 - ss-385-bang/2
+- ss-304-seahorse/5
 actions:
 - id: tanker
   label: 14 June 1944
@@ -83,10 +84,14 @@ actions:
     kind: As SEAHORSE identified them
     type: escort
   outcome: >-
-    No Japanese record of this convoy has been found yet. SEAHORSE attacked first, at 2354–2355 H on 3 July (0054–0055
-    I), about 13 nm east-northeast of BANG's later attack, and claimed two freighters sunk; BANG fired at 0506 I
-    on what was left of it, and SEAHORSE logged depth charges eleven minutes later "(Bang?)". SEAHORSE attacked
-    again at 1238–1239 H and claimed two passenger freighters sunk. This explains FRUPAC's "torp attack 0105/04".
+    The Japanese record is the 2nd China Expeditionary Fleet's (Hong Kong) table of submarine reports for July
+    1944 (jacar:C08030032900 p28), from the destroyer Kuri (栗). SEAHORSE attacked first, at 2354–2355 H on 3 July
+    (0054–0055 I), and claimed two freighters sunk; Kuri reported Nitto Maru torpedoed and sunk at 0100 I, 19-21N
+    115-50E. BANG fired at 0506 I on what was left of the convoy; Kuri reported being under torpedo attack with no
+    damage at 0515 I, and SEAHORSE logged depth charges eleven minutes after BANG fired "(Bang?)". SEAHORSE attacked
+    again at 1238–1239 H and claimed two passenger freighters; Kuri reported Gyoyu Maru and No. 28 Kyodo Maru
+    torpedoed and sunk at 1345 I, 20-18N 115-02E. The convoy's name and ports are not in that table; its course
+    (270, then 320–335 on SEAHORSE's sheets) points to Hong Kong. FRUPAC's "torp attack 0105/04" fits SEAHORSE's first attack.
   target_label: Convoy of five freighters with destroyer escorts
 places:
 - name: Luzon

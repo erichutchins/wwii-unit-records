@@ -28,5 +28,35 @@
   },
   "minutes_apart": 7,
   "nm_apart": 2.4
+ },
+ {
+  "attack": "Attack 3",
+  "boat": "ss-385-bang",
+  "relation": "miss",
+  "note": "The destroyer Kuri reported being under torpedo attack with no damage at 0515 I, nine minutes after BANG fired (0506 I), at a position about 15 nm from BANG's. SEAHORSE had attacked the same convoy four hours earlier (0054 I) and was not firing then. BANG's sheet claimed damage to 1 AK; the Japanese record has no ship hit at this time",
+  "submarine": {
+   "utc": "1944-07-03T20:06Z",
+   "local": "1944-07-04 0506(I)",
+   "lat_raw": "19-32.3N",
+   "lon_raw": "115-28.5E",
+   "page": "rg367-74802784/p32"
+  },
+  "japanese": {
+   "id": "J04",
+   "ship": "Kuri",
+   "convoy": "",
+   "event": "attacked_no_damage",
+   "utc": "1944-07-03T20:15Z",
+   "local": "1944-07-04 0515(I)",
+   "lat_raw": "19-22N",
+   "lon_raw": "115-43E",
+   "original": "〃 〇五一五 N一九-二二 E一一五-四三 栗 我雷撃ヲ受ク被害ナシ ?圧中",
+   "translation": "(4th) 0515, N 19°22′ E 115°43′, from Kuri: we are under torpedo attack, no damage; (suppressing?)",
+   "source": "jacar:C08030032900",
+   "page": "p28",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030032900"
+  },
+  "minutes_apart": 9,
+  "nm_apart": 17.1
  }
 ]
