@@ -1,0 +1,8 @@
+convoy,ship,role,number,from,to,cargo,cargo_t,cargo_for,fate,source,page,basis,note
+TAKA-909,CD-30,escort,,,,,,,,jacar:C08030144100,p12,reported,"Kaibokan. Written 海防三〇 among the escorts of タカ九〇九船団 in the 4th Surface Escort Division / Okinawa Base Force diary, September 1944, daily summary, column 19"
+TAKA-909,W-15,escort,,,,,,,,jacar:C08030144100,p12,reported,"Minesweeper. Written 掃一五 among the escorts of タカ九〇九船団 in the 4th Surface Escort Division / Okinawa Base Force diary, September 1944, daily summary, column 19"
+TAKA-909,No. 3 Takunan Maru,escort,,,,,,,,jacar:C08030144100,p12,reported,"Auxiliary. Written 三拓南丸 among the escorts of タカ九〇九船団 in the 4th Surface Escort Division / Okinawa Base Force diary, September 1944, daily summary, column 19"
+TAKA-909,Shichiri Maru,escort,,,,,,,,jacar:C08030144100,p12,reported,"Auxiliary. Written 七利丸 among the escorts of タカ九〇九船団 in the 4th Surface Escort Division / Okinawa Base Force diary, September 1944, daily summary, column 19"
+TAKA-909,Taian Maru,escort,,,,,,,,jacar:C08030144100,p12,reported,"Auxiliary. Written 太安丸 among the escorts of タカ九〇九船団 in the 4th Surface Escort Division / Okinawa Base Force diary, September 1944, daily summary, column 19"
+TAKA-909,No. 3 Taihei Maru,escort,,,,,,,,jacar:C08030144100,p12,reported,"Auxiliary. Written 三号太平丸 among the escorts of タカ九〇九船団 in the 4th Surface Escort Division / Okinawa Base Force diary, September 1944, daily summary, column 19"
+TAKA-909,No. 2 Tosei Maru,merchant,,,1944-09-19,,,,sunk 1944-09-19 (BANG patrol 3 J02),jacar:C08030144100,p12,reported,"第二東勢丸沈没 under 被害 (damage) for the attack on タカ九〇九船団, column 19. 507-ton tanker per DANFS (secondary)"

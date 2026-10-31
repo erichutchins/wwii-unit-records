@@ -58,5 +58,65 @@
   },
   "minutes_apart": null,
   "nm_apart": 8.0
+ },
+ {
+  "attack": "Attack 1",
+  "boat": "ss-385-bang",
+  "relation": "hit",
+  "note": "The Japanese record of the same sinkings (J01 is the secondary account): Shoryu and Tokiwasan Maru sunk at 1520 I, 4 minutes after BANG's first salvo. Its position, a bearing from Sumisu-jima, is about 188 nm from BANG's; the names and the time pair them, the place does not",
+  "submarine": {
+   "utc": "1944-09-09T06:16Z",
+   "local": "1944-09-09 1616(K)",
+   "lat_raw": "28-53N",
+   "lon_raw": "137-42E",
+   "page": "rg367-74802831/p13"
+  },
+  "japanese": {
+   "id": "J03",
+   "ship": "Shoryu Maru; Tokiwasan Maru",
+   "convoy": "",
+   "event": "sank",
+   "utc": "1944-09-09T06:20Z",
+   "local": "1944-09-09 1520(I)",
+   "lat_raw": "",
+   "lon_raw": "",
+   "original": "(イ) 九日一五二〇 須美寿島ノ二六五度一〇浬ニテ 昌隆丸 常盤山丸 被雷撃沈没",
+   "translation": "(a) 9th, 1520, 265° 10 nm from Sumisu-jima: Shoryu Maru and Tokiwasan Maru torpedoed and sunk",
+   "source": "jacar:C08030363600",
+   "page": "p3",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030363600"
+  },
+  "minutes_apart": 4,
+  "nm_apart": null
+ },
+ {
+  "attack": "Attack 2",
+  "boat": "ss-385-bang",
+  "relation": "possible",
+  "note": "Second salvo 16 minutes after the first; the Japanese record has both ships sunk at 1520 I",
+  "submarine": {
+   "utc": "1944-09-09T06:32Z",
+   "local": "1944-09-09 1632(K)",
+   "lat_raw": "28-55N",
+   "lon_raw": "137-42E",
+   "page": "rg367-74802831/p15"
+  },
+  "japanese": {
+   "id": "J03",
+   "ship": "Shoryu Maru; Tokiwasan Maru",
+   "convoy": "",
+   "event": "sank",
+   "utc": "1944-09-09T06:20Z",
+   "local": "1944-09-09 1520(I)",
+   "lat_raw": "",
+   "lon_raw": "",
+   "original": "(イ) 九日一五二〇 須美寿島ノ二六五度一〇浬ニテ 昌隆丸 常盤山丸 被雷撃沈没",
+   "translation": "(a) 9th, 1520, 265° 10 nm from Sumisu-jima: Shoryu Maru and Tokiwasan Maru torpedoed and sunk",
+   "source": "jacar:C08030363600",
+   "page": "p3",
+   "url": "https://www.jacar.archives.go.jp/das/image/C08030363600"
+  },
+  "minutes_apart": -12,
+  "nm_apart": null
  }
 ]

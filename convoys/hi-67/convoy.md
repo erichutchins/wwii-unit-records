@@ -16,7 +16,7 @@ sources:
 ---
 
 Moji to Singapore by way of Manila, June–July 1944. The escort division's June chart starts the track in the
-22 June column (Kurahashi joined from Sasebo that day); the sailing date of 20 June is combinedfleet.com's
+22 June column (Kurahashi joined from Sasebo that day: combinedfleet:Kurahashi_t, secondary); the sailing date of 20 June is combinedfleet.com's
 (secondary). The July chart has the convoy leave Manila on the 3rd with 7 ships and reach 昭南 on the 9th.
 
 **Cargo: not recorded** in any record read. The southbound HI convoys took oilers to Singapore to load

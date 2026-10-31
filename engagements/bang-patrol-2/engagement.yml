@@ -70,7 +70,7 @@ actions:
   convoy: No. 91
   start: 1944-07-03T12:00Z
   end: 1944-07-04T06:00Z
-  route: Not recorded; toward Hong Kong by its course (inferred).
+  route: Takao → Hong Kong (secondary, industrialhistoryhk:29957); SEAHORSE's course fits.
   ships:
   - name: Five freighters (AK)
     kind: As SEAHORSE identified them; BANG saw 1 AK

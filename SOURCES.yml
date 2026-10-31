@@ -333,6 +333,14 @@ sosho:
   match: '^sosho:(\d{3})$'
   used_for: reference/jgrid/anchors.csv
 
+industrialhistoryhk:
+  title: Industrial History of Hong Kong Group, posts on the British Army Aid Group (BAAG) records of shipping in Hong Kong, 1944-45
+  url: https://industrialhistoryhk.org/
+  cite: industrialhistoryhk:<post id>
+  match: '^industrialhistoryhk:(\d+)$'
+  link: https://industrialhistoryhk.org/?p={1}
+  used_for: convoys/no-91-1944-07; secondary (a summary of BAAG intelligence reports, and readers' comments that cite no source)
+
 combinedfleet:
   title: Imperial Japanese Navy Page (combinedfleet.com), Tabular Records of Movement
   by: Bob Hackett, Sander Kingsepp and others

@@ -39,8 +39,10 @@ actions:
     kind: Kaibokan
     type: escort
   outcome: >-
-    Tokiwasan Maru (1,804 tons) and Shoryu Maru (1,916 tons) sunk at 28-58N 137-45E (combinedfleet.com; no primary
-    record found yet). BANG claimed a medium AK and a medium AO.
+    Tokiwasan Maru (1,804 tons) and Shoryu Maru (1,916 tons) sunk. The Yokosuka Guard Squadron's diary records both
+    "torpedoed and sunk" at 1520 Tokyo time on the 9th, four minutes after BANG's first salvo (jacar:C08030363600
+    p3), but gives the place as 265° 10 nm from Sumisu-jima, about 188 nm north-east of BANG's attack; BANG's
+    position agrees with the postwar one, 28-58N 137-45E (combinedfleet.com). BANG claimed a medium AK and a medium AO.
 - id: taka-909
   label: 19 September 1944
   convoy: TAKA-909
