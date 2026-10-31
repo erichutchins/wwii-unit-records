@@ -493,6 +493,46 @@ oni-226:
   rights: Public domain (U.S. government publication); the reprint adds nothing used here
   used_for: silhouettes/silhouettes.yml (the LST plate, p. 110, PDF page 112)
 
+# ONI 222-J: the June 1945 recognition manual of the Japanese Navy (plates for SHIMUSHU, MIKURA, KAIBOKAN Nos. 1 and 2, KAMIKAZE, KURI-WAKATAKE, CHIDORI).
+# The Internet Archive copy (digitized by the Command and General Staff College) is 159 leaves and ends after the frigates and the war-loss section:
+# no minesweepers, minelayers or subchasers.
+oni-222-j:
+  title: ONI 222-J, The Japanese Navy (Division of Naval Intelligence, issued June 1945)
+  by: Office of Naval Intelligence, Division of Naval Intelligence
+  held: Internet Archive (digitized by the Command and General Staff College; Archive date 9 Aug 1945)
+  url: https://archive.org/details/ONI222JTheJapaneseNavy
+  rights: Public domain (U.S. government publication)
+  used_for: silhouettes/silhouettes.yml (KAMIKAZE class plate, p. 51; KURI-WAKATAKE class, p. 69; CHIDORI class, p. 73; SHIMUSHU class, p. 107; MIKURA class, p. 109; KAIBOKAN No. 1 class, p. 111; KAIBOKAN No. 2 class, p. 117)
+
+# ONI 41-42: the 1942 manual with plates revised June-July 1943; the Archive's scan is 600 dpi.
+oni-41-42:
+  title: ONI 41-42, Japanese Naval Vessels (Division of Naval Intelligence, Identification and Characteristics Section; November 1942, plates revised to June 1943)
+  by: Office of Naval Intelligence, Division of Naval Intelligence
+  held: Internet Archive (600 dpi scans)
+  url: https://archive.org/details/oni-4142
+  rights: Public domain (U.S. government publication)
+  used_for: silhouettes/silhouettes.yml (SHIRATAKA plate, CM-3, scan leaf 242)
+
+# ONI 208-J (Revised): the main Japanese merchant manual. Date: "January 1945" is printed in the front matter (OCR,
+# line 199 of ONI208J_djvu.txt); the Internet Archive item says 1945. Scan page = printed page + 36 (600 dpi set).
+oni-208-j:
+  title: O.N.I. 208-J (Revised), Japanese Merchant Ships Recognition Manual (January 1945)
+  by: Office of Naval Intelligence, Division of Naval Intelligence, Identification and Characteristics Section
+  held: Internet Archive (PDF and 600 dpi scans, ONI208J-p185.jpg = printed p. 149)
+  url: https://archive.org/details/oni-208-j
+  rights: Public domain (U.S. government publication)
+  used_for: silhouettes/silhouettes.yml (the TOKIWASAN MARU plate, p. 149; heights explained in the front matter)
+
+# Supplements 2 and 3, bound together in one scan (CGSC digitization). Supplement 3 is the standard classes. The
+# Internet Archive dates the item 21 April 1945; the plates speak of ships built "by 1 July 1944".
+oni-208-j-sup3:
+  title: O.N.I. 208-J Supplements 2 and 3, Far-Eastern Small Craft and Standard Classes of Japanese Merchant Ships (1945)
+  by: Office of Naval Intelligence, Division of Naval Intelligence
+  held: Internet Archive (digitized by the Command and General Staff College); PDF pp. 7-15 are Supplement 3, pp. 3-11
+  url: https://archive.org/details/ONI208JSupplements2And3
+  rights: Public domain (U.S. government publication)
+  used_for: silhouettes/silhouettes.yml (Type TL (Modified), p. 11; Type K, p. 10; Type D (Modified), p. 8; summary p. 3)
+
 # ── Datasets ───────────────────────────────────────────────────────────────────────────────────
 
 etopo1:
