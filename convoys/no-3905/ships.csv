@@ -1,7 +1,0 @@
-convoy,ship,role,number,from,to,cargo,cargo_t,cargo_for,fate,source,page,basis,note
-No. 3905,Shoryu Maru,merchant,,,1944-09-09,,,,sunk 1944-09-09 1520 I (BANG patrol 3 J03),jacar:C08030363600,p3,inferred,"昌隆丸. The diary names her sunk with 常盤山丸 but not the convoy; the convoy is combinedfleet's (yasojima_t, secondary)"
-No. 3905,Tokiwasan Maru,merchant,,,1944-09-09,,,,sunk 1944-09-09 1520 I (BANG patrol 3 J03),jacar:C08030363600,p3,inferred,"常盤山丸. The diary names her sunk with 昌隆丸 but not the convoy; the convoy is combinedfleet's (yasojima_t, secondary)"
-No. 3905,Yasojima,escort,,,,,,,,combinedfleet:yasojima_t,,secondary,"Named as escort by combinedfleet. The Yokosuka Guard Squadron's escort grid (jacar:C08030363600 p5) writes 父島 (Chichi-jima) across about days 8–11 in her row, which fits; read with low confidence (skewed scan)"
-No. 3905,Hachijo,escort,,,,,,,,combinedfleet:yasojima_t,,secondary,Named as escort by combinedfleet; not found yet in the September grid
-No. 3905,CD-4,escort,,,,,,,,combinedfleet:yasojima_t,,secondary,"Named as escort by combinedfleet. The September grid (p5) has her at Yokosuka to about day 8 and Tateyama about days 9–10, which does not fit; read with low confidence"
-No. 3905,CD-12,escort,,,,,,,,combinedfleet:yasojima_t,,secondary,"Named as escort by combinedfleet. The September grid (p5) has her at Yokosuka early in the month, an arrow leaving about day 7–8, and Chichi-jima about days 12–13; read with low confidence"

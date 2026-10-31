@@ -1,0 +1,110 @@
+# Every dated entry, from either side, in the records' words. Hand-edited; fields in records/README.md (An engagement's events).
+- at: 1944-01-12 0645
+  side: axis
+  actor: 5. Geb.Div.
+  kind: report
+  words: >-
+    "6.45 Uhr Abschnitt nördlich M 46 bis C 11 Feindangriff in mindestens Div.-Stärke auf breiter Front nach
+    stärkster langanhaltender Art.-Vorbereitung (auch auf Versorgungswege und Hintergelände)" (06.45, in the
+    sector from north of M 46 to C 11: enemy attack in at least division strength on a broad front, after the
+    heaviest and longest artillery preparation, also on supply routes and rear areas). Decoded on the January
+    1944 Bezugspunktkarte: M 46 is 4.6 km west of Battery F at Selvone; C 11 is in the Mainarde (positions.csv).
+  source: 'XIV Panzer Corps, tactical reports: 5. Geb.Div., Tagesmeldung vom 12.1.1944'
+  ref: t314-0543/f0697
+  pos: m-46
+- at: 1944-01-12
+  placed: seq
+  side: allied
+  actor: French Expeditionary Corps
+  kind: context
+  words: >-
+    The French Expeditionary Corps (2nd Moroccan and 3rd Algerian Divisions) attacked on 12 January toward Atina
+    and Sant'Elia, on the Fifth Army's right. Context: that the German report of 06.45 describes this attack is
+    inferred from the date and the sector.
+  source: Blumenson, Salerno to Cassino (U.S. Army in World War II), p. 313
+  ref: https://history.army.mil/html/books/006/6-3-1/index.html
+- at: 1944-01-12 1225
+  side: allied
+  actor: Battery G
+  kind: air
+  words: >-
+    "At 1225A fired at 2 ME 109's, 12rds 40mm & 80rds 50 cal expended. No hits claimed, withheld fire as 4
+    Spitfires appeared in range."
+  source: Battery G, 67th CA (AA), morning report (record of events), 12 Jan 1944
+  ref: rg64-461580516/p0276
+  pos: battery-g
+- at: 1944-01-12 1430
+  side: axis
+  actor: Arko 414
+  kind: report
+  words: >-
+    "Rege beiderseitige Fliegertätigkeit, Jabo-Angriffe auf D 14, M 06, D 12, M 28, Strasse C 02 - H 11.
+    Vereinzelte Luftkämpfe. Durch schwere Flak wurde um 14.30 Uhr fdl. ein Flugzeug abgeschossen." (Lively air
+    activity on both sides; [enemy] fighter-bomber attacks on D 14 ... Isolated air combats. Heavy Flak shot
+    down an enemy aircraft at 14.30.)
+  source: 'XIV Panzer Corps, tactical reports: Arko 414, Zwischenmeldung vom 12.1.1944'
+  ref: t314-0543/f0690
+  pos: m-28
+- at: 1944-01-12 1435
+  side: allied
+  actor: Battery G
+  kind: air
+  words: '"At 1435A fired at 2 ME 109''s, 91rds-40mm & 425 rds 50 cal expended. One destroyed."'
+  source: Battery G morning report, 12 Jan 1944
+  ref: rg64-461580516/p0276
+  pos: battery-g
+- at: 1944-01-12 1450
+  side: allied
+  actor: Battery F
+  kind: air
+  words: '"2 ME-109 mission unknown flying north over area, no hits. Time 1450A."'
+  source: Battery F, 67th CA (AA), morning report (record of events), 12 Jan 1944
+  ref: rg64-461580516/p0215
+  pos: battery-f
+- at: 1944-01-12 1500
+  side: allied
+  actor: Battery F
+  kind: air
+  words: '"12 ME-109 bombing mission, 2 planes destroyed, 1500A. Heavy shelling all day."'
+  source: Battery F morning report, 12 Jan 1944
+  ref: rg64-461580516/p0215
+  pos: battery-f
+- at: 1944-01-12 1500
+  side: allied
+  actor: Battery G
+  kind: air
+  words: >-
+    "At 1500A fired at 12 FW 190's, dive bombing, 206 rds 40mm & 1035 - 50 cal expended. Two destroyed. One
+    plane exploded and disintegrated in mid-air, the other lost wing and fell to earth."
+  source: Battery G morning report, 12 Jan 1944
+  ref: rg64-461580516/p0276
+  pos: battery-g
+- at: 1944-01-12
+  placed: seq
+  side: axis
+  actor: Arko 414
+  kind: report
+  words: >-
+    "Beiderseitige Fliegertätigkeit, besonders rege am Nachmittag ... Über dem mittl. Korpsabschnitt vereinzelte
+    Luftkämpfe. Am Nachmittag wurde ein Feindbomber durch Flak abgeschossen." (Air activity on both sides,
+    especially lively in the afternoon ... isolated air combats over the corps' central sector. In the afternoon
+    an enemy bomber was shot down by Flak.) "Eig. Verschuss 4800" (own expenditure 4,800 rounds). Weather: heavy
+    ground mist, clearing at midday, hazy, generally good visibility. No German air attack or German aircraft
+    loss is reported.
+  source: 'XIV Panzer Corps, tactical reports: Arko 414, Tagesmeldung vom 12.1.1944'
+  ref: t314-0543/f0699
+- at: 1944-01-13
+  side: axis
+  actor: German High Command (communiqué)
+  kind: communique
+  words: >-
+    "Nella parte occidentale del fronte dell'Italia meridionale il nemico ha esteso i suoi attacchi anche al
+    settore situato a nord di Venafro. Attacchi lanciati contro le nostre posizioni montane, dopo una forte
+    preparazione di artiglieria, sono stati respinti con elevate perdite per il nemico, mentre due infiltrazioni
+    locali sono state arginate." (In the western part of the southern Italian front the enemy also extended his
+    attacks to the sector north of Venafro. Attacks launched against our mountain positions after a heavy
+    artillery preparation were repulsed with heavy losses for the enemy, while two local penetrations were
+    sealed off.) The communiqué of Berlin, 13 Jan, for 12 Jan; it says nothing of German air attacks in Italy
+    that day. The other side's claim.
+  source: La Stampa, 14 Jan 1944, p. 1 (the German communiqué, Berlin, 13 Jan)
+  ref: lastampa:1944-01-14/p1

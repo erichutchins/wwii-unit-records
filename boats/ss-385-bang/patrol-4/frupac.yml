@@ -1,0 +1,33 @@
+# Notes read off the FRUPAC war maps, each tied to an attack. Hand-edited; fields in records/README.md (FRUPAC).
+- id: F01
+  map: metapth1733216
+  map_date: 1944-11-23
+  view: resolution=1&lat=8180&lon=4900
+  text: 230825 / 230?00 / 230210 / TORP. TRACK (BLANK) / 0210/23
+  dtg: '230210'
+  date: 1944-11-23
+  time: '0210'
+  lat_est: '24.2'
+  lon_est: '122.9'
+  event: torpedo_track
+  attack: Attack 7
+  relation: match
+  note: >-
+    Blue-and-green circle; three message times stacked over it. 0210 I = 0310 K; Attack 7 is 0314 K at 24-12N
+    122-53E. Position read off the printed grid, rough
+- id: F02
+  map: metapth1733216
+  map_date: 1944-11-23
+  view: resolution=1&lat=8180&lon=4900
+  text: REDFISH (231415) / OF 7 SHIP CONVOY BANG / SANK 4 & DAM. 1. REDFISH / SANK 2 AM/23
+  dtg: '231415'
+  date: 1944-11-23
+  lat_est: '23.7'
+  lon_est: '123.6'
+  ship: REDFISH
+  event: claim
+  attack: Attack 1
+  relation: match
+  note: >-
+    REDFISH's report for the wolf pack, covering BANG's Attacks 1-7 (0032-0314 K). Two blue circles, one marked
+    "?", about 0.5 degree SE of the attacks

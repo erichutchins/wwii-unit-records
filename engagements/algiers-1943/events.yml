@@ -1,0 +1,251 @@
+# Every dated entry, from either side, in the records' words. Hand-edited; fields in records/README.md (An engagement's events).
+- at: 1943-04-30 1705
+  side: allied
+  actor: Battery C
+  kind: station
+  words: >-
+    "Arrived position 4 mi west of Algiers, Algeria 1705" after 270 miles from Châteaudun-du-Rhumel; from May,
+    "Usual camp duties 4 mi West of Algiers".
+  source: Battery C, 62nd CA (AA), morning report (record of events), Apr-May 1943
+  ref: https://catalog.archives.gov/id/427182819?objectPage=503
+  pos: battery-c
+  step: s0
+- at: 1943-05-01
+  side: allied
+  actor: No. 153 Squadron
+  kind: station
+  words: >-
+    Beaufighter night fighters at Maison Blanche, the Algiers airfield, with AI radar, working under
+    ground-control stations by call-sign ("Mumsie", "Madbrain", "Funless", "Perform").
+  source: No. 153 Squadron RAF, operations record book, Form 540 (summary of events), AIR 27/1027/37, p. 1
+  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389771
+  pos: maison-blanche
+  step: s0
+- at: 1943-05-12 1935
+  side: allied
+  actor: 153 Sqn, Beaufighter V.8632
+  kind: patrol
+  words: F/Sgt G.L. Linklater and Sgt L.V. Anthony up on patrol, 1935-2140.
+  source: No. 153 Squadron RAF, operations record book, Form 541 (detail of work), AIR 27/1027/38, p. 2
+  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389772
+  pos: maison-blanche
+  step: m12
+- at: 1943-05-12
+  placed: seq
+  side: allied
+  actor: 153 Sqn, Beaufighter V.8632
+  kind: warning
+  words: >-
+    "On patrol in Algiers Bay, were told that a number of bandits were 40 miles to the North at 16000ft ...
+    informed that the bandits were 5 miles away at angels 12."
+  source: No. 153 Squadron RAF, operations record book, Form 540 (summary of events), AIR 27/1027/37, p. 2
+  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389771
+  step: m12
+- at: 1943-05-12
+  side: axis
+  actor: Luftflotte 2 ("2nd Air Force")
+  kind: raid
+  words: >-
+    "Thirty bombers raided Algiers during the night of 12 May, scoring hits on the harbor." No units or losses
+    given.
+  source: German Naval Staff war diary, 12 May 1943 (ONI translation), vol. 45, p. 152
+  ref: https://archive.org/details/wardiarygermann451943germ
+  pos: harbour
+  step: m12
+- at: 1943-05-12 2050
+  side: allied
+  actor: Battery C
+  kind: fire
+  words: '"Fired on hostile targets 2050 to 2125 Weather good"'
+  source: Battery C, 62nd CA (AA), morning report (record of events), May 1943
+  ref: https://catalog.archives.gov/id/427182819?objectPage=519
+  pos: battery-c
+  step: m12
+- at: 1943-05-12
+  placed: seq
+  side: allied
+  actor: 153 Sqn, Beaufighter V.8632
+  kind: kill
+  words: >-
+    "The enemy aircraft which was taking evasive action from A.A. turned South about two miles West of Algiers.
+    Our aircraft closed in and gave a two second burst. This was enough and the bandit blew up and fell into the
+    sea. 1 Ju88 destroyed."
+  source: No. 153 Squadron RAF, operations record book, Form 540 (summary of events), AIR 27/1027/37, p. 3
+  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389771
+  pos: turn-0512
+  step: m12
+- at: 1943-05-13
+  side: press
+  actor: L'Écho d'Alger
+  kind: report
+  words: >-
+    "Alerte à Alger": "L'alerte a été donnée dans la soirée à Alger. Des avions ennemis ont survolé la ville. La
+    réaction de la D.C.A. a été très violente et efficace. Quelques bombes ont été lancées."
+  source: L'Écho d'Alger, 13 May 1943
+  ref: https://gallica.bnf.fr/ark:/12148/bpt6k75870445
+  step: m12
+- at: 1943-05-13
+  side: allied
+  actor: Allied Force HQ
+  kind: communique
+  words: >-
+    Communiqué no. 188: "La nuit dernière, des bombardiers ennemis ont essayé d'attaquer Alger. Ils ont été
+    chassés par la D.C.A. et les chasseurs de nuit. Trois appareils au moins ont été détruits. Les quelques
+    bombes qui ont été lâchées ont causé un petit nombre de victimes parmi la population civile et de légers
+    dégâts."
+  source: L'Écho d'Alger, 14 May 1943 (communiqué of 13 May)
+  ref: https://gallica.bnf.fr/ark:/12148/bpt6k7587045k
+  step: m12
+- at: 1943-05-13 0820
+  side: allied
+  actor: Battery C
+  kind: fire
+  words: '"Fired on hostile targets 0820 to 0822": two minutes, in daylight; nothing in the paper.'
+  source: Battery C, 62nd CA (AA), morning report (record of events), May 1943
+  ref: https://catalog.archives.gov/id/427182819?objectPage=519
+  pos: battery-c
+  step: m13
+- at: 1943-05-13 1930
+  side: allied
+  actor: 153 Sqn, Beaufighter EL.162
+  kind: patrol
+  words: 'F/Lt S.S. Duff and Sgt R. Perfect, patrol 1930-2230: "1 JU.88 probably destroyed".'
+  source: No. 153 Squadron RAF, operations record book, Form 541 (detail of work), AIR 27/1027/38, p. 3
+  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389772
+  pos: maison-blanche
+  step: m13
+- at: 1943-05-13
+  side: axis
+  actor: Luftflotte 2
+  kind: raid
+  words: >-
+    "Algiers was attacked by 70 Ju 88s. Hits on six steamers were observed." The 13 May entry; most likely this
+    night (13/14 May), possibly a fuller count of the 12th (inferred).
+  source: German Naval Staff war diary, 13 May 1943, vol. 45, p. 163
+  ref: https://archive.org/details/wardiarygermann451943germ
+  pos: harbour
+  step: m13
+- at: 1943-05-13 2136
+  side: allied
+  actor: Battery C
+  kind: fire
+  words: '"Fired on hostile targets 2136 to 2228 Weather good"'
+  source: Battery C, 62nd CA (AA), morning report (record of events), May 1943
+  ref: https://catalog.archives.gov/id/427182819?objectPage=519
+  pos: battery-c
+  step: m13
+- at: 1943-05-13
+  placed: seq
+  side: allied
+  actor: 153 Sqn, Beaufighter EL.162
+  kind: probable
+  words: >-
+    "After a long chase in which no heights were given eventually obtained a visual on a Ju88. He then gave it 3
+    bursts and although the e/a was badly 'mauled' and lost height, he did not see it fall into the sea and was
+    only awarded a 'probable'."
+  source: No. 153 Squadron RAF, operations record book, Form 540 (summary of events), AIR 27/1027/37, p. 3
+  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389771
+  step: m13
+- at: 1943-05-14
+  side: press
+  actor: L'Écho d'Alger
+  kind: report
+  words: >-
+    "Nouvelle alerte à Alger": "Une alerte a été donnée, hier dans la soirée. Un violent tir de barrage de la
+    D.C.A. a accueilli les appareils qui tentaient de survoler la ville. On ne signale ni dégâts ni victimes."
+  source: L'Écho d'Alger, 14 May 1943
+  ref: https://gallica.bnf.fr/ark:/12148/bpt6k7587045k
+  step: m13
+- at: 1943-05-14
+  side: axis
+  actor: Comando Supremo; OKW
+  kind: silence
+  words: >-
+    Neither the Italian bulletins (nos. 1083, 1084) nor the German communiqués printed on 14 and 15 May mention
+    Algiers: those days they announce the end in Tunisia and raids on Bône, Bougie and Sfax.
+  source: La Stampa, 14 and 15 May 1943, p. 1
+  ref: https://archive.org/details/lastampa_1943-05-15
+  step: m13
+- at: 1943-06-04 2205
+  side: allied
+  actor: 153 Sqn, Beaufighter V.8694
+  kind: scramble
+  words: W/O R.J. Smith and Sgt J.J. Sanderson scrambled from Maison Blanche, 2205-2325.
+  source: No. 153 Squadron RAF, operations record book, Form 541 (detail of work), AIR 27/1027/40, p. 1
+  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389774
+  pos: maison-blanche
+  step: j4
+- at: 1943-06-04
+  side: axis
+  actor: Luftflotte 2
+  kind: raid
+  words: >-
+    "In the evening of 4 June 19 bombers attacked Algiers. The target was covered by a smoke screen. Two planes
+    are missing."
+  source: German Naval Staff war diary, 4 June 1943, vol. 46, p. 38
+  ref: https://archive.org/details/wardiarygermann461943germ
+  pos: harbour
+  step: j4
+- at: 1943-06-04 2225
+  side: allied
+  actor: Battery C
+  kind: fire
+  words: '"Fired on enemy targets 2225 to 2235 Weather good Morale excellent"'
+  source: Battery C, 62nd CA (AA), morning report (record of events), June 1943
+  ref: https://catalog.archives.gov/id/427182819?objectPage=537
+  pos: battery-c
+  step: j4
+- at: 1943-06-04
+  placed: seq
+  side: allied
+  actor: 153 Sqn, Beaufighter V.8694
+  kind: kill
+  words: >-
+    "At long last the Hun has made an appearance. W/O Smith and Sgt. Sanderson getting their first, a Ju.88 15
+    miles North of Algiers."
+  source: No. 153 Squadron RAF, operations record book, Form 540 (summary of events), AIR 27/1027/39, p. 1
+  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389773
+  pos: kill-0604
+  step: j4
+- at: 1943-06-05
+  side: axis
+  actor: Comando Supremo
+  kind: bulletin
+  words: >-
+    Bulletin no. 1106: "L'aviazione dell'Asse ha bombardato questa notte il porto di Algeri." The German
+    communiqué of 5 June: "Le installazioni portuali di Algeri sono state bombardate la scorsa notte."
+  source: La Stampa, 6 June 1943, p. 1
+  ref: https://archive.org/details/lastampa_1943-06-06
+  pos: harbour
+  step: j4
+- at: 1943-06-05
+  side: press
+  actor: L'Écho d'Alger
+  kind: report
+  words: >-
+    "Alerte à Alger": "L'alerte a été donnée dans la soirée à Alger. On signale des dégâts et quelques
+    victimes." Admiral Muselier and the inspector general of civil defence went to the damaged areas.
+  source: L'Écho d'Alger, 5 June 1943
+  ref: https://gallica.bnf.fr/ark:/12148/bpt6k7587065b
+  step: after
+- at: 1943-06-05
+  side: allied
+  actor: Allied Force HQ
+  kind: communique
+  words: >-
+    "Dans la nuit du vendredi à samedi, quelques appareils ennemis ont lâché des bombes dans la région d'Alger.
+    Il y a eu quelques victimes et des dégâts ont été causés à la propriété civile. Deux bombardiers ennemis ont
+    été détruits."
+  source: L'Écho d'Alger, 6 June 1943
+  ref: https://gallica.bnf.fr/ark:/12148/bpt6k7587066r
+  step: after
+- at: 1943-06-05
+  side: press
+  actor: L'Écho d'Alger
+  kind: visit
+  words: >-
+    "Après l'alerte de vendredi soir": Generals Giraud and Catroux visited the bombed quarters on the Saturday
+    morning, where clearing and rescue went on; Catroux called on Muslim families who had lost their homes.
+  source: L'Écho d'Alger, 6 June 1943
+  ref: https://gallica.bnf.fr/ark:/12148/bpt6k7587066r
+  step: after

@@ -1,0 +1,151 @@
+# Notes read off the FRUPAC war maps, each tied to an attack. Hand-edited; fields in records/README.md (FRUPAC).
+- id: F01
+  map: metapth1733008
+  map_date: 1944-04-29
+  view: resolution=1&lat=6300&lon=4150
+  text: 292215 / Yoshima Maru / att. by torp / 2215/29
+  dtg: '292215'
+  date: 1944-04-29
+  time: '2215'
+  lat_est: '19.4'
+  lon_est: '118.7'
+  ship: Yashima Maru
+  event: torpedoed
+  attack: Attack 1
+  relation: candidate
+  note: >-
+    Blue dot. Place and time fit Takegawa Maru (J03: torpedoed 2201 I at 19-20N 118-50E) but the name does not;
+    Yashima Maru may be a misread intercept or another TAMA-17 ship. Written "Yoshima" here, "YASHIMA" in the
+    two notes beside it
+- id: F02
+  map: metapth1733008
+  map_date: 1944-04-29
+  view: resolution=1&lat=6300&lon=4150
+  text: 292215 / YASHIMA @ / 2215/29 IN / DANGER OF / SINKING
+  dtg: '292215'
+  date: 1944-04-29
+  time: '2215'
+  ship: Yashima Maru
+  event: sinking
+  attack: Attack 1
+  relation: candidate
+  note: No dot of its own; written beside F01. Takegawa Maru sank 2240 I (J04)
+- id: F03
+  map: metapth1733008
+  map_date: 1944-04-29
+  view: resolution=1&lat=6300&lon=3650
+  text: 292212 / YASHIMA / MARU FIRED / ON BY RIFES(?) / FROM SUB / @ 2212/29
+  dtg: '292212'
+  date: 1944-04-29
+  time: '2212'
+  ship: Yashima Maru
+  event: attacked
+  attack: Attack 1
+  relation: candidate
+  note: >-
+    Written left of F01, no dot. "RIFES" as written (rifles?); BANG fired torpedoes, not guns, at 2256 K (2156
+    I)
+- id: F04
+  map: metapth1733009
+  map_date: 1944-04-30
+  view: resolution=1&lat=6080&lon=3380
+  text: 301730 / 301026 / SUB CONT. / BY WALES / MARU 6;586 TONS
+  dtg: '301730'
+  date: 1944-04-30
+  time: '1026'
+  lat_est: '18.5'
+  lon_est: '119.3'
+  ship: Wales Maru
+  event: sub_contact
+  relation: candidate
+  note: >-
+    Two blue dots at about 18.5N 119.1-119.5E. BANG was trailing the TAMA-17 survivors there toward Lingayen
+    (Air 3, 1013 K at 18-25N 119-05E; Ship 2, 1820 K at 18-24N 119-36E); surfaced 1142 K (1042 I) after a plane
+    dive. 6;586 is a comma
+- id: F05
+  map: metapth1733009
+  map_date: 1944-04-30
+  view: resolution=1&lat=6080&lon=3380
+  text: 301730 (second time on F04's dots)
+  dtg: '301730'
+  date: 1944-04-30
+  time: '1730'
+  lat_est: '18.5'
+  lon_est: '119.3'
+  ship: Wales Maru
+  event: sub_contact
+  relation: candidate
+  note: 'BANG dived at 1830 K (1730 I): "Plane heading toward me submerged"'
+- id: F06
+  map: metapth1733009
+  map_date: 1944-04-30
+  view: resolution=1&lat=6080&lon=3380
+  text: 301057 / TORP TR / FROM WALES / MARU.
+  dtg: '301057'
+  date: 1944-04-30
+  time: '1057'
+  lat_est: '18.8'
+  lon_est: '120.0'
+  ship: Wales Maru
+  event: torpedo_track
+  relation: context
+  note: BANG fired nothing on 30 April after Attack 4 (0518 K); a false sighting or another boat
+- id: F07
+  map: metapth1733012
+  map_date: 1944-05-03
+  view: resolution=2&lat=6300&lon=2800
+  text: 030930 / D/F-SUB / 1000/03
+  dtg: 030930
+  date: 1944-05-03
+  time: '1000'
+  lat_est: '20.2'
+  lon_est: '116.0'
+  event: df_sub
+  relation: context
+  note: >-
+    BANG was submerged 0715-1204 K (0615-1104 I), so not her transmitting. TINOSA's contact report reached BANG
+    at 1204 K
+- id: F08
+  map: metapth1733012
+  map_date: 1944-05-03
+  view: resolution=2&lat=6300&lon=2800
+  text: 032200(?) / 031125 / SUB Bl.D.F.(?)
+  dtg: '031125'
+  date: 1944-05-03
+  time: '1125'
+  lat_est: '21.4'
+  lon_est: '116.9'
+  event: df_sub
+  relation: context
+  note: Two times stacked over one dot; the lower reading is uncertain
+- id: F09
+  map: metapth1733013
+  map_date: 1944-05-04
+  view: resolution=1&lat=6285&lon=4032
+  text: A 040019 / 040020(?) / 04 0130
+  dtg: 040019
+  date: 1944-05-04
+  time: 0019
+  lat_est: '21.3'
+  lon_est: '118.2'
+  event: attack_reported
+  attack: Attack 5
+  relation: context
+  note: >-
+    Times stacked by two dots near TE-04's track, about 20 nm NE of Attack 5 (20-58N 117-59E). In Tokyo time
+    these are 47-133 minutes before BANG's 0232 I; Kinrei Maru sank 0106 I (J12, secondary). Likely TINOSA's and
+    PARCHE's attacks
+- id: F10
+  map: metapth1733013
+  map_date: 1944-05-04
+  view: resolution=1&lat=6285&lon=4032
+  text: 040040 / 'Rec torp / attack' / 1 hit?
+  dtg: '040040'
+  date: 1944-05-04
+  time: '0040'
+  lat_est: '21.0'
+  lon_est: '118.2'
+  event: torpedoed
+  attack: Attack 5
+  relation: context
+  note: About 12 nm east of Attack 5; 112 minutes earlier. Nothing on the map at BANG's 0232 I

@@ -1,0 +1,108 @@
+# Notes read off the FRUPAC war maps, each tied to an attack. Hand-edited; fields in records/README.md (FRUPAC).
+- id: F01
+  map: metapth1733141
+  map_date: 1944-09-09
+  view: resolution=1&lat=8990&lon=8330
+  text: BANG (091513) / SANK MEDIUM AK AND / MEDIUM AO - 2 HITS EACH / 1530/9
+  dtg: 091513
+  date: 1944-09-09
+  time: '1530'
+  lat_est: '28.85'
+  lon_est: '137.7'
+  ship: BANG
+  event: claim
+  attack: Attack 1
+  relation: match
+  note: >-
+    Blue-and-green circle, read against the printed 1-degree grid; Attack 1 is 28-53N 137-42E. 1530 I = 1630 K;
+    BANG fired Attacks 1 and 2 at 1616-1632 K
+- id: F02
+  map: metapth1733141
+  map_date: 1944-09-09
+  view: resolution=1&lat=8990&lon=8330
+  text: 091655 / TOKINASAN MARU / & SHOORYUU MARU / TORP & SUNK 1520/09
+  dtg: 091655
+  date: 1944-09-09
+  time: '1520'
+  ship: Tokinasan Maru; Shooryuu Maru
+  event: sank
+  attack: Attack 1
+  relation: match
+  note: No dot; a line runs to F01. Names as written
+- id: F03
+  map: metapth1733141
+  map_date: 1944-09-09
+  view: resolution=1&lat=8990&lon=8330
+  text: 091655 / POSIT NOT ACCUR (28 BLANK) / OBOE BL. MARU / TORP. & SUNK 1520/9
+  dtg: 091655
+  date: 1944-09-09
+  time: '1520'
+  lat_est: '28.0'
+  lon_est: '137.7'
+  event: sank
+  attack: Attack 1
+  relation: match
+  note: >-
+    Blue dot marked "?" with an arrow up to F01. "28 BLANK": the intercept gave latitude 28 with the minutes
+    missing. "OBOE BL." as written (a garbled name?)
+- id: F04
+  map: metapth1733151
+  map_date: 1944-09-19
+  view: resolution=1&lat=8450&lon=5350
+  text: BANG (191240) / SANK 1 AK & PROB / SANK ANOTHER / 0815/19
+  dtg: '191240'
+  date: 1944-09-19
+  time: 0815
+  ship: BANG
+  event: claim
+  attack: Attack 3
+  relation: match
+  note: Written east of the attack with a line back to F05's circles. 0815 I = 0915 K, Attack 3's time
+- id: F05
+  map: metapth1733151
+  map_date: 1944-09-19
+  view: resolution=1&lat=8560&lon=4900
+  text: 190938 —#2 TCO(?)— M. / 190810 / 190725 / 191038 / TORP. ATT.
+  dtg: '191038'
+  date: 1944-09-19
+  lat_est: '24.9'
+  lon_est: '122.2'
+  event: torpedo_attack
+  attack: Attack 3
+  relation: match
+  note: >-
+    Message times stacked over a green and a blue circle at about 24.9N 122.2-122.4E; Attack 3 is 24-56N
+    122-14.5E. No event time written. The convoy was TAKA-909 (japanese.yml J02)
+- id: F06
+  map: metapth1733151
+  map_date: 1944-09-19
+  view: resolution=1&lat=8560&lon=4900
+  text: SARUSHIMA / SURF SUB / 0725/19
+  date: 1944-09-19
+  time: '0725'
+  ship: Sarushima
+  event: sub_sighted
+  attack: Attack 3
+  relation: candidate
+  note: >-
+    Written under F05's circles. Not the minelayer Sarushima, sunk 4 July 1944 (combinedfleet.com Sarushima_t);
+    the reading or FRUPAC's identification is wrong, and the museum catalog repeats it. 0725 I = 0825 K, when
+    BANG was submerged on her approach (to 140 ft about 0830 K), so not a surfaced BANG unless a periscope or
+    misreport
+- id: F07
+  map: metapth1733152
+  map_date: 1944-09-20
+  view: resolution=1&lat=8390&lon=4850
+  text: BANG (201730) / SANK 1 AO & 1 AK / & DAM. 1. 2315/20
+  dtg: '201730'
+  date: 1944-09-20
+  time: '2315'
+  lat_est: '25.5'
+  lon_est: '124.0'
+  ship: BANG
+  event: claim
+  attack: Attack 5
+  relation: match
+  note: >-
+    Green circle; Attack 5 is 25-21N 123-58E at 0015 K on the 21st = 2315 I on the 20th. Position read off the
+    printed grid, rough

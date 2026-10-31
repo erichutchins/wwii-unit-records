@@ -1,0 +1,149 @@
+# The questions the records leave open, and each answer's evidence. Hand-edited; fields in records/README.md (An engagement's claims).
+- question: When was she hit?
+  answer: 1250 Item
+  weight: record
+  source: Haynsworth action report, p. 3 (9 Apr 1945)
+  ref: https://catalog.archives.gov/id/140065945?objectPage=3
+  note: '"striking at 1250 Item". The ship''s own report, three days after'
+- question: When was she hit?
+  answer: Fires under control about 1300
+  weight: record
+  source: Haynsworth war diary, p. 4
+  ref: https://catalog.archives.gov/id/633422068?objectPage=4
+  note: Typed "By13??" with an overstrike. Favours a hit before 1300
+- question: When was she hit?
+  answer: '1318'
+  weight: record
+  source: COMDESRON 62 war diary, p. 8
+  ref: https://catalog.archives.gov/id/140016153?objectPage=8
+  note: >-
+    The squadron commander's diary, typed with no zone letter. Its line gives 7 killed and 14 wounded, where the
+    ship's action report counts 27 wounded, so it was probably written from an early message: likely the time
+    the news reached the squadron, not the hit (inferred). A zone slip can't explain it: 1250 to 1318 is 28
+    minutes
+- question: When was she hit?
+  answer: 1321 (report received)
+  weight: record
+  source: South Dakota war diary, 6 Apr
+  ref: https://catalog.archives.gov/id/633438508
+  note: >-
+    "reported having received a bomb hit". Her radio was wrecked, so the report was late: this is when the news
+    arrived, not when it happened
+- question: What hit her?
+  answer: A Judy (Suisei)
+  weight: record
+  source: Action report p. 3; war diary p. 3
+  ref: https://catalog.archives.gov/id/140065945?objectPage=3
+  note: The ship called it a Judy throughout
+- question: What hit her?
+  answer: The engine was a two-row radial
+  weight: photo
+  source: Ship's photo No. 26 (4228-45), in Irons, Phalanx
+  ref: irons
+  note: Rules out a Suisei Model 11 or 12 (inline Atsuta). Fits a Model 33, and also a Zeke 52
+- question: What hit her?
+  answer: The machine gun was a 7.7 mm Type 97
+  weight: photo
+  source: Ship's photo No. 27 (4824-45), in Irons, Phalanx
+  ref: irons
+  note: The Suisei and the Zeke 52 both carried Type 97s in the cowling. Doesn't separate them
+- question: What hit her?
+  answer: '"Blew his exterior bomb loose"'
+  weight: recollection
+  source: XO Lothrop's letters, in Irons, Phalanx
+  ref: irons
+  note: An external bomb sits better with a Zeke, whose bomb hung under the fuselage. Lothrop was in CIC
+- question: What hit her?
+  answer: Dived, pulled out, headed away, then turned back
+  weight: record
+  source: Action report, p. 3
+  ref: https://catalog.archives.gov/id/140065945?objectPage=3
+  note: The pattern of a dive-bomber whose attack failed, not a Zeke on a crash run. Leans Judy
+- question: What hit her?
+  answer: The task group mixed up Judys and Zekes within the hour
+  weight: record
+  source: Bunker Hill diary p. 8; Astoria pp. 64-66
+  ref: https://catalog.archives.gov/id/633434642?objectPage=8
+  note: >-
+    Bunker Hill called the 1302 Zeke a Judy; Astoria called the 1226 Judy a Zeke. One ship's identification
+    under fire is weak evidence
+- question: Who flew it?
+  answer: One of the 210th Air Group's seven
+  weight: inference
+  source: Irons, Phalanx (uncited); 210th action report, form pp. 9, 17, 23
+  ref: https://www.jacar.archives.go.jp/das/image/C13120082700
+  note: >-
+    Seven Suisei sent southeast of Tokunoshima, presumed to have dived in 1200-1300. Time, place and type agree.
+    No Japanese record names a ship
+- question: Who flew it?
+  answer: One of the other 12 Suisei of Fifth Air Fleet
+  weight: inference
+  source: Fifth Air Fleet operations record, pp. 11-13
+  ref: https://www.jacar.archives.go.jp/das/image/C16120697000
+  note: >-
+    23 Suisei went at TF 58 between 1015 and 1310; the 210th supplied 11. The 252nd's four have no launch time.
+    Any that left after about 1120 couldn't have reached her by 1250
+- question: Who flew it?
+  answer: A bomb-carrying Zero
+  weight: inference
+  source: Fifth Air Fleet record; Bennington, Hancock and Cabot reports
+  ref: https://catalog.archives.gov/id/633446693?objectPage=8
+  note: >-
+    30 bomb-carrying Zeros went with the Suisei. They reached TF 58 at the same minutes: Bennington 1253,
+    Hancock 1302, Cabot 1302
+- question: How many died?
+  answer: 7 killed outright
+  weight: record
+  source: War diary p. 4; action report p. 5; COMDESRON 62 p. 8
+  ref: https://catalog.archives.gov/id/140065945?objectPage=22
+  note: The seven named on the Report of Casualties, items 1-7
+- question: How many died?
+  answer: 12 in all
+  weight: record
+  source: Action report, p. 5
+  ref: https://catalog.archives.gov/id/140065945?objectPage=5
+  note: >-
+    "five additional deaths" aboard South Dakota by 9 April. Irons agrees, and names four of the five; the fifth
+    isn't found yet
+- question: How many were wounded?
+  answer: 25, 27, 14 or 19
+  weight: record
+  source: War diary (11 + 14); action report (27); COMDESRON 62 (14); Irons, Phalanx (19)
+  ref: https://catalog.archives.gov/id/140065945?objectPage=5
+  note: Counts made on different days and before or after the deaths aboard South Dakota
+- question: Where did the bomb go?
+  answer: '"Released or ... knocked off in the turn", 1,000 yards abeam'
+  weight: record
+  source: Action report, p. 3
+  ref: https://catalog.archives.gov/id/140065945?objectPage=3
+  note: The ship wasn't sure which
+- question: Where did the bomb go?
+  answer: '"One of our bursts blew his exterior bomb loose"'
+  weight: recollection
+  source: Lothrop, in Irons, Phalanx
+  ref: irons
+- question: Where did the bomb go?
+  answer: '"I did see the Japanese plane drop its bomb as it flew away from us"'
+  weight: recollection
+  source: Weldon Powell (starboard quad 40 mm director), in Irons, Phalanx
+  ref: irons
+- question: How many airmen died aboard?
+  answer: One Japanese airman's body was found aboard
+  weight: recollection
+  source: Irons, Phalanx, from the crew
+  ref: irons
+  note: Left alone for some time for fear it was booby-trapped. The action report and diary don't mention it
+- question: How many airmen died aboard?
+  answer: Every Suisei that day carried two men
+  weight: record
+  source: 210th crew list, form p. 23
+  ref: https://www.jacar.archives.go.jp/das/image/C13120082800
+  note: >-
+    So a Judy should leave two. The second could have gone over the side with the wreckage, which was
+    jettisoned. A Zero would leave one
+- question: Where were the dead buried?
+  answer: At sea, 7 April 1945, 1816
+  weight: recollection
+  source: Irons, Phalanx, from crew diaries
+  ref: irons
+  note: Not in the war diary or action report

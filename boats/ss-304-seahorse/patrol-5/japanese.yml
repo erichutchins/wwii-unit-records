@@ -1,0 +1,33 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+- id: J01
+  source: jacar:C08030032900
+  page: p28
+  ship: Nitto Maru
+  event: sank
+  date: 1944-07-04
+  time: '0100'
+  zone: I
+  lat_raw: 19-21N
+  lon_raw: 115-50E
+  original: 〃 〇一〇〇 N一九-二一 E一一五-五〇 栗 日東丸敵潜ノ雷撃ヲ受ケ沈没
+  translation: '(4th) 0100, N 19°21′ E 115°50′, from Kuri: Nitto Maru torpedoed by an enemy submarine and sunk'
+  note: >-
+    2nd China Expeditionary Fleet war diary, July 1944, enemy-submarine table (別図参照), read right to left; each
+    position written vertically, N column then E column, in kanji numerals. Zone not stated; taken as I (Tokyo
+    time), assumed. Reported by the destroyer Kuri (栗). The convoy is not named in this table
+- id: J02
+  source: jacar:C08030032900
+  page: p28
+  ship: Gyoyu Maru; No. 28 Kyodo Maru
+  event: sank
+  date: 1944-07-04
+  time: '1345'
+  zone: I
+  lat_raw: 20-18N
+  lon_raw: 115-02E
+  original: 〃 一三四五 N二〇-一八 E一一五-〇二 栗 暁勇丸 第二八共同丸 雷撃ヲ受ケ沈没
+  translation: '(4th) 1345, N 20°18′ E 115°02′, from Kuri: Gyoyu Maru and No. 28 Kyodo Maru torpedoed and sunk'
+  note: >-
+    2nd China Expeditionary Fleet war diary, July 1944, enemy-submarine table (別図参照), read right to left; each
+    position written vertically, N column then E column, in kanji numerals. Zone not stated; taken as I (Tokyo
+    time), assumed. 暁勇丸 romanized Gyoyu Maru as in the secondary lists (uboat.net). Reported by Kuri

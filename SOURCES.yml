@@ -34,7 +34,7 @@ nara-war-patrol-reports:
   id: NAID 305243
   url: https://catalog.archives.gov/id/305243
   rights: Public domain
-  used_for: boats/*/patrol-N/ (positions, depths, layers), engagements/*/notes.csv
+  used_for: boats/*/patrol-N/ (positions, depths, layers), engagements/*/events.yml
   series_of: nara-catalog
 
 nara-war-diaries:
@@ -272,7 +272,7 @@ frupac:
   cite: metapth<ark ID>
   match: '^(metapth\d+)$'
   link: https://texashistory.unt.edu/ark:/67531/{1}/
-  used_for: boats/ss-385-bang/patrol-N/frupac.csv
+  used_for: boats/ss-385-bang/patrol-N/frupac.yml
 
 # ── French and Italian records ─────────────────────────────────────────────────────────────────
 
@@ -372,7 +372,7 @@ jacar:
   cite: jacar:<reference code>, with the page in the row's page column
   match: '^jacar:(C\d{11})( p\d+)?$'
   link: https://www.jacar.archives.go.jp/das/image/{1}
-  used_for: boats/*/patrol-N/japanese.csv, reference/jgrid/anchors.csv
+  used_for: boats/*/patrol-N/japanese.yml, reference/jgrid/anchors.csv
 
 sosho:
   title: 戦史叢書 (Senshi Sōsho, the official war history)
@@ -397,7 +397,7 @@ combinedfleet:
   cite: combinedfleet:<page name>
   match: '^combinedfleet:(\S+)$'
   link: http://www.combinedfleet.com/{1}.htm
-  used_for: boats/ss-385-bang/patrol-N/japanese.csv; secondary, compiled from Japanese and US records
+  used_for: boats/ss-385-bang/patrol-N/japanese.yml; secondary, compiled from Japanese and US records
 
 irons:
   title: "Phalanx Against the Divine Wind: Protecting the Fast Carrier Task Force During World War 2"
@@ -667,7 +667,7 @@ natural-earth:
   by: Natural Earth; world-atlas by Mike Bostock
   url: https://www.naturalearthdata.com/
   rights: Public domain
-  used_for: base maps on every page; battles/*.json coastlines
+  used_for: base maps on every page; the engagement pages' coastlines
 
 aws-terrain-tiles:
   title: 'Terrain Tiles (Terrarium format), Registry of Open Data on AWS (Tilezen / Mapzen "joerd")'

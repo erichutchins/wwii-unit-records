@@ -131,9 +131,8 @@ Only `positions.csv` so far (no depths or layers). Both pass `check_track.py`
 with 0 too-fast legs. Fixes taken off the track: PARCHE's aircraft contacts
 1–2 (13 Apr) and 14–17 (30 Apr), and two rows of TINOSA's attack summary
 table that contradict her own narrative (Attack 1 longitude, Attack 2 time
-and position). `tools/pack_timeline.py` merges the three boats and the
-Japanese records on one GMT clock (`pack_timeline.csv`), and `battle.html`
-draws them (`guides/BATTLES.md`).
+and position). The engagement pages put the three boats and the Japanese records on one GMT
+clock (`engagements/tama-17-1944-04-29/`, `te-04-1944-05-03/`; `guides/ENGAGEMENTS.md`).
 
 **29–30 April, TAMA-17.** BANG attacked alone at night (Attacks 1–4). Next
 morning PARCHE (1010 I, 0110 GCT; 4 fired, no hits seen) and TINOSA (0919 H,

@@ -1,0 +1,18 @@
+# Notes read off the FRUPAC war maps, each tied to an attack. Hand-edited; fields in records/README.md (FRUPAC).
+- id: F01
+  map: metapth1733273
+  map_date: 1945-01-19
+  view: resolution=1&lat=9080&lon=7700
+  text: USS BANG (190455) / TRAWLER 1035/19
+  dtg: '190455'
+  date: 1945-01-19
+  time: '1035'
+  lat_est: '27.3'
+  lon_est: '135.2'
+  ship: BANG
+  event: contact_report
+  relation: match
+  note: >-
+    Green circle, read against the printed grid; BANG's Ship 1 (small trawler, radar) is 27-15N 135-00E at 0200
+    I. The 0200 is as typed on p43; BANG dived at 0554 I to close the trawler and surfaced at 1006 I, so 1035 is
+    probably when she reported it

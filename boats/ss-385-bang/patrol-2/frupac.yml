@@ -1,0 +1,151 @@
+# Notes read off the FRUPAC war maps, each tied to an attack. Hand-edited; fields in records/README.md (FRUPAC).
+- id: F01
+  map: metapth1733069
+  map_date: 1944-06-29
+  view: resolution=1&lat=5650&lon=3700
+  text: BANG / 291300
+  dtg: '291300'
+  date: 1944-06-29
+  time: '1300'
+  lat_est: '17.1'
+  lon_est: '118.2'
+  ship: BANG
+  event: position
+  attack: Attack 2
+  relation: match
+  note: >-
+    Green circle with a green arrow SW toward Manila (the convoy's course). Measured against the printed
+    1-degree grid; Attack 2 is 17-13N 118-24.5E. 1300 is not the attack time (1508 I); BANG surfaced at 0710 I
+    for an end-around and dived at 1320 I
+- id: F02
+  map: metapth1733069
+  map_date: 1944-06-29
+  view: resolution=1&lat=5650&lon=3700
+  text: 1 CVS / 5 Esc. / 10 AK/AP
+  date: 1944-06-29
+  event: convoy
+  attack: Attack 2
+  relation: match
+  note: >-
+    Written beside F01: convoy HI-67 (J01). The catalog's Notoro is not this CVS: FLASHER damaged her off Borneo
+    the same night (J02). BANG's sheet 2(b) (p27) also saw a possible CVS; sheet 2(a) (p25): at least 11 marus
+    including two tankers and one possible CS, five or more escorts, course 225
+- id: F03
+  map: metapth1733069
+  map_date: 1944-06-29
+  view: resolution=1&lat=5650&lon=3700
+  text: SUB 290930 / D/F / 0000/29
+  dtg: '290930'
+  date: 1944-06-29
+  time: 0930
+  lat_est: '17.2'
+  lon_est: '118.1'
+  event: df_sub
+  attack: Attack 2
+  relation: candidate
+  note: >-
+    Blue circle overlapping F01. Probably BANG's contact report after she surfaced at 0710 I. "0000/29" is
+    written under it; meaning unclear
+- id: F04
+  map: metapth1733069
+  map_date: 1944-06-29
+  view: resolution=1&lat=5800&lon=2950
+  text: 292200 / TO RP ATT / 29/1500
+  dtg: '292200'
+  date: 1944-06-29
+  time: '1500'
+  event: torpedo_attack
+  attack: Attack 2
+  relation: match
+  note: Written near Macclesfield Bank with a line drawn to F01. BANG fired at 1508 I
+- id: F05
+  map: metapth1733069
+  map_date: 1944-06-29
+  view: resolution=1&lat=6550&lon=3500
+  text: 041630 July / Sarawak Maru / TO'd(?) 1515/29.
+  dtg: '041630'
+  date: 1944-06-29
+  time: '1515'
+  ship: Sarawak Maru
+  event: torpedoed
+  attack: Attack 2
+  relation: match
+  note: >-
+    Fainter, another hand, north of 20N with a line to F01; so known at FRUPAC on 4 July. The catalog says
+    Sarawak Maru was torpedoed by BANG
+- id: F06
+  map: metapth1733069
+  map_date: 1944-06-29
+  view: resolution=1&lat=5650&lon=3700
+  text: TA 03/1720 / 2 AK / SUNK / 1 AK / prob. / SUNK
+  date: 1944-07-03
+  time: '1720'
+  event: claim
+  attack: Attack 2
+  relation: match
+  note: >-
+    Written over Luzon with an arrow to F01. BANG's claim as reported: sheets 2(a) and 2(b) (p25, p27) each
+    claim a ship sunk, 2(c) (p29) one probably sunk. The Japanese record (J01) has two oilers with minor damage,
+    both reaching Manila
+- id: F07
+  map: metapth1733069
+  map_date: 1944-06-29
+  view: resolution=1&lat=5650&lon=3700
+  text: 03/1400
+  date: 1944-07-03
+  time: '1400'
+  lat_est: '14.5'
+  lon_est: '120.9'
+  event: arrival
+  attack: Attack 2
+  relation: context
+  note: On the dashed track into Cavite; probably the convoy's arrival at Manila Bay
+- id: F08
+  map: metapth1733054
+  map_date: 1944-06-14
+  view: resolution=1&lat=6650&lon=6990
+  text: (140201) / Bang(?) sighted 1210/14
+  dtg: '140201'
+  date: 1944-06-14
+  time: '1210'
+  lat_est: '22.6'
+  lon_est: '142.5'
+  ship: BANG
+  event: sub_sighted
+  attack: Attack 1
+  relation: candidate
+  note: >-
+    Green circle; the name is hard to read. 1210 I = 1310 K, when BANG was on the surface making an end-around
+    on the tanker (surfaced 1140 K, dived 1549 K). Measured against the bold 20N and 140E lines
+- id: F09
+  map: metapth1733074
+  map_date: 1944-07-04
+  view: resolution=1&lat=6300&lon=3330
+  text: 040105 & 040830 / (041103) / 2 DD's Esc. / convoy 0100/04 2150(?) / torp attack / 0105/04
+  dtg: '040105'
+  date: 1944-07-04
+  time: '0105'
+  lat_est: '19.2'
+  lon_est: '116.3'
+  event: torpedo_attack
+  attack: Attack 3
+  relation: context
+  note: >-
+    Blue and green circles just south of 20N. Four hours before BANG's 0506 I attack and about 50 nm east of it;
+    BANG had SEAHORSE's contact report at 2250 I on the 3rd, so probably SEAHORSE's attack. A note beside it
+    reads "#28 KYODO"
+- id: F10
+  map: metapth1733074
+  map_date: 1944-07-04
+  view: resolution=1&lat=6300&lon=3330
+  text: 041305 / SURFACED / 1236/04
+  dtg: '041305'
+  date: 1944-07-04
+  time: '1236'
+  lat_est: '20.6'
+  lon_est: '115.8'
+  event: sub_sighted
+  relation: candidate
+  note: >-
+    Blue circle. BANG dived for a plane at 1229 I at 20-15N 115-45E (Air 33), seven minutes earlier; same
+    longitude, latitude 0.3 degree off

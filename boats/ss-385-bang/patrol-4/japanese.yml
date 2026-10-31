@@ -1,0 +1,79 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+- id: J01
+  source: jacar:C08030607900
+  page: p40
+  convoy: TAKA-206
+  event: sub_sighted
+  date: 1944-11-22
+  time: '2240'
+  zone: I
+  lat_raw: 24-22N
+  lon_raw: 122-31E
+  original: 二二四〇 北緯二四度二二分東経一二二度三一分ニ於テ一番艦真鶴信号拳銃赤色一個（浮上潜水艦）ヲ認ム 配置ニ就ケ 戦速
+  translation: >-
+    2240: at N 24°22′ E 122°31′, No. 1 ship Manazuru fires one red flare (surfaced submarine); W-15 goes to
+    battle stations, battle speed
+  note: >-
+    Minesweeper W-15's battle report on convoy TAKA-206 (Keelung for Naha, 22 Nov; escorts Manazuru, Seki Maru,
+    No. 16 Shonan Maru, W-15; ships Taiken, Hozan, Sannin, Amakusa, Eikai and Sakae Maru, p33). 戦闘経過 (log of the
+    action). 2240 I = 2340 K, 52 minutes before BANG's first surface attack 10 nm to the east; BANG or REDFISH
+- id: J02
+  source: jacar:C08030607900
+  page: p40
+  ship: Hozan Maru
+  convoy: TAKA-206
+  event: torpedoed
+  date: 1944-11-22
+  time: '2339'
+  zone: I
+  original: 二三三九 二番船鳳山丸敵潜水艦ノ雷撃ヲ受クルヲ認ム 配置ニ就ケ 戦速
+  translation: >-
+    2339: No. 2 ship Hozan Maru seen to be torpedoed by an enemy submarine; battle stations, battle speed
+  note: >-
+    Same log. W-15 rescued Hozan Maru's master and crew from 0035 (p41, p50). The US Navy chronology credits
+    Hozan Maru to REDFISH (24-27N 122-47E); this time is 7 minutes after BANG's Attack 1
+- id: J03
+  source: jacar:C08030607900
+  page: p47
+  convoy: TAKA-206
+  event: sank
+  date: 1944-11-22
+  time: '2337'
+  zone: I
+  lat_raw: 24-21N
+  lon_raw: 122-38E
+  original: 敵潜水艦ノ攻撃ヲ受ケ沈没セル船舶アリ N24°21′ E122°38′ 二二日二三三七
+  translation: A ship has been sunk by enemy submarine attack, N 24°21′ E 122°38′, 22nd 2337
+  note: >-
+    Same report, signal log: Manazuru's captain to all, 23rd 0020. Two minutes before W-15's 2339 (J02);
+    presumably Hozan Maru
+- id: J04
+  source: jacar:C08030607900
+  page: p47
+  ship: Taiken Maru; Sannin Maru; Eikai Maru; Sakae Maru
+  convoy: TAKA-206
+  event: status
+  date: 1944-11-23
+  time: '1655'
+  zone: I
+  original: 一、大建丸三仁丸映海丸ハ船浮ニ避泊セリ 二、各艇ハ敵潜水艦掃蕩撃滅人命救助並ニ栄丸捜索護衛ニ任ゼヨ
+  translation: >-
+    (1) Taiken, Sannin and Eikai Maru have sheltered at Funauki. (2) All escorts: hunt and destroy the enemy
+    submarine, rescue survivors, and search for and escort Sakae Maru
+  note: >-
+    Same signal log, 23rd 1655. Three of the six ships survived; Amakusa Maru is not named and Sakae Maru was
+    still missing. Search area 30 nm around N 24°20′
+- id: J05
+  source: combinedfleet:W-15_t
+  ship: Hozan Maru; Amakusa Maru; Sakae Maru
+  convoy: TAKA-206
+  event: sank
+  date: 1944-11-22
+  time: '2339'
+  zone: I
+  translation: >-
+    At 2339 the second ship in the column, Hozan Maru, is torpedoed, as are Amakusa Maru and Sakae Maru; all
+    three are sunk
+  note: >-
+    Secondary; follows W-15's report. US Navy chronology: BANG sinks Sakae Maru and Amakusa Maru at 24-21N
+    122-28E, REDFISH sinks Hozan Maru at 24-27N 122-47E

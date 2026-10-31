@@ -6,14 +6,72 @@ to: Haha-jima (secondary)
 via: [Tateyama (secondary)]
 sailed: 1944-09-06 (secondary)
 arrived: ""
-ships: ""
+size: ""
 cargo: ""
 attacked_by: [ss-385-bang/3]
 sources:
   - combinedfleet:yasojima_t        # secondary: route, escorts Yasojima, Hachijo, CD-4, CD-12; Shoryu and Tokiwasan Maru
-  - rg367-74802831 p10              # BANG's contact at 1305 K on 9 Sept: 1 AO, 2 AK, 2 escorts
+  - rg367-74802831/p10              # BANG's contact at 1305 K on 9 Sept: 1 AO, 2 AK, 2 escorts
   - jacar:C08030363600 p3           # Yokosuka Guard Squadron, Sept 1944: 昌隆丸 常盤山丸 sunk 9th 1520, 265° 10 nm from Sumisu-jima
   - jacar:C08030363600 p5           # the same diary's escort grid (read with low confidence)
+route: [yokosuka, tateyama, w-izu, w-bonin, haha-jima]   # through reference/lanes/lanes.yml; assumed waypoints are drawn dotted
+ships:
+  - ship: Shoryu Maru
+    role: merchant
+    to: 1944-09-09
+    fate: sunk 1944-09-09 1520 I (BANG patrol 3 J03)
+    source: jacar:C08030363600
+    page: p3
+    basis: inferred
+    note: >-
+      昌隆丸. The diary names her sunk with 常盤山丸 but not the convoy; the convoy is combinedfleet's (yasojima_t,
+      secondary)
+    sil: cargo
+  - ship: Tokiwasan Maru
+    role: merchant
+    to: 1944-09-09
+    fate: sunk 1944-09-09 1520 I (BANG patrol 3 J03)
+    source: jacar:C08030363600
+    page: p3
+    basis: inferred
+    note: >-
+      常盤山丸. The diary names her sunk with 昌隆丸 but not the convoy; the convoy is combinedfleet's (yasojima_t,
+      secondary)
+    sil: tokiwasan-maru
+    sil_basis: own
+  - ship: Yasojima
+    role: escort
+    source: combinedfleet:yasojima_t
+    basis: secondary
+    note: >-
+      Named as escort by combinedfleet. The Yokosuka Guard Squadron's escort grid (jacar:C08030363600 p5) writes
+      父島 (Chichi-jima) across about days 8–11 in her row, which fits; read with low confidence (skewed scan)
+    sil: escort
+  - ship: Hachijo
+    role: escort
+    source: combinedfleet:yasojima_t
+    basis: secondary
+    note: Named as escort by combinedfleet; not found yet in the September grid
+    sil: shimushu
+    sil_basis: class
+  - ship: CD-4
+    role: escort
+    source: combinedfleet:yasojima_t
+    basis: secondary
+    note: >-
+      Named as escort by combinedfleet. The September grid (p5) has her at Yokosuka to about day 8 and Tateyama
+      about days 9–10, which does not fit; read with low confidence
+    sil: kaibokan2
+    sil_basis: class
+  - ship: CD-12
+    role: escort
+    source: combinedfleet:yasojima_t
+    basis: secondary
+    note: >-
+      Named as escort by combinedfleet. The September grid (p5) has her at Yokosuka early in the month, an arrow
+      leaving about day 7–8, and Chichi-jima about days 12–13; read with low confidence
+    sil: kaibokan2
+    sil_basis: class
 ---
 
 The Japanese record of the loss is the Yokosuka Guard Squadron's September diary (p3): 昌隆丸 (Shoryu Maru) and

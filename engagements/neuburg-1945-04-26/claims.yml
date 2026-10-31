@@ -1,0 +1,132 @@
+# The questions the records leave open, and each answer's evidence. Hand-edited; fields in records/README.md (An engagement's claims).
+- question: When?
+  answer: 1145 to 1147
+  weight: record
+  source: 106th AAA AW Bn history, p. 6
+  ref: ok45th-17560/p06
+  note: 'The battery''s engagement: two minutes'
+- question: When?
+  answer: 1145, 1150 and 1152
+  weight: record
+  source: Missing Air Crew Reports 14163, 14162, 14164
+  ref: rg92-91150796/p02
+  note: The time each bomber was lost
+- question: When?
+  answer: 1150 and 1155
+  weight: secondary
+  source: Galland's claims (Mathews and Foreman, via Wikipedia)
+  ref: https://en.wikipedia.org/wiki/List_of_aerial_victories_claimed_by_Adolf_Galland
+  note: 'German summer time and the Army''s B time were both UTC+2: no conversion'
+- question: When?
+  answer: '"At 1200"'
+  weight: record
+  source: 189th FA Bn history, typed p. 246
+  ref: ok45th-14862/p10
+  note: A round number
+- question: When?
+  answer: '"Approximately five minutes before reaching the target"'
+  weight: recollection
+  source: Big Red's co-pilot, MACR 14162 p. 9
+  ref: rg92-91150796/p09
+- question: How many jets?
+  answer: Six
+  weight: record
+  source: 106th AAA AW Bn history, p. 6
+  ref: ok45th-17560/p06
+- question: How many jets?
+  answer: Four
+  weight: record
+  source: 189th FA Bn history, typed p. 246
+  ref: ok45th-14862/p10
+- question: How many jets?
+  answer: '"Two German Jet-Propelled Fighters"'
+  weight: recollection
+  source: Big Red's pilot, 1st Lt. Alf P. Shatto, November 1945, MACR 14162 p. 10
+  ref: rg92-91150796/p10
+  note: What attacked his own aircraft
+- question: How many jets?
+  answer: Twelve took off
+  weight: secondary
+  source: The Aviation Geek Club, after Forsyth
+  ref: >-
+    https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/
+  note: JV 44's whole formation
+- question: How many bombers were lost?
+  answer: Three
+  weight: record
+  source: Missing Air Crew Reports 14162-14164
+  ref: rg92-91150810/p02
+  note: One each from the 34th, 432nd and 37th squadrons
+- question: How many bombers were lost?
+  answer: '"Three of the bombers were shot down"'
+  weight: record
+  source: 189th FA Bn history, typed p. 246
+  ref: ok45th-14862/p10
+- question: How many bombers were lost?
+  answer: Five claimed
+  weight: secondary
+  source: The Aviation Geek Club, after Forsyth
+  ref: >-
+    https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/
+  note: JV 44's claims, including Galland's two
+- question: Was a jet brought down?
+  answer: '"One of the German aircraft was downed"'
+  weight: record
+  source: 189th FA Bn history, typed p. 246
+  ref: ok45th-14862/p10
+- question: Was a jet brought down?
+  answer: '"Without result"'
+  weight: record
+  source: 106th AAA AW Bn history, p. 6
+  ref: ok45th-17560/p06
+  note: The 106th's own claim for its fire. Nobody's record says whose fire hit which jet
+- question: Was a jet brought down?
+  answer: Two JV 44 pilots lost
+  weight: secondary
+  source: The Aviation Geek Club, after Forsyth
+  ref: >-
+    https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/
+  note: One bailed out. Galland, wounded, crash-landed at Riem after a P-47 hit him
+- question: Whose flak?
+  answer: '"We were also being fired upon by a German Anti-Aircraft Battery"'
+  weight: recollection
+  source: Shatto, MACR 14162 p. 10
+  ref: rg92-91150796/p10
+- question: Whose flak?
+  answer: The front was the Danube
+  weight: inference
+  source: The 106th's positions; the MACRs' sketch maps
+  ref: ok45th-17541/p27
+  note: >-
+    German flak south of the river, the 45th Division's guns north of it. Either could have been firing at the
+    bombers' altitude
+- question: Where did Big Red come down?
+  answer: 48° 46′ N, 11° 11′ E
+  weight: record
+  source: MACR 14162, p. 2
+  ref: rg92-91150796/p02
+- question: Where did Big Red come down?
+  answer: Just north of Neuburg
+  weight: record
+  source: MACR 14162, p. 5 (sketch map)
+  ref: rg92-91150796/p05
+  note: Agrees with the form
+- question: Where did Big Red come down?
+  answer: '"About four to six miles southwest of Ulm"'
+  weight: recollection
+  source: S/Sgt. Louis N. Smith, MACR 14162 p. 11
+  ref: rg92-91150796/p11
+  note: 60 km from the form's position and sketch. Unreliable on place
+- question: Whose jets?
+  answer: JV 44's
+  weight: inference
+  source: Galland's claims; the secondary accounts
+  ref: https://en.wikipedia.org/wiki/List_of_aerial_victories_claimed_by_Adolf_Galland
+  note: >-
+    Time, place and target type agree. JV 44's own records, and the Luftwaffe's loss returns, are still to find
+- question: Where was Battery D?
+  answer: With the 189th, near Bergen
+  weight: inference
+  source: 106th AAA AW Bn history, p. 2
+  ref: ok45th-17560/p02
+  note: From its assignment that month. The battery's 1945 morning reports aren't online

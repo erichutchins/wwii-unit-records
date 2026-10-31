@@ -6,7 +6,7 @@ to: Moji (門司)
 via: [Keelung (基隆)]
 sailed: 1944-04-30
 arrived: ""
-ships: 6
+size: 6
 cargo: "iron ore for Yawata (secondary)"
 attacked_by: [ss-385-bang/1, ss-384-parche/1, ss-283-tinosa/6]
 sources:
@@ -14,6 +14,96 @@ sources:
   - jacar:C08030140700 p28   # May chart 別表第三 (Moji–Yulin): the テ04 track, two sinking marks, five ships sunk; survivors to (基隆), then Moji
   - jacar:C08030140700 p26   # May loss list: テ04(2), the five ships with GRT
   - combinedfleet:Daiyoku_t  # secondary: escorts, cargo
+route: [yulin, w-hainan, w-scse, w-strait, w-strait-n, w-nwtip, keelung, w-ntw, w-ecs, w-goto, w-genkai, moji]   # through reference/lanes/lanes.yml; assumed waypoints are drawn dotted
+voyage:                     # stops and known points, Tokyo time (I), each cited
+  - {at: 1944-04-30, place: yulin, event: sailed, words: leaves 楡林 with 6 ships, source: jacar:C08030140600 p33, basis: reported}
+ships:
+  - ship: Kinrei Maru
+    role: merchant
+    to: 1944-05-04
+    fate: sunk 1944-05-03/04 (BANG patrol 1 J11, J12)
+    source: jacar:C08030140700
+    page: p28
+    basis: reported
+    note: >-
+      Written 金嶺丸 among the five 沈没 (sunk) beside the テ04 track on the May chart 別表第三 (Moji–Yulin) of the 1st
+      Surface Escort Division diary; 5947 GRT in the same diary's May loss list (p26). Iron ore for Yawata per
+      combinedfleet (secondary); not in this record
+    sil: type-k-ore-carrier
+    sil_basis: representative
+  - ship: Shoryu Maru
+    role: merchant
+    to: 1944-05-04
+    fate: sunk 1944-05-03/04 (BANG patrol 1 J11, J15)
+    source: jacar:C08030140700
+    page: p28
+    basis: reported
+    note: >-
+      Written 昌竜丸 among the five 沈没 (sunk) beside the テ04 track on the May chart 別表第三 (Moji–Yulin) of the 1st
+      Surface Escort Division diary; 6475 GRT in the same diary's May loss list (p26). Iron ore for Yawata per
+      combinedfleet (secondary); not in this record
+    sil: type-k-ore-carrier
+    sil_basis: representative
+  - ship: Taiyoku Maru
+    role: merchant
+    to: 1944-05-04
+    fate: sunk 1944-05-03/04 (BANG patrol 1 J11, J15)
+    source: jacar:C08030140700
+    page: p28
+    basis: reported
+    note: >-
+      Written 大翼丸 among the five 沈没 (sunk) beside the テ04 track on the May chart 別表第三 (Moji–Yulin) of the 1st
+      Surface Escort Division diary; 5244 GRT in the same diary's May loss list (p26). Iron ore for Yawata per
+      combinedfleet (secondary); not in this record
+    sil: type-k-ore-carrier
+    sil_basis: representative
+  - ship: Toyohi Maru
+    role: merchant
+    to: 1944-05-04
+    fate: sunk 1944-05-03/04 (BANG patrol 1 J11, J13)
+    source: jacar:C08030140700
+    page: p28
+    basis: reported
+    note: >-
+      Written 豊日丸 among the five 沈没 (sunk) beside the テ04 track on the May chart 別表第三 (Moji–Yulin) of the 1st
+      Surface Escort Division diary; 6436 GRT in the same diary's May loss list (p26). Iron ore for Yawata per
+      combinedfleet (secondary); not in this record
+    sil: type-k-ore-carrier
+    sil_basis: representative
+  - ship: Daibu Maru
+    role: merchant
+    to: 1944-05-04
+    fate: sunk 1944-05-03/04 (BANG patrol 1 J11, J14)
+    source: jacar:C08030140700
+    page: p28
+    basis: reported
+    note: >-
+      Written 大武丸 among the five 沈没 (sunk) beside the テ04 track on the May chart 別表第三 (Moji–Yulin) of the 1st
+      Surface Escort Division diary; 6440 GRT in the same diary's May loss list (p26). Iron ore for Yawata per
+      combinedfleet (secondary); not in this record
+    sil: type-k-ore-carrier
+    sil_basis: representative
+  - ship: CD-1
+    role: escort
+    source: combinedfleet:Daiyoku_t
+    basis: secondary
+    note: >-
+      Named by combinedfleet. The April chart's escort cell for テ04 (jacar:C08030140600 p33) is cramped; its first
+      characters may read 海一 (CD-1), not read with confidence
+    sil: kaibokan1
+    sil_basis: class
+  - ship: Kazan Maru
+    role: escort
+    source: combinedfleet:Daiyoku_t
+    basis: secondary
+    note: Auxiliary gunboat. Named by combinedfleet only
+    sil: gunboat
+  - ship: Maeshima
+    role: escort
+    source: combinedfleet:Daiyoku_t
+    basis: secondary
+    note: Minelayer, joined 3 May. Named by combinedfleet only
+    sil: escort
 ---
 
 Yulin to Moji, leaving Yulin on 30 April 1944 with six ships (April chart). The May chart draws the northbound
@@ -26,3 +116,6 @@ hours of the 4th (engagement `luzon-strait-1944`, which weighs who sank which).
 
 **Cargo: iron ore for Yawata** per combinedfleet.com (secondary); not in the escort division's record. The escorts
 are combinedfleet's; the April chart's escort cell can't be read with confidence.
+
+The retired battle page listed a sixth ship, "Yulin", from combinedfleet.com; that is the port of departure, not a
+ship, and is left out. The sixth ship (the survivor) is not named in the record.

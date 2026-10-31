@@ -1,0 +1,23 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+- attack: Attack 3
+  record: J01
+  relation: hit
+  note: >-
+    Nitto Maru sunk at 0100 I, about 11 nm from SEAHORSE's position for her stern-tube attack at 2354 H (0054
+    I). Attacks 3 and 4 were a minute apart on the same convoy; the Japanese table records one ship sunk
+- attack: Attack 4
+  record: J01
+  relation: possible
+  note: >-
+    Same minute as Attack 3; the Japanese table has one ship sunk at 0100 I, so one of SEAHORSE's two claims
+    there has no matching loss
+- attack: Attack 5
+  record: J02
+  relation: hit
+  note: >-
+    Gyoyu Maru and No. 28 Kyodo Maru sunk at 1345 I, seven minutes after SEAHORSE's bow tubes (1237-45 H = 1337
+    I), about 8 nm from her position. SEAHORSE claimed a medium and a large passenger freighter
+- attack: Attack 6
+  record: J02
+  relation: hit
+  note: Stern tubes 45 seconds after Attack 5; the two ships sunk together in J02

@@ -6,13 +6,77 @@ to: Hong Kong (secondary)
 via: []
 sailed: ""
 arrived: ""
-ships: 4 (secondary)
+size: 4 (secondary)
 cargo: "anti-aircraft guns and ammunition in Gyoun Maru (secondary); the rest not recorded"
 attacked_by: [ss-304-seahorse/5, ss-385-bang/2]
 sources:
   - jacar:C08030032900 p27   # narrative: 第九一船団 attacked SW of Pratas on the 4th; escorts Kuri, Hatsukari
   - industrialhistoryhk:29957  # secondary: BAAG summary for Gyoun Maru; a reader's comment on TA-406 and No. 91
   - jacar:C08030032900 p28   # submarine table: Kuri's three reports (Nitto Maru; no damage; Gyoyu, No. 28 Kyodo)
+route: [takao, w-bashi, w-scse, w-s91, hong-kong]   # through reference/lanes/lanes.yml; assumed waypoints are drawn dotted
+ships:
+  - ship: Kuri
+    role: escort
+    source: jacar:C08030032900
+    page: p27
+    basis: reported
+    note: >-
+      Destroyer. Named as escort (護衛艦栗) of 第九一船団 on 4 July; sent the convoy's reports in the submarine table (p28)
+    sil: wakatake
+    sil_basis: class
+  - ship: Hatsukari
+    role: escort
+    source: jacar:C08030032900
+    page: p27
+    basis: reported
+    note: >-
+      Torpedo boat. Named as escort (初雁) of 第九一船団 on 4 July; at 1055 reported a periscope sighted and attacked,
+      oil brought up (p28)
+    sil: chidori
+    sil_basis: class
+  - ship: Nitto Maru
+    role: merchant
+    to: 1944-07-04
+    fate: sunk 1944-07-04 0100 I, 19-21N 115-50E (SEAHORSE patrol 5 J01)
+    source: jacar:C08030032900
+    page: p28
+    basis: inferred
+    note: >-
+      日東丸. In the convoy by inference: Kuri reported her sinking, and the narrative (p27) puts 第九一船団 under attack
+      that day
+    sil: cargo
+  - ship: Gyoyu Maru
+    role: merchant
+    to: 1944-07-04
+    fate: sunk 1944-07-04 1345 I, 20-18N 115-02E (SEAHORSE patrol 5 J02)
+    source: jacar:C08030032900
+    page: p28
+    basis: inferred
+    note: 暁勇丸. In the convoy by inference, as Nitto Maru
+    sil: cargo
+  - ship: No. 28 Kyodo Maru
+    role: merchant
+    to: 1944-07-04
+    fate: sunk 1944-07-04 1345 I, 20-18N 115-02E (SEAHORSE patrol 5 J02)
+    source: jacar:C08030032900
+    page: p28
+    basis: inferred
+    note: 第二八共同丸. In the convoy by inference, as Nitto Maru
+    sil: cargo
+  - ship: Gyoun Maru
+    role: merchant
+    to: 1944-07-05
+    cargo: anti-aircraft guns, ammunition
+    cargo_for: Hong Kong
+    source: industrialhistoryhk:29957
+    basis: secondary
+    note: >-
+      Also read Agekumo Maru; ex Ethel Moller, 912 GRT (the comment). The post summarises a BAAG report: arrived
+      Hong Kong from Shanghai via Formosa, inward cargo anti-aircraft guns and ammunition, discharged 21-22 July
+      to the Tsim Sha Tsui barracks; it dates the arrival 20 July. A reader's comment (P. Cundall, 4 Dec 2018, no
+      source cited) puts her in TA-406 Shanghai to Takao and then No. 91 Takao to Hong Kong with Nitto, Kyodo No.
+      28 and Gyoyu Maru, the only one of four to survive, arriving 5 July. Not yet in a Japanese record
+    sil: cargo
 ---
 
 Attacked southwest of Pratas Island (東沙島) on 4 July 1944; the diary estimated two or three submarines. SEAHORSE's
