@@ -1,0 +1,182 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# interval in seconds since the torpedo before ("10 sec." -> 10, "3 min. 16 sec." -> 196); a first torpedo's
+# interval typed "- - -" or "- -" stays a dash (--- or --). Gyro angles are typed in degrees and minutes
+# (359-20 = 359° 20'), kept as typed; check_attacks.py can't compute their tracks. hit and erratic as typed (HIT, MISS, NO).
+# power is typed as the torpedo's speed ("27.9 knots"). The Gun attacks have no sheets here: their words are the
+# notes on their `gun` rows in positions.csv.
+
+- attack: Attack 1
+  type_attack: >-
+    Night surface attack. Used radar ranges and bearings outside of 3,000 yards for tracking, and radar ranges and
+    TBT bearings inside of 3,000 yards. Fired two torpedoes from bow tubes using TBT bearings at mean torpedo run of
+    475 yards, gyros nearly zero, 90° port track. Casualty to gyro-setter caused second torpedo to leave tube with
+    about 30 degrees too much left gyro, causing this torpedo to miss.
+  description: >-
+    Large four-masted, full-rigged ship, measuring more than 200 feet in length. Unescorted. Contacted by radar at
+    21,000 yards. Dark, clear, moonless night, slightly hazy. Sea flat with slight ripples.
+  sunk: 1 SMC (EC) (Four-masted, full-rigged ship) - 1250 tons.
+  damaged: None.
+  determined_by: >-
+    Visual observation at about 300 yards. Saw one torpedo hit slightly abaft MOT, ship to break in two parts and
+    disappear except for tips of forecastle and poop. Ship sank as soon as hit.
+  target_line: >-
+    Target Draft:- 15 feet. Course:- 205°(T) Speed:- 2 knots. Range:- 560 yds. (at firing)
+  own_ship: >-
+    Speed:- 10 knots Course:- 290°(T) Depth:- (surface) Angle: None (at firing)
+  spread: 25' fwd MOT / 25' aft. MOT
+  sea: Flat sea with slight ripple.
+  overhaul: PEARL HARBOR
+  remarks: >-
+    TORPEDO BATTERY TEMP. - 55° F. SPEED REDUCTION USED FOR SHALLOW DEPTH.- 1.1 knots. TORPEDO #99504 left tube with
+    an unknown gyro, because at moment of firing the gyro regulator was slewing left as a result of the breakage of a
+    snap spring on the slewing relay. These torpedoes had a depth spring adjusting screw stop installed.
+  page: rg367-74847780/p29
+  table_page: rg367-74847780/p30
+  note: >-
+    The sheet's "Type Spread" gives each torpedo's aim, typed "25' fwd MOT" and "25' aft. MOT" (attacks.csv's
+    offset, 25'fwd and 25'aft). The contact range is 21,000 yards
+    here and 24,000 in the ship-contact table (p28). Tube 5's gyro is typed Unknown (remarks); the narrative (p15)
+    believes it went out with approximately 30° left gyro.
+
+- attack: Attack 2
+  type_attack: >-
+    Night surface attack using forward TBT for firing bearings. Target tracked by radar ranges and bearings outside of
+    3500 yards and by radar ranges and TBT bearings inside of 3500 yards. The night was clear but not dark; a second
+    quarter moon rose just as attack was made. Target did not appear to attempt evasion. SEE GUN ATTACK No. 2.
+  description: >-
+    Single four-masted sailing vessel, unescorted, measuring 125 feet by binoculars and radar. Ship was fore and aft
+    rigged and appeared to have about 10 or 12 feet of freeboard. Contact made by SJ radar at 10,400 yards.
+  sunk: None.
+  damaged: None
+  determined_by: Torpedo missed about 5 feet astern.
+  target_line: >-
+    Target Draft:- 12 feet. Course:- 140°(T) Speed:- 4.5 knots. Range:- 600 yds. (at firing).
+  own_ship: >-
+    Speed:- 9.5 knots Course:- 065°(T) Depth:- (surface) Angle:- None (at firing).
+  spread: None
+  sea: STATE 1
+  overhaul: PEARL HARBOR
+  remarks: >-
+    BATTERY TEMPERATURE - 60° F. THIS TORPEDO HAD A DEPTH SPRING ADJUSTING SCREW STOP INSTALLED. REDUCTION OF TORPEDO
+    SPEED OF 1.7 KNOTS WAS USED FOR 3 FEET DEPTH SETTING. THE ONLY EXPLANATION OF THE MISS IS THE ASSUMPTION THAT
+    TORPEDO HOOKED AS IT LEFT THE TUBE.
+  page: rg367-74847780/p31
+  table_page: rg367-74847780/p32
+  note: >-
+    The narrative (p16) types the run as 620 yards and the gyro as "nine right"; the sheet types range 600 yds at
+    firing and gyro 009.5. check_attacks.py computes a 114.5° starboard track from own course 065, gyro 009.5 and
+    target course 140, against the typed 100 S; all four values are clearly typed on p31-p32, and the narrative also
+    says 100° starboard track, gyro nine right. Kept as typed: the sheet does not say which value is off.
+
+- attack: Attack 3
+  type_attack: >-
+    Night surface attack on what was believed to be the tug of a tug - tow combination. "Tug" carried two bright white
+    lights, one high 16 - pt. light forward, and one low 32 - pt. light on her stern. Target was tracked by radar
+    ranges and TBT bearings. TBT bearings were used for firing bearings. Two torpedoes were fired from bow nest
+    initially; target turned toward attempting to ram as torpedoes left the tubes, submarine turned away and fired one
+    torpedo from stern nest down the throat. SEE GUN ATTACK No. 4.
+  description: >-
+    A submarine trap of two Whalekillers acting the part of tug and tow. Leading XPC was brightly lighted and trailing
+    XPC was darkened and keeping about 125 yards distance from the leader. Contact was made visually by sighting of
+    the lights; radar contact was made at 9550 yards. Night was clear and very dark, but not black; the darkened XPC
+    was sighted by binoculars at about 2500 yards.
+  sunk: None.
+  damaged: None
+  determined_by: Torpedoes missed - offensive maneuvers of target vessel.
+  target_line: >-
+    Target Draft:- 5 feet. Course:- 210°(T) Speed:- 5 knots. Range:- 600 yds. (at firing)
+  own_ship: >-
+    Speed:- 6 knots. Course:- 145°(T) Depth:- Surface. Angle:- None (at firing).
+  spread: None
+  sea: STATE 2 - Choppy but no swell.
+  overhaul: PEARL HARBOR
+  remarks: >-
+    BATTERY TEMP. - 60° F. SPEED REDUCTION OF 1.7 knots USED FOR RUNNING DEPTH OF 3 FEET. DEPTH SPRING ADJUSTING SCREW
+    STOP WAS INSTALLED ON THESE TORPEDOES. AT LEAST ONE TORPEDO MADE A SURFACE RUN.
+  page: rg367-74847780/p33
+  table_page: rg367-74847780/p34
+  note: >-
+    The own-ship and target data are typed once, for the first two torpedoes. Tube 10 was fired 3 min. 16 sec. later,
+    after the target turned to ram and the submarine turned away (narrative p20: brought him bearing 180° relative,
+    slowed to 10 knots, range 580 yards); its row repeats the typed values, which are not its own. The narrative (p19)
+    types the bow torpedoes' track as 90° starboard; the sheet types 100 S.
+
+- attack: Attack 4
+  type_attack: >-
+    Night surface attack in a heavy fog; target could not be seen at 700 yards. Target was tracked by radar ranges and
+    bearings and radar bearings were used for firing bearings. All torpedoes were fired at MOT on account of the
+    inaccuracy of radar bearings on a big ship at short range. Results were excellent and gratifying.
+  description: >-
+    Single ship with two escorts, one large and one small. Contact was made by SJ radar in a heavy fog; visibility
+    about 500 yds. Target not sighted. Type and size arrived at as follows:- For:- (1) Planes of FAIRWING TWO had
+    reported several transports and freighters were headed for narrow part of YELLOW SEA ostensibly to cross there.
+    This group was one of these. (2) The three torpedo hits spread far apart in deflection. Only a large ship could
+    have covered so much deflection. (3) Ship had two escorts. A large freighter-transport seen the day before had
+    had only one escort. It would seem logical to give a transport more protection. (4) Submarine was trying to
+    alert another U.S. Submarine by SJ radar and had not made a sweep for 5 minutes at time contact was made.
+    Contact was made at 13,800 yards and lobe-switching was possible at once. (5) Submarine's SJ radar had been out
+    of commission for five hours before the contact was made. Radar Officer reported that radar was operating below
+    peak efficiency. Contact would have been made at a greater range if set had been up to par. (6) The night was
+    one of bad radar conditions. Heavy fog, very damp. Radar performance would have been below normal even if set
+    had been operating properly. (7) Ship took longer to sink with three well spaced hits than did a medium AK with
+    two close - together hits on previous patrol. (8) We like to think that ship was a large transport loaded with
+    Japs. Against:- (1) Ship was not actually seen. (2) Escorts did not stop to search for survivors. (However, in
+    view of rapidity with which ship sank and low visibility it is doubtful that there were any survivors. Perhaps
+    escorts realized this).
+  sunk: One (1) Large AP (EU) - 10,000 tons.
+  damaged: None.
+  determined_by: >-
+    Saw, felt, and heard three torpedo hits. Ship disappeared from radar scope in three minutes time at a range of
+    2,000 yards.
+  target_line: >-
+    Target Draft:- 25 Feet. Course:- 205°(T) Speed:- 8 knots Range:- 660 yds. (at firing)
+  own_ship: >-
+    Speed:- 9 knots. Course:- 105°(T) Depth:- Surface Angle:- None (at firing).
+  spread: None
+  sea: State 4.
+  overhaul: PEARL HARBOR.
+  remarks: >-
+    BATTERY TEMP. 60° F. REDUCTION OF 1.1 KNOTS IN TORPEDO SPEED WAS USED FOR 6 FEET DEPTH SETTING. DEPTH SPRING
+    ADJUSTING SCREW STOPS WERE INSTALLED ON THESE TORPEDOES.
+  page: rg367-74847780/p35
+  table_page: rg367-74847780/p37
+  note: >-
+    The sheet's first page (p35) is the description; the damage, target and own-ship data and type attack follow on
+    p36. Gyros typed 001°, 005°, 008°-40', 014-40' (degrees and minutes; attacks.csv 001, 005, 008-40, 014-40).
+    check_attacks.py computes an 81° starboard track for tube 6 (own 105 + gyro 001 against target 205) where the
+    sheet types 97 S, and 85° for tube 5 against 95 S; own course 105, target course 205 and the gyros are clearly
+    typed (p36, p37). The narrative (p24) gives gyro angles about 5° right, 95° starboard track, runs 600 yards, and
+    three terrific hits about forty seconds after firing. Kept as typed.
+
+- attack: Attack 5
+  type_attack: >-
+    Night surface attack in a heavy fog. Target was tracked by radar ranges and bearings for more than an hour prior
+    to attack. He varied speed from 6 to 8 knots and stopped occasionally probably to listen. Fired all torpedoes at
+    MOT using radar firing bearings, trusting the variation of bearing to provide a spread. Depth setting of 5 feet
+    was used because there was a moderate swell of about 4 feet running. Plotted three torpedoes running under
+    target. Target took drastic evasive tactics after torpedoes passed him.
+  description: >-
+    Target was one of two escorts for the transport sunk in TORPEDO ATTACK No. 4. Target was not sighted because of a
+    heavy fog. Contact was made by radar at 10,000 yards. Ship believed to have been equipped with an inefficient
+    radar.
+  sunk: None.
+  damaged: None.
+  determined_by: Torpedoes missed.
+  target_line: >-
+    Target Draft:- 6 feet. Course:- 230°(T) Speed:- 6 knots. Range:- 1500 yds. (at firing)
+  own_ship: >-
+    Speed:- 5 knots Course:- 120°(T) Depth:- Surface. Angle:- None (at firing)
+  spread: None
+  sea: State 4
+  overhaul: PEARL HARBOR
+  remarks: >-
+    BATTERY TEMP. 60° F. REDUCTION OF 1.3 KNOTS IN TORPEDO SPEED WAS USED FOR 5 FEET DEPTH SETTINGS. DEPTH SPRING
+    ADJUSTING SCREW STOPS WERE INSTALLED ON THESE TORPEDOS.
+  page: rg367-74847780/p38
+  table_page: rg367-74847780/p39
+  note: >-
+    The narrative (p24) types track angles 70° starboard, gyro angles 10° left and torpedo runs 1250 yards; the sheet
+    types 60 S, gyros 348°-30 to 350° and range 1500 yds at firing. Kept as typed.

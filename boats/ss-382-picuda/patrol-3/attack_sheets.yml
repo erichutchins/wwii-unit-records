@@ -1,0 +1,128 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# interval in seconds since the torpedo before (typed "9 sec." etc.; the first is typed "-"); depth_set as typed (3');
+# power typed "-"; track as typed with its side (120 S -> 120S). The sheets type no zone, so `zone` is blank (positions.csv's attack rows have H, the narrative's).
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  heading: Torpedo Attack No. 1 (EC)
+  type_attack: >-
+    Periscope attack - Fired 4 torpedoes at one AK and 2 at another AK. One torpedo hit out of the 2 torpedo
+    salvo spread.
+  description: >-
+    Targets were medium AKs in 10 ship Convoy. The Convoy was screened by at least five escorts. Initial contact
+    was periscope sighting of smoke. Visibility was 18 miles.
+  sunk: One medium freighter.
+  damaged: None.
+  determined_by: >-
+    Heard one timed hit 2 minutes after firing and sighted wreckage, and survivors on return to periscope depth
+    40 minutes after attack.
+  target_line: "Target Draft: 15' Course: 280 Speed: 8 kts. Range: 2000"
+  own_ship: "Speed: 3.5 Course: 207.5 Depth: 66' Angle: 1° D."
+  spread: Divergent by periscope bearings.
+  sea: ENE - State 2.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: Heard one end of run explosion.
+  page: rg367-74830834/p28
+  table_page: rg367-74830834/p29
+  note: >-
+    The sheet types one range (2000), kept for tubes 1-4, the four fired at the first AK; tubes 5 and 6 at the
+    second AK have no range typed (left blank). Their tracks (105 S, 100 S) fit the same target course. The
+    narrative (p08) fires at 0920; the sheet types 0919.
+
+- attack: Attack 2
+  heading: Torpedo Attack No. 2 (EC)
+  type_attack: Periscope attack, down-the-throat shot, firing on continuous periscope bearings.
+  description: >-
+    Target was 1500 ton Escort Gunboat, PG(E) - 1 as described in CIC SO PAC Information Bulletin on Japanese
+    Small Escort Vessels of May 1944, conducting anti-submarine search. Initial contact was periscope sighting of
+    smoke. Visibility was 12 miles.
+  sunk: None.
+  damaged: None.
+  determined_by: "-"
+  target_line: "Target Draft: 5' Course: 280 Speed: 8.7 Range: 1050"
+  own_ship: "Speed: 2.4 Course: 095 Depth: 66½' Angle: 1½° D."
+  spread: Divergent periscope bearings.
+  sea: ENE - State 2.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: None.
+  page: rg367-74830834/p30
+  table_page: rg367-74830834/p31
+  note: >-
+    The narrative (p08) begins the approach at 1539 at 18-43-00 N, 120-44-00 E and fires at 1300 yards with a 0°
+    angle on the bow, relative bearing 352, three torpedoes set for 2 feet; the sheet types 1608, 18-45 N and
+    range 1050. Kept as typed; depth 66½ written 66.5.
+
+- attack: Attack 3
+  heading: Torpedo Attack No. 3(EC)
+  type_attack: >-
+    Periscope attack using divided fire on three different targets. Four torpedoes were fired at the leading
+    ship in the far column (for 3 hits), one was fired at the third ship in the near column, and one was fired
+    "down-the-throat" at the second ship in the near column, which had turned toward the periscope.
+  footnotes: >-
+    * Course of third target was 247 T. ** Range of second target was 2170 yards. Range of third target was 610
+    yards. *** Own ship course for fifth torpedo was 060 T. Own ship course for sixth torpedo was 068 T.
+  description: >-
+    A Convoy consisting of eight merchantmen and escorted by at least two destroyers, one Chidori type torpedo
+    boat, two "Nell" type bomber aircraft, and one "Rufe" type float plane was sighted by periscope. Echo ranging
+    was heard shortly after the sight contact. The ships were steaming in two loose columns with one destroyer on
+    either bow and the Chidori patrolling on the port beam.
+  sunk: Three medium AKs.
+  damaged: None.
+  determined_by: >-
+    Five definite torpedo hits were heard throughout the ship. Shortly after the torpedo hits heavy prolonged
+    rumbling explosions occured which were internal in the torpedoed ships. ... When the PICUDA levelled off at
+    400 feet, loud breaking-up noises were heard and checked on three different true bearings of the torpedoed
+    ships. While surface patrolling the following day several pounds of some sort of metal ore was found in the
+    bridge superstructure and on the maindeck, thrown there by one of the sinking ships.
+  target_line: "Target Draft: 15' Course: 310 * Speed: 7.5 Range: 2800 **"
+  own_ship: "Speed: 3.5 Course: 044 *** Depth: 66' Angle: 1° D."
+  spread: Divergent by periscope bearings.
+  sea: E State 2.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: None.
+  page: rg367-74830834/p32
+  table_page: rg367-74830834/p33
+  note: >-
+    Assumed from the footnotes: the "second target" is tube 5's (range 2170, own course 060) and the "third
+    target" tube 6's (course 247, range 610, own course 068), the order of firing; the tracks typed (48 P, 10 S)
+    fit that reading. Tube 6's target speed is not typed separately (7.5 kept). The narrative (p12) gives the
+    down-the-throat range as 800 yards and the position as 21-17-30 N, 121-29-00 E. The sheet's interval for tube 5
+    is typed "1 Min. 43 Sec." (103). The table types four Hits on tubes 2-5 and one on tube 6, five in all, as the
+    damage line says; the type-attack line says the four at the first target made 3 hits. check_attacks.py
+    computes tube 6's track as 6 S from own course 068, gyro 005 and target course 247, against 10 S typed (clear on
+    the scan); kept as typed.
+
+- attack: Attack 4
+  heading: Torpedo Attack No. 4 (EC)
+  type_attack: >-
+    Periscope attack using divided fire. The first four torpedoes were fired at a medium freighter, the last two
+    at a large transport. Continuous firing bearings were used.
+  footnotes: "* Range on second target was 3160 yards."
+  description: >-
+    A Convoy previously determined to consist of two Transports, three medium freighters, one small oiler and six
+    escorts with air coverage, was picked up by radar shortly before dawn. When the ships were seen by periscope
+    they were on a southerly course closing the coast of LUZON. When about one or two miles off the beach they came
+    around to West again and resumed zig-zagging. Visibility was poor throughout the approach; overcast sky, seas,
+    and aircraft all hindering observations.
+  sunk: One medium freighter.
+  damaged: One large transport.
+  determined_by: >-
+    Heard four definite torpedo hits. Explosion times and intervals indicated two hits in the freighter and two in
+    the transport. Loud breaking-up noises were heard through the hull in all parts of the ship and sound bearings
+    indicated the target to be the T.D.C. generated bearings of the AK. Damage verified by REDFISH, who attacked
+    same Convoy 1½ hours later, and reported 4 ships in Convoy at the time of attack, followed later by one two
+    stack AP under forced draft.
+  target_line: "Target Draft: 15' Course: 264.5 T. Speed: 6.7 Range: 2750 *"
+  own_ship: "Speed: 3.0 Course: 153T. Depth: 65' Angle: 2o D."
+  spread: Divergent by periscope bearings.
+  sea: NE State 3
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: None.
+  page: rg367-74830834/p34
+  table_page: rg367-74830834/p35
+  note: >-
+    Tubes 5 and 6 at the transport carry the footnote's range (3160). Tube 2's track is typed 54½ S (54.5S). The
+    narrative (p14) fires at 0600; the sheet types 0559.

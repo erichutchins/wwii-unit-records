@@ -77,9 +77,26 @@ boats:
       1: { status: available, nara: [74847624, 78657136], note: "Aug - Oct 1944 (78657136 is the war diaries' copy)" }
       2: { status: available, nara: [74847670, 139830869], note: "Nov 1944 - Jan 1945 (139830869 is the war diaries' copy)" }
       3: { status: available, nara: [74847730], note: "Feb - Mar 1945" }
-      4: { status: transcribed, nara: [74847780, 101729538], first_fix: 1945-04-26, last_fix: 1945-06-02, files: [positions], note: "26 Apr 1945 from Pearl, with JACK and MUSKALLUNGE; the Yellow Sea. In part: the narrative to 3 Jun 0040 (p03-p15) and Torpedo Attack 1 (31 May, the sheet's position line, p29). Resume at the narrative from p15 (Torpedo Attack 2), the ship contacts (p28) and the attack sheets (p29-p43). 101729538 is the war diaries' copy" }
+      4: { status: mapped, nara: [74847780, 101729538], first_fix: 1945-04-26, last_fix: 1945-06-21, files: [positions, attacks], note: "26 Apr - 21 Jun 1945: Pearl, Saipan (with JACK and BANG), the Yellow Sea, Midway. Transcribed in full (p03-p43): the narrative, the ship contacts (p28), torpedo attacks 1-5 (14 torpedoes) and gun attacks 1-4 (positions from their sheets, p40-p43). 101729538 is the war diaries' copy" }
       5: { status: available, nara: [74847838, 77493414], note: "Aug - Sep 1945 (77493414 is the war diaries' copy)" }
-  SS-259: { name: JACK, note: "with BANG at Saipan, 8-9 May 1945, outbound on patrol with SEGUNDO (SEGUNDO's report, rg367-74847780/p04-p05)", patrols: { 8: { status: available, nara: [74824944, 101707347], note: "74824944 is \"USS Jack, October 1944 - June 1945\" (65 pp), not yet read to confirm which patrols it holds; 101707347 is the war diaries' \"Report of Eighth War Patrol\" (27 pp), the likely match for the patrol from Pearl on 26 Apr 1945. Seventh: 139817652; ninth: 83570235 and folder 74825010 (Jul - Aug 1945)" } } }
+  SS-259:   # JACK, Gato class
+    folder: boats/ss-259-jack
+    note: "with BANG at Saipan, 8-9 May 1945, outbound on patrol with SEGUNDO: her report has BANG at the rendezvous at 0620(K) on 8 May and parting company at 2030(K) on 9 May (SEGUNDO's: 0530 and 2120)"
+    patrols:
+      7: { status: available, nara: [74824944, 139817652], note: "74824944 p01-p38 (from the contact sheet: pages headed No. 7, endorsements of December 1944), Oct - Dec 1944; 139817652 is the war diaries' copy" }
+      8: { status: mapped, nara: [74824944, 101707347], first_fix: 1945-04-26, last_fix: 1945-06-18, files: [positions], note: "74824944 p39-p65 (p40 prologue, p42-p54 narrative, p55 contacts; attack data: \"None.\"). Pearl to Saipan with SEGUNDO and MUSKALLUNGE, lifeguard off Nagoya and Bungo Suido, to Guam. p56-p62 not read; 101707347 (the war diaries' copy) not read: it may settle the faint digits of 6 Jun and contact 2" }
+      9: { status: available, nara: [74825010, 83570235], note: "Jul - Aug 1945; 83570235 is the war diaries' copy" }
+  # BANG's contemporaries, from COMSUBPAC's dispositions (lead L75 in the family repository)
+  SS-382:   # PICUDA, Balao class
+    folder: boats/ss-382-picuda
+    note: "coordinated attack group 17.12 with REDFISH and SPADEFISH (15 Sep 1944, rg38-134364392/p12); 17.21 with QUEENFISH and BARB (15 Nov 1944, rg38-78697620/p11). Patrol numbers 1-2 and 4-6 from the folders' date order"
+    patrols:
+      1: { status: available, nara: [74830726, 78407778], note: "Feb - Apr 1944 (78407778 is the war diaries' copy)" }
+      2: { status: available, nara: [74830781, 78526662], note: "May - Jun 1944 (78526662 is the war diaries' copy)" }
+      3: { status: mapped, nara: [74830834, 139759034], first_fix: 1944-07-31, last_fix: 1944-10-03, files: [positions, attacks], note: "23 Jul - 3 Oct 1944, Luzon Strait with REDFISH and SPADEFISH; no position table: positions from the narrative (p01-p16) and the four attack sheets (p28-p35). The contact tables (p18-p27) not read. 139759034 is the war diaries' copy" }
+      4: { status: available, nara: [74830887, 139783444], note: "Oct - Dec 1944, with QUEENFISH and BARB (139783444 is the war diaries' copy)" }
+      5: { status: available, nara: [74830928], note: "Jan - Feb 1945" }
+      6: { status: available, nara: [74830971, 633441992], note: "Mar - May 1945 (633441992 is the war diaries' copy)" }
 
 ships:
   DD-700:   # USS Haynsworth

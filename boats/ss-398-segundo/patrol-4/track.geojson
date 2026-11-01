@@ -7,7 +7,7 @@
     "kind": "track",
     "patrol": 4,
     "start": "1945-04-26T23:00Z",
-    "end": "1945-06-02T03:00Z"
+    "end": "1945-06-21T21:30Z"
    },
    "geometry": {
     "type": "LineString",
@@ -121,6 +121,10 @@
       36.9667
      ],
      [
+      125.4,
+      37.1333
+     ],
+     [
       124.8,
       36.2667
      ],
@@ -139,6 +143,94 @@
      [
       125.6667,
       36.5
+     ],
+     [
+      125.3833,
+      36.6833
+     ],
+     [
+      125.4167,
+      36.6833
+     ],
+     [
+      125.05,
+      37.15
+     ],
+     [
+      124.3333,
+      37.5167
+     ],
+     [
+      124.5667,
+      37.5833
+     ],
+     [
+      124.9,
+      36.9833
+     ],
+     [
+      124.0333,
+      37.7
+     ],
+     [
+      123.9,
+      38.0833
+     ],
+     [
+      123.3667,
+      38.9833
+     ],
+     [
+      123.0833,
+      39.1167
+     ],
+     [
+      123.1667,
+      39.1333
+     ],
+     [
+      123.25,
+      37.85
+     ],
+     [
+      124.0333,
+      37.8
+     ],
+     [
+      123.3833,
+      37.1833
+     ],
+     [
+      123.3167,
+      37.1333
+     ],
+     [
+      124.2667,
+      36.0833
+     ],
+     [
+      126.0,
+      32.5167
+     ],
+     [
+      129.1333,
+      30.0167
+     ],
+     [
+      133.5167,
+      29.2
+     ],
+     [
+      140.2167,
+      29.45
+     ],
+     [
+      146.35,
+      29.3333
+     ],
+     [
+      -177.3667,
+      28.2
      ]
     ]
    }
@@ -583,6 +675,29 @@
   {
    "type": "Feature",
    "properties": {
+    "kind": "ship",
+    "ref": "Ship Contact 1",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1945-05-21T08:22Z",
+    "lat_raw": "25-20N",
+    "lon_raw": "123-57E",
+    "local": "1945-05-21 1722(I)",
+    "page": "rg367-74847780/p28",
+    "note": "Contact table: 5 Chinese Junks, 14,000 yds, 225 T 2 knots, periscope (surf); boarded and searched one. Latitude typed 25-20 N (checked on the scan); the noon position that day is 34-40N 123-35E (p09), so 25 is likely a typing slip for 35: kept as typed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.95,
+     25.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "kind": "narrative",
     "ref": "assigned station",
     "patrol": 4,
@@ -776,7 +891,7 @@
     "lon_raw": "125-22E",
     "local": "1945-05-29 1200(I)",
     "page": "rg367-74847780/p12",
-    "note": "Patrolling between MOKUTOKU TO and KAKUREPPI RETTO. 1301 Ship Contact No. 2 - Gun Attack No. 1: about sixty schooners; 1349-1600 sank or destroyed seven bearing Japanese markings (p12-p13; no position typed for the attack)",
+    "note": "Patrolling between MOKUTOKU TO and KAKUREPPI RETTO. 1301 Ship Contact No. 2 - Gun Attack No. 1: about sixty schooners; 1349-1600 sank or destroyed seven bearing Japanese markings (p12-p13; the attack's position is on its gun attack sheet, p40)",
     "fix": ""
    },
    "geometry": {
@@ -784,6 +899,52 @@
     "coordinates": [
      125.3667,
      36.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship Contact 2",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1945-05-29T04:01Z",
+    "lat_raw": "37-08N",
+    "lon_raw": "125-24E",
+    "local": "1945-05-29 1301(I)",
+    "page": "rg367-74847780/p28",
+    "note": "Contact table: 60-odd two-masted Schooners, 12,000, 135 T 3 knots, periscope (sub); GUN ATTACK No. 1, est. 100 tons each",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.4,
+     37.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "gun",
+    "ref": "Gun Attack 1",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-05-29T04:49Z",
+    "lat_raw": "37-08N",
+    "lon_raw": "125-24E",
+    "local": "1945-05-29 1349(I)",
+    "page": "rg367-74847780/p40",
+    "note": "Gun attack sheet: time 1349 to 1606(I); sunk (or destroyed) 7 MIS (EC) (identical two-masted schooners) - 700 tons; four sank, three floated barely awash; ranges 150 to 300 yards; warning shots fired in each case to allow crews to abandon ship; all targets bore Japanese colors; two schooners returned fire with pistols or rifles. Ammunition 5in. 27, 40 MM 294, 20 MM 180, .50 cal. 720 rds.",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.4,
+     37.1333
     ]
    }
   },
@@ -836,8 +997,31 @@
   {
    "type": "Feature",
    "properties": {
+    "kind": "ship",
+    "ref": "Ship Contact 3",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1945-05-31T12:50Z",
+    "lat_raw": "36-37N",
+    "lon_raw": "125-30E",
+    "local": "1945-05-31 2150(I)",
+    "page": "rg367-74847780/p28",
+    "note": "Contact table: 1 large four masted, full-rigged ship, 24,000, 205 T 2 - 3.5 knots, radar; TORPEDO ATTACK No. 1, est. 1250 tons",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.5,
+     36.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "kind": "attack",
-    "ref": "Torpedo Attack 1",
+    "ref": "Attack 1",
     "patrol": 4,
     "on_track": true,
     "utc": "1945-05-31T13:53Z",
@@ -899,6 +1083,627 @@
     "coordinates": [
      125.6667,
      36.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship Contact 4",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1945-06-02T15:40Z",
+    "lat_raw": "36-41N",
+    "lon_raw": "125-23E",
+    "local": "1945-06-03 0040(I)",
+    "page": "rg367-74847780/p28",
+    "note": "Contact table: lg. four masted sailing vessel, 10,400, 140 T 4.5 knots, radar; TORPEDO ATTACK No. 2, GUN ATTACK No. 2, est. 600 tons",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.3833,
+     36.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-02T16:30Z",
+    "lat_raw": "36-41N",
+    "lon_raw": "125-23E",
+    "local": "1945-06-03 0130(I)",
+    "page": "rg367-74847780/p31",
+    "note": "Attack sheet: single four-masted sailing vessel, unescorted, 125 feet, SJ contact 10,400 yards. Narrative (p15-p16): 0040 Ship Contact No. 4; tracked on course 140 T, speed 4.5 knots; 0130 fired one torpedo, 100 starboard track, gyro nine right, run 620 yards; missed about 5 feet astern",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.3833,
+     36.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "gun",
+    "ref": "Gun Attack 2",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-02T16:44Z",
+    "lat_raw": "36-41N",
+    "lon_raw": "125-25E",
+    "local": "1945-06-03 0144(I)",
+    "page": "rg367-74847780/p41",
+    "note": "Gun attack sheet: sunk one (1) SMC (EC) (four-masted sailing vessel) - 600 tons; fire opened at 500 yards with 5in./25 cal. deck gun and two 40 MM singles; average range 300 yards; target awash, all but one mast down; followed Torpedo Attack No. 2. Ammunition 5in. 23 rds., 40 MM 145 rds. Narrative (p16): 0153 after five hits from the five inch the stern settled",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.4167,
+     36.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-03T03:00Z",
+    "lat_raw": "37-09N",
+    "lon_raw": "125-03E",
+    "local": "1945-06-03 1200(I)",
+    "page": "rg367-74847780/p16",
+    "note": "0215 SJ contact 115 T, 34,000 yards, between MOKUTOKU TO and KOKU TO; closed thirty minutes; contact report sent; 0456 dove in assigned area",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.05,
+     37.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-04T03:00Z",
+    "lat_raw": "37-31N",
+    "lon_raw": "124-20E",
+    "local": "1945-06-04 1200(I)",
+    "page": "rg367-74847780/p17",
+    "note": "0446 dove for submerged patrol south of the DAISEI GUNTO",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.3333,
+     37.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-05T03:00Z",
+    "lat_raw": "37-35N",
+    "lon_raw": "124-34E",
+    "local": "1945-06-05 1200(I)",
+    "page": "rg367-74847780/p17",
+    "note": "RAY and BILLFISH departing area; 0447 dove close to SHOSEI TO of the DAISEI GUNTO; 2150 exchanged calls with BILLFISH by SJ radar",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.5667,
+     37.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-06T03:00Z",
+    "lat_raw": "36-59N",
+    "lon_raw": "124-54E",
+    "local": "1945-06-06 1200(I)",
+    "page": "rg367-74847780/p17",
+    "note": "0400 reached MOKUTOKU TO and changed course to west. 1824 one JILL out of the sun; quick dive; 1831 and 1834 two close bombs at 100 feet (p18)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.9,
+     36.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship Contact 5",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1945-06-06T18:37Z",
+    "lat_raw": "37-44N",
+    "lon_raw": "124-03E",
+    "local": "1945-06-07 0337(I)",
+    "page": "rg367-74847780/p28",
+    "note": "Contact table: lg. four masted sailing vessel, 9,050, 260 T 3 knots, radar; GUN ATTACK No. 3, est. 600 tons, similar to ship contact No. 4",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.05,
+     37.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "gun",
+    "ref": "Gun Attack 3",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-06T19:37Z",
+    "lat_raw": "37-42N",
+    "lon_raw": "124-02E",
+    "local": "1945-06-07 0437(I)",
+    "page": "rg367-74847780/p42",
+    "note": "Gun attack sheet: sunk one (1) SMC (EC) (large four-masted sailing vessel) - 600 tons; fast pass at 500 yards with two 40 MM, one 20 MM, two .50 cal., then destroyed with the 5 inch at point blank range as day was breaking. Ammunition 5in. 17, 40 MM 68, 20 MM 180, .50 cal. 390 rds. Narrative (p18): 0337 Ship Contact No. 5; two of the vessel's crew abandoned ship",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.0333,
+     37.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-07T03:00Z",
+    "lat_raw": "38-05N",
+    "lon_raw": "123-54E",
+    "local": "1945-06-07 1200(I)",
+    "page": "rg367-74847780/p18",
+    "note": "0002 set course north for patrol off CHO TO. 0337 Ship Contact No. 5 - Gun Attack No. 3 (p18). 0545 dove; decided to proceed toward PORT ARTHUR instead of CHO TO",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9,
+     38.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-08T03:00Z",
+    "lat_raw": "38-59N",
+    "lon_raw": "123-22E",
+    "local": "1945-06-08 1200(I)",
+    "page": "rg367-74847780/p19",
+    "note": "0444 dove for patrol to eastward of KAIYO TO, guarding eastern end of GAICHOSAN SUIDO; 2032 surfaced and commenced transit of GAICHOSAN SUIDO toward DAIREN; 2137 Ship Contact No. 6 - Torpedo Attack No. 3 - Gun Attack No. 4",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.3667,
+     38.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship Contact 6",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1945-06-08T12:37Z",
+    "lat_raw": "39-12N",
+    "lon_raw": "123-13E",
+    "local": "1945-06-08 2137(I)",
+    "page": "rg367-74847780/p28",
+    "note": "Contact table: 2 XPCs, range ?, 210 T 5 knots, binoc.; TORPEDO ATTACK No. 3, GUN ATTACK No. 4; whale-killer type armed patrol boats, steam-powered; radar contact at 9550 yards",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.2167,
+     39.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 3",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-08T14:01Z",
+    "lat_raw": "39-07N",
+    "lon_raw": "123-05E",
+    "local": "1945-06-08 2301(I)",
+    "page": "rg367-74847780/p33",
+    "note": "Attack sheet: a submarine trap of two Whalekillers acting the part of tug and tow; radar contact 9550 yards. Narrative (p19-p20): 2137 Ship Contact No. 6; 2301 fired two torpedoes from bow tubes on a 90 starboard track, range about 600 yards; the tug turned to ram and missed our stern by about 100 yards; one torpedo from the stern nest down the throat at 580 yards; all missed; about two miles off KAIYO TO",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.0833,
+     39.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "gun",
+    "ref": "Gun Attack 4",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-08T15:22Z",
+    "lat_raw": "39-08N",
+    "lon_raw": "123-10E",
+    "local": "1945-06-09 0022(I)",
+    "page": "rg367-74847780/p43",
+    "note": "Gun attack sheet: sunk 2 XPC (EC) (whalekiller type - 300 tons each) - 600 tons; night action with all guns; both whalekillers returned fire with what looked like 37 MMs; the trailer attempted to ram; the 20 MM set his pilot house on fire at about 75 yards and a 5 inch hit blew it away; both vessels seen to sink. Ammunition 5in. 12, 40 MM 88, 20 MM 300, .50 cal. 1040 rds. Narrative p20-p21",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.1667,
+     39.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship Contact 7",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1945-06-08T23:47Z",
+    "lat_raw": "37-48N",
+    "lon_raw": "124-08E",
+    "local": "1945-06-09 0847(I)",
+    "page": "rg367-74847780/p28",
+    "note": "Contact table: 1 AK - AP, 1 DD, 24,000, 275 T 11 knots, periscope (no attack: both ships got by the range of the Mk. 18 torpedo, p21)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.1333,
+     37.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-09T03:00Z",
+    "lat_raw": "37-51N",
+    "lon_raw": "123-15E",
+    "local": "1945-06-09 1200(I)",
+    "page": "rg367-74847780/p21",
+    "note": "0040 set course for the DAISEI GUNTO at full speed; 0541 dove west of the DAISEI GUNTO; 0847 Ship Contact No. 7 (smoke and two masts bearing 159 T); 0949 surfaced and commenced end around; 1218 dove on track; 1340 target at 7,000 yards, beyond the range of the Mk. 18 torpedo; approach about 20 miles NNE of SHANTUNG PROMONTORY (p22)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.25,
+     37.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-10T03:00Z",
+    "lat_raw": "37-48N",
+    "lon_raw": "124-02E",
+    "local": "1945-06-10 1200(I)",
+    "page": "rg367-74847780/p22",
+    "note": "0556 dove for submerged patrol west of the DAISEI GUNTO. 2235 Ship Contact No. 8 - Torpedo Attacks Nos. 4 and 5 (p23); 2245 heard one explosion, RONQUIL attacking this group or one close to it",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.0333,
+     37.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship Contact 8",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1945-06-10T13:35Z",
+    "lat_raw": "37-12N",
+    "lon_raw": "123-23E",
+    "local": "1945-06-10 2235(I)",
+    "page": "rg367-74847780/p28",
+    "note": "Contact table: 1 AP, 1 DE, 1 PC, 13,800, 240 T c/c to 190 T, 6 - 10 knots, radar; TORPEDO ATTACKS Nos. 4 and 5",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.3833,
+     37.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 4",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-10T15:32Z",
+    "lat_raw": "37-11N",
+    "lon_raw": "123-23E",
+    "local": "1945-06-11 0032(I)",
+    "page": "rg367-74847780/p35",
+    "note": "Attack sheet: single ship with two escorts, one large and one small; SJ contact in heavy fog, visibility about 500 yds; target not sighted; sunk one (1) large AP (EU) 10,000 tons. Narrative (p24): 0032 fired tubes 6 5 4 3, gyro angles about 5 right, 95 starboard track, runs 600 yards; three hits; target disappeared from the radar scope three minutes after being hit",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.3833,
+     37.1833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 5",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-10T16:40Z",
+    "lat_raw": "37-08N",
+    "lon_raw": "123-19E",
+    "local": "1945-06-11 0140(I)",
+    "page": "rg367-74847780/p38",
+    "note": "Attack sheet: target was one of two escorts for the transport sunk in Torpedo Attack No. 4; not sighted, heavy fog; radar contact 10,000 yards; torpedoes missed. Narrative (p24): 0140 fired tubes 4 3 2 1, gyro angles 10 left, track angles 70 starboard, runs 1250 yards; all missed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.3167,
+     37.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-11T03:00Z",
+    "lat_raw": "36-05N",
+    "lon_raw": "124-16E",
+    "local": "1945-06-11 1200(I)",
+    "page": "rg367-74847780/p25",
+    "note": "0226 sent attack report; 0500 set course south to clear area; 1245 ST contact 047 T 3000 yards, probably RONQUIL; 2332 dispatch from PADDLE requesting transport of a case of fungus infection to base",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.2667,
+     36.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-12T03:00Z",
+    "lat_raw": "32-31N",
+    "lon_raw": "126-00E",
+    "local": "1945-06-12 1200(I)",
+    "page": "rg367-74847780/p25",
+    "note": "0528 rendezvous with PADDLE; took one man on board by rubber boat in dense fog. 0927 floating mine, not sunk with .50 cal.; periphery of a typhoon. 2049 orders from ComSubPac to proceed to MIDWAY for refit",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.0,
+     32.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-13T03:00Z",
+    "lat_raw": "30-01N",
+    "lon_raw": "129-08E",
+    "local": "1945-06-13 1200(I)",
+    "page": "rg367-74847780/p26",
+    "note": "1141 sighted GAJA SHIMA; 1913 headed for passage of NANSEI SHOTO south of AKUSEKI JIMA; 2230 cleared the passage",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.1333,
+     30.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-14T03:00Z",
+    "lat_raw": "29-12N",
+    "lon_raw": "133-31E",
+    "local": "1945-06-14 1200(I)",
+    "page": "rg367-74847780/p26",
+    "note": "0329 SJ contact on a plane at 8000 yards; 0818 sighted one PBM MARINER and exchanged recognition signals",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.5167,
+     29.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-15T03:00Z",
+    "lat_raw": "29-27N",
+    "lon_raw": "140-13E",
+    "local": "1945-06-15 1200(I)",
+    "page": "rg367-74847780/p26",
+    "note": "0636 Super Forts headed for the EMPIRE; 1116 SD contact; plane in distress handled by another submarine; resumed course for MIDWAY",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.2167,
+     29.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Position",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-16T02:00Z",
+    "lat_raw": "29-20N",
+    "lon_raw": "146-21E",
+    "local": "1945-06-16 1200(K)",
+    "page": "rg367-74847780/p26",
+    "note": "(zone K typed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.35,
+     29.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Midway",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-06-21T21:30Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-22W",
+    "local": "1945-06-21 0930(Y)",
+    "page": "rg367-74847780/p26",
+    "note": "0700(Y) rendezvous with MIDWAY air escort; 0930(Y) arrived MIDWAY (port position; the report gives no coordinates, and no noon positions after 16 June)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3667,
+     28.2
     ]
    }
   }

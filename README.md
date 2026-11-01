@@ -198,7 +198,7 @@ attack has no rows.
 | `hit`, `erratic` | As typed in the table, even where the remarks disagree (the `note` says so). Blank where the sheet types the hits once for the salvo ("2 Hits"); that is the YAML's `hits` |
 | `interval`, `since_first` | The sheet's "Firing Interval", seconds as typed, in the column that says what it means: `interval` where the sheet types the gap since the torpedo before (0, 8, 8, 8), `since_first` where it types the time since the salvo's first (0, 8, 16, 24). One or the other for a whole attack, never both. A `0` after the first row starts another salvo, whose own time the sheet doesn't give. A typed minute (`1-05`) is written in seconds; a dash stays as typed |
 | `spread` | The sheet's "Type Spread" where it types the kind (`divergent`, `longitudinal`, `NONE`); the words are `spread` in the YAML |
-| `offset` | Where the sheet types an aim for each torpedo instead: its offset from the point of aim, as typed (`1.5R`, `0`, `1L` in degrees; `225'Aft`, `MOT` along the target) |
+| `offset` | Where the sheet types an aim for each torpedo instead: its offset from the point of aim, as typed (`1.5R`, `0`, `1L` in degrees; `225'Aft`, `25'fwd`, `MOT` along the target) |
 | `page` | The sheet's first page, the same as the attack's row in positions.csv |
 
 `attack_sheets.yml` keys, each as typed and left out where the sheet has none: `attack`, `type_attack`, `description`,

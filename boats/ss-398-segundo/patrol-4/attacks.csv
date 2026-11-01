@@ -1,0 +1,15 @@
+attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
+Attack 1,1945-05-31,2253,I,6,290,10,Surface,205,2,560,15,90P,359-20,3',27.9 knots,HIT,NO,18-2,---,,,25'fwd,rg367-74847780/p29
+Attack 1,1945-05-31,2253,I,5,290,10,Surface,205,2,560,15,90P,Unknown,3',27.9 knots,MISS,NO,18-2,10,,,25'aft,rg367-74847780/p29
+Attack 2,1945-06-03,0130,I,4,065,9.5,Surface,140,4.5,600,12,100S,009.5,3',27 knots,MISS,NO,18-2,--,,None,,rg367-74847780/p31
+Attack 3,1945-06-08,2301,I,5,145,6,Surface,210,5,600,5,100S,346-20,3',27.3 knots,MISS,NO,18-2,--,,None,,rg367-74847780/p33
+Attack 3,1945-06-08,2301,I,6,145,6,Surface,210,5,600,5,100S,346-20,3',27.3 knots,MISS,NO,18-2,10,,None,,rg367-74847780/p33
+Attack 3,1945-06-08,2301,I,10,145,6,Surface,210,5,600,5,5S,184-20,3',27.3 knots,MISS,NO,18-2,196,,None,,rg367-74847780/p33
+Attack 4,1945-06-11,0032,I,6,105,9,Surface,205,8,660,25,97S,001,6',27.8 knots,HIT,NO,18-2,--,,None,,rg367-74847780/p35
+Attack 4,1945-06-11,0032,I,5,105,9,Surface,205,8,660,25,95S,005,6',27.8 knots,HIT,NO,18-2,12,,None,,rg367-74847780/p35
+Attack 4,1945-06-11,0032,I,4,105,9,Surface,205,8,660,25,95S,008-40,6',27.8 knots,HIT,NO,18-2,11,,None,,rg367-74847780/p35
+Attack 4,1945-06-11,0032,I,3,105,9,Surface,205,8,660,25,95S,014-40,6',27.8 knots,MISS,NO,18-2,12,,None,,rg367-74847780/p35
+Attack 5,1945-06-11,0140,I,4,120,5,Surface,230,6,1500,6,60S,348-30,5',27.4 knots,MISS,NO,18-2,--,,None,,rg367-74847780/p38
+Attack 5,1945-06-11,0140,I,3,120,5,Surface,230,6,1500,6,60S,347,5',27.4 knots,MISS,NO,18-2,12,,None,,rg367-74847780/p38
+Attack 5,1945-06-11,0140,I,2,120,5,Surface,230,6,1500,6,60S,348,5',27.4 knots,MISS,NO,18-2,12,,None,,rg367-74847780/p38
+Attack 5,1945-06-11,0140,I,1,120,5,Surface,230,6,1500,6,60S,350,5',27.4 knots,MISS,NO,18-2,13,,None,,rg367-74847780/p38

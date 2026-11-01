@@ -38,6 +38,25 @@
   ]
  },
  {
+  "key": "ss-259-jack",
+  "alias": "jack",
+  "name": "JACK",
+  "hull": "SS-259",
+  "class": "Gato",
+  "silhouette": "gato",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-259-jack/tracks.geojson",
+  "periods": [
+   {
+    "n": 8,
+    "name": "Eighth War Patrol",
+    "dates": "26 Apr 1945 – 18 Jun 1945"
+   }
+  ]
+ },
+ {
   "key": "ss-267-pompon",
   "alias": "pompon",
   "name": "POMPON",
@@ -129,6 +148,25 @@
     "n": 6,
     "name": "Sixth War Patrol",
     "dates": "25 Mar 1945 – 13 May 1945"
+   }
+  ]
+ },
+ {
+  "key": "ss-382-picuda",
+  "alias": "picuda",
+  "name": "PICUDA",
+  "hull": "SS-382",
+  "class": "Balao",
+  "silhouette": "balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-382-picuda/tracks.geojson",
+  "periods": [
+   {
+    "n": 3,
+    "name": "Third War Patrol",
+    "dates": "31 Jul 1944 – 3 Oct 1944"
    }
   ]
  },
@@ -319,7 +357,7 @@
    {
     "n": 4,
     "name": "Fourth War Patrol",
-    "dates": "26 Apr 1945 – 2 Jun 1945"
+    "dates": "26 Apr 1945 – 21 Jun 1945"
    }
   ]
  },
