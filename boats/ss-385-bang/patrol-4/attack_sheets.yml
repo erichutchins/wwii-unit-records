@@ -4,8 +4,8 @@
 # attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, drafts ft (typed
 # "21 Feet"); own_depth typed "Surface" for every attack. The sheets type no zone letter: zone K is positions.csv's
 # (King, per the narrative). Times as typed, some with seconds ("0032-50" = 00h 32m 50s). depth_set as typed under
-# the heading "Depth Set (ft.)" (6, no foot mark); power typed "-" in every column; firing_int as typed (seconds).
-# track as typed with its side (80S). `spread` here holds the sheet's "Type Spread" row, typed per torpedo as the
+# the heading "Depth Set (ft.)" (6, no foot mark); power typed "-" in every column; interval as typed (seconds).
+# track as typed with its side (80S). `offset` here holds the sheet's "Type Spread" row, typed per torpedo as the
 # offset from the point of aim (3L, 0, 3R); the type attack's words are below. Where the sheet types the hits once
 # across the columns ("2 Hits") and not per torpedo, `hit` is left blank in attacks.csv and the words are `hits`
 # here. A draft typed in feet and inches (6'9") does not fit a CSV cell: blank there, as typed in target_line here.

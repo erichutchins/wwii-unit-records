@@ -5,12 +5,12 @@
 # three are positions.csv's "Attack 2" (cited there at 2(a)'s page, p25). attacks.csv cites each sheet's own first
 # page (p25, p27, p29), and each sheet has its own entry here, named by `sheet`.
 # attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
-# firing_int in seconds from the sheet's first torpedo (typed as plain numbers); depth_set as typed (a bare 9 or 6);
+# since_first in seconds from the sheet's first torpedo (typed as plain numbers); depth_set as typed (a bare 9 or 6);
 # power as typed ("-" where no power is typed, the Mark 23 having one speed). A typed ½ is written .5 (354½ -> 354.5,
 # 1½R -> 1.5R). Gyro angles are typed as on each sheet: Attack 1's as degrees right of the bow (10R), the others'
 # as true gyro angles (356). Track as typed with its side joined (134P); Attack 3's tracks are typed 0, no side.
 # This report's "Type Spread" row gives each torpedo's offset, not a kind (1½R, 0, 1½L, set with the TDC's offset
-# knob): attacks.csv's `spread` holds that typed offset, and the sheet's words are `type_attack` here.
+# knob): attacks.csv's `offset` holds that typed offset, and the sheet's words are `type_attack` here.
 # target_line and own_ship are the sheet's lines as typed.
 
 - attack: Attack 1

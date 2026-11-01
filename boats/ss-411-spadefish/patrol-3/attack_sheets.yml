@@ -2,10 +2,10 @@
 # Each sheet is two pages: `page` (time, position, target data, damage, own-ship data, type attack) and `table_page`
 # (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
 # attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
-# firing_int in seconds (the first torpedo's is typed as a dash, written ---); depth_set as typed (6 ft, 6', 8', 4');
+# interval in seconds (the first torpedo's is typed as a dash, written ---); depth_set as typed (6 ft, 6', 8', 4');
 # power as typed (HP; a dash, the Mark 23s, written ---); hit and erratic as typed (HIT, Hit*, Probable, Prob).
 # Gyro angles typed in degrees and minutes are in decimal degrees, to two places (220-30 -> 220.5; 357-20 -> 357.33;
-# 003-10 -> 003.17). `spread` is the kind (divergent) where the sheet types one word for the salvo, and the typed
+# 003-10 -> 003.17). `spread` is the kind (divergent) where the sheet types one word for the salvo, and `offset` the typed
 # offset per torpedo where it types one (1R, 3¼L written 3.25L; 0 for Attack 5's single stern shot). Where a sheet types two solutions, (A) and (B), each row has the one
 # its torpedo was fired with.
 # target_line and own_ship are the sheet's lines as typed.

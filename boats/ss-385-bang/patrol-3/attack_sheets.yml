@@ -2,7 +2,7 @@
 # Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
 # (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
 # attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts (typed 2.0, 10.0), ranges yds,
-# depths and drafts ft (own depth typed "Surface" for the night surface attacks 5 and 6); firing_int in seconds
+# depths and drafts ft (own depth typed "Surface" for the night surface attacks 5 and 6); interval in seconds
 # (typed 0, 8, 8: no unit); depth_set as typed under "Depth Set (ft.)" (6); power typed "-" in every column;
 # track as typed with its side (100P). spread there is the kind only; the sheet's words are `spread` here.
 # Layout differs from the SEAHORSE sheets: gyro is typed "15R" style on attacks 1 and 2 (degrees right of the bow,

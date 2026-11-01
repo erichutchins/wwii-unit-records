@@ -1,7 +1,7 @@
 # The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
 # This report's sheet is one page (`page`, which is also `table_page`): time, position, target and own-ship data,
 # type attack and the torpedo table (one column per tube). attacks.csv cites `page`, the attack's row in positions.csv.
-# attacks.csv units, as typed on this sheet: courses degrees (T), speeds kts, ranges yds, drafts ft; firing_int in
+# attacks.csv units, as typed on this sheet: courses degrees (T), speeds kts, ranges yds, drafts ft; interval in
 # seconds as typed (0, 4, 4: typed per column, not stated whether from the first torpedo or the one before);
 # depth_set as typed ("4 feet"); power, hit, erratic and spread as typed, in capitals (HIGH, MISS, NO, NONE);
 # tube 1's Type Spread is blank on the sheet. Track as typed with its side joined (120 S -> 120S).

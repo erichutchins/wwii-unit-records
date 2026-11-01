@@ -1,7 +1,7 @@
-attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,firing_int,spread,page
-Attack 1,1945-01-23,1700,I,7,350,2,64,264,7.8,750,6,110S,213,3,27.7,Hit,,18-1,0,MOT,rg367-74802211/p32
-Attack 1,1945-01-23,1700,I,8,350,2,64,264,7.8,750,6,114S,211,3,27.7,Miss,,18-1,13,225'Aft,rg367-74802211/p32
-Attack 1,1945-01-23,1700,I,9,350,2,64,264,7.8,750,6,118S,225,3,27.7,Hit,,18-1,10,75'ahead,rg367-74802211/p32
-Attack 1,1945-01-23,1700,I,10,350,2,64,264,7.8,750,6,122S,235,3,27.7,Miss,,18-1,13,150'ahead,rg367-74802211/p32
-Attack 1,1945-01-23,1700,I,6,350,2,64,264,7.8,750,6,130S,0,3,High,Miss,,14-3A,-,,rg367-74802211/p32
-Attack 2,1945-01-23,2233,I,1,350,2,64,264,7.8,750,6,90P,358.5,3,High,Hit,,23,-,,rg367-74802211/p32
+attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
+Attack 1,1945-01-23,1700,I,7,350,2,64,264,7.8,750,6,110S,213,3,27.7,Hit,,18-1,0,,,MOT,rg367-74802211/p32
+Attack 1,1945-01-23,1700,I,8,350,2,64,264,7.8,750,6,114S,211,3,27.7,Miss,,18-1,13,,,225'Aft,rg367-74802211/p32
+Attack 1,1945-01-23,1700,I,9,350,2,64,264,7.8,750,6,118S,225,3,27.7,Hit,,18-1,10,,,75'ahead,rg367-74802211/p32
+Attack 1,1945-01-23,1700,I,10,350,2,64,264,7.8,750,6,122S,235,3,27.7,Miss,,18-1,13,,,150'ahead,rg367-74802211/p32
+Attack 1,1945-01-23,1700,I,6,350,2,64,264,7.8,750,6,130S,0,3,High,Miss,,14-3A,-,,,,rg367-74802211/p32
+Attack 2,1945-01-23,2233,I,1,350,2,64,264,7.8,750,6,90P,358.5,3,High,Hit,,23,-,,,,rg367-74802211/p32

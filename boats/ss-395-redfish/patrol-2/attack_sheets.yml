@@ -6,9 +6,9 @@
 # - Angles typed with a raised 30 (minutes: 110 with a superscript 30 = 110 deg 30 min) are written .5 (110.5P, 356.5).
 # - own_depth "Surf" and target_draft "Unk" are the typed words; depth_set is typed without a unit (3, 10, 15, 6).
 # - power is typed "-" (Attacks 1, 2, 4, 5) or a long dash (Attacks 3, 6, 10, 11; written ---).
-# - firing_int: the first column is typed "---", written 0; the rest typed "10sec." or "8sec" (seconds since the
+# - interval: the first column is typed "---", written 0; the rest typed "10sec." or "8sec" (seconds since the
 #   torpedo before).
-# - spread: the sheets give no kind of spread, only each torpedo's offset as typed (3/4R, 2 1/2 L, 2 1/8 L, 6 L);
+# - offset: the sheets give no kind of spread, only each torpedo's offset as typed (3/4R, 2 1/2 L, 2 1/8 L, 6 L);
 #   attacks.csv writes it in decimal as in BANG patrol 1 (0.75R, 2.5L, 2.125L, 6L); 0 = typed 0.
 # - Attacks 7 and 8 type the track without a side (123 30, 125, 140); attacks.csv keeps it without one.
 # - erratic * (Attacks 7, 8) is the sheet's asterisk, explained in the remarks.

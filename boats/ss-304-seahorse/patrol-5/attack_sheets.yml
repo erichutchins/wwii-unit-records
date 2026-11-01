@@ -2,7 +2,7 @@
 # Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
 # (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
 # attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
-# firing_int in seconds (typed 10" etc.); depth_set as typed (6'); power "- - -" typed as ---;
+# interval in seconds (since the torpedo before) (typed 10" etc.); depth_set as typed (6'); power "- - -" typed as ---;
 # track as typed with its side (62 S -> 62S). spread there is the kind only; the sheet's words are `spread` here.
 # target_line and own_ship are the sheet's lines as typed.
 

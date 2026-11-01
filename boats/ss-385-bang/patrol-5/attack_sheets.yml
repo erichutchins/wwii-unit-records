@@ -3,8 +3,8 @@
 # (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
 # attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft
 # (typed "64 feet", "4 feet"); time and zone typed together, 1326(I). depth_set as typed under the heading
-# "Depth Set (ft)" (4, no foot mark); firing_int as typed (seconds; 0, 8, 16 typed, apparently from the first
-# torpedo). track as typed with its side (146S). `spread` here holds the sheet's "Type Spread" row, typed per
+# "Depth Set (ft)" (4, no foot mark); since_first as typed (seconds; 0, 8, 16 typed, apparently from the first
+# torpedo). track as typed with its side (146S). `offset` here holds the sheet's "Type Spread" row, typed per
 # torpedo as the offset from the point of aim (1½L, 0, 1R); the type attack's words are below.
 # target_line and own_ship are the sheet's lines as typed.
 

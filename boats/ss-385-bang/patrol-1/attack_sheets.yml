@@ -8,7 +8,7 @@
 # These sheets differ from the later form in three ways, kept as typed:
 # - "Firing Interval" is typed as the time from the first torpedo (0, 8, 16, 24 ...), not the gap between torpedoes;
 #   a typed minute (1-05) is written in plain seconds (65).
-# - "Type Spread" is typed per torpedo as the offset from the point of aim (1½R, ½L, 0); in attacks.csv `spread` holds
+# - "Type Spread" is typed per torpedo as the offset from the point of aim (1½R, ½L, 0); in attacks.csv `offset` holds
 #   that offset, with ½ written .5 (1½R -> 1.5R). Gyro 013½ is written 013.5 the same way.
 # - Gyro angles are typed as three figures (013, 345); a footnote mark on a gyro (*195) is dropped from attacks.csv
 #   and its footnote quoted in `remarks`.

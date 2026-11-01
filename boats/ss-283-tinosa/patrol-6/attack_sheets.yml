@@ -4,9 +4,9 @@
 # What that table does not give is blank in attacks.csv: tube, own course, speed and depth, target course,
 # power, each torpedo's hit or miss, erratic. Each attack has one row per torpedo fired (the table's "No. & Type
 # of Torpedo Fired"), and every row repeats the attack's one typed value: the table gives a single track, gyro,
-# depth setting, range and interval per attack, not one per torpedo. firing_int is the table's one interval
+# depth setting, range and interval per attack, not one per torpedo. interval is the table's one interval
 # ("9 Sec.") on every row: the interval between torpedoes, not each torpedo's time from the first.
-# spread is the kind (Div. -> divergent, Long. -> longitudinal); the amount as typed is `spread` here.
+# attacks.csv's spread is the kind (Div. -> divergent, Long. -> longitudinal); the amount as typed is `spread` here.
 # Times are typed "Time G.C.T." (zone Z), as positions.csv has them. Ranges typed with thousands commas
 # (3,000) are written without (3000). Where the table types more than one draft, track or gyro for an attack,
 # attacks.csv leaves the cell blank and the values are here.

@@ -2,9 +2,9 @@
 # The sheet is two pages: `page` (time, position, target data, damage) and `table_page` (own-ship data and one
 # column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
 # attacks.csv units, as typed on this sheet: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
-# firing_int in seconds (the first torpedo's is blank on the sheet); depth_set as typed (8'); power as typed (high).
+# interval in seconds (the first torpedo's is blank on the sheet); depth_set as typed (8'); power as typed (high).
 # This sheet differs from the SEAHORSE model: the track angle is typed without a side (111, not 111S), so `track`
-# has no side; halves and quarters are typed as fractions, written as decimals (114½ -> 114.5, 354½ -> 354.5); `spread` is
+# has no side; halves and quarters are typed as fractions, written as decimals (114½ -> 114.5, 354½ -> 354.5); `offset` is
 # typed per torpedo as an offset (½R, 1¼L, 2L, 0), the same way (0.5R, 1.25L). Rows are in firing order (tube 2 fired after tube 1, remarks).
 # target_line and own_ship are the sheet's lines as typed.
 

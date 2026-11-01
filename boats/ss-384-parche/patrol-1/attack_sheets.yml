@@ -2,10 +2,10 @@
 # Each sheet is two pages: `page` (time, position, target and own-ship data, type of attack) and `table_page`
 # (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
 # attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
-# firing_int in seconds (typed "11 sec." etc.); depth_set as typed (6'); power typed "-" kept as -;
+# interval in seconds (since the torpedo before; Attack 1's are since_first, its note) (typed "11 sec." etc.); depth_set as typed (6'); power typed "-" kept as -;
 # track as typed with its side (91 S -> 91S); own depth typed "Surface" kept as Surface.
 # Halves typed as fractions (169½°, 10½ kts, 002½) are written .5. PARCHE's "Type Spread" row is typed per
-# torpedo as an offset ("1 R", "1°R", "0°"), so attacks.csv's spread holds that offset (1R, 0), not a kind.
+# torpedo as an offset ("1 R", "1°R", "0°"), so attacks.csv's offset holds it (1R, 0), not a kind.
 # Where a sheet types two targets (draft and range for each), attacks.csv gives each torpedo the values of the
 # target it was aimed at; the note says how that was decided.
 # target_line and own_ship are the sheet's lines as typed.

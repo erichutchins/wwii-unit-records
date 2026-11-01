@@ -3,9 +3,9 @@
 # own-ship data, type attack) and `table_page` (one column per torpedo). attacks.csv cites `page`, the attacks' rows
 # in positions.csv.
 # attacks.csv units, as typed on this sheet: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
-# firing_int in seconds, "-" where typed so; depth_set as typed (3, no unit).
+# interval in seconds, "-" where typed so; depth_set as typed (3, no unit).
 # This sheet differs from the SEAHORSE model: it has no power row; its "Mk 18 speed" row (27.7 for the Mark 18s,
-# High for the others) is in `power`. It has no erratic row (`erratic` blank). `spread` is typed per torpedo
+# High for the others) is in `power`. It has no erratic row (`erratic` blank). `offset` is typed per torpedo
 # (MOT, 225'Aft, 75'ahead, 150'ahead) and kept as typed. A gyro typed in degrees and minutes is in decimal degrees (358-30 -> 358.5).
 # The sheet types one set of target and own-ship data; it repeats on every row (see the notes).
 # target_line and own_ship are the sheet's lines as typed.
