@@ -1,0 +1,32 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+- attack: Attack 1
+  record: J01
+  relation: hit
+  note: >-
+    PICUDA fired six at the first two AKs of HI-81's near column and claimed hits. The table's Mayasan Maru (9,433
+    tons) sank 4 minutes after she fired, about 2 miles from her attack position; no other HI-81 loss at that hour
+- attack: Attack 1
+  record: J02
+  relation: hit
+  note: The route chart's note of the same loss (counts once with J01)
+- attack: Attack 2
+  record: J03
+  relation: hit
+  note: >-
+    PICUDA's bow nest at 0347 I against TAMO-29; the table has Fukuju Maru sunk at 0348, about 14 miles from her
+    attack position. The chart names the 0348 loss Shuyo Maru (J05): the ship is unresolved, the attack is not
+- attack: Attack 2
+  record: J05
+  relation: hit
+  note: The chart's version of the 0348 loss, naming Shuyo Maru (same headquarters; counts once with J03)
+- attack: Attack 3
+  record: J04
+  relation: hit
+  note: >-
+    PICUDA fired four at one of the same convoy's tankers at 0840 I (the narrative's time; the sheet types 0640,
+    corrected in positions.csv) and saw two solid hits. The table's 0845 loss is 5 minutes later and 5 miles away,
+    at the same longitude. The ship's name is unresolved: the table says Shuyo Maru, the chart (J06) Fukuju Maru
+- attack: Attack 3
+  record: J06
+  relation: hit
+  note: The chart's version of the 0845 loss, naming Fukuju Maru (counts once with J04)

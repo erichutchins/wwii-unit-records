@@ -1,0 +1,52 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+- id: J01
+  source: jacar:C08030141700
+  page: p48
+  ship: Akitsu Maru
+  convoy: HI-81
+  event: sank
+  date: 1944-11-15
+  time: '1200'
+  zone: I
+  original: あきつ丸 9186 〃(沈没) 15日1200 白瀬灯台 280度 38浬 ヒ81
+  translation: 'Akitsu Maru, 9,186 tons, sunk, 15th 1200, Shirase light 280°, 38 nautical miles; convoy HI-81'
+  note: >-
+    1st Surface Escort Division war diary, November 1944, 別表第一別紙, table of ships lost to enemy submarines
+    (被害船舶名, 敵潜ニ依ル被害); handwritten. The distance's first digit is a hooked stroke much like this writer's 9
+    (in 9186, 9433) and is read 3 on the strength of the route chart (J02), where it is plainly a 3; the second digit
+    is 8. Position given as a bearing and distance from 白瀬灯台 (Shirase light), not in latitude and longitude. The
+    light is not placed here: no wartime or official light list giving its position was found, so no position is
+    derived (lat/lon left blank). Akitsu Maru was an Army aircraft-carrying ship (secondary: combinedfleet:Akitsu_t)
+- id: J02
+  source: jacar:C08030141700
+  page: p52
+  ship: Akitsu Maru
+  convoy: HI-81
+  event: sank
+  date: 1944-11-15
+  time: '1200'
+  zone: I
+  original: 15日1200白瀬灯台(?)280°3?浬 あきつ丸(沈没)
+  translation: '15th 1200, Shirase light 280°, 3? nautical miles: Akitsu Maru (sunk)'
+  note: >-
+    Same diary, 別表第三 船団護衛状況 (convoy escort chart, Moji–Shonan route), November 1944, beside the ヒ81 track
+    at the 15th. Not independent of J01: the same headquarters' summary of the same report, so it counts once. A
+    stroke before 280 may be a 1 or a separator (read as a separator). The distance's first digit is a clear 3; the
+    second is a blot. The convoy column above gives ヒ81's escorts (択 樫 大 昭 対 久, 海9, 海61, 神鷹: Etorofu, Kashi,
+    Daito, Shonan, Tsushima, Kume, CD-9, CD-61, Shinyo) and 11-2 ships. The same chart has Shinyo sunk on the 17th
+    (17日2307 N32-59 E123-38), not on the 15th
+- id: J03
+  source: jacar:C08030141700
+  page: p48
+  event: loss_list
+  date: 1944-11
+  zone: I
+  original: 被害船舶名 敵潜ニ依ル被害 … 沈没 26隻 155728噸 … 9日0105 下津丸 N14-38 E116-53 … 8日2330 第二日南丸 N14-30 E116-48
+  translation: >-
+    Ships lost to enemy submarines (November 1944): sunk, 26 ships, 155,728 tons … the only rows for 8–9 November
+    are Shimotsu Maru and No. 2 Nichinan Maru, both off Luzon (14°N 116°E)
+  note: >-
+    The table runs on to p49 (26 sunk, then 4 damaged). It has no loss on 8, 9 or 11 November in the East China
+    Sea or off Kyushu. It lists only convoys under the 1st Surface Escort Division; ships in local convoys under
+    the Sasebo or Kure naval districts would not appear in it, so the absence does not show that QUEENFISH's
+    attacks of 8, 9 and 11 November did no damage

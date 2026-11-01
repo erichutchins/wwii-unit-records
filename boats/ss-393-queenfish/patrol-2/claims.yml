@@ -1,0 +1,28 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+- attack: Attack 4
+  record: J01
+  relation: hit
+  note: >-
+    QUEENFISH claimed an escort carrier ("Kaiyo type", ferrying planes) hit by two torpedoes. The Japanese table has
+    Akitsu Maru, an Army aircraft-carrying ship in convoy HI-81, sunk the same day at 1200 I, 5 minutes after
+    QUEENFISH fired; no other loss that day. So the ship she hit was very likely Akitsu Maru, not a carrier
+    (inferred). HI-81's escort carrier Shinyo was in the convoy and was lost two days later (J02's chart). The
+    distance can't be checked until Shirase light is placed
+- attack: Attack 4
+  record: J02
+  relation: hit
+  note: The route chart's note of the same loss (same headquarters, counts once)
+- attack: Attack 1
+  record: J03
+  relation: no_loss
+  note: >-
+    QUEENFISH claimed freighters sunk off Kyushu on 8 November. Not in the 1st Surface Escort Division's November
+    loss table; the table covers only that division's convoys, so this is not settled
+- attack: Attack 2
+  record: J03
+  relation: no_loss
+  note: Claimed a transport and a tanker sunk on 9 November. Not in the division's loss table (see Attack 1)
+- attack: Attack 3
+  record: J03
+  relation: no_loss
+  note: Claimed one hit on a freighter on 11 November. Not in the division's loss table (see Attack 1)

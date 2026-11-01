@@ -1,0 +1,1582 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 4,
+    "start": "1944-11-02T07:26Z",
+    "end": "1944-11-30T23:09Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.25,
+      15.0
+     ],
+     [
+      142.3333,
+      16.5667
+     ],
+     [
+      142.1667,
+      16.7167
+     ],
+     [
+      142.3333,
+      16.5667
+     ],
+     [
+      141.7333,
+      17.0667
+     ],
+     [
+      140.5833,
+      17.95
+     ],
+     [
+      133.6333,
+      26.9
+     ],
+     [
+      131.45,
+      29.8667
+     ],
+     [
+      131.4833,
+      29.8833
+     ],
+     [
+      131.3917,
+      29.9
+     ],
+     [
+      130.9833,
+      29.9917
+     ],
+     [
+      127.0333,
+      33.0833
+     ],
+     [
+      129.0167,
+      32.0833
+     ],
+     [
+      129.0,
+      32.0667
+     ],
+     [
+      128.85,
+      32.05
+     ],
+     [
+      128.9667,
+      31.95
+     ],
+     [
+      127.5667,
+      31.8833
+     ],
+     [
+      127.8,
+      31.7667
+     ],
+     [
+      127.8667,
+      31.7333
+     ],
+     [
+      130.0167,
+      31.0833
+     ],
+     [
+      129.9833,
+      31.0833
+     ],
+     [
+      129.9833,
+      31.0833
+     ],
+     [
+      130.0,
+      31.0833
+     ],
+     [
+      130.0167,
+      31.0833
+     ],
+     [
+      130.0167,
+      31.0833
+     ],
+     [
+      130.0167,
+      31.0833
+     ],
+     [
+      125.8833,
+      32.6833
+     ],
+     [
+      124.8167,
+      33.15
+     ],
+     [
+      124.7167,
+      33.2667
+     ],
+     [
+      127.6667,
+      32.5
+     ],
+     [
+      127.6667,
+      32.5
+     ],
+     [
+      127.8333,
+      32.25
+     ],
+     [
+      128.0833,
+      34.3167
+     ],
+     [
+      128.0833,
+      34.3167
+     ],
+     [
+      128.9667,
+      34.25
+     ],
+     [
+      128.3833,
+      34.1167
+     ],
+     [
+      129.3667,
+      33.3333
+     ],
+     [
+      129.2,
+      33.4167
+     ],
+     [
+      129.4333,
+      33.5
+     ],
+     [
+      129.3667,
+      33.5167
+     ],
+     [
+      129.35,
+      33.5333
+     ],
+     [
+      129.7,
+      30.6667
+     ],
+     [
+      136.75,
+      22.6667
+     ],
+     [
+      140.1167,
+      18.0833
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 1",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-02T07:26Z",
+    "lat_raw": "15-00N",
+    "lon_raw": "144-15E",
+    "local": "1944-11-02 1626(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 1: PBM; 8 mi; sight. Narrative (p03): 0815 'Underway from alongside U.S.S. HOLLAND for patrol area, in company with QUEENFISH and BARB. Escort PGM-9'; 1400 'Entered western safety lane - escort departed'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.25,
+     15.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 2",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-02T17:42Z",
+    "lat_raw": "16-34N",
+    "lon_raw": "142-20E",
+    "local": "1944-11-03 0242(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 2: PBM; 5 mi; SJ radar",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.3333,
+     16.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 3",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-02T19:02Z",
+    "lat_raw": "16-43N",
+    "lon_raw": "142-10E",
+    "local": "1944-11-03 0402(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 3: Unk.; 3 mi; sight",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.1667,
+     16.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 4",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-02T20:27Z",
+    "lat_raw": "16-34N",
+    "lon_raw": "142-20E",
+    "local": "1944-11-03 0527(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 4: Unk.; 4 mi; SJ radar. Same position as No. 2 (0242) as typed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.3333,
+     16.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 5",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-02T21:24Z",
+    "lat_raw": "17-04N",
+    "lon_raw": "141-44E",
+    "local": "1944-11-03 0624(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 5: B-24; 8 mi; SD radar. Day faint (3 or 8); read 3: the position lies between the 3 Nov rows",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.7333,
+     17.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 6",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-03T03:52Z",
+    "lat_raw": "17-57N",
+    "lon_raw": "140-35E",
+    "local": "1944-11-03 1252(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 6: B-25; 8 mi; IFF. Narrative (p03): 1630 'Departed safety lane. Went to four engine speed forming scouting line as directed by QUEENFISH'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.5833,
+     17.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 7",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-05T03:30Z",
+    "lat_raw": "26-54N",
+    "lon_raw": "133-38E",
+    "local": "1944-11-05 1230(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 7: 'Mavis of Emily'; 15 mi; sight. Narrative (p03) times it 1231: 'Sighted Emily bearing 130 (t), distant 12 miles. Submerged.' 4 Nov 0553: 'Sighted QUEENFISH bearing 080 (t), distant 10 miles'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.6333,
+     26.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 8",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-05T21:40Z",
+    "lat_raw": "29-52N",
+    "lon_raw": "131-27E",
+    "local": "1944-11-06 0640(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 8: Mavis or Emily; 10 mi; periscope. Narrative (p03): 'unidentified flying boat bearing 096 (t)'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.45,
+     29.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 9",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-05T22:01Z",
+    "lat_raw": "29-53N",
+    "lon_raw": "131-29E",
+    "local": "1944-11-06 0701(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 9: Betty; 12 mi; periscope (narrative p04 0701)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.4833,
+     29.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 10",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-05T22:44Z",
+    "lat_raw": "29-54N",
+    "lon_raw": "131-23.5E",
+    "local": "1944-11-06 0744(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 10: Unk.; 13 mi; sight (narrative p04 0744: 'turning toward us. Submerged')",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.3917,
+     29.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 11",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-06T01:53Z",
+    "lat_raw": "29-59.5N",
+    "lon_raw": "130-59E",
+    "typed": "29-59.5N 130-99E",
+    "local": "1944-11-06 1053(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 11: Unk.; 10 mi; sight. Narrative (p04): 1012 'Sighted TANEGA SHIMA bearing 334 (t), distant 35 miles'; 1809 'Commenced transit of TOKARA STRAIT'; 1926 'SJ radar interference from BARB and QUEENFISH'; 1927 'Entered Area NINE'",
+    "fix": "typed 130-99E, which has no minute 99; 130-59E is 25 miles from 0744's 131-23.5E in three hours"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.9833,
+     29.9917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 12",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-09T03:20Z",
+    "lat_raw": "33-05N",
+    "lon_raw": "127-02E",
+    "local": "1944-11-09 1220(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 12: Val; 8 mi; periscope (narrative p04 1220, 'submerged southeast of SAISHU TO' 0625). 8 Nov 2035 (p04): 'Received contact report from QUEENFISH. Too far to intercept'; 9 Nov 0210: 'SJ radar interference bearing 140 (t) from BARB'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0333,
+     33.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 13",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-11T01:13Z",
+    "lat_raw": "32-05N",
+    "lon_raw": "129-01E",
+    "local": "1944-11-11 1013(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 13: Unk.; 10 mi; sight. Narrative (p05): 0531 'On life guard station'; 1014 'Sighted NELL'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.0167,
+     32.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 14",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-11T01:37Z",
+    "lat_raw": "32-04N",
+    "lon_raw": "129-00E",
+    "local": "1944-11-11 1037(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 14: Val; 1 mi; 45\u00b0; sight (narrative p05 1037: 'quick dive. Rigged for depth charge. No bombs')",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.0,
+     32.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 15",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-11T02:34Z",
+    "lat_raw": "32-03N",
+    "lon_raw": "128-51E",
+    "typed": "32?03N 128-51E",
+    "local": "1944-11-11 1134(I)",
+    "page": "rg367-74830887/p17",
+    "note": "Aircraft Contacts No. 15: Pete; 8 mi; 'Sd radar'. 2300 (p05): 'Received contact report from QUEENFISH - again too far to intercept'",
+    "fix": "the separator is overtyped (a 6 or o over the dash), read 32-03"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.85,
+     32.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 16",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-11T04:05Z",
+    "lat_raw": "31-57N",
+    "lon_raw": "128-58E",
+    "local": "1944-11-11 1305(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 16: Nell; 10 mi; 3\u00b0; sight",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.9667,
+     31.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 17",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-12T22:28Z",
+    "lat_raw": "31-53N",
+    "lon_raw": "127-34E",
+    "local": "1944-11-13 0728(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 17: Betty; 6 mi; Sight - SD",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.5667,
+     31.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 18",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-13T00:42Z",
+    "lat_raw": "31-46N",
+    "lon_raw": "127-48E",
+    "local": "1944-11-13 0942(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 18: Nell; 8 mi; 8\u00b0; sight",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.8,
+     31.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 19",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-13T03:15Z",
+    "lat_raw": "31-44N",
+    "lon_raw": "127-52E",
+    "local": "1944-11-13 1215(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 19: Nell; 18 mi; 2\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.8667,
+     31.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 20",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-15T01:12Z",
+    "lat_raw": "31-05N",
+    "lon_raw": "130-01E",
+    "local": "1944-11-15 1012(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 20: Betty; 4 mi; 2\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.0167,
+     31.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 21",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-15T01:43Z",
+    "lat_raw": "31-05N",
+    "lon_raw": "129-59E",
+    "local": "1944-11-15 1043(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 21: Unk. (2); 6 mi; 4\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.9833,
+     31.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 22",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-15T01:52Z",
+    "lat_raw": "31-05N",
+    "lon_raw": "129-59E",
+    "local": "1944-11-15 1052(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 22: Rufe; 9 mi; 2\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.9833,
+     31.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 23",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-15T02:44Z",
+    "lat_raw": "31-05N",
+    "lon_raw": "130-00E",
+    "local": "1944-11-15 1144(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 23: Betty; 8 mi; 6\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.0,
+     31.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 24",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-15T03:45Z",
+    "lat_raw": "31-05N",
+    "lon_raw": "130-01E",
+    "local": "1944-11-15 1245(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 24: Fighter (4); 8 mi; 2\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.0167,
+     31.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 25",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-15T03:45Z",
+    "lat_raw": "31-05N",
+    "lon_raw": "130-01E",
+    "local": "1944-11-15 1245(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 25: Nell; 8 mi; 2\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.0167,
+     31.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 26",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-15T03:50Z",
+    "lat_raw": "31-05N",
+    "lon_raw": "130-01E",
+    "local": "1944-11-15 1250(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 26: Nell (4); 8 mi; 2\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.0167,
+     31.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 27",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-15T04:35Z",
+    "lat_raw": "31-03N",
+    "lon_raw": "131-02E",
+    "local": "1944-11-15 1335(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 27: Val (34); 12 mi; 1\u00b0; periscope",
+    "fix": "as typed 131-02E, 52 miles from No. 26 (130-01E) 45 minutes earlier while submerged: probably a typo (130-02E?), not resolved; off the track; the narrative (p06) 15 Nov types no position: 0559 'Submerged', 1012 BETTY (Aircraft 20, 31-05N 130-01E), 1305 'Sighted 4 smokes bearing 105 (t)', 1307 'Came to NAC at standard speed', 1530 'Ships apparently went southeast of TAKE SHIMA. Continued on southerly course until sunset', 1802 'Surfaced': she stayed submerged near 31-05N 130-01E, which rules out 131-02E but does not give the value, so no fix"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.0333,
+     31.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 28",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-15T06:05Z",
+    "lat_raw": "32-27N",
+    "lon_raw": "129-23E",
+    "local": "1944-11-15 1505(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 28: Betty; 6 mi; 1\u00b0; periscope",
+    "fix": "as typed 32-27N 129-23E, 119 miles from No. 26 2h15m earlier while submerged: not resolved (31-27N? still too far); off the track; the narrative (p06) has her submerged all day 15 Nov near Aircraft 20-26 (31-05N 130-01E), heading for smoke bearing 105 (t) from 1307 and then south until sunset: nowhere near 32-27N 129-23E, and it gives no position to put in its place"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.3833,
+     32.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 29",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-17T00:43Z",
+    "lat_raw": "32-41N",
+    "lon_raw": "125-53E",
+    "local": "1944-11-17 0943(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 29: Betty; 8 mi; 7\u00b0; sight",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.8833,
+     32.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 30",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-17T06:15Z",
+    "lat_raw": "33-09N",
+    "lon_raw": "124-49E",
+    "local": "1944-11-17 1515(I)",
+    "page": "rg367-74830887/p18",
+    "note": "Aircraft Contacts No. 30: Betty; 6 mi; 3\u00b0; sight",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.8167,
+     33.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 1",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-17T08:45Z",
+    "lat_raw": "33-16N",
+    "lon_raw": "124-43E",
+    "local": "1944-11-17 1745(I)",
+    "page": "rg367-74830887/p15",
+    "note": "Ship Contacts No. 1: 4 AK's 2 AO's 6 Escorts; initial range 16000 yds; course 260 (t) 11.5 kts; periscope; 'Attack Number 1.'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.7167,
+     33.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-17T09:08Z",
+    "lat_raw": "33-16N",
+    "lon_raw": "124-43E",
+    "local": "1944-11-17 1808(I)",
+    "page": "rg367-74830887/p20",
+    "note": "Torpedo Attack Number 1: periscope attack on the first two AK's in the near column, three torpedoes at each; claims one large AK sunk 'similar to AOBASAN MARU, 8,800 tons' and one large AO damaged. Same position as Ship Contact 1 (p15). Narrative (p06-p07): 1740 'Sighted masts of convoy'; 1808 'Commenced firing 6 torpedoes from bow tubes'; 18 Nov 0035 'Received message from SPADEFISH giving convoy position 110 miles west of us'; 0315 'Report of SUNFISH's attack may assist assessment of damage'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.7167,
+     33.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 2",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-19T00:43Z",
+    "lat_raw": "32-34N",
+    "lon_raw": "129-02E",
+    "local": "1944-11-19 0943(I)",
+    "page": "rg367-74830887/p15",
+    "note": "Ship Contacts No. 2: 1 Steam Trawler; 12000 yds; southerly 6 kts; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.0333,
+     32.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 32",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-21T01:08Z",
+    "lat_raw": "32-30N",
+    "lon_raw": "127-40E",
+    "local": "1944-11-21 1008(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 32: B-29 (18); 10 mi; radar; typed '1008 to 1?05 (I)' (the end time's second digit faded)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6667,
+     32.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 33",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-21T01:50Z",
+    "lat_raw": "32-30N",
+    "lon_raw": "127-40E",
+    "local": "1944-11-21 1050(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 33: Unk.; 10 mi; radar",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6667,
+     32.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 34",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-21T04:15Z",
+    "lat_raw": "32-15N",
+    "lon_raw": "127-50E",
+    "local": "1944-11-21 1315(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 34: Unk.; 10 mi; 5\u00b0; sight",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.8333,
+     32.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 4",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-22T15:18Z",
+    "lat_raw": "34-11N",
+    "lon_raw": "127-37E",
+    "local": "1944-11-23 0018(I)",
+    "page": "rg367-74830887/p15",
+    "note": "Ship Contacts No. 4: 2 AK's 2 AO's 4 escorts; 18000 yds; 080 (t) 9 kts; 'Sound - JK'; 'Attack Numbers 2 and 3'. Time's last digit faint, read 8",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6167,
+     34.1833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-22T18:47Z",
+    "lat_raw": "34-19N",
+    "lon_raw": "128-05E",
+    "local": "1944-11-23 0347(I)",
+    "page": "rg367-74830887/p22",
+    "note": "Torpedo Attack Number 2: surface radar attack, bow nest (6) at the overlap of one AO and one AK; claims one large AK and one large AO damaged. Attack 2A (p24) is the stern nest at the same time and position. Narrative (p10): 034? (last digit faint, read 3) 'Commenced firing bow tubes ... (Attack #2)'; 0347 'Commenced firing stern tubes'; 0526 'SJ interference, probably QUEENFISH, bearing 15? (t)'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.0833,
+     34.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2A",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-22T18:47Z",
+    "lat_raw": "34-19N",
+    "lon_raw": "128-05E",
+    "local": "1944-11-23 0347(I)",
+    "page": "rg367-74830887/p24",
+    "note": "Torpedo Attack Number 2A: stern nest (4) after reversing course; no damage claimed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.0833,
+     34.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 5",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-22T21:42Z",
+    "lat_raw": "34-12N",
+    "lon_raw": "128-39E",
+    "local": "1944-11-23 0642(I)",
+    "page": "rg367-74830887/p15",
+    "note": "Ship Contacts No. 5: 4 Trawlers; 12000 yds; periscope. Minutes of the longitude faint",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.65,
+     34.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 3",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-22T23:40Z",
+    "lat_raw": "34-15N",
+    "lon_raw": "128-58E",
+    "local": "1944-11-23 0840(I)",
+    "page": "rg367-74830887/p26",
+    "note": "Torpedo Attack Number 3: periscope attack, four bow torpedoes at one of the AO's of the second attack; claims one large AO sunk 'similar to RIKKO MARU, 9,000 tons'. Narrative (p10): 0750 'Sighted masts bearing 302 (t)'; 0840 'Commenced firing four remaining bow tubes'; 0842 'Two solid hits'",
+    "fix": "the sheet types 0640; the narrative (p10) fires at 0840 after sighting masts at 0750, and at 0642 the boat was 'Surrounded by four trawlers and one sampan' (Contact 5)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.9667,
+     34.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 6",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-23T02:29Z",
+    "lat_raw": "34-08N",
+    "lon_raw": "128-32E",
+    "local": "1944-11-23 1129(I)",
+    "page": "rg367-74830887/p15",
+    "note": "Ship Contacts No. 6: 1 PC-E, 1 PC; 5700 yds; southeast 8 kts; periscope; 'Single raked stack, tripod foremast, stub mainmast, 4\" or 5\" gun fwd. 20 kt. PC.'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.5333,
+     34.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 37",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-23T05:10Z",
+    "lat_raw": "34-07N",
+    "lon_raw": "128-23E",
+    "typed": "34-07N 12?-23E",
+    "local": "1944-11-23 1410(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 37: Jake (2); 2 mi; 1\u00b0; periscope. Ship Contacts No. 7 (p15) gives 34-07N 128-22E at 1425",
+    "fix": "longitude third digit faded; 128, as Ship Contacts No. 7 (p15) gives 128-22E at 1425"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.3833,
+     34.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 7",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-23T05:25Z",
+    "lat_raw": "34-07N",
+    "lon_raw": "128-22E",
+    "local": "1944-11-23 1425(I)",
+    "page": "rg367-74830887/p15",
+    "note": "Ship Contacts No. 7: 2 Trawlers; 7000 yds; 9 kts; periscope. Date faint: read 23 Nov (could be 29); the table runs in date order between 23 and 25 Nov",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.3667,
+     34.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 8",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-24T15:44Z",
+    "lat_raw": "33-30N",
+    "lon_raw": "129-10E",
+    "local": "1944-11-25 0044(I)",
+    "page": "rg367-74830887/p15",
+    "note": "Ship Contacts No. 8: 3 Patrol Boats; 10000 to 19000 yds; 200 (t) 9 kts; SJ radar",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.1667,
+     33.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 38",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-25T02:34Z",
+    "lat_raw": "33-20N",
+    "lon_raw": "129-22E",
+    "local": "1944-11-25 1134(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 38: Rufe; 4 mi; 1\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.3667,
+     33.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 9",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-25T07:20Z",
+    "lat_raw": "33-29N",
+    "lon_raw": "129-26E",
+    "local": "1944-11-25 1620(I)",
+    "page": "rg367-74830887/p15",
+    "note": "Ship Contacts No. 9: 1 AK (Small); 9000 yds; 210 (t) 7 kts; periscope. Time faint, read 1620",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4333,
+     33.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 10",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-25T21:19Z",
+    "lat_raw": "33-30N",
+    "lon_raw": "129-12E",
+    "local": "1944-11-26 0619(I)",
+    "page": "rg367-74830887/p16",
+    "note": "Ship Contacts No. 10: 5 AO; 3 AK; 1 AP; 1 CVE (KAIYO); 3 DD (2 FUBUKI); 2 DE; 3 PC; 1 Q-ship; 23000 yds; 225 (t) 15 kts; SJ radar. Narrative (p12): 0549 'SJ contact 125 (t), 23,000 yards'; 0557 'Enemy course 235 (t), speed 9 by TDC (15 by plot)'; 0615 'Sighted two FUBUKI class DD's'; 0650 'Watched the following ships enter channel to SASEBO: 3 AK, 1 AP, 6 AO, 1 KAIYO class CVE; escorts: 3 FUBUKI class DD, 3 PG-E, 5 PC, 1 Q-ship. Couldn't even get a shot at a DD with our four remaining fish aft' (the narrative's counts differ from the table's)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.2,
+     33.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 39",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-25T22:52Z",
+    "lat_raw": "33-25N",
+    "lon_raw": "129-12E",
+    "typed": "33-25N 129-12?",
+    "local": "1944-11-26 0752(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 39: Jake; 4 mi; 2\u00b0; periscope",
+    "fix": "hemisphere letter faded"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.2,
+     33.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 11",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-26T01:55Z",
+    "lat_raw": "33-29N",
+    "lon_raw": "129-23E",
+    "local": "1944-11-26 1055(I)",
+    "page": "rg367-74830887/p16",
+    "note": "Ship Contacts No. 11: PC; 5500 yds; northerly; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.3833,
+     33.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 12",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-26T03:35Z",
+    "lat_raw": "33-31N",
+    "lon_raw": "129-28E",
+    "local": "1944-11-26 1235(I)",
+    "page": "rg367-74830887/p16",
+    "note": "Ship Contacts No. 12: 2 Trawlers; 6000 yds; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4667,
+     33.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 13",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-26T05:00Z",
+    "lat_raw": "33-30N",
+    "lon_raw": "129-26E",
+    "local": "1944-11-26 1400(I)",
+    "page": "rg367-74830887/p16",
+    "note": "Ship Contacts No. 13: 1 Coastal Tanker; 8000 yds; 045 (t) 4 kts; periscope; 'Attack number 4.'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4333,
+     33.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 4",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-26T06:03Z",
+    "lat_raw": "33-30N",
+    "lon_raw": "129-26E",
+    "typed": "33-30N 128-26E",
+    "local": "1944-11-26 1503(I)",
+    "page": "rg367-74830887/p28",
+    "note": "Torpedo Attack Number 4: periscope attack, two torpedoes from the after nest at a coastal tanker (draft 10 ft, course 045, 4 knots, range 1350); both missed",
+    "fix": "typed 128-26E; Ship Contact 13 (p16) puts the same tanker at 33-30N 129-26E at 1400, and every 26 Nov contact lies at 129-12E to 129-28E; 128 E would be 50 miles west in an hour"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4333,
+     33.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 41",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-26T07:15Z",
+    "lat_raw": "33-31N",
+    "lon_raw": "129-22E",
+    "typed": "33-31? 129-22E",
+    "local": "1944-11-26 1615(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 41: Pete (2); 6 mi; 2\u00b0; periscope",
+    "fix": "hemisphere letter faded"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.3667,
+     33.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 42",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-26T07:47Z",
+    "lat_raw": "33-32N",
+    "lon_raw": "129-21E",
+    "local": "1944-11-26 1647(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 42: Unk. (3); 15 mi; 2\u00b0; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.35,
+     33.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 14",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-26T08:10Z",
+    "lat_raw": "33-36N",
+    "lon_raw": "129-26E",
+    "local": "1944-11-26 1710(I)",
+    "page": "rg367-74830887/p16",
+    "note": "Ship Contacts No. 14: 1 AK (Small); 12000 yds; northeast 7 kts; periscope",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.4333,
+     33.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Contact 15",
+    "patrol": 4,
+    "on_track": false,
+    "utc": "1944-11-26T12:18Z",
+    "lat_raw": "33-40N",
+    "lon_raw": "128-50E",
+    "local": "1944-11-26 2118(I)",
+    "page": "rg367-74830887/p16",
+    "note": "Ship Contacts No. 15: 1 PC; 13000 yds; various, easterly 9 kts; SJ radar",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.8333,
+     33.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 43",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-28T05:25Z",
+    "lat_raw": "30-40N",
+    "lon_raw": "129-42E",
+    "local": "1944-11-28 1425(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 43: Nell; 7 mi; 3\u00b0; periscope. Narrative (p13) 1425: 'Sighted NELL bearing 307 (t), distant 7 miles'; 1954 'Surfaced on 4 main engines to transit TOKARA KAIKYO'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.7,
+     30.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 44",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-30T01:30Z",
+    "lat_raw": "22-40N",
+    "lon_raw": "136-45E",
+    "typed": "22?40N 136-45E",
+    "local": "1944-11-30 1030(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 44: B-24; 1? mi; 4\u00b0; sight. Narrative (p13) 29 Nov 0830: 'Sighted QUEENFISH bearing 105 (t), distant 8 miles'; 0910 'Rendezvouse with QUEENFISH'; 0930 'Commenced opening range'. 30 Nov 'Enroute Guam'",
+    "fix": "the separator is overtyped; the time's third digit is faded, read 3; both to check on the scan"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.75,
+     22.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Aircraft 45",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1944-11-30T23:09Z",
+    "lat_raw": "18-05N",
+    "lon_raw": "140-07E",
+    "local": "1944-12-01 0809(I)",
+    "page": "rg367-74830887/p19",
+    "note": "Aircraft Contacts No. 45: Coronado; 6 mi; SD. No date typed. Narrative (p13): 1 Dec 'Enroute Guam'; 2 Dec 0530 'Rendezvoused with escort', 1030 'Moored alongside U.S.S. SPERRY'",
+    "fix": "no date typed; assumed 1 Dec, between No. 44 (30 Nov, 22-40N 136-45E) and the rendezvous off Guam on 2 Dec"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.1167,
+     18.0833
+    ]
+   }
+  }
+ ]
+}

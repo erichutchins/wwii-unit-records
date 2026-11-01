@@ -1,0 +1,47 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+- attack: Attack 1
+  record: J02
+  relation: hit
+  note: >-
+    BARB claimed a large AP "Aikoku Maru class" sunk, firing in four parts from 0334 to 0409 I (narrative). Gokoku
+    Maru was an Aikoku Maru-class ship (secondary: combinedfleet), sunk at 0345 I on the 10th by the escort
+    division's chart, inside BARB's attack. Position not checked: Koshiki light is not placed
+- attack: Attack 1
+  record: J01
+  relation: hit
+  note: The loss table's row for the same ship (same headquarters; counts once with J02)
+- attack: Attack 3
+  record: J03
+  relation: probable
+  note: >-
+    BARB's periscope attack at 0412 I claimed a small AK sunk and a medium AK probably sunk. The chart's losses
+    begin at 0402 I with Naruo and Gyokuyo Marus. The 10 minutes fit; the positions are about 33 miles apart, but
+    BARB's sheet longitude is typed over (125 or 126) and her positions in this action are contact positions
+- attack: Attack 3
+  record: J05
+  relation: probable
+  note: Gyokuyo Maru, the other 0402 loss (see the J03 note)
+- attack: Attack 2
+  record: J06
+  relation: possible
+  note: >-
+    BARB's Attack 2 at 0140 I claimed a large AK and two medium AKs sunk. No Japanese loss is timed before 0402: the
+    escort division's chart starts the convoy's losses there. Either the hits of 0140 sank ships whose losses were
+    timed later, or the claim was not borne out; these pages don't say which
+- attack: Attack 2-D
+  record: J06
+  relation: possible
+  note: Claimed a large AK damaged at 0153 I; see the Attack 2 note
+- attack: Attack 3
+  record: J04
+  relation: possible
+  note: >-
+    Tatsuwa Maru's loss at 0609 I is two hours after BARB's last attack and at 31-37N 125-36E. BARB saw PETO attack
+    the same convoy that morning, so PETO is the likelier cause (inferred; PETO's report is not in these records)
+- attack: Attack 4
+  record: J08
+  relation: possible
+  note: >-
+    Unresolved. BARB claimed one hit on a Shokaku-class carrier at 2323-2326 I. The only Japanese-side account is
+    secondary (combinedfleet.com: Junyo, no damage); no Japanese primary record has been found, so neither the
+    identification nor the "no damage" is established

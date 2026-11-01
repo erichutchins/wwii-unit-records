@@ -1,0 +1,91 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+- id: J01
+  source: jacar:C08030141700
+  page: p48
+  ship: Mayasan Maru
+  convoy: HI-81
+  event: sank
+  date: 1944-11-17
+  time: '1812'
+  zone: I
+  lat_raw: 33-17N
+  lon_raw: 124-45E
+  original: 摩耶山丸 9433 〃(沈没) 17日1812 N33-17 E124-45 〃(ヒ81)
+  translation: 'Mayasan Maru, 9,433 tons, sunk, 17th 1812, N 33°17′ E 124°45′; convoy HI-81 (ditto)'
+  note: >-
+    1st Surface Escort Division war diary, November 1944, 別表第一別紙, table of ships lost to enemy submarines;
+    handwritten. The convoy column is a ditto mark under ヒ81 (Akitsu Maru's row)
+- id: J02
+  source: jacar:C08030141700
+  page: p52
+  ship: Mayasan Maru
+  convoy: HI-81
+  event: sank
+  date: 1944-11-17
+  time: '1812'
+  zone: I
+  lat_raw: 33-17N
+  lon_raw: 124-45E
+  original: 17日1812 N33-17 E124-45 摩耶山丸(沈没)
+  translation: '17th 1812, N 33°17′ E 124°45′: Mayasan Maru (sunk)'
+  note: >-
+    Same diary, 別表第三 (Moji–Shonan convoy escort chart), on the ヒ81 track. Same headquarters' summary as J01;
+    counts once
+- id: J03
+  source: jacar:C08030141700
+  page: p48
+  ship: Fukuju Maru
+  convoy: TAMO-29
+  event: sank
+  date: 1944-11-23
+  time: '0348'
+  zone: I
+  lat_raw: 34-26N
+  lon_raw: 128-20E
+  original: 福寿丸 5291 〃(沈没) 23日0348 N34-26 E128-20 〃(タモ29)
+  translation: 'Fukuju Maru, 5,291 tons, sunk, 23rd 0348, N 34°26′ E 128°20′; convoy TAMO-29 (ditto)'
+  note: >-
+    Same table. The route chart (J05, J06) puts the names the other way round: Shuyo Maru at 0348 and Fukuju Maru
+    at 0845. Which ship sank at which time is unresolved on these pages
+- id: J04
+  source: jacar:C08030141700
+  page: p48
+  ship: Shuyo Maru
+  convoy: TAMO-29
+  event: sank
+  date: 1944-11-23
+  time: 0845
+  zone: I
+  lat_raw: 34-10N
+  lon_raw: 128-58E
+  original: 修洋丸 6600 〃(沈没) 23日0845 N34-10 E128-58 タモ29
+  translation: 'Shuyo Maru, 6,600 tons, sunk, 23rd 0845, N 34°10′ E 128°58′; convoy TAMO-29'
+  note: First character read 修 (the chart, J05, has the same). See J03 on the names
+- id: J05
+  source: jacar:C08030141700
+  page: p51
+  ship: Shuyo Maru
+  convoy: TAMO-29
+  event: sank
+  date: 1944-11-23
+  time: '0348'
+  zone: I
+  original: 23日0348 N34-26 E128-2? 修洋丸(沈没)
+  translation: '23rd 0348, N 34°26′ E 128°2?′: Shuyo Maru (sunk)'
+  note: >-
+    Same diary, 別表第二 船団護衛状況 臺灣航路 (Formosa route convoy escort chart), November 1944, on the タモ29 track.
+    The longitude's last digit is a blot (the table, J03, has 20), so the position is left out of the columns. Names swapped against the table (J03, J04)
+- id: J06
+  source: jacar:C08030141700
+  page: p51
+  ship: Fukuju Maru
+  convoy: TAMO-29
+  event: sank
+  date: 1944-11-23
+  time: 0845
+  zone: I
+  lat_raw: 34-10N
+  lon_raw: 128-58E
+  original: 23日0845 N34-10 E128-58 福寿丸(沈没)
+  translation: '23rd 0845, N 34°10′ E 128°58′: Fukuju Maru (sunk)'
+  note: Same chart. Names swapped against the table (J03, J04)

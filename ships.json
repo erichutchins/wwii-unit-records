@@ -19,6 +19,25 @@
   ]
  },
  {
+  "key": "ss-220-barb",
+  "alias": "barb",
+  "name": "BARB",
+  "hull": "SS-220",
+  "class": "Gato",
+  "silhouette": "gato",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-220-barb/tracks.geojson",
+  "periods": [
+   {
+    "n": 10,
+    "name": "Tenth War Patrol",
+    "dates": "4 Nov 1944 – 19 Nov 1944"
+   }
+  ]
+ },
+ {
   "key": "ss-235-shad",
   "alias": "shad",
   "name": "SHAD",
@@ -167,6 +186,11 @@
     "n": 3,
     "name": "Third War Patrol",
     "dates": "31 Jul 1944 – 3 Oct 1944"
+   },
+   {
+    "n": 4,
+    "name": "Fourth War Patrol",
+    "dates": "2 Nov 1944 – 1 Dec 1944"
    }
   ]
  },
@@ -320,6 +344,25 @@
     "name": "SOUTH CHINA SEA",
     "lon": 116.0,
     "lat": 17.5
+   }
+  ]
+ },
+ {
+  "key": "ss-393-queenfish",
+  "alias": "queenfish",
+  "name": "QUEENFISH",
+  "hull": "SS-393",
+  "class": "Balao",
+  "silhouette": "balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-393-queenfish/tracks.geojson",
+  "periods": [
+   {
+    "n": 2,
+    "name": "Second War Patrol",
+    "dates": "4 Nov 1944 – 28 Nov 1944"
    }
   ]
  },

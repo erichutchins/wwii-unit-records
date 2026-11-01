@@ -1,0 +1,143 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# interval in seconds since the torpedo before (typed "10 sec." etc.; the first is typed "--", written "-");
+# depth_set typed "6 ft." (written 6'); no power line on these sheets (blank); track as typed with its side (90 P -> 90P).
+# The sheets type the zone with the time: "(I)".
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  heading: Torpedo Attack Number 1
+  type_attack: >-
+    Periscope attack made on first two AK's in near column. Three torpedoes fired at each ship. The second AO in far
+    column was overlapping each AK and it is believed that she received two hits from the salvo fired at the leading
+    AK. Periscope spread used. Torpedo speed reduced 1.1 knot for the 6' depth setting. Sound reported one of
+    torpedoes on course 90° to right of torpedo course set in TDC. Believed to be number 4 torpedo since gyro angles
+    order indicator-regulator refused to operate in power for numbers 5 and 6 torpedoes.
+  description: >-
+    Convoy consisted of two AO's and one AK in right column and four AK's in left column with six escorts. Initial
+    contact was by periscope shortly before sunset. Convoy was zig-zagging moderately. Visibility was good. Attack
+    made after sunset.
+  sunk: One large AK, similar to AOBASAN MARU, 8,800 tons.
+  damaged: One large AO, approximately 500 feet long.
+  determined_by: >-
+    Two torpedo explosions nearby, 3 minutes and 10 seconds and 3 minutes and 20 seconds after commencing firing,
+    followed by two distant torpedo explosions at 4 minutes and 4 minutes and 10 seconds. Breaking up noises heard
+    through the hull throughout the boat and on sound gear from the bearing of the second AK. Large scale plot
+    indicates that the two close by explosions were from the second AK in near column and that the two distant
+    explosions were from the second AO in far column. Upon surfacing, three hours later, a ship on fire over the
+    horizon exploded and sank as we approached. Cannot be identified positively as the AO we hit, but its location
+    indicates the possibility of it being the same.
+  target_line: "Target Draft: 15 ft. Course: 262 (t). Speed: 11.5 kts. Range: 2,100 yds.* * AO was at 4,000 yards."
+  own_ship: "Speed: 3 kts. Course: 030°30'(t). Depth 66 feet. Angle: 1½° down."
+  spread: Periscope spread.
+  sea: E - State 2.
+  overhaul: U.S.S. BUSHNELL.
+  page: rg367-74830887/p20
+  table_page: rg367-74830887/p21
+  note: >-
+    Own course 030°30' written 030.5. Tube 4's gyro is typed "325-30" (kept as typed; perhaps 325°30'); tube 4 is
+    the one marked erratic, which the sheet believes ran 90° right of its set course. Ship Contact 1 (p15) types the
+    target course 260 (t) and first contact at 1745; the sheet types 262 and fires at 1808. The narrative (p06-p07)
+    sights masts at 1740 and commences firing at 1808, agreeing with the sheet.
+
+- attack: Attack 2
+  heading: Torpedo Attack Number 2
+  type_attack: >-
+    Surface Radar Attack. Point of overlap of one AO and one AK was used for firing aim. TBT bearings and radar
+    ranges used. 1° spread put in TDC. Torpedo speed reduced 1.1 knots for 6' depth setting. Two torpedoes were seen
+    to broach; number 1 at about 500 yards ahead and number 2 immediately after it left tube. After firing bow nest,
+    reversed course and fired stern nest. All observed hits were from bow nest.
+  description: >-
+    Convoy consisted of two AK's, two AO's, and at least four escorts. Initial contact by sound on pinging at 18,000
+    yards. Entire attack made on surface by radar. Dark night, horizon dim, excellent for our camouflage.
+  sunk: None.
+  damaged: One large AK, class unknown (UN). One large AO, class unknown (UN).
+  determined_by: >-
+    One explosion heard through hull throughout boat, two heard on bridge, three heard on sound gear at 4 minutes and
+    13 seconds; 4 minutes and 25 seconds; and 4 minutes and 48 seconds after firing commenced. Puffs of smoke
+    observed coming from targets. Four hours later encountered same outfit with an AK, an AO, and three escorts
+    missing, indicating that the escorts were protecting these cripples. Still later two of these escorts were
+    sighted enroute SASEBO from direction of firing point without accompanying ships.
+  target_line: "Target Draft: 15 ft. Course: 082 (t). Speed: 9 knots. Range: 3,000 yds."
+  own_ship: "Speed: 8.5 kts. Course: 340 (t). Depth: On Surface. Angle: --"
+  spread: Divergent - 1°.
+  sea: E - State 2.
+  overhaul: U.S.S. BUSHNELL.
+  page: rg367-74830887/p22
+  table_page: rg367-74830887/p23
+  note: >-
+    Tubes 1 and 2 are typed "Miss (Broached)" (hit written Miss). The range's first digit is faint (read 3; Attack 2A
+    types 3,100). The "1° spread" in type_attack: the "1" is faint. Ship Contact 4 (p15) gives first contact at
+    0018 (I), 34-11N 127-37E, course 080. The sheet types 0347 for the bow nest; the narrative (p10) commences
+    firing bow tubes at 034? (last digit faint, read 0343), "Speed at firing 8.5 knots", and the stern tubes at 0347
+    (Attack 2A's time). Both kept.
+
+- attack: Attack 2A
+  heading: Torpedo Attack Number 2A
+  type_attack: Same as for Attack Number 2.
+  description: Same as for attack number 2.
+  sunk: None.
+  damaged: None.
+  determined_by: ""
+  target_line: "Target Draft: 15 ft. Course: 082 (t). Speed: 9 kts. Range: 3,100 yds."
+  own_ship: "Speed: 9.5 kts. Course: 170 (t). Depth: On Surface. Angle: - -"
+  spread: Divergent - 1°.
+  sea: E- State 2.
+  overhaul: U.S.S. BUCHNELL.
+  page: rg367-74830887/p24
+  table_page: rg367-74830887/p25
+  note: >-
+    The stern nest of Attack 2, same time and position. Tube 7 is Mark 18-1 with an 8-5 exploder; tubes 8-10 are
+    typed Mark "18" with 4-7 exploders and Mark 18 warheads. The overhaul line types "BUCHNELL" (BUSHNELL on the other
+    sheets).
+
+- attack: Attack 3
+  heading: Torpedo Attack Number 3
+  type_attack: >-
+    Periscope attack made, firing four torpedoes from bow nest at AO using periscope spread. Torpedo speed reduced 1.1
+    knots because of 6' depth setting.
+  description: >-
+    Target was on of the AO's of th.second attack. Only this AO, one of the AK's and one escort were present. Initial
+    contact made by periscope on smoke. Visibility good.
+  sunk: One large AO, ?oo feet long (by binocular formula), similar to RIKKO MARU, 9,000 tons.
+  damaged: None.
+  determined_by: >-
+    Two torpedo hits, 1 minute and 57 seconds and 2 minutes and 07 seconds after commencing firing, followed by loud
+    breaking up noises heard through the hull throughout the boat and on sound gear. Target's screws stopped when hit
+    and never started again. Four loud explosions from target were subsequently heard throughout the boat, sounding
+    like target blowing up. Persistent depth charging prevented taking a look.
+  target_line: "Target Draft: 15 ft. Course: 154 (t). Speed: ?.5 kts. Range: 1,500 yards."
+  own_ship: "Speed: 3 kts. Course: 250 (t). Depth: 66 ft. Angle: 1½° down."
+  spread: Periscope.
+  sea: E - State 2.
+  overhaul: U.S.S. BUSHNELL.
+  page: rg367-74830887/p26
+  table_page: rg367-74830887/p27
+  note: >-
+    The target speed's first digit is faint (8.5 or 6.5): written ?.5. The table types the tubes "#1 #2 #2 #4" (the
+    third column "#2", kept; presumably tube 3). Tube 4's track angle is under a blot on the scan (?) and its gyro's
+    first digit is faint (?53, presumably 353). The ship's length in "sunk" is typed with a faint first digit.
+    The sheet types 0640 (I); the narrative (p10) sights masts at 0750, commences firing "four remaining bow tubes"
+    at 0840 and hears "Two solid hits" at 0842. Both kept; positions.csv carries time_fix 0840.
+
+- attack: Attack 4
+  heading: Torpedo Attack Number 4
+  type_attack: >-
+    Periscope attack made, firing two torpedoes from after nest using periscope spread. Torpedo speed reduced 1.5
+    knots for the 4' depth setting.
+  description: Initial contact by periscope on smoke. Visibility good.
+  sunk: None.
+  damaged: None.
+  determined_by: ""
+  target_line: "Target Draft; 10 ft. Course: 045 (t). Speed: 4 knots. Range: 1,350 yds."
+  own_ship: "Speed: 2.6 kts. Course: 290 (t). Depth: 66 feet. Angle 1° down."
+  spread: Periscope.
+  sea: W - State 3.
+  overhaul: U. S. S. BUSHNELL.
+  page: rg367-74830887/p28
+  table_page: rg367-74830887/p29
+  note: >-
+    The sheet types the position 33-30N 128-26E; Ship Contact 13 (p16), the same coastal tanker at 1400, is at
+    33-30N 129-26E, and positions.csv corrects the longitude to 129-26E (lon_fix). Torpedoes Mark 18, exploders 4-7.

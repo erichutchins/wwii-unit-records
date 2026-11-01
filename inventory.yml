@@ -51,6 +51,11 @@ boats:
       4: { status: mapped, nara: [74802868], first_fix: 1944-10-26, last_fix: 1944-12-05, files: [positions, depths, layers, japanese, claims, frupac, attacks], note: "full report: tables, narrative, attack sheets" }
       5: { status: mapped, nara: [74802868], first_fix: 1945-01-02, last_fix: 1945-02-24, files: [positions, depths, layers, frupac, attacks], note: "full report: tables, narrative, attack sheets" }
       6: { status: mapped, nara: [74802934], first_fix: 1945-03-25, last_fix: 1945-05-18, files: [positions, depths, layers, japanese], note: "full report: tables, narrative, attack sheets" }
+  SS-393:   # QUEENFISH, Balao class
+    folder: boats/ss-393-queenfish
+    note: "group commander of 17.21 with PICUDA and BARB, Oct - Dec 1944 (rg367-74835166/p03). Other folders: 74835103 (Aug - Oct 1944), 74835203 (Dec 1944 - Jan 1945), 74835243 (Feb - Apr 1945), 74835280 (Jun - Jul 1945); war diaries' copies 139759087 (first), 139783484 (second), 633435562 (fourth), 101781465 (fifth)"
+    patrols:
+      2: { status: mapped, nara: [74835166, 139783484], first_fix: 1944-11-04, last_fix: 1944-11-28, files: [positions, japanese, claims, attacks], note: "27 Oct - 2 Dec 1944 (the report's 'Second War Patrol', p01, p03), Area 9 (East China Sea) with PICUDA and BARB; the narrative (p03-p09) types no positions: the track is the aircraft contacts (p12) and the four attack sheets (p13-p20, attacks 1-4, 20 torpedoes), with the ship contacts (p11) as targets. Pack summary p28. 139783484 is the war diaries' copy" }
   SS-395:   # REDFISH, Balao class
     folder: boats/ss-395-redfish
     patrols:
@@ -94,9 +99,14 @@ boats:
       1: { status: available, nara: [74830726, 78407778], note: "Feb - Apr 1944 (78407778 is the war diaries' copy)" }
       2: { status: available, nara: [74830781, 78526662], note: "May - Jun 1944 (78526662 is the war diaries' copy)" }
       3: { status: mapped, nara: [74830834, 139759034], first_fix: 1944-07-31, last_fix: 1944-10-03, files: [positions, attacks], note: "23 Jul - 3 Oct 1944, Luzon Strait with REDFISH and SPADEFISH; no position table: positions from the narrative (p01-p16) and the four attack sheets (p28-p35). The contact tables (p18-p27) not read. 139759034 is the war diaries' copy" }
-      4: { status: available, nara: [74830887, 139783444], note: "Oct - Dec 1944, with QUEENFISH and BARB (139783444 is the war diaries' copy)" }
+      4: { status: mapped, nara: [74830887, 139783444], first_fix: 1944-11-02, last_fix: 1944-12-01, files: [positions, japanese, claims, attacks], note: "Oct - Dec 1944, with QUEENFISH and BARB, East China Sea / Korea Strait; the narrative (p03-p13) types no positions: the track is the aircraft contacts (p17-p19; six of 45 off the track: four faded, two too fast as typed), the ship contacts (p15-p16) and the five attack sheets (p20-p29: 1, 2, 2A, 3, 4). 139783444 is the war diaries' copy" }
       5: { status: available, nara: [74830928], note: "Jan - Feb 1945" }
       6: { status: available, nara: [74830971, 633441992], note: "Mar - May 1945 (633441992 is the war diaries' copy)" }
+  SS-220:   # BARB, Gato class
+    folder: boats/ss-220-barb
+    note: "17.21 with QUEENFISH (group commander) and PICUDA, Oct - Nov 1944: 'Departed Majuro enroute SAIPAN in company with QUEENFISH, PICUDA and U.S.S. GREINER (Escort) ... Group commander, Commanding Officer QUEENFISH' (rg367-74803310/p03). Other folders: 74802977 (Oct 1942 - Mar 1943), 74803045 (Apr - Nov 1943), 74803096 (Mar - Apr 1944), 74803181 (May - Jul 1944), 74803239 (Aug - Oct 1944), 74803362 (Dec 1944 - Feb 1945), 74803425 (Jun - Aug 1945); war diaries' copies 633392359 (ninth), 139772945 (tenth), 139900856 (eleventh), 83543473 (twelfth)"
+    patrols:
+      10: { status: mapped, nara: [74803310, 139772945], first_fix: 1944-11-04, last_fix: 1944-11-19, files: [positions, japanese, claims, attacks], note: "27 Oct - 25 Nov 1944 (the report's 'Tenth War Patrol', p01, p03), Majuro - Saipan - Area 9 (East China Sea) - Midway, with QUEENFISH and PICUDA; the narrative (p03-p19, times ITEM) types no positions: the track is the aircraft contacts (p21-p24), with the ship contacts (p20) as targets. Six attack sheets (p25-p30: 1, 2, 2-D, 3, 4, 5; 24 torpedoes) and the gun attack sheet (p32); four sheets type the ship contact's position, not a fix at firing. 139772945 is the war diaries' copy (not checked)" }
 
 ships:
   DD-700:   # USS Haynsworth

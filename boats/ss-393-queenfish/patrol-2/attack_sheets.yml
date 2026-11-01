@@ -1,0 +1,127 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# fractions written as decimals (8¼ -> 8.25, 356½ -> 356.5). Depth set typed "6" (no unit; written 6).
+# Power typed "-" for every torpedo. Firing interval typed "0", "15 Sec" etc., the gap since the torpedo before;
+# a "0" after the first starts the salvo at the next target (written in `interval`).
+# "Type Spread" is typed per torpedo as an aim off the point of aim ("½°L", "0", "1½°R"): written in `offset`
+# (0.5L, 0, 1.5R); `spread` is blank.
+# The sheets type the zone with the time: "(I)".
+# Where a sheet gives two targets, each torpedo's target draft and range are those of the target its salvo was
+# aimed at (from `type_attack` and the narrative); the lines as typed are in target_line.
+# target_line and own_ship are the sheet's lines as typed. Sea is typed per torpedo, the same for each.
+
+- attack: Attack 1
+  heading: Torpedo Attack No. 1
+  type_attack: >-
+    Night surface attack using SJ ranges and TBT bearings. Four torpedoes fired at leading ship followed by two at
+    the second ship.
+  description: "(EU): Two freighters in column with three escorts."
+  sunk: One medium sized freighter (4,000 tons)
+  damaged: One small freighter (3,000 tons)
+  determined_by: >-
+    Saw first target sink immediately after being hit by two torpedoes. Heard one hit in second target after first
+    target had disappeared and before depth charges were dropped. Upon surfacing an hour and a half after attack,
+    second ship was not in vicinity.
+  target_line: >-
+    1st Target draft: 22' Course: 090° T Speed: 8¼ kts Range: 2,500 yds (at firing) 2nd Target draft: 18' Course:
+    090° T Speed: 8¼ kts Range; 3,400 yds (at firing)
+  own_ship: "Speed: 4 kts Course: 348° T Depth: Surface Angle: 0 (at firing)."
+  sea: "3"
+  overhaul: U.S.S. BUSHNELL
+  remarks: None.
+  page: rg367-74835166/p13
+  table_page: rg367-74835166/p14
+  note: >-
+    Time 2046(I), 8 Nov. 1944, 31-09.5 N 129-38.6 E. The narrative (p04) agrees: 1930 radar contact 'on two ships
+    with three escorts near Uji Gunto on easterly course'; 2046 'fired four torpedoes at the leading ship, a medium
+    sized AK, and two at the second ship'; 2217 surfaced. Tubes 1-4 are taken as the four at the leading ship (2,500
+    yds, 22') and 5-6, after the second "0" interval, as the two at the second (3,400 yds, 18'). Tube 6's track angle
+    reads "63 S" with the 3 struck over another figure (perhaps 2 or 8); kept as 63S. Ship Contact 1 (p11) types
+    first contact 1930 at 31-09 N 129-39 E, course 100°; the sheet types target course 090°.
+
+- attack: Attack 2
+  heading: Torpedo Attack No. 2
+  type_attack: Night submerged attack.
+  description: >-
+    (EU): Convoy of three ships with five escorts. Medium sized transport and large tanker were in column with a third
+    ship believed to be another transport abeam to port of the first two ships. Two escorts were on the bows, ahead
+    of the two ships in column. Position of other three escorts at time of firing not observed.
+  sunk: One medium transport (7,500 tons) One large tanker (10,000 tons)
+  determined_by: >-
+    Saw and heard three hits in transport. Heard two hits in tanker. Transport was seen to be badly damaged and was
+    heard to break up and sink. After a short depth charge attack and 27 minutes after the torpedo attack, both
+    sound operators simultaneously reported sounds of a ship breaking up and one minute later, tanker was heard to
+    explode and sink with fragments of the ship hitting our hull.
+  target_line: >-
+    1st Target draft: 25' Course: 059°T Speed: 7¼ kts Range 1,500 yds (at firing) 2nd Target draft: 28' Course:
+    059°T Speed: 7¼ kts Range 1,600 yds (at firing)
+  own_ship: "Speed: 3½ kts Course: 180° T Depth: 65 ft. Angle: 3° dive (at firing)."
+  sea: "4"
+  overhaul: U.S.S. BUSHNELL
+  remarks: None.
+  page: rg367-74835166/p15
+  table_page: rg367-74835166/p16
+  note: >-
+    Time 0242(I), 9 Nov. 1944, 31-17 N 129-10 E. The narrative (p05) agrees: 0207 'obtained position directly ahead
+    and dived'; 0242 'fired three torpedoes at the transport followed by three at the tanker'; 0309 breaking-up
+    sounds; 0310 'the tanker was heard to blow up'. Tubes 1-3 are taken as the three at the transport (1,500 yds,
+    25') and 4-6 as the three at the tanker (1,600 yds, 28'). The table types five hits (tubes 1-5), as the narrative
+    (three in the transport, two in the tanker). Mark torpedo is typed "18" for tubes 1, 3 and 4, "18-1" for the
+    rest.
+
+- attack: Attack 3
+  heading: Torpedo Attack No. 3
+  type_attack: Daylight submerged attack.
+  description: >-
+    (EU): One medium sized freighter, the second ship in column of a convoy consisting of about 12 freighters with
+    at least six escorts.
+  sunk: None.
+  damaged: One medium freighter (4,000 tons)
+  determined_by: >-
+    Heard one hit after firing four torpedoes at target. During following intensive depth charge attack and search,
+    heard three low rumbling explosions which were not depth charges.
+  target_line: "Target Draft: 22' Course: 278° T Speed: 8 kts Range: 1,550 yds (at firing)"
+  own_ship: "Speed: 4 kts Course: 059° T Depth: 64 ft. Angle: 1° dive (at firing)."
+  sea: "1"
+  overhaul: U.S.S. BUSHNELL
+  remarks: None.
+  page: rg367-74835166/p17
+  table_page: rg367-74835166/p18
+  note: >-
+    Time 0902(I), 11 Nov. 1944, 32-20 N 128-00 E. The narrative (p06) agrees: 0902 'fired four torpedoes at the
+    second ship in column and swung right to bring on the stern tubes. Only one hit resulted from the four forward
+    torpedoes'; the stern tubes were not fired. Ship Contact 3 (p11) types the convoy at 0530 at 32-20 N 128-30 E,
+    course 260°; the sheet types target course 278°.
+
+- attack: Attack 4
+  heading: Torpedo Attack No. 4
+  type_attack: Submerged daylight attack.
+  description: >-
+    (EC): One escort carrier in convoy of about eight ships with 6 - 8 escorts. Carrier's hull resembled that of
+    Kaiyo type (I&C Bulletin NACI-ONI No. 73) with the addition of a small island. No stacks were visible from port
+    side. Convoy was westbound from Empire and carrier was ferrying planes as her flight deck was covered with them.
+  sunk: One escort carrier Kaiyo type. (17,000 tons)
+  determined_by: >-
+    Two hits were obtained which was immediately followed by a terrific explosion which rocked the submarine. Upon
+    reaching periscope depth after the attack, convoy was disappearing to the west with the escorts stopped in the
+    vicinity of the attack; many aircraft circling the same vicinity; but no sign of the carrier. Debris remained in
+    area for three days after the attack.
+  target_line: "Target Draft: 21' Course: 303° T Speed: 11 kts. Range: 1,800 yds (at firing)"
+  own_ship: "Speed: 3.3 kts Course: 174° T Depth: 64 ft. Angle: 1° dive (at firing)."
+  sea: "1"
+  overhaul: U.S.S. BUSHNELL
+  remarks: None.
+  page: rg367-74835166/p19
+  table_page: rg367-74835166/p20
+  note: >-
+    Time 1155(I), 15 Nov. 1944, 33-15 N 128-10 E; stern tubes 7-10. The narrative (p07) agrees on the time: 1155
+    'obtained ping range which checked fairly closely with observed range of 1,500 yards and fired four torpedoes
+    from after tubes'; 'two distinct hits in the carrier were heard, followed four seconds later by an explosion'.
+    The narrative's range is 1,500 yards, the sheet's 1,800 yds; both kept (attacks.csv has the sheet's). Ship
+    Contact 5 (p11) types the convoy at 1100 at 33-15 N 128-20 E, course 260°, 11 kts; the sheet types target course
+    303°. The sheet's longitude 128-10 E is typed clearly, but sits 12 miles west of Aircraft 12 (1115, 33-15 N
+    128-25 E, p12) forty minutes earlier and 8 miles west of Aircraft 13 (1340, 128-20 E) while she was submerged
+    (18.8 kts and 4.8 kts by check_track.py, under its limit); the narrative (p07) types no position ('Submerged
+    west of Shiro Se light'). Kept as typed; one of the three longitudes is likely off.
