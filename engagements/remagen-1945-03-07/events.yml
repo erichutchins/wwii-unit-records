@@ -279,3 +279,48 @@
   note: >-
     Printed page -116-. Zone taken as A (assumed). The entry goes on to name two officers killed and to describe the
     collapse as witnesses gave it; left out here (the kit records units, not people)
+- at: 1945-03-08
+  placed: '"The first 36 hours of the bridgehead"; no date or time typed (dated here at its middle, assumed)'
+  side: us
+  actor: III Corps G-2
+  kind: report
+  words: >-
+    "No divisional units were in position on the east bank, and the first 36 hours of the bridgehead saw committment
+    of miscellaneous engineer, anti-aircraft, and replacement units. The 11 Pz Div arrived 9 March and was committed
+    against the bridgehead. ... The 106 Pz Brig accompanied it on the same mission."
+  source: III Corps AAR, March 1945, G-2 report
+  ref: iiicorps-aar-1945-03/p77
+  basis: assumed
+  note: >-
+    Printed page -75-. The German units as the US G-2 identified them (from prisoners), not a German record. The first
+    sentence is read in the text layer; the rest on the scan
+- at: 1945-03-13
+  placed: The day, as typed; no times
+  side: us
+  actor: III Corps G-2
+  kind: report
+  words: >-
+    "March 13 was a day for reinforcements, as 62 Volksgrenadier Division and 9 Panzer Division were identified in the
+    extreme north near HONNEF (F6427), replacing 106 Panzer Brigade, which shifted southeast, still attached to 11
+    Panzer Division. These two new divisions had their artillery with them, and used it heavily on our troops in
+    HONNEF"
+  source: III Corps AAR, March 1945, G-2 report
+  ref: iiicorps-aar-1945-03/p74
+  note: >-
+    Read on the scan. The same section (pdf 77, printed -75-) has 272 VG Div, with salvaged elements of 326 VG Div and
+    80 Replacement Bn, defending HONNINGEN, and 277 VG Div on its right, the same day. US identifications, not a German
+    record
+- at: 1945-03-14
+  placed: The day, as typed; the identification is from the day's prisoners
+  side: us
+  actor: 60th Armored Infantry Battalion (attached to the 311th Infantry, 78th Infantry Division)
+  kind: report
+  words: >-
+    "On March 14, as part of the 311-IR (78-ID), the 60-AIB was assigned the mission of taking as series of numbered
+    objectives, high hills and towns in a sector north and east of Bad Honnef. ... From captured PWs during the day the
+    enemy was identified as a group of miscellaneous units organized under a unit of the 3.Fallschirmjäger-Division."
+  source: 60th AIB after action report, March 1945 (EUCMH transcription)
+  ref: eucmh60aib/1945-03
+  note: >-
+    A transcription, not checked against the original. The Corps G-2 has the 62 VG and 9 Pz Divs near Honnef on 13 March
+    (pdf 74) and 3 Parachute Division coming "back on our north" only later in the month (pdf 78); see claims.yml

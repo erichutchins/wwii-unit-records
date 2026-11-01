@@ -42,4 +42,6 @@ The narrative's pages for 17-19 March are not in the scan (printed -41- onward; 
 so 17 March here is the G-2 section's and the engineer journal's. Still to find: the 9th Armored Division's, CC B's,
 the 27th Armored Infantry Battalion's and the 14th Tank Battalion's own reports, and the antiaircraft battalions' and
 groups' reports (claims by unit), all in NARA RG 407 and not online; and the German side: the Luftwaffe's loss
-returns, the Wehrmachtbericht for these days, and the V-2 battery's firings. Nothing German is entered yet.
+returns, the Wehrmachtbericht for these days, and the V-2 battery's firings. The German units on the ground are so far
+only as the US records identified them from prisoners: the Corps' G-2 report (pdf 74, 77) and the 60th Armored Infantry
+Battalion's report for 14 March. No German record is entered yet.
