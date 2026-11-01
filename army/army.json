@@ -1823,6 +1823,24 @@
      }
     },
     {
+     "date": "1945-01-01",
+     "lat": 48.8723,
+     "lon": 7.5251,
+     "place": "Schillersdorf",
+     "offset": "",
+     "station": "SCHILLERSDORF",
+     "page": "ok45th-17552/p07",
+     "source": "bn",
+     "note": "January 1945 narrative summary: \"The beginning of the year 1945 necessitated the moving of our Battalion CP from MERKWEILLER to SCHILLERSDORF and then to LA PETITE PIERRE.\" No dates or grids: so the battalion CP was at Merkweiller (Merkwiller-Pechelbronn) at the end of December, which the December history (ok45th-17542) does not give. Battery D, still defending the 45th Division Artillery Cub air field and the 189th FA Bn (p03), is placed only on the 29th.",
+     "place_note": "matched: Schillersdorf, Saverne, Bas-Rhin, Grand Est, France (village)",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null,
+     "when": "1945-01",
+     "precision": "town"
+    },
+    {
      "date": "1945-01-29",
      "lat": 48.8834,
      "lon": 7.444,
@@ -1842,6 +1860,24 @@
       "km_from_town": 0.0,
       "square_from_town": false
      }
+    },
+    {
+     "date": "1945-01-31",
+     "lat": 48.8579,
+     "lon": 7.3206,
+     "place": "La Petite Pierre",
+     "offset": "",
+     "station": "LA PETITE PIERRE",
+     "page": "ok45th-17552/p07",
+     "source": "bn",
+     "note": "The second January CP move (see 1 January): from Schillersdorf \"and then to LA PETITE PIERRE\", on a day not given; there by the end of the month and still on 9 February (General Orders No. 3, ok45th-17550/p05). The 45th Division's own CP opened at La Petite Pierre on 22 January (etoob-45ID).",
+     "place_note": "matched: La Petite-Pierre, Saverne, Bas-Rhin, European Collectivity of Alsace, Grand Est, Metropoli",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null,
+     "when": "..1945-01-31",
+     "precision": "town"
     },
     {
      "date": "1945-02-09",
@@ -2519,7 +2555,7 @@
      "station": "Battery D - Y-888629 (Munich)",
      "page": "ok45th-17562/p03",
      "source": "btry",
-     "note": "Battery D's own CP, from the table \"Locations of Battery C.P.'s\", 11-14 May. \"This battalion garrisoned in the city of Munich, Germany\" (11 May). Where the battery was from 30 April to 10 May isn't in the collection: the May history begins on the 11th and the journal's 1-9 May pages are missing.",
+     "note": "Battery D's own CP, from the table \"Locations of Battery C.P.'s\", 11-14 May. \"This battalion garrisoned in the city of Munich, Germany\" (11 May). The journal for 11 May (p06): \"Headquarters Forward and Rear now together in Garrison in MUNICH- Y -861610. Batterys A,B,C and D in Vicinity of Garrison.\" Where the battery was from 30 April to 10 May isn't in the battalion's records: the May history begins on the 11th and the journal's surviving May pages begin partway through the 10th (p06); the April journal ends on 30 April with no move (ok45th-17541/p31). The 45th Division's G-3 report for 1-10 May gives the battalion only as a whole (\"Provided AA protection for Div zone\", 1 May, ok45th-7766/p04), and from Operations Instructions No 51 (081900B May) puts Batteries A, B and C under the three infantry regiments without naming D (ok45th-7766/p08-p09).",
      "place_note": "Battery D's CP, from the grid (scripts/ndg_grid.py): Alt-Freimann, north Munich.",
      "place_source": "grid",
      "grid": "Y-888629",
@@ -2844,8 +2880,8 @@
      "page": "ok45th-17552/p03",
      "note": "",
      "grid_on": "",
-     "lat": 48.9647,
-     "lon": 7.7441
+     "lat": 48.8723,
+     "lon": 7.5251
     },
     {
      "unit": "106aaa-d",
@@ -4276,7 +4312,7 @@
      "station": "Contrexeville, France, Z-65",
      "page": "rg64-576306103/p3169",
      "source": "mr",
-     "note": "Still \"Contrexeville, France, VZ-6457\" on the scans of 1, 29, 30 and 31 Dec (Dec roll 578475986, p4050, p4078-p4080), and on every December page by OCR. The battalion history (p34) has its batteries digging in around Nancy-Toul on New Year's Eve.",
+     "note": "Still \"Contrexeville, France, VZ-6457\" on the scans of 1, 29, 30 and 31 Dec (Dec roll 578475986, p4050, p4078-p4080), and on every December page by OCR. The battalion history (p34) has its batteries digging in around Nancy-Toul on New Year's Eve. From 24 Nov the form types the grid \"VZ-6457\" (p3184; again 26 and 30 Nov, p3186, p3190; 11, 17, 21 and 26 Dec on roll 578475986, p4060, p4066, p4070, p4075), the same town: it decodes on the western Nord de Guerre block to 48.2033 N 5.9138 E, about 3 km from Contrexeville. No move through December.",
      "place_note": "matched: Contrexéville, Neufchâteau, Vosges, Grand Est, Metropolitan France, 88140, France",
      "place_source": "OSM Nominatim",
      "grid": "Z-65",
