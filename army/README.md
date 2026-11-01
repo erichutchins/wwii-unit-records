@@ -66,7 +66,7 @@ Hand-edited (the source of truth):
 - `places.csv`: coordinates for the places the stations name
 - `actions.csv`: Battery D, 106th AAA's engagements and casualties, from the battalion's monthly
   histories (Aug 1944 – Apr 1945); the 62nd CA (AA) batteries' firings (A, B, C and G), from their morning reports
-  (Oran and Algiers, 1942–43)
+  (Oran and Algiers, 1942–43); the 128th AAA Gun Bn's engagements named in Third Army's antiaircraft reports (1944–45), entered under its HQ battery
 - `ships.csv`: the ships of the sea crossings
 - `relations.csv`: dated relationships between units (part of, attached to, under command of, took part in), each with its page
 - `routes.csv`: waypoints for legs the reports don't trace (Atlantic voyages, train rides).
@@ -136,6 +136,10 @@ here, not in the data, until a page says so.
 | Lead | Said by | Searched | Still to search |
 |---|---|---|---|
 | The 9th Armored Division's attachment to Third Army began 9 Jan 1945 (the order of battle) or 11 Jan (Third Army's Quartermaster and Antiaircraft sections): which date is right | `etoob-9AD/p502` (9 Jan); `aar3/p626` (11 Jan: "attached ... for supply and administration on 11 January, but remained assigned to the Fifteenth U. S. Army") and `aar3/p097` (the division's return to the Third Army area on 11 Jan) | Third Army's after action report, Quartermaster and Antiaircraft chapters for January (both read on the scan); the 9th Armored's own after action report and the 60th Armored Infantry Battalion's (transcribed by EUCMH, archived): no army named | The 9th Armored's G-3 and G-4 reports and journals for January 1945 (NARA RG 407, the division's 609 files); Fifteenth Army's history; Third Army's letters of instruction, January 1945 |
+| The 60th Armored Infantry Battalion's positions in April and May 1945 (to V-E Day): its own reports stop at March in the only transcription found | `eucmh60aib` (October 1944 - March 1945 only) | The EUCMH page (cached; ends with the March report); web searches for the April and May reports (1 Nov 2026: none online); the Internet Archive was offline that day, so EUCMH's other 9th Armored posts were not listed | The battalion's April and May 1945 after action reports (NARA RG 407, the division's 609 files); Paul M. Crucq, *Strike, Fight and Conquer: The History of the 60th Armored Infantry* (a battalion history, secondary); EUCMH's archived posts (`tools/wayback.py list eucmh.be`) |
+| Where Combat Command A, and the 9th Armored Division as a whole, stood on 8 May 1945 | `gi9ad` (CC A met Soviet troops near Karlsbad); `etoob-9AD/p501` (CC A with the 1st Infantry Division to 8 May); the US Holocaust Memorial Museum's encyclopedia (between Falkenau an der Eger and Cheb; secondary); an EUCMH summary without sources ("in Rudolec", 7 May; secondary, place unidentified) | The order of battle's command posts (they end at Weiden, 6 May); the G.I. Stories booklet; Third Army's after action report, vol. II (the text layer has no 9th Armored entry for May) | The 1st Infantry Division's order of battle and after action report for May 1945 (its attachments and command posts); the 9th Armored's after action report for May 1945; Third Army's vol. I, May |
+| The 131st Ordnance Maintenance Battalion's and the 2d, 14th and 19th Tank Battalions' own positions, April 1945 to inactivation | `etoob-9AD/p499` (composition only) | Web searches (1 Nov 2026): no after action report or history of the 131st online; unithistories.com repeats the order of battle | The battalions' after action reports and histories (NARA RG 407, 609-ORD-0.1 and the tank battalions' files); the 1947 *History of the 9th Armored Division* (Albert Love Enterprises; secondary) |
+| The 9th Armored Division's stations from 8 May to its return to the United States (10 Oct 1945, `almanac9ad`), and its port and ship | `almanac9ad` (the return and inactivation dates only) | The order of battle (ends 6 May); the Army Almanac | The division's history and the 1947 division history; the Army's troopship arrival lists for October 1945 |
 
 ## actions.csv columns
 
@@ -159,7 +163,7 @@ are the whole defense's, not the battery's.
 | `text` | The entry's words, abridged with `...`. Other soldiers' names and serial numbers are left out; the note says when the record names someone |
 | `placed` | How the map point is made: `grid` (the entry's Nord de Guerre reference, via `tools/ndg_grid.py`), `place` (a `places.csv` row), or `station` (no usable position: the battery's station that day; when that station isn't placed on the map yet, the action is left off the map too) |
 | `place`, `grid`, `grid_on` | As used by `placed`; `grid_on` as in stations.csv |
-| `page` | `ok45th-<item>/pNN` |
+| `page` | `ok45th-<item>/pNN`; `rg64-<roll>/pNNNN`; `hist894/pNN`; `aar3/pNNN` (Third Army's antiaircraft section: its daily log and weekly intelligence reports, for the 128th AAA, whose claims are the battalion's or its batteries', not the HQ battery's) |
 | `note` | Context, and which position a grid marks (often the target or the crash, not the battery) |
 
 ## ships.csv columns

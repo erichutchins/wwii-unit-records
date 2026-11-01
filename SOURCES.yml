@@ -370,6 +370,23 @@ wiki9ad:
   match: '^wiki9ad$'
   used_for: army/stations.csv (9th Armored Division positions); secondary
 
+almanac9ad:
+  title: "The Army Almanac: A Book of Facts Concerning the Army of the United States (1950): 9th Armored Division"
+  by: Department of the Army (U.S. Government Printing Office, 1950)
+  held: >-
+    Lone Sentry's reproduction of the almanac's entry for the division ("with only minor formatting and typographical
+    changes"); the printed volume's page is not given there
+  url: https://lonesentry.com/usdivisions/history/armored/division/9th_armored_division.html
+  rights: Public domain (U.S. government publication)
+  cite: almanac9ad
+  match: '^almanac9ad$'
+  used_for: army/stations.csv (the 9th Armored Division's return to the United States and inactivation); compiled after the war, not a record kept at the time
+  note: >-
+    Its combat narrative for April 1945: "In April it continued east, encircled Leipzig and secured a line along the
+    Mulde River. The Division was shifting south to Czechoslovakia when the war in Europe ended." Then "Returned to
+    U.S.: 10 October 1945" and "Inactivated: 13 October 1945". Its assignments repeat the ETO order of battle's
+    (etoob-9AD/p502) and are not a further source for them.
+
 frupac:
   title: FRUPAC War Map Collection
   by: Fleet Radio Unit Pacific (FRUPAC)
