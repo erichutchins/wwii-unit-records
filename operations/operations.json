@@ -1,6 +1,374 @@
 {
  "operations": [
   {
+   "id": "europe",
+   "theater": "europe",
+   "name": "Northwest Europe (the European Theater of Operations)",
+   "short": "Northwest Europe",
+   "kind": "theater",
+   "from": "1944-06-06",
+   "to": "1945-05-08",
+   "area": [
+    -5.5,
+    42.5,
+    15.5,
+    54.5
+   ],
+   "area_precision": "region",
+   "ref": [
+    "cmh/NormandyCmh72-18/p3",
+    "last/19/p475",
+    "last/20/p476"
+   ],
+   "note": "From the Normandy landings (the Normandy campaign's official dates, CMH brochure p3) to the German surrender, signed at Reims on 7 May \"to become effective at 2301, 8 May\" (MacDonald, Last Offensive p475). The Central Europe campaign's official dates run on to 11 May. Southern France is entered here, as the history of the Seventh Army does (Riviera to the Rhine), though the landings were mounted from the Mediterranean. Italy after Siena stays under the Mediterranean and is not yet entered. Area drawn by hand.",
+   "sections": [
+    {
+     "heading": "What it was for",
+     "paras": [
+      {
+       "text": "The cross-Channel force was to be built up in the United Kingdom \"with the object of mounting an operation with target date 1 May 1944 to secure a lodgment on the Continent from which further offensive operations can be carried out.\" [[cite:harrison/2/p69]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What it meant",
+     "paras": [
+      {
+       "text": "\"With the lights going on again all over Europe, the United States and its allies on 8 May celebrated V-E (Victory in Europe) Day.\" [[cite:last/20/p476]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "normandy",
+   "theater": "europe",
+   "name": "Normandy (Operation OVERLORD)",
+   "short": "Normandy",
+   "kind": "campaign",
+   "parent": "europe",
+   "from": "1944-06-06",
+   "to": "1944-07-24",
+   "area": [
+    -2.0,
+    48.3,
+    0.5,
+    49.8
+   ],
+   "area_precision": "region",
+   "ref": [
+    "cmh/NormandyCmh72-18/p3",
+    "harrison/8/p300",
+    "breakout/12/p234"
+   ],
+   "note": "The official campaign dates, 6 June - 24 July 1944, are those printed under the title of the Center of Military History's brochure (p3). The histories mark the same bounds: \"H Hour for U. S. beaches was 0630\" (Harrison p300), and the COBRA bombardment that opened the breakout on 25 July (Blumenson p234). Area drawn by hand around the beachhead and the Cotentin.",
+   "sections": [
+    {
+     "heading": "What it was for",
+     "paras": [
+      {
+       "text": "The force was to be built up in the United Kingdom \"with the object of mounting an operation with target date 1 May 1944 to secure a lodgment on the Continent from which further offensive operations can be carried out.\" [[cite:harrison/2/p69]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "Cherbourg was the first port. For the final attack on 22 June, the air preparation was concentrated \"in the zones of the 79th and 9th Divisions south and southwest of Cherbourg\"; \"H Hour was set for 1400. Bombing began according to plan at 1240, 22 June.\" The 79th Division's stations near Cherbourg are on the Army map: [[unit:313inf-b@1944-06-26|Company B, 313th Infantry]]. [[cite:harrison/10/p428]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What it meant",
+     "paras": [
+      {
+       "text": "By 1 July: \"The failure to make anticipated territorial gains was the only major respect in which the OVERLORD operation had fallen short of planning calculations. For the rest, the success achieved by Allied combined arms outstripped the plan.\" [[cite:harrison/10/p448]]",
+       "aside": false
+      },
+      {
+       "text": "\"The beginning had been good; it had carried out the plan at least in the essentials that counted. But it was only the beginning; still in the incalculable future lay the final objective of operation OVERLORD--the thrust into the heart of Hitler's Germany.\" [[cite:harrison/10/p449]]",
+       "aside": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "northern-france",
+   "theater": "europe",
+   "name": "Northern France (the breakout and pursuit)",
+   "short": "Northern France",
+   "kind": "campaign",
+   "parent": "europe",
+   "from": "1944-07-25",
+   "to": "1944-09-14",
+   "area": [
+    -4.8,
+    47.0,
+    6.5,
+    51.5
+   ],
+   "area_precision": "region",
+   "ref": [
+    "cmh/NorthernFrance/p3",
+    "breakout/12/p234",
+    "breakout/32/p702"
+   ],
+   "note": "The official campaign dates, 25 July - 14 September 1944, are those printed under the brochure's title (CMH, Northern France, p3; page to check on the scan). The histories mark the bounds: the COBRA bombardment on the morning of 25 July (Blumenson p234), and the 6th Army Group's becoming operational under SHAEF on 15 September (p702). Area drawn by hand from Brittany to the German border; its middle falls in France.",
+   "sections": [
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "\"Again on the morning of 25 July the planes came. Flying in groups of twelve, over 1,500 B-17's and B-24's dropped more than 3,300 tons of bombs in the COBRA area\". [[cite:breakout/12/p234]]",
+       "aside": false
+      },
+      {
+       "text": "\"Thinly spread, both laterally and in depth, the armies overran and liberated northern France, most of Belgium and Luxembourg, and parts of the Netherlands.\" [[cite:breakout/32/p688]]",
+       "aside": false
+      },
+      {
+       "text": "On 11 September an American patrol crossed into Germany near the village of Stalzemburg, at 1805 by its report. [[cite:siegfried/1/p3]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What it meant",
+     "paras": [
+      {
+       "text": "\"The end of the war in Europe seemed just around the corner\". To some observers \"it seemed that the Allies were closer to victory after the pursuit in 1944 than after Marshal Ferdinand Foch's grand autumn offensive, which had preceded German surrender in World War I.\" [[cite:breakout/32/p702]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dragoon",
+   "theater": "europe",
+   "name": "Southern France (Operation DRAGOON, earlier ANVIL)",
+   "short": "Southern France",
+   "kind": "campaign",
+   "parent": "europe",
+   "from": "1944-08-15",
+   "to": "1944-09-14",
+   "area": [
+    4.0,
+    43.0,
+    7.8,
+    47.8
+   ],
+   "area_precision": "region",
+   "ref": [
+    "riviera/1/p21",
+    "riviera/1/p22",
+    "riviera/10/p193",
+    "riviera/10/p194"
+   ],
+   "note": "The landings began on 15 August (Clarke and Smith p21, p22). The end, 14 September, is the official campaign date; the history marks it the same way: \"After 14 September\", with the Seventh Army under SHAEF, \"the campaign of southern France was officially over\" (p193-194). The CMH brochure for this campaign is on archive.org (SouthernFrance) but its text layer is unreadable; not cited. Mounted from the Mediterranean; entered under Northwest Europe, where its armies went. Area drawn by hand from the Riviera to the Belfort Gap.",
+   "sections": [
+    {
+     "heading": "What it was for",
+     "paras": [
+      {
+       "text": "On 2 July the Combined Chiefs directed a three-division landing on 15 August. \"The missions of the ANVIL forces were to seize the ports of Toulon and Marseille and exploit northward to Lyon to support future Allied operations in Western Europe.\" [[cite:riviera/1/p21]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "The 45th Division was to land \"over a number of small beaches along the northern and southern shores of the St. Tropez gulf.\" \"Although some of the 45th Division's Delta beaches did not have good exits to the interior, they proved generally adequate on D-day.\" On the Army map from 15 August: [[unit:45id-hq@1944-08-15|the 45th Division's command post]] and [[unit:106aaa-d@1944-08-15|Battery D, 106th AAA AW Bn]]. [[cite:riviera/5/p78]] [[cite:riviera/11/p201]]",
+       "aside": false
+      },
+      {
+       "text": "On the evening of 10 September \"the first meeting occurred between reconnaissance troops of the OVERLORD and Anvil-DRAGOON forces.\" [[cite:breakout/32/p702]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What it meant",
+     "paras": [
+      {
+       "text": "\"After 14 September, however, the plans of Patch and his principal commanders would have to conform to a larger operational framework dictated by SHAEF. For all purposes the campaign of southern France was officially over and a new one begun, one in which the Mediterranean-based Allied army would obviously play a lesser role than before.\" [[cite:riviera/10/p193]] [[cite:riviera/10/p194]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rhineland",
+   "theater": "europe",
+   "name": "The Rhineland",
+   "short": "Rhineland",
+   "kind": "campaign",
+   "parent": "europe",
+   "from": "1944-09-15",
+   "to": "1945-03-21",
+   "area": [
+    5.6,
+    47.5,
+    8.6,
+    52.0
+   ],
+   "area_precision": "region",
+   "ref": [
+    "cmh/RhinelandCmh72-25/p3",
+    "breakout/32/p702",
+    "last/12/p263"
+   ],
+   "note": "The official campaign dates, 15 September 1944 - 21 March 1945, are those printed under the brochure's title (CMH, Rhineland, p3; page to check on the scan). The histories mark the start with the 6th Army Group's becoming operational on 15 September (Blumenson p702) and the end with the last Germans west of the Rhine in the Palatinate, 22 March (MacDonald, Last Offensive p263). The campaign's ground runs from the Netherlands to Alsace, west of the Rhine; it overlaps the Ardennes-Alsace campaign in time. Area drawn by hand; its middle falls in Germany.",
+   "sections": [
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "\"When Lt. Gen. Jacob L. Devers' 6th Army Group became operational under SHAEF control on 15 September, General Eisenhower would command forces along a continuous front from the Netherlands to Switzerland, with three army groups ready to enter Germany.\" [[cite:breakout/32/p702]]",
+       "aside": false
+      },
+      {
+       "text": "On 6 March the III Corps commander, General Millikin, telephoned the commander of the [[unit:9ad@1945-03-07|9th Armored Division]] about the railroad bridge at Remagen: \"Do you see that little black strip of bridge at Remagen? If you happen to get that, your name will go down in glory.\" [[cite:last/11/p212]]",
+       "aside": false
+      },
+      {
+       "text": "\"By nightfall of 22 March the Germans west of the Rhine could measure the time left to them in hours.\" [[cite:last/12/p263]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What it meant",
+     "paras": [
+      {
+       "text": "Of the autumn's fighting at the border: \"The fact is that the Siegfried Line Campaign, for all its terrible cost, paid off, not so much in real estate as in attrition of the German armies.\" [[cite:siegfried/27/p622]]",
+       "aside": false
+      },
+      {
+       "text": "By the end, \"the Allied armies, since the February beginning of the battle for the Rhineland, had taken more than 250,000 prisoners.\" [[cite:last/15/p338]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ardennes-alsace",
+   "theater": "europe",
+   "name": "The Ardennes-Alsace (the Battle of the Bulge and Operation NORDWIND)",
+   "short": "Ardennes-Alsace",
+   "kind": "campaign",
+   "parent": "europe",
+   "from": "1944-12-16",
+   "to": "1945-01-25",
+   "area": [
+    4.6,
+    47.6,
+    8.2,
+    50.6
+   ],
+   "area_precision": "region",
+   "ref": [
+    "cmh/Ardennes-Alsace/p3",
+    "cole/25/p650",
+    "riviera/27/p506",
+    "riviera/28/p526"
+   ],
+   "note": "The official campaign dates, 16 December 1944 - 25 January 1945, are those printed under the brochure's title (CMH, Ardennes-Alsace, p3; page to check on the scan). The histories: the German attack of 16 December (Cole p650); in Alsace, \"The Last German Offensive 31 December 1944-25 January 1945\" (Clarke and Smith, map 34, p506), whose final attacks came on the night of 24-25 January (p526). In the Ardennes the mop-up went on to 28 January (MacDonald, Last Offensive p53). Area drawn by hand around the Ardennes and northern Alsace together; its middle falls in France.",
+   "sections": [
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "\"On the morning of 16 December the American forces in the path of the German counteroffensive comprised four and two-thirds divisions with an effective strength of about 83,000 men.\" [[cite:cole/25/p650]]",
+       "aside": false
+      },
+      {
+       "text": "\"This was the state of the weather when, on 3 January, the Allies began their final counterattack.\" By the end of January \"the bulge created by the futile counteroffensive that had cost Germans and Americans alike so heavily was erased.\" [[cite:cole/25/p650]] [[cite:last/2/p53]]",
+       "aside": false
+      },
+      {
+       "text": "In Alsace, \"between 5 and 25 January, the German Army undertook four additional multidivision offensives against the U.S. Seventh Army and another against the First French Army\". After the last attacks of 24-25 January, the Seventh Army counterattacked, \"with the 100th and 45th Divisions on the west\" ([[unit:45id-hq@1945-01-25|the 45th Division's command post]]), and \"on 26 January, with their reserves exhausted,\" the German command \"finally called a halt to what had clearly become a battle of attrition.\" [[cite:riviera/28/p513]] [[cite:riviera/28/p526]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What it meant",
+     "paras": [
+      {
+       "text": "\"Once the Germans had failed in the Ardennes, there could be no longer any doubt that they had lost the war.\" [[cite:last/20/p480]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "central-europe",
+   "theater": "europe",
+   "name": "Central Europe (the last offensive)",
+   "short": "Central Europe",
+   "kind": "campaign",
+   "parent": "europe",
+   "from": "1945-03-22",
+   "to": "1945-05-11",
+   "area": [
+    6.0,
+    47.0,
+    14.5,
+    54.0
+   ],
+   "area_precision": "region",
+   "ref": [
+    "cmh/CentralEurope/p3",
+    "last/13/p270",
+    "last/19/p475"
+   ],
+   "note": "The official campaign dates, 22 March - 11 May 1945, are those printed under the brochure's title (CMH, Central Europe, p3). The histories mark the start with the Third Army's crossing of the Rhine at Nierstein, a few minutes before 2200 on 22 March (MacDonald p270); the surrender signed at Reims took effect at 2301 on 8 May (p475). The three days after V-E Day are only in the campaign-credit dates. Area drawn by hand from the Rhine to the Elbe and the Alps; its middle falls in Germany.",
+   "sections": [
+    {
+     "heading": "What happened",
+     "paras": [
+      {
+       "text": "On the night of 22 March, \"the Third Army had crossed ... without even so much as an artillery preparation.\" [[cite:last/13/p270]] [[cite:last/13/p273]]",
+       "aside": false
+      },
+      {
+       "text": "\"Jodl signed the surrender at 0241, 7 May, to become effective at 2301, 8 May.\" [[cite:last/19/p475]]",
+       "aside": false
+      }
+     ]
+    },
+    {
+     "heading": "What it meant",
+     "paras": [
+      {
+       "text": "\"It was, for all the crumbling nature of the opposition, a logistical tour de force by the most highly motorized and mechanized armies the world had ever known.\" [[cite:last/20/p480]]",
+       "aside": false
+      },
+      {
+       "text": "\"The only basic matter to be decided by the last offensive was not whether the Germans would be reduced to total defeat, but when.\" [[cite:last/20/p480]] [[cite:last/20/p481]]",
+       "aside": false
+      },
+      {
+       "text": "\"As the last offensive came to an end, few if any who fought in it could have entertained any doubts as to the right of their cause--they had seen at Buchenwald, Belsen, Dachau, and at a dozen other places, including little Ohrdruf, what awful tyranny man can practice on his fellow man.\" [[cite:last/20/p481]]",
+       "aside": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "mediterranean",
    "theater": "mediterranean",
    "name": "The Mediterranean",
@@ -298,6 +666,216 @@
   }
  ],
  "cites": {
+  "cmh/Ardennes-Alsace/p3": {
+   "href": "https://archive.org/details/Ardennes-Alsace/page/3/mode/1up",
+   "short": "CMH campaign brochure",
+   "title": "The U.S. Army Campaigns of World War II (CMH Pub 72-series brochures: Normandy, Northern France, Rhineland, Ardennes-Alsace, Central Europe)",
+   "page": "3"
+  },
+  "cole/25/p650": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Ardennes/USA-E-Ardennes-25.html#page650",
+   "short": "Cole",
+   "title": "The Ardennes: Battle of the Bulge (United States Army in World War II: The European Theater of Operations)",
+   "page": "650"
+  },
+  "riviera/27/p506": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-27.html#page506",
+   "short": "Clarke and Smith",
+   "title": "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)",
+   "page": "506"
+  },
+  "riviera/28/p526": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-28.html#page526",
+   "short": "Clarke and Smith",
+   "title": "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)",
+   "page": "526"
+  },
+  "last/2/p53": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-2.html#page53",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "53"
+  },
+  "riviera/28/p513": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-28.html#page513",
+   "short": "Clarke and Smith",
+   "title": "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)",
+   "page": "513"
+  },
+  "last/20/p480": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-20.html#page480",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "480"
+  },
+  "cmh/CentralEurope/p3": {
+   "href": "https://archive.org/details/CentralEurope/page/3/mode/1up",
+   "short": "CMH campaign brochure",
+   "title": "The U.S. Army Campaigns of World War II (CMH Pub 72-series brochures: Normandy, Northern France, Rhineland, Ardennes-Alsace, Central Europe)",
+   "page": "3"
+  },
+  "last/13/p270": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-13.html#page270",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "270"
+  },
+  "last/19/p475": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-19.html#page475",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "475"
+  },
+  "last/13/p273": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-13.html#page273",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "273"
+  },
+  "last/20/p481": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-20.html#page481",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "481"
+  },
+  "riviera/1/p21": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-1.html#page21",
+   "short": "Clarke and Smith",
+   "title": "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)",
+   "page": "21"
+  },
+  "riviera/1/p22": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-1.html#page22",
+   "short": "Clarke and Smith",
+   "title": "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)",
+   "page": "22"
+  },
+  "riviera/10/p193": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-10.html#page193",
+   "short": "Clarke and Smith",
+   "title": "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)",
+   "page": "193"
+  },
+  "riviera/10/p194": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-10.html#page194",
+   "short": "Clarke and Smith",
+   "title": "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)",
+   "page": "194"
+  },
+  "riviera/5/p78": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-5.html#page78",
+   "short": "Clarke and Smith",
+   "title": "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)",
+   "page": "78"
+  },
+  "riviera/11/p201": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-11.html#page201",
+   "short": "Clarke and Smith",
+   "title": "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)",
+   "page": "201"
+  },
+  "breakout/32/p702": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Breakout/USA-E-Breakout-32.html#page702",
+   "short": "Blumenson",
+   "title": "Breakout and Pursuit (United States Army in World War II: The European Theater of Operations)",
+   "page": "702"
+  },
+  "cmh/NormandyCmh72-18/p3": {
+   "href": "https://archive.org/details/NormandyCmh72-18/page/3/mode/1up",
+   "short": "CMH campaign brochure",
+   "title": "The U.S. Army Campaigns of World War II (CMH Pub 72-series brochures: Normandy, Northern France, Rhineland, Ardennes-Alsace, Central Europe)",
+   "page": "3"
+  },
+  "last/20/p476": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-20.html#page476",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "476"
+  },
+  "harrison/2/p69": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-XChannel/USA-E-XChannel-2.html#page69",
+   "short": "Harrison",
+   "title": "Cross-Channel Attack (United States Army in World War II: The European Theater of Operations)",
+   "page": "69"
+  },
+  "harrison/8/p300": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-XChannel/USA-E-XChannel-8.html#page300",
+   "short": "Harrison",
+   "title": "Cross-Channel Attack (United States Army in World War II: The European Theater of Operations)",
+   "page": "300"
+  },
+  "breakout/12/p234": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Breakout/USA-E-Breakout-12.html#page234",
+   "short": "Blumenson",
+   "title": "Breakout and Pursuit (United States Army in World War II: The European Theater of Operations)",
+   "page": "234"
+  },
+  "harrison/10/p428": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-XChannel/USA-E-XChannel-10.html#page428",
+   "short": "Harrison",
+   "title": "Cross-Channel Attack (United States Army in World War II: The European Theater of Operations)",
+   "page": "428"
+  },
+  "harrison/10/p448": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-XChannel/USA-E-XChannel-10.html#page448",
+   "short": "Harrison",
+   "title": "Cross-Channel Attack (United States Army in World War II: The European Theater of Operations)",
+   "page": "448"
+  },
+  "harrison/10/p449": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-XChannel/USA-E-XChannel-10.html#page449",
+   "short": "Harrison",
+   "title": "Cross-Channel Attack (United States Army in World War II: The European Theater of Operations)",
+   "page": "449"
+  },
+  "cmh/NorthernFrance/p3": {
+   "href": "https://archive.org/details/NorthernFrance/page/3/mode/1up",
+   "short": "CMH campaign brochure",
+   "title": "The U.S. Army Campaigns of World War II (CMH Pub 72-series brochures: Normandy, Northern France, Rhineland, Ardennes-Alsace, Central Europe)",
+   "page": "3"
+  },
+  "breakout/32/p688": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Breakout/USA-E-Breakout-32.html#page688",
+   "short": "Blumenson",
+   "title": "Breakout and Pursuit (United States Army in World War II: The European Theater of Operations)",
+   "page": "688"
+  },
+  "siegfried/1/p3": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Siegfried/USA-E-Siegfried-1.html#page3",
+   "short": "MacDonald, Siegfried Line",
+   "title": "The Siegfried Line Campaign (United States Army in World War II: The European Theater of Operations)",
+   "page": "3"
+  },
+  "cmh/RhinelandCmh72-25/p3": {
+   "href": "https://archive.org/details/RhinelandCmh72-25/page/3/mode/1up",
+   "short": "CMH campaign brochure",
+   "title": "The U.S. Army Campaigns of World War II (CMH Pub 72-series brochures: Normandy, Northern France, Rhineland, Ardennes-Alsace, Central Europe)",
+   "page": "3"
+  },
+  "last/12/p263": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-12.html#page263",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "263"
+  },
+  "last/11/p212": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-11.html#page212",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "212"
+  },
+  "siegfried/27/p622": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Siegfried/USA-E-Siegfried-27.html#page622",
+   "short": "MacDonald, Siegfried Line",
+   "title": "The Siegfried Line Campaign (United States Army in World War II: The European Theater of Operations)",
+   "page": "622"
+  },
+  "last/15/p338": {
+   "href": "https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-15.html#page338",
+   "short": "MacDonald, Last Offensive",
+   "title": "The Last Offensive (United States Army in World War II: The European Theater of Operations)",
+   "page": "338"
+  },
   "blumenson/p313": {
    "href": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Salerno/",
    "short": "Blumenson",

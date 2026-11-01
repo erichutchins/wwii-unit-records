@@ -1,0 +1,45 @@
+---
+title: The Remagen bridge, 7-17 March 1945
+short: Remagen · 7-17 March 1945
+eyebrow: III Corps' after action report
+theater: europe
+clock: A
+window: {from: 1945-03-07T13:00Z, to: 1945-03-17T15:00Z}
+---
+
+The 9th Armored Division's Combat Command B finds the Ludendorff railroad bridge at Remagen standing on the
+afternoon of 7 March 1945 and crosses it; for ten days the Germans try to bring it down from the air, with
+artillery, with V-2s and with swimmers, and on the afternoon of 17 March it collapses. Told here from one record so
+far: Headquarters III Corps' after action report for March 1945 (its narrative,
+its G-2 report and its engineer journal). Hand-edited; every entry cites its PDF page in `ref`, with the printed page
+in its note. Fields as in `records/README.md` ("An engagement").
+
+## The claims at the bridge
+
+From 8 to 15 March the narrative gives, day by day, the raids on the bridge, the aircraft in them, and how many were
+"destroyed" (or "shot down") and "damaged". These are **the Corps' totals for all the antiaircraft units at the
+bridge together**: the narrative doesn't split them by battalion (only on 8 March does it name the battalions in the
+same paragraph, the 482nd AAA AW Bn and the 413th AAA Gun Bn). They are claims, not losses: they have not been checked
+against the Luftwaffe's loss returns, which are not online. From 11 March the report gives each day's period, 0600A
+to 0600A the next morning; before that it says only "during the day". The aircraft types are the US side's
+identifications (Stukas on 8 March, "ME-262s" on 14 March).
+
+## The clock
+
+The report's times carry the letter A (UTC+1), as in "1550A". The engineer journal's entries (pdf 122) are typed
+without a letter ("171505 Mar"); they are taken as A, the report's own time, and say so.
+
+## Reading the map
+
+The bridge is placed at the G-2 report's reference "F6520" (pdf 72), decoded on the Nord de Guerre grid
+(`tools/ndg_grid.py`): a four-figure reference names a 1 km square, and the point is its south-west corner;
+OpenStreetMap's bridge lies about 250 m north-east of it, inside the square. Remagen and Erpel are drawn at their
+centres (OpenStreetMap), and the heavy ponton bridge at the narrative's "wF673186" (pdf 38), decoded the same way.
+
+## Sources and what's missing
+
+The narrative's pages for 17-19 March are not in the scan (printed -41- onward; pdf 48 is a map and 49 a photograph),
+so 17 March here is the G-2 section's and the engineer journal's. Still to find: the 9th Armored Division's, CC B's,
+the 27th Armored Infantry Battalion's and the 14th Tank Battalion's own reports, and the antiaircraft battalions' and
+groups' reports (claims by unit), all in NARA RG 407 and not online; and the German side: the Luftwaffe's loss
+returns, the Wehrmachtbericht for these days, and the V-2 battery's firings. Nothing German is entered yet.

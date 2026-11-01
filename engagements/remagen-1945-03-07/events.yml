@@ -1,0 +1,281 @@
+# Every dated entry, in the record's words. Hand-edited; fields in records/README.md (An engagement's events).
+# One record so far: III Corps' after action report for March 1945. ref = the PDF page; the printed page is in the note.
+- at: 1945-03-07
+  placed: '"In the morning"; no time typed'
+  side: us
+  actor: CCB, 9 Armd Div
+  kind: move
+  words: >-
+    "The 9 Armd Div, having been given the mission of seizing REMAGEN and crossings over the AHR, moved out in the
+    morning with CCA on the right and CCB on the left. ... CCB was to take REMAGEN and KRIPP (wF6718) and seize
+    crossings over the AHR at SINZIG and BODENDORF (wF6317)."
+  source: III Corps AAR, March 1945, narrative
+  ref: iiicorps-aar-1945-03/p21
+  note: Printed page -17-
+- at: 1945-03-07
+  placed: '"By late afternoon"; no time typed in the narrative'
+  side: us
+  actor: CCB, 9 Armd Div
+  kind: station
+  words: >-
+    "CCB met practically none and by late afternoon had captured REMAGEN, against light opposition."
+  source: III Corps AAR, March 1945, narrative
+  ref: iiicorps-aar-1945-03/p21
+  pos: remagen
+  note: Printed page -17-
+- at: 1945-03-07 1550 A
+  side: us
+  actor: 9th US Armored Division
+  kind: status
+  words: >-
+    "LUDENDORFF railroad bridge over the RHINE at REMAGEN (F6520) was captured intact at 1550A by alert troops of the
+    9th US Armored Division. ... According to prisoners of war, the bridge was to be blown at 1600".
+  source: III Corps AAR, March 1945, G-2 report
+  ref: iiicorps-aar-1945-03/p72
+  pos: bridge
+  note: >-
+    Printed page -70-. The narrative gives no time of capture, only "by late afternoon" (pdf 21). The 1600 is what
+    prisoners said, as the G-2 report gives it; no German record of the order has been found
+- at: 1945-03-07
+  placed: On the appearance of the US troops at the bridge; no time typed
+  side: de
+  actor: The bridge's demolition
+  kind: damage
+  words: >-
+    "The bridge was thoroughly wired and mined with explosives for destruction, and on the appearance of our troops,
+    an attempt was made to destroy it. But the demolition was only partially successful". The narrative: "only two
+    small charges (or perhaps two detonators) were fired, and the bulk of the explosives failed to go off.
+    Superficial damage was caused ... but structurally the bridge remained intact, although suitable for one way
+    traffic only."
+  source: III Corps AAR, March 1945, G-2 report and narrative
+  ref: iiicorps-aar-1945-03/p72
+  pos: bridge
+  basis: reported
+  note: Printed pages -70- (G-2) and -17- (narrative, pdf 21). Both are the US side's account
+- at: 1945-03-07
+  placed: After the capture; the narrative types no time before "by midnight"
+  side: us
+  actor: 14 Tk Bn task force, CCB
+  kind: move
+  words: >-
+    "Upon finding the bridge at REMAGEN intact, Lt Col Leonard Engaman [sic], CO 14 Tk Bn, who had received
+    instructions from Brig Gen Hoge, CG CCB 9 Armd Div, to seize the bridge should the opportunity present itself,
+    sent infantry and engineer elements of his task force to the east side of the river. ... One company was sent
+    across the river initially, and by midnight the entire 27AIB, supported by tanks, had crossed."
+  source: III Corps AAR, March 1945, narrative
+  ref: iiicorps-aar-1945-03/p21
+  pos: erpel
+  note: Printed page -17-. The name is typed Engaman; it is usually spelled Engeman
+- at: 1945-03-07 1630 A
+  side: us
+  actor: III Corps
+  kind: report
+  words: >-
+    "First news of the seizure of the bridge arrived at the Corps CP at approximately 1630A", by telephone from the
+    9 Armd Div's Chief of Staff to the Corps' Chief of Staff, who "instructed the 9 Armd Div to exploit the bridgehead
+    as far as possible but to hold SINZIG." He then relayed it to Maj Gen Millikin.
+  source: III Corps AAR, March 1945, narrative
+  ref: iiicorps-aar-1945-03/p21
+  note: Printed pages -17- and -18- (pdf 22). "Approximately" as typed
+- at: 1945-03-07 2015 A
+  side: us
+  actor: First U S Army
+  kind: received
+  words: >-
+    "The telephone call received at 2015A from First U S Army included information that the 7 Armd Div was attached
+    to Corps immediately ... and that First U S Army was sending a 90mm gun battalion, a treadway bridge company and a
+    DUKW company to Corps."
+  source: III Corps AAR, March 1945, narrative
+  ref: iiicorps-aar-1945-03/p22
+  note: Printed page -18-
+- at: 1945-03-07 2100 A
+  side: us
+  actor: RCT 47 (9 Inf Div)
+  kind: assignment
+  words: '"RCT 47, having been motorized by Corps, became attached to CCB, 9 Armd Div, at 2100A".'
+  source: III Corps AAR, March 1945, narrative
+  ref: iiicorps-aar-1945-03/p22
+  note: Printed page -18-
+- at: 1945-03-08 0300 A
+  side: us
+  actor: 482 AAA AW Bn (SP)
+  kind: order
+  words: >-
+    "Plans for AA defense of the bridgehead were begun during the night, and at about 0300A, 8 March, the 482 AAA AW Bn
+    (SP) (atchd 9 Armd Div) was instructed to establish and maintain defense of the bridge with all available
+    armament."
+  source: III Corps AAR, March 1945, narrative
+  ref: iiicorps-aar-1945-03/p23
+  pos: bridge
+  note: Printed page -19-. "At about" as typed
+- at: 1945-03-08
+  placed: The day's total; no times typed
+  side: us
+  actor: AA units at the bridge (the Corps' total)
+  kind: engage
+  words: >-
+    "the enemy attempted ten raids over the bridge with ten aircraft, eight of which were Stukas. By afternoon,
+    however, the 482 AAA AW Bn (SP) had three batteries at the bridge site, with three platoons on the east and three
+    platoons on the west bank of the river. The 413 AAA Gun Bn (90mm) went into positions on the west bank, and of
+    the ten attacking aircraft eight were shot down."
+  source: III Corps AAR, March 1945, narrative (8 March)
+  ref: iiicorps-aar-1945-03/p27
+  pos: bridge
+  note: Printed page -22-. Claims, for all the AA units together; not checked against German losses
+- at: 1945-03-09
+  placed: The day's total; no times typed
+  side: us
+  actor: AA units at the bridge (the Corps' total)
+  kind: engage
+  words: >-
+    "The enemy continued his air attacks on the bridge, making a total of eleven raids in which seventeen aircraft
+    participated. Of these, twelve were destroyed and one damaged." The 16 AAA Gp "was directed to employ all AAA
+    units for protection of the bridge": the 109 AAA Gun Bn on the west bank, the 634 AAA AW Bn (- Btry D) on the east.
+  source: III Corps AAR, March 1945, narrative (9 March)
+  ref: iiicorps-aar-1945-03/p31
+  pos: bridge
+  note: Printed page -25-. Claims, for all the AA units together; not checked against German losses
+- at: 1945-03-10
+  placed: The day's total; no times typed
+  side: us
+  actor: AA units at the bridge (the Corps' total)
+  kind: engage
+  words: >-
+    "The enemy, during the day, made twenty one raids, in which he employed twenty eight planes. Of these nine were
+    destroyed and one damaged." The 563 AAA AW Bn moved up, "to make a total of two gun and five automatic weapons
+    battalions protecting these installations".
+  source: III Corps AAR, March 1945, narrative (10 March)
+  ref: iiicorps-aar-1945-03/p34
+  pos: bridge
+  note: Printed page -28-. Claims, for all the AA units together; not checked against German losses
+- at: 1945-03-11
+  placed: The period 110600 to 120600, as typed; no times within it
+  side: us
+  actor: AA units at the bridge (the Corps' total)
+  kind: engage
+  words: >-
+    "During the period 110600 and 120600 the enemy made seven raids on the bridging sites, with thirteen aircraft.
+    Five of these airplanes were shot down and two damaged." The 134 AAA Gun Bn (west of the river) and the 376 AAA AW
+    Bn joined the defenses.
+  source: III Corps AAR, March 1945, narrative (11 March)
+  ref: iiicorps-aar-1945-03/p38
+  pos: bridge
+  note: Printed page -31-. Claims, for all the AA units together; not checked against German losses
+- at: 1945-03-11 1700 A
+  side: us
+  actor: III Corps engineers
+  kind: status
+  words: >-
+    "The heavy ponton bridge at wF673186 was ready for operation at 1700A, but was damaged by an LCVP which had gotten
+    out of control, and it was 2400A before the bridge was opened."
+  source: III Corps AAR, March 1945, narrative (11 March)
+  ref: iiicorps-aar-1945-03/p38
+  pos: ponton
+  note: Printed page -31-
+- at: 1945-03-12
+  placed: The period 120600A to 130600A, as typed; no times within it
+  side: us
+  actor: AA units at the bridge (the Corps' total)
+  kind: engage
+  words: >-
+    "During the period 120600A to 130600A the enemy greatly stepped up his efforts to destroy the bridges by aerial
+    assault. A total of fifty eight raids were made by ninety one planes, twenty six of which were shot down and eight
+    of which were damaged." At the close of the day: "sixteen 90mm batteries on the west bank; eleven and one half
+    automatic weapons batteries on the west bank; and thirteen and one half automatic weapons batteries on the east
+    bank."
+  source: III Corps AAR, March 1945, narrative (12 March)
+  ref: iiicorps-aar-1945-03/p40
+  pos: bridge
+  note: Printed page -33-. Claims, for all the AA units together; not checked against German losses
+- at: 1945-03-13
+  placed: The period 130600A to 140600A, as typed; no times within it
+  side: us
+  actor: AA units at the bridge (the Corps' total)
+  kind: engage
+  words: >-
+    "The enemy again made a desperate bid to knock the Corps bridges out, when he sent ninety nine planes to make
+    forty seven raids between 130600A and 140600A. Twenty six were destroyed and nine damaged."
+  source: III Corps AAR, March 1945, narrative (13 March)
+  ref: iiicorps-aar-1945-03/p43
+  pos: bridge
+  note: Claims, for all the AA units together; not checked against German losses
+- at: 1945-03-14
+  placed: The period 140600A to 150600A, as typed; no times within it
+  side: us
+  actor: AA units at the bridge (the Corps' total)
+  kind: engage
+  words: >-
+    "he increased his effort to destroy the bridges by air attack and sent a total of ninety eight planes to make fifty
+    seven raids between 140600A and 150600A. The majority of the planes on this day were identified as being ME-262s,
+    jet propelled, and consequently only eight were destroyed and seven damaged. ... The AAA build up on this day
+    reached its maximum strength -- a total of four gun battalions and nine automatic weapons battalions."
+  source: III Corps AAR, March 1945, narrative (14 March)
+  ref: iiicorps-aar-1945-03/p45
+  pos: bridge
+  note: >-
+    Printed page -38-. Claims, for all the AA units together; not checked against German losses. "ME-262s" is the US
+    side's identification
+- at: 1945-03-15
+  placed: The period 150600A to 160600A, as typed; no times within it
+  side: us
+  actor: AA units at the bridge (the Corps' total)
+  kind: engage
+  words: >-
+    "Enemy air activity over the bridge decreased sharply, as only seven raids by twelve aircraft between 150600A and
+    160600A were reported. Of the twelve planes, two were destroyed and two damaged."
+  source: III Corps AAR, March 1945, narrative (15 March)
+  ref: iiicorps-aar-1945-03/p46
+  pos: bridge
+  note: Printed page -39-. Claims, for all the AA units together; not checked against German losses
+- at: 1945-03-17 1030 A
+  side: us
+  actor: III Corps engineers
+  kind: report
+  words: >-
+    "171030 Mar - Reports that enemy firing V-2's in attempt to destroy the bridge. Good progress being made on booms."
+  source: III Corps AAR, March 1945, engineer journal
+  ref: iiicorps-aar-1945-03/p122
+  basis: assumed
+  note: Printed page -116-. The journal types no zone letter; taken as A, the report's own time (assumed)
+- at: 1945-03-17 1155 A
+  side: us
+  actor: III Corps engineers
+  kind: casualty
+  words: >-
+    "171155 Mar - 1 Officer and 4 men killed and 33 men evacuated for wounds due to enemy V-2 (or some similar missile
+    launched by the enemy)."
+  source: III Corps AAR, March 1945, engineer journal
+  ref: iiicorps-aar-1945-03/p122
+  basis: assumed
+  note: >-
+    Printed page -116-. Zone taken as A (assumed). The journal doesn't say where they were hit or in which unit. The
+    G-2 report (pdf 75): "on 17 March six V-2s fell on German soil, in the very general vicinity of the bridges. Our
+    operations were not impeded, and no damage to the bridge resulted; however, one small German town was destroyed,
+    and some US casualties resulted."
+- at: 1945-03-17 1500 A
+  side: us
+  actor: III Corps G-2
+  kind: report
+  words: >-
+    "the LUDENDORFF bridge, weakened by demolitions, artillery fire, near misses of bombs, and by heavy traffic,
+    collapsed at 1500 March 17. It had served its purpose, and had been closed for repairs for several days; other
+    bridges carried the traffic."
+  source: III Corps AAR, March 1945, G-2 report
+  ref: iiicorps-aar-1945-03/p75
+  pos: bridge
+  note: Printed page -73-. The time is typed without a zone letter; the report's A
+- at: 1945-03-17 1505 A
+  side: us
+  actor: III Corps engineers
+  kind: loss
+  words: >-
+    "171505 Mar - Railway bridge collapsed. Cause undetermined. Check revealed two companies of the 276th Engr C Bn
+    were working on the bridge at the time. As far as can be determined, approximately 90 casualties. ... At the time
+    of the collapse, there was no enemy action in the area."
+  source: III Corps AAR, March 1945, engineer journal
+  ref: iiicorps-aar-1945-03/p122
+  pos: bridge
+  basis: assumed
+  note: >-
+    Printed page -116-. Zone taken as A (assumed). The entry goes on to name two officers killed and to describe the
+    collapse as witnesses gave it; left out here (the kit records units, not people)

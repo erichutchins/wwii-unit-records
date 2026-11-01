@@ -1,0 +1,116 @@
+# The questions the records leave open, and each answer's evidence. Hand-edited; fields in records/README.md (An engagement's claims).
+# The AA claims are the Corps' totals for all the antiaircraft units at the bridge together, as the narrative gives
+# them; none has been checked against the Luftwaffe's loss returns (not online).
+- question: When was the bridge taken?
+  answer: 1550A
+  weight: record
+  source: III Corps AAR, G-2 report (printed -70-)
+  ref: iiicorps-aar-1945-03/p72
+  note: '"captured intact at 1550A"'
+- question: When was the bridge taken?
+  answer: '"By late afternoon"'
+  weight: record
+  source: III Corps AAR, narrative (printed -17-)
+  ref: iiicorps-aar-1945-03/p21
+  note: The narrative gives no time for the bridge, only for Remagen's capture; the first word reached Corps at about 1630A
+- question: When was the bridge to be blown?
+  answer: '"At 1600"'
+  weight: record
+  source: III Corps AAR, G-2 report (printed -70-)
+  ref: iiicorps-aar-1945-03/p72
+  note: '"According to prisoners of war": their statement as the G-2 report gives it, not a German record'
+- question: When did the bridge fall?
+  answer: '"1500 March 17"'
+  weight: record
+  source: III Corps AAR, G-2 report (printed -73-)
+  ref: iiicorps-aar-1945-03/p75
+- question: When did the bridge fall?
+  answer: '"171505 Mar"'
+  weight: record
+  source: III Corps AAR, engineer journal (printed -116-)
+  ref: iiicorps-aar-1945-03/p122
+  note: Five minutes later than the G-2 report's round 1500; the journal types no zone letter
+- question: Why did the bridge fall?
+  answer: Weakened by demolitions, artillery fire, near misses of bombs, and heavy traffic
+  weight: record
+  source: III Corps AAR, G-2 report (printed -73-)
+  ref: iiicorps-aar-1945-03/p75
+- question: Why did the bridge fall?
+  answer: '"Cause undetermined"; "no enemy action in the area" at the time'
+  weight: record
+  source: III Corps AAR, engineer journal (printed -116-)
+  ref: iiicorps-aar-1945-03/p122
+  note: The journal adds that several of the arch's tension members had been damaged, three severed, by artillery
+- question: Did the V-2s of 17 March hurt anyone?
+  answer: 1 officer and 4 men killed, 33 evacuated for wounds, at 1155
+  weight: record
+  source: III Corps AAR, engineer journal (printed -116-)
+  ref: iiicorps-aar-1945-03/p122
+  note: '"due to enemy V-2 (or some similar missile launched by the enemy)"'
+- question: Did the V-2s of 17 March hurt anyone?
+  answer: Six V-2s fell; no damage to the bridge; "some US casualties"
+  weight: record
+  source: III Corps AAR, G-2 report (printed -73-)
+  ref: iiicorps-aar-1945-03/p75
+- question: The AA claims, 8 March
+  answer: 10 raids, 10 aircraft (8 of them Stukas); 8 shot down
+  weight: record
+  source: III Corps AAR, narrative (printed -22-)
+  ref: iiicorps-aar-1945-03/p27
+  note: The Corps' total for all AA units (the 482 AAA AW Bn and 413 AAA Gun Bn are named); not checked against German losses
+- question: The AA claims, 9 March
+  answer: 11 raids, 17 aircraft; 12 destroyed, 1 damaged
+  weight: record
+  source: III Corps AAR, narrative (printed -25-)
+  ref: iiicorps-aar-1945-03/p31
+  note: The Corps' total for all AA units; not checked against German losses
+- question: The AA claims, 10 March
+  answer: 21 raids, 28 planes; 9 destroyed, 1 damaged
+  weight: record
+  source: III Corps AAR, narrative (printed -28-)
+  ref: iiicorps-aar-1945-03/p34
+  note: The Corps' total for all AA units; not checked against German losses
+- question: The AA claims, 11 March (110600-120600)
+  answer: 7 raids, 13 aircraft; 5 shot down, 2 damaged
+  weight: record
+  source: III Corps AAR, narrative (printed -31-)
+  ref: iiicorps-aar-1945-03/p38
+  note: The Corps' total for all AA units; not checked against German losses
+- question: The AA claims, 12 March (120600A-130600A)
+  answer: 58 raids, 91 planes; 26 shot down, 8 damaged
+  weight: record
+  source: III Corps AAR, narrative (printed -33-)
+  ref: iiicorps-aar-1945-03/p40
+  note: The Corps' total for all AA units; not checked against German losses
+- question: The AA claims, 13 March (130600A-140600A)
+  answer: 47 raids, 99 planes; 26 destroyed, 9 damaged
+  weight: record
+  source: III Corps AAR, narrative
+  ref: iiicorps-aar-1945-03/p43
+  note: The Corps' total for all AA units; not checked against German losses
+- question: The AA claims, 14 March (140600A-150600A)
+  answer: 57 raids, 98 planes (the majority identified as ME-262s); 8 destroyed, 7 damaged
+  weight: record
+  source: III Corps AAR, narrative (printed -38-)
+  ref: iiicorps-aar-1945-03/p45
+  note: The Corps' total for all AA units; not checked against German losses. The report puts the low count down to the jets
+- question: The AA claims, 15 March (150600A-160600A)
+  answer: 7 raids, 12 aircraft; 2 destroyed, 2 damaged
+  weight: record
+  source: III Corps AAR, narrative (printed -39-)
+  ref: iiicorps-aar-1945-03/p46
+  note: The Corps' total for all AA units; not checked against German losses
+- question: The AA claims, 16-17 March
+  answer: Not in the scan
+  weight: inference
+  source: III Corps AAR (the narrative's printed pages -41- onward are missing)
+  ref: iiicorps-aar-1945-03/p47
+  note: The scanned narrative stops at printed -40- (pdf 47), in the 16 March entry; whatever it gave for 16 and 17 March is on the missing pages. pdf 47 not read for a total here
+- question: How many raids in all?
+  answer: '"372 enemy aircraft made 223 raids in nine days on the bridge"'
+  weight: record
+  source: III Corps AAR, G-2 report (printed -71-)
+  ref: iiicorps-aar-1945-03/p73
+  note: >-
+    The G-2 report's own total, for nine days; it doesn't say which nine, and it is not the sum of the narrative's
+    daily figures above (8-15 March), which cover eight. Not added to them

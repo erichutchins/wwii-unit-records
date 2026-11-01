@@ -1,0 +1,5 @@
+id,label,side,kind,date,time,lat,lon,from,brg,nm,lat2,lon2,basis,source,ref,note
+bridge,The Ludendorff railroad bridge (F6520),us,point,1945-03-07,1550,50.5787,7.2437,,,,,,derived,"III Corps AAR, G-2 report, pdf 72 (printed -70-)",iiicorps-aar-1945-03/p72,"The G-2 report's F6520, decoded on the Nord de Guerre grid (tools/ndg_grid.py F-650200): the south-west corner of the 1 km square the reference names. OpenStreetMap's Ludendorff-Brücke (50.5809 N 7.2445 E) lies about 250 m north-east of it, inside the square"
+remagen,Remagen,geo,town,,,50.5792,7.2287,,,,,,approx,OpenStreetMap,OSM Nominatim,The town's centre. The narrative names the town without a grid reference
+erpel,Erpel,geo,town,,,50.5825,7.2378,,,,,,approx,OpenStreetMap,OSM Nominatim,The village's centre on the east bank at the bridge's far end
+ponton,The heavy ponton bridge (wF673186),us,point,1945-03-11,1700,50.5663,7.2763,,,,,,derived,"III Corps AAR, narrative, pdf 38 (printed -31-)",iiicorps-aar-1945-03/p38,"The narrative's wF673186 decoded on the Nord de Guerre grid (tools/ndg_grid.py F-673186), to 100 m. Ready at 1700A on 11 March; opened 2400A"

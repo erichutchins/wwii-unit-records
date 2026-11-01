@@ -155,6 +155,93 @@ fisher-cassino:
   link: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/
   used_for: operations/ (the May offensive, Rome, Siena)
 
+harrison-cca:
+  title: "Cross-Channel Attack (United States Army in World War II: The European Theater of Operations)"
+  short: Harrison
+  by: Gordon A. Harrison, Office of the Chief of Military History
+  held: 1951; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-E-XChannel/
+  rights: Public domain
+  cite: harrison/<chapter>/p<page>      # e.g. harrison/8/p300 (chapter VIII, printed page 300)
+  match: '^harrison/(\d+|[A-Z])/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-E-XChannel/USA-E-XChannel-{1}.html#page{2}
+  used_for: operations/europe (Normandy)
+
+blumenson-breakout:
+  title: "Breakout and Pursuit (United States Army in World War II: The European Theater of Operations)"
+  short: Blumenson
+  by: Martin Blumenson, Office of the Chief of Military History
+  held: 1961; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-E-Breakout/
+  rights: Public domain
+  cite: breakout/<chapter>/p<page>      # e.g. breakout/12/p234; not blumenson/, which is Salerno to Cassino
+  match: '^breakout/(\d+|[A-Z])/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-E-Breakout/USA-E-Breakout-{1}.html#page{2}
+  used_for: operations/europe (the end of Normandy, Northern France)
+
+clarke-smith-riviera:
+  title: "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)"
+  short: Clarke and Smith
+  by: Jeffrey J. Clarke and Robert Ross Smith, Center of Military History
+  held: 1993; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/
+  rights: Public domain
+  cite: riviera/<chapter>/p<page>      # e.g. riviera/10/p193
+  match: '^riviera/(\d+|[A-Z])/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/USA-E-Riviera-{1}.html#page{2}
+  used_for: operations/europe (Southern France, the last German offensive in Alsace)
+
+cole-ardennes:
+  title: "The Ardennes: Battle of the Bulge (United States Army in World War II: The European Theater of Operations)"
+  short: Cole
+  by: Hugh M. Cole, Office of the Chief of Military History
+  held: 1965; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-E-Ardennes/
+  rights: Public domain
+  cite: cole/<chapter>/p<page>      # e.g. cole/25/p650
+  match: '^cole/(\d+|[A-Z])/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-E-Ardennes/USA-E-Ardennes-{1}.html#page{2}
+  used_for: operations/europe (the Ardennes)
+
+macdonald-siegfried:
+  title: "The Siegfried Line Campaign (United States Army in World War II: The European Theater of Operations)"
+  short: MacDonald, Siegfried Line
+  by: Charles B. MacDonald, Office of the Chief of Military History
+  held: 1963; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-E-Siegfried/
+  rights: Public domain
+  cite: siegfried/<chapter>/p<page>      # e.g. siegfried/1/p3
+  match: '^siegfried/(\d+|[A-Z])/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-E-Siegfried/USA-E-Siegfried-{1}.html#page{2}
+  used_for: operations/europe (the Rhineland, the border and the West Wall)
+
+macdonald-last:
+  title: "The Last Offensive (United States Army in World War II: The European Theater of Operations)"
+  short: MacDonald, Last Offensive
+  by: Charles B. MacDonald, Office of the Chief of Military History
+  held: 1973; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USA/USA-E-Last/
+  rights: Public domain
+  cite: last/<chapter>/p<page>      # e.g. last/13/p270
+  match: '^last/(\d+|[A-Z])/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USA/USA-E-Last/USA-E-Last-{1}.html#page{2}
+  used_for: operations/europe (the end of the Ardennes, the Rhineland, Central Europe)
+
+cmh-campaigns:
+  title: "The U.S. Army Campaigns of World War II (CMH Pub 72-series brochures: Normandy, Northern France, Rhineland, Ardennes-Alsace, Central Europe)"
+  short: CMH campaign brochure
+  by: U.S. Army Center of Military History (Hammond, Normandy; Hogan, Northern France; Ballard, Rhineland; Cirillo, Ardennes-Alsace; Bedessem, Central Europe)
+  held: 1992-95; Internet Archive scans (public domain mark)
+  url: https://archive.org/details/usarmycampaignso00cent
+  rights: Public domain
+  cite: cmh/<archive.org identifier>/p<page>      # e.g. cmh/NormandyCmh72-18/p3; each brochure gives its campaign's official dates under its title
+  match: '^cmh/([A-Za-z0-9-]+)/p(\d+)$'
+  link: https://archive.org/details/{1}/page/{2}/mode/1up
+  note: >-
+    The campaign dates printed under each brochure's title are the Army's campaign-credit dates. The page is the
+    printed page of the essay's first page as read from the archive.org text layer; check it on the scan.
+  used_for: operations/europe (the official dates of the campaigns)
+
 navy-numbers:
   title: Navy Numbers (OPNAV 29-P1000, 1949), the fleet post office numbers of World War II bases
   by: Office of the Chief of Naval Operations
@@ -254,6 +341,25 @@ eucmh60aib:
   match: '^eucmh60aib/(\d{4}-\d{2})$'
   link: https://web.archive.org/web/20190817132207/https://www.eucmh.be/2018/04/17/9th-armored-division-60-aib-aar-10-1944-03-1945/
   used_for: army/stations.csv (source uaar, the 60th Armored Infantry Battalion's own position)
+
+iiicorps-aar-1945-03:
+  title: Headquarters III Corps, After Action Report, March 1945 (narrative, G-2 report, engineer journal and other annexes)
+  by: Headquarters, III Corps
+  held: >-
+    A 134-page PDF scan of the typescript on the 284th Combat Engineers association's site. The original is
+    presumably in NARA RG 407 (WWII Operations Reports), III Corps files; the scan doesn't say, and that isn't checked
+  url: https://284thcombatengineers.com/documents/IIICorpsAARMar1945.pdf
+  rights: Public domain (U.S. Army record)
+  cite: iiicorps-aar-1945-03/p<page of the PDF>      # e.g. iiicorps-aar-1945-03/p72; the printed page goes in the row's note
+  match: '^iiicorps-aar-1945-03/p(\d+)$'
+  link: https://284thcombatengineers.com/documents/IIICorpsAARMar1945.pdf#page={1}
+  short: III Corps AAR, March 1945
+  used_for: engagements/remagen-1945-03-07/
+  note: >-
+    The printed page numbers restart in each section, so rows cite the PDF page and give the printed one ("pdf 72,
+    printed -70-"). The narrative's pages for 17-19 March (printed -41- onward) are not in the scan: pdf 48 is a
+    map and 49 a photograph; 17 March is only in the G-2 section (pdf 75) and the engineer journal (pdf 122).
+    The text layer is OCR; values are read on the page images.
 
 wiki9ad:
   title: 9th Armored Division (United States)
