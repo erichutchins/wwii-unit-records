@@ -63,10 +63,23 @@ boats:
     folder: boats/ss-411-spadefish
     patrols:
       3: { status: mapped, nara: [74850282], first_fix: 1945-01-05, last_fix: 1945-02-13, files: [positions, japanese, claims, attacks], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
-  # BANG's other pack-mates (guides/FLEET.md), not started
-  SS-279: { name: SNOOK, note: "with BANG and BURRFISH, Patrol 6", patrols: { 8: { status: available, nara: [74850126, 139895817], note: "31 Dec 1944 - 17 Feb 1945; the catalog title is blank, the pages are headed EIGHTH" }, 9: { status: missing, note: "searched 2026-10-22: no ninth-patrol folder in the war patrol reports (series 305243) or the war diaries (4697018); the eighth is the last" } } }
-  SS-398: { name: SEGUNDO, note: "passage home with BANG, May 1945", patrols: {} }
-  SS-259: { name: JACK, note: "passage home with BANG, May 1945", patrols: {} }
+  # BANG's other pack-mates (guides/FLEET.md)
+  SS-279:   # SNOOK, Gato class
+    folder: boats/ss-279-snook
+    note: "sailed from Guam with BANG and BURRFISH on 25 Mar 1945; BURRFISH's report: \"2328 SNOOK left formation to return to port; BURRFISH assumed command of pack\" (rg367-74809762/p03)"
+    patrols:
+      8: { status: mapped, nara: [74850126, 139895817], first_fix: 1945-01-10, last_fix: 1945-02-08, files: [positions], note: "31 Dec 1944 - 17 Feb 1945; the catalog title is blank, the pages are headed EIGHTH (139895817 is a second copy). The Kurils and the Okhotsk Sea, with THREADFIN to Midway; no attacks, no position table: positions from the contact tables, the radar countermeasures log and the narrative" }
+      9: { status: missing, note: "searched 2026-10-22: no ninth-patrol folder in the war patrol reports (series 305243) or the war diaries (4697018); the eighth is the last" }
+  SS-398:   # SEGUNDO, Balao class
+    folder: boats/ss-398-segundo
+    note: "with BANG at Saipan, May 1945: BANG joined her, JACK and the escort on 8 May for the run in; on 9 May 1600(K) the three sailed together, SEGUNDO and JACK for their patrol area, until 2120(K), \"BAKER BANG left formation and set Course for Pearl\" (rg367-74847780/p04-p05)"
+    patrols:
+      1: { status: available, nara: [74847624, 78657136], note: "Aug - Oct 1944 (78657136 is the war diaries' copy)" }
+      2: { status: available, nara: [74847670, 139830869], note: "Nov 1944 - Jan 1945 (139830869 is the war diaries' copy)" }
+      3: { status: available, nara: [74847730], note: "Feb - Mar 1945" }
+      4: { status: transcribed, nara: [74847780, 101729538], first_fix: 1945-04-26, last_fix: 1945-06-02, files: [positions], note: "26 Apr 1945 from Pearl, with JACK and MUSKALLUNGE; the Yellow Sea. In part: the narrative to 3 Jun 0040 (p03-p15) and Torpedo Attack 1 (31 May, the sheet's position line, p29). Resume at the narrative from p15 (Torpedo Attack 2), the ship contacts (p28) and the attack sheets (p29-p43). 101729538 is the war diaries' copy" }
+      5: { status: available, nara: [74847838, 77493414], note: "Aug - Sep 1945 (77493414 is the war diaries' copy)" }
+  SS-259: { name: JACK, note: "with BANG at Saipan, 8-9 May 1945, outbound on patrol with SEGUNDO (SEGUNDO's report, rg367-74847780/p04-p05)", patrols: { 8: { status: available, nara: [74824944, 101707347], note: "74824944 is \"USS Jack, October 1944 - June 1945\" (65 pp), not yet read to confirm which patrols it holds; 101707347 is the war diaries' \"Report of Eighth War Patrol\" (27 pp), the likely match for the patrol from Pearl on 26 Apr 1945. Seventh: 139817652; ninth: 83570235 and folder 74825010 (Jul - Aug 1945)" } } }
 
 ships:
   DD-700:   # USS Haynsworth

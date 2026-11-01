@@ -1,16 +1,26 @@
 # TINOSA's sixth patrol report has no torpedo attack data sheets. Its only attack data is one page, "VII. SUMMARY
 # OF SUBMARINE ATTACKS" (p26), one column per attack, which attacks.csv transcribes. Hand-edited; the numbers are
 # in attacks.csv, the words here.
-# What that table does not give is blank in attacks.csv: tube, own course, speed and depth, target course,
-# power, each torpedo's hit or miss, erratic. Each attack has one row per torpedo fired (the table's "No. & Type
-# of Torpedo Fired"), and every row repeats the attack's one typed value: the table gives a single track, gyro,
-# depth setting, range and interval per attack, not one per torpedo. interval is the table's one interval
-# ("9 Sec.") on every row: the interval between torpedoes, not each torpedo's time from the first.
+# What that table does not give was read from the narrative (pp. 10, 15, 17, 18, 19; lead L73) where the narrative
+# states it: the tube fired (Attack 1's last torpedo; Attack 4's four), own depth Surface where the narrative fires
+# by TBT bearings from the bridge (Attacks 3 and 4), each torpedo's hit or miss where the narrative says which
+# torpedo hit (Attack 1; Attack 2's first salvo), and, for Attack 2, which of the table's two tracks, gyros and
+# drafts went with which salvo. Each entry's `basis` says which cells came from which page, and `narrative` quotes
+# the firing. Nothing the table typed was changed: where the narrative disagrees (track, gyro, range, target speed,
+# time), the CSV keeps the table's value and the `note` gives both. Still blank, because the narrative doesn't
+# state them: own course and speed, target course, power, erratic, most tubes, and the hits of Attacks 3-5.
+# Each attack has one row per torpedo fired (the table's "No. & Type of Torpedo Fired"), and every row repeats
+# the attack's one typed value: the table gives a single track, gyro, depth setting, range and interval per
+# attack, not one per torpedo. interval is the table's one interval ("9 Sec.") on every row: the interval
+# between torpedoes, not each torpedo's time from the first. Rows are in the order of firing only where the
+# narrative numbers the torpedoes (Attacks 1, 2 and 4).
 # attacks.csv's spread is the kind (Div. -> divergent, Long. -> longitudinal); the amount as typed is `spread` here.
-# Times are typed "Time G.C.T." (zone Z), as positions.csv has them. Ranges typed with thousands commas
-# (3,000) are written without (3000). Where the table types more than one draft, track or gyro for an attack,
-# attacks.csv leaves the cell blank and the values are here.
-# The track check (tools/check_attacks.py) can't be run on these rows: no own or target course is typed.
+# Times are typed "Time G.C.T." (zone Z), as positions.csv has them; the narrative is in zone H (GMT+8).
+# Ranges typed with thousands commas (3,000) are written without (3000). Where the table types more than one
+# draft, track or gyro for an attack and the narrative doesn't say which torpedoes had which, attacks.csv leaves
+# the cell blank and the values are here.
+# The track check (tools/check_attacks.py) still can't be run on these rows: neither the table nor the
+# narrative types own or target course at the moment of firing.
 
 - attack: Attack 1
   type_attack: P
@@ -26,11 +36,23 @@
   overhaul: U.S.S. BUSHNELL
   location: Lat. 18-15.5N Long. 120-18.4E
   page: rg367-74856363/p26
+  narrative: >-
+    0919 (H) commenced firing all six bow tubes on 90° starboard track with a 3,000 yard torpedo run. Four hits
+    were felt and heard which appeared to be the first, third, fourth and fifth torpedoes fired, hitting ships
+    one, three and four. ... Number three tube was fired last with 0 spread, the second and last apparently
+    straddling number two target.
+  basis: >-
+    hit (Hit on the first, third, fourth and fifth rows; Miss on the second and sixth) and tube 3 on the sixth
+    row from the narrative, rg367-74856363/p10; the rest from the summary table, p26.
   note: >-
     A summary table, not a data sheet. Three drafts are typed for three targets (one AO, two AK) and one range
-    (3,000), so the drafts are left out of attacks.csv. positions.csv's note records that the narrative fires
-    at 0919 H (0119 GCT), 18 minutes before this table's 0137, and that the table's longitude is 63 nm east of
-    the narrative's sinking position; neither re-read here.
+    (3,000), so the drafts are left out of attacks.csv: the narrative aims at the middle of a group of five
+    overlapping ships, not at one. The narrative's hits are its own hedged reading ("appeared to be"); the
+    misses are the two it says "apparently" straddled number two target. Its track (90° starboard) and run
+    (3,000 yards) agree with the table. It fires at 0919 H (0119 GCT), 18 minutes before this table's 0137;
+    the table's longitude is 63 nm east of the narrative's sinking position (positions.csv). The narrative
+    gives no other tube numbers, and no own course, speed or depth at firing (at 0828 H she "came to course
+    070° to close the range", p09; not used as the firing course).
 
 - attack: Attack 2
   type_attack: RP
@@ -48,12 +70,32 @@
   overhaul: U.S.S. BUSHNELL
   location: Lat. 20-27N Long. 118-55.5E
   page: rg367-74856363/p26
+  narrative: >-
+    23-09-16(H) With range of 1,600 yards, fired 3 torpedoes from bow tubes on 105 starboard track, with 011°
+    gyro for first torpedo, 4° spread. 23-09-52(H) With quick set-up, started firing 3 torpedoes at medium sized
+    AK astern of Tanker. Fired on 90 starboard track about 1,500 yards range with 334° gyro. 23-10-23(H) Observed
+    first hit in Tanker under her bridge followed by a second hit under her bow. This should have been first and
+    second torpedoes, number three apparently missed ahead. 23-10-43(H) One hit heard but did not see it, as was
+    watching Tanker go down. ... 23-10-53(H) Hit in AK, unidentified ship of about 6,000 tons. 23-11-52(H) Hit in
+    AK in far column. This torpedo had missed ahead of target we were shooting at.
+  basis: >-
+    Which rows had which of the table's tracks, gyros and drafts from the narrative, rg367-74856363/p15: track
+    105S and draft 29 (the tanker's) on the first three rows, 92S and 18 (an AK's) on the last three; gyro 011 on
+    the first row and 333 on the fourth (the first of each salvo; the others' gyros are not given); hit on the
+    first two rows. The values themselves, and the rest, from the summary table, p26.
   note: >-
-    Two tracks (105S above 92S) and two gyro angles (011 above 333) are typed in this column, and three drafts,
-    with no word of which torpedoes went with which: track, gyro and draft are left blank in attacks.csv. The
-    sunk tonnage is typed "10,000" with a mark after it (perhaps a struck-over or hand-added character).
-    positions.csv's note records that the narrative fires at 23-09-16 H (1509 GCT) with the tanker sinking at
-    20-51N 118-02E, against this table's 0835 and 20-27N 118-55.5E; not re-read here.
+    The table types two tracks (105S above 92S), two gyro angles (011 above 333) and three drafts (29' 18' 18').
+    The narrative fires two salvos of three: at the tanker on 105 starboard track, 011° gyro for the first
+    torpedo, and at the AK astern of her on 90 starboard track with 334° gyro. So 105S and 011 are the first
+    salvo's, and 92S and 333 the second's; the CSV keeps the table's 92S and 333 where the narrative types 90
+    and 334. The table's one range (1,600) is the first salvo's; the narrative gives the second "about 1,500
+    yards". Which of the second salvo's torpedoes hit is not said: the narrative hears one hit at 23-10-43, a hit
+    in the AK at 23-10-53, and a hit at 23-11-52 in an AK in the far column from a torpedo that "had missed ahead
+    of target we were shooting at" (perhaps the first salvo's third, which "apparently missed ahead" of the
+    tanker; the narrative doesn't say). The third row's hit and the second salvo's are left blank; the table
+    claims 5 hits. The sunk tonnage is typed "10,000" with a mark after it (perhaps a struck-over or hand-added
+    character). The narrative fires at 23-09-16 H on 3 May (1509 GCT) with the tanker sinking at 20-51N 118-02E,
+    against this table's 0835 and 20-27N 118-55.5E (positions.csv); the table's time is kept.
 
 - attack: Attack 3
   type_attack: RS
@@ -68,9 +110,22 @@
   overhaul: U.S.S. BUSHNELL
   location: Lat. 20-54.8N Long. 118-14.9E
   page: rg367-74856363/p26
+  narrative: >-
+    0244 (H) Range 3,000 yards, slowed to 1/3 speed and swung hard left to bring stern tubes to bear. ... Picked
+    up target from bridge and used TBT bearings. 0247 (H) Stopped and waited for favorable gyro angles.
+    02-49-31(H) Started firing 4 stern tubes on 103° starboard track, 3,250 yards torpedo run using a 4° spread,
+    first gyro angle 171°. 02-51-57(H) First of three hits. These hits were observed from the bridge: first aft
+    of bridge, second hit under bridge, third hit in bow. ... with the third hit she merely disintegrated.
+  basis: >-
+    own_depth Surface from the narrative (target picked up from the bridge, TBT bearings), rg367-74856363/p17;
+    the rest from the summary table, p26.
   note: >-
-    positions.csv's note records that the narrative fires at 02-49-31 H on 4 May (1849 GCT 3 May), an hour
-    before this table's 1952; not re-read here. Gyro typed 006.5 with a faint point.
+    The narrative's track (103° starboard) and spread (4°) agree with the table. It disagrees on the gyro: "first
+    gyro angle 171°" against the table's 006.5 (typed with a faint point), which the CSV keeps; and on the run,
+    3,250 yards against the table's range of 3,200. She was stopped when she fired (0247 H, "Stopped and waited
+    for favorable gyro angles"); own_speed is left blank, as the narrative types no figure. The narrative counts
+    three hits, the table 4; which torpedoes hit is not said, so hit is blank. The narrative fires at 02-49-31 H
+    on 4 May (1849 GCT 3 May), an hour before this table's 1952; the table's time is kept.
 
 - attack: Attack 4
   type_attack: RS
@@ -85,6 +140,24 @@
   overhaul: U.S.S. BUSHNELL
   location: Lat. 20-57.4N Long. 118-06.3E
   page: rg367-74856363/p26
+  narrative: >-
+    0358 (H) Started in for another attack. ... came in on her starboard quarter for a bow tube shot ... Found
+    gyro setting forward to be grounded and would not match. Trouble lights on TDC; so used Mark 8 angle solver
+    set-up. 04-09-13(H) Fired tubes 1, 2, 3 and 4 with TBT bearings, range 3,000 yards, 160 starboard track,
+    target now making only 6 knots, probably the AK we had previously damaged. Turned away at 20 knots ... Not
+    able to observe results, but believe torpedoes missed ahead. 0414 (H) Two explosions sounded like torpedo
+    hits but run was too long to have hit our target. Only explanation is that they could have hit some ship
+    beyond our target.
+  basis: >-
+    tube (1, 2, 3, 4, one per row in the order typed) and own_depth Surface (TBT bearings) from the narrative,
+    rg367-74856363/p18; the rest from the summary table, p26.
+  note: >-
+    The narrative disagrees with the table on the track (160 starboard against 155S), the range (3,000 yards
+    against 3,520) and the target's speed (6 knots against 6.5); the CSV keeps the table's. It fires at 04-09-13 H
+    on 4 May (2009 GCT 3 May), a minute after the table's 2008; the table's time is kept. The narrative believes
+    the torpedoes missed ahead and puts the two explosions on a ship beyond the target; the table types "Unknown
+    2 Explosions". hit is left blank. The gyro was set by the Mark 8 angle solver, the TDC being out, which may
+    be why the table types gyro 0 for a longitudinal spread.
 
 - attack: Attack 5
   type_attack: P
@@ -99,3 +172,19 @@
   overhaul: U.S.S. BUSHNELL
   location: Lat. 21-04N Long. 118-10.1E
   page: rg367-74856363/p26
+  narrative: >-
+    0847 (H) Target now had an 80° port angle on the bow, range 3,000 yards. Swung around to bring stern tubes to
+    bear. 08-50-30(H) Started firing 4 torpedoes from stern tubes on 95° port track, range 3,300 yards, target
+    speed 6.5 knots. Lat. 20-58N Long. 118-08E. 0853 (H) Target started turning away. 08-55-30(H) Heard 2
+    explosions, but did not observe target at this time.
+  basis: >-
+    No cell from the narrative (rg367-74856363/p19): it states no tube numbers, own course, speed or depth, or
+    target course, and every value it does type differs from the table's or repeats it; all from the summary
+    table, p26.
+  note: >-
+    The narrative disagrees with the table on the track (95° port against 109P), the range (3,300 yards against
+    3,350) and the target's speed (6.5 knots against 7.5); the CSV keeps the table's. Angle on the bow 80° port
+    at 0847 H, three minutes before firing. It fires at 08-50-30 H on 4 May (00-50-30 GCT), two minutes after the
+    table's 0048, at 20-58N 118-08E against the table's 21-04N 118-10.1E; the table's time is kept. She had
+    submerged at 0503 H (p18), but the narrative doesn't say her depth at firing, so own_depth is blank. The two
+    explosions at 08-55-30 H are not assigned to torpedoes; hit is blank.

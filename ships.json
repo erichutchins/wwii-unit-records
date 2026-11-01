@@ -57,6 +57,25 @@
   ]
  },
  {
+  "key": "ss-279-snook",
+  "alias": "snook",
+  "name": "SNOOK",
+  "hull": "SS-279",
+  "class": "Gato",
+  "silhouette": "gato",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-279-snook/tracks.geojson",
+  "periods": [
+   {
+    "n": 8,
+    "name": "Eighth War Patrol",
+    "dates": "10 Jan 1945 – 8 Feb 1945"
+   }
+  ]
+ },
+ {
   "key": "ss-283-tinosa",
   "alias": "tinosa",
   "name": "TINOSA",
@@ -282,6 +301,25 @@
     "n": 2,
     "name": "Second War Patrol",
     "dates": "26 Oct 1944 – 2 Jan 1945"
+   }
+  ]
+ },
+ {
+  "key": "ss-398-segundo",
+  "alias": "segundo",
+  "name": "SEGUNDO",
+  "hull": "SS-398",
+  "class": "Balao",
+  "silhouette": "balao",
+  "kind": "submarine",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-398-segundo/tracks.geojson",
+  "periods": [
+   {
+    "n": 4,
+    "name": "Fourth War Patrol",
+    "dates": "26 Apr 1945 – 2 Jun 1945"
    }
   ]
  },

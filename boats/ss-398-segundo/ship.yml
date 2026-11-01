@@ -1,0 +1,13 @@
+# USS SEGUNDO (SS-398). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: SEGUNDO
+hull: SS-398
+class: Balao
+silhouette: balao     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
+kind: submarine
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 4, name: Fourth War Patrol, dates: 26 Apr 1945 – 2 Jun 1945 }

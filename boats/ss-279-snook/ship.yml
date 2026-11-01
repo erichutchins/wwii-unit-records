@@ -1,0 +1,13 @@
+# USS SNOOK (SS-279). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: SNOOK
+hull: SS-279
+class: Gato
+silhouette: gato     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
+kind: submarine
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 8, name: Eighth War Patrol, dates: 10 Jan 1945 – 8 Feb 1945 }
