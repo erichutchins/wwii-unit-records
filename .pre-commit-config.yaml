@@ -1,0 +1,28 @@
+# The records' git hooks, run by prek (`prek install` once here). They use the kit's tools, so they run in a
+# checkout of the kit, where this repository is records/ (https://github.com/erichutchins/wwii-research-kit).
+# Before a commit: the lint (references, orphans, file forms, the private list) and the citations; before a push,
+# the lint with the land check.
+default_install_hook_types: [pre-commit, pre-push]
+default_stages: [pre-commit]
+
+repos:
+  - repo: local
+    hooks:
+      - id: lint
+        name: "lint (the kit's tools/lint.py; settings in the kit's lint.toml)"
+        entry: uv run --quiet ../tools/lint.py --ignore ACC
+        language: system
+        pass_filenames: false
+        always_run: true
+      - id: check-sources
+        name: "every citation resolves"
+        entry: uv run --quiet ../tools/check_sources.py
+        language: system
+        pass_filenames: false
+      - id: lint-all
+        name: "lint, with the land check"
+        entry: uv run --quiet ../tools/lint.py
+        language: system
+        pass_filenames: false
+        always_run: true
+        stages: [pre-push]

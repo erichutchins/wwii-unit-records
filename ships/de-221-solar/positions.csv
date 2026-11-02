@@ -216,7 +216,7 @@ diary,,1944-11-29,0800,R,38-04N,71-24W,rg367-78709413/p04,,yes,,,,,
 event,"Detached from GUS 57, proceeding with De",1944-11-29,0900,R,,,rg367-78709413/p04,"Detached from GUS 57, proceeding with Delaware Capes section",no,,,,,
 diary,,1944-11-29,1200,R,38-08N,72-15W,rg367-78709413/p04,,yes,,,,,
 diary,,1944-11-29,2000,R,38-22N,74-32W,rg367-78709413/p04,,yes,,,,,
-event,"Left merchant ships at Buoy 4, Delaware ",1944-11-29,2115,R,,,rg367-78709413/p04,"Left merchant ships at Buoy 4, Delaware Capes South Channel; proceeding independently to New York",no,,,,,
+event,"Left merchant ships at Buoy 4, Delaware",1944-11-29,2115,R,,,rg367-78709413/p04,"Left merchant ships at Buoy 4, Delaware Capes South Channel; proceeding independently to New York",no,,,,,
 diary,,1944-11-30,0800,R,40-24N,74-03W,rg367-78709413/p04,,yes,,,,,
 narrative,"NAD Earle, Leonardo, N.J.",1944-11-30,0838,R,40-26N,74-04W,rg367-78709413/p05,"Moored at NAD, Earle, New Jersey to discharge ammunition. 1058 underway en-route New York Navy Yard, Brooklyn",yes,,,,,"NAD Earle, Leonardo, N.J. coordinates are not in the diary; standard harbour position used"
 diary,,1944-11-30,1200,R,40-42N,73-58W,rg367-78709413/p04,,yes,,,,,
@@ -238,7 +238,7 @@ narrative,NOB Norfolk,1944-12-16,1431,R,36-57N,76-20W,rg367-139825595/p02,"Moore
 narrative,NOB Norfolk,1945-01-01,0000,R,36-57N,76-20W,rg367-139825595/p03,"1-31 Jan Chesapeake Bay area: afloat and alongside training of student officers and enlisted men, U. S. Naval Training Station, NOB, Norfolk; refresher training of ship's company",yes,,,,,NOB Norfolk coordinates are not in the diary; standard harbour position used
 event,Shore bombardment practice with the Amph,1945-01-06,0000,R,,,rg367-139825595/p03,"Shore bombardment practice with the Amphibious Forces in the vicinity of Bloodsworth Island, Chesapeake Bay (3""/50 98 rounds, 40 MM 336, 1.10 560). Signed W. F. Grubbs",no,,,,,
 narrative,Lynnhaven Roads,1945-02-01,1835,R,36-56N,76-05W,rg367-139905513/p01,Anchored Lynnhaven Roads in company with USS KEARNY (DD-432) and USS F. M. ROBINSON (DE-220). Attached to Task Group 60.9 (1707 underway proceeding Lynnhaven Roads),yes,,,,,Lynnhaven Roads coordinates are not in the diary; standard harbour position used
-event,Underway from Lynnhaven Roads escorting ,1945-02-02,0505,R,,,rg367-139905513/p02,Underway from Lynnhaven Roads escorting convoy UGS 72 enroute North African ports,no,,,,,
+event,Underway from Lynnhaven Roads escorting,1945-02-02,0505,R,,,rg367-139905513/p02,Underway from Lynnhaven Roads escorting convoy UGS 72 enroute North African ports,no,,,,,
 diary,,1945-02-02,0800,R,36-32N,75-28W,rg367-139905513/p01,,yes,,,,,
 diary,,1945-02-02,1200,R,36-50N,74-37W,rg367-139905513/p01,,yes,,,,,
 diary,,1945-02-02,2000,R,36-43N,73-22W,rg367-139905513/p01,,yes,,,,,
@@ -362,7 +362,7 @@ event,"Underway enroute Navy Yard, Brooklyn",1945-03-16,1505,R,,,rg367-633401458
 narrative,"New York Navy Yard, Brooklyn",1945-03-16,1655,R,40-42N,73-58W,rg367-633401458/p02,"Moored at Navy Yard, Brooklyn, New York. 17-26 Mar at Navy Yard for assigned availability",yes,,,,,"New York Navy Yard, Brooklyn coordinates are not in the diary; standard harbour position used"
 event,Entered drydock,1945-03-18,1437,R,,,rg367-633401458/p02,Entered drydock,no,,,,,
 event,Left drydock,1945-03-23,1245,R,,,rg367-633401458/p02,Left drydock,no,,,,,
-event,"Underway enroute NAD, Leonardo (0800 at ",1945-03-27,1000,R,,,rg367-633401458/p03,"Underway enroute NAD, Leonardo (0800 at Navy Yard, Brooklyn)",no,,,,,
+event,"Underway enroute NAD, Leonardo (0800 at",1945-03-27,1000,R,,,rg367-633401458/p03,"Underway enroute NAD, Leonardo (0800 at Navy Yard, Brooklyn)",no,,,,,
 narrative,"NAD Earle, Leonardo, N.J.",1945-03-27,1240,R,40-26N,74-04W,rg367-633401458/p03,"Moored at NAD, Leonardo, N.J. to take on ammunition. 1645 underway enroute New London, Connecticut",yes,,,,,"NAD Earle, Leonardo, N.J. coordinates are not in the diary; standard harbour position used"
 diary,,1945-03-27,2000,R,40-11N,73-43W,rg367-633401458/p03,,yes,,,,,
 narrative,New London,1945-03-28,1902,R,41-21N,72-05W,rg367-633401458/p03,"Moored at New London, Connecticut (28-30 Mar New London area for training exercises per ComSubRon I; diary: moored 1902 28 Mar - 0616 29 Mar)",yes,,,,,New London coordinates are not in the diary; standard harbour position used
@@ -494,7 +494,7 @@ narrative,South Boston,1945-05-15,1035,R,42-21N,71-02W,rg367-633449597/p02,"Moor
 diary,,1945-05-15,1200,R,42-21N,71-02W,rg367-633449597/p02,,yes,,,,,
 diary,,1945-05-15,2000,R,42-21N,71-02W,rg367-633449597/p02,,yes,,,,,
 narrative,South Boston,1945-05-16,0000,R,42-21N,71-02W,rg367-633449597/p03,"16-25 May at U.S. Naval Dry Dock, South Boston, for assigned upkeep period (25 May 0807-1700 to calibration area and back)",yes,,,,,South Boston coordinates are not in the diary; standard harbour position used
-event,"Underway enroute Casco Bay, Maine (0800 ",1945-05-26,0740,R,,,rg367-633449597/p03,"Underway enroute Casco Bay, Maine (0800 at U.S. Naval Dry Dock, South Boston)",no,,,,,
+event,"Underway enroute Casco Bay, Maine (0800",1945-05-26,0740,R,,,rg367-633449597/p03,"Underway enroute Casco Bay, Maine (0800 at U.S. Naval Dry Dock, South Boston)",no,,,,,
 diary,,1945-05-26,1200,R,42-51.4N,70-03.5W,rg367-633449597/p03,,yes,,,,,
 narrative,Casco Bay,1945-05-26,1603,R,43-41N,70-13W,rg367-633449597/p03,"Moored at berth Easy, Casco Bay, Maine",yes,,,,,Casco Bay coordinates are not in the diary; standard harbour position used
 diary,,1945-05-27,0800,R,43-41.3N,70-12.6W,rg367-633449597/p03,27-28 May training schedule CTG 23.9; all three 27 May positions typed alike (berth),yes,,,,,

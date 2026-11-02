@@ -1993,10 +1993,6 @@
       37.6833
      ],
      [
-      -123.1667,
-      38.6667
-     ],
-     [
       -122.3667,
       37.8167
      ],
@@ -15520,14 +15516,14 @@
     "kind": "diary",
     "ref": "",
     "patrol": 1,
-    "on_track": true,
+    "on_track": false,
     "utc": "1945-08-08T19:00Z",
     "lat_raw": "38-40N",
     "lon_raw": "123-10W",
     "local": "1945-08-08 1200(T)",
     "page": "rg367-83577147/p03",
     "note": "",
-    "fix": ""
+    "fix": "Typed 38-40 N 123-10 W (read on the scan), which is on land in Sonoma County, about 60 miles north of the 0800 position off San Francisco (37-41 N) and of her mooring at Treasure Island at 1416: a slip in the diary, perhaps for 37-40 N, but the right figure can't be told. Left off the track."
    },
    "geometry": {
     "type": "Point",

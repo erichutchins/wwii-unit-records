@@ -1536,7 +1536,7 @@
   "alias": "belleau wood",
   "name": "Belleau Wood",
   "hull": "CVL-24",
-  "class": "Essex",
+  "class": "Independence",
   "kind": "carrier",
   "max_kts": 33.0,
   "dives": false,
@@ -1590,7 +1590,7 @@
   "alias": "cabot",
   "name": "Cabot",
   "hull": "CVL-28",
-  "class": "Essex",
+  "class": "Independence",
   "kind": "carrier",
   "max_kts": 33.0,
   "dives": false,
@@ -1603,8 +1603,7 @@
    {
     "dates": "6 – 6 Apr 1945",
     "n": 1,
-    "name": "AA action forms",
-    "6 April 1945": null,
+    "name": "AA action forms, 6 April 1945",
     "area": "Okinawa · east of Okinawa",
     "co": ""
    }
@@ -1645,7 +1644,7 @@
   "alias": "san jacinto",
   "name": "San Jacinto",
   "hull": "CVL-30",
-  "class": "Essex",
+  "class": "Independence",
   "kind": "carrier",
   "max_kts": 33.0,
   "dives": false,

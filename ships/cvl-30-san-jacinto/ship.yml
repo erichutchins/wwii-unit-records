@@ -1,7 +1,7 @@
 # USS San Jacinto (CVL-30): her April 1945 war diary, for 6 April only so far. Hand-edited; see ../dd-700-haynsworth/ship.yml.
 name: San Jacinto
 hull: CVL-30
-class: Essex
+class: Independence
 kind: carrier
 max_kts: 33.0      # the class's design speed; the diary gives no higher figure
 dives: false

@@ -912,6 +912,7 @@ taiwan-cwa:
   used_for: boats/ss-385-bang/dives.yml
 
 natural-earth:
+  short: Natural Earth
   title: Natural Earth land and country boundaries (1:10m, 1:50m), via world-atlas
   by: Natural Earth; world-atlas by Mike Bostock
   url: https://www.naturalearthdata.com/
@@ -938,12 +939,6 @@ grid:
   title: Position computed from the row's own grid reference (tools/grid_ref.py)
   cite: grid
   match: '^grid$'
-
-estimated-from-grid:
-  kind: derived
-  title: Position estimated from a nearby grid reference; the row's note says how
-  cite: estimated from grid
-  match: '^estimated from grid$'
 
 hand-placed:
   kind: derived

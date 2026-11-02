@@ -7178,7 +7178,7 @@
    "type": "Feature",
    "properties": {
     "kind": "event",
-    "ref": "Left merchant ships at Buoy 4, Delaware ",
+    "ref": "Left merchant ships at Buoy 4, Delaware",
     "patrol": 1,
     "on_track": false,
     "utc": "1944-11-30T02:15Z",
@@ -7689,7 +7689,7 @@
    "type": "Feature",
    "properties": {
     "kind": "event",
-    "ref": "Underway from Lynnhaven Roads escorting ",
+    "ref": "Underway from Lynnhaven Roads escorting",
     "patrol": 1,
     "on_track": false,
     "utc": "1945-02-02T10:05Z",
@@ -10556,7 +10556,7 @@
    "type": "Feature",
    "properties": {
     "kind": "event",
-    "ref": "Underway enroute NAD, Leonardo (0800 at ",
+    "ref": "Underway enroute NAD, Leonardo (0800 at",
     "patrol": 1,
     "on_track": false,
     "utc": "1945-03-27T15:00Z",
@@ -13602,7 +13602,7 @@
    "type": "Feature",
    "properties": {
     "kind": "event",
-    "ref": "Underway enroute Casco Bay, Maine (0800 ",
+    "ref": "Underway enroute Casco Bay, Maine (0800",
     "patrol": 1,
     "on_track": false,
     "utc": "1945-05-26T12:40Z",
