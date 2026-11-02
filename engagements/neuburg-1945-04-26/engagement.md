@@ -3,6 +3,20 @@ title: Neuburg an der Donau, 26 April 1945
 short: Neuburg · 26 April 1945
 theater: europe
 clock: B
+participants:
+  - id: 106aaa-d
+    name: Battery D, 106th AAA AW Bn
+    side: us
+    kind: army
+    unit: 106aaa-d
+    basis: inferred
+    note: 'the battalion fired; Battery D was defending the 189th that month (Where was Battery D?, below)'
+  - id: 189fa
+    name: 189th Field Artillery Bn
+    side: us
+    kind: army
+    unit: 189fa
+    note: watched from Bergen
 ---
 
 Me 262 jets attack a formation of B-26s over the Danube at Neuburg, and three records that never mention each other

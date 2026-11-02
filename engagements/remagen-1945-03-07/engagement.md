@@ -5,6 +5,18 @@ eyebrow: III Corps' after action report
 theater: europe
 clock: A
 window: {from: 1945-03-07T13:00Z, to: 1945-03-17T15:00Z}
+participants:
+  - id: 9ad
+    name: 9th Armored Division
+    side: us
+    kind: army
+    unit: 9ad
+    note: its Combat Command B took the bridge
+  - id: 60aib
+    name: 60th Armored Infantry Battalion
+    side: us
+    kind: army
+    unit: 60aib
 ---
 
 The 9th Armored Division's Combat Command B finds the Ludendorff railroad bridge at Remagen standing on the

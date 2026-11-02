@@ -2,6 +2,13 @@
 title: Algiers under the night bombers, May–June 1943
 short: Algiers · May–June 1943
 theater: mediterranean
+participants:
+  - id: battery-c
+    name: Battery C, 62nd CA (AA)
+    side: us
+    kind: army
+    unit: 62ca-c
+    note: fired on the raiders, 12 and 13 May and 4 June 1943
 ---
 
 Three nights when Battery C, 62nd Coast Artillery (AA), 4 miles west of Algiers, fired on raiders: 12 May, 13 May

@@ -2,6 +2,17 @@
 title: 'Filignano and Selvone, 12 January 1944: the raid at 1500'
 short: Filignano · 12 January 1944
 theater: mediterranean
+participants:
+  - id: battery-f
+    name: Battery F, 67th CA (AA)
+    side: us
+    kind: army
+    unit: 67ca-f
+  - id: battery-g
+    name: Battery G, 67th CA (AA)
+    side: us
+    kind: army
+    unit: 67ca-g
 ---
 
 Two batteries of the 2nd Battalion, 67th Coast Artillery (AA), 2.5 km apart in the hills north of Venafro, fired on the

@@ -2,6 +2,23 @@
 title: 'Shelled on the Winter Line: the 67th CA (AA)''s batteries by Venafro and Acquafondata, February 1944'
 short: Venafro · February 1944
 theater: mediterranean
+participants:
+  - id: battery-e
+    name: Battery E, 67th CA (AA)
+    side: us
+    kind: army
+    unit: 67ca-e
+  - id: battery-h
+    name: Battery H, 67th CA (AA)
+    side: us
+    kind: army
+    unit: 67ca-h
+  - id: battery-a
+    name: Battery A, 67th CA (AA)
+    side: us
+    kind: army
+    unit: 67ca-a
+    note: strafed and shelled on the road to Sant'Elia, 8 Feb
 ---
 
 Two batteries of the 2nd Battalion, 67th Coast Artillery (AA) (from 20 March 1944 the 894th AAA AW Bn), giving
