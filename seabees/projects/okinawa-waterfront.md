@@ -27,6 +27,7 @@ built:
   - Waterfront facilities, and pontoon barges maintained
   - Work on an advanced base construction depot on Katchin Hanto
 sources: [rg367-83572565/p0002, ncbhist-020/p9, ncbhist-036/p9, bases-30, rg24-190273312/p0835]
+film: [okinawa-seabees-unload-lsts-1945-05-07]
 ---
 
 ## Built

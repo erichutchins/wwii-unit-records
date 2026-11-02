@@ -4,7 +4,9 @@
   relation: hit
   note: >-
     Nitto Maru sunk at 0100 I, about 11 nm from SEAHORSE's position for her stern-tube attack at 2354 H (0054
-    I). Attacks 3 and 4 were a minute apart on the same convoy; the Japanese table records one ship sunk
+    I). Attacks 3 and 4 were a minute apart on the same convoy; the Japanese table records one ship sunk. JANAC
+    credits her to SEAHORSE, not marked probable: 2,186 tons, at 19-28N 115-41E, but on 3 July, the boat's own
+    date (2354 H), not the table's 4 July (janac:4/p62; janac:6/p40)
 - attack: Attack 4
   record: J01
   relation: possible
@@ -16,7 +18,11 @@
   relation: hit
   note: >-
     Gyoyu Maru and No. 28 Kyodo Maru sunk at 1345 I, seven minutes after SEAHORSE's bow tubes (1237-45 H = 1337
-    I), about 8 nm from her position. SEAHORSE claimed a medium and a large passenger freighter
+    I), about 8 nm from her position. SEAHORSE claimed a medium and a large passenger freighter. JANAC credits both
+    to SEAHORSE, neither marked probable, but splits them: No. 28 Kyodo Maru (1,506 tons) on 4 July at 20-20N
+    114-54E, near the table's 20-18N 115-02E (janac:4/p63), and Gyoyu Maru (2,232 tons) on 3 July at Nitto Maru's
+    position, 19-28N 115-41E (janac:4/p62; both janac:6/p40). The table puts Gyoyu Maru with No. 28 Kyodo Maru
+    at 1345 I on the 4th; JANAC's date and place for her look carried over from the Nitto Maru entry (inferred)
 - attack: Attack 6
   record: J02
   relation: hit

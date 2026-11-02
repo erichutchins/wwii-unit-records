@@ -18,6 +18,7 @@ built:
   - Stevedoring at the port, from the first wave's arrival
   - Construction in the White Poppy (Nouméa) area once relieved of stevedoring (not described)
 sources: [ncbhist-020/p2, bases-24, rg38-78205374/p0005]
+film: [noumea-seabees-camp-1943-01-13]
 ---
 
 ## Built

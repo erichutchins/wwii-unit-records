@@ -4,7 +4,9 @@
   relation: hit
   note: >-
     PICUDA fired six at the first two AKs of HI-81's near column and claimed hits. The table's Mayasan Maru (9,433
-    tons) sank 4 minutes after she fired, about 2 miles from her attack position; no other HI-81 loss at that hour
+    tons) sank 4 minutes after she fired, about 2 miles from her attack position; no other HI-81 loss at that hour.
+    JANAC credits her to PICUDA, not marked probable: 17 November, 9,433 tons, 33-16N 124-43E (janac:4/p76;
+    janac:6/p29)
 - attack: Attack 1
   record: J02
   relation: hit
@@ -14,7 +16,11 @@
   relation: hit
   note: >-
     PICUDA's bow nest at 0347 I against TAMO-29; the table has Fukuju Maru sunk at 0348, about 14 miles from her
-    attack position. The chart names the 0348 loss Shuyo Maru (J05): the ship is unresolved, the attack is not
+    attack position. The chart names the 0348 loss Shuyo Maru (J05): the ship is unresolved, the attack is not.
+    JANAC credits both ships to PICUDA on 23 November, neither marked probable (janac:4/p76; janac:6/p29), so the
+    credit stands either way. Its positions side with the table: Fukuju Maru (5,291 tons) at 34-19N 128-05E, west
+    of both but nearer the 0348 loss (128-20E), and Shuyo Maru (6,933 tons) at 34-15N 128-58E, the table's longitude for the 0845 loss
+    (inferred from the positions; JANAC gives no times)
 - attack: Attack 2
   record: J05
   relation: hit

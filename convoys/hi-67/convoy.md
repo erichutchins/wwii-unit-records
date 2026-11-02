@@ -261,3 +261,12 @@ Moji to Singapore by way of Manila, June–July 1944. The escort division's June
 (inferred, not from a record of this convoy). Miri Maru's designated-ship log (jacar:C08050103600 p21–25)
 ends on 10 June 1944, when the Navy took her over, so it stops before this voyage. Gokoku, Asahisan, Miri
 and Sarawak Maru left the convoy at Manila (combinedfleet, secondary).
+
+**Why the tankers mattered** (context, secondary: wolborsky, a 1994 Air University thesis drawing on the Strategic
+Bombing Survey). In the fall of 1943 the Navy made tankers its submarines' first target, and early in 1944 it decided
+to put submarines in the Luzon Strait, "astride the main Japanese oil lifeline" (wolborsky/p20). BANG
+met HI-67 west of Luzon, at 17-13N 118-22E, on that same route south (inference from the convoy's track). Japan's tanker fleet peaked at 834,000 tons in November 1943; once the attacks focused on oil,
+monthly tanker sinkings tripled, and oil imports to the home islands fell from a peak of 1.75 million barrels in
+August 1943 to 300,000 barrels a month by October 1944 (wolborsky/p28). Of the 28.5 million barrels Japan expected to
+import in 1944 it received 4,975,000 (the Survey, quoted at wolborsky/p33). None of this is HI-67's own record: BANG's
+hit on Miri and Sarawak Maru did minor damage to both, and neither was lost on this voyage.

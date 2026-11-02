@@ -2,7 +2,9 @@
 - attack: Attack 1
   record: J03
   relation: hit
-  note: Takegawa Maru (1,930 GRT), TAMA-17; sank 2240 I (J04). BANG was then depth-charged by Harukaze
+  note: >-
+    Takegawa Maru (1,930 GRT), TAMA-17; sank 2240 I (J04). BANG was then depth-charged by Harukaze. JANAC credits
+    her to BANG, not marked probable: 29 April, 1,930 tons, 19-26N 118-45E (janac:4/p58; janac:6/p3)
 - attack: Attack 2
   record: J07
   relation: miss
@@ -18,44 +20,51 @@
   relation: hit
   note: >-
     Nittatsu Maru (2,859 GRT), TAMA-17; sank about 5 minutes after the hits. BANG had identified her as a
-    10,400-ton AP
+    10,400-ton AP. JANAC credits her to BANG, not marked probable, as cargo: 30 April, 2,859 tons, 19-11N 119-10E
+    (janac:4/p58; janac:6/p3)
 - attack: Attack 5
   record: J12
   relation: possible
   note: >-
-    JANAC credits BANG with Kinrei Maru, but the secondary source's 0106 I for her sinking is the minute PARCHE
-    fired her Attack 2. BANG fired at 0232 I, after PARCHE and TINOSA had scattered the convoy (her own words);
+    JANAC credits BANG with Kinrei Maru (janac:6/p3), but marks the agent "Submarine*", "*Probable Agent"
+    (janac:4/p59): a probable credit, not a certain one. The secondary source's 0106 I for her sinking is the
+    minute PARCHE fired her Attack 2. BANG fired at 0232 I, after PARCHE and TINOSA had scattered the convoy (her own words);
     the losses timed about 0300 (J15) are the nearer match
 - attack: Attack 5
   record: J15
   relation: possible
   note: >-
     BANG's Attack 5 (0232 I) is 28 minutes before the secondary source's "about 0300" for Shoryu and Daiyoku
-    Marus, which it credits to PARCHE
+    Marus, which it credits to PARCHE. So does JANAC: Shoryu Maru (6,475 tons) not marked probable, Taiyoku
+    (Daiyoku) Maru (5,244 tons) "Submarine*", probable; both 4 May at 20-48N 118-03E (janac:4/p59; janac:6/p27)
 - attack: ss-384-parche/1:Attack 1
   record: J10
   relation: no_loss
   note: >-
     PARCHE fired 4 at TAMA-17 on the morning of 30 April, no hits seen. The April loss list (J10) has no TAMA-17
-    loss after Nittatsu Maru
+    loss after Nittatsu Maru, and JANAC credits PARCHE with nothing before 4 May 1944 (janac:6/p27)
 - attack: ss-283-tinosa/6:Attack 1 fired
   record: J10
   relation: no_loss
   note: >-
     TINOSA claimed one AK sunk and two ships damaged nine minutes after PARCHE's attack. Not in the April loss
-    list; TAMA-17's other ships reached Manila 2 May
+    list; TAMA-17's other ships reached Manila 2 May. JANAC credits TINOSA with nothing in April 1944 (janac:6/p51)
 - attack: ss-283-tinosa/6:Attack 2 fired
   record: J13
   relation: hit
   note: >-
     TINOSA saw her first target, a tanker, hit under the bridge and the bow and sink. Toyohi Maru was an ore
-    carrier; the secondary source's 0008 I is one minute before TINOSA's first hits
+    carrier; the secondary source's 0008 I is one minute before TINOSA's first hits. JANAC credits Toyohi Maru
+    (6,436 tons, cargo) to TINOSA, not marked probable: 4 May, 20-51N 118-02E (janac:4/p59; janac:6/p51)
 - attack: ss-384-parche/1:Attack 2
   record: J12
   relation: possible
   note: >-
     PARCHE fired 4 + 2 at 0106 I and claimed two AKs sunk. The secondary source's 0106 I (Kinrei Maru, credited
-    to BANG) and 0113 I (Daibu Maru, credited to TINOSA) fall at and just after this attack
+    to BANG) and 0113 I (Daibu Maru, credited to TINOSA) fall at and just after this attack. JANAC gives both
+    away from PARCHE, and both as probable: Kinrei Maru to BANG, Taibu (Daibu) Maru to TINOSA ("Submarine*";
+    6,440 tons, 20-54N 118-14E; janac:4/p59; janac:6/p51). PARCHE's two credits that night are Shoryu and Taiyoku
+    Maru (see the BANG Attack 5 / J15 note)
 - attack: ss-384-parche/1:Attack 2
   record: J14
   relation: possible

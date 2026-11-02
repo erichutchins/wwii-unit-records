@@ -602,6 +602,7 @@
   "url": "https://catalog.archives.gov/id/77471094",
   "pages": [
    29,
+   31,
    33
   ]
  },
@@ -657,6 +658,27 @@
    6
   ]
  },
+ "77492855": {
+  "title": "MAR AIR GR 33 - War Diary, 7/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77492855",
+  "pages": [
+   3,
+   9
+  ]
+ },
+ "77493219": {
+  "title": "VMF(N)-543 - War Diary, 7/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77493219",
+  "pages": [
+   6
+  ]
+ },
  "77494684": {
   "title": "COM NAV AIR BASES, OKINAWA - War Diary, 7/1-31/45",
   "series": "World War II War Diaries, Other Operational Records and Histories",
@@ -676,6 +698,16 @@
   "url": "https://catalog.archives.gov/id/77498013",
   "pages": [
    1
+  ]
+ },
+ "77512048": {
+  "title": "NAV AIR BASES, OKINAWA - War Diary, 8/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77512048",
+  "pages": [
+   4
   ]
  },
  "77513304": {
@@ -760,6 +792,8 @@
   "url": "https://catalog.archives.gov/id/77668666",
   "pages": [
    81,
+   82,
+   123,
    151
   ]
  },
@@ -850,6 +884,16 @@
    1
   ]
  },
+ "78332782": {
+  "title": "MTB RON 5 - War Diary, 12/1-31/43",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78332782",
+  "pages": [
+   3
+  ]
+ },
  "78337817": {
   "title": "SOUTH DAKOTA - War Diary, 1/1-31/44",
   "series": "World War II War Diaries, Other Operational Records and Histories",
@@ -928,6 +972,26 @@
    10
   ]
  },
+ "78441607": {
+  "title": "COMNAV BASES FOWARD AREA - War Diary, 2/1-29/44; and War Diary, Nav Adv Base, Vella LaVella, 12/1/43 to 2/29/44",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78441607",
+  "pages": [
+   13
+  ]
+ },
+ "78477045": {
+  "title": "COM NAV BASES SOUTH SOLOMON SUB AREA - War Diary, 5/1-31/44",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78477045",
+  "pages": [
+   12
+  ]
+ },
  "78477472": {
   "title": "USS SOUTH DAKOTA - War Diary, 5/1-31/44",
   "series": "World War II War Diaries, Other Operational Records and Histories",
@@ -938,6 +1002,16 @@
    1,
    2,
    3
+  ]
+ },
+ "78511824": {
+  "title": "NAV ADV BASE, NEW GEORGIA - War Diary, 6/1-30/44",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78511824",
+  "pages": [
+   2
   ]
  },
  "78513245": {
@@ -986,6 +1060,16 @@
    1,
    2,
    3
+  ]
+ },
+ "78591807": {
+  "title": "COM NAV BASES, SOUTH SOLOMONS - War Diary, 7/1-31/44",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78591807",
+  "pages": [
+   8
   ]
  },
  "78647682": {
@@ -1043,6 +1127,16 @@
    3,
    4,
    5
+  ]
+ },
+ "83561703": {
+  "title": "MAR AIR GR 33 - War Diary, 8/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/83561703",
+  "pages": [
+   2
   ]
  },
  "83572565": {
@@ -1845,6 +1939,8 @@
   "record_group": 64,
   "url": "https://catalog.archives.gov/id/427182819",
   "pages": [
+   338,
+   356,
    372,
    389,
    405,

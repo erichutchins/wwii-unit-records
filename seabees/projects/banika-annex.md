@@ -18,7 +18,7 @@ built:
   - Operating the ABCD annex - receiving, storing and shipping material
   - Assembling jeeps, command cars, water trailers and fire pumps
   - Erecting and servicing cranes, shovels and bulldozers
-sources: [ncbhist-020/p3, ncbhist-020/p12, bases-25, rg38-78299723/p0001]
+sources: [ncbhist-020/p3, ncbhist-020/p12, bases-25, rg38-78299723/p0001, rg38-78441607/p0013, rg38-78591807/p0008]
 ---
 
 ## Built
@@ -40,5 +40,13 @@ foundations for twelve warehouses for the FOURTH MARINE BASE DEPOT continued." [
 available in the Russells or on Guadalcanal" before landing on Green Island on 15 February 1944. The annex isn't
 named: that the regiment drew on it is a lead, not a finding. [[cite:bases-25]]
 
-*Not known.* Which units or landings were equipped through the annex. The catalog's Russells diaries skip February
-1944 to May 1945.
+*Record.* The Russells base's own diaries for 1944 are filed inside its superiors' diaries (Commander Naval Bases
+Forward Area, South Solomons Sub-Area). February 1944: "5 of 8 stran steel warehouses completed for ADVANCED BASE
+CONSTRUCTION DEPOT ANNEX", in the same month as a survey of Macquitti Bay "for staging area to be provided for First
+Marine division". July 1944: "Work continued on grading and coraling of entire area used by ADVANCED BASE CONSTRUCTION
+DEPOT ANNEX, and is approximately 75% complete. Additional shed warehouses are being provided." [[cite:rg38-78441607/p0013]]
+[[cite:rg38-78591807/p0008]]
+
+*Not known.* Which units or landings were equipped through the annex. The base's diaries for February and April to
+July 1944 record building it, not who drew from it; the First Marine Division staging on Pavuvu is context, not a
+record of the annex supplying it.

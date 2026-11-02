@@ -5,7 +5,9 @@
   note: >-
     BARB claimed a large AP "Aikoku Maru class" sunk, firing in four parts from 0334 to 0409 I (narrative). Gokoku
     Maru was an Aikoku Maru-class ship (secondary: combinedfleet), sunk at 0345 I on the 10th by the escort
-    division's chart, inside BARB's attack. Position not checked: Koshiki light is not placed
+    division's chart, inside BARB's attack. Position not checked: Koshiki light is not placed. JANAC credits her
+    to BARB, not marked probable, as a converted light cruiser: 10 November, 10,438 tons, 33-23N 129-03E
+    (janac:4/p74; janac:6/p3)
 - attack: Attack 1
   record: J01
   relation: hit
@@ -16,18 +18,25 @@
   note: >-
     BARB's periscope attack at 0412 I claimed a small AK sunk and a medium AK probably sunk. The chart's losses
     begin at 0402 I with Naruo and Gyokuyo Marus. The 10 minutes fit; the positions are about 33 miles apart, but
-    BARB's sheet longitude is typed over (125 or 126) and her positions in this action are contact positions
+    BARB's sheet longitude is typed over (125 or 126) and her positions in this action are contact positions.
+    JANAC credits Naruo Maru to BARB, not marked probable: 12 November, 4,823 tons, at 31-29N 125-19E, 38' of
+    longitude west of the chart's 125-57E (janac:4/p75; janac:6/p3). It does not give BARB Gyokuyo Maru (J05 note)
 - attack: Attack 3
   record: J05
   relation: probable
-  note: Gyokuyo Maru, the other 0402 loss (see the J03 note)
+  note: >-
+    Gyokuyo Maru, the other 0402 loss (see the J03 note). JANAC disagrees on the date, the place and the boat: it
+    has her sunk on 14 November at 31-04N 123-56E and credits SPADEFISH ("Gyukuyo" in the appendix; 5,396 tons;
+    janac:4/p75; janac:6/p45). The two records may describe one ship hit on the 12th and sunk on the 14th, or
+    the chart may have counted her too soon; these pages don't say which (inferred)
 - attack: Attack 2
   record: J06
   relation: possible
   note: >-
     BARB's Attack 2 at 0140 I claimed a large AK and two medium AKs sunk. No Japanese loss is timed before 0402: the
     escort division's chart starts the convoy's losses there. Either the hits of 0140 sank ships whose losses were
-    timed later, or the claim was not borne out; these pages don't say which
+    timed later, or the claim was not borne out; these pages don't say which. JANAC credits BARB with two ships on
+    this patrol, Gokoku and Naruo Maru, and nothing else between 31 August 1944 and 8 January 1945 (janac:6/p3)
 - attack: Attack 2-D
   record: J06
   relation: possible
@@ -37,11 +46,15 @@
   relation: possible
   note: >-
     Tatsuwa Maru's loss at 0609 I is two hours after BARB's last attack and at 31-37N 125-36E. BARB saw PETO attack
-    the same convoy that morning, so PETO is the likelier cause (inferred; PETO's report is not in these records)
+    the same convoy that morning, so PETO is the likelier cause (inferred; PETO's report is not in these records).
+    JANAC agrees: it credits PETO, not marked probable, with "Tatsuaki Maru" ("Tatsuakiu" in the appendix), 12
+    November, 2,766 tons, 31-18N 125-30E (janac:4/p75; janac:6/p28). The name differs from the chart's Tatsuwa
+    Maru; the date, the place and the convoy make her the same ship (inferred)
 - attack: Attack 4
   record: J08
   relation: possible
   note: >-
     Unresolved. BARB claimed one hit on a Shokaku-class carrier at 2323-2326 I. The only Japanese-side account is
     secondary (combinedfleet.com: Junyo, no damage); no Japanese primary record has been found, so neither the
-    identification nor the "no damage" is established
+    identification nor the "no damage" is established. JANAC lists losses only and has no carrier sunk on 15-16
+    November 1944 (janac:3/p18), so it neither confirms nor rules out a hit

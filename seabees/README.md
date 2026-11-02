@@ -74,7 +74,11 @@ Hand-edited:
     (each with `name`, `lat`, `lon`, `precision`: exact, town, harbour, island, peninsula or area; and `station`, a
     place in `places.csv`, or `placed`, how it was placed by hand), `from` and `to` with `from_basis` and `to_basis`
     (reported, derived, inferred or assumed), `dates_ref` (the pages the dates come from), `built` (a short list of
-    what was built) and `sources` (every citation the file makes, in the forms of `../SOURCES.yml`);
+    what was built) and `sources` (every citation the file makes, in the forms of `../SOURCES.yml`); optionally
+    `film`, a list of clip ids in `../film/clips.csv`: film of the place or the operation, shown in the project's
+    section with what it shows, its date and basis, and its relevance (a `place-date` clip is the place at the time,
+    a `context` clip the same operation or the same kind of work; neither is the battalion unless the clip's own
+    shot list names it);
   - body: `## Built`, the records' account, every paragraph ending with its citations (`[[cite:bases-25]]`); and
     `## Afterwards`, a short history of how the base was used later in the war. Every Afterwards paragraph starts with
     its evidence, `*Record.*` (read on the scan of a wartime record), `*Secondary.*` (a published history),

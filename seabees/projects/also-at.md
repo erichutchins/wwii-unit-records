@@ -28,8 +28,11 @@ stations:
     to: 1943-10-15
     what: >-
       Landed with the Vangunu force, about 400 men; what the group built there isn't in the records read. Wickham
-      had its own naval base commander by September 1943 (war diary, read only by OCR so far).
-    ref: [ncbhist-020/p2, ncbhist-020/p12, https://www.ibiblio.org/hyperwar/USMC/USMC-M-CSol/USMC-M-CSol-2.html]
+      had its own naval base commander by September 1943: on 8 September the patrol craft APc 37, 42 and 46 ran
+      from Wickham Anchorage to Segi, and LCTs 145 and 146 loaded half a company of the 20th at "Oliana" for Munda.
+      Commander Naval Base Wickham's own diary is not in the catalog's war diaries, and the 1944 Forward Area and
+      New Georgia base diaries don't name Wickham: its later use isn't known.
+    ref: [ncbhist-020/p2, ncbhist-020/p12, https://www.ibiblio.org/hyperwar/USMC/USMC-M-CSol/USMC-M-CSol-2.html, rg38-134319760/p0034]
   - place: Roviana Lagoon and Munda, New Georgia
     station: Roviana
     from: 1943-09-09

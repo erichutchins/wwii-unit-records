@@ -17,7 +17,7 @@ dates_ref: [ncbhist-020/p5, rg24-190273312/p0835]
 built:
   - Worked on the airfield, by the battalion's narrative (undated)
   - Camp about a mile from the strip from 29 June 1945
-sources: [ncbhist-020/p5, ncbhist-020/p9, bases-30, rg38-77471094/p0029, rg38-77471094/p0033, rg38-77494684/p0002, rg38-77494684/p0016, rg38-77487065/p0003, rg38-77487065/p0004]
+sources: [ncbhist-020/p5, ncbhist-020/p9, bases-30, rg38-77471094/p0029, rg38-77471094/p0033, rg38-77494684/p0002, rg38-77494684/p0016, rg38-77487065/p0003, rg38-77487065/p0004, rg38-77471094/p0031, rg38-77492855/p0003, rg38-77492855/p0009, rg38-83561703/p0002, rg38-77493219/p0006, rg38-77512048/p0004]
 ---
 
 ## Built
@@ -38,6 +38,9 @@ constructing the bivouac area", and on 30 June "At AWASE rapid progress was made
 
 *Record.* "Effective 1200 this date Marine Air Base AWASE is activated" (30 June 1945). [[cite:rg38-77471094/p0033]]
 
+*Record.* On 28 June "At KADENA MAG-14 started moving to AWASE in preparation for that base opening operation". The
+day's construction entry names Kadena and Chimu only. [[cite:rg38-77471094/p0031]]
+
 *Record.* On 1 July "MAG-14 ... moved to AWASE Base for future operations"; "The first combat plane to land at AWASE
 landed at 1329, and was followed by ninety five (95) additional aircraft of MAG-14". On 15 July "MAG-33 moved this
 date from KADENA to AWASE". [[cite:rg38-77494684/p0002]] [[cite:rg38-77494684/p0016]]
@@ -45,6 +48,24 @@ date from KADENA to AWASE". [[cite:rg38-77494684/p0002]] [[cite:rg38-77494684/p0
 *Record.* MAG-14's July diary, at "Awase Airfield": Marine Fighting Squadrons 212, 222 and 223, with the torpedo
 squadrons VMTB-232 and VMTB-131 attached, flying combat air patrols over Okinawa and strikes on Sakishima Gunto and
 southern Kyushu. [[cite:rg38-77487065/p0003]] [[cite:rg38-77487065/p0004]]
+
+*Record.* MAG-33's own diary: its squadrons were VMF-312, 322 and 323 and the night fighters of VMF(N)-543. 14 July
+was "The last day of the Group's tactical flying at Kadena airfield"; on 15 July "Flight activity at Awase airfield was
+inaugurated with a joint strike against Kushira airfield on Kyushu", by forty-five Corsairs. In August the group was
+still "stationed at Awase Airfield". [[cite:rg38-77492855/p0003]] [[cite:rg38-77492855/p0009]]
+[[cite:rg38-83561703/p0002]]
+
+*Record.* VMF(N)-543, 15 July: "As yet the Group mess hall is not in operation and the men are subsisting on C rations
+or going to neighbouring C.B. units for chow. The camp area is about two miles from the apron where the planes are
+kept." On 17 July its planes "were moved to the southern end of Awase field". The C.B. units aren't named.
+[[cite:rg38-77493219/p0006]]
+
+*Record.* On 1 August the Air Base Command Awase was CBMU 624 (with MAG-33), CBMU 625 (with MAG-14), CGA Unit No. 2
+and a replacement aircraft pool detachment (CASU 51 Advon). [[cite:rg38-77512048/p0004]]
+
+*Not known.* Which battalion built the runway, and when the 20th "worked on the Awashi Airfield": the air bases'
+diaries for June, July and August 1945 name no construction battalion at Awase, only the maintenance units.
+[[cite:ncbhist-020/p9]] [[cite:rg38-77471094/p0033]] [[cite:rg38-77512048/p0004]]
 
 *Secondary.* *Building the Navy's Bases* has "The first planes of Marine Air Group 33" land on 30 June; the air
 bases' diary has MAG-14 first, on 1 July, and MAG-33 from 15 July. The diary is the record. [[cite:bases-30]]

@@ -4,13 +4,16 @@
   relation: hit
   note: >-
     Tokiwasan Maru (1,804 t) and Shoryu Maru (1,916 t) of convoy No. 3905, Yokosuka to Haha-jima, both sunk.
-    BANG claimed a medium AK and a medium AO (Attacks 1-2, 1616-1632 K). Secondary source only
+    BANG claimed a medium AK and a medium AO (Attacks 1-2, 1616-1632 K). Secondary source only. JANAC credits
+    both to BANG, neither marked probable, both as cargo: 9 September, 1,804 and 1,916 tons, 28-53N 137-42E
+    (janac:4/p66; janac:6/p3)
 - attack: Attack 3
   record: J02
   relation: hit
   note: >-
     No. 2 Tosei Maru (507-ton tanker) of convoy TAKA-909 sunk. BANG claimed one AK sunk and another probably
-    sunk (Attacks 3-4); the escorts claimed BANG sunk
+    sunk (Attacks 3-4); the escorts claimed BANG sunk. JANAC credits her ("Tosei Maru No 2", tanker, 507 tons) to
+    BANG, not marked probable: 19 September, 24-56N 122-14E (janac:4/p68; janac:6/p3); no second ship
 - attack: Attack 1
   record: J03
   relation: hit

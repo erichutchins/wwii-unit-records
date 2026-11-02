@@ -19,6 +19,7 @@ built:
   - An existing 50 by 30 foot wharf rehabilitated
   - Minor construction and maintenance
 sources: [bases-25, ncbhist-020/p2, ncbhist-020/p12, https://www.ibiblio.org/hyperwar/USMC/USMC-M-CSol/USMC-M-CSol-2.html]
+film: [viru-landing-force-1943-06-24]
 ---
 
 ## Built
@@ -37,5 +38,7 @@ Bases* says October. [[cite:ncbhist-020/p12]] [[cite:bases-25]]
 
 *Secondary.* There was no PT base at Viru: the plan was dropped. [[cite:bases-25]]
 
-*Not known.* Which landing craft or flotillas used the railway and the wharf; the LCT flotillas' diaries for 1943-44
-are still to read.
+*Not known.* Which landing craft or flotillas used the railway and the wharf. A search of the catalog's war diaries found no
+South Pacific LCT flotilla diary for 1943-44 and no Viru base diary, and
+Viru isn't named in the Forward Area's diaries for February and April 1944 or the New Georgia base's for May and June
+1944 (searched by OCR, 1 Nov 2026).

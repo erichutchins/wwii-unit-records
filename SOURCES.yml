@@ -398,6 +398,57 @@ frupac:
   link: https://texashistory.unt.edu/ark:/67531/{1}/
   used_for: boats/ss-385-bang/patrol-N/frupac.yml
 
+usf25a:
+  title: Current Doctrine, Submarines (USF 25(A))
+  short: USF 25(A)      # (USF 25(A) p. 37)
+  by: Commander Submarine Force, U.S. Pacific Fleet
+  held: February 1944; HyperWar transcription (ibiblio), with the printed page numbers
+  url: https://www.ibiblio.org/hyperwar/USN/ref/SS-Doct/index.html
+  rights: Public domain
+  cite: usf25a/<chapter>/p<page>      # e.g. usf25a/4/p37 (Chapter IV, printed page 37)
+  match: '^usf25a/(\d+)/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USN/ref/SS-Doct/SS-Doct-{1}.html
+  used_for: site/torpedo.html (the fire-control terms, spreads, firing doctrine, night attack)
+
+op635:
+  title: "Torpedoes Mark 14 and 23 Types, OP 635 (First Revision)"
+  short: OP 635
+  by: Bureau of Ordnance, Navy Department
+  held: 24 March 1945 (with changes to 1948); online edition by the Maritime Park Association (maritime.org, formerly HNSA)
+  url: https://maritime.org/doc/torpedo/index.htm
+  rights: Public domain (U.S. government publication)
+  cite: op635/p<page>      # printed page, e.g. op635/p13
+  match: '^op635/p(\d+)$'
+  link: https://web.archive.org/web/20220522053952/https://maritime.org/doc/torpedo/index.htm
+  used_for: site/torpedo.html (the Mark 14 and 23's speeds, ranges and gyro angle limits; the initial dive)
+  note: >-
+    maritime.org (now legacy.maritime.org) returned 504 on 1 Nov 2026; the link is the Wayback Machine's copy of
+    22 May 2022. Chapter 1 ("Marks and Modifications", pp. 13-14) gives the Mk 14-1A's speeds as 31 and 46 knots,
+    ranges 9,000 and 4,500 yards, gyro angle shots to 90° right or left, the Mk 14-3A's to 160°, and the Mk 23 as
+    a 14-3A locked in high power.
+
+op1056:
+  title: "Torpedo Data Computer Mark 3, Mods. 5 to 12, OP 1056"
+  short: OP 1056
+  by: Bureau of Ordnance, Navy Department (prepared by the Arma Corporation)
+  held: June 1944; online edition by the Maritime Park Association (maritime.org, formerly HNSA)
+  url: https://maritime.org/doc/tdc/index.htm
+  rights: Public domain (U.S. government publication)
+  cite: op1056/p<page>      # printed page, e.g. op1056/p22
+  match: '^op1056/p(\d+)$'
+  link: https://web.archive.org/web/20220522045228/https://maritime.org/doc/tdc/index.htm
+  used_for: site/torpedo.html (the position keeper and angle solver)
+  note: >-
+    The online pages are scans (images), not all of them archived; only the table of contents was read here
+    (Section 1, "Analysis of the Fire Control Problem": the position keeper's equations p. 22, the angle solver's p. 29).
+
+nusm-mk14:
+  title: MK 14 Torpedo
+  by: Mary Ryan, U.S. Naval Undersea Museum
+  held: navalunderseamuseum.org, 19 September 2016 (secondary)
+  url: https://navalunderseamuseum.org/mk-14/
+  used_for: site/torpedo.html (the 1942-43 failures, deep running, the Mark 6's prematures, the bent firing pins)
+
 # ── French and Italian records ─────────────────────────────────────────────────────────────────
 
 gallica:
@@ -514,6 +565,39 @@ industrialhistoryhk:
   match: '^industrialhistoryhk:(\d+)$'
   link: https://industrialhistoryhk.org/?p={1}
   used_for: convoys/no-91-1944-07; secondary (a summary of BAAG intelligence reports, and readers' comments that cite no source)
+
+wolborsky:
+  title: "Choke Hold: The Attack on Japanese Oil in World War II"
+  by: Stephen L. Wolborsky, Major, USAF (thesis, School of Advanced Airpower Studies, Air University, Maxwell AFB, June 1994)
+  held: >-
+    DTIC ADA425684, via the Internet Archive (https://archive.org/details/DTIC_ADA425684). Cited by the printed page;
+    the PDF page is the printed page + 10. Secondary: it draws on the US Strategic Bombing Survey (The War Against
+    Japanese Transportation; Oil in Japan's War), Blair and Middleton
+  url: https://ia903100.us.archive.org/35/items/DTIC_ADA425684/DTIC_ADA425684.pdf
+  cite: wolborsky/p<printed page>
+  match: '^wolborsky/p(\d+)$'
+  link: https://archive.org/details/DTIC_ADA425684
+  used_for: convoys/hi-67 (why the tankers mattered); the oil blockade's context
+
+janac:
+  title: "Japanese Naval and Merchant Shipping Losses During World War II by All Causes"
+  by: The Joint Army-Navy Assessment Committee (JANAC), February 1947
+  held: >-
+    HyperWar (ibiblio), a transcription with the printed page numbers marked; chapter 4 is the chronological list of
+    merchant losses (pp. 29-99), chapter 6 the appendix of vessels sunk by each US submarine (its own pages 1-). A
+    footnote on the lists' pages reads "*Probable Agent": an asterisk after the agent marks a credit JANAC held as
+    probable, not certain. A derived spreadsheet (Unrestricted, George Mason University, 2018,
+    https://unrestricted.omeka.net/items/show/24) drops the appendix's submarine names and the marine casualties;
+    it is a finding aid only
+  url: https://www.ibiblio.org/hyperwar/Japan/IJN/JANAC-Losses/index.html
+  cite: >-
+    janac:3/p<page> (chapter 3, the chronological list of naval losses, pp. 1-28), janac:4/p<page> (chapter 4, the
+    chronological list of merchant losses) or janac:6/p<page> (chapter 6, the appendix)
+  match: '^janac:([346])/p(\d+)$'
+  link: https://www.ibiblio.org/hyperwar/Japan/IJN/JANAC-Losses/JANAC-Losses-{1}.html
+  used_for: >-
+    boats/*/patrol-N/claims.yml (the postwar credit for each sinking); secondary, a postwar
+    assessment from US and Japanese records
 
 combinedfleet:
   title: Imperial Japanese Navy Page (combinedfleet.com), Tabular Records of Movement
