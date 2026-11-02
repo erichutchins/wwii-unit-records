@@ -1,6 +1,7 @@
 ---
 id: viru-railway
 title: The marine railway at Viru Harbor
+tab: Viru Harbor
 unit: 20ncb
 part: Viru company
 places:

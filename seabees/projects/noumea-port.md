@@ -1,6 +1,7 @@
 ---
 id: noumea-port
 title: Unloading the ships at Nouméa
+tab: Nouméa
 unit: 20ncb
 part: battalion
 places:

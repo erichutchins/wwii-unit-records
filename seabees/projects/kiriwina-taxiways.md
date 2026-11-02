@@ -1,6 +1,7 @@
 ---
 id: kiriwina-taxiways
 title: The taxiways on Kiriwina's airfield
+tab: Kiriwina
 unit: 20ncb
 part: Forward Echelon
 places:

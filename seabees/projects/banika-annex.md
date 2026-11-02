@@ -1,6 +1,7 @@
 ---
 id: banika-annex
 title: The advance base construction depot annex on Banika
+tab: Banika
 unit: 20ncb
 part: Rear Echelon
 places:

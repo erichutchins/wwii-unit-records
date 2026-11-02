@@ -78,6 +78,7 @@ was read but not entered, so the next session doesn't repeat them.
 | `archive_id` | The archive's own number: a NARA film number (`428-NPC-1084`, `111-ADC-2134`), Pathé's film ID, Movietone's story number |
 | `youtube` | A YouTube copy, if any (a finding aid unless `source` is that upload) |
 | `start` | Seconds into the film or upload where the place begins, when known |
+| `video` | The archive's own copy of the film (an MP4 URL), checked to answer as `video/mp4`, for a page to play; blank if it isn't online |
 | `shows` | What it shows, from the shot list or the narration (abridged; the source's words in quotes) |
 | `relevance` | `place-date` (the place on or near a unit's date in these records) or `context` |
 | `note` | Which unit's station it meets, and what it doesn't show |

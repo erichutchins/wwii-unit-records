@@ -1,6 +1,7 @@
 ---
 id: awase-airfield
 title: Awase airfield, Okinawa
+tab: Awase airfield
 unit: 20ncb
 part: battalion
 places:

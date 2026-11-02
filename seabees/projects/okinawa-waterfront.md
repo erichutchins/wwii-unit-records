@@ -1,6 +1,7 @@
 ---
 id: okinawa-waterfront
 title: Okinawa's roads, waterfront and the depot on Katchin Hanto
+tab: Okinawa waterfront
 unit: 20ncb
 part: battalion
 places:

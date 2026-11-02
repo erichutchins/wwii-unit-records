@@ -1,6 +1,7 @@
 ---
 id: bau-pt-base
 title: The PT-boat base on Bau Island (MTB Base Eleven)
+tab: Bau Island
 unit: 20ncb
 part: Bau unit
 places:

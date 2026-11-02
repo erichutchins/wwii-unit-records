@@ -78,7 +78,8 @@ Hand-edited:
     `film`, a list of clip ids in `../film/clips.csv`: film of the place or the operation, shown in the project's
     section with what it shows, its date and basis, and its relevance (a `place-date` clip is the place at the time,
     a `context` clip the same operation or the same kind of work; neither is the battalion unless the clip's own
-    shot list names it);
+    shot list names it; the page plays the archive's own copy when `clips.csv` has its `video`); and `tab`, a short
+    label for the project's tab (otherwise the first place's name);
   - body: `## Built`, the records' account, every paragraph ending with its citations (`[[cite:bases-25]]`); and
     `## Afterwards`, a short history of how the base was used later in the war. Every Afterwards paragraph starts with
     its evidence, `*Record.*` (read on the scan of a wartime record), `*Secondary.*` (a published history),
