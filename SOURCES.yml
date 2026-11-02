@@ -431,16 +431,50 @@ op1056:
   title: "Torpedo Data Computer Mark 3, Mods. 5 to 12, OP 1056"
   short: OP 1056
   by: Bureau of Ordnance, Navy Department (prepared by the Arma Corporation)
-  held: June 1944; online edition by the Maritime Park Association (maritime.org, formerly HNSA)
-  url: https://maritime.org/doc/tdc/index.htm
+  held: >-
+    June 1944. A complete scan, 277 printed pages (the cover photographed from a printed copy, the pages scanned), in
+    the Internet Archive's "Mechanical Computer Technical Manuals" (uploaded 2020 by a private user, who gives no
+    source; its contents pages carry the Maritime Park Association's web index, so it was most likely assembled from
+    that edition); the online edition by the Maritime Park Association (maritime.org, formerly HNSA)
+  id: archive.org mechanical-computer-technical-manuals, file "torpedo data computer MARK 3 MOD 5.pdf"
+  url: https://archive.org/details/mechanical-computer-technical-manuals
   rights: Public domain (U.S. government publication)
   cite: op1056/p<page>      # printed page, e.g. op1056/p22
   match: '^op1056/p(\d+)$'
-  link: https://web.archive.org/web/20220522045228/https://maritime.org/doc/tdc/index.htm
-  used_for: site/torpedo.html (the position keeper and angle solver)
+  link: https://archive.org/download/mechanical-computer-technical-manuals/torpedo%20data%20computer%20MARK%203%20MOD%205.pdf
+  used_for: site/torpedo.html (the position keeper and angle solver; the dials)
   note: >-
-    The online pages are scans (images), not all of them archived; only the table of contents was read here
-    (Section 1, "Analysis of the Fire Control Problem": the position keeper's equations p. 22, the angle solver's p. 29).
+    Printed and PDF page numbers differ (inserted "A" pages): printed p. 107 is the PDF's page 112, p. 277 its last
+    (282). Read so far: the contents (Section 1, "Analysis of the Fire Control Problem": the position keeper's
+    equations p. 22, the angle solver's p. 29); the position keeper's and the angle solver's faces (Fig. 98 p. 107,
+    every dial named; Fig. 102 p. 111, the angle solver's AFT and FWD halves); the dials' graduations (Appendix,
+    pp. 267-270); and the distribution (p. 277: "SS 167-544 incl."). The scans are about 65 dpi: a dial's layout and
+    name read, its fine graduations don't (the appendix gives them in words). maritime.org itself refuses scripted
+    requests (Cloudflare, 403) and the Wayback Machine holds only part of its edition. The Periscope Film reprint
+    (2008, ISBN 9781935327073) has 112 pages, under half the manual. Holdings of the printed original: Google Books
+    catalogues it ("Torpedo data computer, Mark 3, models 5-12 inclusive", Bureau of Ordnance 1944, 277 p., id
+    o26hnQAACAAJ, no preview); the National Archives' Ordnance Pamphlets series (RG 74, NAID 575643) lists Box 189
+    as OP 1051 to OP 1056, not checked, and not scanned.
+
+rowland-boyd:
+  title: U.S. Navy Bureau of Ordnance in World War II
+  short: Rowland and Boyd
+  by: Buford Rowland and William B. Boyd (Lieutenant Commander and Lieutenant, USNR), Bureau of Ordnance
+  held: Bureau of Ordnance, Department of the Navy, 1953 (Government Printing Office); Google Books, a library copy, full view
+  id: Google Books EqNZ5hjPOVMC
+  url: https://books.google.com/books?id=EqNZ5hjPOVMC
+  rights: Public domain (U.S. government publication)
+  cite: rowland-boyd/p<page>      # printed page, e.g. rowland-boyd/p399
+  match: '^rowland-boyd/p(\d+)$'
+  link: https://books.google.com/books?id=EqNZ5hjPOVMC&pg=PA{1}
+  used_for: site/torpedo.html (the TDC Mark 3 and Mark 4)
+  note: >-
+    The Bureau's official history (secondary for events, primary for the Bureau's own account). Pp. 399-400, the
+    Torpedo Data Computers: developed for the Bureau by the Arma Corp., the first in 1935; "At the beginning of the
+    war most submarines carried the Torpedo Data Computer Mark 3"; own speed and course fed in automatically, the
+    enemy's data by hand; the Mark 4 produced because radar data "could be only partially utilized by the TDC Mark 3"
+    and the Mark 18 torpedo "required ballistic changes", incorporating "over 2 years of war experience" (no date
+    given).
 
 nusm-mk14:
   title: MK 14 Torpedo
