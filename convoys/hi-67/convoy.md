@@ -206,7 +206,8 @@ ships:
     note: >-
       Named by combinedfleet.com (secondary; Miri_t, Sarawak_t, Shirataka_t agree). The escort chart gives the
       convoy as 12 ships but names only the two hit (jacar:C08030141000 p34)
-    sil: tanker
+    sil: type-tm-tanker
+    sil_basis: class
   - ship: Shinei Maru
     role: merchant; oiler
     source: combinedfleet:Miri_t
@@ -214,7 +215,8 @@ ships:
     note: >-
       Named by combinedfleet.com (secondary; Miri_t, Sarawak_t, Shirataka_t agree). The escort chart gives the
       convoy as 12 ships but names only the two hit (jacar:C08030141000 p34)
-    sil: tanker
+    sil: type-tm-tanker
+    sil_basis: 'class, assumed: combinedfleet (Shinei_t, secondary) calls her a 5,135-ton Type 1TM standard tanker; the plate''s list (ONI 208-J Supplement 3, p. 12) omits her'
   - ship: Nichinan Maru No. 2
     role: merchant; oiler
     source: combinedfleet:Miri_t
@@ -234,7 +236,8 @@ ships:
     note: >-
       Written みりい丸 さらわく丸 (小破) beside the torpedo mark on the ヒ67 track, which ends at (マニラ). Detached at Manila
       (combinedfleet:Miri_t)
-    sil: tanker
+    sil: type-tl-tanker
+    sil_basis: 'class, assumed: the plate (ONI 208-J Supplement 3, p. 11) lists MIRII MARU 10,564 GT for Types TL and TL (Modified) together; the drawing is TL (Modified)'
   - ship: Sarawak Maru
     role: merchant; oiler
     to: 1944-06-30
@@ -245,8 +248,9 @@ ships:
     basis: reported
     note: >-
       Written みりい丸 さらわく丸 (小破) beside the torpedo mark on the ヒ67 track, which ends at (マニラ). Detached at Manila
-      (combinedfleet:Miri_t)
-    sil: tanker
+      (combinedfleet:Miri_t). Which Sarawak Maru: the 5,136-ton Type 1TM standard tanker completed by Mitsubishi, Yokohama, on 20 Nov 1943, whose record has her in HI-67 and hit by BANG on 29 June (combinedfleet:Sarawak_t, secondary); ONI 208-J Supplement 3, p. 12 lists SARAWAK MARU 5,135 GT under Type TM (oni-208-j-sup3). She was not Miri Maru's sister: Miri Maru is in the Type TL list (p. 11), and combinedfleet pairs the two only as the ships hit
+    sil: type-tm-tanker
+    sil_basis: class
 ---
 
 Moji to Singapore by way of Manila, June–July 1944. The escort division's June chart starts the track in the

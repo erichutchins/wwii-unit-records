@@ -68,6 +68,24 @@ Hand-edited:
   (`no` to leave a position off the drawn track), `ref`. Only the flagship's or the ship's own position:
   a convoy's ships sailed together, so it stands for them all
 
+- `projects/<id>.md`: the battalion's **main construction projects**, one file each, in Markdown with YAML front
+  matter (the page shows them in the order the battalion reached them):
+  - front matter: `id` (the file's name), `title`, `unit`, `part` (`battalion` or a part in `parts.csv`), `places`
+    (each with `name`, `lat`, `lon`, `precision`: exact, town, harbour, island, peninsula or area; and `station`, a
+    place in `places.csv`, or `placed`, how it was placed by hand), `from` and `to` with `from_basis` and `to_basis`
+    (reported, derived, inferred or assumed), `dates_ref` (the pages the dates come from), `built` (a short list of
+    what was built) and `sources` (every citation the file makes, in the forms of `../SOURCES.yml`);
+  - body: `## Built`, the records' account, every paragraph ending with its citations (`[[cite:bases-25]]`); and
+    `## Afterwards`, a short history of how the base was used later in the war. Every Afterwards paragraph starts with
+    its evidence, `*Record.*` (read on the scan of a wartime record), `*Secondary.*` (a published history),
+    `*Inference.*` (ours, citing what it rests on) or `*Not known.*` (what the records read don't say), and all of it is
+    context: a squadron flying from a strip, or boats repaired at a base, isn't the battalion's act.
+  - `also-at.md`: front matter only, the other stations and smaller jobs (`place`, `station`, `from`, `to`, `what`,
+    `ref`).
+
+  Unit names only, as everywhere in the records. `tools/build_seabees.py` checks every field, date, place and
+  citation, and `tools/check_sources.py` counts the citations.
+
 Generated, never edited: `seabees.json`, the stations, parts' lines, voyages and weather for the kit's
 `site/seabees.html` (`uv run tools/build_seabees.py`, which checks every row first; it must report 0 problems).
 

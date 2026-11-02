@@ -725,7 +725,7 @@ oni-41-42:
   held: Internet Archive (600 dpi scans)
   url: https://archive.org/details/oni-4142
   rights: Public domain (U.S. government publication)
-  used_for: silhouettes/silhouettes.yml (SHIRATAKA plate, CM-3, scan leaf 242)
+  used_for: silhouettes/silhouettes.yml (SHIRATAKA plate, CM-3, scan leaf 242; NO. 13 CLASS AM plate, leaf 253); convoys (the PC submarine chasers, leaf 250, which has no drawing of Nos. 3-39)
 
 # ONI 208-J (Revised): the main Japanese merchant manual. Date: "January 1945" is printed in the front matter (OCR,
 # line 199 of ONI208J_djvu.txt); the Internet Archive item says 1945. Scan page = printed page + 36 (600 dpi set).
@@ -742,10 +742,10 @@ oni-208-j:
 oni-208-j-sup3:
   title: O.N.I. 208-J Supplements 2 and 3, Far-Eastern Small Craft and Standard Classes of Japanese Merchant Ships (1945)
   by: Office of Naval Intelligence, Division of Naval Intelligence
-  held: Internet Archive (digitized by the Command and General Staff College); PDF pp. 7-15 are Supplement 3, pp. 3-11
+  held: Internet Archive (digitized by the Command and General Staff College); PDF pp. 7-16 are Supplement 3, pp. 3-12 (p. 12 is the item's JP2 leaf 0015)
   url: https://archive.org/details/ONI208JSupplements2And3
   rights: Public domain (U.S. government publication)
-  used_for: silhouettes/silhouettes.yml (Type TL (Modified), p. 11; Type K, p. 10; Type D (Modified), p. 8; summary p. 3)
+  used_for: silhouettes/silhouettes.yml (Type TM, p. 12; Type TL (Modified), p. 11; Type K, p. 10; Type D (Modified), p. 8; summary p. 3); convoys (HI-67's Sarawak and Otorisan Maru in the Type TM list, p. 12)
 
 # ── Datasets ───────────────────────────────────────────────────────────────────────────────────
 

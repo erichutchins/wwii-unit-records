@@ -53,7 +53,8 @@ ships:
     page: p32
     basis: reported
     note: Escort No. 4, written 第十五號掃海艇, in W-15's battle report, 一 計画 (ロ) 船団編成並ニ護衛艦艇
-    sil: escort
+    sil: no13-minesweeper
+    sil_basis: 'class, assumed: the plate (ONI 41-42, leaf 253) names the No. 13 class, six ships, and Nos. 17 and 18, not No. 15'
   - ship: Taiken Maru
     role: merchant
     number: '1'

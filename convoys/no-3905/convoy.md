@@ -26,7 +26,8 @@ ships:
     note: >-
       昌隆丸. The diary names her sunk with 常盤山丸 but not the convoy; the convoy is combinedfleet's (yasojima_t,
       secondary)
-    sil: cargo
+    sil: type-d-mod
+    sil_basis: 'class, assumed: matched by tonnage, DANFS''s 1,916-ton Shoryu Maru (BANG patrol 3 claims.yml) against SHORYU MARU 1,916 GT in the plate''s list for Types D and D (Modified) (ONI 208-J Supplement 3, p. 8); the drawing is D (Modified)'
   - ship: Tokiwasan Maru
     role: merchant
     to: 1944-09-09

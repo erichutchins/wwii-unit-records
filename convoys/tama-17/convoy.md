@@ -84,7 +84,8 @@ ships:
       掃十七 (Minesweeper No. 17), 1st Surface Escort Division movements table: (圧制潜敵)(七一マタ) from 高雄 (Takao), the
       departure time read as 1300 on the 28th, like Harukaze's; the line runs on through the 30th. Row name on p13
       (the table's first half), the 20th of 22 rows
-    sil: escort
+    sil: no13-minesweeper
+    sil_basis: 'class, assumed: the plate (ONI 41-42, leaf 253) gives Nos. 17 and 18 as 218 ft overall; drawn at the class''s 236 ft 9 in'
   - ship: Chojusan Maru
     role: escort
     from: 1944-04-28

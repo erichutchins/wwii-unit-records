@@ -185,6 +185,27 @@
    36
   ]
  },
+ "74803310": {
+  "title": "USS Barb, October 1944 - November 1944",
+  "series": "U.S. Submarine War Patrol Reports",
+  "series_id": 305243,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/74803310",
+  "pages": [
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   32
+  ]
+ },
  "74809762": {
   "title": "USS Burrfish, March 1945 - May 1945",
   "series": "U.S. Submarine War Patrol Reports",
@@ -351,7 +372,11 @@
   "url": "https://catalog.archives.gov/id/74835166",
   "pages": [
    11,
-   12
+   12,
+   13,
+   15,
+   17,
+   19
   ]
  },
  "74837267": {
@@ -569,6 +594,17 @@
    2
   ]
  },
+ "77471094": {
+  "title": "NAV AIR BASES, OKINAWA - War Diary, 6/1-30/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77471094",
+  "pages": [
+   29,
+   33
+  ]
+ },
  "77471978": {
   "title": "USS LST-898 - War Diary, 2/1/45 to 5/31/45",
   "series": "World War II War Diaries, Other Operational Records and Histories",
@@ -595,6 +631,17 @@
    7
   ]
  },
+ "77487065": {
+  "title": "MAR AIR GR 14 - War Diary, 7/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77487065",
+  "pages": [
+   3,
+   4
+  ]
+ },
  "77492368": {
   "title": "USS BOUGAINVILLE - War Diary, 7/1-31/45",
   "series": "World War II War Diaries, Other Operational Records and Histories",
@@ -608,6 +655,17 @@
    4,
    5,
    6
+  ]
+ },
+ "77494684": {
+  "title": "COM NAV AIR BASES, OKINAWA - War Diary, 7/1-31/45",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77494684",
+  "pages": [
+   2,
+   16
   ]
  },
  "77498013": {
@@ -694,6 +752,17 @@
    4
   ]
  },
+ "77668666": {
+  "title": "MTB RONs, PAC - Administrative History",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/77668666",
+  "pages": [
+   81,
+   151
+  ]
+ },
  "78130084": {
   "title": "COMAMPFOR, SOPACFOR - War Diary, 5/1-31/43",
   "series": "World War II War Diaries, Other Operational Records and Histories",
@@ -771,6 +840,16 @@
    104
   ]
  },
+ "78299723": {
+  "title": "NAV ADV BASE, RUSSELL ISLANDS - War Diary, 1/16-31/44",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78299723",
+  "pages": [
+   1
+  ]
+ },
  "78337817": {
   "title": "SOUTH DAKOTA - War Diary, 1/1-31/44",
   "series": "World War II War Diaries, Other Operational Records and Histories",
@@ -818,6 +897,16 @@
    5,
    6,
    7
+  ]
+ },
+ "78404088": {
+  "title": "MTB RON 19 - War Diary, 3/1-31/44",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78404088",
+  "pages": [
+   2
   ]
  },
  "78435161": {

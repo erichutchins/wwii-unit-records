@@ -32,7 +32,8 @@ ships:
     note: >-
       Minesweeper. Written 掃一五 among the escorts of タカ九〇九船団 in the 4th Surface Escort Division / Okinawa Base
       Force diary, September 1944, daily summary, column 19
-    sil: escort
+    sil: no13-minesweeper
+    sil_basis: 'class, assumed: the plate (ONI 41-42, leaf 253) names the No. 13 class, six ships, and Nos. 17 and 18, not No. 15'
   - ship: No. 3 Takunan Maru
     role: escort
     source: jacar:C08030144100
