@@ -5,17 +5,17 @@ theater: mediterranean
 participants:
   - id: battery-e
     name: Battery E, 67th CA (AA)
-    side: us
+    of: us
     kind: army
     unit: 67ca-e
   - id: battery-h
     name: Battery H, 67th CA (AA)
-    side: us
+    of: us
     kind: army
     unit: 67ca-h
   - id: battery-a
     name: Battery A, 67th CA (AA)
-    side: us
+    of: us
     kind: army
     unit: 67ca-a
     note: strafed and shelled on the road to Sant'Elia, 8 Feb
@@ -26,7 +26,7 @@ antiaircraft protection to the field artillery in the hills between Venafro and 
 Panzer Corps reported about its fire on the same days. Battery E was at Lucenteforte, by Venafro, with half its guns
 detached near Sant'Elia from 10 to 23 Feb; it had men wounded on 14 and 16 Feb. Battery H moved up near Acquafondata on
 12 Feb; its gun positions were shelled at 1500 on 21 Feb. Hand-edited; every entry cites its page in `ref`. Fields as in
-`records/README.md` ("An engagement"), with `side` one of `allied`, `axis`, `geo`.
+`records/README.md` ("An engagement"); `of` is each actor's nationality (`us`, `de`).
 
 - `events.yml`: the batteries' moves and casualties, and the German reports of the same days, in the record's words.
   `placed` = `seq` when the record gives no time.

@@ -7,14 +7,14 @@ window: {from: 1945-02-10T02:00Z, to: 1945-02-10T10:00Z}
 participants:
   - id: bang
     name: BANG
-    side: us
+    of: us
     kind: submarine
     hull: SS-385
     co: Cdr A. R. Gallaher
     track: ss-385-bang/5
   - id: small-freighter
     name: Small freighter
-    side: jp
+    of: jp
     kind: cargo
     sil: cargo
     note: As BANG identified it (by sound, 2,400 yards)

@@ -2,15 +2,16 @@
 title: 'Filignano and Selvone, 12 January 1944: the raid at 1500'
 short: Filignano · 12 January 1944
 theater: mediterranean
+against: [de]   # the French Expeditionary Corps' attack is context on the batteries' side
 participants:
   - id: battery-f
     name: Battery F, 67th CA (AA)
-    side: us
+    of: us
     kind: army
     unit: 67ca-f
   - id: battery-g
     name: Battery G, 67th CA (AA)
-    side: us
+    of: us
     kind: army
     unit: 67ca-g
 ---
@@ -20,7 +21,7 @@ same German raid at 1500 on 12 January 1944, the day the French Expeditionary Co
 and Atina on the Fifth Army's right. Battery F at Selvone logged "12 ME-109 bombing mission, 2 planes destroyed";
 Battery G at Filignano, "12 FW 190's, dive bombing ... Two destroyed". Beside them, the German XIV Panzer Corps' reports
 of the same day. Hand-edited; every entry cites its page in `ref`. Fields as in
-`records/README.md` ("An engagement"), with `side` one of `allied`, `axis`.
+`records/README.md` ("An engagement"); `of` is each actor's nationality (`us`, `fr`, `de`).
 
 - `events.yml`: the batteries' engagements and the German reports of the day, in the records' words.
 - `positions.csv`: the two batteries' stations (placed at the villages; the gun positions aren't given). The German

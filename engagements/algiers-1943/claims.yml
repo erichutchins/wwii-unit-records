@@ -3,19 +3,19 @@
   answer: The Ju 88 was "taking evasive action from A.A." and turned south about two miles west of Algiers
   weight: record
   source: 153 Sqn ORB, AIR 27/1027/37, p. 3
-  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389771
+  ref: tna:AIR 27/1027/37/p3
   note: The night fighter's account. It names no battery.
 - question: Was Battery C firing at the Ju 88 that fell on 12 May?
   answer: Battery C was firing from 4 mi west of Algiers, 2050-2125
   weight: record
   source: Battery C morning report, May 1943
-  ref: https://catalog.archives.gov/id/427182819?objectPage=519
+  ref: rg64-427182819/p0519
   note: Same place and the same span of the evening, if both used the same clock (see below).
 - question: Was Battery C firing at the Ju 88 that fell on 12 May?
   answer: The record names no battery
   weight: inference
   source: 153 Sqn ORB, AIR 27/1027/37, p. 3
-  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389771
+  ref: tna:AIR 27/1027/37/p3
   note: >-
     Battery C is unlikely to have been the only anti-aircraft unit defending a port the size of Algiers
     (inferred), so the A.A. the Ju 88 was evading could have been another's. Context, not participation: the
@@ -24,7 +24,7 @@
   answer: Neither record gives a time zone
   weight: record
   source: Battery C morning report, May 1943 (no zone letter)
-  ref: https://catalog.archives.gov/id/427182819?objectPage=519
+  ref: rg64-427182819/p0519
   note: >-
     Neither gives a zone letter, so which clock each kept is not recorded. The times line up as written (the
     battery's firings fall inside the Beaufighters' sorties each night), but that agreement is not proof they
@@ -32,41 +32,41 @@
 - question: How many raiders were lost on 4 June?
   answer: Two planes are missing
   weight: record
-  source: German Naval Staff war diary, 4 June 1943
-  ref: https://archive.org/details/wardiarygermann461943germ
+  source: German Naval Staff war diary, 4 June 1943, vol. 46, p. 38
+  ref: skl:46/p38
   note: 'The attackers'' own count: two of 19 crews did not return.'
 - question: How many raiders were lost on 4 June?
   answer: Two enemy bombers destroyed
   weight: record
   source: Allied communiqué, L'Écho d'Alger, 6 June 1943
-  ref: https://gallica.bnf.fr/ark:/12148/bpt6k7587066r
+  ref: gallica:bpt6k7587066r
   note: The defenders' claim, which agrees with the German count.
 - question: How many raiders were lost on 4 June?
   answer: One Ju 88 destroyed 15 miles north of Algiers by a Beaufighter
   weight: record
   source: 153 Sqn ORB, AIR 27/1027/39-40
-  ref: https://discovery.nationalarchives.gov.uk/details/r/D8389773
+  ref: tna:AIR 27/1027/39
   note: >-
     One of the two, if the claim is right. The second is not accounted for in the records read: anti-aircraft
     fire, another fighter, or an accident are all possible, and none is recorded.
 - question: Which night is the war diary's "70 Ju 88s"?
   answer: 13/14 May (the battery's 2136-2228 firing)
   weight: inference
-  source: German Naval Staff war diary, 13 May 1943
-  ref: https://archive.org/details/wardiarygermann451943germ
+  source: German Naval Staff war diary, 13 May 1943, vol. 45, p. 163
+  ref: skl:45/p163
   note: >-
     The diary's 12 May entry already reports the night of 12 May; the 13 May entry most likely reports the next.
 - question: Which night is the war diary's "70 Ju 88s"?
   answer: A fuller count of the raid of 12/13 May
   weight: inference
-  source: German Naval Staff war diary, 13 May 1943
-  ref: https://archive.org/details/wardiarygermann451943germ
+  source: German Naval Staff war diary, 13 May 1943, vol. 45, p. 163
+  ref: skl:45/p163
   note: 'Possible: the diary sometimes revises a raid''s numbers a day later.'
 - question: Which German units flew these raids?
   answer: Not yet known
   weight: record
-  source: German Naval Staff war diary, May-June 1943 (numbers, no units)
-  ref: https://archive.org/details/wardiarygermann451943germ
+  source: German Naval Staff war diary, May-June 1943 (numbers, no units), vol. 45, pp. 152 and 163, vol. 46, p. 38
+  ref: skl:45/p152; skl:45/p163; skl:46/p38
   note: >-
     The war diary gives numbers, not units. Candidates are the Ju 88 Kampfgeschwader of Luftflotte 2 in Sardinia
     and Italy (KG 76, KG 54 and others): a lead (L45).

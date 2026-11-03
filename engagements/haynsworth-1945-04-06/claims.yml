@@ -71,7 +71,7 @@
   answer: One of the 210th Air Group's seven
   weight: inference
   source: Irons, Phalanx (uncited); 210th action report, form pp. 9, 17, 23
-  ref: https://www.jacar.archives.go.jp/das/image/C13120082700
+  ref: jacar:C13120082700
   note: >-
     Seven Suisei sent southeast of Tokunoshima, presumed to have dived in 1200-1300. Time, place and type agree.
     No Japanese record names a ship
@@ -79,7 +79,7 @@
   answer: One of the other 12 Suisei of Fifth Air Fleet
   weight: inference
   source: Fifth Air Fleet operations record, pp. 11-13
-  ref: https://www.jacar.archives.go.jp/das/image/C16120697000
+  ref: jacar:C16120697000
   note: >-
     23 Suisei went at TF 58 between 1015 and 1310; the 210th supplied 11. The 252nd's four have no launch time.
     Any that left after about 1120 couldn't have reached her by 1250
@@ -137,7 +137,7 @@
   answer: Every Suisei that day carried two men
   weight: record
   source: 210th crew list, form p. 23
-  ref: https://www.jacar.archives.go.jp/das/image/C13120082800
+  ref: jacar:C13120082800
   note: >-
     So a Judy should leave two. The second could have gone over the side with the wreckage, which was
     jettisoned. A Zero would leave one

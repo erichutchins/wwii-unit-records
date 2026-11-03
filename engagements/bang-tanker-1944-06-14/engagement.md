@@ -7,14 +7,14 @@ window: {from: 1944-06-13T17:00Z, to: 1944-06-14T13:00Z}
 participants:
   - id: bang
     name: BANG
-    side: us
+    of: us
     kind: submarine
     hull: SS-385
     co: LCdr A. R. Gallaher
     track: ss-385-bang/2
   - id: tanker
     name: Tanker
-    side: jp
+    of: jp
     kind: tanker
     sil: tanker
     note: As BANG identified it (alone)

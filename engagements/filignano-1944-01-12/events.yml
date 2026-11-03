@@ -1,20 +1,24 @@
 # Every dated entry, from either side, in the records' words. Hand-edited; fields in records/README.md (An engagement's events).
 - at: 1944-01-12 0645
-  side: axis
+  of: de
   actor: 5. Geb.Div.
   kind: report
-  words: >-
-    "6.45 Uhr Abschnitt nördlich M 46 bis C 11 Feindangriff in mindestens Div.-Stärke auf breiter Front nach
-    stärkster langanhaltender Art.-Vorbereitung (auch auf Versorgungswege und Hintergelände)" (06.45, in the
-    sector from north of M 46 to C 11: enemy attack in at least division strength on a broad front, after the
-    heaviest and longest artillery preparation, also on supply routes and rear areas). Decoded on the January
-    1944 Bezugspunktkarte: M 46 is 4.6 km west of Battery F at Selvone; C 11 is in the Mainarde (positions.csv).
+  original: >-
+    6.45 Uhr Abschnitt nördlich M 46 bis C 11 Feindangriff in mindestens Div.-Stärke auf breiter Front nach
+    stärkster langanhaltender Art.-Vorbereitung (auch auf Versorgungswege und Hintergelände)
+  lang: de
+  translation: >-
+    06.45, in the sector from north of M 46 to C 11: enemy attack in at least division strength on a broad front,
+    after the heaviest and longest artillery preparation (also on supply routes and rear areas).
+  note: >-
+    Decoded on the January 1944 Bezugspunktkarte: M 46 is 4.6 km west of Battery F at Selvone; C 11 is in the
+    Mainarde (positions.csv).
   source: 'XIV Panzer Corps, tactical reports: 5. Geb.Div., Tagesmeldung vom 12.1.1944'
   ref: t314-0543/f0697
   pos: m-46
 - at: 1944-01-12
   placed: seq
-  side: allied
+  of: fr
   actor: French Expeditionary Corps
   kind: context
   words: >-
@@ -22,9 +26,9 @@
     and Sant'Elia, on the Fifth Army's right. Context: that the German report of 06.45 describes this attack is
     inferred from the date and the sector.
   source: Blumenson, Salerno to Cassino (U.S. Army in World War II), p. 313
-  ref: https://history.army.mil/html/books/006/6-3-1/index.html
+  ref: blumenson/p313
 - at: 1944-01-12 1225
-  side: allied
+  of: us
   actor: Battery G
   kind: air
   words: >-
@@ -34,19 +38,21 @@
   ref: rg64-461580516/p0276
   pos: battery-g
 - at: 1944-01-12 1430
-  side: axis
+  of: de
   actor: Arko 414
   kind: report
-  words: >-
-    "Rege beiderseitige Fliegertätigkeit, Jabo-Angriffe auf D 14, M 06, D 12, M 28, Strasse C 02 - H 11.
-    Vereinzelte Luftkämpfe. Durch schwere Flak wurde um 14.30 Uhr fdl. ein Flugzeug abgeschossen." (Lively air
-    activity on both sides; [enemy] fighter-bomber attacks on D 14 ... Isolated air combats. Heavy Flak shot
-    down an enemy aircraft at 14.30.)
+  original: >-
+    Rege beiderseitige Fliegertätigkeit, Jabo-Angriffe auf D 14, M 06, D 12, M 28, Strasse C 02 - H 11.
+    Vereinzelte Luftkämpfe. Durch schwere Flak wurde um 14.30 Uhr fdl. ein Flugzeug abgeschossen.
+  lang: de
+  translation: >-
+    Lively air activity on both sides; [enemy] fighter-bomber attacks on D 14, M 06, D 12, M 28, the road C 02 -
+    H 11. Isolated air combats. Heavy Flak shot down an enemy aircraft at 14.30.
   source: 'XIV Panzer Corps, tactical reports: Arko 414, Zwischenmeldung vom 12.1.1944'
   ref: t314-0543/f0690
   pos: m-28
 - at: 1944-01-12 1435
-  side: allied
+  of: us
   actor: Battery G
   kind: air
   words: '"At 1435A fired at 2 ME 109''s, 91rds-40mm & 425 rds 50 cal expended. One destroyed."'
@@ -54,7 +60,7 @@
   ref: rg64-461580516/p0276
   pos: battery-g
 - at: 1944-01-12 1450
-  side: allied
+  of: us
   actor: Battery F
   kind: air
   words: '"2 ME-109 mission unknown flying north over area, no hits. Time 1450A."'
@@ -62,7 +68,7 @@
   ref: rg64-461580516/p0215
   pos: battery-f
 - at: 1944-01-12 1500
-  side: allied
+  of: us
   actor: Battery F
   kind: air
   words: '"12 ME-109 bombing mission, 2 planes destroyed, 1500A. Heavy shelling all day."'
@@ -70,7 +76,7 @@
   ref: rg64-461580516/p0215
   pos: battery-f
 - at: 1944-01-12 1500
-  side: allied
+  of: us
   actor: Battery G
   kind: air
   words: >-
@@ -81,30 +87,37 @@
   pos: battery-g
 - at: 1944-01-12
   placed: seq
-  side: axis
+  of: de
   actor: Arko 414
   kind: report
-  words: >-
-    "Beiderseitige Fliegertätigkeit, besonders rege am Nachmittag ... Über dem mittl. Korpsabschnitt vereinzelte
-    Luftkämpfe. Am Nachmittag wurde ein Feindbomber durch Flak abgeschossen." (Air activity on both sides,
-    especially lively in the afternoon ... isolated air combats over the corps' central sector. In the afternoon
-    an enemy bomber was shot down by Flak.) "Eig. Verschuss 4800" (own expenditure 4,800 rounds). Weather: heavy
-    ground mist, clearing at midday, hazy, generally good visibility. No German air attack or German aircraft
-    loss is reported.
+  original: >-
+    Beiderseitige Fliegertätigkeit, besonders rege am Nachmittag ... Über dem mittl. Korpsabschnitt vereinzelte
+    Luftkämpfe. Am Nachmittag wurde ein Feindbomber durch Flak abgeschossen. ... Eig. Verschuss 4800
+  lang: de
+  translation: >-
+    Air activity on both sides, especially lively in the afternoon ... isolated air combats over the corps'
+    central sector. In the afternoon an enemy bomber was shot down by Flak. ... Own expenditure 4,800 rounds.
+  note: >-
+    Two passages of the one report, abridged with "...". Weather: heavy ground mist, clearing at midday, hazy,
+    generally good visibility. No German air attack or German aircraft loss is reported.
   source: 'XIV Panzer Corps, tactical reports: Arko 414, Tagesmeldung vom 12.1.1944'
   ref: t314-0543/f0699
 - at: 1944-01-13
-  side: axis
+  of: de
   actor: German High Command (communiqué)
   kind: communique
-  words: >-
-    "Nella parte occidentale del fronte dell'Italia meridionale il nemico ha esteso i suoi attacchi anche al
+  original: >-
+    Nella parte occidentale del fronte dell'Italia meridionale il nemico ha esteso i suoi attacchi anche al
     settore situato a nord di Venafro. Attacchi lanciati contro le nostre posizioni montane, dopo una forte
     preparazione di artiglieria, sono stati respinti con elevate perdite per il nemico, mentre due infiltrazioni
-    locali sono state arginate." (In the western part of the southern Italian front the enemy also extended his
-    attacks to the sector north of Venafro. Attacks launched against our mountain positions after a heavy
-    artillery preparation were repulsed with heavy losses for the enemy, while two local penetrations were
-    sealed off.) The communiqué of Berlin, 13 Jan, for 12 Jan; it says nothing of German air attacks in Italy
-    that day. The other side's claim.
+    locali sono state arginate.
+  lang: it
+  translation: >-
+    In the western part of the southern Italian front the enemy also extended his attacks to the sector north of
+    Venafro. Attacks launched against our mountain positions after a heavy artillery preparation were repulsed
+    with heavy losses for the enemy, while two local penetrations were sealed off.
+  note: >-
+    The communiqué of Berlin, 13 Jan, for 12 Jan, as La Stampa printed it in Italian; it says nothing of German air
+    attacks in Italy that day. The other side's claim.
   source: La Stampa, 14 Jan 1944, p. 1 (the German communiqué, Berlin, 13 Jan)
   ref: lastampa:1944-01-14/p1

@@ -9,13 +9,21 @@
 # Fields: title, by (author or creator), held (archive or publisher), id (the source's own
 # identifier), url, rights, cite (how rows cite it), match (a regex for `cite`; groups fill `link`),
 # link (URL for one cited page), short (how a page names it in a citation), used_for, note.
-# `kind: derived` marks a method rather than an outside source (a position worked out from a grid
-# reference); its rows explain themselves.
+# kind (required): what the source is, one of record (written at the time by the subject or its command),
+#   intelligence (what one side knew of the other at the time), press (published at the time), assessment (an
+#   official reckoning after the fact), recollection (told later by someone who was there), secondary (a later
+#   history or site), reference (not a witness: charts, plates, grids, manuals, datasets), derived (a method, not
+#   an outside source: a position worked out from a grid reference; its rows explain themselves). The vocabulary
+#   is tools/records.py's SOURCE_KINDS; the builds tag every row with its source's kind through its citation.
+# of (optional): the nationality of the source's author as the record gives it (us, jp, de, it, uk, fr, ...), left
+#   out for a modern dataset, a reference with no nationality worth stating, and a method.
 
 # ── US records ─────────────────────────────────────────────────────────────────────────────────
 
 nara-catalog:
   title: National Archives Catalog
+  kind: record
+  of: us
   short: National Archives
   held: U.S. National Archives and Records Administration (NARA)
   url: https://catalog.archives.gov/
@@ -31,6 +39,8 @@ nara-catalog:
 nara-war-patrol-reports:
   title: U.S. Submarine War Patrol Reports, 1941–1945
   by: Office of the Chief of Naval Operations
+  kind: record
+  of: us
   held: NARA, series 305243; microfilm publication M1752 (scans by Fold3)
   id: NAID 305243
   url: https://catalog.archives.gov/id/305243
@@ -41,6 +51,8 @@ nara-war-patrol-reports:
 nara-war-diaries:
   title: World War II War Diaries, Other Operational Records and Histories
   by: Office of the Chief of Naval Operations
+  kind: record
+  of: us
   held: NARA, Record Group 38
   url: https://catalog.archives.gov/
   rights: Public domain
@@ -50,6 +62,8 @@ nara-war-diaries:
 nara-morning-reports:
   title: Morning Reports, 1912–1946 (Army companies, batteries and detachments)
   by: Adjutant General's Office
+  kind: record
+  of: us
   held: NARA, Record Group 64, series 85713825 (online for January 1940 – December 1944)
   id: NAID 85713825
   url: https://catalog.archives.gov/id/85713825
@@ -60,6 +74,8 @@ nara-morning-reports:
 nara-muster-rolls:
   title: Muster Rolls of U.S. Navy Ships, Stations, and Other Naval Activities, 1939–1949
   by: Bureau of Naval Personnel
+  kind: record
+  of: us
   held: NARA, Record Group 24, series 594996
   id: NAID 594996
   url: https://catalog.archives.gov/id/594996
@@ -75,6 +91,8 @@ nara-muster-rolls:
 ncbhist:
   title: Naval Construction Battalion "Historical Information" sheets (one per battalion)
   by: Bureau of Yards and Docks (typed log cards, 1942–1945); scanned by the Navy Seabee Museum
+  kind: record
+  of: us
   held: Naval History and Heritage Command, Navy Seabee Museum, Seabee unit histories
   url: https://www.history.navy.mil/content/history/museums/seabee/explore/seabee-unit-histories.html
   rights: Public domain (U.S. Navy)
@@ -91,6 +109,8 @@ ncbhist:
 bases:
   title: Building the Navy's Bases in World War II, vol. 2
   by: Bureau of Yards and Docks
+  kind: secondary
+  of: us
   held: U.S. Government Printing Office, 1947; HyperWar transcription (ibiblio)
   url: https://www.ibiblio.org/hyperwar/USN/Building_Bases/
   rights: Public domain
@@ -102,6 +122,8 @@ bases:
 mcsol:
   title: Marines in the Central Solomons
   by: John N. Rentz, Historical Branch, Headquarters, U.S. Marine Corps
+  kind: secondary
+  of: us
   held: 1952; HyperWar transcription (ibiblio)
   url: https://www.ibiblio.org/hyperwar/USMC/USMC-M-CSol/
   rights: Public domain
@@ -111,6 +133,8 @@ howe-nwa:
   title: "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)"
   short: Howe      # how a page names it in a citation: (Howe p. 676)
   by: George F. Howe, Office of the Chief of Military History
+  kind: secondary
+  of: us
   held: 1957; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-MTO-NWA/
   rights: Public domain
@@ -123,6 +147,8 @@ garland-smyth:
   title: "Sicily and the Surrender of Italy (United States Army in World War II: Mediterranean Theater of Operations)"
   short: Garland and Smyth
   by: Albert N. Garland and Howard McGaw Smyth, Office of the Chief of Military History
+  kind: secondary
+  of: us
   held: 1965; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Sicily/
   rights: Public domain
@@ -135,6 +161,8 @@ blumenson-salerno:
   title: "Salerno to Cassino (United States Army in World War II: Mediterranean Theater of Operations)"
   short: Blumenson
   by: Martin Blumenson, Office of the Chief of Military History
+  kind: secondary
+  of: us
   held: 1969; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Salerno/
   rights: Public domain
@@ -147,6 +175,8 @@ fisher-cassino:
   title: "Cassino to the Alps (United States Army in World War II: Mediterranean Theater of Operations)"
   short: Fisher
   by: Ernest F. Fisher, Jr., Center of Military History
+  kind: secondary
+  of: us
   held: 1977; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/
   rights: Public domain
@@ -159,6 +189,8 @@ harrison-cca:
   title: "Cross-Channel Attack (United States Army in World War II: The European Theater of Operations)"
   short: Harrison
   by: Gordon A. Harrison, Office of the Chief of Military History
+  kind: secondary
+  of: us
   held: 1951; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-E-XChannel/
   rights: Public domain
@@ -171,6 +203,8 @@ blumenson-breakout:
   title: "Breakout and Pursuit (United States Army in World War II: The European Theater of Operations)"
   short: Blumenson
   by: Martin Blumenson, Office of the Chief of Military History
+  kind: secondary
+  of: us
   held: 1961; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-E-Breakout/
   rights: Public domain
@@ -183,6 +217,8 @@ clarke-smith-riviera:
   title: "Riviera to the Rhine (United States Army in World War II: The European Theater of Operations)"
   short: Clarke and Smith
   by: Jeffrey J. Clarke and Robert Ross Smith, Center of Military History
+  kind: secondary
+  of: us
   held: 1993; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-E-Riviera/
   rights: Public domain
@@ -195,6 +231,8 @@ cole-ardennes:
   title: "The Ardennes: Battle of the Bulge (United States Army in World War II: The European Theater of Operations)"
   short: Cole
   by: Hugh M. Cole, Office of the Chief of Military History
+  kind: secondary
+  of: us
   held: 1965; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-E-Ardennes/
   rights: Public domain
@@ -207,6 +245,8 @@ macdonald-siegfried:
   title: "The Siegfried Line Campaign (United States Army in World War II: The European Theater of Operations)"
   short: MacDonald, Siegfried Line
   by: Charles B. MacDonald, Office of the Chief of Military History
+  kind: secondary
+  of: us
   held: 1963; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-E-Siegfried/
   rights: Public domain
@@ -219,6 +259,8 @@ macdonald-last:
   title: "The Last Offensive (United States Army in World War II: The European Theater of Operations)"
   short: MacDonald, Last Offensive
   by: Charles B. MacDonald, Office of the Chief of Military History
+  kind: secondary
+  of: us
   held: 1973; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USA/USA-E-Last/
   rights: Public domain
@@ -231,6 +273,8 @@ cmh-campaigns:
   title: "The U.S. Army Campaigns of World War II (CMH Pub 72-series brochures: Normandy, Northern France, Rhineland, Ardennes-Alsace, Central Europe)"
   short: CMH campaign brochure
   by: U.S. Army Center of Military History (Hammond, Normandy; Hogan, Northern France; Ballard, Rhineland; Cirillo, Ardennes-Alsace; Bedessem, Central Europe)
+  kind: secondary
+  of: us
   held: 1992-95; Internet Archive scans (public domain mark)
   url: https://archive.org/details/usarmycampaignso00cent
   rights: Public domain
@@ -245,6 +289,8 @@ cmh-campaigns:
 navy-numbers:
   title: Navy Numbers (OPNAV 29-P1000, 1949), the fleet post office numbers of World War II bases
   by: Office of the Chief of Naval Operations
+  kind: reference
+  of: us
   held: Naval History and Heritage Command, online reading room
   url: https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-abbreviations-of-ww2/navy-numbers.html
   rights: Public domain
@@ -252,6 +298,8 @@ navy-numbers:
 
 ok45th:
   title: 45th Infantry Division unit histories and journals (the 106th AAA AW Bn's history and journal, July 1944 – May 1945; the 189th FA Bn's history)
+  kind: record
+  of: us
   held: 45th Infantry Division Museum collection, Metropolitan Library System of Oklahoma County (ContentDM collection ok45th)
   url: https://cdm17494.contentdm.oclc.org/digital/collection/ok45th/
   rights: "Credit: Courtesy of 45th Infantry Division Museum and the Metropolitan Library System of Oklahoma County."
@@ -263,6 +311,8 @@ ok45th:
 cabn106:
   title: Historical Records – 106th AAA AW Bn, December 1943 (file CABN-106-0.3)
   by: the battalion; filed by the War Department Records Branch, A.G.O., Historical Records Section
+  kind: record
+  of: us
   held: >-
     NARA, RG 407 (WWII Operations Reports), file CABN-106-0.3, not online. A scan of the A.G.O. file
     copy (11 pages, declassified NND 735017) was posted to the ww2aircraft.net forum as
@@ -280,6 +330,8 @@ cabn106:
 aar3:
   title: After Action Report, Third US Army, 1 August 1944 – 9 May 1945, Vol. II, Staff Section Reports
   by: Headquarters, Third United States Army
+  kind: record
+  of: us
   held: Google Books, full view
   id: Google Books ee9mAAAAMAAJ
   url: https://books.google.com/books?id=ee9mAAAAMAAJ
@@ -291,6 +343,8 @@ aar3:
 etoob:
   title: "Order of Battle of the United States Army, World War II: European Theater of Operations: Divisions"
   by: Office of the Theater Historian, Headquarters, U.S. Forces, European Theater (Paris, December 1945)
+  kind: assessment
+  of: us
   held: >-
     U.S. Army Center of Military History, web edition (history.army.mil/documents/ETO-OB/, one page per
     division), now refused to scripts; read through the Internet Archive's copies
@@ -313,6 +367,8 @@ etoob:
 hist894:
   title: 894th Anti-Aircraft Artillery Automatic Weapons Battalion, History and Combat Diary, 1940–1945
   by: the battalion (mimeographed in Germany after V-E Day)
+  kind: record
+  of: us
   held: A 2012 retyped copy with the original roll call; not online
   cite: hist894/p<page of the copy>
   match: '^hist894/p(\d+)$'
@@ -320,6 +376,8 @@ hist894:
 
 gi9ad:
   title: "The 9th: The Story of the 9th Armored Division (G.I. Stories booklet, 1945)"
+  kind: secondary
+  of: us
   held: Lone Sentry
   url: https://www.lonesentry.com/gi_stories_booklets/9tharmored/
   rights: Public domain (U.S. Army publication)
@@ -330,6 +388,8 @@ gi9ad:
 eucmh60aib:
   title: "9th Armored Division, 60th Armored Infantry Battalion: After Action Reports, October 1944 - March 1945, as transcribed by EUCMH"
   by: The battalion's commanding officer (the reports are signed by its Lt Col); transcribed by EUCMH (European Center of Military History)
+  kind: record
+  of: us
   held: >-
     EUCMH's web page (eucmh.be, 17 Apr 2018), a transcription of the battalion's monthly after action reports
     (original: NARA RG 407, WWII Operations Reports); the site is gone, so read through the Internet Archive's copy
@@ -345,6 +405,8 @@ eucmh60aib:
 iiicorps-aar-1945-03:
   title: Headquarters III Corps, After Action Report, March 1945 (narrative, G-2 report, engineer journal and other annexes)
   by: Headquarters, III Corps
+  kind: record
+  of: us
   held: >-
     A 134-page PDF scan of the typescript on the 284th Combat Engineers association's site. The original is
     presumably in NARA RG 407 (WWII Operations Reports), III Corps files; the scan doesn't say, and that isn't checked
@@ -363,6 +425,7 @@ iiicorps-aar-1945-03:
 
 wiki9ad:
   title: 9th Armored Division (United States)
+  kind: secondary
   held: Wikipedia
   url: https://en.wikipedia.org/wiki/9th_Armored_Division_(United_States)
   rights: CC BY-SA 4.0
@@ -373,6 +436,8 @@ wiki9ad:
 almanac9ad:
   title: "The Army Almanac: A Book of Facts Concerning the Army of the United States (1950): 9th Armored Division"
   by: Department of the Army (U.S. Government Printing Office, 1950)
+  kind: assessment
+  of: us
   held: >-
     Lone Sentry's reproduction of the almanac's entry for the division ("with only minor formatting and typographical
     changes"); the printed volume's page is not given there
@@ -390,6 +455,8 @@ almanac9ad:
 frupac:
   title: FRUPAC War Map Collection
   by: Fleet Radio Unit Pacific (FRUPAC)
+  kind: intelligence
+  of: us
   held: National Museum of the Pacific War, via the Portal to Texas History (University of North Texas Libraries)
   url: https://texashistory.unt.edu/explore/collections/FRUPAC/
   rights: CC BY-NC-ND. Linked and read in the zoom viewer, never copied.
@@ -402,6 +469,8 @@ usf25a:
   title: Current Doctrine, Submarines (USF 25(A))
   short: USF 25(A)      # (USF 25(A) p. 37)
   by: Commander Submarine Force, U.S. Pacific Fleet
+  kind: reference
+  of: us
   held: February 1944; HyperWar transcription (ibiblio), with the printed page numbers
   url: https://www.ibiblio.org/hyperwar/USN/ref/SS-Doct/index.html
   rights: Public domain
@@ -414,6 +483,8 @@ op635:
   title: "Torpedoes Mark 14 and 23 Types, OP 635 (First Revision)"
   short: OP 635
   by: Bureau of Ordnance, Navy Department
+  kind: reference
+  of: us
   held: 24 March 1945 (with changes to 1948); online edition by the Maritime Park Association (maritime.org, formerly HNSA)
   url: https://maritime.org/doc/torpedo/index.htm
   rights: Public domain (U.S. government publication)
@@ -431,6 +502,8 @@ op1056:
   title: "Torpedo Data Computer Mark 3, Mods. 5 to 12, OP 1056"
   short: OP 1056
   by: Bureau of Ordnance, Navy Department (prepared by the Arma Corporation)
+  kind: reference
+  of: us
   held: >-
     June 1944. A complete scan, 277 printed pages (the cover photographed from a printed copy, the pages scanned), in
     the Internet Archive's "Mechanical Computer Technical Manuals" (uploaded 2020 by a private user, who gives no
@@ -460,6 +533,8 @@ rowland-boyd:
   title: U.S. Navy Bureau of Ordnance in World War II
   short: Rowland and Boyd
   by: Buford Rowland and William B. Boyd (Lieutenant Commander and Lieutenant, USNR), Bureau of Ordnance
+  kind: secondary
+  of: us
   held: Bureau of Ordnance, Department of the Navy, 1953 (Government Printing Office); Google Books, a library copy, full view
   id: Google Books EqNZ5hjPOVMC
   url: https://books.google.com/books?id=EqNZ5hjPOVMC
@@ -479,6 +554,8 @@ rowland-boyd:
 nusm-mk14:
   title: MK 14 Torpedo
   by: Mary Ryan, U.S. Naval Undersea Museum
+  kind: secondary
+  of: us
   held: navalunderseamuseum.org, 19 September 2016 (secondary)
   url: https://navalunderseamuseum.org/mk-14/
   used_for: site/torpedo.html (the 1942-43 failures, deep running, the Mark 6's prematures, the bent firing pins)
@@ -487,6 +564,8 @@ nusm-mk14:
 
 gallica:
   title: Gallica, the digital library of the Bibliothèque nationale de France (newspapers)
+  kind: press
+  of: fr
   held: Bibliothèque nationale de France
   url: https://gallica.bnf.fr/
   rights: Public domain (the 1940s Algerian dailies); free to view
@@ -503,6 +582,8 @@ gallica:
 
 lastampa:
   title: La Stampa (Turin), daily, the Internet Archive's mirror of the paper's historical archive
+  kind: press
+  of: it
   held: La Stampa, Archivio Storico (archiviolastampa.it); mirrored at archive.org, one item per issue
   url: https://archive.org/search?query=lastampa_1943
   rights: Free to view
@@ -519,6 +600,8 @@ lastampa:
 skl-ktb:
   title: War Diary, German Naval Staff Operations Division (Kriegstagebuch der Seekriegsleitung, Teil A), 1943
   by: Seekriegsleitung; translated by the US Office of Naval Intelligence
+  kind: record
+  of: de
   held: Internet Archive (the ONI translation, one item per volume)
   url: https://archive.org/details/wardiarygermann451943germ
   rights: Public domain (US government translation)
@@ -535,6 +618,8 @@ skl-ktb:
 skl-ktb-1944:
   title: War Diary, German Naval Staff Operations Division (Kriegstagebuch der Seekriegsleitung, Teil A), 1944
   by: Seekriegsleitung; translated by the US Office of Naval Intelligence
+  kind: record
+  of: de
   held: Internet Archive (the ONI translation, one item per volume; vol. 54, February 1944, is not there)
   url: https://archive.org/details/wardiarygermann551944germ
   rights: Public domain (US government translation)
@@ -547,6 +632,8 @@ skl-ktb-1944:
 
 alieuomini:
   title: Ali e Uomini (alieuomini.it), catalogue of Italian aircraft and their units
+  kind: secondary
+  of: it
   url: https://www.alieuomini.it/
   rights: Free to view
   cite: alieuomini:<page slug>, e.g. alieuomini:piaggio_p_b,71
@@ -559,6 +646,8 @@ alieuomini:
 
 tna:
   title: The National Archives (UK), Kew
+  kind: record
+  of: uk
   held: The National Archives, Kew
   url: https://discovery.nationalarchives.gov.uk/
   rights: Crown copyright; the digitised AIR 27 files are free to download after signing in
@@ -577,6 +666,8 @@ jacar:
   title: Japan Center for Asian Historical Records (JACAR)
   short: JACAR
   by: National Archives of Japan; records of the National Institute for Defense Studies, Ministry of Defense
+  kind: record
+  of: jp
   url: https://www.jacar.archives.go.jp/
   rights: Free to view; cite the reference code
   cite: jacar:<reference code>, with the page in the row's page column
@@ -587,6 +678,8 @@ jacar:
 sosho:
   title: 戦史叢書 (Senshi Sōsho, the official war history)
   by: 防衛庁防衛研修所戦史室 (War History Office, National Defense College)
+  kind: secondary
+  of: jp
   held: Asagumo Shimbunsha, 1966–1980
   cite: sosho:<volume>, with the page in the row's page column (vol. 56 is 海軍捷号作戦 2)
   match: '^sosho:(\d{3})$'
@@ -594,6 +687,7 @@ sosho:
 
 industrialhistoryhk:
   title: Industrial History of Hong Kong Group, posts on the British Army Aid Group (BAAG) records of shipping in Hong Kong, 1944-45
+  kind: secondary
   url: https://industrialhistoryhk.org/
   cite: industrialhistoryhk:<post id>
   match: '^industrialhistoryhk:(\d+)$'
@@ -603,6 +697,8 @@ industrialhistoryhk:
 wolborsky:
   title: "Choke Hold: The Attack on Japanese Oil in World War II"
   by: Stephen L. Wolborsky, Major, USAF (thesis, School of Advanced Airpower Studies, Air University, Maxwell AFB, June 1994)
+  kind: secondary
+  of: us
   held: >-
     DTIC ADA425684, via the Internet Archive (https://archive.org/details/DTIC_ADA425684). Cited by the printed page;
     the PDF page is the printed page + 10. Secondary: it draws on the US Strategic Bombing Survey (The War Against
@@ -616,6 +712,8 @@ wolborsky:
 janac:
   title: "Japanese Naval and Merchant Shipping Losses During World War II by All Causes"
   by: The Joint Army-Navy Assessment Committee (JANAC), February 1947
+  kind: assessment
+  of: us
   held: >-
     HyperWar (ibiblio), a transcription with the printed page numbers marked; chapter 4 is the chronological list of
     merchant losses (pp. 29-99), chapter 6 the appendix of vessels sunk by each US submarine (its own pages 1-). A
@@ -636,6 +734,7 @@ janac:
 combinedfleet:
   title: Imperial Japanese Navy Page (combinedfleet.com), Tabular Records of Movement
   by: Bob Hackett, Sander Kingsepp and others
+  kind: secondary
   url: http://www.combinedfleet.com/
   cite: combinedfleet:<page name>
   match: '^combinedfleet:(\S+)$'
@@ -645,6 +744,8 @@ combinedfleet:
 irons:
   title: "Phalanx Against the Divine Wind: Protecting the Fast Carrier Task Force During World War 2"
   by: Martin Irons
+  kind: secondary
+  of: us
   held: Merriam Press, 2017 (514 pp.)
   url: https://www.kamikazeimages.net/books/ships/haynsworth/index.htm
   cite: irons
@@ -658,6 +759,8 @@ irons:
 morison-v14:
   title: "History of United States Naval Operations in World War II, vol. 14: Victory in the Pacific, 1945"
   by: Samuel Eliot Morison
+  kind: secondary
+  of: us
   held: Little, Brown, 1960; University of Illinois Press reprint (Google Books PfrgDPhLkqcC)
   url: https://books.google.com/books?id=PfrgDPhLkqcC
   cite: in notes, Morison, vol. 14, p. <page>
@@ -666,6 +769,8 @@ morison-v14:
 herder-siege:
   title: "The Naval Siege of Japan 1945: War Plan Orange Triumphant"
   by: Brian Lane Herder
+  kind: secondary
+  of: us
   held: Osprey (Bloomsbury), 2020 (Google Books WD3JDwAAQBAJ)
   url: https://books.google.com/books?id=WD3JDwAAQBAJ
   cite: in notes, Herder, Naval Siege of Japan, p. <page>
@@ -674,6 +779,8 @@ herder-siege:
 usshaynsworth-org:
   title: USS Haynsworth (DD-700) Association website (usshaynsworth.org), as archived
   by: the USS Haynsworth Association (crew photos, collections, memorials, newsletters)
+  kind: recollection
+  of: us
   held: Internet Archive, Wayback Machine (the site itself is no longer online)
   url: https://web.archive.org/web/2026/http://usshaynsworth.org/
   rights: The Association's and the contributors' (photos lent by crew and families); cite and link, don't republish
@@ -692,6 +799,8 @@ usshaynsworth-org:
 cincpac-105-45:
   title: "CINCPAC-CINCPOA Bulletin 105-45, Japanese Operational Aircraft (TAIC silhouettes)"
   by: Commander in Chief, U.S. Pacific Fleet and Pacific Ocean Areas
+  kind: reference
+  of: us
   held: April 1945 edition, Naval History and Heritage Command online reading room; July 1945 revision on HyperWar
   url: https://www.ibiblio.org/hyperwar/USN/ref/KYE/CINCPAC-105-45/
   rights: Public domain (U.S. government publication)
@@ -700,6 +809,7 @@ cincpac-105-45:
 commons-p108:
   title: 'Piaggio P.108.svg: a three-view drawing of the Piaggio P.108B'
   by: Kaboldy (Wikimedia Commons user), 2013, "own work"
+  kind: reference
   held: Wikimedia Commons
   url: https://commons.wikimedia.org/wiki/File:Piaggio_P.108.svg
   rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0); attribution required, adaptations share alike
@@ -713,6 +823,8 @@ commons-p108:
 princeton-amsalger:
   title: Algeria, Alger and vicinity (uncontrolled mosaic), sheet 3 of 7, 1:13,040
   by: Army Map Service, U.S. Army, 1942 (aerial photography by the R.A.F., Jan 1942; revision from air photographs 8/41 and intelligence reports, 1941)
+  kind: reference
+  of: us
   held: Princeton University Library (scan), via its IIIF image server
   url: https://maps.princeton.edu/catalog/princeton-bk128c659
   rights: Princeton marks its WWII Army Map Service scans "No Known Copyright"; a U.S. government work
@@ -728,6 +840,8 @@ princeton-amsalger:
 fm-4-155:
   title: FM 4-155, Coast Artillery Field Manual, Antiaircraft Artillery, Reference Data (1940)
   by: War Department
+  kind: reference
+  of: us
   held: Internet Archive
   url: https://archive.org/details/FM_4_155_S_A_A_A_R_D_1940
   rights: Public domain (U.S. government publication)
@@ -740,6 +854,8 @@ fm-4-155:
 fm-30-30:
   title: FM 30-30 / BuAer 3, Recognition Pictorial Manual (April 1943)
   by: War Department and Navy Department, Bureau of Aeronautics
+  kind: reference
+  of: us
   held: Internet Archive
   url: https://archive.org/details/Fm30-30
   rights: Public domain (U.S. government publication)
@@ -753,6 +869,8 @@ tm-20-205:
   title: TM 20-205, Dictionary of United States Army Terms (18 January 1944)
   short: TM 20-205
   by: War Department
+  kind: reference
+  of: us
   held: Internet Archive (a scan of the University of California's copy, digitized by Google)
   url: https://archive.org/details/TM20-205
   rights: Public domain (U.S. government publication)
@@ -765,6 +883,8 @@ opnav-29-p1000:
   title: OPNAV 29-P1000, Glossary of U.S. Naval Abbreviations (fifth edition, April 1949; the abbreviations in use 1940-1946)
   short: OPNAV 29-P1000
   by: Office of Naval Records and History, Office of the Chief of Naval Operations
+  kind: reference
+  of: us
   held: HyperWar transcription (ibiblio), one page per letter
   url: https://www.ibiblio.org/hyperwar/USN/ref/OPNAV_29-P1000/OPNAV_29-P1000.html
   rights: Public domain (U.S. government publication)
@@ -777,6 +897,8 @@ usf-25a:
   title: Current Doctrine, Submarines, USF 25(A) (February 1944)
   short: USF 25(A)
   by: Commander Submarine Force, U.S. Pacific Fleet
+  kind: reference
+  of: us
   held: HyperWar transcription (ibiblio), with the paragraph numbers
   url: https://www.ibiblio.org/hyperwar/USN/ref/SS-Doct/index.html
   rights: Public domain (U.S. government publication)
@@ -788,12 +910,16 @@ usf-25a:
 oni-54:
   title: ONI 54-series recognition manuals (ONI 54-D destroyers, 54-CV carriers, 54-R battleships, 54-C cruisers), 1943–1944
   by: Office of Naval Intelligence
+  kind: reference
+  of: us
   rights: Public domain (U.S. government publication)
   used_for: silhouettes/silhouettes.yml (each ship's heights and length, as its plate prints them)
 
 oni-222-us:
   title: ONI 222-US, Recognition Manual, United States Naval Vessels (issued 1 September 1945)
   by: Office of Naval Intelligence, Division of Naval Intelligence
+  kind: reference
+  of: us
   held: Google Books (full view), id Epii9ppEzeYC
   url: https://www.google.com/books/edition/ONI_222_US/Epii9ppEzeYC
   rights: Public domain (U.S. government publication)
@@ -802,6 +928,8 @@ oni-222-us:
 tc-overseas:
   title: "The Transportation Corps: Operations Overseas (United States Army in World War II: The Technical Services)"
   by: Joseph Bykofsky and Harold Larson, Office of the Chief of Military History, 1957
+  kind: secondary
+  of: us
   held: Internet Archive (full text)
   url: https://archive.org/details/transportationco00byko
   rights: Public domain (U.S. government publication)
@@ -812,6 +940,8 @@ tc-overseas:
 oni-208:
   title: O.N.I. 208, Merchant Ship Recognition Manual (21 April 1942)
   by: Office of Naval Intelligence, Division of Naval Intelligence (Op-16-F-20)
+  kind: reference
+  of: us
   held: Internet Archive (also on HyperWar, filed there as "ONI 207")
   url: https://archive.org/details/MerchShipRecogManual
   rights: Public domain (U.S. government publication)
@@ -820,6 +950,8 @@ oni-208:
 oni-226:
   title: ONI 226, Allied Landing Craft and Ships (7 April 1944)
   by: Office of Naval Intelligence, Division of Naval Intelligence
+  kind: reference
+  of: us
   held: Internet Archive, a 2013 reprint ("Allied Landing Craft and Ships, World War II Recognition Guide"), PDF pages as printed
   url: https://archive.org/details/allied-landing-craft-and-ships-world-war-ii-recognition-guide
   rights: Public domain (U.S. government publication); the reprint adds nothing used here
@@ -831,6 +963,8 @@ oni-226:
 oni-222-j:
   title: ONI 222-J, The Japanese Navy (Division of Naval Intelligence, issued June 1945)
   by: Office of Naval Intelligence, Division of Naval Intelligence
+  kind: reference
+  of: us
   held: Internet Archive (digitized by the Command and General Staff College; Archive date 9 Aug 1945)
   url: https://archive.org/details/ONI222JTheJapaneseNavy
   rights: Public domain (U.S. government publication)
@@ -840,6 +974,8 @@ oni-222-j:
 oni-41-42:
   title: ONI 41-42, Japanese Naval Vessels (Division of Naval Intelligence, Identification and Characteristics Section; November 1942, plates revised to June 1943)
   by: Office of Naval Intelligence, Division of Naval Intelligence
+  kind: reference
+  of: us
   held: Internet Archive (600 dpi scans)
   url: https://archive.org/details/oni-4142
   rights: Public domain (U.S. government publication)
@@ -850,6 +986,8 @@ oni-41-42:
 oni-208-j:
   title: O.N.I. 208-J (Revised), Japanese Merchant Ships Recognition Manual (January 1945)
   by: Office of Naval Intelligence, Division of Naval Intelligence, Identification and Characteristics Section
+  kind: reference
+  of: us
   held: Internet Archive (PDF and 600 dpi scans, ONI208J-p185.jpg = printed p. 149)
   url: https://archive.org/details/oni-208-j
   rights: Public domain (U.S. government publication)
@@ -860,6 +998,8 @@ oni-208-j:
 oni-208-j-sup3:
   title: O.N.I. 208-J Supplements 2 and 3, Far-Eastern Small Craft and Standard Classes of Japanese Merchant Ships (1945)
   by: Office of Naval Intelligence, Division of Naval Intelligence
+  kind: reference
+  of: us
   held: Internet Archive (digitized by the Command and General Staff College); PDF pp. 7-16 are Supplement 3, pp. 3-12 (p. 12 is the item's JP2 leaf 0015)
   url: https://archive.org/details/ONI208JSupplements2And3
   rights: Public domain (U.S. government publication)
@@ -870,6 +1010,7 @@ oni-208-j-sup3:
 etopo1:
   title: ETOPO1 1 Arc-Minute Global Relief Model
   by: NOAA National Centers for Environmental Information (Amante and Eakins, 2009)
+  kind: reference
   held: NOAA CoastWatch ERDDAP
   id: doi:10.7289/V5C8276M
   url: https://www.ncei.noaa.gov/products/etopo-global-relief-model
@@ -879,6 +1020,7 @@ etopo1:
 era5:
   title: ERA5 hourly reanalysis
   by: ECMWF, Copernicus Climate Change Service (Hersbach et al., 2020)
+  kind: reference
   held: via the Open-Meteo historical weather API
   url: https://open-meteo.com/en/docs/historical-weather-api
   rights: CC BY 4.0 (Copernicus licence; Open-Meteo data CC BY 4.0)
@@ -889,6 +1031,7 @@ era5:
 isd:
   title: Integrated Surface Database (ISD), global-hourly
   by: NOAA National Centers for Environmental Information
+  kind: reference
   held: NOAA open data on AWS (bucket noaa-global-hourly-pds); station list isd-history.csv
   url: https://www.ncei.noaa.gov/products/land-based-station/integrated-surface-database
   rights: Public domain (U.S. government)
@@ -904,6 +1047,7 @@ isd:
 osm-nominatim:
   title: OpenStreetMap, via the Nominatim geocoder
   by: OpenStreetMap contributors
+  kind: reference
   url: https://nominatim.openstreetmap.org/
   rights: ODbL 1.0 (© OpenStreetMap contributors)
   cite: OSM Nominatim
@@ -913,6 +1057,7 @@ osm-nominatim:
 wikipedia-coordinates:
   title: Wikipedia, article coordinates for a place
   by: Wikipedia contributors
+  kind: reference
   held: Wikipedia
   url: https://en.wikipedia.org/wiki/San_Pedro_Bay_(Philippines)
   rights: CC BY-SA 4.0
@@ -923,6 +1068,7 @@ wikipedia-coordinates:
 usgs-comcat:
   title: ANSS Comprehensive Earthquake Catalog (ComCat)
   by: U.S. Geological Survey
+  kind: reference
   url: https://earthquake.usgs.gov/earthquakes/search/
   rights: Public domain
   used_for: boats/ss-385-bang/dives.yml (the 2 May 1945 earthquake search)
@@ -930,18 +1076,21 @@ usgs-comcat:
 isc-gem:
   title: ISC-GEM Global Instrumental Earthquake Catalogue
   by: International Seismological Centre
+  kind: reference
   url: http://www.isc.ac.uk/iscgem/
   used_for: boats/ss-385-bang/dives.yml
 
 isc-bulletin:
   title: ISC Bulletin
   by: International Seismological Centre
+  kind: reference
   url: http://www.isc.ac.uk/iscbulletin/
   used_for: boats/ss-385-bang/dives.yml
 
 taiwan-cwa:
   title: Earthquake catalog of the Central Weather Administration, Taiwan
   by: Central Weather Administration (Taiwan)
+  kind: reference
   url: https://www.cwa.gov.tw/
   used_for: boats/ss-385-bang/dives.yml
 
@@ -949,6 +1098,7 @@ natural-earth:
   short: Natural Earth
   title: Natural Earth land and country boundaries (1:10m, 1:50m), via world-atlas
   by: Natural Earth; world-atlas by Mike Bostock
+  kind: reference
   url: https://www.naturalearthdata.com/
   rights: Public domain
   used_for: base maps on every page; the engagement pages' coastlines
@@ -956,6 +1106,7 @@ natural-earth:
 aws-terrain-tiles:
   title: 'Terrain Tiles (Terrarium format), Registry of Open Data on AWS (Tilezen / Mapzen "joerd")'
   by: Tilezen, from SRTM, GMTED2010, ETOPO1 and other elevation sources
+  kind: reference
   url: https://registry.opendata.aws/terrain-tiles/
   rights: >-
     SRTM and GMTED2010 public domain (USGS asks for credit); ETOPO1 public domain (NOAA). Attribution, as the
@@ -983,6 +1134,8 @@ hand-placed:
 ams-l772:
   title: "Kyushu 1:50,000, Series L772 (sheets cited by number, e.g. 4242-III Kajiki)"
   by: U.S. Army Map Service (AMS), Corps of Engineers
+  kind: reference
+  of: us
   held: University of Texas Libraries, Perry-Castañeda Library Map Collection (OCLC 6594238)
   url: https://maps.lib.utexas.edu/maps/ams/japan/
   rights: Public domain (U.S. government work)
@@ -1003,6 +1156,8 @@ ams-l772:
 ams-l506:
   title: "Japan 1:250,000, Series L506 (sheets cited by number, e.g. NH 52-4 Kagoshima)"
   by: U.S. Army Map Service (AMS), Corps of Engineers
+  kind: reference
+  of: us
   held: University of Texas Libraries, Perry-Castañeda Library Map Collection (OCLC 6900707)
   url: https://maps.lib.utexas.edu/maps/ams/japan/
   rights: Public domain (U.S. government work)
@@ -1015,13 +1170,18 @@ ams-l506:
     Shows the airfields as in use about 1952 (Kanoya as "Aux AB"), so a field on it is a postwar position.
 
 url:
-  kind: url
+  kind: secondary
   title: A web page cited by its address (ship histories, catalog records)
   match: '^https?://\S+$'
+  note: >-
+    What kind of source a page is can't be told from its address, so a row cited this way is tagged as a later
+    account read on the web. A record read on a web page (a scan on JACAR or in the National Archives catalog, a
+    newspaper on Gallica) is cited in its archive's own form above, which carries the archive's kind and nationality.
 
 sigterritoires-nwa-grid:
   title: "How to manage the NW Africa Grid projection with ArcGis and QGis"
   by: Atilio Francois, Blog GIS & Territories (sigterritoires.fr), 13 Aug 2018, updated 17 Oct 2018
+  kind: reference
   url: https://www.sigterritoires.fr/index.php/en/how-to-manage-the-nw-africa-grid-projection-with-arcgis-and-qgis/
   rights: Web page, cited for the grid's parameters only
   cite: sigterritoires-nwa-grid
@@ -1036,6 +1196,8 @@ sigterritoires-nwa-grid:
 ams-algeria-50k:
   title: "Algeria 1:50,000 (A.M.S. P741), 1941: sheets 93 Sétif, 94 St.-Arnaud, 95 Châteaudun du Rhumel, 96 Oued Athmenia, 118 Navarin, 119 St.-Donat, 120 Aïn M'lila, 121 Aïn Fakroun"
   by: Army Map Service, U.S. Army, 1941, from the French 1:50,000 sheets; North West Africa grid (1 km lines)
+  kind: reference
+  of: us
   held: University of Texas Libraries, Perry-Castañeda Library Map Collection (scans), mirrored on Wikimedia Commons (public domain)
   url: https://commons.wikimedia.org/wiki/Category:Maps_of_Algeria_by_the_United_States_Army_Map_Service
   rights: public domain (a U.S. government work)
@@ -1048,6 +1210,8 @@ ams-algeria-50k:
 ams-italy-50k:
   title: "Italy 1:50,000 (G.S.G.S. 4229), the Army Map Service's printings, 1943-44"
   by: Geographical Section, General Staff (War Office), from the Italian IGM sheets; printed by the Army Map Service, U.S. Army; South Italy Zone grid
+  kind: reference
+  of: uk
   held: University of Texas Libraries, Perry-Castañeda Library Map Collection (scans), mirrored on Wikimedia Commons (public domain)
   url: https://commons.wikimedia.org/wiki/File:Map_by_the_US_Army_Map_Service_-_Caserta_-_italy_50k_-_txu-pclmaps-oclc-6540719-caserta-172-2.jpg
   rights: public domain (a U.S. government work)
@@ -1058,6 +1222,8 @@ ams-italy-50k:
 gsgs-italy-card:
   title: "Glossary and Reference Card for G.S.G.S. Maps of Italy (O.R. 1376)"
   by: War Office, March 1943
+  kind: reference
+  of: uk
   held: scan at borneo.name (Borneo maps collection)
   url: https://www.borneo.name/maps/GSGS/glossary_and_reference_card_for_GSGS_maps_of_Italy.pdf
   rights: Crown copyright, expired (published 1943)
@@ -1069,6 +1235,8 @@ gsgs-italy-card:
 ams-italy-100k:
   title: "Italy 1:100,000 (G.S.G.S. 4164), the Army Map Service's printings, 1941-43"
   by: Geographical Section, General Staff (War Office), from the Italian IGM sheets; printed by the Army Map Service, U.S. Army; South Italy Zone grid (1 km lines)
+  kind: reference
+  of: uk
   held: University of Texas Libraries, Perry-Castañeda Library Map Collection (scans), mirrored on Wikimedia Commons (public domain)
   url: https://commons.wikimedia.org/wiki/File:Map_by_the_US_Army_Map_Service_-_Santa_Fiora_-_italy_100k_-_txu-pclmaps-oclc-6540635-santa-fiora-129-1941.jpg
   rights: public domain (a U.S. government work)
@@ -1079,6 +1247,8 @@ ams-italy-100k:
 ams-algeria-200k:
   title: "Algeria 1:200,000 (G.S.G.S. 4180; A.M.S. P541), sheets 16 Sétif (2nd edition, War Office 1942) and 27 Batna (2nd GSGS edition 1942, AMS printing 1947)"
   by: War Office, Geographical Section, General Staff; Army Map Service, U.S. Army. Copied from French maps (1927, 1930) with revision from intelligence reports of 1941
+  kind: reference
+  of: uk
   held: University of Texas Libraries, Perry-Castañeda Library Map Collection (scans), mirrored on Wikimedia Commons (public domain)
   url: https://commons.wikimedia.org/wiki/Category:Maps_of_Algeria_by_the_United_States_Army_Map_Service
   rights: public domain (a U.S. government work; Commons marks it so)
@@ -1093,6 +1263,8 @@ oss-967:
   title: "Algeria and Tunisia: Principal Highways and Landing Places (Map No. 967, Provisional Edition), 22 August 1942"
   short: OSS map 967
   by: Geography Division, Office of Strategic Services (O.S.S.); reproduced by the OSS Repro. Section
+  kind: reference
+  of: us
   held: Stanford University Libraries (G8241 .P2 1942 .U5)
   id: vs189tm5539
   url: https://purl.stanford.edu/vs189tm5539
@@ -1111,6 +1283,8 @@ oss-967:
 
 nara-film:
   title: National Archives Catalog, moving images (one film reel or story per catalogue item)
+  kind: record
+  of: us
   held: U.S. National Archives and Records Administration (NARA), Motion Picture, Sound and Video Branch
   url: https://catalog.archives.gov/
   rights: Public domain (records of the U.S. government)
@@ -1124,6 +1298,7 @@ nara-film:
 
 youtube:
   title: YouTube, an archive's own upload (the channels in film/channels.yml with tier archive)
+  kind: press
   url: https://www.youtube.com/
   rights: Linked, not copied; each archive's own terms
   cite: youtube:<video id>      # e.g. youtube:N5q3UAIkc-o (British Pathé, film ID 1083.24)
@@ -1138,6 +1313,8 @@ youtube:
 nara-t1022-2099:
   title: Records of the German Navy, T-1022 roll 2099 (Naval Staff U-boat section, operation charts, Arctic and Mediterranean, 1942-44)
   by: Oberkommando der Kriegsmarine, Seekriegsleitung; filmed by the US Navy (ONI), 1946
+  kind: record
+  of: de
   held: NARA, RG 242, series "Copies of Records of the German Navy" (naId 315246058); microfilm publication T1022
   id: NAID 337684135
   url: https://catalog.archives.gov/id/337684135
@@ -1154,6 +1331,8 @@ nara-t1022-2099:
 schmidt-marinequadrate:
   title: Die Marinequadratsysteme der deutschen Seestreitkräfte. Ein Werkstattbericht aus den Archiven (Stand 19.09.2026)
   by: Ulrich Schmidt
+  kind: secondary
+  of: de
   held: Zenodo
   id: doi:10.5281/zenodo.22848807
   url: https://doi.org/10.5281/zenodo.22848807
@@ -1168,6 +1347,7 @@ schmidt-marinequadrate:
 navalgrid:
   title: Naval Grid Calculator (method page)
   by: navalgrid.com
+  kind: reference
   held: navalgrid.com (website)
   url: https://navalgrid.com
   rights: Website; cited, not copied
@@ -1181,6 +1361,8 @@ navalgrid:
 nara-t312:
   title: Records of German Field Commands, Armies (NARA microfilm publication T-312)
   by: German Army (Armeeoberkommandos); filmed for the National Archives
+  kind: record
+  of: de
   held: NARA, RG 242, series naId 12007587
   url: https://catalog.archives.gov/id/12007587
   rights: Public domain (captured records filmed by the U.S. government)
@@ -1195,6 +1377,8 @@ nara-t312:
 nara-t314:
   title: Records of German Field Commands, Corps (NARA microfilm publication T-314)
   by: German Army (Generalkommandos); filmed for the National Archives
+  kind: record
+  of: de
   held: NARA, RG 242, series naId 12004195
   url: https://catalog.archives.gov/id/12004195
   rights: Public domain (captured records filmed by the U.S. government)
