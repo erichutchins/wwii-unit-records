@@ -454,6 +454,7 @@ almanac9ad:
 
 frupac:
   title: FRUPAC War Map Collection
+  short: FRUPAC war map      # how the engagement pages name a note's source
   by: Fleet Radio Unit Pacific (FRUPAC)
   kind: intelligence
   of: us

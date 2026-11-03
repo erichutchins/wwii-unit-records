@@ -110,7 +110,10 @@ page's lede.
 
 At most three participants with a US track (the page's three checked colours). The boats' attacks, ship contacts and
 depth charges come from their own patrol folders, the Japanese records from each boat's `japanese.yml` inside the
-window; `events.yml` holds only what belongs to this engagement.
+window, and US radio intelligence from each boat's `frupac.yml` inside the window (below: each note becomes an entry
+with `actor: FRUPAC`, `of: us`, `about` the ship it names, its `text` as `words`, the map as its source, zone I assumed
+for its time and its position read off the map, both said to be ours; a note tied to an attack also joins that attack's
+pairing as `intelligence`, for the Sources view); `events.yml` holds only what belongs to this engagement.
 
 **`events.yml`**: a list of entries, in the order of the account.
 
@@ -316,3 +319,16 @@ and read in place, never copied.
 **Assumption:** FRUPAC notes carry no zone letter. They are taken to repeat
 the Japanese time (zone I, −9), which the matches bear out (below).
 `check_crossrefs.py` prints each note against its attack in GMT.
+
+**On the engagement pages:** `tools/build_engagement.py` reads a tracked boat's `frupac.yml` like her `japanese.yml`.
+Every note whose `date` and `time` (zone I assumed) fall in an engagement's window becomes an entry of it: `actor:
+FRUPAC`, `of: us`, `about` the `ship` as written, `words` the `text`, `source` the map (`FRUPAC war map, <map_date>`,
+cited by its ark id, so the entry's source is `intelligence · US`), `basis: assumed` with the zone assumption in `note`,
+and where the note has a mark of its own `lat`/`lon` from `lat_est`/`lon_est` with `pos_basis: approx`. The `event` is
+mapped to the pages' kinds (`FRUPAC_KIND` in the build: `torpedoed` → `hit`, `sank` → `sank`, `sinking` → `damage`,
+`attacked`/`torpedo_attack`/`attack_reported` → `attacked`, `torpedo_track`/`sub_contact`/`sub_sighted` → `sighting`,
+`df_sub`/`position`/`convoy` → `position`, `arrival`, `claim`, `contact_report` → `report`); the note's own word stays in
+`frupac.event`, with its `id`, `relation`, `attack`, `map` and zoom `view`. A note with no time that is tied to an
+attack is drawn at the attack's time and says so; one tied to nothing stays off the clock. A note tied to an attack also
+joins every pairing of that attack (`pairs[].intelligence`) for the Sources view, on its own time. FRUPAC is a source
+about the convoy, not a participant: no track and no lane of its own on the map, where its estimates are hatched.
