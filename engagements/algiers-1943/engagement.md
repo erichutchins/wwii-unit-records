@@ -2,10 +2,11 @@
 title: Algiers under the night bombers, May–June 1943
 short: Algiers · May–June 1943
 theater: mediterranean
+against: [de, it]   # the raiders and the bulletins; the RAF and the city's paper stand beside the battery
 participants:
   - id: battery-c
     name: Battery C, 62nd CA (AA)
-    side: us
+    of: us
     kind: army
     unit: 62ca-c
     note: fired on the raiders, 12 and 13 May and 4 June 1943
@@ -15,7 +16,8 @@ Three nights when Battery C, 62nd Coast Artillery (AA), 4 miles west of Algiers,
 and 4 June 1943. The battery's own reports beside the RAF night fighters' record book, the city's newspaper, the
 Allied communiqués, and the attackers' side: the German Naval Staff's war diary and the Italian and German
 communiqués. Hand-edited; every entry cites its page in `ref`. Fields as in
-`records/README.md` ("An engagement"), with `side` one of `allied`, `axis`, `press`, `geo`.
+`records/README.md` ("An engagement"); `of` is each actor's nationality (`us`, `uk`, `fr`, `de`, `it`), and the
+press is told by its source's kind.
 
 - `events.yml`: every dated entry from either side, with the record's words in quotes. `placed` = `seq` when the
   time isn't recorded and the row is placed by the order of the account.

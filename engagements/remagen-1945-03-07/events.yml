@@ -2,7 +2,7 @@
 # One record so far: III Corps' after action report for March 1945. ref = the PDF page; the printed page is in the note.
 - at: 1945-03-07
   placed: '"In the morning"; no time typed'
-  side: us
+  of: us
   actor: CCB, 9 Armd Div
   kind: move
   words: >-
@@ -14,7 +14,7 @@
   note: Printed page -17-
 - at: 1945-03-07
   placed: '"By late afternoon"; no time typed in the narrative'
-  side: us
+  of: us
   actor: CCB, 9 Armd Div
   kind: station
   words: >-
@@ -24,7 +24,7 @@
   pos: remagen
   note: Printed page -17-
 - at: 1945-03-07 1550 A
-  side: us
+  of: us
   actor: 9th US Armored Division
   kind: status
   words: >-
@@ -38,7 +38,7 @@
     prisoners said, as the G-2 report gives it; no German record of the order has been found
 - at: 1945-03-07
   placed: On the appearance of the US troops at the bridge; no time typed
-  side: de
+  of: de
   actor: The bridge's demolition
   kind: damage
   words: >-
@@ -54,7 +54,7 @@
   note: Printed pages -70- (G-2) and -17- (narrative, pdf 21). Both are the US side's account
 - at: 1945-03-07
   placed: After the capture; the narrative types no time before "by midnight"
-  side: us
+  of: us
   actor: 14 Tk Bn task force, CCB
   kind: move
   words: >-
@@ -67,7 +67,7 @@
   pos: erpel
   note: Printed page -17-. The name is typed Engaman; it is usually spelled Engeman
 - at: 1945-03-07 1630 A
-  side: us
+  of: us
   actor: III Corps
   kind: report
   words: >-
@@ -78,7 +78,7 @@
   ref: iiicorps-aar-1945-03/p21
   note: Printed pages -17- and -18- (pdf 22). "Approximately" as typed
 - at: 1945-03-07 2015 A
-  side: us
+  of: us
   actor: First U S Army
   kind: received
   words: >-
@@ -89,7 +89,7 @@
   ref: iiicorps-aar-1945-03/p22
   note: Printed page -18-
 - at: 1945-03-07 2100 A
-  side: us
+  of: us
   actor: RCT 47 (9 Inf Div)
   kind: assignment
   words: '"RCT 47, having been motorized by Corps, became attached to CCB, 9 Armd Div, at 2100A".'
@@ -97,7 +97,7 @@
   ref: iiicorps-aar-1945-03/p22
   note: Printed page -18-
 - at: 1945-03-08 0300 A
-  side: us
+  of: us
   actor: 482 AAA AW Bn (SP)
   kind: order
   words: >-
@@ -110,7 +110,7 @@
   note: Printed page -19-. "At about" as typed
 - at: 1945-03-08
   placed: The day's total; no times typed
-  side: us
+  of: us
   actor: AA units at the bridge (the Corps' total)
   kind: engage
   words: >-
@@ -124,7 +124,7 @@
   note: Printed page -22-. Claims, for all the AA units together; not checked against German losses
 - at: 1945-03-09
   placed: The day's total; no times typed
-  side: us
+  of: us
   actor: AA units at the bridge (the Corps' total)
   kind: engage
   words: >-
@@ -137,7 +137,7 @@
   note: Printed page -25-. Claims, for all the AA units together; not checked against German losses
 - at: 1945-03-10
   placed: The day's total; no times typed
-  side: us
+  of: us
   actor: AA units at the bridge (the Corps' total)
   kind: engage
   words: >-
@@ -150,7 +150,7 @@
   note: Printed page -28-. Claims, for all the AA units together; not checked against German losses
 - at: 1945-03-11
   placed: The period 110600 to 120600, as typed; no times within it
-  side: us
+  of: us
   actor: AA units at the bridge (the Corps' total)
   kind: engage
   words: >-
@@ -162,7 +162,7 @@
   pos: bridge
   note: Printed page -31-. Claims, for all the AA units together; not checked against German losses
 - at: 1945-03-11 1700 A
-  side: us
+  of: us
   actor: III Corps engineers
   kind: status
   words: >-
@@ -174,7 +174,7 @@
   note: Printed page -31-
 - at: 1945-03-12
   placed: The period 120600A to 130600A, as typed; no times within it
-  side: us
+  of: us
   actor: AA units at the bridge (the Corps' total)
   kind: engage
   words: >-
@@ -189,7 +189,7 @@
   note: Printed page -33-. Claims, for all the AA units together; not checked against German losses
 - at: 1945-03-13
   placed: The period 130600A to 140600A, as typed; no times within it
-  side: us
+  of: us
   actor: AA units at the bridge (the Corps' total)
   kind: engage
   words: >-
@@ -201,7 +201,7 @@
   note: Claims, for all the AA units together; not checked against German losses
 - at: 1945-03-14
   placed: The period 140600A to 150600A, as typed; no times within it
-  side: us
+  of: us
   actor: AA units at the bridge (the Corps' total)
   kind: engage
   words: >-
@@ -217,7 +217,7 @@
     side's identification
 - at: 1945-03-15
   placed: The period 150600A to 160600A, as typed; no times within it
-  side: us
+  of: us
   actor: AA units at the bridge (the Corps' total)
   kind: engage
   words: >-
@@ -228,7 +228,7 @@
   pos: bridge
   note: Printed page -39-. Claims, for all the AA units together; not checked against German losses
 - at: 1945-03-17 1030 A
-  side: us
+  of: us
   actor: III Corps engineers
   kind: report
   words: >-
@@ -238,7 +238,7 @@
   basis: assumed
   note: Printed page -116-. The journal types no zone letter; taken as A, the report's own time (assumed)
 - at: 1945-03-17 1155 A
-  side: us
+  of: us
   actor: III Corps engineers
   kind: casualty
   words: >-
@@ -253,7 +253,7 @@
     operations were not impeded, and no damage to the bridge resulted; however, one small German town was destroyed,
     and some US casualties resulted."
 - at: 1945-03-17 1500 A
-  side: us
+  of: us
   actor: III Corps G-2
   kind: report
   words: >-
@@ -265,7 +265,7 @@
   pos: bridge
   note: Printed page -73-. The time is typed without a zone letter; the report's A
 - at: 1945-03-17 1505 A
-  side: us
+  of: us
   actor: III Corps engineers
   kind: loss
   words: >-
@@ -281,7 +281,7 @@
     collapse as witnesses gave it; left out here (the kit records units, not people)
 - at: 1945-03-08
   placed: '"The first 36 hours of the bridgehead"; no date or time typed (dated here at its middle, assumed)'
-  side: us
+  of: us
   actor: III Corps G-2
   kind: report
   words: >-
@@ -296,7 +296,7 @@
     sentence is read in the text layer; the rest on the scan
 - at: 1945-03-13
   placed: The day, as typed; no times
-  side: us
+  of: us
   actor: III Corps G-2
   kind: report
   words: >-
@@ -312,7 +312,7 @@
     record
 - at: 1945-03-14
   placed: The day, as typed; the identification is from the day's prisoners
-  side: us
+  of: us
   actor: 60th Armored Infantry Battalion (attached to the 311th Infantry, 78th Infantry Division)
   kind: report
   words: >-

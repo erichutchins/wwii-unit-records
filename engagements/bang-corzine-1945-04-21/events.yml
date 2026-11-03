@@ -1,24 +1,24 @@
 # The boats' narrative entries for this engagement, as typed. Hand-edited; fields in records/README.md (An engagement's events).
 - at: 1945-04-19 2230 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Received orders for lifeguard the next day.
   ref: rg367-74802934/p11
 - at: 1945-04-20 1200 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Posit Lat. 24-05N, Long. 122-06E.
   ref: rg367-74802934/p11
 - at: 1945-04-20 1203 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Surfaced on lifeguard station. Sky completely overcast with strong wind and rough seas.
   ref: rg367-74802934/p11
 - at: 1945-04-20 1213 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -27,37 +27,37 @@
     of weather.
   ref: rg367-74802934/p11
 - at: 1945-04-20 1600 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Sighted and exchanged calls with patrolling B-24. He had nothing to report.
   ref: rg367-74802934/p12
 - at: 1945-04-20 1927 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Surfaced. Barometer high, but seas still state 5 to 6 from NNE with heavy overcast.
   ref: rg367-74802934/p12
 - at: 1945-04-21 0935 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Sighted PB4Y heading southeast.
   ref: rg367-74802934/p12
 - at: 1945-04-21 1200 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Posit Lat. 24-34N, Long. 122-47E.
   ref: rg367-74802934/p12
 - at: 1945-04-21 1348 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Surfaced. Weather clear and seas moderating.
   ref: rg367-74802934/p12
 - at: 1945-04-21 1415 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -65,7 +65,7 @@
     search for downed aviators. Proceeding at four engine speed.
   ref: rg367-74802934/p12
 - at: 1945-04-21 1530 I
-  side: us
+  of: us
   actor: chenango
   kind: status
   title: Four F6F-5s launched
@@ -75,7 +75,7 @@
   source: NARA 140031168, ACA Report No. 50, image p248
   ref: https://catalog.archives.gov/id/140031168?objectPage=248
 - at: 1945-04-21 1737 I
-  side: us
+  of: us
   actor: chenango
   kind: ditched
   title: Corzine ditches; hit by AA over Ishigaki airfield
@@ -92,7 +92,7 @@
     counted back from 0737; the position is 20 miles east of Ishigaki airfield. Both estimated.
   pos: corzine-ditches
 - at: 1945-04-21 1900 I
-  side: us
+  of: us
   actor: chenango
   kind: status
   title: The other three return
@@ -102,7 +102,7 @@
   source: NARA 140031168, ACA Report No. 50, image p248
   ref: https://catalog.archives.gov/id/140031168?objectPage=248
 - at: 1945-04-21 2150 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -111,7 +111,7 @@
     the island.
   ref: rg367-74802934/p12
 - at: 1945-04-21 2200 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -123,13 +123,13 @@
     east in 7.6 h); unresolved.)
   ref: rg367-74802934/p35
 - at: 1945-04-21 2330 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Arrived at reported position of downed aviators and commenced search southeast of Ishigaki Jima.
   ref: rg367-74802934/p12
 - at: 1945-04-22 0500 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -137,7 +137,7 @@
     Ishigaki Jima and Miyako Jima.
   ref: rg367-74802934/p12
 - at: 1945-04-22 0630 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -146,7 +146,7 @@
     Planes furnished cover and guided us in.
   ref: rg367-74802934/p12
 - at: 1945-04-22 0737 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -158,13 +158,13 @@
     hours before 0737 I puts him in the water about 1737 I on 21 Apr.)
   ref: rg367-74802934/p12
 - at: 1945-04-22 0740 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Proceeding with search for downed aviators previously reported in our orders.
   ref: rg367-74802934/p13
 - at: 1945-04-22 0800 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -172,13 +172,13 @@
     to or from their carriers.
   ref: rg367-74802934/p13
 - at: 1945-04-22 1200 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Posit Lat. 24-03N, Long. 124-16E.
   ref: rg367-74802934/p13
 - at: 1945-04-22 1200 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -186,7 +186,7 @@
     rotation 1.) The full scale sweep is as seen in the sketch. Made regular sweeps.
   ref: rg367-74802934/p36
 - at: 1945-04-22 1635 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -196,13 +196,13 @@
     would have taken charge.
   ref: rg367-74802934/p13
 - at: 1945-04-22 1937 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Surfaced.
   ref: rg367-74802934/p13
 - at: 1945-04-22 2100 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -210,25 +210,25 @@
     westward. Learned later that the survivors for whom we had been searching had been picked up by a PBM.
   ref: rg367-74802934/p13
 - at: 1945-04-23 0607 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Submerged on station.
   ref: rg367-74802934/p13
 - at: 1945-04-23 0620 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Sighted unidentified single engine fighter plane on westerly course.
   ref: rg367-74802934/p13
 - at: 1945-04-23 1200 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: Posit Lat. 24-40N, Long. 122-37E.
   ref: rg367-74802934/p13
 - at: 1945-04-23 1500 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -236,7 +236,7 @@
     April.
   ref: rg367-74802934/p36
 - at: 1945-04-23 2214 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -244,7 +244,7 @@
     indicated no radars other than the customary assorted land-based air search equipment.
   ref: rg367-74802934/p13
 - at: 1945-04-23 2220 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-
@@ -252,7 +252,7 @@
     made on the SJ shortly after this intercept was made.
   ref: rg367-74802934/p36
 - at: 1945-04-23 2243 I
-  side: us
+  of: us
   actor: bang
   kind: log
   words: >-

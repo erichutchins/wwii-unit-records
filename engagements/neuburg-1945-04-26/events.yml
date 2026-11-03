@@ -1,7 +1,7 @@
 # Every dated entry, from either side, in the records' words. Hand-edited; fields in records/README.md (An engagement's events).
 - at: 1945-04
   placed: The month's assignment; no time
-  side: us
+  of: us
   actor: 106th AAA AW Bn
   kind: assignment
   words: >-
@@ -11,7 +11,7 @@
   ref: ok45th-17560/p02
   step: s1
 - at: 1945-04-26 1015
-  side: us
+  of: us
   actor: 189th FA Bn
   kind: move
   words: The battalion moves at 1015 to Bergen, just north-west of Neuburg.
@@ -21,7 +21,7 @@
   step: s1
 - at: 1945-04-26 1130
   placed: Secondary accounts; not yet checked against a German record
-  side: de
+  of: de
   actor: JV 44
   kind: launch
   words: Twelve Me 262s of JV 44 take off from Munich-Riem with R4M rockets to attack B-26s.
@@ -31,7 +31,7 @@
   pos: riem
   step: s2
 - at: 1945-04-26 1145
-  side: us
+  of: us
   actor: 34th Bomb Sq
   kind: loss
   words: >-
@@ -42,7 +42,7 @@
   pos: spotcash
   step: s2
 - at: 1945-04-26 1145
-  side: us
+  of: us
   actor: 106th AAA AW Bn
   kind: engage
   words: >-
@@ -53,7 +53,7 @@
   pos: bergen
   step: s2
 - at: 1945-04-26 1150
-  side: us
+  of: us
   actor: 432nd Bomb Sq
   kind: loss
   words: >-
@@ -66,7 +66,7 @@
   step: s2
 - at: 1945-04-26 1150
   placed: A claim as tabulated from a secondary source
-  side: de
+  of: de
   actor: JV 44
   kind: claim
   words: >-
@@ -77,7 +77,7 @@
   pos: neuburg
   step: s2
 - at: 1945-04-26 1152
-  side: us
+  of: us
   actor: 37th Bomb Sq
   kind: loss
   words: >-
@@ -90,7 +90,7 @@
   step: s2
 - at: 1945-04-26 1155
   placed: A claim as tabulated from a secondary source
-  side: de
+  of: de
   actor: JV 44
   kind: claim
   words: Galland claims a second B-26 "vicinity of Neuburg", unconfirmed.
@@ -100,7 +100,7 @@
   step: s2
 - at: 1945-04-26 1200
   placed: A round number
-  side: us
+  of: us
   actor: 189th FA Bn
   kind: witness
   words: >-
@@ -112,7 +112,7 @@
   pos: bergen
   step: s2
 - at: 1945-04-26 1515
-  side: us
+  of: us
   actor: 106th AAA AW Bn
   kind: move
   words: The battalion's command post opens at Wellheim at 1515B.
@@ -121,7 +121,7 @@
   pos: wellheim
   step: s3
 - at: 1945-04-26 1725
-  side: us
+  of: us
   actor: 106th AAA AW Bn
   kind: engage
   words: A single Me 262 is engaged again by Batteries C and D, also without result.

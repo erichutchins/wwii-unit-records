@@ -7,28 +7,28 @@ window: {from: 1944-11-22T10:00Z, to: 1944-11-23T00:00Z}
 participants:
   - id: bang
     name: BANG
-    side: us
+    of: us
     kind: submarine
     hull: SS-385
     co: LCdr A. R. Gallaher
     track: ss-385-bang/4
   - id: redfish
     name: REDFISH
-    side: us
+    of: us
     kind: submarine
     hull: SS-395
     co: Cdr L. D. McGregor, pack commander
     track: ss-395-redfish/2
   - id: shad
     name: SHAD
-    side: us
+    of: us
     kind: submarine
     hull: SS-235
     co: L. Julihn (middle initial illegible on the report)
     track: ss-235-shad/8
   - id: taka-206
     name: Convoy TAKA-206
-    side: jp
+    of: jp
     kind: convoy
     convoy: taka-206
 places:

@@ -1,12 +1,12 @@
 # The boats' narrative entries for this engagement, as typed. Hand-edited; fields in records/README.md (An engagement's events).
 - at: 1944-05-03 0552 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: Sighted masts of seven or more large ships, bearing 310°T, distance 8 miles.
   ref: rg367-74856363/p13
 - at: 1944-05-03 0603 H
-  side: us
+  of: us
   actor: tinosa
   kind: contact_report
   to: [parche, bang]
@@ -15,14 +15,14 @@
     convoy.
   ref: rg367-74856363/p13
 - at: 1944-05-03 1204 K
-  side: us
+  of: us
   actor: bang
   kind: received
   from: tinosa
   words: Received contact report from TINOSA. Surfaced and began chase.
   ref: rg367-74802746/p10
 - at: 1944-05-03 1950 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: >-
@@ -30,14 +30,14 @@
     for use with coordinated attacks.
   ref: rg367-74856363/p14
 - at: 1944-05-03 2030 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: >-
     PARCHE asked for positions of all submarines. Our transmitter was out of commission, so could not report.
   ref: rg367-74856363/p14
 - at: 1944-05-03 2155 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: >-
@@ -45,7 +45,7 @@
     flank.
   ref: rg367-74856363/p14
 - at: 1944-05-03 2213 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: >-
@@ -53,7 +53,7 @@
     without danger of being sighted.
   ref: rg367-74856363/p15
 - at: 1944-05-03 2310 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: >-
@@ -61,19 +61,19 @@
     down. Sank: Lat. 20-51N Long. 118-02E.
   ref: rg367-74856363/p15
 - at: 1944-05-04 0016 I
-  side: us
+  of: us
   actor: parche
   kind: log
   words: Series of distant explosions; one of the other boats evidently attacking.
   ref: rg367-74828582/p10
 - at: 1944-05-03 2320 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: Went deep. … Received a total of 55 depth charges.
   ref: rg367-74856363/p16
 - at: 1944-05-04 0253 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: >-
@@ -81,14 +81,14 @@
     was going on.
   ref: rg367-74856363/p17
 - at: 1944-05-04 0330 H
-  side: us
+  of: us
   actor: tinosa
   kind: received
   from: parche
   words: Message from PARCHE to report position. Could not answer; transmitter still out of commission.
   ref: rg367-74856363/p17
 - at: 1944-05-04 0343 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: >-
@@ -96,13 +96,13 @@
     depth charging us.
   ref: rg367-74856363/p17
 - at: 1944-05-04 0457 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: Transmitter back in commission, sent position and results of attack to PARCHE.
   ref: rg367-74856363/p18
 - at: 1944-05-04 0712 H
-  side: us
+  of: us
   actor: tinosa
   kind: log
   words: Heard 48 explosions (0712 to 0733).

@@ -7,19 +7,19 @@ window: {from: 1945-04-19T13:00Z, to: 1945-04-23T14:00Z}
 participants:
   - id: bang
     name: BANG
-    side: us
+    of: us
     kind: submarine
     hull: SS-385
     co: Cdr A. R. Gallaher
     track: ss-385-bang/6
   - id: chenango
     name: CHENANGO
-    side: us
+    of: us
     kind: air group
     sil: fighter
   - id: corzine
     name: Ens. Donald E. Corzine
-    side: us
+    of: us
     kind: aircraft
     sil: fighter
     note: F6F-5 Hellcat, USS CHENANGO; rescued by BANG

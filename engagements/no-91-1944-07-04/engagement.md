@@ -7,21 +7,21 @@ window: {from: 1944-07-03T12:00Z, to: 1944-07-04T06:00Z}
 participants:
   - id: bang
     name: BANG
-    side: us
+    of: us
     kind: submarine
     hull: SS-385
     co: LCdr A. R. Gallaher
     track: ss-385-bang/2
   - id: seahorse
     name: SEAHORSE
-    side: us
+    of: us
     kind: submarine
     hull: SS-304
     co: S. D. Cutter
     track: ss-304-seahorse/5
   - id: no-91-1944-07
     name: Convoy No. 91
-    side: jp
+    of: jp
     kind: convoy
     convoy: no-91-1944-07
 places:

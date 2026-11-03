@@ -7,14 +7,14 @@ window: {from: 1944-06-28T18:00Z, to: 1944-06-29T12:00Z}
 participants:
   - id: bang
     name: BANG
-    side: us
+    of: us
     kind: submarine
     hull: SS-385
     co: LCdr A. R. Gallaher
     track: ss-385-bang/2
   - id: hi-67
     name: Convoy HI-67
-    side: jp
+    of: jp
     kind: convoy
     convoy: hi-67
 places:

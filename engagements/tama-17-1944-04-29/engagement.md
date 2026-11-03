@@ -7,28 +7,28 @@ window: {from: 1944-04-29T06:00Z, to: 1944-04-30T08:00Z}
 participants:
   - id: bang
     name: BANG
-    side: us
+    of: us
     kind: submarine
     hull: SS-385
     co: LCdr A. R. Gallaher
     track: ss-385-bang/1
   - id: parche
     name: PARCHE
-    side: us
+    of: us
     kind: submarine
     hull: SS-384
     co: LCdr L. P. Ramage; pack commander Capt. G. E. Peterson aboard
     track: ss-384-parche/1
   - id: tinosa
     name: TINOSA
-    side: us
+    of: us
     kind: submarine
     hull: SS-283
     co: LCdr D. F. Weiss
     track: ss-283-tinosa/6
   - id: tama-17
     name: Convoy TAMA-17
-    side: jp
+    of: jp
     kind: convoy
     convoy: tama-17
 places:

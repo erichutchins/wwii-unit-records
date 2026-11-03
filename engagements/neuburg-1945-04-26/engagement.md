@@ -6,14 +6,14 @@ clock: B
 participants:
   - id: 106aaa-d
     name: Battery D, 106th AAA AW Bn
-    side: us
+    of: us
     kind: army
     unit: 106aaa-d
     basis: inferred
     note: 'the battalion fired; Battery D was defending the 189th that month (Where was Battery D?, below)'
   - id: 189fa
     name: 189th Field Artillery Bn
-    side: us
+    of: us
     kind: army
     unit: 189fa
     note: watched from Bergen

@@ -7,7 +7,7 @@ window: {from: 1945-04-05T07:00Z, to: 1945-04-07T10:00Z}   # picket station (160
 participants:
   - id: haynsworth
     name: Haynsworth
-    side: us
+    of: us
     kind: destroyer
     sil: sumner
     track: dd-700-haynsworth

@@ -104,7 +104,8 @@ page's lede.
 | `theater` | `pacific`, `mediterranean`, `europe` |
 | `clock` | The zone letter the entries' times are in when an entry gives none (Haynsworth's `I`; Neuburg's `B`). Left out when the records don't say: the page then shows their times as local, unconverted |
 | `window` | `{from: YYYY-MM-DDTHH:MMZ, to: ...}` in GMT: what the map's clock plays. Left out, it's the span of the timed entries. Entries outside it stay in the log, off the clock |
-| `participants` | Who took part, each with an `id` (used by events and pages), `name`, `side` (`us`, `jp`, `allied`, `axis`, `de`), `kind` (`submarine`, `destroyer`, `convoy`, `air group`, `aircraft`, `tanker`, ...), and as it applies: `track` (a boat's patrol, `ss-385-bang/1`, or a ship, `dd-700-haynsworth`: its own record, read where it is, never copied), `convoy` (a `convoys/<id>`), `hull`, `co`, `sil` (a silhouette id; a tracked ship's comes from her `ship.yml`), `unit` (an Army unit in `army/units.csv`, `kind: army`: the pages follow it from one engagement to the next), `basis` (`reported` if not given; `inferred` when no entry names the unit itself, with the reason in `note`), `note` |
+| `against` | Whom the subjects faced, as the records name them (`[de, it]`): a list of nationalities, written only when more than two meet in one frame (Algiers, where the RAF's record book and the city's paper stand beside Battery C). Left out, it is every nationality that isn't the followed subjects' own |
+| `participants` | Who took part, each with an `id` (used by events and pages), `name`, `of` (its nationality as the record gives it: `us`, `jp`, `de`, `it`, `uk`, `fr`, ...; never a bloc), `kind` (`submarine`, `destroyer`, `convoy`, `air group`, `aircraft`, `tanker`, ...), and as it applies: `track` (a boat's patrol, `ss-385-bang/1`, or a ship, `dd-700-haynsworth`: its own record, read where it is, never copied), `convoy` (a `convoys/<id>`), `hull`, `co`, `sil` (a silhouette id; a tracked ship's comes from her `ship.yml`), `unit` (an Army unit in `army/units.csv`, `kind: army`: the pages follow it from one engagement to the next), `basis` (`reported` if not given; `inferred` when no entry names the unit itself, with the reason in `note`), `note` |
 | `places` | Map labels: `name`, `lon`, `lat`, `small` |
 
 At most three participants with a US track (the page's three checked colours). The boats' attacks, ship contacts and
@@ -117,10 +118,11 @@ window; `events.yml` holds only what belongs to this engagement.
 |---|---|
 | `at` | `YYYY-MM-DD HHMM Z` as recorded, with its zone letter (or the engagement's `clock`); a date alone, or a month, when no time is recorded |
 | `placed` | Why the time isn't the record's: `seq` (placed by the order of the account) or words ("Between 1245 and 1250; no time recorded") |
-| `side`, `actor` | `us`, `jp`, `allied`, `axis`, `de`, `press`; who (a participant id, or a name as the record gives it) |
+| `actor`, `of` | Who (a participant id, or a name as the record gives it); the actor's nationality (`us`, `jp`, `de`, `it`, `uk`, `fr`, ...), which may be left out when the actor is a participant id, whose `of` it takes. The press is told apart by its source's `kind` in `SOURCES.yml`, not by a side |
 | `kind` | From the vocabulary in `tools/build_engagement.py` (`KINDS`): `contact_report`, `received`, `attack`, `hit`, `sank`, `rescue`, `log`, `station`, `report`, ... Add a word there rather than inventing one in a file |
 | `to`, `from` | A message's recipients, or its sender (participant ids) |
-| `title`, `words`, `original` | A heading; the record's words (or our translation of `original`, the record's own language) |
+| `title`, `words` | A heading; the record's words as typed (or ours, quoting it), when the record is in English |
+| `original`, `lang`, `translation` | A record that isn't in English, instead of `words`: its words exactly as quoted, its language as a two-letter code (`de`, `it`, `fr`, `ja`), and our translation. Editorial notes go in square brackets in the translation, or in `note` |
 | `source`, `ref` | The source in words; the citation (a `SOURCES.yml` form or a URL) |
 | `pos`, `step` | A `positions.csv` id; the story page's step (haynsworth.html, algiers.html) |
 | `basis`, `note` | `reported`, `derived`, `inferred`, `assumed`, `secondary`; what's assumed and why |
@@ -129,9 +131,19 @@ window; `events.yml` holds only what belongs to this engagement.
 `recollection`, `inference`, `secondary`), `source` (words), `ref` (citation), `note`. Questions with competing
 hypotheses go further in an evidence case.
 
-**`positions.csv`**: `id,label,side,kind,date,time,lat,lon,from,brg,nm,lat2,lon2,basis,source,ref,note`. A position
-given as bearing and distance from another (`from`, `brg`, `nm`) is resolved by the build. `basis`: `fix`, `reported`,
-`derived`, `assumed`, `approx`, `hand-placed` (a reference point placed on a modern map).
+**`positions.csv`**: `id,label,of,kind,date,time,lat,lon,from,brg,nm,lat2,lon2,basis,source,ref,note`. `of` is whose
+position it is, as the record gives it (`us`, `jp`, `de`, ...), empty for a place (a town, a harbour, a landmark). A
+position given as bearing and distance from another (`from`, `brg`, `nm`) is resolved by the build. `basis`: `fix`,
+`reported`, `derived`, `assumed`, `approx`, `hand-placed` (a reference point placed on a modern map).
+
+**Derived, never stored** (`tools/build_engagement.py` writes them into `engagement.json`; its docstring has the
+reasons): on each participant `followed` (it has a track or a unit: a subject the page follows and colours; a convoy is
+the other side's record, read against the followed boats' sightings of it, and isn't) and `opposed`; on the engagement
+`own` (the followed subjects' nationalities); on each entry and position `opposed` (its `of`, or its actor's, is among
+`against`, or, when `against` isn't written, isn't among `own`); on each entry, claim and position `source_kind` and
+`source_of`, its citation's `kind` and `of` in `SOURCES.yml` (a record, the press, a later account; whose). The pages
+colour from these: the followed subjects in their colours, the other side in ink, the press in the lighter ink, and
+name the other side as the records name it.
 
 ### positions.csv columns
 

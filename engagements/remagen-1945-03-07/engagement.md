@@ -8,13 +8,13 @@ window: {from: 1945-03-07T13:00Z, to: 1945-03-17T15:00Z}
 participants:
   - id: 9ad
     name: 9th Armored Division
-    side: us
+    of: us
     kind: army
     unit: 9ad
     note: its Combat Command B took the bridge
   - id: 60aib
     name: 60th Armored Infantry Battalion
-    side: us
+    of: us
     kind: army
     unit: 60aib
 ---

@@ -7,7 +7,7 @@ window: {from: 1944-09-20T04:00Z, to: 1944-09-20T20:00Z}
 participants:
   - id: bang
     name: BANG
-    side: us
+    of: us
     kind: submarine
     hull: SS-385
     co: LCdr A. R. Gallaher
