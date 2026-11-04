@@ -454,6 +454,7 @@ almanac9ad:
 
 frupac:
   title: FRUPAC War Map Collection
+  short: FRUPAC war map      # how the engagement pages name a note's source
   by: Fleet Radio Unit Pacific (FRUPAC)
   kind: intelligence
   of: us
@@ -845,7 +846,7 @@ fm-4-155:
   held: Internet Archive
   url: https://archive.org/details/FM_4_155_S_A_A_A_R_D_1940
   rights: Public domain (U.S. government publication)
-  used_for: site/algiers.js (Battery C's range rings, table A, printed p. 8); FM 4-110 (1942) para 4 gives the same figures
+  used_for: engagements/algiers-1943/engagement.md (Battery C's reach, inferred from its sister batteries' 90 mm; table A, printed p. 8); FM 4-110 (1942) para 4 gives the same figures
   note: >-
     Table A gives each weapon's maximum horizontal and vertical range "as limited by fuze or tracer": 3-inch AA gun
     11,100 / 9,800 yd; 90 mm 12,600 / 11,000 yd (read on the page image, 28 Oct 2026). These are the limits, not an

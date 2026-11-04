@@ -23,8 +23,7 @@ The 9th Armored Division's Combat Command B finds the Ludendorff railroad bridge
 afternoon of 7 March 1945 and crosses it; for ten days the Germans try to bring it down from the air, with
 artillery, with V-2s and with swimmers, and on the afternoon of 17 March it collapses. Told here from one record so
 far: Headquarters III Corps' after action report for March 1945 (its narrative,
-its G-2 report and its engineer journal). Hand-edited; every entry cites its PDF page in `ref`, with the printed page
-in its note. Fields as in `records/README.md` ("An engagement").
+its G-2 report and its engineer journal).
 
 ## The claims at the bridge
 
@@ -57,3 +56,7 @@ groups' reports (claims by unit), all in NARA RG 407 and not online; and the Ger
 returns, the Wehrmachtbericht for these days, and the V-2 battery's firings. The German units on the ground are so far
 only as the US records identified them from prisoners: the Corps' G-2 report (pdf 74, 77) and the 60th Armored Infantry
 Battalion's report for 14 March. No German record is entered yet.
+
+The folder's files, for anyone reading the records themselves:
+
+Every entry cites its PDF page in `ref`, with the printed page in its note.
