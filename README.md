@@ -41,7 +41,9 @@ still to look for.
 
 Generated (don't edit by hand; the kit's tools rebuild them): `track.geojson`, `tracks.geojson`,
 `ships.json`, `seafloor.csv` (NOAA ETOPO1), `weather.csv` (ERA5), `dives.json`,
-`engagements/<id>/engagement.json`, `engagements/index.json`, `convoys/convoys.json`, `silhouettes/silhouettes.json`,
+`engagements/<id>/engagement.json`, `engagements/index.json`, `convoys/convoys.json`, `subjects.json` (every subject the
+pages have: boats, ships, Army units, Seabee battalions, convoys and commands, with their periods, organizations and
+engagements; `tools/build_subjects.py`), `silhouettes/silhouettes.json`,
 `scans.json` (each cited page's public scan URL), `citations.json`.
 
 Which format for what: numbers, dates and short codes, one value per cell, go in CSV (no cell ever needs a quotation
@@ -82,7 +84,8 @@ CC BY-SA 3.0 drawing (Kaboldy, Wikimedia Commons) and carries that licence and a
 
 ### ship.yml
 
-`name`, `hull`, `class`, `kind` (`submarine`, `destroyer`, `destroyer escort`), `max_kts` (the speed check's limit),
+`name`, `hull`, `class`, `kind` (`submarine`, `destroyer`, `destroyer escort`), `plain` (what she was, in a line, in our
+words: the sentence the pages give before her designation; guides/OPERATIONS-VIEWER.md 2.1), `max_kts` (the speed check's limit),
 `dives` (has a depth log for the dive-profile page), `silhouette` (the class profile in
 `silhouettes/silhouettes.yml` that draws her: one silhouette serves every ship of a class, so the link runs
 from the ship to the silhouette, never back; left out until her class has one), and `map`: the map page's wording. A ship with no record transcribed yet has only a `ship.yml` (no `positions.csv`, no map; the tools and map pages skip her). `periods`
@@ -271,6 +274,7 @@ empty value means not recorded; `(inferred)` or `(secondary)` after a value labe
 | Field | Meaning |
 |---|---|
 | `convoy`, `name_ja` | Its name, romanized and as written (TE-04, テ04) |
+| `plain` | What it was, in a line, in our words (a six-ship Yulin–Moji convoy carrying iron ore): the sentence the pages give before its name |
 | `from`, `to`, `via`, `sailed`, `arrived` | Ports and dates as the records give them |
 | `size` | How many ships, as a record counts them |
 | `cargo` | The convoy's, in a few words |

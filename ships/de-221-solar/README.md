@@ -51,4 +51,4 @@ refresher training at Guantanamo (Sep 1945), schoolship at NTC Miami and Navy Da
 - The speed screen is 23 kn (her war history's top speed) plus 30 nm (`max_kts` in `ship.yml`). No silhouette yet:
   the Buckley-class plate (ONI 222-US) has not been traced.
 
-View it at `site/patrols.html?ship=solar`. Regenerate with `uv run tools/check_track.py solar --geojson`.
+View it at `site/subject.html?s=solar&view=records`. Regenerate with `uv run tools/check_track.py solar --geojson`.

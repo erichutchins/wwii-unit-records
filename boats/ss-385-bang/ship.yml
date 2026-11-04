@@ -6,6 +6,7 @@ hull: SS-385
 class: Balao
 silhouette: balao     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
 kind: submarine
+plain: "a fleet submarine of the Balao class, followed through all six of her war patrols"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 max_kts: 20.5          # Balao-class surfaced maximum, about 20.25 kn
 dives: true            # site/dives.html has this boat's dive profile
 

@@ -1,0 +1,77 @@
+# What each unit was, in a line, in our words (guides/OPERATIONS-VIEWER.md 2.1): the designation in units.csv is the
+# records', and with people's names kept out of the public records it is the only name there is, so a reader is told
+# first what kind of thing the unit was and what it did. One sentence a reader without the Army's vocabulary can follow,
+# from what units.csv's note, the stations and the READMEs already say; no person is named. Keyed by units.csv `unit`;
+# tools/build_subjects.py reads it into records/subjects.json and fails on a unit without one.
+62ca-c:
+  plain: an anti-aircraft gun battery of a Coast Artillery regiment, at Oran and Algiers in 1942–43 and then in Tunisia and Sicily
+106aaa-d:
+  plain: a light anti-aircraft battery on half-tracks, attached with its battalion to the 45th Infantry Division from Italy and the Riviera landing to Bavaria
+67ca-med:
+  plain: the aid men of an anti-aircraft regiment, a section with each battalion, from New Jersey through North Africa, Italy and France to Germany
+113inf-med:
+  plain: the aid men of a National Guard infantry regiment on coastal defence in the United States, 1940–43
+113inf-g:
+  plain: a rifle company of a National Guard infantry regiment, on beach patrol and in training camps in the United States
+313inf-b:
+  plain: a rifle company of the 79th Infantry Division, from Cherbourg to the battle for La Haye-du-Puits, June–July 1944
+128aaa-hq:
+  plain: the headquarters battery of a mobile 90 mm anti-aircraft gun battalion with Third Army, from Normandy to Bavaria
+9ad:
+  plain: an armored division, followed by its own positions from the Ardennes to the Rhine bridge at Remagen and into Czechoslovakia
+9ad-hq:
+  plain: the command post of the 9th Armored Division, day by day from the order of battle's table
+60aib:
+  plain: an armored infantry battalion of the 9th Armored Division, from its own after action reports, October 1944 to March 1945
+9ad-cca:
+  plain: one of the 9th Armored Division's three combat commands, a headquarters that led the battalions given it for an operation
+131ord:
+  plain: the 9th Armored Division's ordnance maintenance battalion, which repaired its vehicles and guns; no record of its own found yet
+2tb:
+  plain: a tank battalion of the 9th Armored Division; no record of its own found yet
+14tb:
+  plain: a tank battalion of the 9th Armored Division; no record of its own found yet
+19tb:
+  plain: a tank battalion of the 9th Armored Division; no record of its own found yet
+45id-hq:
+  plain: the command post of the 45th Infantry Division, day by day from the order of battle's table, August 1944 to May 1945
+62ca-hq1:
+  plain: the headquarters battery of the 62nd Coast Artillery (AA)'s 1st Battalion, in Algeria and Tunisia
+62ca-hq2:
+  plain: the headquarters battery of the 62nd Coast Artillery (AA)'s 2nd Battalion, from Oran to the Tunisian airfields and Sicily
+62ca-hq3:
+  plain: the headquarters battery of the 62nd Coast Artillery (AA)'s 3rd Battalion, in Algeria and Tunisia
+62ca-a:
+  plain: a 90 mm anti-aircraft gun battery, at Oran and Algiers and then in Tunisia and Sicily
+62ca-b:
+  plain: a 90 mm anti-aircraft gun battery of the 62nd Coast Artillery (AA), in Algeria and Tunisia
+62ca-d:
+  plain: an anti-aircraft battery of the 62nd Coast Artillery (AA), followed for July 1943 only, from Lake Bizerte to Sicily
+62ca-e:
+  plain: a light anti-aircraft battery of the 62nd Coast Artillery (AA), followed for July 1943 only, in Tunisia
+62ca-g:
+  plain: a light anti-aircraft battery that defended Mers-el-Kébir and then the airfields at Châteaudun-du-Rhumel and Telergma
+62ca-med:
+  plain: the aid men of the 62nd Coast Artillery (AA), a headquarters section and a section with each battalion, in Algeria and Tunisia
+62ca-h:
+  plain: a light anti-aircraft battery that landed at Algiers in January 1943 and went on through Tunisia to Sicily
+62ca-f:
+  plain: a light anti-aircraft battery of the 62nd Coast Artillery (AA), followed for July 1943 only, from Bizerte to Sicily by landing ship
+62ca-i:
+  plain: a battery of the 62nd Coast Artillery (AA)'s 3rd Battalion, followed for July 1943 only, at Bizerte
+62ca-k:
+  plain: a battery of the 62nd Coast Artillery (AA)'s 3rd Battalion, followed for July 1943 only, at Bizerte
+67ca-hq2:
+  plain: the headquarters battery of the 67th Coast Artillery (AA)'s 2nd Battalion, renamed the 894th AAA AW Battalion in March 1944, in Italy
+67ca-e:
+  plain: a light anti-aircraft battery of the 67th Coast Artillery (AA), renamed Battery A of the 894th in March 1944, from the Winter Line to Siena and back to Naples
+67ca-h:
+  plain: a light anti-aircraft battery of the 67th Coast Artillery (AA), renamed Battery D of the 894th in March 1944, from the Winter Line up Italy, January–August 1944
+67ca-f:
+  plain: a light anti-aircraft battery of the 67th Coast Artillery (AA), renamed Battery B of the 894th in March 1944, from the Winter Line up Italy, January–August 1944
+67ca-g:
+  plain: a light anti-aircraft battery of the 67th Coast Artillery (AA), renamed Battery C of the 894th in March 1944, from the Winter Line up Italy, January–August 1944
+67ca-a:
+  plain: a 90 mm anti-aircraft gun battery of the 67th Coast Artillery (AA), followed for its winter at Venafro, January–March 1944
+189fa:
+  plain: a 155 mm howitzer battalion of the 45th Infantry Division's artillery, followed for four days of April 1945 in Bavaria

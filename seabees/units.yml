@@ -1,0 +1,8 @@
+# What each battalion was, in a line, in our words (guides/OPERATIONS-VIEWER.md 2.1): units.csv gives the name as the
+# records give it; this says what kind of thing it was and where it went, in one sentence a reader without the Navy's
+# vocabulary can follow. Keyed by units.csv `unit`; tools/build_subjects.py reads it into records/subjects.json and
+# fails on a battalion without one.
+20ncb:
+  plain: a naval construction battalion (Seabees), about a thousand men who built airstrips, roads and bases, followed from Nouméa through the Solomons and New Guinea to Okinawa
+79ncb:
+  plain: a naval construction battalion (Seabees), followed for 1945 only, from Camp Parks to Saipan and Okinawa

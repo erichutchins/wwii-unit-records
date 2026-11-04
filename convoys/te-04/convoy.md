@@ -1,6 +1,7 @@
 ---
 convoy: TE-04
 name_ja: テ04
+plain: "a six-ship Yulin–Moji convoy by way of Keelung, carrying iron ore for Yawata"   # what it was, in a line, ours
 from: Yulin (楡林)
 to: Moji (門司)
 via: [Keelung (基隆)]

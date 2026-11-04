@@ -3,6 +3,7 @@ name: Randolph
 hull: CV-15
 class: Essex
 kind: carrier
+plain: "a fleet carrier of the Essex class, the flagship of her task group off Okinawa; two days of her war diary, 5 and 6 April 1945"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 max_kts: 33.0      # the class's design speed; the diary gives no higher figure
 dives: false
 

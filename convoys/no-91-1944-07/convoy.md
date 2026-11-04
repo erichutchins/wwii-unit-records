@@ -1,6 +1,7 @@
 ---
 convoy: No. 91
 name_ja: 第九一船団
+plain: "a four-ship Takao–Hong Kong convoy, known mostly from a secondary source"   # what it was, in a line, ours
 from: Takao (secondary)
 to: Hong Kong (secondary)
 via: []

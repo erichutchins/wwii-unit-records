@@ -1,6 +1,7 @@
 ---
 convoy: TAKA-206
 name_ja: タカ二〇六
+plain: "a six-ship Keelung–Naha convoy with four escorts, met by three boats of one pack"   # what it was, in a line, ours
 from: Keelung
 to: Naha
 via: []

@@ -4,6 +4,7 @@ hull: SS-312
 class: Balao
 silhouette: balao     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
 kind: submarine
+plain: "a fleet submarine of the Balao class, on her sixth war patrol, which sailed from Guam with BANG and SNOOK"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
 dives: false
 

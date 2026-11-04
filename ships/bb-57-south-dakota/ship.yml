@@ -3,6 +3,7 @@ name: South Dakota
 hull: BB-57
 class: South Dakota
 kind: battleship
+plain: "a fast battleship, followed through her war diaries from Guadalcanal in 1942 to the fast carrier force off Okinawa in 1945"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 # The diary's own speeds run to 26 kn ("2008 changed formation speed to 26 knots", 13 Nov 1942, rg367-78189543/p15);
 # 28 kn is the screen's ceiling, not a figure from the diary.
 max_kts: 28.0
