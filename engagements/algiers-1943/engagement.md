@@ -35,18 +35,7 @@ steps:
 Three nights when Battery C, 62nd Coast Artillery (AA), 4 miles west of Algiers, fired on raiders: 12 May, 13 May
 and 4 June 1943. The battery's own reports beside the RAF night fighters' record book, the city's newspaper, the
 Allied communiqués, and the attackers' side: the German Naval Staff's war diary and the Italian and German
-communiqués. Hand-edited; every entry cites its page in `ref`. Fields as in
-`records/README.md` ("An engagement"); `of` is each actor's nationality (`us`, `uk`, `fr`, `de`, `it`), and the
-press is told by its source's kind.
-
-- `events.yml`: every dated entry from either side, with the record's words in quotes. `placed` = `seq` when the
-  time isn't recorded and the row is placed by the order of the account. An entry's `step` names the step of the
-  story below it belongs to; the front matter's `steps` and `views` frame each step on the map.
-- `positions.csv`: the battery, the airfield, the harbour, and where the night fighters' kills are reported, as
-  direction and distance from the city (`from`, `brg`, `nm`), which a page resolves. Statute miles converted to
-  nautical; the distances are the records' round figures.
-- `claims.yml`: the questions the records leave open (whose fire the Ju 88 was evading on 12 May; whether the times
-  are on one clock; how many raiders were lost on 4 June; which German units flew).
+communiqués.
 
 Context, not participation: the records show the battery firing on these evenings, not what it hit. The German units
 are not yet identified (the war diary gives numbers only). The research behind this is in the family repository's
@@ -145,3 +134,16 @@ Map Service's [Alger and vicinity, sheet 3 of 7 (1942)](https://maps.princeton.e
 (Princeton University Library), placed at today's sites, except Mon Rouge, placed by the sheet's own grid reference.
 Silhouettes are drawn to show the type, not to scale or at a recorded heading. Data: this folder (every entry,
 position and claim, each citing its page).
+
+The folder's files, for anyone reading the records themselves:
+
+`events.yml`: every dated entry from either side, with the record's words in quotes. `placed` = `seq` when the
+time isn't recorded and the row is placed by the order of the account. An entry's `step` names the step of the
+story below it belongs to; the front matter's `steps` and `views` frame each step on the map.
+
+`positions.csv`: the battery, the airfield, the harbour, and where the night fighters' kills are reported, as
+direction and distance from the city (`from`, `brg`, `nm`), which a page resolves. Statute miles converted to
+nautical; the distances are the records' round figures.
+
+`claims.yml`: the questions the records leave open (whose fire the Ju 88 was evading on 12 May; whether the times
+are on one clock; how many raiders were lost on 4 June; which German units flew).

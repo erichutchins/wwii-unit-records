@@ -50,14 +50,7 @@ steps:
 
 The kamikaze hit on USS Haynsworth, on picket station 12 miles from Task Group 58.3's carriers off Okinawa, on the
 first day of Japan's mass kamikaze offensive. Her own reports beside the other ships of the group and
-the Japanese records of the planes sent against them. Hand-edited; every entry cites its page in `ref`.
-
-- `events.yml`: every timed entry, US and Japanese, in Item time. An entry's `step` names the step of the story
-  below it belongs to; the front matter's `steps` and `views` frame each step on the map.
-- `positions.csv`: fixes, and positions given as bearing and distance from another (`from`, `brg`, `nm`).
-  `hand-placed` rows are reference points placed on a modern map.
-- `claims.yml`: the evidence board. Each disputed question (when was she hit, what hit her, who flew it), each answer,
-  and what kind of evidence it is.
+the Japanese records of the planes sent against them.
 
 The ship's track for April 1945 is in [`ships/dd-700-haynsworth/`](../../ships/dd-700-haynsworth/README.md). The crew
 lists stay out of these records (see the kit's rules on people); the casualty count and the Report of Casualties page
@@ -237,3 +230,14 @@ from FM 30-30, April 1943 (Internet Archive); each cited on its shape in `silhou
 of the damage profile: the Sumner class booklet of general plans (1968) and the DD 692 class general arrangement
 (1947), BuShips plans DD692-S-01030-1 and DD692-S0101-601245. Data: this folder (every entry, position and claim,
 each citing its page) and the ship's April 1945 track in `ships/dd-700-haynsworth/`.
+
+The folder's files, for anyone reading the records themselves:
+
+`events.yml`: every timed entry, US and Japanese, in Item time. An entry's `step` names the step of the story
+below it belongs to; the front matter's `steps` and `views` frame each step on the map.
+
+`positions.csv`: fixes, and positions given as bearing and distance from another (`from`, `brg`, `nm`).
+`hand-placed` rows are reference points placed on a modern map.
+
+`claims.yml`: the evidence board. Each disputed question (when was she hit, what hit her, who flew it), each answer,
+and what kind of evidence it is.

@@ -23,12 +23,16 @@ Me 262 jets attack a formation of B-26s over the Danube at Neuburg, and three re
 describe the same five minutes: the 106th AAA AW Battalion's history (its batteries fired on the jets), the 189th Field
 Artillery Battalion's history (it watched from Bergen, just north-west of the town), and the 17th Bomb Group's three
 Missing Air Crew Reports. The German side so far is secondary: Adolf Galland's last two claims, and published accounts of
-JV 44's mission. Hand-edited; every entry cites its page in `ref`. Fields as in
-`records/README.md` ("An engagement"), with one more `weight`: `secondary` (a published
-account, not yet checked against the record it draws on).
+JV 44's mission.
 
 Clocks: the Army's B time and German summer time were both UTC+2. The MACRs' times are as typed.
 
 Still to find: JV 44's own records and the Luftwaffe's loss returns (to name the jets lost); the 17th Bomb Group's
 mission report (AFHRA); the escorting P-47 group's report; the 45th Division's G-2 periodic report for 26 April; the
 106th's journal for the day (`ok45th-17541`, around p. 27).
+
+## Sources
+
+The folder's files, for anyone reading the records themselves:
+
+`claims.yml` uses one more `weight`, `secondary`: a published account, not yet checked against the record it draws on.
