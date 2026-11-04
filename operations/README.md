@@ -7,6 +7,12 @@ dates is a lead until its own records say it took part.
 **Hand-edited Markdown, one file per operation**: `<theater>/<id>.md`, the theater itself `<theater>/index.md`.
 `operations.json` is generated from them by `tools/build_operations.py`; never edit it.
 
+The four theaters each have an `index.md` (`pacific/`, `atlantic/`, `mediterranean/`, `europe/`), which the kit's
+theatre page (`site/theatre.html?t=<theater>`) opens with. Where no official history has been read for a theater
+(the Pacific, the Atlantic), its `from` and `to` are the span the records cover, the first and last dated record of a
+subject followed there, each cited by its page, and the file has no prose: the page computes what the records hold.
+An `area` that crosses the 180th meridian writes its eastern edge above 180 (`[100, -30, 240, 50]`).
+
 ## A file
 
 ```markdown
