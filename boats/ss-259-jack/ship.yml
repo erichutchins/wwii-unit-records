@@ -4,6 +4,7 @@ hull: SS-259
 class: Gato
 silhouette: gato     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
 kind: submarine
+plain: "a fleet submarine of the Gato class, on her eighth war patrol, on lifeguard duty off Japan"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
 dives: false
 

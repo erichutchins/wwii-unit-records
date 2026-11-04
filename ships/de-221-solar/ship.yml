@@ -3,6 +3,7 @@ name: Solar
 hull: DE-221
 class: Buckley
 kind: destroyer escort
+plain: "a destroyer escort of the Buckley class that screened convoys between the United States and North Africa, followed through her war diaries"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 # Her war history (NARA 77691503) gives 23 kn, a Buckley's turbo-electric top speed; the diaries' own legs run at
 # convoy speed, 10-12 kn.
 max_kts: 23.0

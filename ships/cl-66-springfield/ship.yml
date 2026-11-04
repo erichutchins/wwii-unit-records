@@ -3,6 +3,7 @@ name: Springfield
 hull: CL-66
 class: Cleveland
 kind: cruiser
+plain: "a light cruiser of the Cleveland class in the fast carrier force off Okinawa; one day of her war diary, 6 April 1945"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 max_kts: 32.5      # design speed; the diary gives no higher figure
 dives: false
 

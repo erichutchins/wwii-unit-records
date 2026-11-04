@@ -48,6 +48,7 @@ its page (`ref`), in the forms listed in `../SOURCES.yml`.
 Hand-edited:
 
 - `units.csv`: `unit`, `name`, `note` (an outline of the battalion, with its sources)
+- `units.yml`: what each battalion was, in a line, in our words (`plain`), keyed by `unit` (guides/OPERATIONS-VIEWER.md 2.1)
 - `parts.csv`: the battalion's parts and when each existed: `unit`, `part`, `parent` (the part it
   split from), `from`, `to`, `note`. A part's position is its own rows while it existed and its
   parent's otherwise; a parent's rows dated after a part split off are the rest of it
@@ -92,7 +93,7 @@ Hand-edited:
   citation, and `tools/check_sources.py` counts the citations.
 
 Generated, never edited: `seabees.json`, the stations, parts' lines, voyages and weather for the kit's
-`site/seabees.html` (`uv run tools/build_seabees.py`, which checks every row first; it must report 0 problems).
+`site/subject.html?s=<unit>` (`uv run tools/build_seabees.py`, which checks every row first; it must report 0 problems).
 
 Generated (`python3 tools/fetch_station_weather.py seabees`):
 

@@ -60,7 +60,7 @@ the 19th (D-day) she fuelled from nobody. So the `Fuel from Essex` event row put
 The website's other photos (the attack, survivors in the water, the prisoners aboard Essex) were not captured by the Archive,
 so they can't be matched to the 80-G numbers.
 
-View it at `site/patrols.html?ship=haynsworth`. Regenerate with
+View it at `site/subject.html?s=haynsworth&view=records`. Regenerate with
 `uv run tools/check_track.py haynsworth --geojson`.
 
 ## Before November 1944: no war diary found

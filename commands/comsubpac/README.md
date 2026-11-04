@@ -16,6 +16,8 @@ transcribed from the scans and checked against them, line by line.
 
 ## Files
 
+- `command.yml`: the command as a subject of the kit's pages: its name as the diary gives it, `short`, `kind`, `of`
+  and `plain`, what it was in a line, in our words (guides/OPERATIONS-VIEWER.md 2.1).
 - `disposition.csv`: the three Disposition of Forces listings, submarines only (the tenders,
   LITCHFIELD, SEAGULL and the rescue vessels at the head of each listing are not transcribed).
   One row per boat per listing.

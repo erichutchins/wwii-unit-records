@@ -56,7 +56,7 @@ operations and others, found by searching "SOUTH DAKOTA" in the same series) and
 
 The map draws a straight line between consecutive fixes, so the untranscribed gaps (1943 from March to November, and the weeks after 18 Dec 1942 and before 21 Feb 1943) appear as long lines and count toward the page's distance figure; they are not her track. The page also shows 1 Nov 1942 - 31 Dec 1944 as one period, because a diary ship's page has one period.
 
-View it at `site/patrols.html?ship=south%20dakota` (checked in light and dark mode, no console errors; the alias has a space). Regenerate with `uv run tools/check_track.py south-dakota --geojson`.
+View it at `site/subject.html?s=south%20dakota&view=records` (checked in light and dark mode, no console errors; the alias has a space). Regenerate with `uv run tools/check_track.py south-dakota --geojson`.
 
 ## Notes by month
 

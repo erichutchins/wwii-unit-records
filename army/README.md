@@ -69,13 +69,15 @@ Hand-edited (the source of truth):
   (Oran and Algiers, 1942–43); the 128th AAA Gun Bn's engagements named in Third Army's antiaircraft reports (1944–45), entered under its HQ battery
 - `ships.csv`: the ships of the sea crossings
 - `relations.csv`: dated relationships between units (part of, attached to, under command of, took part in), each with its page
+- `units.yml`: what each unit was, in a line, in our words (`plain`), keyed by `unit` (guides/OPERATIONS-VIEWER.md 2.1): the designation in `units.csv` is the records', this is the sentence a reader is given first
+- `leads.yml`: the leads (below)
 - `routes.csv`: waypoints for legs the reports don't trace (Atlantic voyages, train rides).
   Columns: `unit`, `from_date`, `to_date` (the two stations it joins), `seq`, `lat`, `lon`,
   `note` (on the first row: why the route is drawn that way), `by` (`sea`, `rail` or `road`: how the unit travelled, which
   the map draws differently). Always drawn dashed as assumed.
 
 Generated, never edited: `army.json`, each unit's stations placed on the map (town, offset or
-grid reference), with its routes, ships and actions, for the kit's `site/army.html`; and `seafloor.csv`, the
+grid reference), with its routes, ships and actions, for the kit's `site/subject.html?s=<unit>`; and `seafloor.csv`, the
 seafloor every 2 nm under each LST crossing as the map draws it (NOAA ETOPO1, `etopo1` in `../SOURCES.yml`; the
 convoys' own courses aren't recorded, so these are depths under the drawn line), for the map's "How they
 travelled" section.
@@ -130,16 +132,10 @@ relationship and period; a change of attachment is a new row.
 
 ## Leads
 
-Statements found in research notes or secondary sources that no record cited here supports yet. They are kept
-here, not in the data, until a page says so.
-
-| Lead | Said by | Searched | Still to search |
-|---|---|---|---|
-| The 9th Armored Division's attachment to Third Army began 9 Jan 1945 (the order of battle) or 11 Jan (Third Army's Quartermaster and Antiaircraft sections): which date is right | `etoob-9AD/p502` (9 Jan); `aar3/p626` (11 Jan: "attached ... for supply and administration on 11 January, but remained assigned to the Fifteenth U. S. Army") and `aar3/p097` (the division's return to the Third Army area on 11 Jan) | Third Army's after action report, Quartermaster and Antiaircraft chapters for January (both read on the scan); the 9th Armored's own after action report and the 60th Armored Infantry Battalion's (transcribed by EUCMH, archived): no army named | The 9th Armored's G-3 and G-4 reports and journals for January 1945 (NARA RG 407, the division's 609 files); Fifteenth Army's history; Third Army's letters of instruction, January 1945 |
-| The 60th Armored Infantry Battalion's positions in April and May 1945 (to V-E Day): its own reports stop at March in the only transcription found | `eucmh60aib` (October 1944 - March 1945 only) | The EUCMH page (cached; ends with the March report); web searches for the April and May reports (1 Nov 2026: none online); the Internet Archive was offline that day, so EUCMH's other 9th Armored posts were not listed | The battalion's April and May 1945 after action reports (NARA RG 407, the division's 609 files); Paul M. Crucq, *Strike, Fight and Conquer: The History of the 60th Armored Infantry* (a battalion history, secondary); EUCMH's archived posts (`tools/wayback.py list eucmh.be`) |
-| Where Combat Command A, and the 9th Armored Division as a whole, stood on 8 May 1945 | `gi9ad` (CC A met Soviet troops near Karlsbad); `etoob-9AD/p501` (CC A with the 1st Infantry Division to 8 May); the US Holocaust Memorial Museum's encyclopedia (between Falkenau an der Eger and Cheb; secondary); an EUCMH summary without sources ("in Rudolec", 7 May; secondary, place unidentified) | The order of battle's command posts (they end at Weiden, 6 May); the G.I. Stories booklet; Third Army's after action report, vol. II (the text layer has no 9th Armored entry for May) | The 1st Infantry Division's order of battle and after action report for May 1945 (its attachments and command posts); the 9th Armored's after action report for May 1945; Third Army's vol. I, May |
-| The 131st Ordnance Maintenance Battalion's and the 2d, 14th and 19th Tank Battalions' own positions, April 1945 to inactivation | `etoob-9AD/p499` (composition only) | Web searches (1 Nov 2026): no after action report or history of the 131st online; unithistories.com repeats the order of battle | The battalions' after action reports and histories (NARA RG 407, 609-ORD-0.1 and the tank battalions' files); the 1947 *History of the 9th Armored Division* (Albert Love Enterprises; secondary) |
-| The 9th Armored Division's stations from 8 May to its return to the United States (10 Oct 1945, `almanac9ad`), and its port and ship | `almanac9ad` (the return and inactivation dates only) | The order of battle (ends 6 May); the Army Almanac | The division's history and the 1947 division history; the Army's troopship arrival lists for October 1945 |
+Statements found in research notes or secondary sources that no record cited here supports yet are in `leads.yml`
+(`statement`, `units`, `said_by`, `ref`, `searched`, `still`; the file's header says what each holds). They are kept
+there, not in the data, until a page says so; the kit's subject pages show them under the working. A lead resolved
+becomes a row and leaves the file.
 
 ## actions.csv columns
 

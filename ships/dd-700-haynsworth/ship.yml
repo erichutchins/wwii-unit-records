@@ -5,6 +5,7 @@ name: Haynsworth
 hull: DD-700
 class: Allen M. Sumner
 kind: destroyer
+plain: "a destroyer of the Allen M. Sumner class, followed through her war diaries from the fast carriers' screen to the radar picket line off Okinawa and home for repairs"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 # A Sumner-class destroyer can make 34 kn, but 25 kn is as fast as the diary says she steamed
 # (flank speed ordered during the 6 Apr 1945 attack) and catches typos that 34 would not.
 max_kts: 25.0

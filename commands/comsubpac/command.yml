@@ -1,0 +1,8 @@
+# The command as a subject (guides/OPERATIONS-VIEWER.md 2.1), hand-edited: its name as the diary gives it, and what it
+# was in a line, in our words. tools/build_subjects.py reads it into records/subjects.json with the task organization
+# (task_organization.csv) as the force's organizations.
+name: Commander Submarine Force, Pacific Fleet (Task Force Seventeen)
+short: ComSubPac
+kind: command
+of: us
+plain: the submarine force's headquarters in the Pacific, whose war diary places every boat on three days of October 1944

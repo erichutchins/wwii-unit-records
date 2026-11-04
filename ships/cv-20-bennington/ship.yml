@@ -3,6 +3,7 @@ name: Bennington
 hull: CV-20
 class: Essex
 kind: carrier
+plain: "a fleet carrier of the Essex class in the fast carrier force off Okinawa; one day of her war diary, 6 April 1945"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 max_kts: 33.0      # the class's design speed; the diary gives no higher figure
 dives: false
 

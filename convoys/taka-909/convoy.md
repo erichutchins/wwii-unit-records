@@ -1,6 +1,7 @@
 ---
 convoy: TAKA-909
 name_ja: タカ九〇九
+plain: "a Takao–Kagoshima convoy of eight or more merchantmen and five escorts as BANG counted it, its ports inferred"   # what it was, in a line, ours
 from: Takao (inferred)
 to: Kagoshima (inferred)
 via: []

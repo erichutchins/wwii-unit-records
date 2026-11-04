@@ -1,6 +1,7 @@
 ---
 convoy: HI-67
 name_ja: ヒ67
+plain: "a twelve-ship Moji–Singapore convoy of transports and tankers with nine escorts, by way of Manila"   # what it was, in a line, ours
 from: Moji
 to: Singapore (昭南)
 via: [Manila]

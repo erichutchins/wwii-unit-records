@@ -1,6 +1,7 @@
 ---
 convoy: TAMA-17
 name_ja: タマ一七
+plain: "a Takao–Manila convoy of seventeen ships and escorts, as the records and a secondary list give them"   # what it was, in a line, ours
 from: Takao
 to: Manila
 via: []

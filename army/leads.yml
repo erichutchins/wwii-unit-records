@@ -1,0 +1,71 @@
+# Leads: statements found in research notes or secondary sources that no record cited here supports yet. They are kept
+# here, not in the data, until a page says so; the kit's subject pages show them under the working (what the records
+# leave open), beside the placement table and the speed check. A lead resolved becomes a row in the CSV it belongs to
+# and leaves this file. One entry a lead:
+#   statement   what is said, and what is in question
+#   units       the unit ids (units.csv) the lead concerns
+#   said_by     who says it: the sources, each in a form in ../SOURCES.yml, with what each says
+#   ref         the citations in said_by, one a line, so tools/check_sources.py can count them
+#   searched    what has been looked at already, and what it gave
+#   still       what is still to search
+- statement: >-
+    The 9th Armored Division's attachment to Third Army began 9 Jan 1945 (the order of battle) or 11 Jan (Third Army's
+    Quartermaster and Antiaircraft sections): which date is right
+  units: [9ad]
+  said_by: >-
+    etoob-9AD/p502 (9 Jan); aar3/p626 (11 Jan: "attached ... for supply and administration on 11 January, but remained
+    assigned to the Fifteenth U. S. Army") and aar3/p097 (the division's return to the Third Army area on 11 Jan)
+  ref: [etoob-9AD/p502, aar3/p626, aar3/p097]
+  searched: >-
+    Third Army's after action report, Quartermaster and Antiaircraft chapters for January (both read on the scan); the
+    9th Armored's own after action report and the 60th Armored Infantry Battalion's (transcribed by EUCMH, archived): no
+    army named
+  still: >-
+    The 9th Armored's G-3 and G-4 reports and journals for January 1945 (NARA RG 407, the division's 609 files);
+    Fifteenth Army's history; Third Army's letters of instruction, January 1945
+- statement: >-
+    The 60th Armored Infantry Battalion's positions in April and May 1945 (to V-E Day): its own reports stop at March in
+    the only transcription found
+  units: [60aib]
+  said_by: eucmh60aib (October 1944 - March 1945 only)
+  ref: [eucmh60aib/1945-03]
+  searched: >-
+    The EUCMH page (cached; ends with the March report); web searches for the April and May reports (1 Nov 2026: none
+    online); the Internet Archive was offline that day, so EUCMH's other 9th Armored posts were not listed
+  still: >-
+    The battalion's April and May 1945 after action reports (NARA RG 407, the division's 609 files); Paul M. Crucq,
+    Strike, Fight and Conquer: The History of the 60th Armored Infantry (a battalion history, secondary); EUCMH's
+    archived posts (tools/wayback.py list eucmh.be)
+- statement: Where Combat Command A, and the 9th Armored Division as a whole, stood on 8 May 1945
+  units: [9ad, 9ad-cca]
+  said_by: >-
+    gi9ad (CC A met Soviet troops near Karlsbad); etoob-9AD/p501 (CC A with the 1st Infantry Division to 8 May); the US
+    Holocaust Memorial Museum's encyclopedia (between Falkenau an der Eger and Cheb; secondary); an EUCMH summary without
+    sources ("in Rudolec", 7 May; secondary, place unidentified)
+  ref: [gi9ad, etoob-9AD/p501]
+  searched: >-
+    The order of battle's command posts (they end at Weiden, 6 May); the G.I. Stories booklet; Third Army's after action
+    report, vol. II (the text layer has no 9th Armored entry for May)
+  still: >-
+    The 1st Infantry Division's order of battle and after action report for May 1945 (its attachments and command
+    posts); the 9th Armored's after action report for May 1945; Third Army's vol. I, May
+- statement: >-
+    The 131st Ordnance Maintenance Battalion's and the 2d, 14th and 19th Tank Battalions' own positions, April 1945 to
+    inactivation
+  units: [131ord, 2tb, 14tb, 19tb]
+  said_by: etoob-9AD/p499 (composition only)
+  ref: [etoob-9AD/p499]
+  searched: >-
+    Web searches (1 Nov 2026): no after action report or history of the 131st online; unithistories.com repeats the
+    order of battle
+  still: >-
+    The battalions' after action reports and histories (NARA RG 407, 609-ORD-0.1 and the tank battalions' files); the
+    1947 History of the 9th Armored Division (Albert Love Enterprises; secondary)
+- statement: >-
+    The 9th Armored Division's stations from 8 May to its return to the United States (10 Oct 1945, almanac9ad), and
+    its port and ship
+  units: [9ad]
+  said_by: almanac9ad (the return and inactivation dates only)
+  ref: [almanac9ad]
+  searched: The order of battle (ends 6 May); the Army Almanac
+  still: The division's history and the 1947 division history; the Army's troopship arrival lists for October 1945

@@ -1,6 +1,7 @@
 ---
 convoy: No. 3905
 name_ja: ""
+plain: "a small Yokosuka–Haha-jima convoy on the Bonins run, its route and ships from a secondary source"   # what it was, in a line, ours
 from: Yokosuka (secondary)
 to: Haha-jima (secondary)
 via: [Tateyama (secondary)]
