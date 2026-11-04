@@ -1,6 +1,28 @@
 {
  "operations": [
   {
+   "id": "atlantic",
+   "theater": "atlantic",
+   "name": "The Atlantic",
+   "short": "Atlantic",
+   "kind": "theater",
+   "from": "1944-09-01",
+   "to": "1945-10-24",
+   "area": [
+    -85,
+    17,
+    15,
+    45
+   ],
+   "area_precision": "region",
+   "ref": [
+    "rg367-78684020/p01",
+    "rg367-77595243/p04"
+   ],
+   "note": "The span is the one the records here cover, not the theater's war: USS Solar's war diaries, from her first entry (moored at Mers-el-Kebir, 1 September 1944, p01) to her last dated position (Baltimore, 24 October 1945, p04; the diary says she stayed moored there to the 31st). Area drawn by hand around the diaries' positions, the convoy route between the US east coast and North Africa. No operation is entered yet.",
+   "sections": []
+  },
+  {
    "id": "europe",
    "theater": "europe",
    "name": "Northwest Europe (the European Theater of Operations)",
@@ -663,9 +685,43 @@
      ]
     }
    ]
+  },
+  {
+   "id": "pacific",
+   "theater": "pacific",
+   "name": "The Pacific",
+   "short": "Pacific",
+   "kind": "theater",
+   "from": "1942-08-20",
+   "to": "1945-10-31",
+   "area": [
+    100,
+    -30,
+    240,
+    50
+   ],
+   "area_precision": "region",
+   "ref": [
+    "rg24-190273312/p0041",
+    "rg367-77558379/p05"
+   ],
+   "note": "The span is the one the records here cover, not the theater's war: from the first dated record of a subject followed in the Pacific (the 20th Naval Construction Battalion's first Report of Changes, its men received at Norfolk on 20 August 1942, p0041, before it crossed to the Pacific) to the last (USS Haynsworth's war diary for 31 October 1945, at Pearl Harbor, p05). Area drawn by hand around the records' positions, from the East Indies to the US west coast. No operation of the Pacific war is entered yet; the page lists what the records hold.",
+   "sections": []
   }
  ],
  "cites": {
+  "rg367-78684020/p01": {
+   "href": "https://catalog.archives.gov/id/78684020?objectPage=01",
+   "short": "National Archives",
+   "title": "National Archives Catalog",
+   "page": "01"
+  },
+  "rg367-77595243/p04": {
+   "href": "https://catalog.archives.gov/id/77595243?objectPage=04",
+   "short": "National Archives",
+   "title": "National Archives Catalog",
+   "page": "04"
+  },
   "cmh/Ardennes-Alsace/p3": {
    "href": "https://archive.org/details/Ardennes-Alsace/page/3/mode/1up",
    "short": "CMH campaign brochure",
@@ -1019,6 +1075,18 @@
    "short": "Howe",
    "title": "Northwest Africa: Seizing the Initiative in the West (United States Army in World War II: Mediterranean Theater of Operations)",
    "page": "667"
+  },
+  "rg24-190273312/p0041": {
+   "href": "https://catalog.archives.gov/id/190273312?objectPage=0041",
+   "short": "National Archives",
+   "title": "National Archives Catalog",
+   "page": "0041"
+  },
+  "rg367-77558379/p05": {
+   "href": "https://catalog.archives.gov/id/77558379?objectPage=05",
+   "short": "National Archives",
+   "title": "National Archives Catalog",
+   "page": "05"
   }
  }
 }
