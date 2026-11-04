@@ -107,6 +107,8 @@ page's lede.
 | `against` | Whom the subjects faced, as the records name them (`[de, it]`): a list of nationalities, written only when more than two meet in one frame (Algiers, where the RAF's record book and the city's paper stand beside Battery C). Left out, it is every nationality that isn't the followed subjects' own |
 | `participants` | Who took part, each with an `id` (used by events and pages), `name`, `of` (its nationality as the record gives it: `us`, `jp`, `de`, `it`, `uk`, `fr`, ...; never a bloc), `kind` (`submarine`, `destroyer`, `convoy`, `air group`, `aircraft`, `tanker`, ...), and as it applies: `track` (a boat's patrol, `ss-385-bang/1`, or a ship, `dd-700-haynsworth`: its own record, read where it is, never copied), `convoy` (a `convoys/<id>`), `hull`, `co`, `sil` (a silhouette id; a tracked ship's comes from her `ship.yml`), `unit` (an Army unit in `army/units.csv`, `kind: army`: the pages follow it from one engagement to the next), `basis` (`reported` if not given; `inferred` when no entry names the unit itself, with the reason in `note`), `note` |
 | `places` | Map labels: `name`, `lon`, `lat`, `small` |
+| `steps`, `views` | The story's steps, framed (below, "Steps") |
+| `relief`, `roads` | The map's base where the records' places sit closer than a world coastline tells: a `relief/<name>/` (or a list of them, coarse first; today's elevation, made by the kit's `build_relief.py`) and a traced road map, `roads/<name>-primary.geojson` (`relief: [algiers, algiers-town]`, `roads: oss967`) |
 
 At most three participants with a US track (the page's three checked colours). The boats' attacks, ship contacts and
 depth charges come from their own patrol folders, the Japanese records from each boat's `japanese.yml` inside the
@@ -127,8 +129,16 @@ pairing as `intelligence`, for the Sources view); `events.yml` holds only what b
 | `title`, `words` | A heading; the record's words as typed (or ours, quoting it), when the record is in English |
 | `original`, `lang`, `translation` | A record that isn't in English, instead of `words`: its words exactly as quoted, its language as a two-letter code (`de`, `it`, `fr`, `ja`), and our translation. Editorial notes go in square brackets in the translation, or in `note` |
 | `source`, `ref` | The source in words; the citation (a `SOURCES.yml` form or a URL) |
-| `pos`, `step` | A `positions.csv` id; the story page's step (haynsworth.html, algiers.html) |
+| `pos`, `step` | A `positions.csv` id; the step of the story this entry belongs to (below, "Steps") |
 | `basis`, `note` | `reported`, `derived`, `inferred`, `assumed`, `secondary`; what's assumed and why |
+
+**Steps**: the story told in steps, each setting the page's clock and map (the kit's `guides/OPERATIONS-VIEWER.md`,
+3). An entry's `step` names the step it belongs to (`s7`); the story's prose links to a step as `[[step:s7|at 1250
+she was hit]]`, and the build fails on a link to a step no entry carries. A step's time is its earliest clocked
+entry's; its framing comes from the front matter: `steps: {s7: {view: close, when: "6 April, 1245-1250"}}`, where
+`view` names one of `views: {close: {name: Haynsworth's station, box: [[129.36, 26.62], [129.86, 27.04]]}}` (`box` is
+`[[west, south], [east, north]]`) or is a box written inline, and `when` is the step's span in words. A step with no
+`view` is framed on its own entries' positions. The build writes `steps` into `engagement.json` in time order.
 
 **`claims.yml`**: the questions the records leave open. `question`, `answer`, `weight` (`record`, `photo`,
 `recollection`, `inference`, `secondary`), `source` (words), `ref` (citation), `note`. Questions with competing
