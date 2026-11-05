@@ -1,4 +1,21 @@
 # Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+- attack: Attack 1
+  record: J03
+  relation: hit
+  note: >-
+    Medan Maru (5,135 t), Manila to Takao, sunk west of the Bashi Channel at 0600 I on 27 June (J03, J04, one
+    compilation). SEAHORSE commenced firing at 0412 H (0512 I), 48 minutes earlier, at 21-21N 120-18E, at the
+    channel's western mouth, on a northbound convoy (course 340-010). The entry gives no position. Of the two
+    attacks, Medan Maru fits Attack 1 (a medium AK claimed sunk, 4,000 tons) better than Attack 2's 10,000-ton
+    tanker; the two attacks were 30 seconds apart, so the entry's time cannot separate them
+- attack: Attack 2
+  record: J03
+  relation: no_loss
+  note: >-
+    SEAHORSE claimed a large tanker (10,000 tons) sunk by Attack 2, 30 seconds after Attack 1. The June loss table
+    and the damage table (jacar:C16120659700 p21) list one ship from this convoy, Medan Maru, a cargo ship of 5,135
+    tons, and no tanker lost or damaged on the 27th or 28th. If Medan Maru was Attack 2's target, Attack 1 is the
+    no_loss instead (possible either way). Attack 1's claimed damaged AK is not in the damage table either
 - attack: Attack 3
   record: J01
   relation: hit

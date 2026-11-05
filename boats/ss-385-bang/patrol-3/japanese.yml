@@ -55,3 +55,24 @@
     puts it near 31-25N 139-51E: about 188 nm north-east of BANG's attacks (28-53N 137-42E) and of the postwar
     position combinedfleet gives (28-58N 137-45E, J01). Left as written. The time is 4 minutes after BANG's
     first salvo (1616 K = 1516 I). The convoy is not named here
+- id: J04
+  source: jacar:C16120660000
+  page: p07
+  ship: Tosei Maru No. 2
+  event: sank
+  date: 1944-09-19
+  time: '0925'
+  zone: I
+  original: >-
+    一九 0925 ✓第二東勢丸（CC貨 500t 糖?）基隆→那覇 基隆東方海面ニテ被雷 沈没 ｜ 護衛艦CD30ハ其ノ他ノ艦艇ト協同
+    此ノ潜ヲ反復攻撃 撃沈不確実
+  translation: >-
+    19th, 0925: No. 2 Tosei Maru (CC cargo, 500 t, sugar?), Keelung to Naha, torpedoed and sunk in the sea east of
+    Keelung. / The escort CD-30, with other ships, attacked this submarine repeatedly; sinking uncertain
+  note: >-
+    The Navy's day-by-day summary of escort and anti-submarine events (大東亜戦争経過概要（護衛対潜関係）), September 1944,
+    narrative for the 19th, read at 500 dpi. The same ship and the same escort as J02, and like J02 drawn from the
+    escort's reports, so it counts once with J02; it adds a time, 0925 I, 70 minutes after BANG's first salvo (0915 K =
+    0815 I). Here she sails Keelung to Naha, and the escorts' result is "sinking uncertain" where J02 has "one enemy
+    submarine sunk". The second character of her cargo is not read (糖蜜, molasses, would fit). The day's other
+    torpedo entry, 0915 Jingei 80 nm north-west of Okinawa, is not BANG's

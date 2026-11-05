@@ -1,0 +1,50 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# Convoy TAKA-206 (Keelung for Naha, 22 November 1944), from minesweeper W-15's battle report (jacar:C08030607900), the
+# record BANG's Patrol 4 uses (ss-385-bang/patrol-4/japanese.yml). Manazuru, a CHIDORI-class torpedo boat, was the
+# convoy's No. 1 ship and senior escort (p33).
+- id: J01
+  source: jacar:C08030607900
+  page: p40
+  convoy: TAKA-206
+  event: sub_sighted
+  date: 1944-11-22
+  time: '2240'
+  zone: I
+  lat_raw: 24-22N
+  lon_raw: 122-31E
+  original: 二二四〇 北緯二四度二二分東経一二二度三一分ニ於テ一番艦真鶴信号拳銃赤色一個（浮上潜水艦）ヲ認ム 配置ニ就ケ 戦速
+  translation: >-
+    2240: at N 24°22′ E 122°31′, No. 1 ship Manazuru fires one red flare (surfaced submarine); W-15 goes to
+    battle stations, battle speed
+  note: >-
+    W-15's log of the action (戦闘経過). 2240 I = 2340 K, two minutes after SHAD's Attack 1 (2338 K) and the
+    minute she dived (2340 K), about 6 nm from SHAD's position (24-16N 122-28E); the position is presumably W-15's
+- id: J02
+  source: jacar:C08030607900
+  page: p40
+  convoy: TAKA-206
+  event: attacked_no_damage
+  date: 1944-11-22
+  time: '2245'
+  zone: I
+  original: 二二四五 爆雷音聴ユ 二二四八 戦斗爆雷戦 原速 針路北六〇度東 … 二三三七 爆雷戦要具収メ 艇内哨戒第二配備
+  translation: >-
+    2245: depth-charge explosions heard. 2248: action stations, depth charges; standard speed, course N 60° E …
+    2337: depth-charge gear stowed, second watch condition
+  note: >-
+    Same log. 2245 I = 2345 K; SHAD's report has ten close depth charges from 2343 K. W-15 dropped none itself
+    before 2346 I, so the charges were another escort's, presumably Manazuru's after her flare
+- id: J03
+  source: jacar:C08030607900
+  page: p49
+  convoy: TAKA-206
+  event: sub_sighted
+  date: 1944-11-22
+  time: '2300'
+  zone: I
+  original: 此ノ附近ニ敵浮上潜水艦在リ
+  translation: An enemy surfaced submarine is in this vicinity
+  note: >-
+    Same report, signal log: Manazuru's captain to W-15, 22nd 2300 I (2400 K). At 2335 I Manazuru ordered W-15 to
+    keep a close watch astern of the convoy (p49). The report names no damage from this attack: the first ship
+    lost, Hozan Maru, was torpedoed at 2339 I, an hour later (BANG's Attack 1)

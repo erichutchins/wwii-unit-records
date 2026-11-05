@@ -284,3 +284,25 @@
     confidence; no attack on the night of 3–4 May was at 22xx I, so one or more of these is probably misread (or
     a summary). Not paired. Survivors drawn into (基隆) Keelung. Time and position left out of the columns because
     digits are illegible; they are in 'original' as read
+- id: J20
+  source: jacar:C08050105400
+  page: p10
+  ship: Taiyoku Maru
+  convoy: TE-04
+  event: sank
+  date: 1944-05-04
+  time: '0237'
+  zone: I
+  lat_raw: 20-56N
+  lon_raw: 118-04E
+  original: >-
+    一九.四.三〇 楡林 積荷八〇〇〇噸 船客六名 英霊四柱 基隆向航行中五月四日二時三十七分東経一一八度〇四分(p11)北緯二〇度五六分ニ於テ敵潜ノ雷撃ヲ受ケ沈没
+  translation: >-
+    30 April 1944, [from] Yulin, loaded 8,000 t, 6 passengers, the remains of four war dead. While bound for
+    Keelung, at 0237 on 4 May, at E 118°04′ N 20°56′, torpedoed by an enemy submarine and sank
+  note: >-
+    Taiyoku Maru's (大翼丸, combinedfleet's Daiyoku Maru) own movement log (designated-ship movement tables, 5th
+    series, タ–ワ part 2; header p9). The entry runs from the foot of p10 to the top of p11. Zone not written; taken
+    as I like the convoys' other logs. The same loss as the secondary source's J15 ("about 0300", with Shoryu
+    Maru) and the May loss list's 大翼丸 (J11): one loss, counted once. Shoryu Maru's own log (TINOSA's Patrol 6 J04)
+    puts her sinking at 0353 I, after TINOSA's Attack 3, so J15's pairing of the two at "about 0300" doesn't hold

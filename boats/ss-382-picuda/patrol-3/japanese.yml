@@ -1,0 +1,57 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# Searched (5 Nov 2026): the Navy's day-by-day summary of escort and anti-submarine events (大東亜戦争経過概要（護衛対潜関係）),
+# August 1944 (jacar:C16120659900, narrative only, no loss tables in this part) and September 1944
+# (jacar:C16120660000, narrative and tallies). Not yet searched: the 1st Surface Escort Division's war diaries for
+# August and September 1944, the convoys' escort reports (Yunagi's convoy of 25 August, the convoy of 21 September),
+# and the September loss table, which may be filed in the October part (jacar:C16120660100).
+- id: J01
+  source: jacar:C16120659900
+  page: p05
+  ship: Yunagi; ?toku Maru
+  event: sank
+  date: 1944-08-25
+  time: '1023'
+  zone: I
+  original: 二五 1023 ✓十隻船団（高雄→マニラ） ｛護衛艦 夕凪 ／ ?徳丸（C 1943t ?船）｝ ルソン北西岸ニテ敵潜ノ雷撃ニヨリ沈
+  translation: >-
+    25th, 1023: ten-ship convoy (Takao to Manila): the escort Yunagi and ?toku Maru (C [cargo], 1,943 tons, ? ship)
+    sunk by an enemy submarine's torpedoes off the north-west coast of Luzon
+  note: >-
+    The Navy's day-by-day summary of escort and anti-submarine events, August 1944, narrative (time, event, area,
+    result), read at 600 dpi. The first character of the merchant's name is not read (a top stroke over a cross-like
+    body; 寿, 亀 or 光 would fit the shape, none decided), nor the character before 船 in her description (空船,
+    "empty", would fit). The submarine and torpedo are written in the page's shorthand (a triangle for 潜, a loop
+    for 雷撃). One time for both ships. No position in figures. Compiled from signals
+- id: J02
+  source: jacar:C16120660000
+  page: p06
+  ship: No. 2 Ogura Maru; Tokushima Maru
+  event: torpedoed
+  date: 1944-09-16
+  time: '1615'
+  zone: I
+  original: 一六 1615 ✓第二小倉丸（B油 7311t 原油 12220KL）／徳島丸（A貨 5975t クローム鉱 便乗者110名） ｜ 鵞鑾鼻ノENE 20′ニテ敵潜ノ雷撃 沈 ／ 徳島丸大破
+  translation: >-
+    16th, 1615: No. 2 Ogura Maru (B [tanker], 7,311 t, 12,220 kl crude oil) and Tokushima Maru (A [cargo], 5,975 t,
+    chrome ore, 110 passengers): torpedoed by an enemy submarine 20 nm ENE of Garanbi; sunk / Tokushima Maru heavily
+    damaged
+  note: >-
+    The same summary, September 1944, narrative for the 16th; the day's only shipping loss. Read at 200 dpi. 20 nm ENE
+    of Garanbi (21-54N 120-51E) is about 22-02N 121-11E. The entry has one ship sunk (Ogura Maru, by the sentence's
+    order) and Tokushima Maru heavily damaged
+- id: J03
+  source: jacar:C16120660000
+  page: p07
+  ship: Awaji Maru; Mizuho Maru
+  event: sank
+  date: 1944-09-21
+  time: '0700'
+  zone: I
+  original: 0700〜0830 ✓淡路丸（B貨 便乗者637名 ??）／✓瑞穂丸（A貨客 8500t 部隊5300名 軍需品） ｜ ?ノ∞沈 ルソン海峡南下中（高雄→マニラ）
+  translation: >-
+    0700 to 0830: Awaji Maru (B cargo, 637 passengers, two characters not read) and Mizuho Maru (A cargo-passenger,
+    8,500 t, 5,300 troops, munitions): sunk by torpedo while southbound through the Luzon Strait (Takao to Manila)
+  note: >-
+    The same summary, September 1944, narrative for the 21st, read at 500 dpi. The result column is in the page's
+    shorthand: a sign not read, then the loop the page uses for 雷撃 (torpedo attack), then 沈 (sunk). The time is a
+    range over both ships, 0700 to 0830 (`time` is its start); which ship sank at which end is not said. No position in figures

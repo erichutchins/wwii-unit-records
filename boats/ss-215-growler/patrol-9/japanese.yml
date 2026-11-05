@@ -1,0 +1,47 @@
+# The Japanese record of this patrol's attack, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# Searched (5 Nov 2026): the 1st Surface Escort Division's war diary for June 1944 (jacar:C08030141000): its escort
+# charts have one attack mark on convoy HI-67, BANG's at 1515 on the 29th (p34), and none on the 29th on the
+# Takao-Manila route (p39, 別表第七 菲島北航路: marks on the 25th, 27th, 28th 0530 and 28th 2320 only); its June damage
+# notes (p33) list no ship sunk or damaged on the 29th north of Luzon. The Navy's day-by-day summary of escort and
+# anti-submarine events for June 1944 (jacar:C16120659700) has the entries below. Not yet searched: the Takao Guard
+# District's diary for June 1944 (not found on JACAR by 高雄警備府), a record naming Katori Maru's voyage or escort,
+# and JANAC.
+- id: J01
+  source: jacar:C16120659700
+  page: p21
+  ship: Katori Maru
+  event: sank
+  date: 1944-06-29
+  time: '0230'
+  zone: I
+  original: 二九 〇二三〇 バーシー海峡E 香取丸 回航?(?) 1923 被雷害 内地
+  translation: >-
+    29th, 0230, Bashi Channel E(ast): Katori Maru, (status not read), 1,923 tons, torpedoed; home waters
+  note: >-
+    The Navy's day-by-day summary of escort and anti-submarine events (大東亜戦争経過概要（護衛対潜関係）), June 1944,
+    table 船舶被害（沈没） (ships lost), columns date, time, place, ship, affiliation, gross tons, escorts, remarks, area. Time and tonnage in Arabic
+    figures on the page. The tonnage's second figure is written like an f; in this hand that is a 9 (the same table
+    writes Nichiho Maru's tonnage 607f, which the 1st Escort's June list gives as 6079, jacar:C08030141000 p33), so
+    1923, probable. The affiliation column is cramped: 回航 and
+    one or two characters not read. The escort column is blank. No position in figures; the place is written
+    バーシー海峡E, read as "east of the Bashi Channel"; GROWLER's attack (19-09.5N 120-37E) is south-south-west of the
+    channel, off Luzon's north-west corner, more than 100 nm from it. Two minutes after GROWLER began firing (0228 I) and
+    the minute of her first timed hit (0230-07, narrative rg367-74818866/p23). The table does not say what kind of
+    ship she was
+- id: J02
+  source: jacar:C16120659700
+  page: p16
+  ship: Tsugaru; Nichiho Maru; Toyama Maru; Katori Maru
+  event: sank
+  date: 1944-06-29
+  zone: I
+  original: 津軽 日邦丸 富山丸 香取丸 夫々敵潜ノ雷撃ヲ受ク（船舶被害表） … 沈没
+  translation: >-
+    Tsugaru, Nichiho Maru, Toyama Maru and Katori Maru each torpedoed by an enemy submarine (see the ship losses
+    table) … sunk
+  note: >-
+    Same summary, the day's entries for the 29th (the day is marked on p15, and the 30th begins at the foot of p16).
+    It repeats J01's table and counts once with it. The same day's entries list Notoro, Sarawak Maru and Miri Maru
+    torpedoed (Notoro moderate damage; Sarawak and Miri Maru moderate damage, 中破, where the escort division's own
+    notes say minor, 小破, jacar:C08030141000 p33): BANG's convoy HI-67 and FLASHER's Notoro. No other torpedoing on
+    the 29th falls north of Luzon

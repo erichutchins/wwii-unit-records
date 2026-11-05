@@ -1,0 +1,80 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# TINOSA kept zone H (GMT+8) in her narrative, one hour behind the Japanese zone I; her summary table is in GCT
+# (positions.csv). J01, J02 and J03 repeat readings first made for BANG's Patrol 1 (ss-385-bang/patrol-1/japanese.yml
+# J10, J11, J13), cited to the same pages. Searched and not found: a movement log for Toyohi Maru (豊日丸) or Daibu
+# Maru (大武丸) in the designated-ship movement tables (jacar.py search on both names, no hits); Kinrei Maru (金嶺丸) the
+# same. Read for this patrol: Shoryu Maru's log (C08050104900) and Taiyoku Maru's (C08050105400 pp. 9-11; she sank at
+# 0237 I, when TINOSA was deep, so her entry is in PARCHE's Patrol 1 file, not here).
+- id: J01
+  source: jacar:C08030140600
+  page: p30
+  convoy: TAMA-17
+  event: loss_list
+  date: 1944-04
+  zone: I
+  original: 敵潜遭遇船団名 … タマ17(2) / 被害船舶名 潜 沈没 … 竹川丸(1930) 日達丸(2859)
+  translation: >-
+    Convoys that met enemy submarines … TAMA-17 (twice). Ships sunk by submarine … Takegawa Maru (1,930 GRT),
+    Nittatsu Maru (2,859 GRT)
+  note: >-
+    1st Surface Escort Division, attached table 1 (convoy escort statistics), April 1944; the reading made for
+    BANG's Patrol 1 (its J10). TAMA-17's only two losses, both before TINOSA's attack (Takegawa Maru 2240 I on the
+    29th, Nittatsu Maru 0419 I on the 30th, both BANG's)
+- id: J02
+  source: jacar:C08030140700
+  page: p26
+  convoy: TE-04
+  event: loss_list
+  date: 1944-05
+  zone: I
+  original: 敵潜ト遭遇ノ船団名 … テ04(2) / 被害艦船名 沈没 … 金嶺丸(5947) 昌竜丸(6475) 大翼丸(5244) 豊日丸(6436) 大武丸(6440)
+  translation: >-
+    Convoys that met enemy submarines … TE-04 (twice). Ships sunk … Kinrei Maru (5,947 GRT), Shoryu Maru
+    (6,475), Taiyoku Maru (5,244), Toyohi Maru (6,436), Daibu Maru (6,440)
+  note: Same table, May 1944; the reading made for BANG's Patrol 1 (its J11). No escort lost
+- id: J03
+  source: combinedfleet:Daiyoku_t
+  ship: Toyohi Maru
+  convoy: TE-04
+  event: sank
+  date: 1944-05-04
+  time: 0008
+  zone: I
+  lat_raw: 20-50N
+  lon_raw: 118-00E
+  translation: At 0008, TINOSA torpedoes and sinks Toyohi Maru at 20-50N, 118-00E
+  note: >-
+    Secondary source (combinedfleet.com record of Daiyoku Maru), as in BANG's Patrol 1 (its J13); zone assumed I.
+    Toyohi Maru is in the escort division's May loss list (J02); no primary record of her time found
+- id: J04
+  source: jacar:C08050104900
+  page: p4
+  ship: Shoryu Maru
+  convoy: TE-04
+  event: sank
+  date: 1944-05-04
+  time: '0353'
+  zone: I
+  lat_raw: 20-54N
+  lon_raw: 118-08E
+  original: 一九.五.四 北緯二〇度五四分東経一一八度〇八分 敵潜ノ魚雷攻撃ヲ受ケ沈没(〇三.五三時)
+  translation: 4 May 1944, N 20°54′ E 118°08′, torpedoed by an enemy submarine and sank (0353)
+  note: >-
+    Shoryu Maru's own movement log (designated-ship movement tables, 5th series, ア–ソ part 11; header p2, kept by
+    the first engineer as acting master). The row before: 1944.4.30, from Sanya (三亜), loaded 9,930 t, 29
+    passengers. The time is in brackets at the foot of the entry, read 〇三.五三時; the last digit is small but reads
+    as 三. Zone not written; taken as I like the convoys' other logs
+- id: J05
+  source: combinedfleet:Daiyoku_t
+  ship: Daibu Maru
+  convoy: TE-04
+  event: sank
+  date: 1944-05-04
+  time: '0113'
+  zone: I
+  lat_raw: 20-50N
+  lon_raw: 117-55E
+  translation: At 0113, TINOSA torpedoes and sinks Daibu Maru at 20-50N, 117-55E
+  note: >-
+    Secondary source, as in BANG's Patrol 1 (its J14); zone assumed I. Daibu Maru (大武丸), 6,440 GRT, is in the May
+    loss list (J02). No primary record of her time or position found

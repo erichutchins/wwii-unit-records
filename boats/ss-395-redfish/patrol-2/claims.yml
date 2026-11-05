@@ -1,0 +1,72 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# 23 November 1944 (Attacks 1-6) and 9 and 19 December 1944 (Attacks 7-11). Attack 10 (four stern torpedoes at an
+# escorting destroyer, no hits) has no entry: Unryū's battle report (J06-J08) does not mention it.
+# Attack 2 (0129 K, three torpedoes, no hits) and Attack 6 (0712 K, four, no hits) have no entry: nothing in W-15's
+# report matches them (header of japanese.yml). J01-J02 (Hozan Maru, sunk 2337 I = 0037 K, 27 minutes before
+# REDFISH's first attack) are not paired: the postwar credit of Hozan Maru to REDFISH (janac:4/p76) does not fit the
+# times, which give her to BANG's Attacks 1-3 (ss-385-bang/patrol-4/claims.yml).
+- attack: Attack 1
+  record: J03
+  relation: possible
+  note: >-
+    REDFISH claimed an engine-aft MARU sunk, hits timed at 0106-30 K (0006 I). Two ships besides Hozan Maru were
+    lost, Amakusa Maru and Sakae Maru (J03), with no time or place in W-15's report. BANG's claimed hits in Attacks
+    2, 3, 6 and 7 fit as well; JANAC gives both ships to BANG (janac:6/p3), "probable agent"
+- attack: Attack 3
+  record: J03
+  relation: possible
+  note: >-
+    REDFISH claimed a heavily loaded AK sunk, one hit at 0143 K (0043 I). Seven minutes later BANG's Attack 6
+    claimed a medium AK in the same part of the convoy. Amakusa Maru or Sakae Maru (J03) could be either boat's
+- attack: Attack 4
+  record: J04
+  relation: possible
+  note: >-
+    No hits claimed (0540 K); depth charges heard by W-15 at 0450 I (0550 K, J04). Possibly a counterattack on
+    REDFISH; REDFISH's report would say whether she was charged then
+- attack: Attack 5
+  record: J04
+  relation: possible
+  note: Fired with Attack 4 (0540 K); same record
+- attack: Attack 7
+  record: J10
+  relation: possible
+  note: >-
+    REDFISH claimed one hit on a SHOKAKU or HAYATAKA type carrier at 0156 (31-57N 129-01E). The summary records
+    Junyō torpedoed about 50 miles south-west of Nomozaki, which fits that position, with two hits, at 0130 I. Its
+    one time is 26 minutes before Attack 7 by REDFISH's zone I (or 34 minutes after, if the J the sheet types is
+    right), and SEA DEVIL, which is not in the kit, also attacked her that night and is usually given a share of
+    the credit. Which boat's torpedoes made the two hits the summary does not say
+- attack: Attack 8
+  record: J10
+  relation: possible
+  note: >-
+    REDFISH claimed one more hit on the same carrier at 0320 (32-13N 129-13E), nearer Nomozaki. The summary's single
+    entry (0130 I, two hits) does not separate the attacks; SEA DEVIL's and REDFISH's Attack 7 could account for
+    both hits as well
+- attack: Attack 9
+  record: J06
+  relation: hit
+  note: >-
+    Four bow torpedoes at UNRYU fired 1636 I (narrative: first hit 1635.45). Unryū's lookout and hydrophone operator
+    reported a torpedo at starboard 30° at 1635 and she was hit below the bridge; her engines and power failed.
+    No other boat was there
+- attack: Attack 11
+  record: J07
+  relation: hit
+  note: >-
+    One stern torpedo at the stopped, burning carrier, hit 1650.43 by REDFISH's narrative. Unryū's report has the
+    second hit forward to starboard at 1645 with the engines stopped, setting off the cargo in her lower hangar
+    (the Ōka); the five minutes' difference is the same at the sinking (J08)
+- attack: Attack 11
+  record: J08
+  relation: hit
+  note: >-
+    Unryū sank stern up at 1657 by her report, about 1700 by the Navy's summary (J09); REDFISH's captain saw her
+    sink at 1659
+- attack: Attack 9
+  record: J09
+  relation: hit
+  note: >-
+    The summary's entry is timed 1638 and places the loss about 230 miles north-north-west of Miyako-jima; REDFISH's
+    sheets give 28-59N 124-03E. Its claim that Hinoki and Shigure certainly sank the submarine is not borne out

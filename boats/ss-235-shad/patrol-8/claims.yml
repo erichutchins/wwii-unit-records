@@ -1,0 +1,14 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+- attack: Attack 1
+  record: J01
+  relation: miss
+  note: >-
+    SHAD fired three bow torpedoes at a CHIDORI-type torpedo boat at 800 yds at 2338 K (2238 I), all missed, and
+    dived at 2340 K. Two minutes later the CHIDORI-class Manazuru fired a red flare for a surfaced submarine (J01,
+    2240 I); depth charges were heard at 2245 I (J02) against SHAD's close charges from 2343 K. No ship was lost
+    until 2339 I. Manazuru survived the convoy (she sent the 1655 I order on the 23rd, p47)
+- attack: Attack 1
+  record: J02
+  relation: miss
+  note: >-
+    The depth charges W-15 heard at 2245 I (2345 K) are the ones SHAD logged from 2343 K

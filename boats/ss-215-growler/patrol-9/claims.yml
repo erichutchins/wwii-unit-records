@@ -1,0 +1,25 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Not convoy HI-67. GROWLER tracked one large tanker with three large escorts and one small one, first on radar at 2119
+# I on 28 June at 18-50N 121-05E, course 225 (Ship 11, rg367-74818866/p31), and fired at 0228 I. HI-67 was a convoy of
+# 12 ships (jacar:C08030141000 p34), and its escort chart marks one attack on it, at 1515 on the 29th at 17-13N 118-22E
+# (BANG's, ss-385-bang/patrol-2 J01), with no mark before it that day; the escort division's June notes list no other
+# damage in that convoy (p33). A twelve-ship convoy is not one tanker with four escorts, and the chart, which marks
+# BANG's attack with its ships' names, has no attack at 0228. HI-67's position at 0228 is not on the chart (it gives
+# days, not positions).
+- attack: Attack 1
+  record: J01
+  relation: probable
+  note: >-
+    The Navy's June summary has Katori Maru, 1,923 tons (probable reading), torpedoed and sunk at 0230 I on the 29th
+    (J01, J02). GROWLER began firing at 0228 I; her first timed hit was at 0230-07 and the target's pip disappeared at
+    0234 (narrative rg367-74818866/p23). No other ship is recorded torpedoed anywhere near that minute in the summary.
+    Against: the place is written "Bashi Channel E", and GROWLER was south-south-west of the channel, off north-west
+    Luzon; GROWLER judged her a 10,000-ton tanker, and the summary gives 1,923 tons and no type. Probable, not hit,
+    until a record of Katori Maru's voyage or a position puts her at 19-09.5N 120-37E
+- attack: Attack 1
+  record: J01
+  relation: no_loss
+  note: >-
+    GROWLER also claimed a large escort (600 tons, "CHIDORI or OTORI class") sunk by her third torpedo
+    (rg367-74818866/p37). The summary's June loss table lists no escort lost on the 29th north of Luzon (J01's table,
+    jacar:C16120659700 p21; the day's entries, p16), and J01's escort column is blank

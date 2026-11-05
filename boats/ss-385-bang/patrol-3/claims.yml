@@ -1,4 +1,7 @@
 # Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# The Navy's day-by-day summary for September 1944 (jacar:C16120660000, p07) has no entry for Attack 4 (a second ship
+# on the 19th: only No. 2 Tosei Maru, J04) or for Attacks 5-6 (no shipping loss between Hatsuharu's attack on a
+# submarine at 1840 I on the 20th and 0700 I on the 21st, and none near 25-21N 123-58E). Read 5 Nov 2026.
 - attack: Attack 1
   record: J01
   relation: hit
@@ -25,3 +28,9 @@
   record: J03
   relation: possible
   note: Second salvo 16 minutes after the first; the Japanese record has both ships sunk at 1520 I
+- attack: Attack 3
+  record: J04
+  relation: hit
+  note: >-
+    The summary's entry for No. 2 Tosei Maru (J04), the same report as J02, counted once with it: sunk east of Keelung
+    at 0925 I, 70 minutes after BANG's first salvo (0815 I) at 24-56N 122-14.5E, about 30 nm east of Keelung

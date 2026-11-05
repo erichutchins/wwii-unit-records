@@ -31,3 +31,38 @@
     2nd China Expeditionary Fleet war diary, July 1944, enemy-submarine table (別図参照), read right to left; each
     position written vertically, N column then E column, in kanji numerals. Zone not stated; taken as I (Tokyo
     time), assumed. 暁勇丸 romanized Gyoyu Maru as in the secondary lists (uboat.net). Reported by Kuri
+- id: J03
+  source: jacar:C16120659700
+  page: p21
+  ship: Medan Maru
+  event: sank
+  date: 1944-06-27
+  time: '0600'
+  zone: I
+  original: 二七 0600（0152） バーシ海峡W めだん丸 5135 敵潜ノ雷撃 菲島蘭印
+  translation: >-
+    27th, 0600 (0152 written below it), west of the Bashi Channel: Medan Maru, 5,135 tons, torpedoed by an enemy
+    submarine; area Philippines and Netherlands Indies
+  note: >-
+    The Navy's day-by-day summary of escort and anti-submarine events (大東亜戦争経過概要（護衛対潜関係）), June 1944,
+    table 船舶被害（沈没） (ships lost): date, time, place, ship, affiliation, gross tons, escorts, remarks, area.
+    Figures in Arabic on the page. The affiliation and escort columns are blank. The time column has 0600 with 0152
+    below it; 0152 is the next row's time (Sansei Maru, 三星丸, 28th, Tsushima Strait) and the day's narrative (J04)
+    has 0600 only, so 0152 is read as a slip. No position in figures. No other ship is entered for the 27th or 28th
+    near the Bashi Channel, in this table or in the damage table below it (損傷), so the convoy's other ships are not
+    reported lost or damaged here. Compiled from signals: counts once with J04
+- id: J04
+  source: jacar:C16120659700
+  page: p15
+  ship: Medan Maru
+  event: sank
+  date: 1944-06-27
+  time: '0600'
+  zone: I
+  original: ✓マニラヨリ高雄ニ向ケ航行中ノ??船 めだん丸（5135t）ハ バシー海峡西側ニ於テ敵潜ノ雷撃ヲ受ク ／ めだん丸沈没
+  translation: >-
+    Medan Maru (5,135 t), on passage from Manila to Takao, was torpedoed by an enemy submarine on the west side of the
+    Bashi Channel. / Medan Maru sunk
+  note: >-
+    The same summary, June 1944, the day-by-day narrative for the 27th (time, event, area, result). Two characters
+    before 船 not read. The same compilation as J03, not an independent report

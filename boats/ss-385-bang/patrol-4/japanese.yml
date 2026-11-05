@@ -16,7 +16,9 @@
   note: >-
     Minesweeper W-15's battle report on convoy TAKA-206 (Keelung for Naha, 22 Nov; escorts Manazuru, Seki Maru,
     No. 16 Shonan Maru, W-15; ships Taiken, Hozan, Sannin, Amakusa, Eikai and Sakae Maru, p33). 戦闘経過 (log of the
-    action). 2240 I = 2340 K, 52 minutes before BANG's first surface attack 10 nm to the east; BANG or REDFISH
+    action). 2240 I = 2340 K: two minutes after SHAD fired three torpedoes at a CHIDORI-type torpedo boat (Manazuru
+    was one) at 2338 K from 24-16N 122-28E and dived at 2340 K; W-15 heard depth charges at 2245 I (2345 K), when
+    SHAD's report has ten close charges from 2343 K (SHAD's japanese.yml). Not BANG, 52 minutes before her first attack
 - id: J02
   source: jacar:C08030607900
   page: p40
@@ -77,3 +79,56 @@
   note: >-
     Secondary; follows W-15's report. US Navy chronology: BANG sinks Sakae Maru and Amakusa Maru at 24-21N
     122-28E, REDFISH sinks Hozan Maru at 24-27N 122-47E
+- id: J06
+  source: jacar:C08030607900
+  page: p41
+  convoy: TAKA-206
+  event: attacked_no_damage
+  date: 1944-11-22
+  time: '2346'
+  zone: I
+  original: >-
+    二三四六 戦斗爆雷戦 第一回爆雷攻撃 深度三〇米（使用爆雷数三個）… 〇〇〇三 探信儀右四〇度六〇〇米潜水艦ラシキモノ探知
+    〇〇〇五 第二回爆雷攻撃深度?〇米（使用爆雷数二個） 〇〇〇九 原速 … 効果検討 続イテ探知掃蕩 〇〇三〇 遭難者発見
+  translation: >-
+    2346: depth-charge action, first depth-charge attack, depth 30 m (three charges) … 0003 (23rd): sonar,
+    something like a submarine at 40° to starboard, 600 m. 0005: second depth-charge attack, depth ?0 m (two
+    charges). 0009: standard speed … assessing the result, continuing to search and sweep. 0030: survivors sighted
+  note: >-
+    W-15's log of the action, after Hozan Maru was torpedoed (J02). 2346 I = 0046 K, 0003-0005 I = 0103-0105 K.
+    W-15 stayed behind to hunt and rescue (49 rescued by 0105 I, p41) and rejoined the convoy at 0120 I, so its
+    log records nothing of BANG's later attacks. BANG was on the surface throughout; the contact was not BANG.
+    One depth figure is unclear (?)
+- id: J07
+  source: jacar:C08030607900
+  page: p50
+  ship: Hozan Maru
+  convoy: TAKA-206
+  event: rescue
+  date: 1944-11-23
+  time: '0036'
+  zone: I
+  original: 遭難船ハ二番船ノ鳳山丸
+  translation: The ship in distress is No. 2 ship, Hozan Maru
+  note: >-
+    Same report, signal log: W-15's captain to Manazuru, 23rd 0036 I (W-15 had asked at 0025 whether it might
+    lower a cutter to rescue survivors, p49). Ties the ship sunk at 2337 I (J03) to Hozan Maru. A later signal
+    (0215 I) gives W-15's count of those rescued from Hozan Maru, her master among them (p50)
+- id: J08
+  source: jacar:C08030607900
+  page: p47
+  ship: Sannin Maru; Seki Maru
+  convoy: TAKA-206
+  event: status
+  date: 1944-11-23
+  zone: I
+  lat_raw: 24-19N
+  lon_raw: 123-19E
+  original: 〇?三〇 N24°19′ E123°19′ニ於テ船浮ニ避泊セントスル関丸護衛ノ三仁丸ヲ認メ直ニ他ノ船団捜索ノタメ反転ス
+  translation: >-
+    At 0?30, at N 24°19′ E 123°19′, sighted Sannin Maru, escorted by Seki Maru, making for shelter at Funauki;
+    at once turned back to search for the rest of the convoy
+  note: >-
+    Same signal log: W-15's captain to Manazuru and the 4th Escort commander, 23rd 0750 I. The hour's second digit
+    is unclear (0?30, perhaps 0330), so the entry has no time field; it was signalled at 0750. The convoy had scattered: Sannin Maru 30 nm east of the first attack, W-15
+    searching for the others
