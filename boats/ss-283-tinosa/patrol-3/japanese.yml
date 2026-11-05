@@ -1,0 +1,186 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# The oiler Kazahaya's signals and the orders for her escort and rescue, 6-7 October 1943, from the telegram log
+# (三、令達報告等) of the 2nd Destroyer Squadron's war diary for October 1943 (第二水雷戦隊戦時日誌, jacar:C08030101300,
+# pp. 22-26). The squadron sent DesDiv 24 to her. Each entry is one telegram: its sent time and number as written; where
+# the text gives an earlier time for the event, `time` is that and the note says so. Zone I (Tokyo time), which the
+# Imperial Navy kept: the log's times fit TINOSA's narrative, in zone K, an hour apart (Attack 2 at 1201 K, Kazahaya's
+# "1105 third engagement"; the sinking at 1933 K, her "1830 sank").
+# Searched and not found: the 4 October tanker (TINOSA's Attack 1; FRUPAC has the attack, frupac.yml F01). The same log's
+# 4 and 5 October pages (pp. 19-21) have nothing on it; the 4th Fleet's war diary part for October 1943
+# (jacar:C08030018500) holds only that month's tables of ships' movements, not the narrative or the telegrams; and the
+# Navy's day-by-day summary of escort and anti-submarine events for October 1943 (大東亜戦争経過概要（護衛対潜関係）,
+# jacar:C16120658600, p03) lists nothing near Truk on the 4th, though it lists Kazahaya on the 6th (J08). A tanker
+# damaged, not sunk, may simply not have been reported that far up. Not yet searched: DesDiv 24's own diary (reported missing in
+# the squadron's November diary, jacar:C08030101400 p01), the Combined Fleet's, and the escorts on the Palau-Truk route.
+# combinedfleet.com's record of Kazahaya (Kazahaya_t, read from the Wayback copy, 5 Nov 2026) is secondary and retells
+# TINOSA's report. Where it differs from this log: it has Umikaze rescue "about 154 men" and no other ship (the log has
+# Umikaze 154 and Hatsukaze 98, J09), all sixteen of TINOSA's torpedoes as Mark 14s, and the sinking at 10-50N 148-30E.
+# Japanese Wikipedia's 風早 (給油艦) quotes the published diary of Prince Takamatsu (高松宮日記 vol. 7 p. 18) for
+# "1727缶室被雷、1830沈没" and a position of 9°56'N 148°29'E (secondary; not read here), which helped read J06.
+- id: J01
+  source: jacar:C08030101300
+  page: p22
+  ship: Kazahaya
+  event: torpedoed
+  date: 1943-10-06
+  time: '0244'
+  zone: I
+  lat_raw: 10-30N
+  lon_raw: 146-37E
+  original: YB信令第三六號 二水戦司令官ハ速ニ駆逐艦一隻ヲ派遣風早（〇二四四一〇度三〇分北一四六度三七分東ニ於テ雷撃一ヲ受ク自力航行可能）ノ護衛ニ任ゼシムベシ
+  translation: >-
+    YB signal order No. 36: the commander of the 2nd Destroyer Squadron is to send one destroyer at once to escort
+    Kazahaya (torpedoed once at 0244 at 10°30'N 146°37'E; able to proceed under her own power)
+  note: >-
+    The order of 6 October 0830 (sender YB, as written). The attack is STEELHEAD's, which is not in these records. The
+    log has one torpedo; TINOSA's report has STEELHEAD hit her three times (remarks, rg367-74856215/p16; first
+    endorsement, p34). The 1st Fleet's order of 0845 repeats the position (p23). The squadron sent DesDiv 24's Suzukaze
+    (二四駆（涼風）ハ速ニ出撃, 0910, p22), which signalled 我出撃ス, "we sortie", at 1035 (p23). TINOSA sighted the tanker at
+    0524 K (0424 I) and typed her at 10-24N 146-52E, about 15 nm east of this position (ship contact 3,
+    rg367-74856215/p13)
+- id: J02
+  source: jacar:C08030101300
+  page: p23
+  ship: Kazahaya
+  event: torpedoed
+  date: 1943-10-06
+  time: '1210'
+  zone: I
+  lat_raw: 10-30N
+  lon_raw: 148-20E
+  original: 風早機密第〇六一二一〇番電 我敵潜ノ雷撃ヲ受ク三発命中航行覚束ナシ 北緯一〇度三〇分東経一四八度二〇分
+  translation: >-
+    Kazahaya secret telegram 061210: we have been torpedoed by an enemy submarine, three hits, our ability to steam is
+    in doubt. 10°30'N 148°20'E
+  note: >-
+    1210 is the telegram's time; her later telegrams put this attack at 1105 (J04, J06), which is TINOSA's Attack 2
+    (narrative 1201 K, 1101 I; table 0204 GCT, 1104 I). The Combined Fleet's order of 1352 (p25) gives 10°30'N
+    148°20'E as her 1200 position. TINOSA's table types 10-35N 148-30E. Three hits, as TINOSA heard three explosions
+    and a dud (narrative, rg367-74856215/p06)
+- id: J03
+  source: jacar:C08030101300
+  page: p24
+  ship: Kazahaya
+  event: status
+  date: 1943-10-06
+  time: '1200'
+  zone: I
+  original: 上甲板線迄浸入傾斜十度 我速力七節敵潜水艦ツキマトフ至急飛行機駆逐艦ノ護衛ヲ乞フ
+  translation: >-
+    Flooded up to the upper-deck line, list ten degrees. Our speed seven knots. An enemy submarine is dogging us.
+    Request escort by aircraft and destroyers urgently
+  note: >-
+    Telegram of 1200 (the number is cut off at the top of the page). TINOSA at 1215 K: "Target had slowed, tracking
+    about nine knots, and was headed southwest" (rg367-74856215/p06); her remarks: "slowed her to nine knots and
+    finally to six" (p30)
+- id: J04
+  source: jacar:C08030101300
+  page: p24
+  ship: Kazahaya
+  event: status
+  date: 1943-10-06
+  time: '1400'
+  zone: I
+  lat_raw: 10-16N
+  lon_raw: 148-14E
+  original: 風早機密第〇六一四〇〇番電 一一〇五雷撃ノ敵潜水艦一隻爆雷攻撃ニ依リ確実ニ撃沈 海水上甲板ヲ洗ヒポンプ排水不可能除々ニ艦?沈下ス 北緯一〇度一六分東経一四八度一四分
+  translation: >-
+    Kazahaya secret telegram 061400: the enemy submarine that torpedoed us at 1105 certainly sunk by depth-charge
+    attack. The sea is washing the upper deck, pumping is impossible, the ship is gradually settling. 10°16'N 148°14'E
+  note: >-
+    The second figure of 1105 is faint; her telegram of 0230 on the 7th (J06) gives 1105 for the same attack. TINOSA
+    was not sunk: at 1209 K she took four depth charges, "all close", and a fire in the motor room (rg367-74856215/p06).
+    One character before 沈下ス is not read. Her telegram of 1410 (p24) gives her 2100 position as 9°50'N 148°50'E,
+    course 090, seven knots. From 1200 (J02) to this 1400 position she made about 14 nm to the south-south-west
+- id: J05
+  source: jacar:C08030101300
+  page: p25
+  ship: Kazahaya
+  event: status
+  date: 1943-10-06
+  time: '1727'
+  zone: I
+  lat_raw: 09-50N
+  lon_raw: 148-24E
+  original: 二四駆機密第〇六二〇一〇番電 二一四五風早遭難推定位置（一七二七敵潜水艦ト交戦地點九度五〇分N一四八度二四分E）ニ到着セシモ見当ラズ今ヨリ捜索ス 明朝ヨリ飛行機ノ協力ヲ得度
+  translation: >-
+    DesDiv 24 secret telegram 062010: at 2145 arrived at Kazahaya's estimated position of distress (1727, the point
+    of engagement with the enemy submarine, 9°50'N 148°24'E) but she is not in sight; now searching. Request
+    aircraft cooperation from tomorrow morning
+  note: >-
+    `time` is the engagement's, 1727. The telegram is numbered 062010 but its text reads 2145 for the arrival, so
+    one of the two is misread or mistyped; neither is used. TINOSA fired 3(a) at 1818 K (1718 I) and 3(b) at 1825 K
+    (1725 I) (rg367-74856215/p07). The position is about 13 nm south-west of the 10-01N 148-31E that TINOSA's table
+    types for every evening attack
+- id: J06
+  source: jacar:C08030101300
+  page: p26
+  ship: Kazahaya
+  event: sank
+  date: 1943-10-06
+  time: '1830'
+  zone: I
+  original: 二四駆機密第〇七〇二三〇番電 一、昨〇一〇〇以後敵潜水艦六隻ヲ見四回ニ亘リテ交戦被雷計五 二、一七二七罐室被雷一八三〇沈没 三、機密図書処分完了 四、一一〇五第三回交戦ノ際敵潜水艦一隻ヲ乗切リ爆雷攻撃効果確実
+  translation: >-
+    1. From 0100 yesterday sighted six enemy submarines and engaged them four times; torpedo hits five in all. 2. 1727
+    boiler room torpedoed, 1830 sank. 3. Disposal of secret documents completed. 4. At 1105, in the third
+    engagement, ran over one enemy submarine; depth-charge attack effective, certain
+  note: >-
+    Telegram of 7 October 0230, received 0602, its sender column 風早 (Kazahaya); the number is read as written. 1830 I is
+    1930 K: TINOSA's "1933(K) Target disappeared, sinking by the stern" (rg367-74856215/p08). Five hits in all,
+    against TINOSA's report's "at least six effective hits" of her own and three of STEELHEAD's, and the first
+    endorsement's nine (p34). If the five are J01's one and J02's three, one remains for the evening. Six submarines
+    and four engagements are her count; only TINOSA and STEELHEAD are known to have attacked her. The four characters
+    after 1727 are faint: read as 罐室被雷 (boiler room torpedoed), the first character the old form of 缶, with the help of
+    the same words in Prince Takamatsu's diary as quoted on Japanese Wikipedia (header). So the 1727 engagement of J05
+    was a hit: TINOSA's 3(b) fired at 1825 K (1725 I) at 1,350 yards, about a minute's run; 3(a) at 1818 K (1718 I),
+    nine minutes earlier, with two hits seen. No position
+- id: J07
+  source: jacar:C08030101300
+  page: p25
+  ship: Kazahaya
+  event: rescue
+  date: 1943-10-07
+  time: '0242'
+  zone: I
+  original: 二四駆機密第〇七〇二四二番電 風早艦長以下一二二名救助他ハ天明ヲ待ッテ救助附近敵潜ニ存在?算大ナリ 警戒ノ為飛行機ノ派遣ヲ得度
+  translation: >-
+    DesDiv 24 secret telegram 070242: rescued Kazahaya's captain and 122 others; the rest will be rescued at daybreak.
+    An enemy submarine is probably in the vicinity. Request aircraft for patrol
+  note: >-
+    One character not read (the phrase reads as 存在公算大, "probably present"). The rescue's totals are J09
+- id: J08
+  source: jacar:C16120658600
+  page: p03
+  ship: Kazahaya
+  event: sank
+  date: 1943-10-06
+  time: '0140'
+  zone: I
+  original: 特務艦風早（一二〇〇〇屯 一六．五節 TO）ハ単独トラックニ向ケ航行中トラックノNW二五〇′ニテ敵潜ノ襲撃ヲウク（GF） 敵一隻ヲ乗切リ有効ナル攻撃ヲ加ヘシモ前後五本ノ魚雷ヲ蒙リ一八三〇沈没
+  translation: >-
+    The special service ship Kazahaya (12,000 tons, 16.5 knots, TO), on passage alone to Truk, was attacked by an
+    enemy submarine 250 miles north-west of Truk (GF). She ran over one of the enemy and attacked it effectively, but
+    took five torpedoes in all and sank at 1830
+  note: >-
+    The Navy's day-by-day summary of escort and anti-submarine events, October 1943 (handwritten; numerals here as
+    written, in Arabic figures on the page: 12000, 16.5, 250, 1830). `time` is the entry's, 0140: the start of the
+    attacks, as her own "from 0100 yesterday" (J06). Compiled from the Combined Fleet's signals ("(GF)"), so it repeats
+    J06 and counts once with it, not as a second witness. 250 miles north-west of Truk is about 10-20N 148-50E, within
+    about 25 miles of where TINOSA's table puts her attacks of that day (10-35N 148-30E, 10-01N 148-31E)
+- id: J09
+  source: jacar:C08030101300
+  page: p27
+  ship: Kazahaya
+  event: rescue
+  date: 1943-10-07
+  zone: I
+  original: 二、救助員数海風一五四名初風九八名戦死確認セルモノ准士官以上四名下士官兵三名他ニ内火艇一隻五十余名ニ収容ス
+  translation: >-
+    2. Rescued: Umikaze 154, Hatsukaze 98. Confirmed killed: four warrant officers and above, three petty officers and
+    men. In addition one motor boat [with] fifty-odd men taken in
+  note: >-
+    The second part of a telegram of 7 October whose first part reports the rescue work finished at 0830; its sender and
+    time are at the head of the column and not read here. The last phrase is read as written; whether the fifty-odd are
+    counted in the two ships' figures is not said. A later telegram of the 7th (p29) asks for a tanker at the Haru-shima
+    anchorage to take Kazahaya's crew, 風早乗員（海風一五四初風九六）: Umikaze 154 and Hatsukaze 96, two fewer than here

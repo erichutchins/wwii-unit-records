@@ -127,11 +127,16 @@
   "class": "Gato",
   "silhouette": "gato",
   "kind": "submarine",
-  "plain": "a fleet submarine of the Gato class, on her sixth war patrol, in a pack with BANG and PARCHE in the Luzon Strait",
+  "plain": "a fleet submarine of the Gato class: her third war patrol, alone off Truk in 1943, and her sixth, in a pack with BANG and PARCHE in the Luzon Strait",
   "max_kts": 20.5,
   "dives": false,
   "geojson": "boats/ss-283-tinosa/tracks.geojson",
   "periods": [
+   {
+    "n": 3,
+    "name": "Third War Patrol",
+    "dates": "23 Sep 1943 – 16 Oct 1943"
+   },
    {
     "n": 6,
     "name": "Sixth War Patrol",

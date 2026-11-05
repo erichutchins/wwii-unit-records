@@ -1,0 +1,88 @@
+# Notes read off the FRUPAC war maps, each tied to an attack. Hand-edited; fields in records/README.md (FRUPAC).
+# One map: "FRUPAC War Map: October 3 - 6, 1943" (metapth1732841), read in the zoom viewer on 5 Nov 2026 from a
+# screenshot Eric took at the view below (the viewer is behind a bot check for the kit's tools). Positions are
+# estimated from where each mark sits against Truk's dot (taken as 7.4N 151.8E) and the overlay's 10° meridian labels,
+# about ±0.3°.
+- id: F01
+  map: metapth1732841
+  map_date: 1943-10-03
+  view: resolution=1.3161068268971252&lat=4807&lon=7698
+  text: 040830 / TORP. / 0400/4
+  dtg: '040830'
+  date: 1943-10-04
+  time: '0400'
+  lat_est: '7.9'
+  lon_est: '150.2'
+  event: torpedo_attack
+  attack: Attack 1
+  relation: match
+  note: >-
+    Blue circle on a pencilled route labelled 261615 that runs into Truk from the west-north-west. TINOSA fired four
+    at 0455 K (0355 I) on 4 October at 08-02N 150-19E (narrative, rg367-74856215/p03), about ten miles from this mark,
+    at a tanker steering 100° at 11.6 knots (ship contact 2, p13), which is along this route towards Truk. The note
+    names no ship, and none was found on the route in the view read; the Japanese side of this attack is still not
+    found (japanese.yml), so the route's 261615 (perhaps a routing message of 26 September, as F02's 271500) is the
+    lead to the ship
+- id: F02
+  map: metapth1732841
+  map_date: 1943-10-03
+  view: resolution=1.3161068268971252&lat=4807&lon=7698
+  text: 6 (a red star on the point marked 6 of the route labelled 271500; the next point 1900 / 6)
+  dtg: '271500'
+  date: 1943-10-06
+  lat_est: '9.7'
+  lon_est: '148.9'
+  event: attacked
+  attack: Attack 2
+  relation: candidate
+  note: >-
+    A route plotted from a message, its points numbered by day, ending at Truk after 1900 on the 6th; the red star
+    marks the day-6 point. Its date-time group, 271500, fits the intercept combinedfleet describes for Kazahaya (a
+    message decrypted on 27 September giving her departure from Kure on the 30th at 14.5 knots, due at Truk at 0700 on
+    the 7th): candidate, because the ship's name was not in the view read. The star is the route's planned point, not
+    a reported one: Kazahaya was torpedoed on the 6th at 0244 I at 10-30N 146-37E (STEELHEAD; japanese.yml J01), at
+    1105 I near 10-30N 148-20E (TINOSA's Attack 2; J02) and sank at 1830 I near 9-50N 148-24E (J05, J06), all within
+    about 100 nm of it
+- id: F03
+  map: metapth1732841
+  map_date: 1943-10-03
+  view: resolution=1.3161068268971252&lat=4807&lon=7698
+  text: 031029 / 0700/3 / Peris.
+  dtg: '031029'
+  date: 1943-10-03
+  time: '0700'
+  lat_est: '7.9'
+  lon_est: '151.7'
+  event: sub_sighted
+  relation: context
+  note: >-
+    Blue circle just north-west of Truk. Not TINOSA: on the morning of 3 October she was surfaced on passage
+    (narrative, rg367-74856215/p03) and, at the speed she made to her 4 October position, about 150 nm further east
+- id: F04
+  map: metapth1732841
+  map_date: 1943-10-03
+  view: resolution=1.3161068268971252&lat=4807&lon=7698
+  text: 0700/3 / 031730 / Peris.
+  dtg: '031730'
+  date: 1943-10-03
+  time: '0700'
+  lat_est: '8.1'
+  lon_est: '151.8'
+  event: sub_sighted
+  relation: context
+  note: Blue circle beside F03, perhaps a second report of the same sighting. Not TINOSA, as F03
+- id: F05
+  map: metapth1732841
+  map_date: 1943-10-03
+  view: resolution=1.3161068268971252&lat=4807&lon=7698
+  text: 060830 / 1900/5
+  dtg: '060830'
+  date: 1943-10-05
+  time: '1900'
+  lat_est: '10.6'
+  lon_est: '154.3'
+  event: sub_sighted
+  relation: context
+  note: >-
+    Blue circle north-east of Truk, the colour of F01, F03 and F04. Not TINOSA: on the 5th she was patrolling her area
+    north-west of Truk (narrative, rg367-74856215/p05)

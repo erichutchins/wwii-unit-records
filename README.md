@@ -232,7 +232,7 @@ attack has no rows.
 `attack_sheets.yml` keys, each as typed and left out where the sheet has none: `attack`, `type_attack`, `description`,
 `sunk`, `damaged`, `determined_by`, `target_line` and `own_ship` (the data lines), `spread`, `sea`, `overhaul`,
 `remarks`, `hits` (typed once for the salvo), `page`, `table_page` (the torpedo table's page), `sheet` (where one attack is typed
-on several sheets, `2(a)`, each citing its own first page), and `note` (what couldn't be read, and where the sheet
+on several sheets, `2(a)`, each citing its own first page), `column` (where a summary table numbers its columns apart from the attacks, `(4)` over `3(b)`), and `note` (what couldn't be read, and where the sheet
 disagrees with itself or the narrative). `uv run tools/check_attacks.py` recomputes every torpedo's track from own
 course, gyro and target course and lists the ones that disagree; a typed value is never changed to agree.
 

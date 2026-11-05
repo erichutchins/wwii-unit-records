@@ -1,0 +1,261 @@
+# TINOSA's third patrol report has no torpedo attack data sheets. Its attack data is the two-page "SUMMARY OF
+# SUBMARINE ATTACKS" (p19, p20), one column per attack, which attacks.csv transcribes. Hand-edited; the numbers are
+# in attacks.csv, the words here.
+# The table heads each column twice: a column number, (1) to (8), and the attack, typed 1, 2, 3(a), 3(b), 3(c), 3(d),
+# 3(e), 3(f). positions.csv and attacks.csv use the attack (Attack 3A for 3(a)); the column number is `column` here.
+# Attacks 3(a) to 3(f) are six firings at the one tanker on the evening of 6 October; Attack 2 was the same tanker's
+# morning. VII "Particulars of Attacks - Remarks" (pp. 16-18) and the narrative (pp. 03, 06-08) say what the table
+# does not: which torpedoes hit (Attack 2), and how each single shot was fired (3(c) to 3(f)). Each entry's `basis`
+# says which cells came from which page, `narrative` quotes the firing and `remarks` the Particulars. Nothing the
+# table typed was changed: where the narrative or remarks disagree, the CSV keeps the table's value and the `note`
+# gives both.
+# Every row of an attack repeats its one typed value: the table gives a single track, gyro, depth setting, range and
+# interval per attack, not one per torpedo. `interval` is the table's one interval ("8 sec."); the single shots of
+# 3(c) to 3(f) are typed 0. Times are typed "Time - GCT" (zone Z); the narrative is in zone K (GMT+10).
+# The table types the torpedoes as "Torpex Mk XVIII" and "Torpex Mk XIV": attacks.csv's `torpedo` is the mark (18,
+# 14), and the typed words are `torpedoes` here. The drafts typed as a range (20'-25', 20'-30') are left out of
+# attacks.csv and kept as `draft` here; Attack 1's single 20' is in the CSV. The spread is typed as an amount
+# ("10.5° Total", or 0 for a single shot), not a kind, so attacks.csv's `spread` is blank and the words are `spread`
+# here. Hits: the table types a count per attack; for the single shots of 3(c) to 3(f) that count is the torpedo's own
+# hit or miss, and for 3(b) the 0 makes both rows misses; elsewhere `hit` comes from the remarks or is blank.
+# The track check (tools/check_attacks.py) can't be run on these rows: neither the table nor the narrative types own
+# or target course at the moment of firing.
+
+- attack: Attack 1
+  column: (1)
+  type_attack: P R
+  torpedoes: 4-Torpex Mk XVIII
+  hits: "2"
+  sunk: "0"
+  damaged: "9525"
+  type_of_target: AO
+  shot: Bow
+  spread: 10.5° Total
+  performance_satisfactory: No 1 dud
+  location: 08-02N 150-19E
+  page: rg367-74856215/p19
+  narrative: >-
+    0449(K) Submerged to radar depth. One target, tanker similar to HUZISAN MARU, 9527 tons, picked up by
+    periscope. Sound reported two sets of reciprocating engine screws. 0455(K) Fired four torpedoes from bow
+    tubes. Lat. 08-02N Long. 150-19E. Submerged to periscope depth. 0456(K) Lost depth control. Poppet of first
+    tube fired stuck in open position. ... 0457(K) Heard one metallic hit and one loud explosion at proper time
+    intervals for hits by two torpedoes. Run was accurately known from radar ranges.
+  remarks: >-
+    This target was one of a convoy of at least two ships, accompanied by an escort. ... Only one target could be
+    seen with binoculars and only one later picked up by periscope. No escort was seen. ... The target zigged away
+    just prior to firing and the range was greater than desired. The size and draft of the target were first
+    underestimated. Two hits were heard at the proper time interval for the inner torpedoes of the spread. The
+    first was a metallic thud, heard by sound, apparently a dud. The second was a loud explosion clearly heard
+    throughout the ship.
+  basis: >-
+    Everything from the summary table, rg367-74856215/p19. hit is blank: the remarks (p16) give the hits to "the
+    inner torpedoes of the spread" but not their place in the order of firing.
+  note: >-
+    The table's 1855 GCT on 3 October is the narrative's 0455 K on 4 October (p03), and the positions agree. The
+    table claims 9525 tons damaged; the narrative and the ship contacts (p13) give the tanker as 9527 tons, "similar
+    to HUZISAN MARU". Of the two hits the table counts, one was "apparently a dud". The first endorsement (p34):
+    "two probable hits ... the evidence of two hits being obtained is very strong and it is recommended that credit
+    for damage be given"; the second (p35) recommends "1 AO (HUZISAN MARU TYPE) 9,500 tons" damaged. Five depth
+    charges followed, "none were very near" (VIII, p21).
+
+- attack: Attack 2
+  column: (2)
+  type_attack: P
+  torpedoes: 6-Torpex Mk XVIII
+  hits: "4"
+  sunk: "0"
+  damaged: 10000 plus
+  type_of_target: AO
+  draft: 20'-25'
+  shot: Bow
+  spread: 9° Total
+  performance_satisfactory: No 1 dud
+  location: 10-35N 148-30E
+  page: rg367-74856215/p19
+  narrative: >-
+    1155(K) Sound reported target slowing down. We had been tracking her at 16 knots. 1201(K) Fired six torpedoes
+    from bow tubes. 1202(K) Momentarily ducked. Heard three loud explosions plus a metallic click as of a dud
+    between first and second explosions. Explosions clearly heard through hull. 1204(K) Target began taking
+    starboard list and was down by bow. ... Depth charges and gun fire from target.
+  remarks: >-
+    In spite of having been hit with three torpedoes by the STEELHEAD the tanker was making 16 knots most of the
+    morning. About five minutes before firing she was heard to slow down and tracked at 11.5 knots. ... The first
+    four torpedoes fired, the inner ones of the spread, were heard to hit, the second being a dud. ... The target was
+    not stopped and attempts to bring the stern tubes to bear were not successful in time to fire them.
+  basis: >-
+    hit (Hit on the first four rows, Miss on the last two) from the remarks, rg367-74856215/p16, with the table's
+    count of 4; the rest from the summary table, p19.
+  note: >-
+    The second row's hit was a dud (remarks, p16; the narrative's "metallic click", p06): the table counts it among
+    its 4 hits and so does the CSV. The narrative fires at 1201 K (0201 GCT), three minutes before the table's 0204.
+    The target is the tanker of ship contact 3 (p13), first sighted at 0524 K that morning. She dropped four depth
+    charges, "all close", at 1209 K and started a fire in the motor room (narrative, p06; VIII, p21).
+
+- attack: Attack 3A
+  column: (3)
+  type_attack: P
+  torpedoes: 4-Torpex Mk XIV
+  hits: "2"
+  sunk: "0"
+  damaged: Same as (2)
+  type_of_target: AO
+  draft: 20'-30'
+  shot: Stern
+  spread: 6° Total
+  performance_satisfactory: "#*"
+  location: 10-01N 148-31E
+  page: rg367-74856215/p19
+  narrative: >-
+    1644(K) Submerged for approach. ... She started off at about nine knots zigzagging and decreased to about six
+    knots, not zigzagging, when we fired. 1818(K) Fired four torpedoes, stern tubes. Two hits.
+  remarks: >-
+    ... it was planned to fire a port track with the stern tubes, silhouetting the target against the western
+    horizon. Just as the time arrived to change course, the target changed base course to her left forcing us to use
+    a starboard track and a greater range than we wished. Four torpedoes were fired and the left-hand two were seen
+    and heard to hit, the first just abaft amidships, the second at the stern. With the spread used at least one
+    other torpedo should have hit forward. ... The explosions of the torpedoes were not nearly so loud in the
+    conning tower as previous ones had been. In fact, I did not hear them at all, but saw flames from the after hit
+    and a very large splash from the one about amidships.
+  basis: >-
+    Everything from the summary table, rg367-74856215/p19. hit is blank: the remarks (p17) say "the left-hand two"
+    hit, which is their place in the spread, not in the order of firing.
+  note: >-
+    The table types the track as 110P; the remarks say the change of the target's course forced "a starboard track".
+    The CSV keeps 110P. The narrative's 1818 K is the table's 0818 GCT. The table's footnotes: "#Should have been
+    three hits. *See VII Particulars of Attacks - Remarks."
+
+- attack: Attack 3B
+  column: (4)
+  type_attack: P
+  torpedoes: 2-Torpex MkXVIII
+  hits: "0"
+  sunk: "0"
+  damaged: Same as (2)
+  type_of_target: AO
+  draft: 20'-30'
+  shot: Bow
+  spread: 2° Total
+  performance_satisfactory: "*"
+  location: 10-01N 148-31E
+  page: rg367-74856215/p19
+  narrative: >-
+    1821(K) Target began dropping and throwing depth charges and firing with both guns. Eight depth charges in all
+    were used. Target began turn to her right as if to ram as she had done during morning attack. ... Target swung
+    past ramming course and was making about five knots. 1825(K) Fired two bow tubes. No indication of hits or
+    explosions but shortly thereafter target stopped. List had increased slightly but there was no evidence of
+    sinking. Gun fire continued.
+  remarks: >-
+    ... We fired two bow tubes as indicated in the table. The set up looked good but no explosions resulted. The
+    torpedoes were heard to run on the correct course. The target's swing was undoubtedly due to the previous hit
+    aft disabling the starboard screw. I believe these mark XVIII may have hit because shortly thereafter the ship
+    stopped dead in the water, whereas she ran for at least six minutes after attack #3a.
+  basis: >-
+    hit (Miss on both rows) from the table's 0 hits, rg367-74856215/p19; the rest from the same table.
+  note: >-
+    The table's 0 hits stands in the CSV; the commanding officer believed "these mark XVIII may have hit" (remarks,
+    p17). The narrative fires at 1825 K, a minute after the table's 0824 GCT.
+
+- attack: Attack 3C
+  column: (5)
+  type_attack: P
+  torpedoes: 1-Torpex Mk XIV
+  hits: "0"
+  sunk: "0"
+  damaged: Same as (2)
+  type_of_target: AO
+  draft: 20'-30'
+  shot: Stern
+  spread: "0"
+  performance_satisfactory: "*"
+  location: 10-01N 148-31E
+  page: rg367-74856215/p20
+  narrative: >-
+    1834(K) After maneuvering to obtain position desired fired one stern tube using 180 gyro angle, spindle
+    disengaged and 180 periscope angle. Mark XIV torpedo ran straight at target but no splash was seen. Target opened
+    fire as soon as wake of torpedo was visible and explosions of shells were numerous. Growing darker.
+  remarks: >-
+    Ship was dead in water but giving no evidence of sinking. Rapidly growing darker. Obtained position and fired one
+    mark XIV which was seen and heard to run straight to target. Used 180 gyro angle and periscope angle, spindle
+    disengaged. No evidence of explosion or hit.
+  basis: hit (Miss) from the table's 0 hits for its one torpedo, rg367-74856215/p20; the rest from the same table.
+  note: The narrative fires at 1834 K, a minute after the table's 0833 GCT.
+
+- attack: Attack 3D
+  column: (6)
+  type_attack: P
+  torpedoes: 1-Torpex Mk XIV
+  hits: "1"
+  sunk: "0"
+  damaged: Same as (2)
+  type_of_target: AO
+  draft: 20'-30'
+  shot: Stern
+  spread: "0"
+  performance_satisfactory: "Yes"
+  location: 10-01N 148-31E
+  page: rg367-74856215/p20
+  narrative: >-
+    1859(K) Boats had been lowered by target and were heard in water but occasional gun fire continued. After
+    maneuvering for position fired stern tube, using 180 gyro, spindle disengaged. Torpedo ran straight to target and
+    sound reported an explosion at proper time interval. None seen or heard by officer at periscope.
+  remarks: >-
+    Same as #3c except that sound and people in control room reported an explosion. I saw torpedo wake but no
+    evidence of explosion.
+  basis: hit (Hit) from the table's 1 hit for its one torpedo, rg367-74856215/p20; the rest from the same table.
+  note: >-
+    The table's hit rests on sound and the control room; the officer at the periscope saw none (narrative, p07). The
+    narrative's 1859 K is the table's 0859 GCT.
+
+- attack: Attack 3E
+  column: (7)
+  type_attack: P
+  torpedoes: 1-Torpex Mk XVIII
+  hits: "0"
+  sunk: "0"
+  damaged: Same as (2)
+  type_of_target: AO
+  draft: 20'-30'
+  shot: Bow
+  spread: "0"
+  performance_satisfactory: "*"
+  location: 10-01N 148-31E
+  page: rg367-74856215/p20
+  narrative: >-
+    1910(K) With gun fire still occasionally occurring and no evidence of sinking maneuvered and fired bow tube, zero
+    gyro, spindle disengaged. Sound tracked torpedo running straight for target but heard no explosion. None seen.
+  remarks: Maneuvered for bow shot. Fired zero gyro and periscope angle, spindles disengaged. No evidence of hit, visual or aural.
+  basis: hit (Miss) from the table's 0 hits for its one torpedo, rg367-74856215/p20; the rest from the same table.
+  note: The narrative fires at 1910 K, a minute after the table's 0909 GCT.
+
+- attack: Attack 3F
+  column: (8)
+  type_attack: P
+  torpedoes: 1-Torpex Mk XVIII
+  hits: "1"
+  sunk: 10000 plus same as 2
+  damaged: "0"
+  type_of_target: AO
+  draft: 20'-30'
+  shot: Bow
+  spread: "0"
+  performance_satisfactory: "Yes"
+  location: 10-01N 148-31E
+  page: rg367-74856215/p20
+  narrative: >-
+    1913(K) Fired second bow tube, same conditions. Heard to run straight for target but no explosion and none seen.
+    These two torpedoes were not even heard to hit. Target still seemed to have lots of buoyancy. 1923(K) ... Target
+    now showed first evidence of sinking, the stern being down and settling fast. 1933(K) Target disappeared, sinking
+    by the stern. STEELHEAD had made three hits on this target. We had at least six effective hits, ie. torpedoes
+    which detonated.
+  remarks: >-
+    Same as 3e. One of these last two torpedoes must have been effective because shortly thereafter the ship began
+    sinking rapidly. This might possibly have been caused by the collapse of bulkheads but there was no evidence of
+    sinking prior to attacks 3e and 3f.
+  basis: hit (Hit) from the table's 1 hit for its one torpedo, rg367-74856215/p20; the rest from the same table.
+  note: >-
+    The table types a hit and the sinking against this torpedo, but the narrative heard and saw no explosion from it
+    ("These two torpedoes were not even heard to hit", p08), and the remarks give the sinking to "one of these last
+    two" (p18): the hit is the table's inference from the sinking, not an observed hit. The CSV keeps the table's
+    Hit. In XVIII Remarks (p30) "the sound operator heard one explode" of the last four shots, which is 3(d). The
+    first endorsement (p34): "It is almost certain that the ship absorbed nine torpedo hits before sinking"; the
+    second (p35) recommends "1 AO (Type undetermined) 10,000 tons" sunk.

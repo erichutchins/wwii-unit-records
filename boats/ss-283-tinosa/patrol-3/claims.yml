@@ -1,0 +1,53 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Attack 1 (4 October, a tanker "similar to HUZISAN MARU, 9527 tons", claimed damaged) has no Japanese record yet, so
+# it has no entry (what was searched: japanese.yml's header). The evening's single shots the summary table counts as
+# misses (3B is paired below only for its time; 3C, 3E) have no record of their own: Kazahaya's log has no telegram
+# between the 1727 engagement (J05) and the summary of her loss (J06).
+- attack: Attack 2
+  record: J02
+  relation: hit
+  note: >-
+    TINOSA fired six at 1201 K (table 0204 GCT) and heard three explosions and a dud (narrative, rg367-74856215/p06);
+    Kazahaya signalled three hits at 1210 I (J02) and put the attack at 1105 I (J04, J06), TINOSA's 1201-1204 K less
+    the hour between the zones. Her 1200 position, 10-30N 148-20E, is about 11 nm from the table's 10-35N 148-30E.
+    She claimed the submarine sunk by depth charges (J04); TINOSA took four close charges at 1209 K
+- attack: Attack 3A
+  record: J05
+  relation: possible
+  note: >-
+    DesDiv 24 gives 1727 I as the time of her engagement with the submarine (J05). 3A fired four at 1818 K (1718 I),
+    two seen to hit (remarks, rg367-74856215/p17); 3B fired two at 1825 K (1725 I), none seen. The record doesn't say
+    which, so both are possible
+- attack: Attack 3B
+  record: J05
+  relation: possible
+  note: >-
+    Fired at 1825 K (1725 I) at 1,350 yards, about a minute's run before the 1727 I of J05, which Kazahaya's own
+    summary calls the boiler room torpedoed (J06). The table claims 0 hits; the commanding officer believed "these mark
+    XVIII may have hit because shortly thereafter the ship stopped dead in the water" (remarks, rg367-74856215/p17). The
+    time fits 3B better than 3A, but a minute or two in a telegram's time can't settle it, so both stay possible
+- attack: Attack 3A
+  record: J06
+  relation: probable
+  note: >-
+    Kazahaya sank at 1830 I (J06), TINOSA's 1933 K "Target disappeared, sinking by the stern" (p08). JANAC credits her
+    jointly to TINOSA and STEELHEAD (janac:6/p56: 6 October 1943, Kazahaya, tanker, 8,000 tons, 10-01N 148-31E,
+    "Tinosa Steelhead", sunk), and in the merchant list to "Submarine", not marked probable, at 8,000e tons
+    (janac:4/p45). Probable, not hit: STEELHEAD hit her first (J01), so the loss can't be given to one attack. Her own
+    count is five hits in four engagements (J06): if that is one of STEELHEAD's and three of TINOSA's morning attack,
+    one hit was made in the evening, against the four TINOSA's table claims for 3A, 3D and 3F. The second endorsement
+    credits TINOSA with "1 AO (Type undetermined) 10,000 tons" sunk (p35); her crew called her "the OBSTINATE MARU"
+    (p30)
+- attack: Attack 3D
+  record: J06
+  relation: probable
+  note: >-
+    One hit by the table, heard by sound and the control room, not seen at the periscope (rg367-74856215/p07). At
+    1859 K, 1759 I, half an hour before she sank. Probable for the same reason as 3A
+- attack: Attack 3F
+  record: J06
+  relation: probable
+  note: >-
+    The table puts the sinking against this shot ("10000 plus same as 2"), but nothing was heard or seen of it
+    (narrative, rg367-74856215/p08); the remarks give the sinking to "one of these last two torpedoes" (3E or 3F,
+    p18). At 1913 K, 1813 I, seventeen minutes before the 1830 I of J06. Probable for the same reason as 3A
