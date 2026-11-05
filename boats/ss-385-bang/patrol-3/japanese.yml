@@ -76,3 +76,55 @@
     0815 I). Here she sails Keelung to Naha, and the escorts' result is "sinking uncertain" where J02 has "one enemy
     submarine sunk". The second character of her cargo is not read (糖蜜, molasses, would fit). The day's other
     torpedo entry, 0915 Jingei 80 nm north-west of Okinawa, is not BANG's
+- id: J05
+  source: jacar:C16120660000
+  page: p07
+  event: sub_sighted
+  date: 1944-09-20
+  time: '1630'
+  zone: I
+  original: >-
+    二〇 1630 ✓?×4 / 953fg 基隆ノNE方ニ於テ船団護衛中 敵潜ノ油紋発見 護衛艦ト協同攻撃 ｜ 撃沈確実
+  translation: >-
+    20th, 1630: ? x 4 (aircraft) of the 953rd Air Group, escorting a convoy north-east of Keelung, found an enemy
+    submarine's oil slick and attacked it together with the escort ships. / Sinking certain
+  note: >-
+    The Navy's day-by-day summary of escort and anti-submarine events, September 1944, narrative for the 20th
+    (same page as J04). The character before ×4 (probably the aircraft type) is not read. No position, no convoy
+    name and no ship hit. The day's other entry, 1840 I, is Hatsuharu's attack on a submarine about 30 nm WSW of
+    Iki (壱岐), off Kyushu, not in this area. Zone not stated; taken as I (Tokyo), assumed
+- id: J06
+  source: jacar:C08030144100
+  page: p05
+  convoy: TAKA-909
+  event: status
+  date: 1944-09-19
+  zone: I
+  original: >-
+    （二）直接護衛 … 一九 タカ九〇九 一〇 三四〇四九 海防三〇、掃一五、第三拓南丸、七利丸、太安丸、三号太平丸 基隆─鹿児島
+    那覇─鹿児島
+  translation: >-
+    (2) Direct escort … 19th: convoy TAKA-909, 10 ships, 34,049 tons; escorts CD-30, W-15, No. 3 Takunan Maru,
+    Shichiri Maru, Taian Maru, No. 3 Taihei Maru; Keelung to Kagoshima, Naha to Kagoshima
+  note: >-
+    4th Surface Escort Division / Okinawa Base Force war diary, September 1944, 一 経過 (二) 我ガ軍ノ状況 (イ) 海上護衛
+    (2) 直接護衛, the table of convoys escorted (begins p04; columns: day, convoy, ships, tons, escorts, section).
+    Read at 300 dpi. The day column's header is not read; for TAKA-909 it is the day of the attack, and probably
+    the sailing from Keelung. Two sections are written in the route cell, one under the other; the first reads
+    基隆─鹿児島 (the small 鹿児島 not certain). It is the only convoy in the table between the 15th and the 23rd on
+    the Keelung lanes: KANA-402 (14th) is Kagoshima-Naha, TANA-304 (23rd) Miyako-Naha-Koniya, KATA-411 (24th)
+    Kagoshima-Keelung. The table gives no losses and no arrival. Ten ships against BANG's count on the 19th of
+    eight merchantmen and five or more escorts
+- id: J07
+  source: jacar:C08030144100
+  page: p12
+  event: status
+  date: 1944-09-20
+  zone: I
+  original: 〇四〇〇以後第二警戒配備 一四二三 第?警戒配備
+  translation: From 0400, second alert stations. 1423, ? alert stations
+  note: >-
+    The same diary's 作戦経過概要 (daily operations summary), column 20 (read at 300 dpi); the digit in 第?警戒配備
+    is not read. Column 21 (p13): from now on second alert stations daily 0300-0700; ships in Naha harbour dispersed
+    (当分ノ間毎日〇三〇〇ヨリ〇七〇〇間第二警戒配備 那覇在泊艦船疎開実施). Columns 22 and 23: alert stations, and TANA-304 and
+    KATA-411 escorted. No attack on a convoy, no loss and no TAKA-909 arrival is entered for the 20th to the 23rd

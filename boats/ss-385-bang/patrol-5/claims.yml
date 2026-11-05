@@ -1,0 +1,8 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Attack 1 (1326 I, 10 February 1945, 36-55N 124-01E, three Mk 14s at a small freighter, all missed, no damage claimed)
+# is not paired with J01: J01 (?hei Maru sunk on the 10th) gives no time and no place, and BANG claimed no hit, so
+# nothing ties it to her. Nor is it a miss (the summary records losses, not attacks that did no harm): the summary
+# has no entry for an attack in the Yellow Sea that day. Read 5 Nov 2026.
+# Still unpaired after the ship-movement telegram file (jacar:C19010071800) and the 1st Escort Fleet's February
+# loss table (jacar:C08030142100 p46); J01 is not identified as 昌平丸 and stays in this file (see japanese.yml).
+[]

@@ -57,8 +57,9 @@ attacked her and claimed "one enemy submarine sunk"; BANG surfaced that night af
 
 ## The convoy
 
-Takao to Kagoshima (inferred). The 4th Surface Escort Division's war diary names the escorts and only the ship sunk;
-BANG saw 8 merchantmen including an AO, and 5 or more escorts. The convoy's own record: [[convoy:taka-909]].
+Keelung to Kagoshima, with a section from Naha: ten ships of 34,049 tons under six escorts, in the 4th Surface Escort
+Division's table of convoys given air cover (jacar:C08030144100 p05). The same diary names the escorts and only the
+ship sunk; BANG saw 8 merchantmen including an AO, and 5 or more escorts. The convoy's own record: [[convoy:taka-909]].
 
 ## Reading the map
 

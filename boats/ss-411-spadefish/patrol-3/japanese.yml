@@ -1,0 +1,72 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# Searched (5 Nov 2026): the Navy's day-by-day summary of escort and anti-submarine events (大東亜戦争経過概要（護衛対潜関係）),
+# January 1945 (jacar:C16120660400, pp. 11-12: the 27th to 2 February) and February 1945 (jacar:C16120660500, pp. 01-04:
+# 31 January to the 10th), read at 200 dpi. Neither part has a ship-loss table (January's p04 is a summary of forces,
+# February's pp. 06-08 are tables of forces; the series ends with February 1945). The narrative has no entry in the
+# Yellow Sea, off Korea or off Port Arthur on 28 January, 31 January, 1-2 February, 4 February or 6 February: the
+# shipping entries on those days are off Luzon, in the Bashi Channel, off Java, in the Balabac Strait, off Borneo and
+# Indochina, and at 29-03N 141-32E (CD12, 6 February). Nothing in the summary.
+# Searched (5 Nov 2026, L99): the 103rd Squadron's war diary (第百三戦隊戦時日誌, formed 20 January 1945 in the 1st Escort
+# Fleet, with Kume), 20-31 January (jacar:C08030075600, all 38 pages at 80 dpi; pp. 05, 08, 13 and 14 at 220-400 dpi):
+# J01-J02. Its February part is not in the file (part 2, jacar:C08030075700, is March; part 3, C08030075800, March's
+# signals). Not on JACAR: the Chinkai Guard District's diary after July 1944 (the last is jacar:C08030736700, July
+# 1944) and the Ryojun Area Special Base Force's before April 1945 (C08030282000).
+# Searched (5 Nov 2026, L99): the ship-movement telegram file for February-April 1945 (艦船行動電報綴, jacar:C19010071800,
+# 15 parts, C19010072100-073500). It is the Navy's own ships' arrival and departure telegrams, one form per page,
+# filed by ship (筑紫丸, 隠岐, 三宅, transports, submarines; parts 4 and 7 read, pp. 01-36, at 80 dpi), not losses.
+# JACAR's OCR of all 15 parts has no 被雷, 撃沈, 遭難 or 救助, and no 大連, 旅順, 青島, 仁川, 群山 or 木浦; 鎮海 only in part 7
+# (Oki's arrival, March). Nothing for Attacks 3-6. Also read: the 1st Escort Fleet's diary (第一護衛艦隊戦時日誌),
+# January (jacar:C08030142000, p50, the ship-loss table, 300 dpi) and February 1945 (jacar:C08030142100, p06 and p46,
+# 300 dpi). Its loss tables cover only its own convoys on the Formosa, China coast and Indochina routes: January's
+# lists four ships sunk by submarine (none in the Yellow Sea, and not Sanuki Maru, J01); February's lists six
+# merchant ships and five warships sunk by submarine, all off Malaya, Indochina and Hainan except CD9 (海9), sunk on
+# the 14th at 2200 at 33-4?N 125-37E (a single ship, not in this patrol's dates). So the Yellow Sea's convoys are
+# not in it, and its silence is no evidence. Shohei Maru (昌平丸) and Tairai Maru (泰莱丸), given by Wikipedia (a
+# finding aid only) to Attacks 6 and 5, are found nowhere on JACAR for 1945 (catalogue search: only pre-war records
+# for 昌平丸, nothing for 泰莱丸). Next: the Ryojun and Chinkai commands' telegram files (電報綴) for February 1945, if
+# any exist; the Grand Escort Command's (海上護衛総司令部) February 1945 diary or loss returns.
+- id: J01
+  source: jacar:C08030075600
+  page: p13
+  ship: Sanuki Maru
+  event: torpedoed
+  date: 1945-01-27
+  time: '0232'
+  zone: I
+  lat_raw: 33-55N
+  lon_raw: 122-55E
+  original: 機密第二八〇九二七番電 發久米艦長 二七日〇二三二N33-55 E122-55ニ於テ讃岐丸被雷セルヲ以テ轉舵攻撃ニ向フ途
+  translation: >-
+    Secret telegram 280927, from the captain of Kume: at 0232 on the 27th, at N33-55 E122-55, Sanuki Maru having been
+    torpedoed, [Kume] turned to attack, and on the way ...
+  note: >-
+    The 103rd Squadron's war diary, signals table (三、令達報告等), Kume's captain's telegram of the 28th at 0927, to the
+    squadron commander, the Grand Escort Command (GEB), the 1st Escort Fleet, Sasebo, the 11th convoy's commander and
+    (in brackets) the Chinkai Guard District. Read at 300 dpi. The telegram says the 27th; it was sent on the 28th, and
+    the diary's narrative (p05) and SPADEFISH both have the attack in the small hours, SPADEFISH on the 28th (see
+    claims.yml). The convoy is the 11th (第十一船團), as the addressee line has it
+- id: J02
+  source: jacar:C08030075600
+  page: p13
+  ship: Kume
+  event: sank
+  date: 1945-01-27
+  time: '0235'
+  zone: I
+  lat_raw: 33-54N
+  lon_raw: 122-55E
+  original: >-
+    〇二三五機械室中央ニ被雷炸裂火災ヲ生ゼリ極力防火ニ努メタルモ及バズ火勢全艦ニ蔓延艦体左舷ニ傾キ沈没ニ瀕セルヲ以テ〇五三〇
+    總員退艦ヲ命ゼリ其ノ後〇七五〇N33-54 E122-55ノ位置ニ沈没セリ。機密書類ハ全部格納筐ニ收納鎖鑰ヲ施シタル儘沈没セリ
+    敵手ニ渡ル虞ナキモノト認ム 生存者准士官以上三名下士官兵六四名
+  translation: >-
+    At 0235 a torpedo struck amidships in the engine room and exploded, starting a fire. We fought the fire to the
+    utmost, but in vain; it spread through the whole ship, she listed to port and was about to sink, so at 0530 all
+    hands were ordered to abandon ship. She then sank at 0750 at N33-54 E122-55. The secret papers all went down
+    locked in their cases; we judge there is no danger of their falling into enemy hands. Survivors: three warrant
+    officers and above, 64 petty officers and men. (Positions written N33-55 E122-55 and N33-54 E122-55.)
+  note: >-
+    The rest of Kume's telegram (J01), read at 300 dpi; the last lines (from 機密書類) run on to p14. The diary's narrative (p05, read
+    at 400 dpi) has 一月二十七日 海防艦久米護衛作戦ニ従事中北緯三三度五四分東経一二二度五五分ニ於テ被雷沈没 (27 January: the
+    escort ship Kume, on escort operations, torpedoed and sunk at 33°54'N 122°55'E); its table of the ships'
+    movements (p08) marks 沈没 for Kume on the line between the 27th and the 28th

@@ -1,0 +1,33 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# Searched (5 Nov 2026): the Navy's day-by-day summary of escort and anti-submarine events (大東亜戦争経過概要（護衛対潜関係）),
+# February 1945 (jacar:C16120660500, p04, the 8th to the 10th), read at 200 and 400 dpi. The February part has no
+# ship-loss table (pp. 06-08 are tables of forces; the series ends with this month). The 10th's only shipping loss is
+# J01, with no time and no place. Not searched yet: the Yellow Sea and Korean commands' war diaries for February 1945.
+# Searched (5 Nov 2026, L99): the 103rd Squadron's war diary (its February is not in the file: jacar:C08030075600 is
+# January, C08030075700 March). Not on JACAR: the Chinkai Guard District's diary after July 1944, the Ryojun Area
+# Special Base Force's before April 1945. Searched (5 Nov 2026, L99): the ship-movement telegram file for
+# February-April 1945 (艦船行動電報綴, jacar:C19010071800, 15 parts): the Navy's own ships' movements, no losses, no
+# Yellow Sea ports in its OCR; and the 1st Escort Fleet's February 1945 diary (jacar:C08030142100, p46, its loss
+# table, 300 dpi), which covers only the southern routes and has no ship lost on the 10th. Neither names 昌平丸 or any
+# ?平丸, so J01 stays here, unplaced, and is not moved to SPADEFISH (SPADEFISH's Patrol 3 file says the same). The
+# entry above J01 in the summary, 大暁丸 sunk (the 9th), is in the 1st Escort Fleet's table as 大暁丸, 6,600 t, sunk 7
+# February 0450 at 06-56N 106-20E in convoy ヒ88D (p46): off Indochina, so the summary's days are the days the
+# losses were reported, not when they happened, and J01's 10th may be earlier. A lead for J01, not a reading: Wikipedia (finding aid
+# only) has SPADEFISH sinking Shohei Maru (昌平丸) off Port Arthur on 6 February, and 昌 is one of the shapes the first
+# character fits; if so, J01 is SPADEFISH's Attack 6 entered late, not BANG's. JACAR's catalogue has only pre-war
+# records for 昌平丸.
+- id: J01
+  source: jacar:C16120660500
+  page: p04
+  ship: ?hei Maru
+  event: sank
+  date: 1945-02-10
+  zone: I
+  original: ✓?平丸 沈
+  translation: '?hei Maru: sunk'
+  note: >-
+    The Navy's day-by-day summary, February 1945, narrative for the 10th (after Manila, Legaspi, RO-46 and Mikura's
+    collision with CD33 at 23-51N 117-52E), read at 400 dpi. A tick (a shipping loss), the name and 沈 (sunk); no
+    time, no place, no cause, no tonnage. The first character of the name is not read (a box over a box; 高 or 昌
+    would fit the shape, not decided). The entry above it, on the 9th, is ✓大暁丸 沈没 (Taigyo? Maru sunk), also
+    without time or place. Compiled from signals

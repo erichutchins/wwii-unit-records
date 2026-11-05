@@ -1,0 +1,32 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# The 103rd Squadron's war diary (jacar:C08030075600, L99) has Kume's captain's telegram: Sanuki Maru torpedoed at
+# 0232 and Kume at 0235 (J01, J02). Attacks 1-2 are paired; Attacks 3-6 are not (the squadron's February is not in
+# the file). Attacks 3-6 are still unpaired after the ship-movement telegram file (jacar:C19010071800) and the 1st
+# Escort Fleet's January-February 1945 loss tables (jacar:C08030142000 p50, C08030142100 p46), which cover other
+# routes (see japanese.yml). Earlier note, kept:
+# The Navy's day-by-day summary for January and February 1945 (jacar:C16120660400 pp. 11-12, jacar:C16120660500
+# pp. 01-04) has no entry for any of the six attacks: none for Attacks 1-2 (0231-0233 I, 28 January, 33-56N 123-06E,
+# a large AK claimed sunk and a second damaged or probably sunk), Attack 3 (0452 I, 31 January, 34-13N 122-28E, a PC
+# claimed), Attack 4 (1348 I, 2 February, no hits claimed), Attack 5 (1654-1707 I, 4 February, 37-18N 125-22E, an AK
+# seen to sink at 1728) or Attack 6 (1315 I, 6 February, 38-44N 121-23E, an AK seen to sink at 1326 off Port Arthur).
+# The summary's entries come from the Navy's signals; losses in the Yellow Sea and off Korea, reported through the
+# Chinkai and Ryojun commands, may not have reached it, so no entry is not evidence that no ship sank.
+# Read 5 Nov 2026.
+- attack: Attack 1
+  record: J01
+  relation: hit
+  note: >-
+    SPADEFISH fired three at a large AK at 0231 I and saw all three hit (attack sheet, rg367-74850282/p24); Kume's
+    captain has Sanuki Maru torpedoed at 0232 at 33-55N 122-55E (J01), about 9 nm west of the sheet's 33-56N
+    123-06E. The minute and the place agree. The telegram dates it the 27th, SPADEFISH the 28th (zone I both); the
+    telegram was sent on the 28th at 0927 and the diary's movement table puts Kume's loss on the line between the 27th
+    and the 28th, so the day is in doubt, not the attack. The telegram doesn't say Sanuki Maru sank (Wikipedia, a
+    finding aid, says she did)
+- attack: Attack 2
+  record: J02
+  relation: hit
+  note: >-
+    Fired four from the stern tubes at 0233 I, one hit and one probable (attack sheet, rg367-74850282/p26), at a second ship
+    taken for an AK. Kume, turning to attack after Sanuki Maru was hit, was torpedoed in the engine room at 0235,
+    burned, and sank at 0750 at 33-54N 122-55E (J02). SPADEFISH's second target was the escort, not a freighter; the
+    same doubt over the day as Attack 1

@@ -84,3 +84,19 @@
     of SEAHORSE patrol 5 J01-J02 (第九一船団). 乃至 read from a cramped hand. The estimate of two or three is the
     diary's. From the US side, SEAHORSE and BANG attacked a convoy there that day; that is not corroboration of
     the diary's count
+- id: J06
+  source: jacar:C08030275400
+  page: p04
+  event: sub_sighted
+  date: 1944-06-14
+  zone: I
+  original: 十四 一?〇〇 〃 〃 二?度三〇分 一四四度三〇分 其ノ他 敵潜ノ存在確実
+  translation: '14th, 1?00, N 2?°30′ E 144°30′: other (type of report); presence of an enemy submarine certain'
+  note: >-
+    Chichijima Area Special Base Force war diary, June 1944, 一 経過 (一) 敵情 (二) 近海ニ於ケル敵潜水艦ノ出没状況 (enemy
+    submarines in nearby waters), a table of date, time, position (北緯 right, 東経 left), kind and remarks. The
+    hour's second digit is a cursive stroke read as 六 or 七 and left unread (1600 or 1700); the latitude's
+    second digit is 二 or 三. The 14th has two other rows: 1120, N 23°40′ E 142°30′, 測定 精度B (a direction-finding
+    fix, accuracy B), and 2259, about N 29° E 141°, 発見 (sighted), 天草 and 能美 suppressing. The table has no
+    torpedo attack on the 14th: its 雷撃 rows in June are Akiyama Maru damaged (7th) and Matsukaze sunk (9th).
+    Zone not stated; taken as I (Tokyo), assumed. Time and position left out of the fields (each has a digit unread); they are in `original`

@@ -2,6 +2,26 @@
 # The Navy's day-by-day summary for September 1944 (jacar:C16120660000, p07) has no entry for Attack 4 (a second ship
 # on the 19th: only No. 2 Tosei Maru, J04) or for Attacks 5-6 (no shipping loss between Hatsuharu's attack on a
 # submarine at 1840 I on the 20th and 0700 I on the 21st, and none near 25-21N 123-58E). Read 5 Nov 2026.
+# The same page has, at 1630 I on the 20th, aircraft of the 953rd Air Group escorting a convoy north-east of Keelung
+# (J05): context, not paired. It is an air attack on an oil slick seven hours before BANG fired, with no convoy
+# named and no position, so it isn't a record of Attacks 5-6; it shows escorted traffic north-east of Keelung that
+# afternoon, as BANG found. JACAR has no war diary for the Takao or Mako Guard Districts or the
+# Grand Escort Command for September 1944 under those names. The Sasebo Guard District's diary on JACAR ends with March
+# 1944 (C08030352900) and the Sasebo Guard Squadron's with 9 April 1944 (C08030373800), though the diaries put No. 3
+# Takunan Maru (a TAKA-909 escort) under Sasebo's command. The 1st Surface Escort Division's September diary
+# (C08030141500, read 5 Nov 2026: narrative pp. 03-14, ships' movements table pp. 19-21, ships under command p17) has
+# no convoy and no attack east or north-east of Keelung on the 19th-21st: its convoys that week were in the Luzon
+# Strait and off Manila (MATA-27, MI convoys), and its one ship near Keelung, the torpedo boat Sagi (under the China
+# Area Fleet), ran Keelung to Shanghai about the 17th-21st (p20, read at 200 dpi). The 4th Surface Escort
+# Division's table of convoys escorted (J06) has TAKA-909 as the only convoy on the Keelung lanes from the 15th to
+# the 23rd, and its daily summary (J07) no attack or loss on the 20th-23rd. Attacks 5-6 are not paired: no record
+# names the convoy BANG fired at. A lead, not a pairing: TAKA-909 again (her contact at 1555 I at 25-07N 122-57E and
+# her attack at 2315 I at 25-21N 123-58E both lie about 15 nm south of the Keelung-Naha line, and the 953rd Air
+# Group was escorting a convoy north-east of Keelung at 1630 I, J05), but only if it put back after the 19th's
+# attack (24-54N 122-23E, 39 hours and 90 nm earlier, about 2.3 knots) and sailed again, which no record read says;
+# BANG counted a smaller convoy that night (one AO, five merchantmen, three or more escorts). No loss is recorded
+# that night (J07; the Navy's summary, J04's page) against her claims of an AK and an AO sunk. Nothing in either diary for a second ship on the 19th
+# (Attack 4): the 4th's table and daily summary name only No. 2 Tosei Maru. 5 Nov 2026.
 - attack: Attack 1
   record: J01
   relation: hit
