@@ -24,13 +24,13 @@
     (janac:4/p58; janac:6/p3)
 - attack: Attack 5
   record: J12
-  relation: possible
+  relation: no_loss
   note: >-
-    JANAC credits BANG with Kinrei Maru (janac:6/p3), but marks the agent "Submarine*", "*Probable Agent"
-    (janac:4/p59): a probable credit, not a certain one. The secondary source's 0106 I for her sinking is the
-    minute PARCHE fired her Attack 2. BANG fired at 0232 I, after PARCHE and TINOSA had scattered the convoy (her own words);
-    the losses timed about 0300 (J15) are the nearer match. Taiyoku Maru's own log (J20) now times a loss at 0237
-    I, five minutes after this attack, which leaves Kinrei Maru to PARCHE's attacks at 0106-0127 I (inferred)
+    Not BANG's. Kinrei Maru's own log has her torpedoed and sunk at 0109 I at 20-42N 118-01E, bound for Keelung
+    (jacar:C08050104500 p30; PARCHE's Patrol 1 J08), 83 minutes before BANG's only attack that night (0232 I) and three
+    minutes after PARCHE fired her Attack 2 (0106 I). JANAC credits BANG with Kinrei Maru, as probable ("Submarine*";
+    janac:4/p59; janac:6/p3); the ship's log doesn't support it. The secondary source's 0106 I (J12) was near the log's
+    time. Taiyoku Maru (J20, 0237 I) is the loss that fits this attack
 - attack: Attack 5
   record: J15
   relation: possible

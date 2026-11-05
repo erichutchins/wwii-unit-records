@@ -1,12 +1,12 @@
 # Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
-# PARCHE claimed three ships sunk in TE-04 (Attack 2, two AKs; Attack 3, one AK or AP). Of the convoy's five losses
-# (J02), the ships' own logs time Taiyoku Maru at 0237 I (J06, BANG's Attack 5 at 0232 I) and Shoryu Maru at 0353 I
-# (J05, TINOSA's Attack 3 at 0349 I), and the secondary source times Toyohi Maru at 0008 I (TINOSA's Attack 2). That
-# leaves Kinrei and Daibu Maru, timed only by the secondary source (0106 and 0113 I), for PARCHE's attacks at 0106 and
-# 0127 I: by elimination (inferred), not by a record naming PARCHE. JANAC's credits to PARCHE, Shoryu and Taiyoku Maru
-# (janac:4/p59; janac:6/p27), are not supported by those ships' own logs. Attack 3 (0127 I, two hits, the target
-# settled by the stern and left the radar) has no record timed after it that fits: the secondary times for Kinrei and
-# Daibu Maru are both before it, so if one of them was Attack 3's target, that time is wrong (a lead, not shown).
+# PARCHE claimed three ships sunk in TE-04 (Attack 2, two AKs; Attack 3, one AK or AP). Four of the convoy's five
+# losses (J02) are timed by their own logs: Toyohi Maru 0008 I (TINOSA's Attack 2, 0009 I; TINOSA's Patrol 6 J06),
+# Kinrei Maru 0109 I (J08, PARCHE's Attack 2, 0106 I), Taiyoku Maru 0237 I (J06, BANG's Attack 5, 0232 I) and Shoryu
+# Maru 0353 I (J05, TINOSA's Attack 3, 0349 I). Daibu Maru, timed only by the secondary source (0113 I, J04), is the
+# one left for PARCHE's second claimed sinking, or for TINOSA's second salvo an hour earlier. JANAC's credits to
+# PARCHE, Shoryu and Taiyoku Maru (janac:4/p59; janac:6/p27), are not supported by those ships' own logs. Attack 3
+# (0127 I, two hits, the target settled by the stern and left the radar) has no record timed after it: if Daibu Maru
+# was its target, the secondary source's 0113 is wrong (a lead, not shown).
 - attack: Attack 1
   record: J01
   relation: no_loss
@@ -15,20 +15,24 @@
     April loss list has no TAMA-17 loss after Nittatsu Maru (0419 I), and JANAC credits PARCHE with nothing before
     4 May 1944 (janac:6/p27)
 - attack: Attack 2
-  record: J03
-  relation: possible
+  record: J08
+  relation: probable
   note: >-
-    PARCHE fired 4 + 2 at 0106 I and claimed two AKs sunk, one breaking up in under two minutes. The secondary
-    source's 0106 I for Kinrei Maru is this very minute; it and JANAC credit her to BANG, JANAC as probable
-    ("Submarine*"; janac:4/p59), but BANG's only attack that night was at 0232 I, and the 0237 I sinking is
-    Taiyoku Maru's by her own log (J06). Possible: no primary record times Kinrei Maru
+    PARCHE fired 4 + 2 from 20-48N 118-03E at 0106 I, at targets 1,850 and 2,250 yards off, saw five hits and
+    claimed two AKs sunk, one breaking up in under two minutes. Kinrei Maru's own log has her torpedoed and sunk at
+    0109 I at 20-42N 118-01E: three minutes after PARCHE fired, about 6 nm south of PARCHE's position. No other boat
+    fired near that time: TINOSA was deep from 0012 until 0234 I, and BANG's only attack that night was at 0232 I.
+    The secondary source (J03) and JANAC credit her to BANG, JANAC as probable ("Submarine*"; janac:4/p59), which is
+    why this is probable and not hit
 - attack: Attack 2
   record: J04
   relation: possible
   note: >-
-    The secondary source's 0113 I for Daibu Maru is seven minutes after PARCHE fired; PARCHE's second target
-    "settled stern first. Sank in 10 minutes". JANAC credits Daibu (Taibu) Maru to TINOSA as probable
-    ("Submarine*"; janac:4/p59; janac:6/p51); TINOSA's second salvo hit an AK at 0010 I. Possible either way
+    PARCHE's second target "settled stern first. Sank in 10 minutes"; the secondary source's 0113 I for Daibu Maru
+    is seven minutes after PARCHE fired, and its times for Toyohi (0008) and Kinrei Maru (0106) are within three
+    minutes of those ships' own logs. JANAC credits Daibu (Taibu) Maru to TINOSA as probable ("Submarine*";
+    janac:4/p59; janac:6/p51), whose second salvo hit an AK at 0010-53 I, an hour before. No primary record of
+    Daibu Maru found. Possible either way, the time favouring PARCHE
 - attack: Attack 3
   record: J07
   relation: no_loss

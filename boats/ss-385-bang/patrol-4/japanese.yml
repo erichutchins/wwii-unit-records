@@ -132,3 +132,21 @@
     Same signal log: W-15's captain to Manazuru and the 4th Escort commander, 23rd 0750 I. The hour's second digit
     is unclear (0?30, perhaps 0330), so the entry has no time field; it was signalled at 0750. The convoy had scattered: Sannin Maru 30 nm east of the first attack, W-15
     searching for the others
+- id: J09
+  source: jacar:C16120660200
+  page: p08
+  ship: Hozan Maru
+  convoy: TAKA-206
+  event: sank
+  date: 1944-11-22
+  time: '2337'
+  zone: I
+  original: 二三三七 ✓鳳山丸（C 総?2345ﾄ）台湾東方 ｜ 潜∠ 沈没
+  translation: >-
+    2337: Hozan Maru (type C, ?2,345 tons), east of Formosa | (Result) enemy submarine's torpedo, sunk
+  note: >-
+    The Navy's November 1944 day-by-day summary (escort and anti-submarine, 大東亜戦争経過概要), 22nd; the result is
+    bracketed with the entry above it (1940, Dowa Maru, off Shinnanshoto). One character before the tonnage is not
+    read (?). It compiles signals and gives the same time as Manazuru's 0020 signal (J03), so it counts once with it.
+    It is the only TAKA-206 loss in the summary: neither the 22nd nor the 23rd names Amakusa Maru or Sakae Maru. The
+    tonnage, 2,345, is the figure W-15's convoy table (p33) sets against its No. 4 ship

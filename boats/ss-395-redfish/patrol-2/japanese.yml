@@ -4,9 +4,12 @@
 # TAKA-206 (Keelung for Naha, 22 November 1944) is read from minesweeper W-15's battle report (jacar:C08030607900),
 # the record BANG's Patrol 4 uses (ss-385-bang/patrol-4/japanese.yml). W-15 stayed astern to rescue Hozan Maru's crew
 # from 2346 I and rejoined at 0120 I, so it saw none of REDFISH's attacks (0004-0612 I); the report gives no time or
-# place for the losses of Amakusa Maru and Sakae Maru. Not searched yet: Manazuru's report, the 4th Escort Unit's
-# November 1944 diary (its JACAR series C08030143700-C08030144200 jumps from September to December), and the Navy's
-# November 1944 loss summary (lead L98).
+# place for the losses of Amakusa Maru and Sakae Maru. Nor do the other records searched (5 Nov 2026): the Navy's
+# November 1944 summary (jacar:C16120660200 p08, J11) names only Hozan Maru; neither ship has a table in the
+# designated-ship movement tables, series 4 or 5 (indexes jacar:C08050101600 pp1-4, C08050103900 pp2-7, read in the
+# ア and サ lists; series 5 runs 1 Dec 1943 - 30 Nov 1944); and no battle report or war diary of Manazuru was found
+# (searched 真鶴 戦闘詳報, 真鶴 戦時日誌, 水雷艇真鶴, タカ２０６船団). The 4th Escort Unit's November 1944 diary is still
+# missing (its JACAR series C08030143700-C08030144200 jumps from September to December).
 - id: J01
   source: jacar:C08030607900
   page: p47
@@ -66,6 +69,22 @@
   note: >-
     W-15's log of the action. 0450 I = 0550 K, ten minutes after REDFISH's Attacks 4-5 (0540 K, six torpedoes, no
     hits; one broached in each). Whose charges they were is not said; W-15 dropped none
+- id: J11
+  source: jacar:C16120660200
+  page: p08
+  ship: Hozan Maru
+  convoy: TAKA-206
+  event: sank
+  date: 1944-11-22
+  time: '2337'
+  zone: I
+  original: 二三三七 ✓鳳山丸（C 総?2345ﾄ）台湾東方 ｜ 潜∠ 沈没
+  translation: >-
+    2337: Hozan Maru (type C, ?2,345 tons), east of Formosa | (Result) enemy submarine's torpedo, sunk
+  note: >-
+    The Navy's November 1944 day-by-day summary (escort and anti-submarine), 22nd. Same time as Manazuru's signal
+    (J01), so it counts once with it: 27 minutes before REDFISH's first attack (0104 K = 0004 I). It is the only
+    TAKA-206 loss in the summary; neither the 22nd nor the 23rd names Amakusa Maru or Sakae Maru
 # 9 and 19 December 1944 (Attacks 7-11). Unryū's loss is read from her own battle report (jacar:C08030585900,
 # 軍艦雲龍戦闘詳報, 12 pages, sent 2 March 1945 by Sasebo naval district) and the Navy's December 1944 day-by-day
 # summary (jacar:C16120660300, 大東亜戦争経過概要); Junyō's damage from the same summary. The battle report gives times

@@ -14,8 +14,12 @@
     (J01, J02). GROWLER began firing at 0228 I; her first timed hit was at 0230-07 and the target's pip disappeared at
     0234 (narrative rg367-74818866/p23). No other ship is recorded torpedoed anywhere near that minute in the summary.
     Against: the place is written "Bashi Channel E", and GROWLER was south-south-west of the channel, off north-west
-    Luzon; GROWLER judged her a 10,000-ton tanker, and the summary gives 1,923 tons and no type. Probable, not hit,
-    until a record of Katori Maru's voyage or a position puts her at 19-09.5N 120-37E
+    Luzon; GROWLER judged her a 10,000-ton tanker, and the summary gives 1,923 tons and no type. The postwar credit: JANAC gives
+    GROWLER Katori Maru, cargo, 1,920 tons, sunk on 29 June 1944 at 19-09N 120-27E (janac:4/p62, janac:6/p16, no
+    asterisk), about 9 nm west of GROWLER's typed attack position; its tonnage is the summary's within 3 tons, and
+    its position puts her where GROWLER was, not east of the channel. JANAC drew on both sides' records and cannot
+    by itself settle the place. Probable, not hit, until Katori Maru's own log (not in the designated-ship
+    movement tables' parts searched; japanese.yml says which) puts her at 19-09.5N 120-37E
 - attack: Attack 1
   record: J01
   relation: no_loss

@@ -9,14 +9,28 @@
     A ten-ship convoy, Takao to Manila, off north-west Luzon: PICUDA reported a ten-ship convoy with at least five
     escorts at 18-46N 120-46E. J01's 1023 I is 4 minutes after Attack 1 (0919 H, 1019 I; narrative 0920), which
     claimed one medium freighter sunk with one hit. The likelier of J01's two ships for a freighter claim is the
-    1,943-ton merchant (?toku Maru)
+    1,943-ton merchant (?toku Maru). The postwar credit: JANAC gives PICUDA Kotoku Maru, cargo, 1,943 tons, and
+    the destroyer Yunagi, 1,270 tons, both sunk on 25 August 1944 at 18-46N 120-46E (janac:4/p65, janac:6/p29).
+    The tonnage is the summary's to the ton, so JANAC's "Kotoku" is very likely J01's ?徳丸; the position is
+    PICUDA's own report of the convoy, so it is her account repeated, not a Japanese position
+- attack: Attack 1
+  record: J04
+  relation: hit
+  note: >-
+    Kotoku Maru's own log names her (光徳丸, 1,943 tons) and has her sunk by torpedo on 25 August 1944 bound from
+    Aparri to Manila, with no time or position. PICUDA's convoy position, 18-46N 120-46E, is on that route, about
+    55 nm west-north-west of Aparri off north-west Luzon. The minute comes from J01 (1023 I, 4 minutes after Attack 1). The
+    log doesn't say which salvo, so Attack 2 (seven hours later) is not ruled out for her; Attack 1, a freighter
+    claimed sunk with one hit, fits her better
 - attack: Attack 2
   record: J01
   relation: possible
   note: >-
     Attack 2 (1608 H, 1708 I, three torpedoes at a "1500 ton Escort Gunboat") is nearly seven hours after J01's
     time, but J01 has the escort Yunagi sunk in the same entry and gives one time for both ships. Which salvo sank
-    Yunagi is not settled by this entry; the escorts' and the convoy's own reports may settle it
+    Yunagi is not settled by this entry; the escorts' and the convoy's own reports may settle it. JANAC credits
+    Yunagi to PICUDA on the 25th at the same position as Kotoku Maru (janac:6/p29), which doesn't say which
+    attack
 - attack: Attack 3
   record: J02
   relation: no_loss
@@ -33,4 +47,7 @@
     I. PICUDA fired at 0559 H (0659 I), one minute before the entry's first time, at 18-43N 120-52E, claiming a medium
     freighter sunk and a large transport damaged ("damage verified by REDFISH"). The freighter fits Awaji Maru, the
     first time; Mizuho Maru (8,500 t, 5,300 troops), the large transport, sank by 0830, after
-    REDFISH's attack; PICUDA's damage and REDFISH's attack may both have contributed
+    REDFISH's attack; PICUDA's damage and REDFISH's attack may both have contributed. The postwar credit splits
+    them: JANAC gives PICUDA Awaji Maru, cargo, 1,948 tons, at 18-43N 120-52E (PICUDA's own attack position;
+    janac:4/p68, janac:6/p29) and REDFISH Mizuho Maru, transport, 8,506 tons, at 18-35N 120-39E (janac:4/p68,
+    janac:6/p34), about 15 nm south-west of PICUDA's attack

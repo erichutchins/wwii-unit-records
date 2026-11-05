@@ -22,7 +22,7 @@ ships:
   - ship: Kinrei Maru
     role: merchant
     to: 1944-05-04
-    fate: sunk 1944-05-03/04 (BANG patrol 1 J11, J12)
+    fate: sunk 1944-05-04 0109 I at 20-42N 118-01E, her own log (PARCHE patrol 1 J08; jacar:C08050104500 p30)
     source: jacar:C08030140700
     page: p28
     basis: reported
@@ -35,7 +35,7 @@ ships:
   - ship: Shoryu Maru
     role: merchant
     to: 1944-05-04
-    fate: sunk 1944-05-03/04 (BANG patrol 1 J11, J15)
+    fate: sunk 1944-05-04 0353 I at 20-54N 118-08E, her own log (TINOSA patrol 6 J04; jacar:C08050104900 p4)
     source: jacar:C08030140700
     page: p28
     basis: reported
@@ -48,7 +48,7 @@ ships:
   - ship: Taiyoku Maru
     role: merchant
     to: 1944-05-04
-    fate: sunk 1944-05-03/04 (BANG patrol 1 J11, J15)
+    fate: sunk 1944-05-04 0237 I at 20-56N 118-04E, her own log (BANG patrol 1 J20; jacar:C08050105400 p10)
     source: jacar:C08030140700
     page: p28
     basis: reported
@@ -61,7 +61,7 @@ ships:
   - ship: Toyohi Maru
     role: merchant
     to: 1944-05-04
-    fate: sunk 1944-05-03/04 (BANG patrol 1 J11, J13)
+    fate: sunk 1944-05-04 0008 I at 20-51N 118-03E, her own log (TINOSA patrol 6 J06; jacar:C08050105600 p53)
     source: jacar:C08030140700
     page: p28
     basis: reported

@@ -72,7 +72,7 @@ ships:
     role: merchant
     number: '2'
     from: 1944-11-22
-    fate: torpedoed 1944-11-22 2339 I (BANG patrol 4 J02); sunk (J05, secondary)
+    fate: torpedoed 1944-11-22 2339 I (BANG patrol 4 J02); sunk 2337 I, named by W-15's signal (J07) and the Navy's November summary (J09)
     source: jacar:C08030607900
     page: p33
     basis: reported

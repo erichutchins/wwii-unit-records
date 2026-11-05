@@ -3,9 +3,9 @@
 # them: the summary table's times and positions disagree with the narrative (positions.csv notes).
 # Attack 4 (0414 H = 0514 I, four fired, "results unknown", two explosions beyond the target) and Attack 5 (0850 H =
 # 0950 I, four stern tubes at a damaged AK, results unknown) have no entry: none of TE-04's five losses is timed
-# after 0353 I. Shoryu Maru (J04) sank at 0353 I and Taiyoku Maru at 0237 I by their own logs; Toyohi, Kinrei and
-# Daibu Maru are put before 0115 I by the secondary source, and the escort division's chart (BANG's Patrol 1 J19) is
-# too faint to read a time. So neither later attack is known to have sunk anything; neither claimed a sinking.
+# after 0353 I. By their own logs Toyohi Maru sank at 0008 I (J06), Kinrei Maru at 0109 I (J07), Taiyoku Maru at
+# 0237 I and Shoryu Maru (J04) at 0353 I; only Daibu Maru has no primary time (the secondary source's 0113 I, J05),
+# and the escort division's chart (BANG's Patrol 1 J19) is too faint to read a time. So neither later attack is known to have sunk anything; neither claimed a sinking.
 - attack: Attack 1 fired
   record: J01
   relation: no_loss
@@ -15,22 +15,27 @@
     Manila on 2 May. PARCHE had fired at the same convoy at 1010 I and heard a heavy explosion at 1014 I. JANAC
     credits TINOSA with nothing in April 1944 (janac:6/p51)
 - attack: Attack 2 fired
-  record: J03
+  record: J06
   relation: hit
   note: >-
-    TINOSA's first salvo, at 2309 H (0009 I), hit a tanker under the bridge and the bow at 2310 H, and she sank.
-    Toyohi Maru was an ore carrier; the secondary source's 0008 I is a minute before the hits, about 2 nm from
-    the narrative's sinking position (20-51N 118-02E). JANAC credits Toyohi Maru (6,436 tons, cargo) to TINOSA, not
-    marked probable: 4 May, 20-51N 118-02E (janac:4/p59; janac:6/p51)
+    TINOSA's first salvo, fired at 2309 H (0009 I), hit a tanker under the bridge and the bow at 2310 H (0010 I),
+    and she sank at 20-51N 118-02E (the narrative's position of the target). Toyohi Maru's own log has her
+    torpedoed and sunk at 0008 I at 20-51N 118-03E: one to two minutes before TINOSA's firing and hits (the two
+    clocks need only differ by that much), and about 1 nm from the narrative's position. She was an ore carrier
+    loaded at Yulin, not a tanker. JANAC credits Toyohi Maru (6,436 tons) to TINOSA, not marked probable: 4 May,
+    20-51N 118-02E (janac:4/p59; janac:6/p51). The secondary source (J03) has the same 0008 I
 - attack: Attack 2 fired
   record: J05
   relation: possible
   note: >-
-    The second salvo hit an AK of about 6,000 tons at 2310-53 H (0010 I), and one torpedo hit an AK in the far
-    column at 2311-52 H; TINOSA then went deep under depth charges until 0134 H and didn't see either sink. The
-    secondary source has Daibu Maru (6,440 GRT) sunk at 0113 I, an hour later, and credits her to TINOSA; so does
-    JANAC, but as probable ("Submarine*"; 20-54N 118-14E; janac:4/p59; janac:6/p51). PARCHE's Attack 2, fired at
-    0106 I and claiming two AKs sunk, is as near in time, so this stays possible
+    The second salvo hit an AK of about 6,000 tons at 2310-53 H (0010-53 I), and one torpedo hit an AK in the far
+    column at 2311-52 H (0011-52 I); TINOSA then went deep under depth charges until 0134 H (0234 I) and didn't
+    see either sink. Of the convoy's five losses, four now have their own logs, and none of them fits a ship hit
+    at 0010-0012 I but Toyohi Maru (J06): Kinrei Maru sank at 0109 I (J07), 58 minutes later and 3 minutes after
+    PARCHE fired, about 9 nm south of TINOSA's attack. That leaves Daibu Maru, timed only by the secondary source
+    at 0113 I (J05), 61 minutes after the far-column hit and 7 minutes after PARCHE's Attack 2; JANAC credits her to
+    TINOSA as probable ("Submarine*"; 20-54N 118-14E; janac:4/p59; janac:6/p51). A ship hit at 0011 I could have
+    sunk an hour later, but PARCHE's second target, hit at 0106 I and seen to sink, fits the time better. Possible
 - attack: Attack 3 fired
   record: J04
   relation: probable

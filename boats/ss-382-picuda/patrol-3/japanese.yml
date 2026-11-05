@@ -7,7 +7,7 @@
 - id: J01
   source: jacar:C16120659900
   page: p05
-  ship: Yunagi; ?toku Maru
+  ship: Yunagi; Kotoku Maru
   event: sank
   date: 1944-08-25
   time: '1023'
@@ -19,7 +19,12 @@
   note: >-
     The Navy's day-by-day summary of escort and anti-submarine events, August 1944, narrative (time, event, area,
     result), read at 600 dpi. The first character of the merchant's name is not read (a top stroke over a cross-like
-    body; 寿, 亀 or 光 would fit the shape, none decided), nor the character before 船 in her description (空船,
+    body; 寿, 亀 or 光 would fit the shape, none decided). Re-read at 1,200 dpi with JANAC's "Kotoku Maru" of the
+    same tonnage in mind (janac:4/p65): 光 (光徳丸, Kōtoku) fits the foot, a leg to the left and a hooked stroke to
+    the right as in 儿, but the top is blotted and does not show 光's three short strokes; not decided on this page alone, left ?. The owner's log (J04) names 光徳丸, 1,943 tons,
+    sunk by torpedo on 25 August 1944 between Aparri and Manila: same day, same tonnage, same coast. The character
+    here is consistent with 光 and nothing in it contradicts it, so the ship is Kotoku Maru (光徳丸); the
+    transcription keeps ? because this page does not show the character clearly, nor the character before 船 in her description (空船,
     "empty", would fit). The submarine and torpedo are written in the page's shorthand (a triangle for 潜, a loop
     for 雷撃). One time for both ships. No position in figures. Compiled from signals
 - id: J02
@@ -55,3 +60,19 @@
     The same summary, September 1944, narrative for the 21st, read at 500 dpi. The result column is in the page's
     shorthand: a sign not read, then the loop the page uses for 雷撃 (torpedo attack), then 沈 (sunk). The time is a
     range over both ships, 0700 to 0830 (`time` is its start); which ship sank at which end is not said. No position in figures
+- id: J04
+  source: jacar:C08050056100
+  page: p24
+  ship: Kotoku Maru
+  event: sank
+  date: 1944-08-25
+  original: 光徳丸 … 総噸数 壱九四参噸五四 … 自昭和一九年六月一日 至昭和一九年八月二五日 … 昭南→ミリ→マニラ→ミリ→高雄→アパリ 注、「アパリ」ヨリ「マニラ」ニ向ケ航行中昭和十九年八月二十五日雷撃ニ依リ沈没ス
+  translation: >-
+    Kotoku Maru, gross tonnage 1,943.54 tons, from 1 June 1944 to 25 August 1944: Shonan (Singapore), Miri, Manila,
+    Miri, Takao, Aparri. Note: sunk by torpedo on 25 August 1944 while proceeding from Aparri toward Manila
+  note: >-
+    The owner's own log in the designated-ship movement tables (大東亜戦争指定船行動表, June-November 1944 series,
+    コ part), a single page: the header (ship's name 光徳丸, written twice, tonnage) and the voyage in the remarks
+    column, read on the image at 120 dpi. No time and no position for the sinking. The tonnage is the summary's
+    1,943 t to the ton (J01) and JANAC's (janac:4/p65). Aparri, on Luzon's north coast (about 18-22N 121-38E), to
+    Manila runs down Luzon's north-west coast, where the summary puts the loss ("ルソン北西岸", J01)

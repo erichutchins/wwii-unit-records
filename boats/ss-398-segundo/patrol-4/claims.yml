@@ -4,6 +4,12 @@
 # four-masted sailing vessel, missed; sunk by gunfire at 0144-0153), Attack 3 (2301 I, 8 June, 39-07N 123-05E, two
 # whale-killers, missed; both claimed sunk by gunfire at 0022 on the 9th), Attacks 4-5 (0032 and 0140 I, 11 June,
 # 37-11N 123-23E and 37-08N 123-19E, a ship not sighted claimed sunk, a large AP of 10,000 tons, and an escort missed).
-# Secondary sources name the ship of 11 June as Fukui Maru No. 2, 1,591 tons (finding aid only); RONQUIL was attacking
-# the same group or one close to it (narrative, rg367-74847780/p22). No pairing. Read 5 Nov 2026.
+# Secondary sources name the ship of 11 June as Fukui Maru No. 2, 1,591 tons (finding aid only). JANAC credits SEGUNDO,
+# not marked probable, with FUKUI MARU NO 2, cargo, 1,578 tons, sunk 11 June 1945 at 37-11N 123-23E (janac:4/p91;
+# janac:6/p42). That is Attack 4's own position to the minute (attacks.csv, Attack 4 at 0032 I), so JANAC took the
+# place from SEGUNDO's report and is no second witness to it. The 1943-44 movement table has her on the run between
+# Japan and Tangku and Dairen across the Yellow Sea to 5 December 1944 (japanese.yml's header), which fits a ship in
+# those waters but records no loss. Without a Japanese record of her loss (date, time, position) there is nothing to
+# measure minutes or miles against, so no pairing. RONQUIL was attacking the same group or one close to it
+# (narrative, rg367-74847780/p22). Read 5 Nov 2026.
 []

@@ -3,9 +3,14 @@
 # charts have one attack mark on convoy HI-67, BANG's at 1515 on the 29th (p34), and none on the 29th on the
 # Takao-Manila route (p39, 別表第七 菲島北航路: marks on the 25th, 27th, 28th 0530 and 28th 2320 only); its June damage
 # notes (p33) list no ship sunk or damaged on the 29th north of Luzon. The Navy's day-by-day summary of escort and
-# anti-submarine events for June 1944 (jacar:C16120659700) has the entries below. Not yet searched: the Takao Guard
-# District's diary for June 1944 (not found on JACAR by 高雄警備府), a record naming Katori Maru's voyage or escort,
-# and JANAC.
+# anti-submarine events for June 1944 (jacar:C16120659700) has the entries below. JANAC credits GROWLER with Katori Maru, 1,920
+# tons, at 19-09N 120-27E (janac:4/p62, janac:6/p16; secondary, in claims.yml). Not yet searched: the Takao Guard
+# District's diary for June 1944 (not found on JACAR by 高雄警備府), and Katori Maru's own log. Searched for it and not
+# found in the designated-ship movement tables: 第5回 ア～ソの部 parts (5)-(7) (jacar:C08050104300, C08050104400,
+# C08050104500; the カ and キ ships' header pages read, from the カ divider to 熊野山丸), and the June-November 1944
+# series' カ part (jacar:C08050055800: the 快進丸s, 神久丸, the two 神影丸, 第二金山丸). The 1943 series' index lists a
+# 香取丸 under カ (jacar:C08050057800, OCR), but that series' parts run from December 1944, so it is probably the
+# other Katori Maru, the 2,218-ton ship JANAC lists lost on 22 August 1945 (janac:4/p96; inferred, not read).
 - id: J01
   source: jacar:C16120659700
   page: p21

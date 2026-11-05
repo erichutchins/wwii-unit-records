@@ -1,8 +1,10 @@
 # The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
 # PARCHE's attack sheets are in zone I, the Japanese zone. J01, J02, J03, J04 and J07 repeat readings first made for
 # BANG's Patrol 1 (ss-385-bang/patrol-1/japanese.yml J10, J11, J12, J14, J15), cited to the same pages; J05 is the
-# reading made for TINOSA's Patrol 6 (its J04). Searched and not found: movement logs for Kinrei Maru (金嶺丸), Toyohi
-# Maru (豊日丸) and Daibu Maru (大武丸) (jacar.py search on each name, no hits).
+# reading made for TINOSA's Patrol 6 (its J04), and J08 the one made there as its J07. Toyohi Maru's own log
+# (TINOSA's Patrol 6 J06, jacar:C08050105600 p53) has her sunk at 0008 I, an hour before PARCHE's first attack on
+# TE-04. Searched and not found: a log for Daibu Maru (大武丸) in the 4th or 5th series of the designated-ship
+# movement tables (their name indexes, jacar:C08050102800 and C08050105300, don't list her; jacar.py search, no hits).
 - id: J01
   source: jacar:C08030140600
   page: p30
@@ -40,7 +42,9 @@
   lat_raw: 20-50N
   lon_raw: 117-55E
   translation: At 0106, BANG torpedoes and sinks Kinrei Maru at 20-50N, 117-55E
-  note: Secondary source (BANG's Patrol 1 J12); zone assumed I. No primary record of her time found
+  note: >-
+    Secondary source (BANG's Patrol 1 J12); zone assumed I. Her own log (J08) gives 0109 I at 20-42N 118-01E,
+    three minutes later and about 10 nm to the south-east
 - id: J04
   source: combinedfleet:Daiyoku_t
   ship: Daibu Maru
@@ -103,3 +107,23 @@
   note: >-
     Secondary source (BANG's Patrol 1 J15); time given as "about". The two ships' own logs give 0353 (J05) and
     0237 (J06)
+- id: J08
+  source: jacar:C08050104500
+  page: p30
+  ship: Kinrei Maru
+  convoy: TE-04
+  event: sank
+  date: 1944-05-04
+  time: '0109'
+  zone: I
+  lat_raw: 20-42N
+  lon_raw: 118-01E
+  original: >-
+    一九.四.三〇 三亜 積荷鉄鉱石八、二〇〇噸便乗者三九名 / 一九.五.四 基隆向航行中五月四日〇一〇九北緯二〇度四二分東経一一八度〇一分ニ於テ敵潜ノ雷撃ヲ受ケ沈没ス
+  translation: >-
+    30 April 1944, [from] Sanya, loaded 8,200 t of iron ore, 39 passengers. 4 May 1944: while bound for Keelung,
+    at 0109 on 4 May, at N 20°42′ E 118°01′, torpedoed by an enemy submarine and sank
+  note: >-
+    Kinrei Maru's (金嶺丸) own movement log (designated-ship movement tables, 5th series, ア–ソ part 7; header p27).
+    Handwritten in a rough hand; the minutes of latitude read 四二 (the second figure is two strokes). Zone not
+    written; taken as I. Same reading as TINOSA's Patrol 6 J07

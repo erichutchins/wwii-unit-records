@@ -23,10 +23,21 @@
 # - Searches for 黄海 敵潜, 山東 被雷, 喪失船舶 and 遭難船舶 for June 1945 found nothing.
 # Finding aid (secondary, not read on a primary record): the English Wikipedia articles on SEGUNDO and its list of
 # shipwrecks in June 1945, and the Naval Cover Museum's SEGUNDO page, name the ship of 11 June as Fukui Maru No. 2
-# (第二福井丸), 1,591 tons, off the Shantung peninsula. JACAR has 第二福井丸 only in the 1943-44 designated-ship movement
-# tables (jacar:C08050057300, C08050055000; not read); the 1943-45 fourth series (タ～ワ, C08050102600-103600) has no
-# フ section (index, C08050102800). The 1943-44 tables may give her owner and route; a 1945 movement log or a loss
-# report would be the record to find.
+# (第二福井丸), 1,591 tons, off the Shantung peninsula. JANAC credits her to SEGUNDO (claims.yml's header).
+# 第二福井丸 in the designated-ship movement tables (L99, 5 Nov 2026):
+# - 1943-44 series, part 22 (昭和１８年～１９年 大東亜戦争指定船行動表（２２）, jacar:C08050057300, the フ section;
+#   C08050055000 is the series' cover record): her entry is pp. 02-05. Header (p02, read on the scan): 汽船第二福井丸
+#   船長織田廣吉, 船舶番号 一九五八五, 総屯数 一五九一、八九屯, 自昭和十九、六、一 至仝十九、?二、三〇 (the month is
+#   one or two strokes, unclear), sworn 昭和十八年五月八日; no owner's stamp. Rows from 4 June 1944 (彦島 to 神戸, then
+#   神戸 to 塘沽, 8-14 June, cargo 二一八〇、三一) to 5 December 1944 (p05: 塘沽 and 大連 to 大阪 and 若松 and back, the
+#   last row 〃一二、五 arrived 塘沽, 揚荷 一五五〇、三二). So in late 1944 she ran between the home islands and North
+#   China (Tangku, Dairen) across the Yellow Sea, the waters of 11 June 1945. No 1945 rows, no loss.
+# - 1943-45 fifth series (第５回 タ～ワの部): its index (jacar:C08050105300, pp. 01-05, read on the scan) files numbered
+#   ships by name without 第 (第二鶴川丸 under ツ, p03); its フ section (p04) lists only 福嶺丸, 釜山丸 and 富士山丸. Not
+#   there. The fourth series (タ～ワ) has no フ section (index, C08050102800).
+# - jacar.py search 福井丸 (all dates, and 1944-12 to 1946-12) finds only these two records and Meiji-era ones.
+# No Japanese record of her loss has been found.
 # Resume: the Ryojun base force or the Chinkai Guard District for June 1945 under other titles (戦闘詳報, 電報綴);
-# the Navy's or the Shipping Operations Association's ship-loss returns for June 1945; 第二福井丸 in the 1943-44 tables.
+# the Navy's or the Shipping Operations Association's ship-loss returns for June 1945 (her loss date and position
+# would be there, independent of JANAC's).
 []

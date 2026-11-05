@@ -3,14 +3,15 @@
 # escorting destroyer, no hits) has no entry: Unryū's battle report (J06-J08) does not mention it.
 # Attack 2 (0129 K, three torpedoes, no hits) and Attack 6 (0712 K, four, no hits) have no entry: nothing in W-15's
 # report matches them (header of japanese.yml). J01-J02 (Hozan Maru, sunk 2337 I = 0037 K, 27 minutes before
-# REDFISH's first attack) are not paired: the postwar credit of Hozan Maru to REDFISH (janac:4/p76) does not fit the
+# REDFISH's first attack) and J11 (the Navy's summary, Hozan Maru, same time) are not paired: the postwar credit of Hozan Maru to REDFISH (janac:4/p76) does not fit the
 # times, which give her to BANG's Attacks 1-3 (ss-385-bang/patrol-4/claims.yml).
 - attack: Attack 1
   record: J03
   relation: possible
   note: >-
     REDFISH claimed an engine-aft MARU sunk, hits timed at 0106-30 K (0006 I). Two ships besides Hozan Maru were
-    lost, Amakusa Maru and Sakae Maru (J03), with no time or place in W-15's report. BANG's claimed hits in Attacks
+    lost, Amakusa Maru and Sakae Maru (J03), with no time or place in W-15's report, in the Navy's November summary
+    (J11 names only Hozan Maru) or in the movement tables (neither ship has one in series 4 or 5). BANG's claimed hits in Attacks
     2, 3, 6 and 7 fit as well; JANAC gives both ships to BANG (janac:6/p3), "probable agent"
 - attack: Attack 3
   record: J03
