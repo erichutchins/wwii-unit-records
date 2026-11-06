@@ -125,8 +125,9 @@
   scan: 6700 x 6000
   heading: 12th Army Group outline maps 1:1,000,000
   shows: north and central Germany, Bremen and the Weser along the top; the March towns lie off it (0 of 20)
-  towns: ""
+  towns: towns-B13.csv
   towns_on: 12ag-1945-04-07
+  towns_check: 26 whole-degree graticule crossings read on gridded crops of 7 April 1945 (6 November 2026; the conic 0.5 km rms, 1.1 km at worst), seeded by the degrees printed on the sheet's margins
 - base: B14
   from: 1945-04-19
   to: 1945-05-19
@@ -134,8 +135,9 @@
   scan: 6000 x 6700
   heading: 12 Army Group outline map 1:1,400,000
   shows: Germany, portrait, the Frisian Islands along the top
-  towns: ""
+  towns: towns-B14.csv
   towns_on: 12ag-1945-04-19
+  towns_check: 60 whole-degree graticule crossings read on gridded crops of 19 April 1945 (6 November 2026; the conic 0.8 km rms, 1.8 km at worst), seeded by the degrees printed on the sheet's margins
 - base: B15
   from: 1945-05-20
   to: 1945-07-26
@@ -144,3 +146,4 @@
   heading: not read (B14's, by the overview)
   shows: B14's map with the state boundaries and names overprinted in red
   towns: ""
+  towns_on: 12ag-1945-05-20
