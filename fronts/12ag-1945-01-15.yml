@@ -1,0 +1,17 @@
+# 12ag-1945-01-15: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21225
+date: 1945-01-15
+as_of: 1200 HRS 15 JANUARY 1945
+title: "Situation 1200 hrs 15 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 15 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 5050, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all; unsure runs 609,5305 410,5328 457,5458 630,5476 914,5478 459,5493 814,5508) and the Quimper/Auxerre symbols' leaders above it"}
+  - {box: [2540, 2200, 2620, 2300], why: "the Twelfth/Twenty One army group boundary near Gembloux, black, blue-drawn run 26/27 with red ticks only from roads; no map ticks (looked on overlay crop 2300,2000)"}
+  - {box: [2490, 2380, 2560, 2480], why: "the Twelfth/Twenty One army group boundary near Fleurus, magenta, no ticks (unsure run 2524,2423; crop 2300,2000)"}
+  - {box: [2580, 2740, 2710, 2820], why: "the Twelfth/Twenty One army group boundary's last stretch east to Givet, magenta, no ticks (unsure run 2646,2783); it ends at x 2700, well short of the front at 3350"}
+  - {box: [3800, 4020, 4392, 5100], why: "the Twelfth/Sixth army group boundary from the Saar corner south-west past Faulquemont and Nancy's east, magenta and blue-drawn runs, no map ticks (red ticks only from roads; unsure runs 4347,4052; 4278,4231; 4208,4474; 4153,4559; 4115,4619; 3893,4965; looked on overlay crop 3800,3900); the front proper turns east at 4400,3990 to Sarreguemines and lies east of x 4395 here"}
+flip: []
+checked: []

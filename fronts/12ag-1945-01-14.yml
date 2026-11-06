@@ -1,0 +1,20 @@
+# 12ag-1945-01-14: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21224
+date: 1945-01-14
+as_of: 1200 HRS 14 JANUARY 1945
+title: "Situation 1200 hrs 14 January 1945, Twelfth Army Group (SECRET struck through; the 14 written in by hand; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 14 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [2480, 1985, 2600, 2270], why: "the Twenty One/Twelfth army group boundary from Wavre to Wembloux, heavy black, no map ticks (unsure runs 2533,2109 and 2572,2219; red ticks only from roads and railways; looked on overlay crop)"}
+  - {box: [2460, 2300, 2540, 2490], why: "the same boundary from Fleurus down to Fosse, heavy black, no ticks (run 31 at 2503,2394 came out ticked from road ticks; looked on crop, it is the boundary with its XXXXX marks below)"}
+  - {box: [2630, 2770, 2700, 2830], why: "the same boundary's end at Givet/the Meuse, magenta, no map ticks (unsure run 2660,2796)"}
+  - {box: [3290, 2750, 3365, 2780], why: "the a boundary (its name not on the crop), heavy black horizontal line, running east to the front near Marche; no ticks (unsure run 3327,2766)"}
+  - {box: [3385, 2750, 3425, 2775], why: "the same heavy boundary's last stretch before the front at about 3440,2765 (unsure run 3414,2762); the front's ticked line starts east of the box"}
+  - {box: [4300, 4000, 4395, 4130], why: "the First/Third army boundary's stub from the Saar corner south-west, heavy black, red ticks only from roads (run 51 at 4340,4029); the front proper runs east from 4400,3990 to Sarreguemines"}
+  - {box: [3965, 4140, 4320, 4830], why: "the Twelfth/Sixth army group boundary from near Faulquemont south-west, magenta, no map ticks (runs 53 4300,4180; 56 4128,4571; 59 3987,4794)"}
+  - {box: [3940, 4860, 4010, 4925], why: "the same boundary's last bend, magenta, no ticks (run 61 at 3980,4893)"}
+flip: []
+checked: []
