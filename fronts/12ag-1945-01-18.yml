@@ -7,6 +7,7 @@ title: "Situation 1200 hrs 18 January 1945, Twelfth Army Group (SECRET struck th
 read: the title on the sheet, 6 Nov 2026
 gcps_from: towns-B11.csv
 exclude:
+  - {box: [3360, 1045, 3485, 1190], why: "review: the rest of the boundary from Deurne toward Geldrop, heavy and with no ticks of its own, far behind the front on the Maas (Eindhoven read it as the nearest front)"}
   - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 18 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
   - {box: [0, 4880, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all); its sample is the unsure run 56 at 522,4924 that put Soissons and Beauvais on the enemy side"}
   - {box: [2200, 540, 2290, 620], why: "the last digit (5) of 1945 in the title, magenta, standing past the first title box's right edge"}

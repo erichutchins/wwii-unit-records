@@ -8,6 +8,7 @@ title: "HQ Twelfth Army Group, Annex No 1 - Situation Map, to accompany G-3 Repo
 read: the title on the sheet, 6 Nov 2026
 gcps_from: towns-B11.csv
 exclude:
+  - {box: [3140, 1760, 3630, 1890], why: "review: the boundary from Hasselt east past Maastricht, heavy and with no ticks of its own, behind the front on the Roer (Namur, Huy and Leuven read it as the nearest front)"}
   - {box: [1000, 330, 1200, 410], why: "the lettering of SECRET (struck through), magenta (unsure run at 1177,370); the title block, well above the Walcheren/Tholen front (from y about 840)"}
   - {box: [800, 655, 870, 725], why: "the 'T' of REPORT in the title lettering (unsure run 10 at 829,690)"}
   - {box: [1575, 655, 1650, 725], why: "the last figure of '1945' in the report line of the title (blue run 11 at about 1605,690)"}

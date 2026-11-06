@@ -7,6 +7,7 @@ title: "Situation 1200 hrs 24 December 1944, Twelfth Army Group"
 read: the title on the sheet, 6 Nov 2026
 gcps_from: towns-B11.csv
 exclude:
+  - {box: [3100, 1740, 3780, 1890], why: "review: the boundary from Hasselt east past Maastricht and up to the front by the 102nd Division, heavy and with no ticks of its own, far behind the front on the Roer (Leuven read it as the nearest front)"}
   - {box: [50, 220, 2300, 620], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 24 DECEMBER 1944, TWELFTH ARMY GROUP); Walcheren/Tholen front starts below y 680"}
   - {box: [0, 5050, 1100, 5977], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
   - {box: [3000, 1180, 3110, 1350], why: "a boundary (black, no ticks) south of Turnhout, the magenta bit of it carries two stray strokes only"}

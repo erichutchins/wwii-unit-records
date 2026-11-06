@@ -1,0 +1,21 @@
+# 12ag-1945-01-30: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21240
+date: 1945-01-30
+as_of: 301200 JAN 1945
+report: 239
+title: "12th Army Group Outline Maps 1:1,000,000. HQ Twelfth Army Group Situation Map, to accompany G-3 Report No. 239, situation as of 301200 Jan 1945 (SECRET struck through; signed for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [1250, 280, 1480, 350], why: "the strike-through of SECRET in the title block, magenta (unsure run 1362,303); title lettering"}
+  - {box: [1040, 950, 1250, 1110], why: "the signature block's lettering (for A. Franklin Kibler, Brigadier General), short blue hooks and a magenta run (runs 1092,992 and 1191,1067); the Walcheren arcs start further east and south, near y 840"}
+  - {box: [180, 4860, 1100, 5600], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE lettering and sample line, bottom left): the unsure runs 464,5109 to 976,5466"}
+  - {box: [3060, 1900, 3330, 2110], why: "the Twenty One/Twelfth army group boundary (labelled TWENTY ONE / TWELFTH on the map) west of Liege, heavy black, magenta, red ticks only from roads (unsure run 3208,2039; looked, overlay crop 3000,1850)"}
+  - {box: [3390, 2100, 3500, 2170], why: "the same Twenty One/Twelfth boundary east of the Meuse, magenta and blue, no map ticks (unsure run 3437,2135; crop 3000,1850)"}
+  - {box: [3700, 2115, 3880, 2185], why: "the same boundary's last stretch to the front near Aachen, black then blue, red ticks from roads only (run 15 at 3777,2150; crop 3000,1850); the front itself lies east of x 3885 and runs on unbroken"}
+  - {box: [3650, 2715, 3730, 2770], why: "the First/Third army boundary's end (labelled FIRST / THIRD on the sheet), a short magenta stub of a heavy black line with no ticks (unsure run 3690,2741; crop 3500,2550); the front is the blue ticked line 150 px east, unbroken"}
+  - {box: [3760, 4140, 4160, 4320], why: "the Twelfth/Sixth army group boundary (labelled TWELFTH / SIXTH) from the Moselle south of Metz north-east, magenta, red ticks only from roads, no map ticks (unsure run 3955,4256; crop 3600,3900); the front proper starts as blue at about 4235,4075, past the label"}
+  - {box: [4260,3970,4370,4060], why: "the same Twelfth/Sixth boundary's last stretch to the front, blue, red ticks from roads only, no map ticks (run 17 at 4317,4009; crop 3600,3900); the front itself turns at about 4400,3990 toward Sarreguemines and runs unbroken past it"}
+flip: []
+checked: []
