@@ -1,0 +1,14 @@
+# 12ag-1944-12-19: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21198
+date: 1944-12-19
+as_of: 1200 HRS 19 DECEMBER 1944
+title: "Situation 1200 hrs 19 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2400, 800], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 19 DECEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [0, 4800, 1300, 5976], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [2550, 1650, 3850, 2000], why: "the Twenty One/Twelfth army group boundary from Louvain to the front near Geilenkeirchen, heavy, no ticks"}
+  - {box: [3500, 4650, 4560, 5300], why: "the Twelfth/Sixth army group boundary from south of Nancy along the Marne-Rhine canal to the front, heavy, no ticks"}
+flip: []
+checked: []
