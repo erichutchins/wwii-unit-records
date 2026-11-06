@@ -1,0 +1,23 @@
+# 12ag-1944-12-28: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21207
+date: 1944-12-28
+as_of: 1200 HRS 28 DECEMBER 1944
+title: "Situation 1200 hrs 28 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [50, 150, 2300, 800], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 28 DECEMBER 1944, TWELFTH ARMY GROUP; the GROUP's letters reach y about 740); ends above the Walcheren/Tholen arcs, which start at y about 840"}
+  - {box: [20, 4700, 1000, 5560], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [2600, 2765, 2800, 2795], why: "the Twenty One/Twelfth army group boundary west of the Meuse at Givet, heavy, no ticks (looked on the overlay, crop)"}
+  - {box: [2840, 2770, 3130, 2796], why: "the lettering TWENTY ONE / TWELFTH underlined, with the boundary's stub (looked on the overlay, crop)"}
+  - {box: [3380, 1830, 3560, 1880], why: "the Ninth/First army boundary west of Maastricht, heavy, ticks only of roads (looked on the overlay, crop)"}
+  - {box: [3650, 1790, 3730, 1850], why: "the same boundary's end north-west of Aachen, heavy, no ticks (looked on the overlay, crop)"}
+  - {box: [3835, 1630, 3875, 1660], why: "ink of the enemy 183 box, a short stub beside it, not front (looked on the overlay, crop)"}
+  - {box: [3880, 1085, 3925, 1130], why: "ink of the enemy 180 box, a small hook, not front (looked on the overlay, crop)"}
+  - {box: [4180, 4450, 4270, 4560], why: "the Twelfth/Sixth army group boundary from the front at the Saar corner south-west, magenta, red ticks only from the roads, no map ticks (looked on the overlay, crop)"}
+  - {box: [3790, 4560, 4300, 5000], why: "the same boundary to Dombasle and on, magenta, no map ticks"}
+  - {box: [3480, 5020, 3720, 5180], why: "the boundary's last stretch south-west of Nancy (TWELFTH/SIXTH), heavy, ticks of the roads only"}
+  - {box: [4560, 5170, 4640, 5250], why: "the Seventh/First French army boundary's stub at the lettering SEVENTH/FIRST FR, magenta, no map ticks (looked on the overlay, crop)"}
+flip: []
+checked: []

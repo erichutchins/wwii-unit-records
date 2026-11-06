@@ -1,0 +1,18 @@
+# 12ag-1945-01-05: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21215
+date: 1945-01-05
+as_of: 1200 HRS 5 JANUARY 1945
+title: "Situation 1200 hrs 5 January 1945, Twelfth Army Group (SECRET underlined; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 5 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [3300, 4400, 4260, 5220], why: "the Twelfth/Sixth army group boundary from Sarrebourg south-west past Nancy to Neufchateau, heavy, magenta in part, no map ticks (runs 53 and 66 on the first trace; to be looked at)"}
+  - {box: [2900, 2770, 2995, 2805], why: "the Twenty One/Twelfth army group boundary's stub east of Givet, magenta, no ticks (run 37; the front itself turns away at about x 3010; looked on the overlay crop 2900,2450)"}
+flip:
+  - {at: [5435, 4590], why: "the front's turn at Bisch, east of Haguenau: the map ticks it on the north and west, toward the 42nd and 79th Divisions; turned the other way by its count (review: Baden-Baden read US)"}
+  - {at: [5390, 4622], why: "the same line south-west from Bisch toward the Rhine, ticked on the west: followed the stretch above"}
+checked:
+  - {at: [5431, 4493], why: "the front's magenta stretch east of Soultz-sous-Forets running to Seltz, no ticks told; on the crop 5000,4300 the map's ticks stand on its west (US) side, with the 79th and 45th Divisions on that side"}

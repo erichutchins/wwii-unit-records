@@ -1,0 +1,20 @@
+# 12ag-1945-01-06: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21216
+date: 1945-01-06
+as_of: 1200 HRS 6 JANUARY 1945
+title: "Situation 1200 hrs 6 January 1945, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 770], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 6 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [100, 4850, 1100, 5620], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [3380, 4560, 4260, 5220], why: "the Twelfth/Sixth army group boundary from Sarrebourg south-west past Nancy, magenta, no map ticks"}
+  - {box: [2940, 2796, 3012, 2826], why: "the First US/Second British (or army) boundary's last stub to the front at Rochefort, heavy black, no ticks (looked at 3005,2811 on the overlay crop)"}
+  - {box: [4180, 4040, 4360, 4580], why: "the First/Third army boundary's stub from the Saar corner south-west (runs at 4223,4391), heavy, red ticks only from the roads, no map ticks (looked at 4223,4391 on the overlay crop)"}
+  - {box: [4600, 4065, 4650, 4105], why: "a curl of the heavy ink on an enemy division's symbol (36) north of Sarreguemines at 4620,4084, not the front (looked at it on the overlay crop)"}
+flip: []
+checked:
+  - {at: [3280, 3014], why: "a short hook in the front south of St-Hubert; the line runs on unbroken either side and the map's ticks stand on its south (US) side (looked on the overlay crop)"}
+  - {at: [4320, 3917], why: "the front at the Saarlautern bridgehead, a short heavy jog; the ticks stand on its west (US) side by the 95th (looked on the overlay crop)"}
+  - {at: [4631, 5619], why: "the front turning south along the Rhine-Rhone line east of the Bonhomme pass; ticks on its west (US/French) side, enemy 269 east (looked on the overlay crop)"}

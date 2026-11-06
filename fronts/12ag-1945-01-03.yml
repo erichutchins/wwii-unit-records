@@ -1,0 +1,27 @@
+# 12ag-1945-01-03: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21213
+date: 1945-01-03
+as_of: 1200 HRS 3 JANUARY 1945
+title: "Situation 1200 hrs 3 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [5170, 4190, 5210, 4215], why: "review: a stub of the hatched Westwall band's outline north of Wissembourg, not the front (unsure, no ticks)"}
+  - {box: [5290, 4200, 5322, 4228], why: "review: the same band's outline by Bergzabern, not the front"}
+  - {box: [5345, 4205, 5370, 4235], why: "review: the same band's outline, not the front"}
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 3 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4850, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [3380, 4290, 4300, 5220], why: "the Twelfth/Sixth army group boundary from Neufchateau to Faulquemont, magenta with red ticks from the roads only, no map ticks (looked on the overlay crop)"}
+  - {box: [4240, 4030, 4380, 4300], why: "the First/Third army boundary from the Saar corner south to Faulquemont, blue with red ticks from the roads only, no map ticks; the front itself leaves the corner south-east to Sarreguemines (looked on the overlay crop)"}
+  - {box: [2910, 2780, 3010, 2825], why: "the Twenty One/Twelfth army group boundary west of Rochefort, magenta, heavy black with no ticks, ending at the front's corner (looked on the overlay crop)"}
+  - {box: [5130, 3850, 5240, 4010], why: "ends of the hatched Westwall bands north of Zweibruecken (magenta arcs and short blue edges, no ticks, nowhere near the front); looked on the overlay crop"}
+  - {box: [4930, 4060, 5050, 4110], why: "the lower edge of a hatched Westwall band north of the front at Blieskastel, a short blue stub with one tick, not front"}
+  - {box: [4610, 4055, 4690, 4100], why: "a short blue stub at the edge of the 36th's box on a Westwall band, not front"}
+  - {box: [5300, 4232, 5375, 4255], why: "a blue stub under the 45th's box inside the heavy Westwall band, an edge of the box not front (looked at 5300,4225: the band's ink is too heavy to read ticks)"}
+  - {box: [5495, 4575, 5565, 4630], why: "the far (east) edge of the hatched band on the Rhine's west bank south of Haguenau, magenta; the front is the blue ticked west edge beside it (looked on the overlay crop)"}
+  - {box: [4490, 3510, 4545, 3565], why: "the head of a blunt heavy black spur east of Remich/Wittlich, no ticks either side to read, not on any front the sides test needs (looked on the overlay crop)"}
+flip: []
+# left as found, unsure: 4376,3962 (a short magenta arc at the Saarlautern bridgehead between two blue pieces of the front) and 5189,4205 / 5306,4213 / 5355,4221 (the front's pieces where it runs through the heavy Westwall band north of Wissembourg, ink too heavy to read ticks, the blue pieces on either side are ticked on the US side)
+
+checked: []
