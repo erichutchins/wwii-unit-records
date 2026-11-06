@@ -26,6 +26,15 @@ Context, not identification: the German army reports don't report the Luftwaffe'
 own loss returns have not been seen. The batteries' stations and engagements are also in `../../army/stations.csv` and
 `../../army/actions.csv` (units `67ca-f`, `67ca-g`).
 
+## Outcome
+
+At 1500 on 12 January Battery F at Selvone logged "12 ME-109 bombing mission, 2 planes destroyed"
+[[cite:rg64-461580516/p0215]] and Battery G at Filignano "12 FW 190's, dive bombing ... Two destroyed", one exploding
+in mid-air, the other losing a wing [[cite:rg64-461580516/p0276]]: two batteries 2.5 km apart at the same minute, so
+one raid and one claim of two, seen from two places and named as two types (inferred). The German XIV Panzer Corps'
+reports of the day record their own Flak's successes and the enemy's fighter-bomber attacks, and no German aircraft
+lost [[cite:t314-0543/f0699]]; the Luftwaffe's own loss returns have not been seen.
+
 ## Sources
 
 The folder's files, for anyone reading the records themselves:

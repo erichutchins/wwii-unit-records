@@ -113,7 +113,7 @@ page's lede.
 | `places` | Map labels: `name`, `lon`, `lat`, `small` |
 | `steps`, `views` | The story's steps, framed (below, "Steps") |
 | `relief`, `roads` | The map's base where the records' places sit closer than a world coastline tells: a `relief/<name>/` (or a list of them, coarse first; today's elevation, made by the kit's `build_relief.py`) and a traced road map, `roads/<name>-primary.geojson` (`relief: [algiers, algiers-town]`, `roads: oss967`) |
-| `fronts` | The traced situation maps, `fronts/<name>.geojson`, in date order (`fronts: [12ag-1945-03-07, 12ag-1945-03-09, ...]`): their front lines and unit symbols are drawn under the records as the army group's picture of each day; the account shows the first, the records depth the one its clock is at, or (a dated frame, with no clock) the one chosen on the map. A participant with a `unit` also brings its own placed stations from a week before the window to its end, drawn as its way in, to the day shown |
+| `fronts` | The traced situation maps, `fronts/<name>.geojson`, in date order (`fronts: [12ag-1945-03-07, 12ag-1945-03-09, ...]`): their front lines and unit symbols are drawn under the records as the army group's picture of each day; the page shows the one its clock is at, or (a dated frame, with no clock) the one chosen on the map. A participant with a `unit` also brings its own placed stations from a week before the window to its end, drawn as its way in, to the day shown |
 
 At most three participants with a US track (the page's three checked colours). The boats' attacks, ship contacts and
 depth charges come from their own patrol folders, the Japanese records from each boat's `japanese.yml` inside the

@@ -32,6 +32,16 @@ antiaircraft battery, so a German entry is "the same day and nearly the same pla
 are in `../../army/stations.csv` (units `67ca-e`, `67ca-h`), their casualties in `../../army/actions.csv`. The German
 frames: NARA T-314 roll 544 (XIV Panzer Corps' Taktische Meldungen, Feb 1944) and T-312 roll 90 (the Bezugspunktkarte).
 
+## Outcome
+
+Battery E had one man to hospital and one wounded who stayed on duty at 1740 on 14 February
+[[cite:rg64-463960255/p0775]], and two more lightly wounded on the 16th [[cite:rg64-463960255/p0779]]; its reports
+type no cause and no place. Battery H's gun positions near Acquafondata were shelled at 1500 on 21 February, and two
+men were evacuated with shell wounds [[cite:rg64-463960255/p0988]]. On the German side, the 5th Mountain Division
+reported artillery fire on troops marching at Sant'Elia at dusk on 14 February [[cite:t314-0544/f0362]] and harassing
+fire on Vallerotonda and the supply roads on the 21st or 22nd [[cite:t314-0544/f0486]]. No German report of these
+days names a battery, Lucenteforte or Acquafondata, so each pairing is the same day and nearly the same place at most.
+
 ## Sources
 
 The folder's files, for anyone reading the records themselves:

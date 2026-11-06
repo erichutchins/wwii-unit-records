@@ -30,6 +30,19 @@ artillery, with V-2s and with swimmers, and on the afternoon of 17 March it coll
 far: Headquarters III Corps' after action report for March 1945 (its narrative,
 its G-2 report and its engineer journal).
 
+## Outcome
+
+The Ludendorff bridge was "captured intact at 1550A" on 7 March by the 9th Armored Division
+[[cite:iiicorps-aar-1945-03/p72]], and stood for ten days. The Corps' G-2 report counts "372 enemy aircraft made 223
+raids in nine days on the bridge" [[cite:iiicorps-aar-1945-03/p73]]; the narrative gives the antiaircraft claims day by
+day from 8 to 15 March, the Corps' totals for all its antiaircraft units together, the heaviest on 12 and 13 March
+with 26 shot down each day [[cite:iiicorps-aar-1945-03/p40]] [[cite:iiicorps-aar-1945-03/p43]], none yet checked
+against a German loss return. On 17 March V-2s fell near the bridges: the engineer journal has one officer and four
+men killed and 33 wounded at 1155 [[cite:iiicorps-aar-1945-03/p122]]. At 1500 that afternoon the bridge, "weakened by
+demolitions, artillery fire, near misses of bombs, and by heavy traffic", collapsed [[cite:iiicorps-aar-1945-03/p75]],
+with two engineer companies working on it, about 90 casualties, and "no enemy action in the area" at the time
+[[cite:iiicorps-aar-1945-03/p122]].
+
 ## The claims at the bridge
 
 From 8 to 15 March the narrative gives, day by day, the raids on the bridge, the aircraft in them, and how many were

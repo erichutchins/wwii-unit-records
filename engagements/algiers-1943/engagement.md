@@ -41,6 +41,16 @@ Context, not participation: the records show the battery firing on these evening
 are not yet identified (the war diary gives numbers only). The research behind this is in the family repository's
 leads L39, L40 and L45.
 
+## Outcome
+
+Three nights, and the battery's reports show it firing on each: 2050 to 2125 on 12 May, 0820 and 2136 to 2228 on
+13 May [[cite:rg64-427182819/p0519]], 2225 to 2235 on 4 June [[cite:rg64-427182819/p0537]]; they claim nothing hit.
+No. 153 Squadron claimed one Ju 88 destroyed over the bay on 12 May and a probable on the 13th
+[[cite:tna:AIR 27/1027/37/p3]], and one Ju 88 destroyed 15 miles north of the city on 4 June
+[[cite:tna:AIR 27/1027/39/p1]]. The German Naval Staff's war diary reports the raids by number and names no unit: no
+loss on the May nights [[cite:skl:45/p152]] [[cite:skl:45/p163]], two aircraft missing on 4 June [[cite:skl:46/p38]].
+Whose fire the Ju 88 of 12 May was evading, the records don't say.
+
 ## Where the raiders came from
 
 The German Naval Staff's war diary reports the raids on Algiers under Luftflotte 2 and by number only:
