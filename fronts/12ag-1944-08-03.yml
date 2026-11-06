@@ -1,0 +1,37 @@
+# 12ag-1944-08-03: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21059
+date: 1944-08-03
+as_of: 1200 HRS 3 AUGUST 1944
+title: "Situation 1200 hrs 4 August 1944, HQ Twelfth Army Group (Copy No. blank); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3                  # the 1:500,000 sheet's front is drawn finer: at 4 most of the ticked line is lost, at 2 the lettering comes in
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  # B01 is a 1:500,000 sheet whose front line is finer than the tool's default: radius 3 above (the default 4 left 12
+  # short stretches). Copy it to every B01 day.
+  - {box: [1000, 300, 3800, 830], why: "the title block's lettering (SITUATION 1200 HRS 3 AUGUST 1944 / HQ TWELFTH ARMY GROUP / COPY NO.), top middle on this base"}
+  - {box: [4200, 440, 4650, 600], why: "SECRET, struck through, top right (looked at the overlay: its strike-through and letters ran as short magenta stretches at 4242-4458, 521-546)"}
+  - {box: [1740, 4920, 2490, 5335], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE) letters and sample boxes, bottom left on this day (x 1775-2470, y 4930-5320 on the overlay crop)"}
+  - {box: [1740, 5295, 1900, 5340], why: "the legend's sample of the front line (hatched bar beside FRONT LINE, x 1750-1885, y 5310-5325), a sample not a front"}
+  - {box: [3050, 4580, 3200, 4700], why: "the enemy division symbol (a 2) in the UNLOCATED box, its hatching/oval read as a short curve, not a line (looked at 3113,4637)"}
+  - {box: [2850, 4690, 3010, 4810], why: "the first enemy division box (5) in the 'remnants of these divisions on the third army front' row, its hatching read as a short curve (looked at 2907,4749)"}
+  - {box: [3880, 2870, 4000, 2960], why: "an enemy corps box (I SS) east of Falaise's front, its oval read as a short curve (looked at 3941,2916)"}
+  # Not boxed, and why: the army group (Twelfth/Twenty First), army (Third/First, First/Second British, Second British/First
+  # Canadian) boundaries, the corps lines and the coast-road / Cotentin boundaries are heavy black lines with no ticks;
+  # at --radius 3 they fall below the opening and are not traced at all (looked at the overlay, all black, none blue).
+  # The coastline is blue-grey and light, not traced. No Brittany port (Brest, Lorient, St-Nazaire, St-Malo) lies within
+  # the sheet's town spread (neat lines 2W to 1E, 48N to 50N): no pocket rings to trace on this day.
+flip:   # stretches turned by hand after a look, each with why
+  - {at: [2671, 3220], why: "the vertical line east of the hatched 2 and 3 boxes at Vire (x 2670, y 3180-3260): the map's ticks stand on its east, the US side, the enemy boxes 2 and 3 on its west; looked at 2671,3220 and on the overlay, the run's right (red ticks) was on its west"}
+  - {at: [2672, 3304], why: "the same line's lower end, the thin lens down to the junction at Vire (x 2672, y 3290-3330): joins the foot of the line, whose hatches stand above it; ticks on the east of the lens, as 2671,3220"}
+checked:   # stretches whose ticks didn't tell, confirmed on the overlay (every one by --look and a 4x overlay crop): ticks on the run's right
+  - {at: [3682, 2641], why: "the Caen salient's south end, a plain heavy stretch between two ticked runs: the run heads west with the 4 CDN / 12 CDN boxes and the map's ticks on its right (north), as its neighbour"}
+  - {at: [2866, 3083], why: "the Bocage S-bend (three short arcs east of the Guards box): looked at 4x; the map's hatches on each limb fall on the run's right (upper limb heading west: ticks above; lower limbs heading east: ticks below), as runs 16 and 19 either side"}
+  - {at: [2890, 3151], why: "the Bocage S-bend's second arc, the same bend: ticks on the run's right where it heads west round the tip, as 2866,3083"}
+  - {at: [2665, 3248], why: "the short stretch west of Vire where the line meets the heavy junction at the town: the map's hatches stand above it, the US 28/29 side, the run's right going west"}
+  - {at: [2900, 3309], why: "the rounded foot of the Vire-Bocage line east of Vire, below the British 11th box: the hatches on its west (the run's right heading south) as the stretch above it"}
+  - {at: [2420, 3685], why: "the Avranches-Brecey line south of the 4th box: a plain stretch inside a ticked line, the hatches below it on the run's right heading east, the enemy 116/363 below"}
+# Reviewed: the two stretches turned at Vire (x about 2670) are right by the units: the enemy's 275 and 3 west of
+# the line, the British 11th Armoured east. Radius 3 still leaves gaps (about 119 km traced against 133 on 4 August):
+# the Beffuel line (2200-2420, 3720-3800), the west line towards it (2130-2230, 3290-3480), pieces of the Caen strip.
