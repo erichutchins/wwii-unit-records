@@ -1296,11 +1296,11 @@ loc-12ag:
   link: https://www.loc.gov/resource/g5701s.{1}/
   used_for: >-
     fronts/: the front line traced (tools/trace_front.py) and the unit symbols read, one map a day (12ag-1945-03-07 to
-    -17, every other day: situations as of 1200, G-3 reports nos. 275-285), drawn on the engagement pages as the army
+    -17, every day: situations as of 1200, G-3 reports nos. 275-285), drawn on the engagement pages as the army
     group's picture
   note: >-
     1:1,000,000 outline maps ("Europe (Air) Conical Orthomorphic"), one a day, the front line heavy and ticked on the
-    map's own side, US and enemy units by the Army's symbols (enemy boxes hatched); from 11 March 1945 a list of the
+    map's own side, US and enemy units by the Army's symbols (enemy boxes hatched); from 10 March 1945 a list of the
     enemy divisions facing the Remagen bridgehead. The US units are the army group's own
     record of its divisions; the enemy's are its intelligence picture that day. The scans are JPEG 2000 on the
     Library's tile server (https://tile.loc.gov/storage-services/service/gmd/gmd5/g5701/g5701s/<item>.jp2), which
