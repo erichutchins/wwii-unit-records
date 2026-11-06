@@ -1,0 +1,29 @@
+# 12ag-1945-01-23: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21233
+date: 1945-01-23
+as_of: 1200 HRS 23 JANUARY 1945
+title: "Situation 1200 hrs 23 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 23 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [3370, 2770, 3590, 2830], why: "the First/Third army boundary, labelled FIRST/THIRD on the sheet, from the Ourthe to the AB 17 symbol: magenta and blue runs 3445,2806 and 3530,2801, no map ticks (red ticks only from roads); the front proper is at x 3640+ here (crop 3250,2450)"}
+  - {box: [3250, 2110, 3860, 2200], why: "the Twenty One/Twelfth army group boundary from the Meuse to the front near Aachen, labelled TWENTY ONE / TWELFTH: magenta and blue, no map ticks (unsure runs 3384,2129; 3847,2178; crop 3250,1950)"}
+  - {box: [3845, 2200, 3880, 2262], why: "the Twenty One/Twelfth army group boundary's last stretch to the front, magenta spur (run 3860,2219), no ticks; the front is east of x 3885 here (crop 3250,1950)"}
+  - {box: [3680, 3995, 4395, 4330], why: "the Twelfth/Sixth army group boundary, labelled TWELFTH / SIXTH, from the Moselle south of Metz north-east to the front: magenta and blue, red ticks only from roads (unsure runs 3768,4302; 3958,4247; crop 3650,4000); the front proper turns east at about 4400,3990 to Sarreguemines"}
+  - {box: [4423, 1836, 4563, 1936], why: "the Rhine, printed dark blue, a short run with no map ticks (red ticks only from roads and the river bank); unsure run 4493,1886, not a front (crop 4400,1800)"}
+  - {box: [4896, 2363, 5036, 2463], why: "the Rhine, printed dark blue, a short run with no map ticks (red ticks only from roads and the river bank); unsure run 4966,2413, not a front (crop 4400,1800)"}
+  - {box: [4946, 2509, 5086, 2609], why: "the Rhine, printed dark blue, a short run with no map ticks (red ticks only from roads and the river bank); unsure run 5016,2559, not a front (crop 4400,1800)"}
+  - {box: [4987, 2655, 5127, 2755], why: "the Rhine, printed dark blue, a short run with no map ticks (red ticks only from roads and the river bank); unsure run 5057,2705, not a front (crop 4400,1800)"}
+  - {box: [5289, 2946, 5429, 3046], why: "the Rhine, printed dark blue, a short run with no map ticks (red ticks only from roads and the river bank); unsure run 5359,2996, not a front (crop 4400,1800)"}
+  - {box: [2420, 455, 2505, 505], why: "the Nieuwe Maas, printed blue where it passes under an enemy corps symbol at Rotterdam, a short run with red ticks only from the river's edge; not a front (crop 2150,300)"}
+  - {box: [2580, 280, 2650, 335], why: "a small ring at Gouda, the symbol's or the town's circle, unsure run 2613,307; not a front (crop 2400,150)"}
+  - {box: [2700, 550, 2860, 610], why: "the Waal/Oude Maas at Dordrecht printed blue, unsure run 2776,582, no map ticks; the front (Bergsche Maas) runs below, at y 700+ (crop 2400,150)"}
+  - {box: [3860, 3010, 3930, 3070], why: "a small heavy hook against the 276 division's box, unsure run 3897,3041, no ticks; the front lies west of it at x 3700-3850 (crop 3650,2950)"}
+flip:
+  - {at: [5273, 4952], why: "review: the front on the Rhine bank south of Strasbourg, where the line meets the Colmar pocket's north edge; it borders the enemy's hatched strip on the east and is ticked on the west, but came out turned the other way (Offenburg read US)"}
+  - {at: [5241, 4976], why: "review: the same line's next stretch south, turned with it"}
+checked:
+  - {at: [3648, 2742], why: "a short joint (about 30 px) in the Ardennes front at its bend north of the AB 17 symbol, no ticks of its own; it joins the ticked runs either side and carries the line unbroken (crop 3250,2450); the towns behind it (Marche, Namur, Dinant) read US with it"}
