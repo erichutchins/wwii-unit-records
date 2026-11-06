@@ -1,0 +1,39 @@
+# 12ag-1945-03-21: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21290
+date: 1945-03-21
+as_of: 211200 MAR. 1945
+report: 289
+title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 289, situation as of 21 1200 Mar. 1945 (signed, C. T. Schmidt)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: 12ag-1945-01-31
+# Base B12 (1:1,000,000), a pilot: no day was traced on it before; the plate is B11's placed 1728 px left and 920 px down
+# (the towns agree 18 of 81 within 4 px; the rest are placed through the transform, those far west and south lie off the
+# traced area's front). The traced area is the towns' spread. The excludes were settled by looking at the overlay of the
+# whole sheet and each crop (scan coordinates):
+#  - the title block: on this sheet the lettering stands at the top left of the scan, but only its foot falls in the
+#    traced area: the signature (C. T. Schmidt, for A. FRANKLIN KIBLER, Brigadier General, G.S.C., A.C. of S., G-3)
+#    at x 350-1490, y 1090-1445, left of the Tholen front (whose west end is at about 400,1729) and above the Waal front,
+#    which rises to y 1325 at x 1530. Its letters made five short unsure runs.
+#  - the legend: bottom left, the U.S., BRITISH, ENEMY and FRONT LINE samples and the lettering, x 150-1100, y 5000-5720;
+#    its sample line and the lettering made seven unsure runs. (The declassification stamp below it is untraced ink.)
+#  - boundaries drawn heavy with no map ticks, whose "ticks" are roads: the TWENTY ONE / TWELFTH army group boundary
+#    from Liege to its end at about 2400,2800 (blue) and on to the Rhine at Neuss (magenta), and the TWELFTH / SIXTH
+#    boundary west of the Saar, from Conflans to Saarlautern's front at about 2690,4885. Left in, they put Pruem, Namur,
+#    Dinant, Marche, Huy, Verviers and Metz on the enemy side.
+#  - not traced and not needing a box (no stretch was made of them): the First/Third army boundary and the
+#    other army boundaries (heavy black lines, no blue), the Rhine (dark blue, drawn wide, not front), and the Westwall
+#    outline (the hatched bands of dragon's teeth in the Eifel, Saar and Palatinate, and the Siegfried line's bands
+#    beside the front at Aachen and Wissembourg): none carries blue.
+exclude:
+  - {box: [350, 1090, 1250, 1445], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER, G. / Brigadier General, G.S.C. / A.C. of S., G-3), magenta hooks of its letters (unsure runs 824,1352; 703,1361; 952,1358); looked, overlay crop 250,1000"}
+  - {box: [1250, 1200, 1490, 1300], why: "the signature's 'KIBLER, G.' lettering (unsure runs 1449,1259 and 1367,1262); the front is below y 1320 at x 1250-1490"}
+  - {box: [150, 5000, 1100, 5720], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample and lettering); its unsure runs at 511,5254, 766,5253, 489-954,5589-5608; looked, overlay crop 0,5000"}
+  - {box: [1580, 2790, 2400, 3000], why: "the TWENTY ONE / TWELFTH army group boundary from Liege to its end beside the lettering, blue-drawn, red ticks only from roads, no map ticks (runs 20 and 22; looked, overlay crop 1550,2450); the front is on the Rhine, east of x 2500 here"}
+  - {box: [2420, 2540, 2640, 2800], why: "the same boundary's stretch from its end at 2400,2800 to the Rhine near Neuss (unsure run 2512,2607), magenta, roads' ticks only (looked, overlay crop 1550,2450); the front on the Rhine is at x 2640 and above, unbroken"}
+  - {box: [1820, 4850, 2680, 5030], why: "the TWELFTH / XXXXX / SIXTH army group boundary from Conflans to the front at about 2690,4885, heavy black, no map ticks (unsure run 2031,4981 and blue runs 41-42; looked, overlay crop 1700,4650); it put Metz and Toul on the enemy side"}
+  - {box: [3125, 4245, 3195, 4305], why: "a short heavy line with no ticks between the REMNANTS pocket and the 89(-) box at Idar-Oberstein (unsure run 3155,4275, magenta; looked, --look and overlay crop 2600,3650); the pocket's outline is ticked outward on both sides of it and runs unbroken"}
+flip: []
+checked:
+  - {at: [401, 1729], why: "the front's west end on Tholen/St Annaland, a short arc: the map's ticks hang on its south side, the way the run's red ticks fall (looked, --look 401,1729)"}
+# Reviewed: Strasbourg and Colmar read enemy only because their rings are below the sheet's neat line (y about 5780),
+# past the front's open end on the Rhine; the reach itself is ticked west. Not a wrong stretch.
