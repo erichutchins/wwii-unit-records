@@ -83,7 +83,7 @@
   shows: the Seine, Paris and north-east France, the Seine estuary at top-left
   towns: towns-B07.csv
   towns_on: 12ag-1944-08-26
-  towns_check: the sheet draws no graticule inside the map, only ticks on its neat line: 14 ticks (8 meridians along the bottom, 6 parallels down the right) read by eye on the margins of 26 August 1944 (6 November 2026), the conic solved on them (0.23 km rms, 0.7 km at worst); registers on 29 August at 12 of 14. Its scale line reads 1:750,000
+  towns_check: 14 ticks, since the sheet draws no graticule inside the map, only ticks on its neat line (8 meridians along the bottom, 6 parallels down the right) read by eye on the margins of 26 August 1944 (6 November 2026), the conic solved on them (0.23 km rms, 0.7 km at worst); registers on 29 August at 12 of 14. Its scale line reads 1:750,000
 - base: B08
   from: 1944-09-02
   to: 1944-09-05
@@ -93,7 +93,7 @@
   shows: the Strait of Dover at top-left, Paris at bottom-centre, Belgium at the right
   towns: towns-B08.csv
   towns_on: 12ag-1944-09-02
-  towns_check: the sheet draws no graticule inside the map, only ticks on its neat line: 13 ticks (7 meridians along the bottom, 6 parallels down the right) read by eye on the margins of 2 September 1944 (6 November 2026), the conic solved on them (0.48 km rms, 1.7 km at worst); registers on 4 September at 12 of 13
+  towns_check: 13 ticks, since the sheet draws no graticule inside the map, only ticks on its neat line (7 meridians along the bottom, 6 parallels down the right) read by eye on the margins of 2 September 1944 (6 November 2026), the conic solved on them (0.48 km rms, 1.7 km at worst); registers on 4 September at 12 of 13
 - base: B09
   from: 1944-09-06
   to: 1944-11-03
