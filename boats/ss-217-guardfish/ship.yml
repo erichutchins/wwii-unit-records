@@ -1,0 +1,14 @@
+# USS GUARDFISH (SS-217). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: GUARDFISH
+hull: SS-217
+class: Gato
+silhouette: gato     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
+kind: submarine
+plain: "a fleet submarine of the Gato class: her eighth war patrol, in a coordinated attack group with PIRANHA and THRESHER in the Luzon Strait and South China Sea, June-July 1944"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+max_kts: 20.5          # surfaced maximum, about 21 kn (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 8, name: Eighth War Patrol, dates: 14 Jun 1944 – 31 Jul 1944 }

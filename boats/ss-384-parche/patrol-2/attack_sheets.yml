@@ -1,0 +1,195 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type of attack) and `table_page`
+# (one column per torpedo). Every sheet of this patrol types the same position, Lat. 19-10 N Long. 120-58 E,
+# and the date July 31, 1944, zone I.
+# attacks.csv units, as typed: courses degrees (T), speeds kts, ranges yds, drafts and depth set ft; gyro as typed
+# with its side (13° L -> 13L); track with its side (109 P -> 109P); interval in seconds between torpedoes, typed
+# "0", "10 sec.", "19" (Attack 2's "3 minutes" written 180); since_first is the running sum. "Type Spread" is typed
+# either per torpedo as an offset (1 L, 0, 2 R -> offset) or as the word "Offset" or "-" (-> spread).
+# Power typed "-" is kept as -. Own depth "Surface" kept. Halves written .5 (1½ kts -> 1.5).
+
+- attack: Attack 1
+  sheet_heading: TORPEDO ATTACK NO. 1 and 2 (one sheet for both)
+  time: 0359-0402I
+  type_attack: >-
+    Night surface attack on large escorted convoy. Commenced firing bow tubes just as target began swinging left.
+    Checked fire and swung right to bring stern tubes to bear. Fired tube #7 after target had steadied on a
+    southerly course.
+  description: Medium AK, MKFKM, composite superstructure with tall thin stack similar to Panama Maru.
+  sunk: None.
+  damaged: Medium AK (EU), similar to Panama Maru.
+  determined_by: 'One timed explosion about 2 minutes after firing tube #7.'
+  target_line: >-
+    Target Draft 26' Course (1) 280 T (2) 175 T Speed 8 kts 8 kts Range 480 yds (at firing) 2000 yds
+  own_ship: 'Speed 16 kts Course (1) 3?? (2) 0?? Depth: Surface Surface Angle 140 P (at firing) 140 P'
+  spread: 1 L, 1 R (tubes 1 and 2, "First Attack")
+  hits: Miss, Miss
+  torpedo_detail: Mark 23 torpedoes, Mark 6-4 exploders, actuation set Contact, actual -, Mark 16-1 warheads, TPX, power High.
+  sea: Moderate
+  overhaul: USS PROTEUS
+  remarks: >-
+    Obtained one timed explosion about two minutes after firing tube #7. No other confirmation of damage except
+    that we were unable to locate this target after other attacks were completed.
+  page: rg367-74828617/p23
+  table_page: rg367-74828617/p24
+  note: >-
+    Own course: re-read on a close zoom, line (1) shows only a 3 and line (2) only a 0 (half-struck, like a C); nothing legible follows either figure. Written 3?? and 0??.
+    The narrative (p15, 0359 I) says the first two torpedoes were seen going to miss astern, so fire was checked.
+    Target (1) course 280, 480 yds is given to tubes 1-2 and target (2) course 175, 2000 yds to tube 7: the
+    narrative fires tube 7 at 0402 "at range 2000 yards" and the sheet's words have the target steadied on a
+    southerly course. Narrative 0357 I: the SJ lost the target at 450 yards before the bow shots.
+
+- attack: Attack 2
+  sheet_heading: TORPEDO ATTACK NO. 1 and 2 ("Second Attack" column)
+  time: 0359-0402I
+  hits: (Probable Hit)
+  spread: "0"
+  torpedo_detail: Mark 23, Mark 6-4 exploder, Contact, Mark 16-1 warhead, TPX, power High; firing interval typed "3 minutes".
+  sea: Moderate
+  overhaul: USS PROTEUS
+  page: rg367-74828617/p23
+  table_page: rg367-74828617/p24
+  note: >-
+    Shares Attack 1's sheet (target and own-ship lines (2), Angle 140 P). Narrative p15, 0402 I: "Plot was still
+    tracking AK which was in nice position for stern shot. TDC had good set up so fired tube #7 at range 2000
+    yards. Heard one explosion about 2 minutes later". The 3-minute interval is from the bow shots at 0359.
+
+- attack: Attack 3
+  time: 0407 I
+  type_attack: >-
+    Night surface attack from port flank. Fired 4 bow tubes at 1800 yards. First torpedo hit forward
+    disintegrating bow while second, third, and fourth hit under bridge, quarter, and stern respectively. Ship
+    sank almost immediately.
+  description: Large AO, three masts, low ?at stack aft.
+  sunk: 1 large unidentified AO. (??)
+  damaged: None.
+  determined_by: Four hits sank ship in about two minutes.
+  target_line: Target Draft 28' Course 290 T Speed 8 kts. Range 1800 yds (at firing)
+  own_ship: Speed 17.5 knots Course 025 T Depth Surface Angle 85 P (at firing)
+  spread: 1 L, 0, 1 R, 2 R (tubes 3 to 6)
+  hits: Hit, Hit, Hit, Hit
+  torpedo_detail: Mark 23, Mark 6-4 exploders, actuation set and actual Contact, Mark 16-1 warheads, TPX, power -.
+  sea: Moderate
+  overhaul: S/M,Base,PH (tubes 3-5); USS PROTEUS (tube 6)
+  page: rg367-74828617/p25
+  table_page: rg367-74828617/p26
+  note: >-
+    Narrative p15, 0407 I: "fired four bow tubes on 110 port track at range 1500 yards" - the sheet types 1800
+    yds and tracks 118-134 P. attacks.csv holds the sheet's. The sunk line's class letters are faded (EU on the
+    other sheets). Description's stack word is half gone ("squat" on attacks 4 and 6).
+    Typed tracks 118-134 P are wider than own course 025 + gyro vs target 290 gives (107-119 P; check_attacks.py; bow tubes, so no stern correction): kept as typed.
+- attack: Attack 4
+  time: 0410 I
+  type_attack: >-
+    Night surface attack on second tanker in center column of convoy. After firing at first tanker, swung right
+    to bring stern tubes to bear on this target. Fired 3 stern tubes. First torpedo missed ahead, second and
+    third torpedoes hit forward and under bridge respectively slowing target to about 2 knots.
+  description: Large AO, three masts, low squat stack aft.
+  sunk: None
+  damaged: 1 large unidentifi?? ?O. (EU)
+  determined_by: Observed 2 hits fo??ard, tanker slowed to about 2 knots.
+  target_line: Target Draft 28' Course 290 T Speed 8 kts. Range 1200 yds (at firing)
+  own_ship: Speed 17.5 kts. Course 185 T Depth Surface Angle 100 P (at firing)
+  spread: Offset, -, - (tubes 7 to 9)
+  hits: Miss, Hit, Hit
+  torpedo_detail: Mark 23, Mark 6-4, actuation set Ct, actual -, Ct, Ct; Mark 16-1 warheads, TPX, power -.
+  sea: Moderate
+  overhaul: USS PROTEUS
+  page: rg367-74828617/p27
+  table_page: rg367-74828617/p28
+  note: >-
+    Narrative p15, 0410 I: "Fired three stern tubes at this tanker on 100 port track range 1200 yards" (the
+    sheet's tracks are 115-117 P, its angle 100 P). Firing intervals typed 0, 19, 11 without a unit.
+    Re-read on the scan (zoom): tracks 115 P, 115P, 117 P and own course 185 T are as typed. check_attacks.py computes 61-69 S because it takes own course + gyro as the torpedo's heading; tubes 7-9 are stern tubes, so the torpedoes ran on about 185 - 180 = 005 less the gyro (359-351), and against target 290 that gives tracks of about 111-119 P, which agrees with the sheet. Kept as typed.
+- attack: Attack 5
+  time: 0416 I
+  type_attack: >-
+    Night surface attack. Made approach from starboard flank on AP or AK in port column of convoy. Fired two bow
+    tubes - obtained two hits amidships whi?? broke ship in two.
+  description: >-
+    Medium AP or AK, MKFM, composite superstructure, 3 decks, tall slim stack, similar to Yokohama Maru
+  sunk: 1 medium AP or AK (EU), similar to Yokohama Maru.
+  damaged: None.
+  determined_by: Two hits amidships, ship broke in two and sank within 2 minutes.
+  target_line: Target Draft 28' Course 280 T Speed 8 kts. Range 500 yds (at firing)
+  own_ship: Speed 10 kts Course 187 T Depth Surface Angle 90 S (at firing)
+  spread: Offset, Offset (tubes 1 and 2)
+  hits: Hit, Hit
+  torpedo_detail: Mark 23, Mark 6-4, Contact/Contact, Mark 16-1 warheads (serial typed "116 03"), TPX, power High.
+  sea: Moderate
+  overhaul: USS PROTEUS
+  page: rg367-74828617/p29
+  table_page: rg367-74828617/p30
+  note: >-
+    The sheet's serial is typed "Serial (50)" in this page's heading, the others "(59)". Narrative p15, 0416 I:
+    "Fired two bow tubes at AP on 80 starboard track at 800 yards" - the sheet types 500 yds, track 90 S and 95 S.
+
+- attack: Attack 6
+  time: 0421 I
+  type_attack: >-
+    Night surface attack. This was a second attack on the tanker previously damaged with two hits in fourth
+    attack. Approached from port quarter, passed close astern and after being subjected to heavy machine gun
+    fire brought stern tubes to bear. Fired three stern tubes at short range, all hit from amidships aft. Ship
+    went under within three minutes.
+  description: Large AO, three masts, low squat stack aft.
+  sunk: 1 large unidentified AO (EU)
+  damaged: None.
+  determined_by: 'Three hits in tank? already damaged in attack #4. Total five hits. ??ip sank in 3 minutes.'
+  target_line: Target Draft 28' Course 270 T Speed 1½ kts. Range 700 (at firing)
+  own_ship: Speed 17.5 Course 320 T Depth Surface Angle 80 S (at firing)
+  spread: 2 R, 0, 2 L (tubes 8 to 10)
+  hits: Hit, Hit, Hit
+  torpedo_detail: Mark 23, Mark 6-4, Contact/Contact, Mark 16-1 warheads, TPX, power -.
+  sea: Moderate
+  overhaul: S/M,Base,PH (tube 8); USS PROTEUS (tubes 9, 10)
+  page: rg367-74828617/p31
+  table_page: rg367-74828617/p32
+  note: >-
+    Narrative p15, 0419-0421 I: the tanker opened up at about 500 yards with "4 or 5" gun, 20mm and 40mm; "At 800
+    yards range fired three stern tubes at this menace. All hit". The sheet types range 700.
+    Re-read on the scan (zoom): 100 S, 93 S, 86 S and gyros 48 R, 43 R, 35 R are as typed. check_attacks.py's 82-95 P takes the bow heading; these are stern tubes (8-10): heading 320 - 180 = 140 plus gyro (188, 183, 175) against target 270 gives about 98, 93, 85 S, agreeing with the sheet. Kept as typed.
+- attack: Attack 7
+  sheet_heading: TORPEDO ATTACK NO. 7 and 8 (one sheet for both)
+  time: 0420-1433 I
+  type_attack: >-
+    Night surface attack on large AP in starboard column of convoy. From position dead ah??d at 1800 yards fired
+    three shots down the throat. Two hits were obtained stopping the target. Then closed on starboard bow and
+    swung out to the left to bring stern tube to bear. Fired last stern shot at 1100 yards for a bulls eye. Ship
+    sank ten minutes later, bow first.
+  description: >-
+    Large AP, composite superstructure with large conspicuous bridge structure forward and low fat stack,
+    similar to HEIAN MARU.
+  sunk: 1 large unidentified AP (EU), similar to HEIAN MARU.
+  damaged: None.
+  determined_by: 'Two hits in attack #7 and one hit in attack No. 8. Ship observed to sink bow first ten minutes later.'
+  target_line: Target Draft 28' Course 215 T Speed 8 kts. Range 1800-1100 (at firing)
+  own_ship: Speed 17.5 knots Course 035 T / 320 T Depth Surface Angle 0 / 180 (at firing)
+  spread: Offset, Offset, Offset (tubes 3 to 5)
+  hits: Miss, Hit, Hit
+  torpedo_detail: Mark 23, Mark 6-4, actuation set Contact, actual -, Contact, Contact; Mark 16-1, TPX, power High.
+  sea: Moderate
+  overhaul: USS PROTEUS
+  page: rg367-74828617/p33
+  table_page: rg367-74828617/p34
+  note: >-
+    The time is typed "0420-1433 I", kept in attacks.csv (attack 7 at 0420, attack 8 at 1433). The narrative
+    (p16) gives 0429 I ("Commenced firing bow tubes. First fish started off to the right so checked fire and
+    spotted on, then fired two more") and 0433 I ("Fired one stern shot on 90 starboard track at 800 yards"),
+    so 1433 is read as a typo for 0433 (positions.csv has the fix). Ranges: the first line's 1800 for attack 7,
+    the second's 1100 for attack 8 (narrative 800). Own course and angle: 035 T / 0 for attack 7, 320 T / 180
+    for attack 8. Narrative: the big AP stopped, down by the bow, then at 0442 I "the stern came up and went
+    straight down, head first" (13 minutes after 0429, 9 after 0433).
+
+- attack: Attack 8
+  sheet_heading: 'TORPEDO ATTACK NO. 7 and 8 ("Attack #8" column)'
+  time: 0420-1433 I
+  hits: Hit
+  spread: "-"
+  torpedo_detail: Mark 23, Mark 6-4, Contact/Contact, Mark 16-1, TPX, power High.
+  sea: Moderate
+  overhaul: USS PROTEUS
+  page: rg367-74828617/p33
+  table_page: rg367-74828617/p34
+  note: >-
+    Shares Attack 7's sheet (see its note).
+    Re-read on the scan (zoom): track 90 S, gyro 0 as typed. Tube 10 is a stern tube: heading 320 - 180 = 140 against target 215 gives about 105 S, not the computed 75 P (bow) nor the typed 90 S; the narrative (p16, 0433 I) also says 90 starboard track. Kept as typed.

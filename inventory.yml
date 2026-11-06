@@ -18,6 +18,10 @@ boats:
     folder: boats/ss-215-growler
     patrols:
       9: { status: mapped, nara: [74818866], first_fix: 1944-05-15, last_fix: 1944-07-17, files: [positions, japanese, claims, attacks], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-217:   # GUARDFISH, Gato class
+    folder: boats/ss-217-guardfish
+    patrols:
+      8: { status: mapped, nara: [74819308], first_fix: 1944-06-14, last_fix: 1944-07-31, files: [positions, attacks], note: "no position table: narrative events, ship and aircraft contacts and attack sheets; ports at standard positions; no depth log. Luzon Strait 2-21 July with PIRANHA and THRESHER (Capt O'Regan); left the strait 21 July, so not in the 30-31 July action" }
   SS-235:   # SHAD, Gato class
     folder: boats/ss-235-shad
     patrols:
@@ -26,6 +30,10 @@ boats:
     folder: boats/ss-267-pompon
     patrols:
       7: { status: mapped, nara: [74834293], first_fix: 1945-01-05, last_fix: 1945-02-12, files: [positions, japanese, claims], note: "position tables, attack sheets and narrative fixes; no depth log" }
+  SS-280:   # STEELHEAD, Gato class
+    folder: boats/ss-280-steelhead
+    patrols:
+      6: { status: mapped, nara: [74851415], first_fix: 1944-06-17, last_fix: 1944-08-16, files: [positions, japanese, claims, attacks], note: "no position table: narrative fixes, ship contacts and attack sheets; aircraft tables not transcribed; no depth log. Group 17.15 with PARCHE and HAMMERHEAD (Cdr Parks); the 30-31 July action" }
   SS-283:   # TINOSA, Gato class
     folder: boats/ss-283-tinosa
     patrols:
@@ -43,6 +51,7 @@ boats:
     folder: boats/ss-384-parche
     patrols:
       1: { status: mapped, nara: [74828582], first_fix: 1944-03-30, last_fix: 1944-05-23, files: [positions, japanese, claims, attacks], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      2: { status: mapped, nara: [74828617], first_fix: 1944-06-24, last_fix: 1944-08-06, files: [positions, japanese, claims, attacks], note: "no position table: aircraft and ship contacts and attack sheets (the narrative types no positions); no depth log. Ramage's Medal of Honor action, 31 July 1944" }
   SS-385:   # BANG, Balao class
     folder: boats/ss-385-bang
     patrols:

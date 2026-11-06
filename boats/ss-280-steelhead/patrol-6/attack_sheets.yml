@@ -1,0 +1,147 @@
+# The attack data sheets' words, as typed (section (H) ATTACK DATA, pp. 32-37 of Enclosure (A)). Hand-edited;
+# the numbers are in attacks.csv. Each sheet runs over two scans: `page` (time, position, target and own-ship
+# data, type of attack) and `table_page` (one column per torpedo). attacks.csv cites `page`.
+# attacks.csv units, as typed: courses degrees (T), speeds kts, ranges yds, depths and drafts ft; interval in
+# seconds since the torpedo before (typed 0, 8, 7 ...); depth_set typed 8. check_attacks.py CHECKs (3-9° on
+# tubes whose gyro differs from the rest: Attack 1 tube 5, gyro 357) come from the divergent spreads: the typed
+# track is the TDC track, the gyro the offset one. Read on the scan, kept as typed.
+# Type Spread is typed per torpedo as an offset (1R, 4L; ½R written 0.5R), so attacks.csv's offset holds it.
+# No sheet types a target speed for Attack 1; own depth typed "Surface" kept as Surface.
+# The gun attack sheet (p40, 8 July) is in positions.csv (Gun Attack 1); a gun attack has no rows here.
+
+- attack: Attack 1
+  type_attack: >-
+    Night surface attack. Radar ranges and bearings used in tracking. Bearing indication was shifted to T.B.T.
+    when target became visible on bridge. TBT was coached on target and bearings checked to insure both TBT and
+    radar on same ship in convoy. Fired on continuous bearing from TBT. Actual course of target varied from TDC
+    course as target zigged away immediately prior to firing. Fired six torpedoes with large angular spread with
+    intention of covering two overlapping ships (AO and AK).
+  description: >-
+    Convoy of 12 or more large enemy merchantmen consisting of AK, AO, and AP types, escorted by numerous small
+    escorts, convoy in column of lines, 3 or 4 ships to a line. Contact made by SJ radar at 27,000 yards. Attack
+    was carried out after moonset. Sky dark and overcast, horizon hazy. Details of ships indiscrenable at 3500
+    yards, stacks and superstructure discernable at 3000 yards.
+  sunk: None.
+  damaged: One AO, approximately 10,000 tons; One AK, approximately 7500 tons.
+  determined_by: >-
+    Saw one torpedo hit AK; saw black smoke coming from AO amidships at waterline and heard timed explosions.
+  target_line: >-
+    Target Draft: AO - 20 ft.; AK - 25 ft.; Course: 200° by TDC, about 160 actual. Range at firing: 3000 yards.
+  own_ship: "Speed: 6 Knots; Course - 100°; Depth - Surface."
+  spread: ½R, ½R, 2R, 2L, 4R, 4L (one per torpedo, tubes 1 to 6)
+  hits: Miss, Miss, Miss, Hit(AO), Hit(AK), Hit(AO)
+  torpedo_detail: >-
+    Mark 14-3A torpedoes, Mark 6-4 exploders, actuation set Contact (actual Contact on tubes 4-6, "- -" on 1-3),
+    Mark 16-1 warheads, TPX. Track Angle row headed "(TDC)".
+  remarks: >-
+    Just prior to firing the Commanding Officer on the bridge requested the range. The reply was that the
+    torpedo run was 2600 yards and as it was apparent target was diverging permission was granted to fire as a
+    range of about 2400 yards. Actually the range was closer 3000 yards and the TDC set up was not correct as
+    the targets were apparently still turning away. Ranges taken during and after firing showed this to be true
+    and instead of a 2600 yard run the actual run was closer to 3200 yards. The time of the explosions bore this
+    out. It is believed that the right hand torpedo in the spread was the one seen to hit the freighter and the
+    left hand two torpedoes in the spread, hit the tanker.
+  sea: Rough
+  overhaul: Submarine Base, Midway.
+  page: rg367-74851415/p34
+  table_page: rg367-74851415/p35
+  note: >-
+    The sheet types one target course (200 by TDC, about 160 actual) and one range (3000) for both ships;
+    attacks.csv gives the TDC course, 200. Draft per torpedo is inferred from the Hit column: tube 5, typed
+    Hit(AK), gets the AK's 25 ft; the others the AO's 20 ft. Tube 5's gyro read 357 (the others 350-351); kept as
+    typed. The narrative (p23, 0332) says firing began at 2900 yards; the sheet says 3000.
+
+- attack: Attack 2
+  type_attack: >-
+    Night surface. Bearings shifted to TBT after coaching from radar to insure coincidence. Fired divergent spread
+    from four stern tubes by continuous bearing method on TBT bearings. Time too short to obtain plot as attack
+    was completed four minutes after Attack No. 1, during which time STEELHEAD swung around for stern shot on
+    this target.
+  description: >-
+    Convoy described in Attack No. 1. Target for this attack was 7500 ton AK in rear of ships hit in Attack No. 1.
+  sunk: None.
+  damaged: None, probably one AK.
+  target_line: "Target Draft: 25 ft.; Course 240°; Speed 10 kts. Range at firing - 1800 yards."
+  own_ship: "Speed - 6 knots; Course 320°; Depth - Surface."
+  spread: 1R, 1L, 4R, 4L (tubes 7 to 10)
+  hits: Miss, Miss, Miss, Miss
+  torpedo_detail: >-
+    Mark 23 torpedoes, Mark 6-4 exploders, actuation set Contact (actual typed "?"), Mark 16 warheads (tubes 7, 8)
+    and 16-1 (9, 10), TPX.
+  remarks: >-
+    The torpedo run on the large AK was 1700 yards and the average track 88 starboard. Shortly after firing
+    however the target was seen changing course either towards or away. One lookout reported what he thought was
+    a hit and there were several explosions which could have been torpedoes or depth charges. The Commanding
+    Officer believes all torpedoes missed ahead, but two may have hit.
+  sea: Rough.
+  overhaul: Submarine Base, Midway.
+  page: rg367-74851415/p35
+  table_page: rg367-74851415/p36
+  note: >-
+    The sheet's position types "Long. 120°50'N." (N for E); positions.csv keeps it as 120-50E with this note. The
+    remarks give a 1700-yard run against the 1800 range at firing; the narrative (p23, 0336) says 1700 yards, 80
+    starboard track, where the sheet's tracks are 86S-90S (average 88).
+
+- attack: Attack 3
+  type_attack: >-
+    Night surface. Dearings shifted to TBT after coaching from radar to obtain coincidence. Fired a divergent
+    spread from four tubes aft by continuous bearing method on TBT bearings.
+  description: >-
+    Convoy described in Attack No. 1. Target for this attack was two stack AP or more than 10,000 tons.
+  sunk: One AP, over 10,000 tons, similar to TEIKYO MARU (page 16 ONY 208-J).
+  determined_by: Two hits seen from bridge.
+  target_line: "Target draft 25 ft.: Course 290°; Speed 9.5 knots; Range at firing- 2000"
+  own_ship: "Speed - 6; Course - 210; Depth - Surface."
+  spread: 1L, 1R, 3L, 3R (tubes 7 to 10)
+  hits: Hit, Hit, Miss, Miss
+  torpedo_detail: >-
+    Mark 23 torpedoes, Mark 6-4 exploders, actuation set Contact (actual Contact on 7 and 8, "- -" on 9 and 10),
+    Mark 16 warheads, TPX. Erratic row typed "Erractic".
+  remarks: >-
+    This stern shot on a large two stack transport, was fired with a range of 2000 yards and an average track of
+    98P. Two explosions were heard corresponding to the runs for #7 and #8 shots and two flashes were seen from
+    the bridge one forward of the platform decks which was very bright and another duller flash about one
+    hundred feet further aft. Although the transport was large, we fully expected these hits to stop. In the
+    damaged condition in which she was last seen she could never reach port.
+  sea: Rough.
+  overhaul: Submarine Base, Midway.
+  page: rg367-74851415/p37
+  table_page: rg367-74851415/p37
+  note: >-
+    "Dearings" and "ONY 208-J" as typed (ONI 208-J). The sheet's position repeats Attack 1's (18-57N, 120-50E),
+    though the attack came 77 minutes later. The narrative (p24, 0449) gives "a range of 2000 yards, 100 port
+    track". The torpedo table runs onto p38 (Mark torpedo to Type Spread).
+
+- attack: Attack 4
+  type_attack: >-
+    Night surface. Bearings shifted to TBT after considerable coaching by radar to obtain matched bearings. Fired
+    four bow tubes, divergent spread, on TBT bearings, continuous bearing method.
+  description: >-
+    Convoy described in Attack No. 1. Target for this attack was 5,500 ton AK similar to MALTA MARU (page 221 of
+    ONI 208-J).
+  sunk: One 5,500 ton AK - MALTA MARU type.
+  damaged: None.
+  determined_by: >-
+    Two explosions seen from bridge, two times explosions heard in conning tower. Target bow sank to water level.
+    Target disappeared after subsequent explosion.
+  target_line: "Target draft - 22 ft.; Course 225; Speed 9.5; Range at firing 1900."
+  own_ship: "Speed - 9 knots; Course - 320; Depth - Surface."
+  spread: 1L, 1R, 4L, 4R (tubes 1 to 4)
+  hits: Miss, Hit, Miss, Hit
+  torpedo_detail: >-
+    Mark 14-3A torpedoes, Mark 6-4 exploders, actuation set Contact (actual Contact on 2 and 4, "- -" on 1 and 3),
+    Mark 16 warheads, TPX.
+  remarks: >-
+    Fired four bow shots at a medium sized freighter and saw two flashes one just aft of the stack and another
+    about under the mainmast. Explosions heard corresponded to the torpedoes in tubes #2 and 4. The bow went down
+    until it almost awash and a white masthead light was turned on. Target did not slew for at least 5 minutes.
+    About twenty minutes later saw a huge flash on bearing of target and heard a loud explosion after which
+    target was no longer visible. Believe target sank. It was a medium sized freighter similar to the MALTA MARU
+    (page 221 of O.N.I. 208-J).
+  sea: Rough.
+  overhaul: Submarine Base, Midway.
+  page: rg367-74851415/p38
+  table_page: rg367-74851415/p39
+  note: >-
+    "two times explosions" as typed (timed). The sheet's position repeats Attack 1's. The narrative (p24, 0459)
+    gives "a torpedo run of 1750 yards, 80 port track"; the sheet types 1900 range and 75P-79P.

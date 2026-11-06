@@ -1,0 +1,20 @@
+attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
+Attack 1,1944-07-31,0359,I,1,3??,16,Surface,280,8,480,26,109P,13L,10',High,Miss,No,23,0,,,1L,rg367-74828617/p23
+Attack 1,1944-07-31,0359,I,2,3??,16,Surface,280,8,480,26,120P,17L,10',High,Miss,No,23,10,,,1R,rg367-74828617/p23
+Attack 2,1944-07-31,0402,I,7,0??,16,Surface,175,8,2000,26,150P,11.5R,10',High,(Probable Hit),No,23,180,,,0,rg367-74828617/p23
+Attack 3,1944-07-31,0407,I,3,025,17.5,Surface,290,8,1800,28,118P,24L,10',-,Hit,No,23,0,,,1L,rg367-74828617/p25
+Attack 3,1944-07-31,0407,I,4,025,17.5,Surface,290,8,1800,28,123P,26L,10',-,Hit,No,23,10,,,0,rg367-74828617/p25
+Attack 3,1944-07-31,0407,I,5,025,17.5,Surface,290,8,1800,28,129P,30L,10',-,Hit,No,23,20,,,1R,rg367-74828617/p25
+Attack 3,1944-07-31,0407,I,6,025,17.5,Surface,290,8,1800,28,134P,34L,10',-,Hit,No,23,15,,,2R,rg367-74828617/p25
+Attack 4,1944-07-31,0410,I,7,185,17.5,Surface,290,8,1200,28,115P,6L,10',-,Miss,No,23,0,,Offset,,rg367-74828617/p27
+Attack 4,1944-07-31,0410,I,8,185,17.5,Surface,290,8,1200,28,115P,12L,10',-,Hit,No,23,19,,-,,rg367-74828617/p27
+Attack 4,1944-07-31,0410,I,9,185,17.5,Surface,290,8,1200,28,117P,14L,10',-,Hit,No,23,11,,-,,rg367-74828617/p27
+Attack 5,1944-07-31,0416,I,1,187,10,Surface,280,8,500,28,90S,3L,10',High,Hit,No,23,0,,Offset,,rg367-74828617/p29
+Attack 5,1944-07-31,0416,I,2,187,10,Surface,280,8,500,28,95S,5R,10',High,Hit,No,23,13,,Offset,,rg367-74828617/p29
+Attack 6,1944-07-31,0421,I,8,320,17.5,Surface,270,1.5,700,28,100S,48R,10',-,Hit,No,23,0,,,2R,rg367-74828617/p31
+Attack 6,1944-07-31,0421,I,9,320,17.5,Surface,270,1.5,700,28,93S,43R,10',-,Hit,No,23,10,,,0,rg367-74828617/p31
+Attack 6,1944-07-31,0421,I,10,320,17.5,Surface,270,1.5,700,28,86S,35R,10',-,Hit,No,23,10,,,2L,rg367-74828617/p31
+Attack 7,1944-07-31,0420,I,3,035,17.5,Surface,215,8,1800,28,0,3R,10',High,Miss,No,23,0,,Offset,,rg367-74828617/p33
+Attack 7,1944-07-31,0420,I,4,035,17.5,Surface,215,8,1800,28,0,0,10',High,Hit,No,23,10,,Offset,,rg367-74828617/p33
+Attack 7,1944-07-31,0420,I,5,035,17.5,Surface,215,8,1800,28,0,0,10',High,Hit,No,23,15,,Offset,,rg367-74828617/p33
+Attack 8,1944-07-31,1433,I,10,320,17.5,Surface,215,8,1100,28,90S,0,10',High,Hit,No,23,0,,-,,rg367-74828617/p33

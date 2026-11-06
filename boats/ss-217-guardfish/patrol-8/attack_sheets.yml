@@ -1,0 +1,236 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each attack is a header page (`page`: time, position, target and own-ship data, type of attack) and a table
+# page (`table_page`, one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed: courses degrees, speeds kts, ranges yds, drafts and depth set ft; interval in seconds
+# since the torpedo before (typed "15s"; the first torpedo's typed "-" left blank); power typed "-" kept as -;
+# track as typed with its side (108°P -> 108P); halves typed as fractions (351½°, 7¼ kts) written as decimals.
+# The "Type Spread" row is typed per torpedo as an offset (1°R, 0, 1°L), so attacks.csv's offset holds it.
+# Each sheet types one target line (one range, one draft), given to every torpedo of the attack.
+
+- attack: Attack 1
+  heading: "U.S.S. GUARDFISH TORPEDO ATTACK NO. 1 PATROL NO. 8. Time-2342(I) Date-16 July, 1944 Lat. 18-20.5N Long. 119-42.5E."
+  type_attack: >-
+    Night surface attack using radar ranges and TBT bearings. Six fish were fired at a 5 ship overlapping
+    target with two ships in far column being overlapped by three ships in the near column so as to give one
+    long target. The two ships in the far column were used for the points of aim. Three torpedoes, using a
+    divergent spread from aft forward, were fired at each of the two ships. By luck, rather than any
+    mathematical reasoning, the five ships still formed one continuous line when the torpedoes hit resulting
+    in six hits and four ships sunk. ... (continues on p21)
+  description: >-
+    A ten ship slow speed convoy including one large tanker, one large modern AK and eight older, large and
+    medium, AK's. Escorted by at least four small patrol boats. Convoy in two columns with tanker leading
+    starboard column and modern large AK the port column. The escorts were disposed on each bow and quarter of
+    the convoy. Original contact was by sighting smoke after receiving PIRANHA'S contact report which may have
+    been on this convoy. An end around was made during daylight, the convoy having at least a two plane air
+    coverage during the day. The attack was delivered at night on the surface with a good horizon in direction
+    of convoy and a rain squall astern of Guardfish. Ships were distinguishable at 10,000 yards.
+  sunk: >-
+    (1) EU - Large Able Oboe - 10,000 tons. Ship distinguishable as a large tanker. It being the most
+    outstanding feature of any ship in the convoy. (2) EU - Similar to A Kagi Maru - 7,400 tons. This ship
+    caught fire and burned brightly. Its features were noted carefully and readily identified as one of this
+    class by the type selector system ONI-208J (revised) (3) EU - Similar to Aden Maru - 5,800 tons. Features
+    clearly distinguishable in bright light cast by (2) burning. Identified from ONI-208J (revised). (4) EU -
+    Similar to Aden Maru - 5,800 tons. Same as three. NOTE: Reported #3 as probably sunk by despatch before all
+    information of the attack was correlated. #4 seen to sink by C.O. and two lookouts. #3 seen to sink by OOD
+    and two lookouts and identified by OOD.
+  damaged: "- - -"
+  determined_by: >-
+    (1) Blew up throwing flames thousands of feet high immediately upon being hit. (2) Commenced burning
+    immediately upon being hit; burned for one hour and fifteen minutes then blew up with a large explosion.
+    (3) Broke in half and sank about five minutes after being hit. Both halves seen to sink. (4) Seen to sink
+    bows first.
+  target_line: "Target Draft-24-29' Course-220° Speed-7.5kts Range 3300 yards."
+  own_ship: "Speed-9 kts. Course-300° Depth-Surface Angle-0(At firing)"
+  spread: "1°R, 0, 1°L, 1°R, 0, 1°L (tubes 1 to 6)"
+  hits: Hit, Hit, Hit, Hit, Hit, Hit
+  torpedo_detail: Mark 18-1 torpedoes, Mark 8-5 exploders, actuation set and actual Contact, Mark 18-1 warheads, Torpex.
+  sea: Long Swells, phosphorescent.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: "(1) Shifted targets between firing #3 and #4 tubes. (2) Started swinging right after fourth torpedo was fired."
+  page: rg367-74819308/p20
+  table_page: rg367-74819308/p23
+  note: >-
+    Tubes 1-3 agree with own course 300 + gyro against target course 220 to half a degree; tubes 4-6 do not
+    (typed 94P, 95½P, 97½P; computed 104, 108.5, 117.5). Re-read on the scan: kept as typed. The sheet's own
+    remarks explain it: the second three were aimed at another ship (whose course may differ from the one typed
+    target line), and the boat began swinging right after the fourth torpedo, so own course at firing was no
+    longer 300. One range (3300) and one draft (24-29') are typed for both points of aim.
+
+- attack: Attack 2
+  heading: "U.S.S. GUARDFISH TORPEDO ATTACK NO. 2 PATROL NO. 8 Time-0042(I) Date-17 July, 1944 Lat.-18-17.5N Long. 119-50.0E."
+  type_attack: >-
+    Night surface using radar ranges and TBT bearings. Closed the target from starboard quarter, tracking, to
+    2000 yards then swung to bring stern tubes to bear. There was a short delay after swinging, while the target
+    zigged away, thereby increasing the firing range. Three torpedoes aft were fired using a divergent spread and
+    all three would have hit if the second torpedo had not gone out with a five degree off set in bearing
+    through a control error. However, the first and third torpedoes hit and the target was soon on its side and
+    disappeared.
+  description: >-
+    One of the ships of the convoy that scattered after attack #1. It was headed toward the southeast. This ship
+    had the appearance of another of the "Aden Maru" class and by binocular formula had a length of 435'.
+  sunk: (1) EU - "Aden Maru" class - 5800 tons.
+  damaged: "- - -"
+  determined_by: >-
+    (1) Saw two hits. Saw ship roll over on starboard side; disappeared from sight and radar screen at range of
+    7,700 yards.
+  target_line: "Target Draft-26' Course-145°T Speed-7¼kts. Range-2740 yards (At firing)"
+  own_ship: "Speed-14 kts Course-224°T Depth-Surface Angle-0 (At firing)"
+  spread: "1½°L, 0, 1°R (tubes 7 to 9)"
+  hits: Hit, Miss, Hit
+  torpedo_detail: Mark 18-1 torpedoes, Mark 8-5 exploders, actuation set Contact (actual Contact, -, Contact), Mark 18-1 warheads, Torpex.
+  sea: Phosphorescent sea, long swells.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: "* TBT reader made 5° error in reading off bearing. This incorrect bearing was used in TDC for this shot."
+  page: rg367-74819308/p24
+  table_page: rg367-74819308/p25
+  note: >-
+    Tube 8's Erratic cell is typed "No *", the asterisk pointing to the remark; kept as typed in attacks.csv.
+
+- attack: Attack 3
+  heading: "U.S.S. GUARDFISH TORPEDO ATTACK NO. 3 PATROL NO. 8 Time-0257(I) Date 17 July, 1944 Lat.-18-09.7N Long. 119-49.0E."
+  description: >-
+    Single ship from convoy of attack No. 1. Had gone off to north eastward and was now on a south-westerly
+    course with one escort on its starboard quarter.
+  type_attack: >-
+    Two hours after first attack commenced tracking this target. Had decided upon a stern tube attack so took
+    position ahead and waited for target to close. Remained on port bow of the target. At 0257(I) after tracking
+    for 1 hour and twenty one minutes, became impatient and fired though expecting a zig toward at any moment.
+    Within one minute after firing saw target commence swinging toward and knew that torpedoes would miss. So
+    went ahead at flank speed and swung left toward the target preparing two bow tubes for firing on attack
+    No. 4.
+  sunk: NONE.
+  damaged: NONE
+  determined_by: "----"
+  target_line: "Target Draft-29' Course-240°T Speed-7¼ kts Range 2580 yards (At firing)"
+  own_ship: "Speed-3 kts. Course-160°T Depth-Surface Angle-0 (At firing)"
+  spread: "7/8°R, 7/8°L (tubes 7 and 8)"
+  hits: Miss, Miss
+  torpedo_detail: Mark 18-1 torpedoes, Mark 8-5 exploders, actuation set Contact (actual -), Mark 18-1 warheads, Torpex.
+  sea: Phosphorescent Sea, long swells.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: Target zigged toward just after firing. Torpedoes missed ahead.
+  page: rg367-74819308/p26
+  table_page: rg367-74819308/p27
+  note: The spread is typed as fractions, 7/8°R and 7/8°L; attacks.csv writes 0.875R and 0.875L.
+
+- attack: Attack 4
+  heading: "U.S.S. GUARDFISH TORPEDO ATTACK NO. 4 PATROL NO. 8 Time-0303(I) Date-17 July, 1944 Lat. 18-09.7N Long. 119-4?.0E"
+  description: >-
+    A continuation of attack No. 3. At a range of 1000 yards this ship was identified as having a silhouette
+    similar to "Atago Maru", 7,500 tons with a length of 475' by the binocular formula.
+  type_attack: >-
+    When it was seen that torpedoes of attack #3 would miss, swung left with full rudder and headed for ship,
+    stopping own propellors so as not to get too close before forward tubes were ready. Kept ships head pointed
+    just ahead of target so as to have close to zero angle on firing. Commenced firing with 1250 yard range, 95
+    port track. Immediately started swinging right and went ahead flank to clear this ship. It is hard to
+    realize that Guardfish was not seen because a minimum range of 900 yards was reached, before the range
+    started opening. Guardfish hauled clear to northward. Two hits were seen made on the target.
+  sunk: "- - -"
+  damaged: (1) Similar to "Atago Maru" - 7,500 tons.
+  determined_by: >-
+    (1) Saw two hits. One aft, one forward. Saw ship start settling by stern. It slowed down but did not stop
+    immediately. Disappeared from radar screen at 13,000 yards range. It is believed this ship eventually sank,
+    but Guardfish cleared area without witnessing same.
+  target_line: "Target Draft-29' Course-220° Speed-7¼ kts. Range-1250 yards (At firing)"
+  own_ship: "Speed-3 kts Course-305° Depth-Surface Angle-0 (At firing)"
+  spread: NONE, NONE (tubes 3 and 4)
+  hits: Hit, Hit
+  torpedo_detail: Mark 18-1 torpedoes, Mark 8-5 exploders, actuation set and actual Contact, Mark 18-1 warheads, Torpex.
+  sea: Phosphoresent sea, long swells.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  page: rg367-74819308/p28
+  table_page: rg367-74819308/p29
+  note: >-
+    The longitude's minutes are faint: 119-40.0E or 119-49.0E (Attack 3, six minutes earlier at the same
+    latitude, is typed 119-49.0E). Gyro typed 000 for both torpedoes. Spread typed NONE; attacks.csv writes 0.
+    The type of attack paragraph is on p28.
+
+- attack: Attack 5
+  heading: "U.S.S. GUARDFISH TORPEDO ATTACK NO. 5 PATROL NO. 8 Time-1822(I) Date-18 July, 1944 Lat. 20-27N Long. 119-11E"
+  description: >-
+    A large convoy composed of two aircraft carriers (Type unknown) two large tankers, one seaplane tender, one
+    large transport (similar to Hokoku Maru), several other transports and naval auxiliaries including the
+    "Ayatosan Maru", escorted by several destroyers loomed up out of a rain squall at a range of about
+    11-12,000 yards. The exact number, types, and disposition of the ships were never determined. The convoy
+    was on base course 215°T, speed 15 knots. Visibility was very poor due to rain squalls and high seas
+    washing over the periscope. The "Ayatosan Maru", leading the port column and the closest ship was selected
+    as the target for the attack, the carriers being farther away and not recognised as such until range was
+    about 6000 yards. There was a tanker astern of the selected target. The formation was in two or more
+    columns and all ships noted were flying the National Ensign.
+  type_attack: >-
+    Day periscope. When target was sighted at 11,000 yard range it had a large port angle on bow. Came to normal
+    approach course and ran at high speed. Came to normal course and continued to run at high speed when target
+    zigged toward. At 60' seas were washing over the periscope continually and it was necessary to run at 2/3
+    speed or higher to maintain depth. The target made three successive zigs toward until an ideal firing point
+    was reached. It was thought that it would be possible to fire at this ship and also at the tanker astern of
+    it. Therefore three torpedoes with a divergent spread were fired at this ship and an immediate shift was
+    made to the tanker. Before firing could commence the first hit took place and the tanker started to swing
+    toward at an 800 yard range. In order to obviate the possibility of any trouble Guardfish resorted to deep
+    submergence.
+  sunk: (1) EU - Naval Auxiliary similar to the "Ayatosan Maru" 9,800 tons.
+  damaged: "- - -"
+  determined_by: >-
+    Two hits were heard at correct time. Immediately afterwards it was noted where one hit had been made about
+    50' abaft the stack. The ship was seen to list quickly to port and had settled to where the main deck was
+    nearly awash and much activity in vicinity of the life boats. When forced deep; breaking up noises,
+    associated with a sinking ship were heard, starting 14 minutes after the first hit and ending 5 minutes
+    later with a muffled explosion. 47 minutes later a destroyer was seen maneuvering in vicinity of attack as
+    if recovering survivors.
+  target_line: "Target Draft-29' Course-180°T Speed-15 kts. Range 1370 yards (At firing)"
+  own_ship: "Speed-4 kts. Course-290°T Depth-61' Angle-1° down (At Firing)"
+  spread: "3°R, 0, 1½°L (tubes 1 to 3)"
+  hits: Hit, Hit, Miss
+  torpedo_detail: Mark 18-1 torpedoes, Mark 8-5 exploders, actuation set Contact (actual Contact, Contact, -), Mark 18-1 warheads, Torpex.
+  sea: Thirty feet seas.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: Miss due to normal spread. Used speed 15.5 knots. Recheck shows best speed 15 knots.
+  page: rg367-74819308/p30
+  table_page: rg367-74819308/p32
+  note: >-
+    The sheet types the convoy's base course 215°T and the target's course at firing 180°T (the narrative has
+    the target making three successive zigs toward). The narrative (p13) calls it "one of many of a large fast
+    convoy" and adds "Several other hazy shapes were seen."
+
+- attack: Attack 6
+  heading: "U.S.S. GUARDFISH TORPEDO ATTACK NO. 6 PATROL NO. 8 Time-0743(I) Date-19 July 1944 Lat. 20-07N Long. 118-20E"
+  description: >-
+    Radar contact was established at 22,500 yards, bearing 235°T at 0532(I). Immediately started tracking and
+    attempting to gain position ahead. Target tracked on course 350°T. At 0610 considered it advisable to dive
+    because of day light and desire not to be spotted. Made periscope contact at 0639 to find convoy had
+    changed base course to 050°T. Visibility varied with frequent rain squalls obscuring target. The convoy was
+    seen to consist of three large and three medium AK's with only one escort seen, though more were known to
+    be present. Only two of the AK's were identified, one being a large modern AK, and the other being the ship
+    sunk.
+  type_attack: >-
+    Day-submerged-periscope. When periscope contact was made a large modern AK was selected as the target and
+    approach made on this. The convoy had an escort out about 2000 yards on the port bow and it was necessary to
+    go down to 120' in order to permit this escort to pass over. Difficulty was encountered in returning to
+    periscope depth, it taking 11 minutes to go down and come back up, and when periscope depth was again
+    reached the target was past with an unfavorable track and gyro angle. Therefore a shift was made to the
+    next target astern and six minutes after returning to periscope depth fired four torpedoes at this target
+    using a divergent spread. This ship was overlapping another ship 1500 yards on the other side and two hits
+    resulted in the near target (witnessed) and one timed hit in the far target. Guardfish turned right
+    immediately after firing in an effort to clear but was forced deep by the next ship astern after losing
+    depth control. The approach was made on a 100° port track throughout, into heavy seas. The third torpedo
+    fired made a circular run passing over the maneuvering room of this ship. (p33-p34)
+  sunk: >-
+    (1) EU - Similar to the "Hoeisan Maru" - 6,100 tons. Identification made by type selector ONI 208J (revised)
+    during the approach.
+  damaged: >-
+    (1) UN - Medium AK - 4,000 tons. No attempt was made to identify this ship though it is believed to have
+    been nearly the same size as the one sunk.
+  target_line: "Target draft-29' Course-050°T Speed-7½ kts. Range 950 yards (At firing)"
+  own_ship: "Speed-4kts. Course-130°T Depth-61' Angle-1° down (At firing)"
+  spread: "6°R, 2°R, 2°L, 6°L (tubes 2, 4, 5, 6)"
+  hits: Hit, Hit, Miss, Hit
+  torpedo_detail: Mark 18-1 torpedoes, Mark 8-5 exploders, actuation set Contact (actual Contact, Contact, -, Contact), Mark 18-1 warheads, Torpex.
+  sea: Twenty foot seas.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: >-
+    The third torpedo made a circular run passing over the maneuvering room. The fourth torpedo made timed hit
+    on a target 1500 yards farther away.
+  page: rg367-74819308/p33
+  table_page: rg367-74819308/p35
+  note: >-
+    Tube 6's gyro is typed "351°P", the P apparently carried over from the track row; attacks.csv writes 351.
+    Tube 5 (the third fired) is typed Miss, Erratic Yes: the circular run of the remarks.

@@ -1,0 +1,19 @@
+attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
+Attack 1,1944-07-31,0332,I,1,100,6,Surface,200,,3000,20,70S,350,8,High,Miss,No,14-3A,0,,,0.5R,rg367-74851415/p34
+Attack 1,1944-07-31,0332,I,2,100,6,Surface,200,,3000,20,70S,350,8,High,Miss,No,14-3A,8,,,0.5R,rg367-74851415/p34
+Attack 1,1944-07-31,0332,I,3,100,6,Surface,200,,3000,20,72S,351,8,High,Miss,No,14-3A,7,,,2R,rg367-74851415/p34
+Attack 1,1944-07-31,0332,I,4,100,6,Surface,200,,3000,20,72S,350,8,High,Hit(AO),No,14-3A,7,,,2L,rg367-74851415/p34
+Attack 1,1944-07-31,0332,I,5,100,6,Surface,200,,3000,25,72S,357,8,High,Hit(AK),No,14-3A,8,,,4R,rg367-74851415/p34
+Attack 1,1944-07-31,0332,I,6,100,6,Surface,200,,3000,20,74S,350,8,High,Hit(AO),No,14-3A,10,,,4L,rg367-74851415/p34
+Attack 2,1944-07-31,0336,I,7,320,6,Surface,240,10,1800,25,86S,192,8,High,Miss,No,23,0,,,1R,rg367-74851415/p35
+Attack 2,1944-07-31,0336,I,8,320,6,Surface,240,10,1800,25,88S,191,8,High,Miss,No,23,7,,,1L,rg367-74851415/p35
+Attack 2,1944-07-31,0336,I,9,320,6,Surface,240,10,1800,25,88S,197,8,High,Miss,No,23,8,,,4R,rg367-74851415/p35
+Attack 2,1944-07-31,0336,I,10,320,6,Surface,240,10,1800,25,90S,191,8,High,Miss,No,23,9,,,4L,rg367-74851415/p35
+Attack 3,1944-07-31,0449,I,7,210,6,Surface,290,9.5,2000,25,96P,158,8,High,Hit,No,23,0,,,1L,rg367-74851415/p37
+Attack 3,1944-07-31,0449,I,8,210,6,Surface,290,9.5,2000,25,98P,159,8,High,Hit,No,23,9,,,1R,rg367-74851415/p37
+Attack 3,1944-07-31,0449,I,9,210,6,Surface,290,9.5,2000,25,99P,154,8,High,Miss,No,23,8,,,3L,rg367-74851415/p37
+Attack 3,1944-07-31,0449,I,10,210,6,Surface,290,9.5,2000,25,100P,159,8,High,Miss,No,23,8,,,3R,rg367-74851415/p37
+Attack 4,1944-07-31,0516,I,1,320,9,Surface,225,9.5,1900,22,75P,010,8,High,Miss,No,14-3A,0,,,1L,rg367-74851415/p38
+Attack 4,1944-07-31,0516,I,2,320,9,Surface,225,9.5,1900,22,76P,010,8,High,Hit,No,14-3A,8,,,1R,rg367-74851415/p38
+Attack 4,1944-07-31,0516,I,3,320,9,Surface,225,9.5,1900,22,78P,004,8,High,Miss,No,14-3A,8,,,4L,rg367-74851415/p38
+Attack 4,1944-07-31,0516,I,4,320,9,Surface,225,9.5,1900,22,79P,011,8,High,Hit,No,14-3A,9,,,4R,rg367-74851415/p38

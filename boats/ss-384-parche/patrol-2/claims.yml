@@ -1,0 +1,47 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's
+# claims).
+# The only record of the attack is the Navy's July summary (J01-J03): sixteen ships attacked from about 0330 I, four
+# sunk and two damaged, with no time or place for any one ship. So each claim of a sinking is paired with J02 as
+# possible: the record confirms losses that night, not which attack made them.
+# JANAC (postwar, secondary) lists for 31 July Koei, Manko and Yoshino Maru at PARCHE's attack position 19-10N
+# 120-58E and Dakar and Fuso Maru at STEELHEAD's 18-57N 120-50E (janac:4/p64): the boats' own positions, so it
+# repeats their reports and doesn't time any ship.
+# PARCHE fired from 0359 to 0433 I (the times on the attack sheets; Attacks 7-8 typed 0420 and 1433, the narrative's
+# 0429 and 0433). STEELHEAD fired first, at 0332 I, so J01's "about 0330" is the start of both boats' attacks.
+# Attack 1 (both missed) has no entry.
+- attack: Attack 2
+  record: J03
+  relation: possible
+  note: >-
+    One explosion on an AK "similar to Panama Maru", claimed damaged. The summary has two ships torpedoed and
+    damaged (No. 1 Ogura Maru, Dakar Maru); which boat damaged which is not recorded
+- attack: Attack 3
+  record: J02
+  relation: possible
+  note: >-
+    Four hits on a large AO, claimed sunk. The summary's sunk list has one ship that may be a tanker, the unread ??
+    Maru (JANAC: Koei Maru, tanker, credited to PARCHE). No time or place to separate this from Attacks 4 and 6
+- attack: Attack 4
+  record: J03
+  relation: possible
+  note: >-
+    Two hits on a second large AO, slowed to 2 knots, later attacked again (Attack 6). No. 1 Ogura Maru, damaged in
+    the summary, may be this ship; the record doesn't say
+- attack: Attack 5
+  record: J02
+  relation: possible
+  note: >-
+    A medium AP or AK "similar to Yokohama Maru", seen to break in two, claimed sunk. JANAC credits PARCHE with
+    Manko Maru (passenger-cargo, 4,471 tons); the summary has her sunk but doesn't say by which attack
+- attack: Attack 6
+  record: J02
+  relation: possible
+  note: >-
+    The AO of Attack 4, five hits in all, claimed sunk within three minutes. If Attacks 3 and 6 both sank tankers,
+    the summary's list holds at most one (the ?? Maru); one of the two may be the damaged No. 1 Ogura Maru (J03)
+- attack: Attack 8
+  record: J02
+  relation: possible
+  note: >-
+    With Attack 7: a large AP "similar to HEIAN MARU", two hits down the throat, then a stern shot; sank bow first
+    at 0442 I. JANAC credits PARCHE with Yoshino Maru (transport, 8,990 tons), in the summary's sunk list

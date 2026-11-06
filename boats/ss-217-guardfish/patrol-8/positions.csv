@@ -1,0 +1,48 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+attack,Attack 1,1944-07-16,2342,I,18-20.5N,119-42.5E,rg367-74819308/p20,Torpedo attack No. 1: night surface attack on ten ship convoy; six torpedoes from bow tubes,yes,,,,,
+attack,Attack 2,1944-07-17,0042,I,18-17.5N,119-50.0E,rg367-74819308/p24,Torpedo attack No. 2: one of the ships of the convoy that scattered after attack #1; three torpedoes from stern tubes,yes,,,,,
+attack,Attack 3,1944-07-17,0257,I,18-09.7N,119-49.0E,rg367-74819308/p26,Torpedo attack No. 3: single ship from convoy of attack No. 1 on a southwesterly course with one escort; two stern torpedoes missed,yes,,,,,
+attack,Attack 4,1944-07-17,0303,I,18-09.7N,119-4?.0E,rg367-74819308/p28,Torpedo attack No. 4: continuation of attack No. 3; ship similar to Atago Maru damaged (minute of longitude faint: 40 or 49),yes,,,,,
+narrative,SJ signals Piranha,1944-07-17,0545,I,,,rg367-74819308/p12,Exchanged SJ signals with Pirnaha bearing 320 T. Sighted N.W. point of Luzon bearing 110 T (no position typed),no,,,,,
+narrative,ship contact 5,1944-07-18,1800,I,,,rg367-74819308/p13,Ship contact #5. Sighted ship at 12000 yards... one of many of a large fast convoy... Base course 215 T speed 15 knots (no position typed; Attack 5's header gives the boat's),no,,,,,
+attack,Attack 5,1944-07-18,1822,I,20-27N,119-11E,rg367-74819308/p30,Torpedo attack No. 5: large convoy with 2 aircraft carriers; naval auxiliary similar to Ayatosan Maru claimed sunk,yes,,,,,
+narrative,ship contact 6,1944-07-19,0532,I,,,rg367-74819308/p14,Ship contact #6. SJ radar contact bearing 235 T 22500 yards... Sent Piranha a contact report... Base course of convoy 350 T (no position typed),no,,,,,
+attack,Attack 6,1944-07-19,0743,I,20-07N,118-20E,rg367-74819308/p33,Torpedo attack No. 6: six AK convoy on base course 050 T; ship similar to Hoeisan Maru claimed sunk and a medium AK damaged,yes,,,,,
+narrative,ship contact 7,1944-07-19,0920,I,,,rg367-74819308/p15,Ship contact #7. Sighted masts of two ships and one escort bearing 083 T on a southerly course... This is another convoy bound south (no position typed),no,,,,,
+narrative,start for home,1944-07-19,2128,I,,,rg367-74819308/p15,Surfaced. Because of the material condition small number of torpedoes aboard and shortage of fuel started for home (no position typed),no,,,,,
+narrative,mine sunk,1944-07-26,1039,K,22-09N,150-36E,rg367-74819308/p16,Sighted spherical object probably a mine... Circled and sank it with 20 MM fire (the object's position),yes,,,,,
+narrative,arrive Midway,1944-07-31,0715,Y,28-12N,177-23W,rg367-74819308/p16,Moored at Midway (port position as PARCHE Patrol 1),yes,,,,,
+ship,Ship 1,1944-07-05,0302,I,21-26N,120-40E,rg367-74819308/p17,1-A/S Patrol (PC Size) 7½ Mi; Patrolling; Pinging QB first SJ at 11500 Yds. Closed to identify then avoided,no,,,,,ship-contact positions are the target's
+ship,Ship 2,1944-07-11,2255,I,19-53N,122-45E,rg367-74819308/p17,Convoy-9 targets & 5 escorts 15 Mi; 197° 10.6 (Advance); SJ Radar Surface; 12 knots through water,no,,,,,ship-contact positions are the target's
+ship,Ship 3,1944-07-16,0950,I,19-19N,120-18E,rg367-74819308/p17,Convoy-10 target & 4 escorts 20 Mi; 195° 6.8 (ADvance); Sighted smoke from bridge; 7.5 kts through water,no,,,,,ship-contact positions are the target's
+ship,Ship 4,1944-07-17,0606,I,18-47N,119-57E,rg367-74819308/p17,1-A/S Patrol Boat 1½ Mi by sight; Patrolling; Pinging QB first Periscope 14 Min. later; May have sighted us prior diving,no,,,,,ship-contact positions are the target's
+ship,Ship 5,1944-07-18,1800,I,20-32N,119-15E,rg367-74819308/p17,Convoy-Naval-2 CV 2AO 1AP 1AUX. others. 6 Mi; 215° 15 Knots; Periscope Submerged; Composition not fully observed (longitude typed 119'-15E with a stray mark),no,,,,,ship-contact positions are the target's
+ship,Ship 6,1944-07-19,0532,I,19-58N,118-14E,rg367-74819308/p17,Convoy - 1 9000 ton ship others smaller 11 Mi; 050° 7½ kts.; SJ Radar Surface; About 4 escorts and 5 targets,no,,,,,ship-contact positions are the target's
+ship,Ship 7,1944-07-19,0920,I,20-06N,118-27E,rg367-74819308/p17,Convoy-masts of 2 ship & 1 escort 9 Mi; 180° ?; Periscope Submerged; At extreme range - Composition ?,no,,,,,ship-contact positions are the target's
+ship,Ship 8,1944-07-19,1653,I,20-12N,118-16E,rg367-74819308/p18,1-Wakatake Class DD 4 Mi By sight; Patroling; Pinging QB for 3 hours then periscope submerged; Had heard his pinging for 3 hours,no,,,,,ship-contact positions are the target's
+ship,Ship 9,1944-07-19,2243,I,20-44N,118-28E,rg367-74819308/p18,Unknown 11 Mi; 350° 8 knots; SJ Radar Surface; Could not see him at 6000 Yd,no,,,,,ship-contact positions are the target's
+air,Aircraft 1,1944-06-27,0939,K,21-00N,144-51E,rg367-74819308/p18,1-PBM (?) 140° 12 Mi; Sight only; Est. course 270° P.A. 5°; Surface,yes,,,,,
+air,Aircraft 2,1944-06-28,0646,K,21-27N,142-10E,rg367-74819308/p18,1-Large land Type 270° 15 Mi; Sight only; 180° 1°; Surface,yes,,,,,
+air,Aircraft 3,1944-06-28,1036,K,21-27N,141-38E,rg367-74819308/p18,1-Betty 210° 5 Mi; Sight only; 000° 2°; Surface,yes,,,,,
+air,Aircraft 4,1944-06-29,0829,K,21-30N,137-20E,rg367-74819308/p18,1-PBY(?) 050° 12 Mi; Sight only; 250° 2°; Surface,yes,,,,,
+air,Aircraft 5,1944-07-05,0909,I,21-25N,120-37E,rg367-74819308/p18,Not Sighted; Dropped 3 bombs close; Submerged at 60',yes,,,,,
+air,Aircraft 6,1944-07-08,0344,I,21-37N,120-47E,rg367-74819308/p18,Not Sighted 8 Mi; SD Radar,yes,,,,,
+air,Aircraft 7,1944-07-09,0701,I,21-42N,122-31E,rg367-74819308/p18,2-Sally 138° 7 Mi; Sighted through periscope; 050° 4°; Submerged at 60',yes,,,,,
+air,Aircraft 8,1944-07-12,0521,I,18-58N,122-36E,rg367-74819308/p18,Not Sighted 260° 3½ Mi; SJ Radar; Surface just prior dawn (third figure of longitude faint),yes,,,,,
+air,Aircraft 9,1944-07-12,0613,I,18-58N,122-44E,rg367-74819308/p18,1-Emily 265° 10 Mi; Sight Only; 090° 2°; Surface,yes,,,,,
+air,Aircraft 10,1944-07-16,0954,I,19-26N,119-55E,rg367-74819308/p18,1-Hap 115° 12 Mi; Sight only; 290° 2°; Convoy escort,yes,,,,,
+air,Aircraft 11,1944-07-16,1005,I,19-24N,119-55E,rg367-74819308/p18,1-Mavis ? 115° 6½ Mi; SD Radar; Contact #10 in sight at 12mi at time,yes,,,,,
+air,Aircraft 12,1944-07-24,0908,I,22-01N,139-17E,rg367-74819308/p18,1-2 engine land type. 250° 11 Mi; Sight & SD Radar simult.; 070° 5°,yes,,,,,
+air,Aircraft 13,1944-07-24,0949,I,22-01N,139-21E,rg367-74819308/p19,Assumed to be same as #12. 9 Mi; Only SD Radar; Not Sighted (table headed Ship's Lat. Long.),yes,,,,,
+air,Aircraft 14,1944-07-25,0853,K,22-07N,144-26E,rg367-74819308/p19,? 12 Mi; SD Radar Only; Not Sighted surfaced,yes,,,,,
+air,Aircraft 15,1944-07-25,1203,K,22-07N,145-10E,rg367-74819308/p19,Assumed to be friendly 21 Mi; SD Radar Only; Blip on IFF,yes,,,,,
+narrative,depart Pearl,1944-06-14,1330,VW,21-21N,157-58W,rg367-74819308/p04,Departed Pearl in Company with THRESHER and PIRANHA as part of Coordinated Attack Group (GUARDFISH THRESHER PIRANHA and APOGON) known as Micky Finns with Captain W. V. O'Regan in GUARDFISH (port position as PARCHE Patrol 1),yes,,,,,
+narrative,arrive Midway,1944-06-18,0815,Y,28-12N,177-23W,rg367-74819308/p04,Moored to GABILAN alongside HOLLAND at Midway. Replenished fuel and fresh water (port position as PARCHE Patrol 1),yes,,,,,
+narrative,depart Midway,1944-06-18,1500,Y,28-12N,177-23W,rg367-74819308/p04,Departed Midway with plane escort; 1735 Thresher returned to Midway for repairs (port position as PARCHE Patrol 1),yes,,,,,
+narrative,rendezvous Apogon,1944-06-23,0417,L,,,rg367-74819308/p04,Rendezvous with APOGON; 0445 passed patrol instructions via line and empty 4in shell container; 0446 set course for area (no position typed),no,,,,,
+narrative,aviator search,1944-06-27,0530,K,,,rg367-74819308/p05,Micky Finns commenced search for downed aviator; 0941 sighted Pajaros Island bearing 177 T distant 30 miles; 1935 secured search (no position typed),no,,,,,
+narrative,entered area,1944-07-02,0130,I,,,rg367-74819308/p06,Entered Area (no position typed),no,,,,,
+narrative,Y'Ami Island,1944-07-03,2228,I,,,rg367-74819308/p06,Sighted Y'Ami Island of Batan Group (no position typed),no,,,,,
+narrative,Bashi Channel,1944-07-04,0539,I,,,rg367-74819308/p06,Dove on days patrol line across Bashi Channel; sampans and fishing boats let pass (no position typed),no,,,,,
+narrative,Piranha contact report,1944-07-16,0353,I,,,rg367-74819308/p10,Received contact report from Piranha 110 miles to eastward by Dead Reckoning. No fix for 36 hours. 0402 changed course to intercept (no position typed),no,,,,,
+narrative,SJ contact convoy,1944-07-16,2120,I,,,rg367-74819308/p10,SJ contact 347 T 22000 yards; 2145 convoy had changed base course from 195 T to 270 T at dark; 2220 base course 210 T; 2235 convoy consists of 10 ships with three escorts definitely located (no position typed),no,,,,,

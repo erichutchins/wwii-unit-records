@@ -1,0 +1,56 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# MI-11 (ミ一一), Takao to Manila, sailed 0500 I on 29 July 1944 with sixteen ships and six escorts
+# (convoys/mi-11/convoy.md). PARCHE and STEELHEAD (Coordinated Attack Group 17.15, with HAMMERHEAD) attacked it from
+# 0332 I on the 31st. The only Japanese record of the attack found is the Navy's July summary (J01-J03): no time or
+# place for any one ship. Searched and not found (5 Nov 2026): the ships' own logs in the designated-ship movement
+# tables (the 昭和18-19 series, index C08050055200 pp. 1-7; the 3rd, C08050052800; the 4th, C08050101600 and
+# C08050102800; the 5th, C08050105300 pp. 1-6: none of the six ships is listed; they were probably Army or
+# Navy-requisitioned ships, which these tables don't cover). The 1st Surface Escort Division's July diary
+# (C08030141100) has the convoy's escorts and sailing but not the attack, except a convoy "ミ一?" attacked off Cape
+# Bolinao (p6), some 150 nm south of the boats' positions, not yet tied to this night. Next: the Army's shipping
+# records (船舶輸送司令部, 碇泊場司令部 陣中日誌, Takao or Manila, July-August 1944); the August summary for the damaged
+# ships' later fate.
+- id: J01
+  source: jacar:C16120659800
+  page: p9
+  convoy: MI-11
+  event: attacked_no_damage
+  date: 1944-07-31
+  time: '0330'
+  zone: I
+  original: 29日高雄ヲ出港シマニラニ向ケ航行中ノ陸軍部隊其ノ他輸送ノ16隻船団（護衛艦6隻）0330頃連続敵潜ノ襲撃ヲ受ク
+  translation: >-
+    A sixteen-ship convoy (six escorts) carrying Army units and other transport, which left Takao on the 29th for
+    Manila, was attacked by enemy submarines one after another from about 0330
+  note: >-
+    The Navy's day-by-day summary for July 1944 (大東亜戦争経過概要（護衛対潜関係）), the 31st. The convoy's name isn't
+    written here; MI-11 is from the 1st Surface Escort Division's chart (C08030141100 p17), which sails it from
+    Takao at 0500 on the 29th. No position. The event is the attack as a whole; its losses are J02 and J03
+- id: J02
+  source: jacar:C16120659800
+  page: p9
+  convoy: MI-11
+  event: sank
+  date: 1944-07-31
+  zone: I
+  original: 沈没 吉野丸 萬光丸 扶桑丸 ??丸 / 船団ハ一時パングイ湾（ルソン島北西端）ニ避退
+  translation: >-
+    Sunk: Yoshino Maru, Manko Maru, Fuso Maru, ?? Maru. The convoy withdrew for a time to Pangui Bay (the north-west
+    tip of Luzon)
+  note: >-
+    The same entry's result column; no time or place for any one ship. The fourth name is not read: its first
+    character falls between the 吉 and the 光 written beside it, its second reads as much like 洋 as 栄. JANAC's list
+    for the night has Koei Maru (光栄丸, tanker, 10,238 tons), which would fit, but a postwar list can't settle a
+    reading; kept as ??
+- id: J03
+  source: jacar:C16120659800
+  page: p9
+  convoy: MI-11
+  event: torpedoed
+  date: 1944-07-31
+  zone: I
+  original: 被雷損傷 第一小倉丸 ダカア丸
+  translation: Torpedoed and damaged, No. 1 Ogura Maru and Dakar Maru
+  note: >-
+    The same entry. JANAC lists Dakar Maru as sunk on 31 July (cargo, 7,169 tons, at STEELHEAD's attack position,
+    janac:4/p64) and has no No. 1 Ogura Maru; the summary has her damaged. Which is right is open

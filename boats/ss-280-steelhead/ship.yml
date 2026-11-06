@@ -1,0 +1,14 @@
+# USS STEELHEAD (SS-280). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: STEELHEAD
+hull: SS-280
+class: Gato
+silhouette: gato     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
+kind: submarine
+plain: "a fleet submarine of the Gato class: her sixth war patrol, in a pack with PARCHE and HAMMERHEAD south of Formosa in 1944"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+max_kts: 21          # surfaced maximum, about 21 kn (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 6, name: Sixth War Patrol, dates: 17 Jun 1944 – 16 Aug 1944 }

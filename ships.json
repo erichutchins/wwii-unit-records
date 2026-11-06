@@ -20,6 +20,26 @@
   ]
  },
  {
+  "key": "ss-217-guardfish",
+  "alias": "guardfish",
+  "name": "GUARDFISH",
+  "hull": "SS-217",
+  "class": "Gato",
+  "silhouette": "gato",
+  "kind": "submarine",
+  "plain": "a fleet submarine of the Gato class: her eighth war patrol, in a coordinated attack group with PIRANHA and THRESHER in the Luzon Strait and South China Sea, June-July 1944",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-217-guardfish/tracks.geojson",
+  "periods": [
+   {
+    "n": 8,
+    "name": "Eighth War Patrol",
+    "dates": "14 Jun 1944 – 31 Jul 1944"
+   }
+  ]
+ },
+ {
   "key": "ss-220-barb",
   "alias": "barb",
   "name": "BARB",
@@ -116,6 +136,26 @@
     "n": 8,
     "name": "Eighth War Patrol",
     "dates": "10 Jan 1945 – 8 Feb 1945"
+   }
+  ]
+ },
+ {
+  "key": "ss-280-steelhead",
+  "alias": "steelhead",
+  "name": "STEELHEAD",
+  "hull": "SS-280",
+  "class": "Gato",
+  "silhouette": "gato",
+  "kind": "submarine",
+  "plain": "a fleet submarine of the Gato class: her sixth war patrol, in a pack with PARCHE and HAMMERHEAD south of Formosa in 1944",
+  "max_kts": 21,
+  "dives": false,
+  "geojson": "boats/ss-280-steelhead/tracks.geojson",
+  "periods": [
+   {
+    "n": 6,
+    "name": "Sixth War Patrol",
+    "dates": "17 Jun 1944 – 16 Aug 1944"
    }
   ]
  },
