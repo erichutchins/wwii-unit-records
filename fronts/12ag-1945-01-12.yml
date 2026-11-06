@@ -1,0 +1,17 @@
+# 12ag-1945-01-12: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21222
+date: 1945-01-12
+as_of: 1200 HRS 12 JANUARY 1945
+title: "Situation 1200 hrs 12 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 12 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [3300, 4400, 4260, 5220], why: "the Twelfth/Sixth army group boundary from Sarrebourg south-west past Nancy, heavy, magenta in part, no map ticks (runs 47 and 53 on the first trace put Toul and Chaumont on the wrong side)"}
+  - {box: [2990, 2790, 3220, 2815], why: "the Twenty One/Twelfth army group boundary's end at the front near Rochefort, heavy black, blue and magenta in part, no ticks; the front itself turns north-east at about x 3225 (looked on the overlay crop 2900,2600)"}
+  - {box: [2200, 540, 2290, 620], why: "the last digit (5) of 1945 in the title, standing past the first title box's right edge (looked on the overlay crop 1500,450)"}
+  - {box: [3985, 2335, 4015, 2365], why: "the outline of the 246th's symbol, a short magenta hook with no ticks, east of the front at about x 3935 (looked on the overlay crop 3600,2200); the front runs unbroken past it"}
+flip: []
+checked: []

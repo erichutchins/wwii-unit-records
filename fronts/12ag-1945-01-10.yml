@@ -1,0 +1,17 @@
+# 12ag-1945-01-10: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21220
+date: 1945-01-10
+as_of: 1200 HRS 10 JANUARY 1945
+title: "Situation 1200 hrs 10 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 10 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [440, 4880, 580, 4960], why: "the S of 'U.S.' in the legend (run 47), lettering magenta with roads' ticks; just above the legend box"}
+  - {box: [3440, 4150, 4350, 5230], why: "the Twelfth/Sixth army group boundary and the Third/Seventh army boundary, from Faulquemont (the front keeps on east past Puttelange to Sarreguemines, outside the box) south to Dombasle and south-west to Neufchateau: heavy black then magenta, red ticks from roads only, no map ticks (runs 38, 42, 43, 40, 46, 49, 51, 53, 55; looked on the overlay crop 3400,3800)"}
+  - {box: [4395, 3945, 4425, 4000], why: "the Third/Seventh army boundary's end at the front above Saarlautern/Sarreguemines (run 34), a short vertical magenta stub across the front, no ticks; the front's blue carries on either side (looked on the overlay crop 4200,3700)"}
+flip: []
+checked:
+  - {at: [3977, 2201], why: "the front's heavy corner south-west of Gemund (head of the line from Monschau), joining runs 16 and 18; on the enlarged look it is the front's own heavy line turning, with the 78th Division and the V Corps on the west (US) side; the long black line running west from it is a boundary and is not traced"}

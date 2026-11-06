@@ -1,0 +1,18 @@
+# 12ag-1945-01-13: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21223
+date: 1945-01-13
+as_of: 1200 HRS 13 JANUARY 1945
+title: "Situation 1200 hrs 13 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 13 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [3270, 2778, 3314, 2802], why: "the Twenty One/Twelfth army group boundary's end at the front near Marche, magenta, no ticks (unsure run at 3299,2790); the front itself runs vertical at x about 3322"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all): unsure runs 726,5129; 527,5286; 457,5456 and the rest at the bottom left"}
+  - {box: [3990, 4140, 4300, 4830], why: "the Twelfth/Sixth army group boundary from Faulquemont south-west, magenta, no map ticks (unsure run 4274,4242; run 57 at 4081,4675)"}
+  - {box: [3300, 4830, 4000, 5220], why: "the same boundary's south-west stretch (unsure run 3943,5004; run 64)"}
+  - {box: [4300, 4020, 4395, 4130], why: "the First/Third army boundary's stub from the Saar corner south-west, heavy black, red ticks only from the roads, no map ticks (run 48 at 4341,4062, looked on overlay crop 4150,3850); the front proper runs south-east from 4385,3990 to Sarreguemines"}
+flip: []
+checked:
+  - {at: [3872, 2249], why: "magenta short heavy stretch where the army boundary meets the front south-east of Monschau; it is the front's own line between runs 28 and 30, ticked on the west (US) side on the 4x crop 3780,2150"}
