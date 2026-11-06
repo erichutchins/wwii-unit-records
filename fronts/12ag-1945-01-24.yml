@@ -1,0 +1,26 @@
+item: ict21234
+date: 1945-01-24
+as_of: 1200 HRS 24 JANUARY 1945
+title: "Situation 1200 hrs 24 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [950, 380, 2250, 740], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 24 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen front, which starts at about y 790"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [2850, 1090, 3350, 1420], why: "a boundary labelled FIRST CDN / SECOND BR, heavy black, no ticks, from near Turnhout to the Eindhoven area (magenta runs at 2964,1202; 3222,1217; 3320,1117; 2878,1366)"}
+  - {box: [2980, 1780, 3440, 1880], why: "a boundary labelled SECOND BR / NINTH U.S., heavy black, no ticks, to its end near the front (runs 3024,1805; 3188,1815; 3403,1843); the front proper begins east of x 3455"}
+  - {box: [3320, 2100, 3440, 2140], why: "the end of the boundary labelled TWENTY ONE / TWELFTH, magenta, no ticks (run at 3377,2118)"}
+  - {box: [3540, 2095, 3850, 2175], why: "the same boundary's stretch east to the front, heavy black with no ticks (looked at 3714,2126); the front proper turns south at about 3865,2185"}
+  - {box: [3260, 2715, 3660, 2860], why: "a boundary labelled FIRST / THIRD, heavy black, no ticks, from the VIII corps symbol north-east to the front at about 3665,2730 (looked at 3300,2840, 3420,2790, 3520,2810, 3640,2735)"}
+  - {box: [2770, 2805, 2880, 2865], why: "the same FIRST / THIRD boundary's stretch in the west (run at 2833,2830), heavy black, no ticks"}
+  - {box: [4140, 3935, 4340, 4100], why: "the boundary labelled TWELFTH / SIXTH, heavy black, no ticks, from the Saar corner south-west (blue run 4280,3998; looked at 4280,3998 and 4150,4090); the front proper runs south-east from the corner at about 4370,3930"}
+  - {box: [3880, 4100, 4150, 4260], why: "the same TWELFTH / SIXTH boundary's south-west stretch past its label, magenta, no ticks (run at 3919,4242)"}
+  - {box: [4150, 3275, 4195, 3305], why: "a small magenta hook beside the 212 symbol on the Westwall's hatched band, no ticks (run at 4161,3289); the Moselle front lies west of x 4135 there"}
+  - {box: [4945,4735,5020,4790], why: "a boundary, magenta, heavy black with no ticks, running north-east towards Strasbourg (run at 4984,4768); the front lies far east, at x above 5100"}
+  - {box: [3725,2672,3785,2702], why: "a short blue mark on the top of the hatched 15 symbol, not front (the front passes west of the symbol); the front itself has a gap at the boundary's junction near 3665-3690, 2720-2785"}
+  - {box: [4625,4025,4665,4065], why: "a blot on the hatched Westwall band near Saarbrucken (run 4642,4043), not a front (looked at 4642,4043)"}
+  - {box: [3440,1735,3795,1850], why: "the boundary labelled SECOND BR / NINTH U.S. continued east past the XVI corps symbol to the front near the 102 symbol, heavy black with no ticks (blue runs at 3566,1799 and its hook; looked at 3566,1799, 3680,1795, 3740,1725); the front proper runs along y 1690-1710 above it"}
+flip:
+  - {at: [3683, 2709], why: "review: the short piece of the Ardennes front west of the enemy 560th's box, by the heavy junction with the First/Third boundary: the US 17th Airborne lies west, but it came out with its own side east (Dinant, Namur and Huy each had it against them)"}
+checked:
+  - {at: [4361, 3904], why: "the front's short piece joining the Saar reach to the corner where it turns south-east; the same line as its blue neighbours, whose map ticks fall on the south-west (US) side (looked close)"}
