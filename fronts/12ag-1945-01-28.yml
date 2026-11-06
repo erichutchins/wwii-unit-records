@@ -1,0 +1,19 @@
+# 12ag-1945-01-28: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21238
+date: 1945-01-28
+as_of: 281200 JAN. 1945
+report: "237"
+title: "HQ Twelfth Army Group Situation Map, to accompany G-3 Report No. 237, situation as of 281200 Jan. 1945 (SECRET struck through; signed for A. Franklin Kibler, Brigadier General, G-3)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 250, 1980, 815], why: "the title block's lettering (HQ TWELFTH ARMY GROUP SITUATION MAP, G-3 REPORT NO. 237, SITUATION AS OF 281200 JAN. 1945); ends above the Walcheren/Tholen front, which starts below the 1945 (unsure runs 1326,323 / 1880,678 / 1866,781)"}
+  - {box: [200, 830, 1450, 1130], why: "the title block's signature and name (C. T. Schmidt, for A. Franklin Kibler, Brigadier General, G-3), lettering; west of where the Walcheren front begins (unsure runs 1081,1016 / 1240,1016 / 964,1086)"}
+  - {box: [5040, 150, 6659, 500], why: "the second title box at top right (Auth: CG, Twelfth Army Group / Initials / Date: 28 January 1945), lettering (unsure runs 5101,311 / 5201,435 / 5201,460)"}
+  - {box: [0, 5050, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all), lettering from the top of U.S. down (unsure runs near 430-1011, 5090-5490)"}
+  - {box: [3080, 1850, 3390, 2150], why: "a boundary, blue-drawn with red ticks only from roads, no map ticks (run 26, 3244,2046; crop 3100,1850): lettered TWENTY ONE / TWELFTH on the map, to the gap at Seraing; the front is far east"}
+  - {box: [3600, 2110, 3860, 2200], why: "a boundary, blue-drawn, ticks only from roads (run 28, 3683,2133; crop 3100,1850): the TWENTY ONE / TWELFTH army group boundary's last stretch to the front, which it meets at about 3910,2180, outside the box"}
+  - {box: [3950, 3965, 4385, 4300], why: "the boundary lettered TWELFTH XXXXX SIXTH, magenta then blue-drawn, ticks only from roads (runs 42 at 4063,4199 and 40 at 4318,4006; crop 3900,3950); it meets the front at about 4400,3950, outside the box"}
+flip: []
+checked: []
