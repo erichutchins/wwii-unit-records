@@ -1,0 +1,17 @@
+# 12ag-1945-01-11: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21221
+date: 1945-01-11
+as_of: 1200 HRS 11 JANUARY 1945
+title: "Situation 1200 hrs 11 January 1945, Twelfth Army Group (SECRET underlined; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 11 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [3900, 3975, 4395, 5010], why: "the Twelfth/Sixth army group boundary from the front at Saarlautern-Forbach south to Moselle at Bayon (heavy black then magenta, runs 36, 38, 40), no map ticks; the front itself runs on east of x 4395 from y 3990 (looked on the overlay crop 3700,3900)"}
+flip:
+  - {at: [1636, 907], why: "the Walcheren arc (Westkapelle to Domburg), magenta, no ticks told; on the crop 1400,600 the map's ticks hang on its south and east side (toward Middelburg, the US/British side), the red ticks stood on the north"}
+  - {at: [2033, 889], why: "the St Annaland arc west of Tholen, magenta; map ticks hang on its south/east (Tholen side), red ticks stood on the north; same line as the next"}
+  - {at: [2092, 870], why: "the east end of the same St Annaland arc, turned with it"}
+checked: []
