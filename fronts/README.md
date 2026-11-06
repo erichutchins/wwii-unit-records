@@ -55,7 +55,11 @@ length and whether it was whole, and from late in the run each rear town's dista
 either side (`tools/check_fronts.py`), which found boundaries still traced as front far behind the line on three
 days that no town's side had shown. Where a reader's day was wrong the YAML says so: stretches turned on review, boxes
 added, and one gap that can't be traced (the Colmar pocket's west side on 16 January, drawn too heavy). From
-25 January the title reads "to accompany G-3 report no. …" (234 to 240). No symbols are read on these days yet.
+25 January the title reads "to accompany G-3 report no. …" (234 to 240). The unit symbols are read across the whole
+sheet on nine of these days, 16 to 23 December and 28 January (`<map>-units.csv`, 176 to 226 a day, US, enemy,
+British, Canadian, Polish and French, each read as drawn by an agent and reviewed: every US "9" magnified, the enemy's
+panzer and paratroop marks read, the map's boxes of unplaced divisions listed). The box finder misses a third to half
+of a whole sheet's symbols (the British boxes, most corps and armies); the readers read those off the overview's tiles.
 
 | Map | Sheet | G-3 report | Stretches | Boxes left out | Turned by hand |
 |---|---|---|---|---|---|
