@@ -1,0 +1,18 @@
+# 12ag-1945-01-29: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21239
+date: 1945-01-29
+as_of: 291200 JAN 1945
+report: 238
+title: "12th Army Group Outline Maps 1:1,000,000. HQ Twelfth Army Group Situation Map, to accompany G-3 Report No. 238, situation as of 291200 Jan 1945 (SECRET struck through; signed G. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [180, 4860, 1000, 5520], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE lettering and sample line, bottom left): the unsure runs at 456,5437, 629,5455 and 916,5456"}
+  - {box: [3170, 2020, 3250, 2085], why: "the Twenty One/Twelfth army group boundary (labelled TWENTY ONE / TWELFTH on the map) from Tongres past Liege, heavy black, magenta, red ticks only from roads (unsure run 3206,2051; looked, overlay crop 3000,1850)"}
+  - {box: [3690, 2130, 3800, 2190], why: "the same TWENTY ONE / TWELFTH boundary's last stretch to the front, blue, red ticks from roads only, no map ticks (run 18 at 3778,2165; overlay crop 3000,1850); the front itself runs at about x 3925 and south"}
+  - {box: [870, 400, 940, 460], why: "a short blue hook on the W of TWELFTH in the title block (run 1 at 904,431), lettering; looked, overlay crop 800,300"}
+flip: []
+checked:
+  - {at: [4035, 3622], why: "a magenta stretch of the heavy front line at Sierck/Remich (the Moselle-Saar triangle's west side), no ticks of its own; the map's ticks lie on its west (US) side, as the red ticks do (crop 3950,3560); Verdun, Chalons and Saint-Dizier read US with it. A heavy stretch of about 70 px just east of it (about 4075,3637 to 4120,3690) is left untraced: a gap, not a box"}
+  - {at: [4229, 3763], why: "a short magenta stretch of the front on the Saar side near Merzig, ticks on its south-west (US) side, joined to the blue runs either side (crop 4100,3650); Metz reads US"}
