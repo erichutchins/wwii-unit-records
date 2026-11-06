@@ -1,0 +1,19 @@
+# 12ag-1944-12-23: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21202
+date: 1944-12-23
+as_of: 1200 HRS 23 DECEMBER 1944
+title: "Situation 1200 hrs 23 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [60, 150, 2420, 800], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 23 DECEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [40, 5080, 1100, 5990], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [3530, 4830, 4070, 5500], why: "the Twelfth/Sixth army group boundary south-west of Nancy, no ticks"}
+  - {box: [4050, 4230, 4880, 4850], why: "the same boundary on north-east past Nancy toward the front, no ticks"}
+  - {box: [4490, 5190, 4650, 5330], why: "the Seventh/First French army boundary's heavy end at Saint-Dié, no ticks of its own (the map's ticks beside it are railways; looked at 4562,5257)"}
+  - {box: [4960, 4900, 5070, 4970], why: "the same boundary where it crosses the Bruche toward Strasbourg, heavy, no ticks (looked at 5023,4935)"}
+  - {box: [5195, 5005, 5240, 5035], why: "the stub where the same boundary meets the front on the Rhine above Erstein (looked at 5215,5020)"}
+  - {box: [3000, 1745, 3840, 1900], why: "the Twenty One/Twelfth army group boundary from the sheet's west across Maastricht to the front near Geilenkirchen, heavy and with no ticks (looked at 3400,1830 and 3700,1790)"}
+flip: []
+checked: []

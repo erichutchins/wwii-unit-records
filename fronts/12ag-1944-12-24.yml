@@ -1,0 +1,36 @@
+# 12ag-1944-12-24: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21203
+date: 1944-12-24
+as_of: 1200 HRS 24 DECEMBER 1944
+title: "Situation 1200 hrs 24 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [50, 220, 2300, 620], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 24 DECEMBER 1944, TWELFTH ARMY GROUP); Walcheren/Tholen front starts below y 680"}
+  - {box: [0, 5050, 1100, 5977], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [3000, 1180, 3110, 1350], why: "a boundary (black, no ticks) south of Turnhout, the magenta bit of it carries two stray strokes only"}
+  - {box: [4166, 959, 4306, 1099], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [4122, 1120, 4262, 1260], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [4256, 1374, 4396, 1514], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [4293, 1473, 4433, 1613], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [4382, 1534, 4522, 1674], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [4413, 1805, 4553, 1945], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [4699, 2226, 4839, 2366], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [4887, 2335, 5027, 2475], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [4946, 2490, 5086, 2630], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [4963, 2597, 5103, 2737], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [5287, 2921, 5427, 3061], why: "the Rhine's own heavy river ink (no map ticks; looked at the overlay), not the front"}
+  - {box: [2650, 2740, 3120, 2800], why: "the Twenty One/Twelfth army group boundary into the Ardennes front near Givet, heavy, no ticks (the magenta bit carries stray strokes only)"}
+  - {box: [3405, 1822, 3465, 1852], why: "a bit of the 51(+) symbol's box below the front at 3434,1810; the front itself runs above, ticked (looked on the overlay)"}
+  - {box: [4190, 4020, 4375, 4460], why: "the Twelfth/Sixth army group boundary from the front near Saaralben south-west, heavy, no ticks (looked at 4215,4400)"}
+  - {box: [4000, 4440, 4220, 4800], why: "the same boundary, on to Dombasle, no ticks"}
+  - {box: [3400, 4780, 4020, 5200], why: "the same boundary south-west of Dombasle past Toul's south, no ticks"}
+  - {box: [4340, 3960, 4410, 4020], why: "the blob where that boundary leaves the front (looked at 4371,3988), no ticks"}
+  - {box: [4330, 4540, 4400, 4600], why: "a pond's dark blue ink near Dieuze, not a line"}
+  - {box: [4400, 4660, 4510, 4740], why: "the Marne-Rhine canal's dark ink at Sarrebourg, not a line"}
+  - {box: [4780, 4880, 4900, 4950], why: "the stub of the Seventh/First French army boundary, heavy, no ticks"}
+flip:
+  - {at: [3441, 454], why: "the front's top at Nijmegen: the map's ticks are on its south side (looked at 3441,454); the overlay had them north"}
+checked:
+  - {at: [1671, 864], why: "a Walcheren arc: the map's ticks are on its south side (toward the Scheldt), the overlay's red ticks fall on them (looked on the overlay)"}

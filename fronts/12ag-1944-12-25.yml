@@ -1,0 +1,27 @@
+# 12ag-1944-12-25: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21204
+date: 1944-12-25
+as_of: 1200 HRS 25 DECEMBER 1944
+title: "Situation 1200 hrs 25 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [200, 380, 2300, 770], why: "the title block's lettering (SECRET and its underline, SITUATION 1200 HRS 25 DECEMBER 1944, TWELFTH ARMY GROUP); kept above the Walcheren/Tholen front, which starts below y 800"}
+  - {box: [150, 4880, 1100, 5500], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [3620, 780, 3700, 830], why: "the Second British/First Canadian-Second British army boundary's end where it meets the front on the Maas, heavy, no ticks (looked at 3650,805)"}
+  - {box: [2800, 1200, 3260, 1620], why: "the First Canadian/Second British army boundary south-west of Eindhoven to Turnhout and on to Herentals, heavy black with no ticks (looked on the overlay crop 1900,450)"}
+  - {box: [3200, 1780, 3500, 1880], why: "the Second British/Ninth army boundary east of Hasselt, heavy, no ticks"}
+  - {box: [3000, 1900, 3700, 2180], why: "the Twenty One/Twelfth army group boundary (Ninth/First army) from St Trond south-east past Liege, heavy, the overlay's blue and ticks on it fall on grey roads (looked on crop 2950,1750)"}
+  - {box: [3700, 2100, 3800, 2160], why: "the same boundary's last stretch to the front at Geilenkirchen/Aachen area, short, no ticks"}
+  - {box: [2700, 2740, 3100, 2850], why: "the Twenty One/Twelfth army group boundary west of Givet/Dinant (lettered TWENTY-ONE/TWELFTH), heavy, no ticks"}
+  - {box: [4330, 3875, 4420, 4000], why: "the Twelfth/Sixth army group boundary's start at the front by the Saar bridgehead (the black blob east of Sierck/Saarlautern), heavy, no ticks (looked on crop 4200,3800)"}
+  - {box: [4160, 4000, 4390, 4600], why: "the same boundary running south-south-west toward Sarrebourg, heavy black, no ticks on either side (looked on crop 4200,3800)"}
+  - {box: [3450, 5030, 3720, 5200], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, heavy, no ticks (looked on crop 3400,4500)"}
+  - {box: [5170, 4040, 5260, 4090], why: "the edge of an enemy division's box (25), not a line (looked on crop 4950,3950)"}
+  - {box: [5190, 4165, 5260, 4200], why: "the edge of an enemy division's box (361) on the West Wall band, no ticks (looked on crop 4950,3950)"}
+  - {box: [5560, 4240, 5670, 4290], why: "a short blue run on the hatched West Wall band at the Lauter/Rhine corner, no ticks of the map's own: the front's end there is the heavy band, not a line (looked on crop 5380,4130)"}
+  - {box: [5690, 4385, 5770, 4425], why: "the top edge of an enemy division's box (553) east of the Rhine, not a line"}
+  - {box: [5030, 5320, 5110, 5380], why: "the outline of an enemy division's box (116) in the Colmar pocket, not a line (looked on crop 4300,4850)"}
+flip: []
+checked: []

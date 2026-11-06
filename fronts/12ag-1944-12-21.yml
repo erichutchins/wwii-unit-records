@@ -1,0 +1,26 @@
+# 12ag-1944-12-21: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21200
+date: 1944-12-21
+as_of: 1200 HRS 21 DECEMBER 1944
+title: "Situation 1200 hrs 21 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [0, 150, 2450, 780], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 21 DECEMBER 1944, TWELFTH ARMY GROUP), kept above the Walcheren/Tholen front"}
+  - {box: [0, 5050, 1000, 5950], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [2500, 1780, 3700, 1960], why: "the Twenty One/Twelfth army group boundary from Louvain east past Maastricht, heavy; its black lettering end and the blue stretch with no front ticks (looked at 2683,1914 and the crop 2500,1500)"}
+  - {box: [3640, 1730, 3800, 1810], why: "the same boundary's last stretch rising to the front at Geilenkirchen, heavy"}
+  - {box: [3500, 5150, 3700, 5300], why: "the Twelfth/Sixth army group boundary, south-west end, heavy, no front ticks (looked at 3577,5210)"}
+  - {box: [3800, 4900, 4020, 5080], why: "the same boundary north-east of there, magenta, its ticks the railway/boundary marks only (crop 3400,4200: boundary runs Dombasle to Sarrebourg to the front)"}
+  - {box: [4020, 4700, 4250, 4880], why: "the same boundary, Dombasle, along the Marne-Rhine canal"}
+  - {box: [4250, 4640, 4500, 4780], why: "the same boundary along the Marne-Rhine canal to Sarrebourg"}
+  - {box: [4550, 4250, 4900, 4600], why: "the same boundary from Sarrebourg north-east to the front near Sarreguemines"}
+  - {box: [4590, 4040, 4690, 4085], why: "a short stub on the 347th's box (a unit symbol drawn on the hatched ribbon of the Saar bridgehead, not a front line; looked at 4630,4060)"}
+  - {box: [4745, 4000, 4810, 4080], why: "a stub round the hatched box beside 'SS' east of 347 (the symbol's outline, not the front; looked at 4790,4040)"}
+flip: []
+checked: []
+# left unsure by reason: the short joint at (3967,2185) at the head of the Monschau/Elsenborn hatched corridor, a heavy
+# blob with no ticks that joins two ticked runs; it decides no town (looked at 3967,2185).
+# Marche (3148,2706) reads own (US) because its ring sits at the tip of the Ardennes finger (the line passes at ~3170,2700); looked at the crop 2600,2450.
+

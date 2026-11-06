@@ -1,0 +1,27 @@
+# 12ag-1944-12-26: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21205
+date: 1944-12-26
+as_of: 1200 HRS 26 DECEMBER 1944
+title: "Situation 1200 hrs 26 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through and underlined, SITUATION 1200 HRS 26 DECEMBER 1944, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs, which start at y about 830"}
+  - {box: [100, 4850, 1100, 5620], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [3060, 1170, 3360, 1310], why: "the Twenty One/Twelfth army group boundary near Eindhoven-Turnhout, heavy black, no ticks (looked at 3311,1195 3204,1279)"}
+  - {box: [3190, 1770, 3640, 1840], why: "the Ninth/First army boundary west of Maastricht, heavy, no ticks (looked at 3236,1789 3579,1810)"}
+  - {box: [2600, 2765, 2800, 2795], why: "the Twenty One/Twelfth army group boundary west of the Meuse at Givet, heavy, no ticks (looked at 2777,2778)"}
+  - {box: [2840, 2770, 3130, 2796], why: "the lettering TWENTY ONE / TWELFTH underlined (looked at 2857,2783 3050,2781)"}
+  - {box: [3340, 2080, 3440, 2125], why: "the First/Ninth army boundary's end beside the Geer, heavy, ticks of the roads only (looked at 3393,2108)"}
+  - {box: [3790, 2145, 3880, 2195], why: "the Ninth/First army boundary's last stretch to the front near Eupen, heavy, no ticks (looked at 3836,2174)"}
+  - {box: [3900, 2195, 3935, 2215], why: "the same boundary's stub meeting the front at the Hohes Venn, no ticks (looked at 3921,2205)"}
+  - {box: [4370, 3950, 4425, 3998], why: "the First/Third army boundary's end from the Saar corner at the front, heavy, no ticks (looked at 4390,3973)"}
+  - {box: [4050, 4005, 4400, 4600], why: "the Twelfth/Sixth army group boundary from the front near Forbach south-west, magenta, red ticks only from the roads, no map ticks (looked at 4209,4520)"}
+  - {box: [3380, 5030, 3730, 5220], why: "the Twelfth/Sixth army group boundary south-west of Nancy, magenta, red ticks only from the roads, no map ticks (looked at 3589,5100)"}
+  - {box: [4890, 2380, 5070, 2440], why: "the Rhine's dark blue ink at Neuwied under the CinC ADV box, not front (looked at 4994,2407)"}
+  - {box: [5020, 2460, 5070, 2520], why: "the heavy leader line from the CinC ADV box to the Rhine, not front (looked at 5044,2490)"}
+  - {box: [5170, 4060, 5240, 4120], why: "ink of an enemy division's box and its arrow (25) well behind the front, not a line (looked at 5207,4095); it had put Pirmasens on the US side"}
+flip: []
+checked:
+  - {at: [5225, 5065], why: "the Rhine front above Erstein: a short heavy stretch between two ticked ones, the map's ticks on its west (US) side, red ticks agree (looked on the overlay, 200 px crop)"}
