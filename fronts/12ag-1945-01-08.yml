@@ -1,0 +1,16 @@
+# 12ag-1945-01-08: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21218
+date: 1945-01-08
+as_of: 1200 HRS 8 JANUARY 1945
+title: "Situation 1200 hrs 8 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 8 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4800, 1100, 5977], why: "the legend, its S of U.S. included at 503,4930 (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [3600, 4200, 4640, 5800], why: "the Twelfth/Sixth army group boundary from the Saar corner south-west past Nancy, magenta on overlay-sheet.jpg, no map ticks (the black line at 4300-4400,4200-4800 on the crop, then magenta; looked)"}
+  - {box: [4335, 3950, 4415, 4130], why: "the First/Third army boundary's stub from the Saar corner south-west (runs 39-40), magenta, red ticks from roads only, no map ticks (looked on the overlay crop at 4000-4900,3800-4500); the front's own blue passes beside it"}
+  - {box: [2700, 2780, 3055, 2830], why: "the Twenty One/Twelfth army group boundary from Beauraing east to the front at Rochefort, drawn heavy (traced blue on the first trace), the red ticks from the road beside it only; the front's own vertical arc at x 3060-3080 stays out of the box (looked on the overlay crop 2600,2400)"}
+flip: []
+checked: []

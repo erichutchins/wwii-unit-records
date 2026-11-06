@@ -1,0 +1,18 @@
+# 12ag-1945-01-07: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21217
+date: 1945-01-07
+as_of: 1200 HRS 7 JANUARY 1945
+title: "Situation 1200 hrs 7 January 1945, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 7 JANUARY 1945, TWELFTH ARMY GROUP)"}
+  - {box: [100, 4850, 1100, 5620], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [3380, 4560, 4260, 5220], why: "the Twelfth/Sixth army group boundary from Sarrebourg south-west past Nancy (magenta on overlay-sheet.jpg, no map ticks; unsure runs at 4126,4641, 3949,4988, 3552,5194)"}
+  - {box: [4200, 4020, 4390, 4520], why: "the First/Third army boundary south-west from the front's corner at Sarreguemines-Saarlautern (runs 36, 38, 42): heavy, magenta, only road ticks, no map ticks; looked at 4300,4200 on the overlay crop; the front itself passes it at 4400,3990"}
+  - {box: [3960, 2290, 4030, 2350], why: "a heavy black branch at the 246 symbol east of the front at Schleiden, no ticks, joins the hatched enemy band not the front (looked at 3988,2322; the front's own blue is unbroken at x 3930)"}
+  - {box: [2990, 2760, 3055, 2795], why: "the Twenty One/Twelfth army group boundary's last stretch to the front near Rochefort, heavy magenta, no ticks (looked on the overlay crop 3000,2200; the front's blue turns south at x 3070)"}
+flip: []
+checked:
+  - {at: [3598, 2551], why: "the head of the corridor at the Salm/Stavelot salient bend, a short heavy arc with no ticks; the blue front is continuous round it and the map's ticks stand on the inside (US) side, as the red ticks beside it (looked on overlay crop 3520,2470)"}

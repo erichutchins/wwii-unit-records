@@ -1,0 +1,16 @@
+# 12ag-1945-01-09: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21219
+date: 1945-01-09
+as_of: 1200 HRS 9 JANUARY 1945
+title: "Situation 1200 hrs 9 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 9 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [2955, 2765, 3060, 2810], why: "the Twenty One/Twelfth army group boundary's end at the front near Rochefort, magenta, no ticks (unsure run at 3023,2786)"}
+  - {box: [3990, 4140, 4300, 4830], why: "the Twelfth/Sixth army group boundary from near Faulquemont south-west, magenta, no map ticks (unsure runs 4276,4233; 4172,4548; 4045,4759)"}
+  - {box: [4300, 4020, 4395, 4130], why: "the First/Third army boundary's stub from the Saar corner south-west, heavy black, red ticks only from the roads, no map ticks (looked at 4357,4053 on the overlay crop); the front proper runs east from 4400,3990 to Sarreguemines"}
+  - {box: [5230, 5035, 5265, 5090], why: "a short heavy dark stretch along the Rhine-Rhone canal/Rhine at Erstein-Benfeld, no ticks (unsure run 5246,5061; looked on overlay crop, the front's ticked loops lie west of it)"}
+flip: []
+checked: []
