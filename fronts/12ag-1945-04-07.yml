@@ -1,0 +1,57 @@
+# 12ag-1945-04-07: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+# B13 pilot notes (6 Nov 2026), read on the overlay and --look, for the days that follow on this base:
+# - The title block is at TOP RIGHT on this sheet (x 4700-6300, y 80-1010), not top left; top left carries the base's own
+#   heading and an Auth/Initials/Date box (x 400-1520, y 150-480). The legend is at BOTTOM RIGHT (x 5650-6520, y 5000-5640).
+#   Both are lettering inside the sheet, and no front lies near them; hand-lettered, so check them each day.
+# - Boundaries drawn heavy with no ticks (the grey ticks beside them are railways; the blue beside them streams):
+#   Twenty One / Twelfth army group (Westerberg to Minden), Ninth / First (Paderborn), First / Third (Lahn at
+#   Ehrenbreitstein, Runkel, Giessen, Kassel, then east to Witzenhausen), Twelfth / Sixth (Saarbrucken, Neunkirchen, Worms
+#   side, Frankfurt, to the front near Fulda), Seventh / First French (Speyer stub), and the boundary into Lingen.
+#   Thin black lines (corps boundaries, Karlstadt, Eisenach, Schmalkalden) are not traced at all.
+# - Dark rivers: the Lahn and the Saar-side streams read blue beside the boundaries and passed for ticked runs; the Rhine
+#   north of Dusseldorf is heavy black but lies outside the trace's extent (west of the 7E crossings), so is not traced.
+# - The Ruhr pocket: its traced ring is the Lippe/Hamm line on the north (ticks to the north, US), the Sauerland east side
+#   to Brilon and Warstein, the Sieg on the south to Bonn and the east bank of the Rhine back to Dusseldorf (ticks outside,
+#   US); the enemy is inside. Its west side north of Dusseldorf (Duisburg, Oberhausen) is off the traced extent.
+# - A heavy black closed loop west of the Fulda corridor (about 2780-2930, 3770-4000) is not traced (no ticks, no blue).
+item: ict21307
+date: 1945-04-07
+as_of: 071200 APR. 1945
+report: "306"
+title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 306, situation as of 071200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right. The sheet also carries the base map's own heading (12th Army Group Outline Maps 1:1,000,000) and an Auth/Initials/Date box at top left (Date: 7 APRIL 1945)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B13.csv
+exclude:
+  - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 7 APRIL 1945), heavy lettering and its frame (unsure runs 966,231 / 870,392); no front near"}
+  - {box: [4700, 80, 6300, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 306, SITUATION AS OF 071200 APR. 1945, signature and name); the title is hand-lettered here on this sheet, not at top left as on the B11 plate; the front's nearest part (Thuringia) is far below and left of it"}
+  - {box: [5650, 5000, 6520, 5640], why: "the legend at bottom right (U.S., BRITISH, ENEMY boxes, FRONT LINE sample, ticks and all), lettering (unsure runs 5711-6008, 5046-5602)"}
+  - {box: [560, 1690, 1300, 2020], why: "the TWENTY ONE / TWELFTH army group boundary, heavy black, no map ticks (the grey ticks beside it are railways; --look 1000,1920 and 1650,1552), from the sheet's left edge of the trace to the label at Westerberg; the tool's runs here were magenta (unsure 797,1804)"}
+  - {box: [1290, 1500, 1720, 1760], why: "the same boundary, diagonal north-east toward Osnabruck, plain heavy line (--look 1650,1552); well below the front at Lingen and Rheine (y 1230-1320 near x 1300-1800)"}
+  - {box: [1680, 1320, 2060, 1560], why: "the same boundary, middle stretch, plain heavy line"}
+  - {box: [2040, 1270, 2360, 1360], why: "the same boundary's last stretch to the front, which it meets at the Weser at Minden (about 2374,1297, outside the box)"}
+  - {box: [2280, 2000, 2500, 2080], why: "the NINTH / FIRST army boundary's last stretch to the front near Paderborn, plain heavy line (--look 2300,2038); meets the front at about 2615,2060"}
+  - {box: [2770, 2610, 2870, 2810], why: "the FIRST / THIRD army boundary's last stretch, south-west of Kassel, plain heavy black (run at 2793,2800 in f.jpg); its far end turns east at about 2857,2598"}
+  - {box: [2870, 2575, 3050, 2615], why: "the boundary's last stretch east from 2857,2598 to the front at Witzenhausen (about 3040,2590), no ticks (--look 2880,2598 and 3040,2590); the unsure run 3045,2591 is its junction with the front; the front itself is outside the box"}
+  - {box: [2660, 2700, 2830, 3000], why: "the FIRST / THIRD army boundary, heavy black, no ticks (--look 2679,2960)"}
+  - {box: [2560, 2960, 2700, 3200], why: "the same boundary, plain heavy line"}
+  - {box: [2420, 3200, 2620, 3560], why: "the same boundary, plain heavy line (--look 2380,3450)"}
+  - {box: [2150, 3440, 2440, 3700], why: "the same boundary near Giessen, plain heavy line (--look 2330,3510)"}
+  - {box: [1230, 3760, 1850, 3930], why: "the FIRST / THIRD boundary where it follows the Lahn from Ehrenbreitstein to Runkel (labelled FIRST XXXX THIRD at its north-east end); heavy black, the blue/magenta here is the river, the grey ticks are railways; no US front on the Lahn on 7 April (unsure runs 1736,3791 / 1587,3847)"}
+  - {box: [2380, 3890, 2700, 4160], why: "the TWELFTH / SIXTH army group boundary north-east of Frankfurt, plain heavy line (--look 2805,3839)"}
+  - {box: [2680, 3670, 2900, 3910], why: "the same boundary, last stretch to the front near Fulda (the front's own stretch starts about 2931,3677, outside the box)"}
+  - {box: [1990, 4120, 2420, 4460], why: "the same boundary round Frankfurt"}
+  - {box: [1790, 4400, 2060, 4640], why: "the same boundary south-west of Frankfurt, with its lettering TWELFTH XXXXX SIXTH"}
+  - {box: [1000, 4640, 1790, 4780], why: "the same boundary running west, plain heavy line (--look 1300,4690: the blue beside it is a stream)"}
+  - {box: [840, 4690, 1060, 4890], why: "the same boundary turning south-west"}
+  - {box: [830, 4850, 920, 5190], why: "the same boundary running south toward Neunkirchen (--look 870,5110: plain heavy line, the blue is a stream)"}
+  - {box: [660, 5160, 900, 5330], why: "the same boundary, south-west toward Saarbrucken, plain heavy line (--look 640,5290)"}
+  - {box: [410, 5240, 700, 5330], why: "the same boundary's western end above Saarbrucken (--look 600,5280); there is no front on the Saar on 7 April"}
+  - {box: [1900, 5180, 2020, 5250], why: "the SEVENTH / FIRST FRENCH army boundary's stub on the Rhine at Speyer (unsure 1955,5213)"}
+  - {box: [760,985,1030,1140], why: "the heavy black boundary running south-west from Lingen (no ticks: --look 880,1075 and 1000,1010; the blue beside it is a stream, the grey a road), left of the junction at about 1085,990 where the front turns south and round the GDS box; the unsure run 1061,1009 is its junction"}
+  - {box: [1035,980,1080,1020], why: "the boundary's last piece into the junction at Lingen (magenta, unsure 1061,1009; --look 1110,1000: the heavy line passes on to the GDS box's loop); the front's own stretches run north and south from the junction outside this box"}
+flip: []
+checked: []
+# Reviewed: the trace stops at the 7E crossings (x about 590), so the Ruhr pocket's western ring along the Rhine
+# (Duisburg, Oberhausen) is not in it; and a gap of about 10 km is left west of Meiningen at the untraced heavy loop
+# near Fulda (about 2780-2930, 3770-4000), drawn without ticks.

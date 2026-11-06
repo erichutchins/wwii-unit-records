@@ -1,0 +1,28 @@
+# 12ag-1944-11-03: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B09 (6 Sep - 3 Nov 1944): this is its pilot day, so its excludes are settled here with care.
+item: ict21152
+date: 1944-11-03
+as_of: 1200 HRS 3 NOVEMBER 1944
+title: "Situation 1200 hrs 3 November 1944, Twelfth Army Group (SECRET struck through above)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: 12ag-1944-12-16   # as asked; NOT YET WORKING: --gcps-from refuses (36 of 81 within 4 px, median 4.3 px; against towns-B11.csv 48 of 81, one short of 49). The March twenty (12ag-1945-03-07) agree 20 of 20 (median 0.6 px) but cover only the Rhine/Eifel corner (x>=4376), not the front of 3 Nov.
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why (B09 pilot: seen on overlay crops of 6 Nov 2026)
+  - {box: [150, 170, 2480, 640], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 3 NOVEMBER 1944, TWELFTH ARMY GROUP), read on title.jpg (1600 px wide for 3974 px of scan, so x2.48); the front's first reach (the Scheldt, x about 1780 up) stands outside it. On this sheet the title sits top left, as on B11"}
+  - {box: [180, 4960, 1050, 5660], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE with its sample of the front), bottom left; the tool found two bits of it in the letters of BRITISH at 694,5225 (seen on the overlay crop 0,4700)"}
+  - {box: [1850, 1620, 3050, 1900], why: "the Twenty One/Twelfth army group boundary from its west end near Tournai to Brussels (heavy, no ticks, lettered TWENTY ONE XXXXX TWELFTH), three stretches of it found (2000,1820 2230,1775 2414,1735) and its ticks are the railways' (seen on crop 1700,700)"}
+  - {box: [3900, 4740, 4010, 4800], why: "the Twelfth/Sixth army group boundary's south-west end near Neufchateau, heavy, no ticks (crop 3500,3600)"}
+  - {box: [4520, 4300, 4700, 4410], why: "the same boundary's last stretch north-east of Toul to the front at Arracourt/Dombasle, heavy, no ticks; the front itself starts east of x 4710 (crop 3500,3600)"}
+  - {box: [5540, 3420, 5650, 3480], why: "a bit of the Westwall (Siegfried Line) outline, a dark wavy double line with hatching north of Zweibrucken, not the front (crop 5000,3300)"}
+  - {box: [6030, 3660, 6140, 3730], why: "a bit of the Westwall outline's end near Kandel, not the front (crop 5000,3300)"}
+flip: []
+checked:   # unsure stretches (short, no tick count told) looked at on enlarged overlay crops, 6 Nov 2026: the map's own ticks stand on the west/south (US) side, where the overlay's red ticks fall, and --sides agrees
+  - {at: [3724, 120], why: "the Nijmegen salient's north arc: map ticks on the east/south (Nijmegen, US) side, crop 3450,40"}
+  - {at: [3622, 219], why: "the same arc's west side, ticks on its east side (crop 3450,40)"}
+  - {at: [4015, 1052], why: "the Maas front at Roermond: map ticks on the west (US) side (crop 3900,980)"}
+  - {at: [4471, 3253], why: "the Moselle front north of Thionville: ticks on the west (US) side (crop 4150,3150)"}
+  - {at: [4353, 3417], why: "the Moselle front at Thionville, ticks on the west side (crop 4150,3150)"}
+  - {at: [4296, 3654], why: "the Moselle front south of Thionville toward Metz, ticks on the west side (crop 4150,3150)"}
+# Reviewed: Arnhem reads US only because its ring is at the sheet's top edge (y -1, a match of score 0), past the
+# front's open end; it was German-held. The front south of about y 5240 (to the neat line near 4460,5640) is past the
+# towns' spread and untraced. Six placed towns (Jülich, Metz, Trier, Zweibrücken, Kleve, Prüm) rest on the fit alone.
