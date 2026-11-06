@@ -23,8 +23,9 @@
   scan: 6700 x 6000
   heading: 12 AG outline maps 1:500,000, sheet 3; "Projection - Europe (Air) Conical Orthomorphic" in the foot
   shows: Normandy, the Cotentin to the Seine bay; the title top-middle ("SITUATION - 2400 HRS 6 JUNE 1944, HQ FUSAG" on the first day)
-  towns: ""
+  towns: towns-B01.csv
   towns_on: 12ag-1944-06-06
+  towns_check: 34 half-degree graticule crossings read on gridded crops of 6 June 1944 (6 November 2026; the conic 0.14 km rms, 0.3 km at worst), seeded by the degrees printed on the sheet's margins (the top and bottom neat lines are the 50N and 48N parallels)
 - base: B02
   from: 1944-08-05
   to: 1944-08-10
@@ -32,8 +33,9 @@
   scan: 6700 x 6000
   heading: 12 AG outline maps 1:500,000 (as read on the overview)
   shows: Brittany, the Gulf of St Malo at top-centre, Brest at the left edge
-  towns: ""
+  towns: towns-B02.csv
   towns_on: 12ag-1944-08-05
+  towns_check: 31 half-degree graticule crossings read on gridded crops of 5 August 1944 (6 November 2026; the conic 0.22 km rms, 0.6 km at worst), seeded by the margins (the right neat line is the Greenwich meridian)
 - base: B03
   from: 1944-08-11
   to: 1944-08-12
