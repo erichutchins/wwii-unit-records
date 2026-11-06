@@ -1,0 +1,25 @@
+item: ict21237
+date: 1945-01-27
+as_of: 271200 JAN. 1945
+report: 236
+title: "To accompany G-3 Report No. 236, Situation as of 271200 Jan. 1945, HQ Twelfth Army Group Situation Map (SECRET struck through)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 280, 2000, 850], why: "the title block's lettering (HQ TWELFTH ARMY GROUP SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 236, SITUATION AS OF 271200 JAN. 1945); ends above the Walcheren/Tholen arcs, whose tops are at about y 865"}
+  - {box: [200, 850, 1540, 1250], why: "the title block's signature and the name lettering (Kibler, Brigadier General G.S.C., A.C. of S., G-3), left of the Walcheren arc, whose west end is at x 1555"}
+  - {box: [0, 4850, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [4970, 260, 6050, 560], why: "the SECRET / Auth / Initials / Date stamp box at top right, lettering magenta with no ticks (runs 7-16)"}
+  - {box: [3330, 985, 3400, 1105], why: "a boundary, magenta, no map ticks (unsure run 3375,1053; crop 3000,700)"}
+  - {box: [3280, 1115, 3340, 1215], why: "a boundary, magenta, no map ticks (unsure run 3307,1165)"}
+  - {box: [3140, 1270, 3220, 1320], why: "a boundary's end by the SECOND symbol, magenta, no map ticks (unsure run 3176,1301)"}
+  - {box: [3775, 1680, 3850, 1745], why: "a boundary's last stretch to the front at about 3860,1665, magenta, no map ticks (unsure run 3825,1698; crop 3000,1550); the front is outside the box"}
+  - {box: [3600, 1785, 3680, 1840], why: "a short magenta curl on a boundary near the XVI symbol, no ticks (unsure run 3633,1807)"}
+  - {box: [3100, 1990, 3240, 2060], why: "the boundary lettered TWENTY ONE / TWELFTH (army group boundary), magenta, red ticks only from roads, no map ticks (run 3166,2026; crop 3000,1550)"}
+  - {box: [3640, 2110, 3830, 2200], why: "the same TWENTY ONE / TWELFTH boundary's last stretch to the front, blue-drawn, red ticks only from roads, no map ticks (run 3688,2142); the front is east of x 3850"}
+  - {box: [2920, 1200, 3000, 1260], why: "a boundary, magenta, no map ticks, far behind the front (unsure run 2957,1230; crop 2850,1150)"}
+  - {box: [3370, 2785, 3515, 2835], why: "a boundary's stub to the front at Houffalize, blue-drawn, red ticks only from roads, no map ticks (runs 3395,2808, 3454,2812, 3499,2821; crop 3200,2300); the front is east of x 3520 here"}
+  - {box: [3860, 4220, 3980, 4310], why: "the boundary lettered TWELFTH XXXXX SIXTH on the map, magenta, red ticks only from roads, no map ticks (unsure run 3918,4265; crop 3800,3900)"}
+  - {box: [4200, 3960, 4350, 4090], why: "the same TWELFTH XXXXX SIXTH boundary's last stretch to the front, blue-drawn, ticks only from roads (run 4282,4014); the front is east of x 4370"}
+flip: []
+checked: []

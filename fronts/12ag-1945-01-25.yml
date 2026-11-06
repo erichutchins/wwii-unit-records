@@ -1,0 +1,41 @@
+# 12ag-1945-01-25: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21235
+date: 1945-01-25
+as_of: 251200 JAN. 1945
+report: 234
+title: "HQ Twelfth Army Group, Annex No 1 - Situation Map, to accompany G-3 Report No 234, 252300 Jan. 1945; Situation as of 251200 Jan. 1945 (SECRET struck through)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [1000, 330, 1200, 410], why: "the lettering of SECRET (struck through), magenta (unsure run at 1177,370); the title block, well above the Walcheren/Tholen front (from y about 840)"}
+  - {box: [800, 655, 870, 725], why: "the 'T' of REPORT in the title lettering (unsure run 10 at 829,690)"}
+  - {box: [1575, 655, 1650, 725], why: "the last figure of '1945' in the report line of the title (blue run 11 at about 1605,690)"}
+  - {box: [1570, 740, 1650, 810], why: "the loop of the '9' in 'AS OF 251200 JAN. 1945' (unsure run at 1605,775); the Walcheren/Tholen front lies below, from y about 840"}
+  - {box: [5190, 440, 5700, 520], why: "the date line of the top-right authentication block ('Date: 25 January 1945'), heavy lettering (runs at 5228,468; 5229,492; 5484,494; 5590,495; 5654,489); no front there"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [3375, 955, 3420, 1060], why: "a boundary's stretch (heavy black, no ticks) east of Eindhoven at Helmond/Geldrop (unsure run 22 at 3396,1007); the front proper is the Maas to the east"}
+  - {box: [3330, 1080, 3385, 1170], why: "the same boundary, Geldrop stretch (unsure run 23 at 3347,1122), heavy black, no ticks"}
+  - {box: [2945, 1150, 3110, 1240], why: "the same boundary north-west of Turnhout (unsure run 24 at 3025,1179), heavy black, no ticks"}
+  - {box: [3190, 1205, 3250, 1305], why: "the same boundary's south end by the 'SECOND' army symbol (unsure run at 3217,1257), heavy black, no ticks"}
+  - {box: [3010, 1765, 3100, 1835], why: "a boundary near Hasselt on the Second/Ninth army line (unsure run 36 at 3055,1805), heavy black, no ticks"}
+  - {box: [3010, 1895, 3345, 2045], why: "the Ninth/Second army boundary running south-east toward Liege (unsure run 37 at 3176,1984), heavy black, no ticks"}
+  - {box: [3480, 2060, 3860, 2175], why: "the boundary labelled TWENTY ONE / TWELFTH from the Liege area to the front at the Roer (run 38 at 3692,2119), a heavy black line with no map ticks; the front proper starts at about 3880,2180"}
+  - {box: [2700, 2780, 2925, 2860], why: "a boundary (heavy black, no ticks) south of Dinant (run 53 at 2825,2821)"}
+  - {box: [2930, 2845, 3100, 2890], why: "the boundary labelled FIRST / THIRD, its west stretch (unsure run 55 at 3009,2871), heavy black, no ticks"}
+  - {box: [3265, 2825, 3350, 2875], why: "the boundary labelled FIRST / THIRD, east of its label (run 54 at 3304,2854), heavy black, no ticks"}
+  - {box: [3390, 2770, 3470, 2830], why: "the boundary labelled FIRST / THIRD, its bend on the Ourthe (unsure run 52 at 3428,2802), heavy black, no ticks"}
+  - {box: [3930, 2705, 3970, 2745], why: "ink of the hatched enemy box 'FE' and the heavy band through it, a blue speck (run 50 at 3946,2720); inside the enemy side, not the front"}
+  - {box: [3530, 2735, 3640, 2815], why: "the boundary labelled FIRST / THIRD, its stretch north-east of the label up to the front (run 34 at 3584,2775), heavy black, no map ticks; the front proper is the ticked line from about 3700,2730"}
+  - {box: [4960, 2360, 5050, 2430], why: "the Rhine at Neuwied, printed dark and carrying no ticks (unsure run at 4995,2393)"}
+  - {box: [5020, 2490, 5080, 2590], why: "the Rhine below Koblenz, dark, no ticks (unsure run at 5048,2539)"}
+  - {box: [5060, 2650, 5130, 2730], why: "the Rhine at Boppard, dark, no ticks (unsure run at 5090,2686)"}
+  - {box: [5360, 2940, 5430, 3000], why: "the Rhine at Bingen, dark, no ticks (unsure run at 5396,2971)"}
+  - {box: [3755, 4100, 4130, 4305], why: "the boundary labelled TWELFTH / SIXTH (army group boundary) from the Marne-Rhine canal near Metz to Faulquemont, heavy black, no map ticks (run 45 at 3928,4245)"}
+  - {box: [3735, 4345, 3790, 4405], why: "the same army group boundary south of Pagny (unsure run 47 at 3752,4372), no ticks"}
+  - {box: [3835, 4650, 3885, 4720], why: "the same boundary at Nancy (run 52 at 3861,4688), no ticks"}
+  - {box: [3880, 4735, 3960, 4790], why: "the same boundary south of Nancy toward the SEVENTH army label (unsure run 54 at 3917,4759), no ticks"}
+  - {box: [4200,3945,4370,4075], why: "the boundary labelled TWELFTH / SIXTH, its last stretch north-east to the front at the Saar corner (run 38 at 4298,4005), heavy black, no map ticks; the front proper runs south-east from about 4385,3945 to Sarreguemines"}
+flip: []
+checked:
+  - {at: [3720, 2930], why: "the front itself through the Luxembourg/Belgian border bulge, heavy with no readable ticks; on the overlay the red ticks fall on the west (US) side, beside divisions 90 and 26, and Arlon and Marche read US by it"}
