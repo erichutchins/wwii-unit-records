@@ -1,0 +1,139 @@
+# The base sheets under the daily overprint: which printed map each day of HQ Twelfth Army Group's situation maps
+# (SOURCES.yml loc-12ag) is drawn on. The days were grouped by their overviews on 6 November 2026 (tools/sitmap_bases.py
+# group: each day, in date order, joins the earlier day whose line work its own matches best by phase correlation, or
+# starts a new base when none matches above the threshold), each group checked on a contact sheet of its first, middle
+# and last day, and the catalogue (sitmaps.csv, column `base`) carries each day's base. Hand-written from that check:
+#   from, to, days   the group's run; a base can recur (none does)
+#   scan             the scans' size, pixels, as most of the group has it (the trims vary)
+#   heading          the series name printed on the sheet, as read on it; "not read" where it wasn't
+#   shows            what the overview shows (the ground, not the situation)
+#   towns            the day whose town rings, read by eye, fit this base (records/fronts/<day>-gcps.csv), and how that
+#                    was checked: the rings matched on the group's first day (trace_front.py's matching, no records
+#                    written). A base without `towns` needs its own read by eye before a day of it is traced (the skill,
+#                    step 2), twenty or more spread over the sheet.
+# The groups are printings, not plates: B09, B11 and B12 are one 1:1,000,000 plate placed differently on the paper (the
+# March towns register on all three); B14 and B15 are very likely one 1:1,400,000 plate, B15 with a red overprint of
+# boundaries and names, unchecked.
+- base: B01
+  from: 1944-06-06
+  to: 1944-08-04
+  days: 60
+  scan: 6700 x 6000
+  heading: 12 AG outline maps 1:500,000, sheet 3
+  shows: Normandy, the Cotentin to the Seine bay; the title top-middle ("SITUATION - 2400 HRS 6 JUNE 1944, HQ FUSAG" on the first day)
+  towns: ""
+- base: B02
+  from: 1944-08-05
+  to: 1944-08-10
+  days: 6
+  scan: 6700 x 6000
+  heading: 12 AG outline maps 1:500,000 (as read on the overview)
+  shows: Brittany, the Gulf of St Malo at top-centre, Brest at the left edge
+  towns: ""
+- base: B03
+  from: 1944-08-11
+  to: 1944-08-12
+  days: 2
+  scan: 6700 x 6000
+  heading: 12 AG outline maps 1:500,000 (as read on the overview)
+  shows: Brittany and Normandy's west, the Gulf of St Malo at top-left, the Loire at the bottom
+  towns: ""
+- base: B04
+  from: 1944-08-13
+  to: 1944-08-21
+  days: 9
+  scan: 6700 x 6000
+  heading: not read
+  shows: Normandy's coast (Carentan, Bayeux, Caen) along the top, Le Mans and the Loire below; a 1:500,000 sheet by its grid
+  towns: ""
+- base: B05
+  from: 1944-08-22
+  to: 1944-08-23
+  days: 2
+  scan: 5900 x 6100
+  heading: not read
+  shows: the Normandy coast to the lower Seine along the top, Paris at the right, the Loire at the bottom
+  towns: ""
+- base: B06
+  from: 1944-08-24
+  to: 1944-08-25
+  days: 2
+  scan: 6700 x 6000
+  heading: not read
+  shows: the Seine bay (Fécamp, Yvetot) at top-left, the Seine's loops to Paris at the right
+  towns: ""
+- base: B07
+  from: 1944-08-26
+  to: 1944-09-01
+  days: 7
+  scan: 6400 x 5900
+  heading: not read
+  shows: the Seine, Paris and north-east France, the Seine estuary at top-left (a 1:500,000 sheet)
+  towns: ""
+- base: B08
+  from: 1944-09-02
+  to: 1944-09-05
+  days: 4
+  scan: 6600 x 5900
+  heading: 12th Army Group outline maps 1:750,000
+  shows: the Strait of Dover at top-left, Paris at bottom-centre, Belgium at the right
+  towns: ""
+- base: B09
+  from: 1944-09-06
+  to: 1944-11-03
+  days: 58
+  scan: 6700 x 6000
+  heading: 12th Army Group outline maps 1:1,000,000
+  shows: the Channel coast to Alsace, Paris at the left edge, the Rhine at the right; a light print
+  towns: 12ag-1945-03-07
+  towns_check: 20 of 20 agree, median 0.9 px, the sheets offset +464, -384 px (6 September 1944 against 7 March 1945)
+- base: B10
+  from: 1944-09-10
+  to: 1944-09-10
+  days: 1
+  scan: 13000 x 5900
+  heading: not read
+  shows: a double sheet, Brittany and the Bay of Biscay on the left half, B09's country on the right; whether its right half is B09's plate is untested
+  towns: ""
+- base: B11
+  from: 1944-11-04
+  to: 1945-03-20
+  days: 136
+  scan: 6600 x 6000
+  heading: 12th Army Group outline maps 1:1,000,000
+  shows: B09's map in a heavier print, with more room to the north (the Dutch coast); the March days are traced from it
+  towns: 12ag-1945-03-07
+  towns_check: read by eye on 7 March 1945; 22 December 1944 matches 20 of 20, median 0.5 px
+- base: B12
+  from: 1945-03-21
+  to: 1945-04-06
+  days: 17
+  scan: 6700 x 6000
+  heading: 12th Army Group outline maps 1:1,000,000
+  shows: the same plate placed further east, the Rhine at centre-left, the Weser at the right
+  towns: 12ag-1945-03-07
+  towns_check: 19 of 20 agree, median 1.0 px, the sheets offset -1760, +912 px (21 March 1945); the twenty towns lie in the sheet's west, so a trace of these days covers the Rhine and not the sheet
+- base: B13
+  from: 1945-04-07
+  to: 1945-04-18
+  days: 12
+  scan: 6700 x 6000
+  heading: 12th Army Group outline maps 1:1,000,000
+  shows: north and central Germany, Bremen and the Weser along the top; the March towns lie off it (0 of 20)
+  towns: ""
+- base: B14
+  from: 1945-04-19
+  to: 1945-05-19
+  days: 31
+  scan: 6000 x 6700
+  heading: 12 Army Group outline map 1:1,400,000
+  shows: Germany, portrait, the Frisian Islands along the top
+  towns: ""
+- base: B15
+  from: 1945-05-20
+  to: 1945-07-26
+  days: 68
+  scan: 5900 x 6700
+  heading: not read (B14's, by the overview)
+  shows: B14's map with the state boundaries and names overprinted in red
+  towns: ""
