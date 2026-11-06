@@ -153,7 +153,9 @@ Each map has four files:
   another (they agree on one affine transform between the sheets to about half a pixel, 40 m); a town whose match doesn't
   agree (Gemünd on the 9th and the 13th, its ring under that day's overprint) is placed through the transform, and says so.
 - `<map>-units.csv` (hand-read): the unit symbols, each as drawn. `x`, `y`: the box's centre on the scan; `of`: `us` (an
-  open box) or `de` (a hatched box, the map's "Enemy"); `echelon`: the marks over the box (`x` a brigade, `xx` a
+  open box) or `de` (a hatched box, the map's "Enemy"); on the whole sheets from December 1944 also `uk` (the map's
+  "British", a box with broken hatching), and the nation a label marks as its own where the map draws one in a US or
+  British box: `ca` ("CDN"), `pl` ("POL"), `fr` ("FR"), the label still as written; `echelon`: the marks over the box (`x` a brigade, `xx` a
   division, `xxx` a corps, `xxxx` an army, `xxxxx` an army group, `xxxxxx` the "C in C"); `arm`: the mark in the box, read
   by the Army's symbols (FM 21-30): `infantry` (crossed), `armored` (an oval), `armored-infantry` (both), `airborne` (the
   curved mark), `unread`; empty for a headquarters; `label`: the number or name as written (`?` for a figure that can't be
