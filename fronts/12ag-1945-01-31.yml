@@ -1,0 +1,21 @@
+# 12ag-1945-01-31: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21241
+date: 1945-01-31
+as_of: 311200 JAN. 1945
+report: 240
+title: "12th Army Group Outline Maps 1:1,000,000. HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 240, situation as of 311200 Jan. 1945 (signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 250, 2000, 830], why: "the title block's lettering (SECRET struck through, HQ TWELFTH ARMY GROUP SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 240, SITUATION AS OF 311200 JAN. 1945); ends above the Walcheren/Tholen arcs, whose tops are at about y 855"}
+  - {box: [200, 850, 1570, 1130], why: "the title block's signature (C. T. Schmidt, for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), left of the Walcheren arc, whose west end is at x 1585"}
+  - {box: [0, 4850, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [5730, 290, 5800, 350], why: "the hook of the A of Army in the stamp's Auth line (Auth: CG, Twelfth Army Group), top right, magenta, no ticks (unsure run 5760,319); lettering not front"}
+  - {box: [3375, 965, 3440, 1055], why: "a boundary's end, a short magenta stub of a heavy black line near Helmond with no map ticks (unsure run 3412,1010; looked, overlay crop 3000,700)"}
+  - {box: [3115, 1975, 3420, 2145], why: "the boundary lettered TWENTY ONE / TWELFTH on the map, west of Liege to Seraing, magenta, red ticks only from roads, no map ticks (unsure runs 3234,2051 and 3383,2132; looked, overlay crop 3000,1800); the front is east of x 3880 here"}
+  - {box: [3765, 2600, 3835, 2665], why: "a boundary's stub to the front at about 3840,2605 near Houffalize, heavy black, magenta, no map ticks (unsure run 3804,2628; looked, overlay crop 3700,2540); the front runs unbroken east of it"}
+  - {box: [3960, 4130, 4140, 4255], why: "the boundary lettered TWELFTH / XXXXX / SIXTH on the map, south-west of Metz toward Courcelles, magenta, red ticks only from roads, no map ticks (unsure run 4047,4200; looked, overlay crop 3700,3700)"}
+  - {box: [4215, 3935, 4375, 4075], why: "the same TWELFTH / SIXTH boundary's last stretch to the front, blue-drawn, ticks only from roads (looked, overlay crop 3700,3700); the front is at x 4390 and runs unbroken past the box"}
+  - {box: [4030, 2615, 4080, 2660], why: "a short blue hook (run 26 at 4058,2633) on the outline of the enemy's hatched band beside the 246/32 symbols, a dead end with no map ticks, not the front; it put Prum on the US side (looked, overlay crop 3850,2450); the front runs unbroken west of x 3990 here"}
+flip: []
+checked: []

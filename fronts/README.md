@@ -45,21 +45,71 @@ where the kilometre grid passed for the graticule in places and `bases.yml` says
 says), 16, 11, 14 and 13 of them at 0.14 to 0.48 km rms. The double sheet of 10 September (B10) alone has none: two
 plates on one scan, one day. `bases.yml` gives each base's count, fit and the day it was checked on.
 
-## The front across the whole sheet, from December 1944
+## The front across the whole sheet, 16 December 1944 to 31 January 1945
 
-The front alone, traced across the whole 1:1,000,000 plate on its 81 towns (`towns-B11.csv`): 22 December 1944 by
-hand, to settle what a whole sheet leaves out (the title block, the legend, boundaries drawn heavy with no ticks), and
-16–20 December by five agents from the skill, a day each, and reviewed (every town on the wrong side traced to the
-stretch that put it there; five stretches turned on review). No symbols are read on these days yet.
+The front alone, every day from the Bulge's first morning to the end of January, traced across the whole
+1:1,000,000 plate on its 81 towns (`towns-B11.csv`): 22 December 1944 by hand, to settle what a whole sheet leaves out
+(the title block, the legend, boundaries drawn heavy with no ticks), and the other 46 days by agents from the skill, a
+day each, five at a time, every day reviewed. The review read each town's side against 22 December's, the front's
+length and whether it was whole, and from late in the run each rear town's distance to the front against the days
+either side (`tools/check_fronts.py`), which found boundaries still traced as front far behind the line on three
+days that no town's side had shown. Where a reader's day was wrong the YAML says so: stretches turned on review, boxes
+added, and one gap that can't be traced (the Colmar pocket's west side on 16 January, drawn too heavy). From
+25 January the title reads "to accompany G-3 report no. …" (234 to 240). No symbols are read on these days yet.
 
-| Map | Sheet | Stretches | Boxes left out | Turned by hand |
-|---|---|---|---|---|
-| `12ag-1944-12-16` | [ict21195](https://www.loc.gov/resource/g5701s.ict21195/) | 69 | 11 | 0 |
-| `12ag-1944-12-17` | [ict21196](https://www.loc.gov/resource/g5701s.ict21196/) | 44 | 2 | 3 |
-| `12ag-1944-12-18` | [ict21197](https://www.loc.gov/resource/g5701s.ict21197/) | 26 | 4 | 0 |
-| `12ag-1944-12-19` | [ict21198](https://www.loc.gov/resource/g5701s.ict21198/) | 38 | 4 | 0 |
-| `12ag-1944-12-20` | [ict21199](https://www.loc.gov/resource/g5701s.ict21199/) | 37 | 7 | 2 |
-| `12ag-1944-12-22` | [ict21201](https://www.loc.gov/resource/g5701s.ict21201/) | 48 | 11 | 0 |
+| Map | Sheet | G-3 report | Stretches | Boxes left out | Turned by hand |
+|---|---|---|---|---|---|
+| `12ag-1944-12-16` | [ict21195](https://www.loc.gov/resource/g5701s.ict21195/) |  | 69 | 11 | 0 |
+| `12ag-1944-12-17` | [ict21196](https://www.loc.gov/resource/g5701s.ict21196/) |  | 44 | 2 | 3 |
+| `12ag-1944-12-18` | [ict21197](https://www.loc.gov/resource/g5701s.ict21197/) |  | 26 | 4 | 0 |
+| `12ag-1944-12-19` | [ict21198](https://www.loc.gov/resource/g5701s.ict21198/) |  | 38 | 4 | 0 |
+| `12ag-1944-12-20` | [ict21199](https://www.loc.gov/resource/g5701s.ict21199/) |  | 37 | 7 | 2 |
+| `12ag-1944-12-21` | [ict21200](https://www.loc.gov/resource/g5701s.ict21200/) |  | 31 | 11 | 0 |
+| `12ag-1944-12-22` | [ict21201](https://www.loc.gov/resource/g5701s.ict21201/) |  | 48 | 11 | 0 |
+| `12ag-1944-12-23` | [ict21202](https://www.loc.gov/resource/g5701s.ict21202/) |  | 38 | 8 | 0 |
+| `12ag-1944-12-24` | [ict21203](https://www.loc.gov/resource/g5701s.ict21203/) |  | 47 | 24 | 1 |
+| `12ag-1944-12-25` | [ict21204](https://www.loc.gov/resource/g5701s.ict21204/) |  | 64 | 16 | 0 |
+| `12ag-1944-12-26` | [ict21205](https://www.loc.gov/resource/g5701s.ict21205/) |  | 44 | 15 | 0 |
+| `12ag-1944-12-27` | [ict21206](https://www.loc.gov/resource/g5701s.ict21206/) |  | 41 | 9 | 0 |
+| `12ag-1944-12-28` | [ict21207](https://www.loc.gov/resource/g5701s.ict21207/) |  | 45 | 12 | 0 |
+| `12ag-1944-12-29` | [ict21208](https://www.loc.gov/resource/g5701s.ict21208/) |  | 44 | 13 | 0 |
+| `12ag-1944-12-30` | [ict21209](https://www.loc.gov/resource/g5701s.ict21209/) |  | 51 | 23 | 0 |
+| `12ag-1944-12-31` | [ict21210](https://www.loc.gov/resource/g5701s.ict21210/) |  | 43 | 10 | 0 |
+| `12ag-1945-01-01` | [ict21211](https://www.loc.gov/resource/g5701s.ict21211/) |  | 65 | 9 | 0 |
+| `12ag-1945-01-02` | [ict21212](https://www.loc.gov/resource/g5701s.ict21212/) |  | 67 | 4 | 0 |
+| `12ag-1945-01-03` | [ict21213](https://www.loc.gov/resource/g5701s.ict21213/) |  | 57 | 14 | 0 |
+| `12ag-1945-01-04` | [ict21214](https://www.loc.gov/resource/g5701s.ict21214/) |  | 46 | 4 | 0 |
+| `12ag-1945-01-05` | [ict21215](https://www.loc.gov/resource/g5701s.ict21215/) |  | 66 | 4 | 2 |
+| `12ag-1945-01-06` | [ict21216](https://www.loc.gov/resource/g5701s.ict21216/) |  | 55 | 6 | 0 |
+| `12ag-1945-01-07` | [ict21217](https://www.loc.gov/resource/g5701s.ict21217/) |  | 40 | 6 | 0 |
+| `12ag-1945-01-08` | [ict21218](https://www.loc.gov/resource/g5701s.ict21218/) |  | 53 | 5 | 0 |
+| `12ag-1945-01-09` | [ict21219](https://www.loc.gov/resource/g5701s.ict21219/) |  | 46 | 5 | 0 |
+| `12ag-1945-01-10` | [ict21220](https://www.loc.gov/resource/g5701s.ict21220/) |  | 48 | 5 | 0 |
+| `12ag-1945-01-11` | [ict21221](https://www.loc.gov/resource/g5701s.ict21221/) |  | 40 | 3 | 3 |
+| `12ag-1945-01-12` | [ict21222](https://www.loc.gov/resource/g5701s.ict21222/) |  | 54 | 6 | 0 |
+| `12ag-1945-01-13` | [ict21223](https://www.loc.gov/resource/g5701s.ict21223/) |  | 68 | 6 | 0 |
+| `12ag-1945-01-14` | [ict21224](https://www.loc.gov/resource/g5701s.ict21224/) |  | 55 | 9 | 0 |
+| `12ag-1945-01-15` | [ict21225](https://www.loc.gov/resource/g5701s.ict21225/) |  | 58 | 6 | 0 |
+| `12ag-1945-01-16` | [ict21226](https://www.loc.gov/resource/g5701s.ict21226/) |  | 33 | 7 | 0 |
+| `12ag-1945-01-17` | [ict21227](https://www.loc.gov/resource/g5701s.ict21227/) |  | 35 | 2 | 0 |
+| `12ag-1945-01-18` | [ict21228](https://www.loc.gov/resource/g5701s.ict21228/) |  | 44 | 12 | 1 |
+| `12ag-1945-01-19` | [ict21229](https://www.loc.gov/resource/g5701s.ict21229/) |  | 30 | 7 | 0 |
+| `12ag-1945-01-20` | [ict21230](https://www.loc.gov/resource/g5701s.ict21230/) |  | 32 | 3 | 0 |
+| `12ag-1945-01-21` | [ict21231](https://www.loc.gov/resource/g5701s.ict21231/) |  | 41 | 31 | 1 |
+| `12ag-1945-01-22` | [ict21232](https://www.loc.gov/resource/g5701s.ict21232/) |  | 46 | 18 | 0 |
+| `12ag-1945-01-23` | [ict21233](https://www.loc.gov/resource/g5701s.ict21233/) |  | 45 | 15 | 2 |
+| `12ag-1945-01-24` | [ict21234](https://www.loc.gov/resource/g5701s.ict21234/) |  | 49 | 15 | 1 |
+| `12ag-1945-01-25` | [ict21235](https://www.loc.gov/resource/g5701s.ict21235/) | 234 | 48 | 29 | 0 |
+| `12ag-1945-01-26` | [ict21236](https://www.loc.gov/resource/g5701s.ict21236/) | 235 | 25 | 12 | 0 |
+| `12ag-1945-01-27` | [ict21237](https://www.loc.gov/resource/g5701s.ict21237/) | 236 | 28 | 15 | 0 |
+| `12ag-1945-01-28` | [ict21238](https://www.loc.gov/resource/g5701s.ict21238/) | 237 | 29 | 7 | 0 |
+| `12ag-1945-01-29` | [ict21239](https://www.loc.gov/resource/g5701s.ict21239/) | 238 | 40 | 4 | 0 |
+| `12ag-1945-01-30` | [ict21240](https://www.loc.gov/resource/g5701s.ict21240/) | 239 | 22 | 9 | 0 |
+| `12ag-1945-01-31` | [ict21241](https://www.loc.gov/resource/g5701s.ict21241/) | 240 | 37 | 10 | 0 |
+
+What the sides show across the run: the same towns on each side from 16 December to 21 January (the Ardennes salient
+grows and is pinched out between towns, never across one), then Haguenau behind the Seventh Army's new line on the
+Moder from 22 January, its ring on the line itself (23 January draws it just inside).
 
 ## HQ Twelfth Army Group, 7–17 March 1945
 
