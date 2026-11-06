@@ -1,0 +1,17 @@
+# 12ag-1945-03-17: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21286
+date: 1945-03-17
+as_of: 171200 MAR 1945
+report: 285
+title: "HQ Twelfth Army Group situation map, to accompany G-3 report no. 285: situation as of 171200 Mar 1945"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: 12ag-1945-03-07   # the same base sheet: its towns matched to that day's rings
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front
+  - {box: [3700, 1420, 4280, 2000], why: "the 21st/12th Army Group boundary from Aachen north-east: a heavy line with no ticks, the same on every sheet"}
+flip:      # stretches turned by hand after a look at the scan (6 Nov 2026): a point near the stretch, and why
+  - {at: [4963, 2421], why: "the Rhine by Neuwied, one of two pieces: the map ticks its south side"}
+  - {at: [4912, 2438], why: "the Rhine by Neuwied, the second piece"}
+checked:   # stretches whose ticks didn't tell, looked at on the scan and found the right way (6 Nov 2026)
+  - {at: [5003, 2562], why: "Koblenz"}
+  - {at: [5050, 2628], why: "Braubach"}

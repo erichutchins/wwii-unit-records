@@ -1,0 +1,14 @@
+# 12ag-1945-03-07: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21276
+date: 1945-03-07
+as_of: 071200 MAR 1945
+report: 275
+title: "HQ Twelfth Army Group situation map, to accompany G-3 report no. 275: situation as of 071200 Mar 1945"
+read: the title on the sheet, 6 Nov 2026
+gcps_read: by eye, each town's ring found on the scan and checked (5 Nov 2026)
+runs:   # the front as waypoints on the scan, in order, the enemy's side on the left: down the Rhine from Grevenbroich's
+        # latitude past Cologne to the point at Remagen and back, south through the Eifel, round Third Army's salient
+        # toward Kaisersesch, and on south to about 50.05 N (read on the overlay, 5 Nov 2026)
+  - [[4395, 1540], [4510, 1700], [4510, 2070], [4700, 2215], [4530, 2200], [4200, 2345], [4185, 2420], [4300, 2610], [4255, 2895], [4450, 2725], [4655, 2655], [4450, 2790], [4320, 2950]]
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front

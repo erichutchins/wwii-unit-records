@@ -1302,9 +1302,11 @@ loc-12ag:
     1:1,000,000 outline maps ("Europe (Air) Conical Orthomorphic"), one a day, the front line heavy and ticked on the
     map's own side, US and enemy units by the Army's symbols (enemy boxes hatched); from 10 March 1945 a list of the
     enemy divisions facing the Remagen bridgehead. The US units are the army group's own
-    record of its divisions; the enemy's are its intelligence picture that day. The scans are JPEG 2000 on the
-    Library's tile server (https://tile.loc.gov/storage-services/service/gmd/gmd5/g5701/g5701s/<item>.jp2), which
-    answers without the bot check the www.loc.gov pages put up.
+    record of its divisions; the enemy's are its intelligence picture that day. The collection is catalogued in
+    fronts/sitmaps.csv (tools/loc_sitmaps.py, from the Library's JSON API: 415 days, 6 June 1944 to 26 July 1945).
+    The scans are JPEG 2000 on the Library's tile server
+    (https://tile.loc.gov/storage-services/service/gmd/gmd5/g5701/g5701s/<item>.jp2), which answers without the bot
+    check the www.loc.gov pages put up; its IIIF service serves any part of a sheet at any size.
 
 nara-film:
   title: National Archives Catalog, moving images (one film reel or story per catalogue item)
