@@ -161,6 +161,8 @@ Each map has four files:
   curved mark), `unread`; empty for a headquarters; `label`: the number or name as written (`?` for a figure that can't be
   read; "262?" carries the map's own question mark); `unit`: the unit in `army/units.csv` or `army/relations.csv` the
   symbol is, where that is certain (the map's US "9" with the oval is the 9th Armored Division, `9ad`), else empty;
+  the reviewer withholds a tie the drawing alone would give where another day's sheets show the symbol is another
+  unit (`unit:-` on the reading's line; the day's YAML says why: 18 December 1944's oval "9(-)" by Aachen);
   `list`: `bridgehead` for a symbol in the map's list of the divisions facing the bridgehead (from 11 March: a bracketed
   column, then a box headed "BRIDGEHEAD N.-S."), listed and not placed, which a page shows as a list; `map`: the sheet.
   On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and

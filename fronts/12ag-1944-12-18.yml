@@ -13,3 +13,6 @@ exclude:
   - {box: [4040, 4760, 4130, 4880], why: "the same army group boundary's bend at Dombasle, heavy, no ticks (looked at 4078,4820)"}
 flip: []
 checked: []
+# symbols (12ag-1944-12-18-units.csv), review: the "9(-)" with the armored oval by Aachen (4032,1963) stands where the
+# 16th and 19th draw the 9th Infantry Division's crossed "9"; it is kept as drawn but not tied to the 9th Armored. The
+# "9(-)" by Diekirch (3901,3256) is the 9th Armored.
