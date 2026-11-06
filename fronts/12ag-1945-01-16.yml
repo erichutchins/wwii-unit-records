@@ -1,0 +1,22 @@
+# 12ag-1945-01-16: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21226
+date: 1945-01-16
+as_of: 1200 HRS 16 JANUARY 1945
+title: "Situation 1200 hrs 16 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+# review, 6 Nov 2026: the Colmar pocket's west side from the Col du Bonhomme south to the sheet's foot (scan
+# 4560-4690, 5490-5700) is drawn so heavy that the trace finds only pieces of it: that stretch of the front is missing
+# from this day's GeoJSON (15 and 17 January have it).
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 16 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [400, 4900, 500, 4970], why: "the S of 'U.S.' in the legend's lettering, just above the legend box (unsure run at 454,4934; looked on overlay crop 300,4800: a lone heavy curve with no ticks)"}
+  - {box: [2470, 2060, 2700, 2840], why: "the Twenty One/Twelfth army group boundary from Wavre south by Fleurus and Philippeville to Givet (XXXX marks), heavy black, no map ticks, only roads' (unsure runs 2511,2092 to 2662,2818; looked on overlay crop 2400,1950); the front lies 900 px east"}
+  - {box: [4300, 4020, 4395, 4130], why: "the First/Third army boundary's stub from the Saar corner south-west, heavy black, red ticks only from roads (unsure run 4337,4060; looked on overlay crop 4200,3950); the front proper runs on east of it"}
+  - {box: [4170, 4215, 4290, 4275], why: "the Twelfth/Sixth army group boundary near Faulquemont, black, no map ticks (unsure run 4260,4248; looked on overlay crop 4150,4150)"}
+  - {box: [3965, 4790, 4010, 4860], why: "the same boundary near Dombasle, no map ticks (unsure run 3978,4827; looked on overlay crop 3900,4700)"}
+flip: []
+checked:
+  - {at: [4684, 5515], why: "a short run on the Colmar pocket south front, magenta; map ticks hang on its north side (toward the 3(+) division, US), the red tick stood on the north; looked on overlay crop 4200,5300"}
