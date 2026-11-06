@@ -43,8 +43,9 @@
   scan: 6700 x 6000
   heading: 12 AG outline maps 1:500,000 (as read on the overview)
   shows: Brittany and Normandy's west, the Gulf of St Malo at top-left, the Loire at the bottom
-  towns: ""
+  towns: towns-B03.csv
   towns_on: 12ag-1944-08-11
+  towns_check: 10 half-degree graticule crossings read on gridded crops of 11 August 1944 (6 November 2026; the conic 0.60 km rms, 1.7 km at worst), seeded by the margins; the sheet's kilometre grid passed for the graticule in a first pass and two readings were left out of the second, so a third pass would tighten it if these two days are wanted
 - base: B04
   from: 1944-08-13
   to: 1944-08-21
@@ -52,8 +53,9 @@
   scan: 6700 x 6000
   heading: not read
   shows: Normandy's coast (Carentan, Bayeux, Caen) along the top, Le Mans and the Loire below; a 1:500,000 sheet by its grid
-  towns: ""
+  towns: towns-B04.csv
   towns_on: 12ag-1944-08-13
+  towns_check: 9 half-degree graticule crossings read on gridded crops of 13 August 1944 (6 November 2026; the conic 0.52 km rms, 1.7 km at worst), seeded by the margins; as on B03 the kilometre grid confused the reading, and a third pass would tighten it if these days are wanted
 - base: B05
   from: 1944-08-22
   to: 1944-08-23
@@ -106,9 +108,10 @@
   days: 1
   scan: 13000 x 5900
   heading: not read
-  shows: a double sheet, Brittany and the Bay of Biscay on the left half, B09's country on the right; whether its right half is B09's plate is untested
+  shows: a double sheet pasted from two 1:1,000,000 plates, "sheet 1" (Brittany and the Bay of Biscay, its graticule every 30') on the left and a sheet of north-east France (every degree) on the right, each with its own margins; B11's towns don't register on it as one sheet (3 of 81)
   towns: ""
   towns_on: 12ag-1944-09-10
+  towns_note: one day; two plates on one scan need two fits, which the tool doesn't do; when the day is wanted, read each half's crossings as its own base from its own margins (sources/fronts-work/bases/B10-margins.txt has them) and trace the halves apart
 - base: B11
   from: 1944-11-04
   to: 1945-03-20
