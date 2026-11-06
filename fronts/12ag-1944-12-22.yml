@@ -1,0 +1,22 @@
+# 12ag-1944-12-22: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21201
+date: 1944-12-22
+as_of: 1200 HRS 22 DECEMBER 1944
+title: "Situation 1200 hrs 22 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [200, 380, 2400, 800], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 22 DECEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [200, 4850, 1150, 5600], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [2650, 880, 3400, 1650], why: "the First Canadian/Second British army boundary west of the Maas, no ticks"}
+  - {box: [2530, 1660, 3070, 1990], why: "the Twenty One/Twelfth army group boundary west of Maastricht, no ticks"}
+  - {box: [3060, 1720, 3800, 1960], why: "the same boundary on east past Maastricht to the front at Geilenkirchen, heavy and with no ticks (looked at 3333,1850 3600,1777 3700,1790)"}
+  - {box: [3530, 4830, 4070, 5330], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, no ticks"}
+  - {box: [4050, 4600, 4560, 4850], why: "the same boundary, drawn heavy along the Marne-Rhine canal from Dombasle to Sarrebourg, no ticks (looked at 4150,4780)"}
+  - {box: [4540, 4230, 4880, 4700], why: "the same boundary, heavy, from Sarrebourg north-east to the front near Sarreguemines, no ticks"}
+  - {box: [4000, 3700, 4090, 3770], why: "the First/Third army boundary's heavy end from Sierck to the front on the Moselle, no ticks (looked at 4056,3741)"}
+  - {box: [5232, 4995, 5258, 5015], why: "the stub where the Seventh/First French army boundary meets the front on the Rhine above Erstein (looked at 5251,5005)"}
+  - {box: [4300, 1820, 4480, 1930], why: "an enemy division's box east of Düren (49?), not a line (looked at 4387,1877)"}
+flip: []   # stretches turned by hand after a look: {at: [x, y], why: ...}
+checked: []   # stretches whose ticks didn't tell, found the right way by eye: {at: [x, y], why: ...}
