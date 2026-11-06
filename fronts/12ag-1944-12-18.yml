@@ -1,0 +1,15 @@
+# 12ag-1944-12-18: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21197
+date: 1944-12-18
+as_of: 1200 HRS 18 DECEMBER 1944
+title: "Situation 1200 hrs 18 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2400, 800], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 18 DECEMBER 1944, TWELFTH ARMY GROUP; looked at 1200,520 and 2112,582)"}
+  - {box: [4780, 4180, 4900, 4290], why: "the Seventh/Third? army boundary's heavy end meeting the front near Sarreguemines, no ticks (looked at 4845,4230)"}
+  - {box: [4440, 4560, 4570, 4750], why: "the Twelfth/Sixth army group boundary, heavy north-east from Sarrebourg, no ticks (looked at 4503,4654)"}
+  - {box: [4040, 4760, 4130, 4880], why: "the same army group boundary's bend at Dombasle, heavy, no ticks (looked at 4078,4820)"}
+flip: []
+checked: []
