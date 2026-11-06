@@ -1,0 +1,43 @@
+# 12ag-1945-01-21: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21231
+date: 1945-01-21
+as_of: 1200 HRS 21 JANUARY 1945
+title: "Situation 1200 hrs 21 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 21 JANUARY 1945, TWELFTH ARMY GROUP); ends above Schouwen and the Walcheren/Tholen arcs"}
+  - {box: [2400, 440, 2470, 520], why: "a magenta fragment inside the XXX army symbol's box at Rotterdam (unsure run 2431,480), not the front"}
+  - {box: [3588, 820, 3622, 848], why: "a boundary's last stretch to the front at about 3625,830, heavy black with magenta, no map ticks (unsure run 3614,832; red ticks only from roads)"}
+  - {box: [3355, 935, 3425, 1090], why: "a boundary, heavy black, no map ticks (unsure runs 3394,961 and 3370,1021; red ticks from roads and railways)"}
+  - {box: [3290, 1085, 3345, 1195], why: "the same boundary, heavy black, no ticks (unsure run 3314,1124)"}
+  - {box: [3150, 1210, 3235, 1315], why: "the same boundary, heavy black, no ticks (unsure run 3188,1260)"}
+  - {box: [2930, 1170, 3020, 1230], why: "the same boundary, heavy black, no ticks (unsure run 2976,1200)"}
+  - {box: [3115, 1805, 3225, 1880], why: "the Second British/Ninth U.S. army boundary as the map labels it, heavy black, no ticks (unsure run 3177,1823)"}
+  - {box: [3335, 1835, 3535, 1885], why: "the same boundary, heavy black, no ticks (unsure runs 3378,1867 and 3477,1850)"}
+  - {box: [3575, 1708, 3790, 1820], why: "the same boundary's last stretch to the front at Geilenkirchen, heavy black, red ticks only from roads (blue run through 3680,1760)"}
+  - {box: [3835, 1135, 3875, 1170], why: "a hatched enemy division's symbol box beside the Rhine, ink at its edge (unsure run 3850,1152); not the front"}
+  - {box: [3300, 2125, 3450, 2160], why: "the Twenty One/Twelfth Army Group boundary as the map labels it, heavy black with magenta, no map ticks (unsure run 3379,2140)"}
+  - {box: [3555, 2135, 3868, 2205], why: "the same Twenty One/Twelfth boundary's last stretch to the front near 3890,2190, blue run ticked only by roads"}
+  - {box: [3960, 2320, 4010, 2355], why: "a short hook inside the 246 division's symbol box, ink of the symbol (run 38 at 3984,2340 came out ticked from the box's edge); not the front"}
+  - {box: [3340, 2790, 3430, 2830], why: "a boundary (the First/Third boundary's stretch on the map; its name is not read on the crop), heavy black with magenta, no map ticks (unsure run 3383,2810)"}
+  - {box: [3478, 2795, 3538, 2825], why: "the same boundary's last stretch to the front at about 3545,2805, heavy black, no map ticks (unsure run 3513,2813)"}
+  - {box: [4315, 4030, 4366, 4185], why: "a boundary's stub from the front near 4370,4010 south-west to 4325,4175 (blue run 39 at 4335,4090, ticked only by roads); the front proper runs east from 4380,4010 to Sarreguemines"}
+  - {box: [4212, 4175, 4335, 4430], why: "the Twelfth/Sixth army group boundary (TWELFTH and SIXTH at its ends on the map), magenta from near Faulquemont, no map ticks (runs 41 and 42 start here)"}
+  - {box: [3990, 4430, 4240, 4830], why: "the same boundary, magenta, no map ticks (unsure run 4107,4641)"}
+  - {box: [3840, 4820, 4010, 4975], why: "the same boundary's last bend, magenta, no ticks"}
+  - {box: [5030, 4720, 5100, 4760], why: "the Seventh/First French army boundary's stretch, magenta, no map ticks (unsure run 5068,4737)"}
+  - {box: [4690, 4965, 4750, 5025], why: "the Seventh/First French army boundary as the map labels it, magenta, no ticks (unsure run 4717,4996)"}
+  - {box: [4610, 5070, 4675, 5140], why: "the same Seventh/First French boundary, magenta, no ticks (unsure run 4644,5093)"}
+  - {box: [4515, 5215, 4560, 5260], why: "the same boundary, magenta, no ticks (unsure run 4536,5245)"}
+  - {box: [4415, 5265, 4470, 5320], why: "the same boundary, magenta, no ticks (unsure run 4443,5292)"}
+  - {box: [4350, 5320, 4410, 5385], why: "the same boundary's end, magenta, no ticks (unsure run 4383,5355)"}
+  - {box: [2670, 2805, 3000, 2900], why: "the First/Third army boundary as the map labels it (FIRST, THIRD), magenta west of Wellin, no map ticks (unsure runs 2721,2827; 2820,2856; 2938,2890; red ticks only from roads)"}
+  - {box: [4985, 2420, 5045, 2455], why: "a blue fragment inside the C in C ADV symbol box beside the Rhine at Neuwied (run 41 at 5012,2435); not the front"}
+  - {box: [5340, 2970, 5410, 3020], why: "the Rhine's dark blue at Rudesheim, no ticks (unsure run 5370,2993); the Rhine is not the front here"}
+  - {box: [3515, 5100, 3570, 5150], why: "the Twelfth/Sixth army group boundary, heavy black with magenta, no map ticks (unsure run 3541,5126; looked at)"}
+  - {box: [0, 4980, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+flip:
+  - {at: [2045, 869], why: "the Tholen arc: the map's own ticks hang south (the US side; enemy to the north on Schouwen), the overlay's red ticks fell on the north side (looked at close)"}
+checked: []
