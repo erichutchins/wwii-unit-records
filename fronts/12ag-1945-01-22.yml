@@ -1,0 +1,29 @@
+# 12ag-1945-01-22: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21232
+date: 1945-01-22
+as_of: 1200 HRS 22 JANUARY 1945
+title: "Situation 1200 hrs 22 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 22 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4850, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all), from the small magenta curl on the S of U.S. (run 59, 483,4920) down"}
+  - {box: [2590, 285, 2660, 330], why: "a small magenta curl on a river bend near Gouda, no ticks, not the front (unsure run 2625,306; crop 2300,250)"}
+  - {box: [2390, 440, 2480, 500], why: "a magenta scrap on the Rotterdam symbol's lettering, no ticks (unsure run 2432,471)"}
+  - {box: [2790, 570, 2870, 610], why: "a short magenta stretch of the Waal's blue, no ticks, in the middle of the Netherlands behind the front (unsure runs 2810,587 and 2843,590)"}
+  - {box: [3350, 1000, 3410, 1060], why: "a boundary, drawn heavy with no map ticks (unsure run 3374,1030; red ticks only from roads); the front is far east"}
+  - {box: [3260, 1170, 3350, 1225], why: "a boundary, heavy, no map ticks (unsure run 3301,1199)"}
+  - {box: [2920, 1170, 3030, 1260], why: "a boundary, heavy, no map ticks (unsure run 2973,1206)"}
+  - {box: [3150, 1230, 3235, 1320], why: "a boundary, heavy, no map ticks (unsure run 3191,1275)"}
+  - {box: [3380, 1880, 3440, 1990], why: "a boundary, heavy, no map ticks, far behind the front (run 3411,1908)"}
+  - {box: [3320, 2110, 3410, 2165], why: "the TWENTY ONE / TWELFTH army group boundary's stub, magenta, no ticks (unsure run 3362,2140)"}
+  - {box: [3690, 2130, 3830, 2200], why: "a boundary's last stretch to the front east of Limbourg, blue-drawn with red ticks only from roads, no map ticks (run 3785,2173; crop 3250,2000); it ends at the front at about 3860,2205, outside the box"}
+  - {box: [4470, 1850, 4560, 1920], why: "a short blue stub of the Rhine's own ink south of Cologne, no ticks (run 4504,1888; crop 4000,1600): the Rhine, not the front"}
+  - {box: [4995, 2520, 5070, 2610], why: "the Rhine's dark blue at Koblenz, magenta, no ticks (unsure run 5028,2567; crop 4000,1600)"}
+  - {box: [5035, 2670, 5100, 2745], why: "the Rhine's dark blue below Koblenz, magenta, no ticks (unsure run 5066,2706)"}
+  - {box: [5340, 2960, 5410, 3020], why: "the Rhine's dark blue at Bingen, magenta, no ticks (unsure run 5373,2990)"}
+  - {box: [3400, 4950, 3830, 5200], why: "the Twelfth/Sixth army group boundary (lettered TWELFTH XXXXX SIXTH on the map) toward Neufchateau, magenta, red ticks only from roads, no map ticks (run 3549,5118; crop 3300,4700)"}
+  - {box: [3830, 4100, 4380, 5000], why: "the Twelfth/Sixth army group boundary on to the Marne-Rhine canal north-east of Nancy, magenta then blue-drawn, no map ticks (runs 3926,4923 and 4233,4401; crop 3300,4700); the front proper is east of x 4395 here, outside the box"}
+flip: []
+checked: []
