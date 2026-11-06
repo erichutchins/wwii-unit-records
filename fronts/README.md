@@ -16,9 +16,16 @@ checked), `lccn`, the scan's `width` and `height` in pixels, and `base`, the pri
 was read, what the overview shows, and `towns`, the day whose town rings, read by eye, fit it, with how that was checked
 (`sitmap_bases.py check`: the rings matched on the base's first day). The 1:500,000 sheets of the summer of 1944 change
 every few days in August; one 1:1,000,000 plate of north-west Europe serves every day from 6 September 1944 to 6 April
-1945 (7 March's twenty towns register on all of them, though they cover only the Rhine country they surround); north
-Germany follows at 1:1,000,000, then a portrait 1:1,400,000 sheet from 19 April 1945. The wording of the title changes
-with them. The whole collection, and how to work through it, is `guides/SITUATION-MAPS.md`.
+1945; north Germany follows at 1:1,000,000, then a portrait 1:1,400,000 sheet from 19 April 1945. The wording of the
+title changes with them. The whole collection, and how to work through it, is `guides/SITUATION-MAPS.md`.
+
+`towns-B11.csv` (hand-read) is the 1:1,000,000 plate's towns across the whole sheet, 81 of them, the gcps columns and
+`on`, the day whose scan the x, y are on (7 March 1945): the March twenty, and 61 more read by eye on gridded crops of
+the scan round where a conic fitted to the twenty put each (`tools/sheet_towns.py`; each town placed today with OSM
+Nominatim, `query`). A day of the plate takes its towns from it (`trace_front.py --gcps-from towns-B11.csv`, which
+matches each ring on the day's sheet) and is fitted by the sheet's own projection, a conformal conic with an affine
+transform to the scan (`trace_front.Conic`, for a day with 30 towns or more): 0.72 km rms over the sheet, 1.8 km at
+worst. The March days keep their twenty and the polynomial, so their files don't move.
 
 ## HQ Twelfth Army Group, 7–17 March 1945
 

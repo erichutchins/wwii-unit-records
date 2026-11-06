@@ -1,0 +1,82 @@
+town,x,y,read,lat,lon,source,query,on
+Grevenbroich,4223,1540,detected; checked by eye,51.0862,6.5849,OSM Nominatim,"Grevenbroich, Germany",12ag-1945-03-07
+Jülich,4036,1769,detected; checked by eye,50.9221,6.3611,OSM Nominatim,"Jülich, Germany",12ag-1945-03-07
+Much,4908,1774,detected; checked by eye,50.9044,7.4018,OSM Nominatim,"Much, Germany",12ag-1945-03-07
+Waldbröl,5084,1803,detected; checked by eye,50.8752,7.6159,OSM Nominatim,"Waldbröl, Germany",12ag-1945-03-07
+Siegburg,4747,1914,by eye,50.7928,7.2071,OSM Nominatim,"Siegburg, Germany",12ag-1945-03-07
+Daaden,5380,1974,detected; checked by eye,50.7392,7.9677,OSM Nominatim,"Daaden, Germany",12ag-1945-03-07
+Altenkirchen,5128,2046,detected; checked by eye,50.6880,7.6477,OSM Nominatim,"Altenkirchen (Westerwald), Germany",12ag-1945-03-07
+Bad Godesberg,4702,2066,detected; checked by eye,50.6851,7.1563,OSM Nominatim,"Bad Godesberg, Bonn, Germany",12ag-1945-03-07
+Königswinter,4740,2076,detected; checked by eye,50.6740,7.1931,OSM Nominatim,"Königswinter, Germany",12ag-1945-03-07
+Euskirchen,4391,2106,by eye,50.6613,6.7871,OSM Nominatim,"Euskirchen, Germany",12ag-1945-03-07
+Gemünd,4160,2220,detected; checked by eye,50.5721,6.4995,OSM Nominatim,"Gemünd, Schleiden, Germany",12ag-1945-03-07
+Ahrweiler,4652,2258,by eye,50.5418,7.0951,OSM Nominatim,"Ahrweiler, Bad Neuenahr-Ahrweiler, Germany",12ag-1945-03-07
+Neuwied,4971,2396,by eye,50.4302,7.4663,OSM Nominatim,"Neuwied, Germany",12ag-1945-03-07
+Kempenich,4683,2419,detected; checked by eye,50.4187,7.1193,OSM Nominatim,"Kempenich, Germany",12ag-1945-03-07
+Adenau,4526,2481,detected; checked by eye,50.3823,6.9304,OSM Nominatim,"Adenau, Germany",12ag-1945-03-07
+Mayen,4777,2545,by eye,50.3284,7.2215,OSM Nominatim,"Mayen, Germany",12ag-1945-03-07
+Braubach,5143,2599,detected; checked by eye,50.2751,7.6511,OSM Nominatim,"Braubach, Germany",12ag-1945-03-07
+Kaisersesch,4704,2676,detected; checked by eye,50.2308,7.1405,OSM Nominatim,"Kaisersesch, Germany",12ag-1945-03-07
+Nastätten,5317,2696,detected; checked by eye,50.1991,7.8582,OSM Nominatim,"Nastätten, Germany",12ag-1945-03-07
+Cochem,4733,2788,detected; checked by eye,50.1484,7.1663,OSM Nominatim,"Cochem, Germany",12ag-1945-03-07
+Amiens,574,3065,by eye on a crop round the conic's prediction,49.8942,2.2957,OSM Nominatim,"Amiens, France",12ag-1945-03-07
+Arras,1001,2559,by eye on a crop round the conic's prediction,50.2910,2.7772,OSM Nominatim,"Arras, France",12ag-1945-03-07
+Cambrai,1384,2723,by eye on a crop round the conic's prediction,50.1758,3.2346,OSM Nominatim,"Cambrai, France",12ag-1945-03-07
+Saint-Quentin,1418,3161,by eye on a crop round the conic's prediction,49.8465,3.2877,OSM Nominatim,"Saint-Quentin, France",12ag-1945-03-07
+Laon,1694,3541,by eye on a crop round the conic's prediction,49.5647,3.6207,OSM Nominatim,"Laon, France",12ag-1945-03-07
+Soissons,1431,3775,by eye on a crop round the conic's prediction,49.3838,3.3276,OSM Nominatim,"Soissons, France",12ag-1945-03-07
+Beauvais,367,3657,by eye on a crop round the conic's prediction,49.4301,2.0823,OSM Nominatim,"Beauvais, France",12ag-1945-03-07
+Épernay,1967,4233,by eye on a crop round the conic's prediction,49.0426,3.9529,OSM Nominatim,"Épernay, France",12ag-1945-03-07
+Châlons-sur-Marne,2321,4365,by eye on a crop round the conic's prediction,48.9566,4.3629,OSM Nominatim,"Châlons-en-Champagne, France",12ag-1945-03-07
+Verdun,3215,4114,by eye on a crop round the conic's prediction,49.1589,5.3867,OSM Nominatim,"Verdun, France",12ag-1945-03-07
+Toul,3658,4747,by eye on a crop round the conic's prediction,48.6763,5.8942,OSM Nominatim,"Toul, France",12ag-1945-03-07
+Épinal,4136,5408,by eye on a crop round the conic's prediction,48.1748,6.4504,OSM Nominatim,"Épinal, France",12ag-1945-03-07
+Saint-Dié,4580,5262,by eye on a crop round the conic's prediction,48.2872,6.9474,OSM Nominatim,"Saint-Dié-des-Vosges, France",12ag-1945-03-07
+Metz,3904,4157,by eye on a crop round the conic's prediction,49.1197,6.1764,OSM Nominatim,"Metz, France",12ag-1945-03-07
+Sedan,2848,3391,by eye on a crop round the conic's prediction,49.7034,4.9433,OSM Nominatim,"Sedan, France",12ag-1945-03-07
+Rethel,2334,3631,by eye on a crop round the conic's prediction,49.5091,4.3666,OSM Nominatim,"Rethel, France",12ag-1945-03-07
+Saint-Dizier,2829,4796,by eye on a crop round the conic's prediction,48.6371,4.9474,OSM Nominatim,"Saint-Dizier, France",12ag-1945-03-07
+Troyes,2040,5235,by eye on a crop round the conic's prediction,48.2972,4.0746,OSM Nominatim,"Troyes, France",12ag-1945-03-07
+Chaumont,2985,5496,by eye on a crop round the conic's prediction,48.1111,5.1396,OSM Nominatim,"Chaumont, Haute-Marne, France",12ag-1945-03-07
+Haguenau,5309,4525,by eye on a crop round the conic's prediction,48.8172,7.7886,OSM Nominatim,"Haguenau, France",12ag-1945-03-07
+Strasbourg,5289,4841,by eye on a crop round the conic's prediction,48.5846,7.7507,OSM Nominatim,"Strasbourg, France",12ag-1945-03-07
+Colmar,4957,5523,by eye on a crop round the conic's prediction,48.0778,7.3580,OSM Nominatim,"Colmar, France",12ag-1945-03-07
+Ypres,1127,1827,by eye on a crop round the conic's prediction,50.8522,2.8846,OSM Nominatim,"Ieper, Belgium",12ag-1945-03-07
+Tournai,1531,2158,by eye on a crop round the conic's prediction,50.6056,3.3878,OSM Nominatim,"Tournai, Belgium",12ag-1945-03-07
+Charleroi,2419,2435,by eye on a crop round the conic's prediction,50.4116,4.4445,OSM Nominatim,"Charleroi, Belgium",12ag-1945-03-07
+Namur,2773,2358,by eye on a crop round the conic's prediction,50.4665,4.8662,OSM Nominatim,"Namur, Belgium",12ag-1945-03-07
+Dinant,2817,2630,by eye on a crop round the conic's prediction,50.2592,4.9131,OSM Nominatim,"Dinant, Belgium",12ag-1945-03-07
+Arlon,3589,3423,by eye on a crop round the conic's prediction,49.6835,5.8168,OSM Nominatim,"Arlon, Belgium",12ag-1945-03-07
+Marche,3181,2687,by eye on a crop round the conic's prediction,50.2271,5.3420,OSM Nominatim,"Marche-en-Famenne, Belgium",12ag-1945-03-07
+Huy,3095,2302,by eye on a crop round the conic's prediction,50.5181,5.2408,OSM Nominatim,"Huy, Belgium",12ag-1945-03-07
+Verviers,3622,2205,by eye on a crop round the conic's prediction,50.5932,5.8678,OSM Nominatim,"Verviers, Belgium",12ag-1945-03-07
+Leuven,2644,1818,by eye on a crop round the conic's prediction,50.8792,4.7012,OSM Nominatim,"Leuven, Belgium",12ag-1945-03-07
+Mechelen,2465,1607,by eye on a crop round the conic's prediction,51.0281,4.4803,OSM Nominatim,"Mechelen, Belgium",12ag-1945-03-07
+Ostend,1166,1327,by eye on a crop round the conic's prediction,51.2259,2.9195,OSM Nominatim,"Oostende, Belgium",12ag-1945-03-07
+Turnhout,2862,1233,by eye on a crop round the conic's prediction,51.3289,4.9300,OSM Nominatim,"Turnhout, Belgium",12ag-1945-03-07
+Breda,2717,886,by eye on a crop round the conic's prediction,51.5888,4.7760,OSM Nominatim,"Breda, Netherlands",12ag-1945-03-07
+Eindhoven,3296,1094,by eye on a crop round the conic's prediction,51.4393,5.4786,OSM Nominatim,"Eindhoven, Netherlands",12ag-1945-03-07
+'s-Hertogenbosch,3149,745,by eye on a crop round the conic's prediction,51.6889,5.3031,OSM Nominatim,"'s-Hertogenbosch, Netherlands",12ag-1945-03-07
+Nijmegen,3609,549,by eye on a crop round the conic's prediction,51.8475,5.8638,OSM Nominatim,"Nijmegen, Netherlands",12ag-1945-03-07
+Arnhem,3651,367,by eye on a crop round the conic's prediction,51.9843,5.9109,OSM Nominatim,"Arnhem, Netherlands",12ag-1945-03-07
+Bergen op Zoom,2308,1003,by eye on a crop round the conic's prediction,51.4945,4.2872,OSM Nominatim,"Bergen op Zoom, Netherlands",12ag-1945-03-07
+Kleve,3826,618,by eye on a crop round the conic's prediction,51.7896,6.1376,OSM Nominatim,"Kleve, Germany",12ag-1945-03-07
+Bocholt,4230,551,by eye on a crop round the conic's prediction,51.8383,6.6149,OSM Nominatim,"Bocholt, Germany",12ag-1945-03-07
+Münster,5056,373,by eye on a crop round the conic's prediction,51.9625,7.6252,OSM Nominatim,"Münster, Germany",12ag-1945-03-07
+Soest,5456,866,by eye on a crop round the conic's prediction,51.5726,8.1061,OSM Nominatim,"Soest, Germany",12ag-1945-03-07
+Paderborn,5993,656,by eye on a crop round the conic's prediction,51.7177,8.7527,OSM Nominatim,"Paderborn, Germany",12ag-1945-03-07
+Siegen,5423,1798,by eye on a crop round the conic's prediction,50.8751,8.0256,OSM Nominatim,"Siegen, Germany",12ag-1945-03-07
+Marburg,6046,1862,by eye on a crop round the conic's prediction,50.8090,8.7705,OSM Nominatim,"Marburg, Germany",12ag-1945-03-07
+Limburg an der Lahn,5479,2441,by eye on a crop round the conic's prediction,50.3880,8.0635,OSM Nominatim,"Limburg an der Lahn, Germany",12ag-1945-03-07
+Trier,4298,3314,by eye on a crop round the conic's prediction,49.7596,6.6442,OSM Nominatim,"Trier, Germany",12ag-1945-03-07
+Bitburg,4193,3028,by eye on a crop round the conic's prediction,49.9733,6.5249,OSM Nominatim,"Bitburg, Germany",12ag-1945-03-07
+Prüm,4110,2711,by eye on a crop round the conic's prediction,50.2069,6.4249,OSM Nominatim,"Prüm, Germany",12ag-1945-03-07
+Zweibrücken,4922,3974,by eye on a crop round the conic's prediction,49.2487,7.3642,OSM Nominatim,"Zweibrücken, Germany",12ag-1945-03-07
+Kaiserslautern,5267,3702,by eye on a crop round the conic's prediction,49.4432,7.7690,OSM Nominatim,"Kaiserslautern, Germany",12ag-1945-03-07
+Pirmasens,5141,4029,by eye on a crop round the conic's prediction,49.1997,7.6088,OSM Nominatim,"Pirmasens, Germany",12ag-1945-03-07
+Landau,5584,4020,by eye on a crop round the conic's prediction,49.1983,8.1123,OSM Nominatim,"Landau in der Pfalz, Germany",12ag-1945-03-07
+Darmstadt,5997,3123,by eye on a crop round the conic's prediction,49.8728,8.6512,OSM Nominatim,"Darmstadt, Germany",12ag-1945-03-07
+Karlsruhe,5829,4273,by eye on a crop round the conic's prediction,49.0069,8.4034,OSM Nominatim,"Karlsruhe, Germany",12ag-1945-03-07
+Heidelberg,6059,3725,by eye on a crop round the conic's prediction,49.4094,8.6947,OSM Nominatim,"Heidelberg, Germany",12ag-1945-03-07
+Baden-Baden,5711,4589,by eye on a crop round the conic's prediction,48.7575,8.2437,OSM Nominatim,"Baden-Baden, Germany",12ag-1945-03-07
+Offenburg,5450,4994,by eye on a crop round the conic's prediction,48.4696,7.9429,OSM Nominatim,"Offenburg, Germany",12ag-1945-03-07

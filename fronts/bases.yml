@@ -7,10 +7,12 @@
 #   scan             the scans' size, pixels, as most of the group has it (the trims vary)
 #   heading          the series name printed on the sheet, as read on it; "not read" where it wasn't
 #   shows            what the overview shows (the ground, not the situation)
-#   towns            the day whose town rings, read by eye, fit this base (records/fronts/<day>-gcps.csv), and how that
-#                    was checked: the rings matched on the group's first day (trace_front.py's matching, no records
-#                    written). A base without `towns` needs its own read by eye before a day of it is traced (the skill,
-#                    step 2), twenty or more spread over the sheet.
+#   towns            the towns, read by eye, that fit this base: a day's twenty (records/fronts/<day>-gcps.csv) or a
+#                    whole sheet's (towns-<base>.csv, tools/sheet_towns.py: the rings read on gridded crops of one day's
+#                    scan, `towns_on`, round where a conic fit to the first twenty put each); `towns_check` says how it was
+#                    checked that the base is the same plate as the towns' day (the rings matched on the group's first
+#                    day, trace_front.py's matching, no records written). A base without `towns` needs its own read by
+#                    eye before a day of it is traced (the skill, step 2), forty or so spread over the sheet.
 # The groups are printings, not plates: B09, B11 and B12 are one 1:1,000,000 plate placed differently on the paper (the
 # March towns register on all three); B14 and B15 are very likely one 1:1,400,000 plate, B15 with a red overprint of
 # boundaries and names, unchecked.
@@ -85,7 +87,8 @@
   scan: 6700 x 6000
   heading: 12th Army Group outline maps 1:1,000,000
   shows: the Channel coast to Alsace, Paris at the left edge, the Rhine at the right; a light print
-  towns: 12ag-1945-03-07
+  towns: towns-B11.csv
+  towns_on: 12ag-1945-03-07
   towns_check: 20 of 20 agree, median 0.9 px, the sheets offset +464, -384 px (6 September 1944 against 7 March 1945)
 - base: B10
   from: 1944-09-10
@@ -102,8 +105,9 @@
   scan: 6600 x 6000
   heading: 12th Army Group outline maps 1:1,000,000
   shows: B09's map in a heavier print, with more room to the north (the Dutch coast); the March days are traced from it
-  towns: 12ag-1945-03-07
-  towns_check: read by eye on 7 March 1945; 22 December 1944 matches 20 of 20, median 0.5 px
+  towns: towns-B11.csv
+  towns_on: 12ag-1945-03-07
+  towns_check: the March twenty read by eye on 7 March 1945, and 61 more across the sheet read on gridded crops of it (6 November 2026; 81 towns, the conic 0.7 km rms, 1.8 km at worst); 22 December 1944 matches 20 of 20 of the first, median 0.5 px, and 71 of 79 of the sheet's within 4 px
 - base: B12
   from: 1945-03-21
   to: 1945-04-06
@@ -111,7 +115,8 @@
   scan: 6700 x 6000
   heading: 12th Army Group outline maps 1:1,000,000
   shows: the same plate placed further east, the Rhine at centre-left, the Weser at the right
-  towns: 12ag-1945-03-07
+  towns: towns-B11.csv
+  towns_on: 12ag-1945-03-07
   towns_check: 19 of 20 agree, median 1.0 px, the sheets offset -1760, +912 px (21 March 1945); the twenty towns lie in the sheet's west, so a trace of these days covers the Rhine and not the sheet
 - base: B13
   from: 1945-04-07
