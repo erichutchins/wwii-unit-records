@@ -6,6 +6,7 @@ title: "Situation 1200 hrs 29 December 1944, Twelfth Army Group"
 read: the title on the sheet, 6 Nov 2026
 gcps_from: towns-B11.csv
 exclude:
+  - {box: [4240, 3995, 4395, 4350], why: "review: the boundary running south-west from the Saar corner toward Faulquemont, heavy and with no ticks of its own (the railways' turned it); its middle fell outside the box below, as the neighbouring days leave it out"}
   - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 29 DECEMBER 1944, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
   - {box: [100, 4850, 1100, 5620], why: "the legend, its sample of the front included"}
   - {box: [3100, 830, 3625, 1300], why: "the Twenty One/Twelfth army group boundary from the front at Boxmeer SW past Eindhoven, heavy black and magenta, ticks only of roads (looked on the 1100 px overlay crop)"}
