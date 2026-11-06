@@ -1,0 +1,24 @@
+# 12ag-1945-01-26: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21236
+date: 1945-01-26
+as_of: 261200 JAN 1945
+report: 235
+title: "12th Army Group Outline Maps 1:1,000,000. HQ Twelfth Army Group Situation Map, to accompany G-3 Report No. 235, situation as of 261200 Jan 1945 (SECRET struck through; signed for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [1250, 310, 1380, 350], why: "the strike-through of SECRET in the title block, magenta (unsure runs 1297,332 and 1344,332); the title's own lettering"}
+  - {box: [1820, 660, 1910, 730], why: "the 5 of 235 in the report number and a stroke beside it, title lettering, magenta (unsure runs 1880,681 and 1853,708); the Walcheren arcs start 100 px below, near y 840"}
+  - {box: [180, 4860, 1000, 5520], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE lettering and sample line, bottom left): the unsure runs at 390,5092 to 900,5450"}
+  - {box: [5165, 415, 5230, 480], why: "the a of Date, top right stamp (Auth: CG, Twelfth Army Group / Date: 26 January 1945), lettering not front"}
+  - {box: [5420, 415, 5490, 475], why: "the J of January in the same stamp, magenta (unsure run 5460,439)"}
+  - {box: [5590, 440, 5650, 500], why: "the y of January in the same stamp, a short blue hook on the stamp's lettering"}
+  - {box: [3600, 1770, 3670, 1830], why: "the Second British/Ninth US army boundary's end near Maesseyck, a short magenta stub of a heavy black line with no ticks (unsure run 3630,1798; looked: the --look crop shows it join the heavy boundary line); the front is the blue ticked line 150 px east"}
+  - {box: [3100, 1960, 3200, 2030], why: "the Twenty One/Twelfth army group boundary (labelled on the map TWENTY ONE / TWELFTH) west of Liege, heavy black, magenta, red ticks only from roads (unsure run 3146,1994; looked, overlay crop 2900,1500)"}
+  - {box: [3600, 2100, 3720, 2150], why: "the same Twenty One/Twelfth boundary's last stretch to the front near Monschau, blue, red ticks from roads only, no map ticks (run 22 at 3656,2125; overlay crop 2900,1500); the front itself runs at x 3925 and south, past run 23, unbroken"}
+  - {box: [895, 1045, 960, 1095], why: "a short blue hook on the d of Brigadier in the title's signature block (run 9 at 929,1069), lettering; put Ostend on the enemy side"}
+  - {box: [3860, 4220, 3940, 4280], why: "the Twelfth/Sixth army group boundary (labelled TWELFTH / XXXXX / SIXTH on the map) from south of Metz, heavy black, magenta, red ticks only from roads, no map ticks (unsure run 3899,4251; looked, overlay crop 3500,3800)"}
+  - {box: [4230, 3970, 4310, 4030], why: "the same boundary's last stretch to the front at about 4350,3940, blue, red ticks from roads only (run 4267,3998); the front itself runs unbroken past it, ticked on its west"}
+flip: []
+checked: []
