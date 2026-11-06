@@ -9,7 +9,11 @@
 # (C08030141100) has the convoy's escorts and sailing but not the attack, except a convoy "ミ一?" attacked off Cape
 # Bolinao (p6), some 150 nm south of the boats' positions, not yet tied to this night. Next: the Army's shipping
 # records (船舶輸送司令部, 碇泊場司令部 陣中日誌, Takao or Manila, July-August 1944); the August summary for the damaged
-# ships' later fate.
+# ships' later fate. Searched 5 Nov 2026 (round 2): JACAR by each ship's name (no hits); the 4th Shipping Transport
+# Command's Manila branch diaries (C13071797000-C13071798400 and their annexes) end in December 1943; the 31st Special
+# Base Force diary (C08030266800) has September 1944 onward, not July; the August summary (C16120659900, pp. 1-7)
+# has no entry for No. 1 Ogura Maru or Dakar Maru at a first read (pp. 278-284 of the copy). Found: the 2nd
+# Demobilization Bureau's copy of the summary (J04), with the fourth name legible.
 - id: J01
   source: jacar:C16120659800
   page: p9
@@ -38,10 +42,11 @@
     Sunk: Yoshino Maru, Manko Maru, Fuso Maru, ?? Maru. The convoy withdrew for a time to Pangui Bay (the north-west
     tip of Luzon)
   note: >-
-    The same entry's result column; no time or place for any one ship. The fourth name is not read: its first
-    character falls between the 吉 and the 光 written beside it, its second reads as much like 洋 as 栄. JANAC's list
-    for the night has Koei Maru (光栄丸, tanker, 10,238 tons), which would fit, but a postwar list can't settle a
-    reading; kept as ??
+    The same entry's result column; no time or place for any one ship. The fourth name is not read here: its first
+    character falls between the 吉 and the 光 written beside it, its second reads as much like 洋 as 栄. In the
+    2nd Demobilization Bureau's copy of the summary (J04) the same name is written more plainly: its first character
+    formed like the 光 of 萬光丸 beside it, its second 栄, so 光栄丸 (Koei Maru); JANAC's list for the night has Koei
+    Maru (tanker, 10,238 tons). Kept as ?? in this transcription, as this page writes it
 - id: J03
   source: jacar:C16120659800
   page: p9
@@ -54,3 +59,31 @@
   note: >-
     The same entry. JANAC lists Dakar Maru as sunk on 31 July (cargo, 7,169 tons, at STEELHEAD's attack position,
     janac:4/p64) and has no No. 1 Ogura Maru; the summary has her damaged. Which is right is open
+- id: J04
+  source: jacar:C16120644000
+  page: p33
+  convoy: MI-11
+  event: status
+  date: 1944-07-31
+  time: '0330'
+  zone: I
+  original: >-
+    29日高雄ヲ出港シ「マニラ」ニ向ケ航行中ノ陸軍部隊其他輸送十六隻船団（護ノ艦六隻）0330頃連続敵潜ノ襲撃ヲ受ク …
+    沈没 吉野丸 萬光丸 扶桑丸 光栄丸 / 被雷損傷 第一小倉丸 「ダカア」丸 / 船団ハ一時「パングイ」湾（「ルソン」島北西端）ニ避退 …
+    敵潜掃蕩隊編成 ?D×6 対潜ノ集中（約80粁）協力 … 「ルソン」海峡方面敵潜跳梁始メテ以来未ダ所期戦果ヲ挙グルニ至ラズ
+  translation: >-
+    The sixteen-ship convoy (six escorts) carrying Army units and other transport, which left Takao on the 29th for
+    Manila, was attacked by submarines one after another from about 0330. Sunk: Yoshino Maru, Manko Maru, Fuso Maru,
+    Koei Maru. Torpedoed and damaged: No. 1 Ogura Maru, Dakar Maru. The convoy withdrew for a time to Pangui Bay (the
+    north-west tip of Luzon). [Beside it:] A submarine-hunting group formed, ?D x 6, concentrating (about 80 km) in
+    cooperation [the last characters not certain]. [Below:] Since enemy submarines began to range over the Luzon
+    Strait, the results hoped for have not yet been achieved
+  note: >-
+    太平洋戦争経過概要 9/10 (1 July to 31 August 1944), the 2nd Demobilization Bureau's fair copy of the Navy's
+    day-by-day summary, the 31st (sheet 56). The convoy entry is the same text as J01-J03, so it counts once with
+    them (a copy, not a second witness); it still gives no time or place for any one ship. What it adds: the fourth
+    name written plainly as 光栄丸 (the first character as the 光 of 萬光丸 beside it), and two lines in the action
+    column that the July summary's page (C16120659800 p9) doesn't have: a submarine-hunting group of six ("?D×6",
+    the letter before D not read; perhaps escort vessels) formed to concentrate on the area, and a judgement that
+    anti-submarine work in the Luzon Strait had not yet achieved what was hoped. The hunting group is not tied to
+    MI-11 in the text. Event status: the losses are J02 and J03

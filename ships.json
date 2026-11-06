@@ -225,6 +225,26 @@
   ]
  },
  {
+  "key": "ss-364-hammerhead",
+  "alias": "hammerhead",
+  "name": "HAMMERHEAD",
+  "hull": "SS-364",
+  "class": "Gato",
+  "silhouette": "gato",
+  "kind": "submarine",
+  "plain": "a fleet submarine of the Gato class: her first war patrol, in a pack with PARCHE and STEELHEAD south of Formosa in 1944",
+  "max_kts": 21,
+  "dives": false,
+  "geojson": "boats/ss-364-hammerhead/tracks.geojson",
+  "periods": [
+   {
+    "n": 1,
+    "name": "First War Patrol",
+    "dates": "24 Jun 1944 – 1 Aug 1944"
+   }
+  ]
+ },
+ {
   "key": "ss-382-picuda",
   "alias": "picuda",
   "name": "PICUDA",

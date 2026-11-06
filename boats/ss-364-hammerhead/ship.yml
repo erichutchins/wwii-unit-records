@@ -1,0 +1,16 @@
+# USS HAMMERHEAD (SS-364). Hand-edited; see boats/ss-385-bang/ship.yml.
+# Class: the report doesn't name it; SS-364 was one of the Manitowoc-built boats of the Gato class
+# (DANFS, "Hammerhead II (SS-364)"; the class's hull numbers run SS-212 to SS-352 and SS-361 to SS-364).
+name: HAMMERHEAD
+hull: SS-364
+class: Gato
+silhouette: gato     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
+kind: submarine
+plain: "a fleet submarine of the Gato class: her first war patrol, in a pack with PARCHE and STEELHEAD south of Formosa in 1944"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+max_kts: 21          # surfaced maximum, about 21 kn (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 1, name: First War Patrol, dates: 24 Jun 1944 – 1 Aug 1944 }

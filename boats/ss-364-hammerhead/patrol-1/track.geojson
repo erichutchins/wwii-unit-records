@@ -1,0 +1,1152 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 1,
+    "start": "1944-06-23T18:00Z",
+    "end": "1944-08-01T20:07Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      148.0333,
+      29.7333
+     ],
+     [
+      136.7167,
+      28.7333
+     ],
+     [
+      132.9167,
+      26.8667
+     ],
+     [
+      128.0833,
+      24.4
+     ],
+     [
+      124.7167,
+      21.9167
+     ],
+     [
+      124.7833,
+      20.0167
+     ],
+     [
+      123.9667,
+      19.8667
+     ],
+     [
+      121.2833,
+      19.6333
+     ],
+     [
+      120.85,
+      19.55
+     ],
+     [
+      120.2833,
+      19.5
+     ],
+     [
+      118.95,
+      19.55
+     ],
+     [
+      120.1167,
+      19.1667
+     ],
+     [
+      120.2333,
+      18.9333
+     ],
+     [
+      119.6,
+      19.2833
+     ],
+     [
+      119.2833,
+      19.4
+     ],
+     [
+      118.1,
+      19.7833
+     ],
+     [
+      116.7833,
+      19.9667
+     ],
+     [
+      115.5,
+      19.7333
+     ],
+     [
+      114.9333,
+      19.2167
+     ],
+     [
+      116.3167,
+      18.3833
+     ],
+     [
+      116.9833,
+      18.4667
+     ],
+     [
+      118.85,
+      18.1
+     ],
+     [
+      117.8667,
+      19.4
+     ],
+     [
+      119.85,
+      20.2667
+     ],
+     [
+      119.2833,
+      20.6333
+     ],
+     [
+      119.3167,
+      21.0167
+     ],
+     [
+      119.7833,
+      20.1333
+     ],
+     [
+      120.4667,
+      20.8167
+     ],
+     [
+      119.9667,
+      19.8167
+     ],
+     [
+      122.2667,
+      19.8333
+     ],
+     [
+      119.1667,
+      19.65
+     ],
+     [
+      121.3,
+      20.8667
+     ],
+     [
+      121.4667,
+      20.8833
+     ],
+     [
+      120.7833,
+      20.8667
+     ],
+     [
+      120.7833,
+      20.8667
+     ],
+     [
+      127.75,
+      16.0833
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 1",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-06-23T18:00Z",
+    "lat_raw": "29-44N",
+    "lon_raw": "148-02E",
+    "local": "1944-06-23 1800(Z)",
+    "page": "rg367-74822943/p37",
+    "note": "Density layers (O) table (GCT) 1: isothermal to 45 ft 78 deg; negative gradient to 240 ft 68 deg",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.0333,
+     29.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 2",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-06-25T19:00Z",
+    "lat_raw": "28-44N",
+    "lon_raw": "136-43E",
+    "local": "1944-06-25 1900(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 2",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.7167,
+     28.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-06-26T19:30Z",
+    "lat_raw": "26-52N",
+    "lon_raw": "132-55E",
+    "local": "1944-06-26 1930(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 3",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.9167,
+     26.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 4",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-06-27T20:00Z",
+    "lat_raw": "24-24N",
+    "lon_raw": "128-05E",
+    "local": "1944-06-27 2000(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 4",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.0833,
+     24.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 5",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-06-28T20:00Z",
+    "lat_raw": "21-55N",
+    "lon_raw": "124-43E",
+    "local": "1944-06-28 2000(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 5",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.7167,
+     21.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 6",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-06-29T20:00Z",
+    "lat_raw": "20-01N",
+    "lon_raw": "124-47E",
+    "local": "1944-06-29 2000(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 6",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.7833,
+     20.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 7",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-06-30T20:00Z",
+    "lat_raw": "19-52N",
+    "lon_raw": "123-58E",
+    "local": "1944-06-30 2000(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 7",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9667,
+     19.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 8",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-01T20:40Z",
+    "lat_raw": "19-38N",
+    "lon_raw": "121-17E",
+    "local": "1944-07-01 2040(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 8",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.2833,
+     19.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 9",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-02T20:30Z",
+    "lat_raw": "19-33N",
+    "lon_raw": "120-51E",
+    "local": "1944-07-02 2030(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 9 (typed 19\u00b033IN)",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.85,
+     19.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 10",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-03T20:30Z",
+    "lat_raw": "19-30N",
+    "lon_raw": "120-17E",
+    "local": "1944-07-03 2030(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 10",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.2833,
+     19.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 11",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-04T20:45Z",
+    "lat_raw": "19-33N",
+    "lon_raw": "118-57E",
+    "local": "1944-07-04 2045(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 11",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.95,
+     19.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 12",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-05T20:00Z",
+    "lat_raw": "19-10N",
+    "lon_raw": "120-07E",
+    "local": "1944-07-05 2000(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 12",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.1167,
+     19.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 13",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-06T20:30Z",
+    "lat_raw": "18-56N",
+    "lon_raw": "120-14E",
+    "local": "1944-07-06 2030(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 13",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.2333,
+     18.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 14",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-07T21:40Z",
+    "lat_raw": "19-17N",
+    "lon_raw": "119-36E",
+    "local": "1944-07-07 2140(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 14 (last figure of the time faded)",
+    "fix": "time's last figure illegible; 2140 assumed for the speed check; the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.6,
+     19.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 15",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-08T21:40Z",
+    "lat_raw": "19-24N",
+    "lon_raw": "119-17E",
+    "local": "1944-07-08 2140(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 15",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.2833,
+     19.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 16",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-09T20:50Z",
+    "lat_raw": "19-47N",
+    "lon_raw": "118-06E",
+    "local": "1944-07-09 2050(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 16",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.1,
+     19.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 17",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-10T20:58Z",
+    "lat_raw": "19-58N",
+    "lon_raw": "116-47E",
+    "local": "1944-07-10 2058(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 17",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.7833,
+     19.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 18",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-11T21:01Z",
+    "lat_raw": "19-44N",
+    "lon_raw": "115-30E",
+    "local": "1944-07-11 2101(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 18",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.5,
+     19.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 19",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-12T21:03Z",
+    "lat_raw": "19-13N",
+    "lon_raw": "114-56E",
+    "local": "1944-07-12 2103(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 19",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.9333,
+     19.2167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 20",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-14T21:45Z",
+    "lat_raw": "18-23N",
+    "lon_raw": "116-19E",
+    "local": "1944-07-14 2145(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 20 (time typed 21?45 faintly)",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.3167,
+     18.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 21",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-15T21:00Z",
+    "lat_raw": "18-28N",
+    "lon_raw": "116-59E",
+    "local": "1944-07-15 2100(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 21 (time faded)",
+    "fix": "time's third figure illegible; 2100 assumed for the speed check; the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.9833,
+     18.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 22",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-16T21:07Z",
+    "lat_raw": "18-06N",
+    "lon_raw": "118-51E",
+    "local": "1944-07-16 2107(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 22",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.85,
+     18.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 23",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-17T22:21Z",
+    "lat_raw": "19-24N",
+    "lon_raw": "117-52E",
+    "local": "1944-07-17 2221(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 23",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.8667,
+     19.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 25",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-20T20:57Z",
+    "lat_raw": "20-16N",
+    "lon_raw": "119-51E",
+    "local": "1944-07-20 2057(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 25",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.85,
+     20.2667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 8",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-07-20T21:35Z",
+    "lat_raw": "21-06N",
+    "lon_raw": "118-52E",
+    "local": "1944-07-21 0635(I)",
+    "page": "rg367-74822943/p23",
+    "note": "Ship contacts (F) 8: PGE type patrol boat 8000 yds course 045 8 kts",
+    "fix": "ship-contact positions are the target's"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.8667,
+     21.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 24",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-21T06:15Z",
+    "lat_raw": "20-38N",
+    "lon_raw": "119-17E",
+    "local": "1944-07-21 0615(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 24",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.2833,
+     20.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 26",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-21T23:05Z",
+    "lat_raw": "21-01N",
+    "lon_raw": "119-19E",
+    "local": "1944-07-21 2305(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 26",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.3167,
+     21.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 27",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-22T21:13Z",
+    "lat_raw": "20-08N",
+    "lon_raw": "119-47E",
+    "local": "1944-07-22 2113(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 27",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.7833,
+     20.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 28",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-23T20:48Z",
+    "lat_raw": "20-49N",
+    "lon_raw": "120-28E",
+    "local": "1944-07-23 2048(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 28",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.4667,
+     20.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 30",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-25T20:58Z",
+    "lat_raw": "19-49N",
+    "lon_raw": "119-58E",
+    "local": "1944-07-25 2058(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 30",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.9667,
+     19.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 9",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-07-26T00:51Z",
+    "lat_raw": "20-21N",
+    "lon_raw": "122-02E",
+    "local": "1944-07-26 0951(I)",
+    "page": "rg367-74822943/p23",
+    "note": "Ship contacts (F) 9: 1000 ton coal burning patrol vessel 22000 yds course various",
+    "fix": "ship-contact positions are the target's"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.0333,
+     20.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 29",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-26T07:52Z",
+    "lat_raw": "19-50N",
+    "lon_raw": "122-16E",
+    "local": "1944-07-26 0752(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 29",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.2667,
+     19.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 10",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-07-27T12:33Z",
+    "lat_raw": "20-21N",
+    "lon_raw": "118-32E",
+    "local": "1944-07-27 2133(I)",
+    "page": "rg367-74822943/p23",
+    "note": "Ship contacts (F) 10: 2 patrol type craft 13000 yds course 045 T 10 kts (narrative p14: 20-?1N 118-32E; contact message sent to the other submarines)",
+    "fix": "ship-contact positions are the target's"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.5333,
+     20.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 31",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-27T20:48Z",
+    "lat_raw": "19-39N",
+    "lon_raw": "119-10E",
+    "local": "1944-07-27 2048(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 31",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.1667,
+     19.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 33",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-28T20:32Z",
+    "lat_raw": "20-52N",
+    "lon_raw": "121-18E",
+    "local": "1944-07-28 2032(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 33 (the 29 July 0532 I dive: in desired position about 20 miles northeast of the rest of the pack)",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.3,
+     20.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 11",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-07-28T23:05Z",
+    "lat_raw": "20-59N",
+    "lon_raw": "120-27E",
+    "local": "1944-07-29 0805(I)",
+    "page": "rg367-74822943/p23",
+    "note": "Ship contacts (F) 11: tanker HUNAGAWA class and 2 PC type escorts 11000 yds course 165 6.8 kts periscope; see attack #1",
+    "fix": "ship-contact positions are the target's"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.45,
+     20.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-07-28T23:51Z",
+    "lat_raw": "21-18N",
+    "lon_raw": "121-10E",
+    "local": "1944-07-29 0851(I)",
+    "page": "rg367-74822943/p30",
+    "note": "Torpedo attack No. 1: three Mk 18 from stern tubes at a coastal oiler (AO); all missed (narrative p15 has the attack at 0853 I)",
+    "fix": "the sheet's 21-18N 121-10E is 25 nm from the density-layer fix of 0900 I the same morning (20-53N 121-28E) and from the ship contact table's 20-59N 120-27E; the three disagree and the narrative's figures are overstruck"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.1667,
+     21.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 32",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-29T00:00Z",
+    "lat_raw": "20-53N",
+    "lon_raw": "121-28E",
+    "local": "1944-07-29 0000(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 32 (0900 I 29 July; she went deep at 0901 I after being bombed following the oiler attack)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.4667,
+     20.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 12",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-07-29T18:52Z",
+    "lat_raw": "20-52N",
+    "lon_raw": "120-55E",
+    "local": "1944-07-30 0352(I)",
+    "page": "rg367-74822943/p23",
+    "note": "Ship contacts (F) 12: 14 ship convoy with 5 escorts 25000 yds course 175 8 kts SJ radar; see attacks #2 and #3 (narrative p15: radar contact bearing 005 T)",
+    "fix": "ship-contact positions are the target's"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.9167,
+     20.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-29T20:31Z",
+    "lat_raw": "20-52N",
+    "lon_raw": "120-47E",
+    "local": "1944-07-30 0531(I)",
+    "page": "rg367-74822943/p31",
+    "note": "Torpedo attack No. 2: six Mk 23 from bow tubes at the largest ship (KANSAI MARU type); four hits; claims her sunk",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.7833,
+     20.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 3",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-29T20:37Z",
+    "lat_raw": "20-52N",
+    "lon_raw": "120-47E",
+    "local": "1944-07-30 0537(I)",
+    "page": "rg367-74822943/p32",
+    "note": "Torpedo attack No. 3: four Mk 18 from stern tubes at the next ship (ZUIYO MARU type); missed her; three heard to hit ships in the next column; claims two AKs damaged or probably sunk (narrative p16 has 0538 I)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.7833,
+     20.8667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 34",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-07-29T21:23Z",
+    "lat_raw": "18-25N",
+    "lon_raw": "118-30E",
+    "local": "1944-07-29 2123(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 34 (typed 30 July 2123; 0623 I 30 July by the date rule; she was trailing the convoy submerged then)",
+    "fix": "the table's dates are the local (zone I) day of the dive and its times GCT: 28 July 2048 is the narrative's 28 July 0548 I dive (p14) and 29 July 2032 its 29 July 0532 I dive (p14); so the GCT date is the day before; unresolved: 18-25N 118-30E is west of Luzon whether this is 0623 I 30 July (when she was trailing the convoy near 20-52N 120-47E) or 0623 I 31 July (eight hours after she passed BALINTANG CHANNEL at 2213 I 30 July heading for MOLUKKA PASSAGE)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.5,
+     18.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 35",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-08-01T20:07Z",
+    "lat_raw": "16-05N",
+    "lon_raw": "127-45E",
+    "local": "1944-08-01 2007(Z)",
+    "page": "rg367-74822943/p38",
+    "note": "Density layers (O) table (GCT) 35 (the 2 August 0502 I trim dive)",
+    "fix": "kept as typed: 1 August 2007 GCT is 0507 I 2 August and the narrative (p18) has a trim dive at 0502 I 2 August; the day-before rule of the other rows (inferred from 28 and 29 July) would make it 0507 I 1 August when the narrative has no dive"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.75,
+     16.0833
+    ]
+   }
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's
 # claims).
-# The only record of the attack is the Navy's July summary (J01-J03): sixteen ships attacked from about 0330 I, four
+# The only record of the attack is the Navy's July summary (J01-J03; J04 is a later copy of the same text): sixteen ships attacked from about 0330 I, four
 # sunk and two damaged, with no time or place for any one ship. So each claim of a sinking is paired with J02 as
 # possible: the record confirms losses that night, not which attack made them.
 # JANAC (postwar, secondary) lists for 31 July Koei, Manko and Yoshino Maru at PARCHE's attack position 19-10N
@@ -19,8 +19,10 @@
   record: J02
   relation: possible
   note: >-
-    Four hits on a large AO, claimed sunk. The summary's sunk list has one ship that may be a tanker, the unread ??
-    Maru (JANAC: Koei Maru, tanker, credited to PARCHE). No time or place to separate this from Attacks 4 and 6
+    Four hits on a large AO, claimed sunk. The summary's sunk list has one ship that may be a tanker, the fourth
+    name, unread on the July page (J02) but written 光栄丸, Koei Maru, in the Demobilization Bureau's copy (J04);
+    JANAC has Koei Maru as a tanker credited to PARCHE. Neither copy gives a time or place, so nothing separates
+    this from Attacks 4 and 6
 - attack: Attack 4
   record: J03
   relation: possible

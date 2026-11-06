@@ -34,6 +34,10 @@ boats:
     folder: boats/ss-280-steelhead
     patrols:
       6: { status: mapped, nara: [74851415], first_fix: 1944-06-17, last_fix: 1944-08-16, files: [positions, japanese, claims, attacks], note: "no position table: narrative fixes, ship contacts and attack sheets; aircraft tables not transcribed; no depth log. Group 17.15 with PARCHE and HAMMERHEAD (Cdr Parks); the 30-31 July action" }
+  SS-364:   # HAMMERHEAD, Gato class
+    folder: boats/ss-364-hammerhead
+    patrols:
+      1: { status: mapped, nara: [74822943], first_fix: 1944-06-24, last_fix: 1944-08-01, files: [positions, japanese, claims, attacks], note: "the density-layer table is the patrol's position table (GCT); ship contacts 8-12 and attacks 1-3 transcribed; the narrative before 27 July and after 31 July, and aircraft contacts, not yet. Group 17.15 with PARCHE and STEELHEAD; found and first attacked convoy MI-11 on 30 July" }
   SS-283:   # TINOSA, Gato class
     folder: boats/ss-283-tinosa
     patrols:

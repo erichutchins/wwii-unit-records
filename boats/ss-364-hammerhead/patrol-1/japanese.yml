@@ -1,0 +1,72 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# HAMMERHEAD fired at a coastal oiler with two PCs at 0851 I on 29 July (Attack 1, no hits) and at convoy MI-11
+# (ミ一一, Takao to Manila) at 0531 and 0537 I on 30 July (Attacks 2-3, 20-52N 120-47E), a day before PARCHE and
+# STEELHEAD attacked it.
+# Searched (5 Nov 2026), line by line for the 29th and 30th: the Navy's July 1944 summary (大東亜戦争経過概要（護衛対潜
+# 関係）, jacar:C16120659800 pp. 8-9) and the 2nd Demobilization Bureau's fair copy (jacar:C16120644000, the 29th on
+# p28, the 30th on p30, the 31st on p33). Neither has an attack on a convoy north of Luzon or south of Formosa on the
+# 30th, any ship torpedoed there that day, or the 29th's oiler. The 30th has two entries: Kokuyo Maru (國洋丸, B
+# tanker 10,026 tons, in ballast) torpedoed and sunk at 0210 in the southern Sulu Sea on passage Manila to Takao,
+# and some thirty enemy ships gathered at Mapia (1530, about 0-20S 132-12E): neither is HAMMERHEAD's. The 29th's
+# only anti-submarine entry near Formosa is J03, off the north-west coast, some 200 nm north of her. MI-11's entry
+# (J01, J02) is on the 31st and dates the attack from about 0330 that day. Not searched yet: the convoy's escorts'
+# own reports for the 30th; the 1st Surface Escort Division's July diary (C08030141100) for the 30th.
+- id: J01
+  source: jacar:C16120659800
+  page: p9
+  convoy: MI-11
+  event: status
+  date: 1944-07-31
+  time: '0330'
+  zone: I
+  original: >-
+    29日高雄ヲ出港シマニラニ向ケ航行中ノ陸軍部隊其ノ他輸送ノ16隻船団（護衛艦6隻）0330頃連続敵潜ノ襲撃ヲ受ク …
+    沈没 吉野丸 萬光丸 扶桑丸 ??丸 / 被雷損傷 第一小倉丸 ダカア丸
+  translation: >-
+    A sixteen-ship convoy (six escorts) carrying Army units and other transport, which left Takao on the 29th for
+    Manila, was attacked by enemy submarines one after another from about 0330. … Sunk: Yoshino Maru, Manko Maru,
+    Fuso Maru, ?? Maru. Torpedoed and damaged: No. 1 Ogura Maru, Dakar Maru
+  note: >-
+    Context: the same entry as PARCHE's J01-J03 (ss-384-parche/2), the 31st. It dates the convoy's attack from
+    about 0330 on the 31st and lists its losses under that day; it says nothing of the 30th, when HAMMERHEAD
+    attacked it (0531 and 0537 I). The convoy's count, sixteen ships and six escorts, against HAMMERHEAD's
+    fourteen and five (ship contact 12)
+- id: J02
+  source: jacar:C16120644000
+  page: p33
+  convoy: MI-11
+  event: status
+  date: 1944-07-31
+  time: '0330'
+  zone: I
+  original: >-
+    29日高雄ヲ出港シ「マニラ」ニ向ケ航行中ノ陸軍部隊其他輸送十六隻船団（護ノ艦六隻）0330頃連続敵潜ノ襲撃ヲ受ク …
+    沈没 吉野丸 萬光丸 扶桑丸 光栄丸 / 被雷損傷 第一小倉丸 「ダカア」丸
+  translation: >-
+    The sixteen-ship convoy (six escorts) carrying Army units and other transport, which left Takao on the 29th for
+    Manila, was attacked by submarines one after another from about 0330. Sunk: Yoshino Maru, Manko Maru, Fuso
+    Maru, Koei Maru. Torpedoed and damaged: No. 1 Ogura Maru, Dakar Maru
+  note: >-
+    The fair copy of J01 (PARCHE's J04), sheet 56, the 31st; a copy, so it counts once with J01. It too has the
+    sailing on the 29th and the attack from 0330 on the 31st, and nothing on the 30th (p30, the 30th's sheet,
+    has only the Sulu Sea and Mapia entries)
+- id: J03
+  source: jacar:C16120659800
+  page: p8
+  event: sub_sighted
+  date: 1944-07-29
+  time: '0940'
+  zone: I
+  original: >-
+    台湾北西岸白沙灯台沖10'附近ニテCD1ハ敵?浮上?ヲ発見攻撃 午后CD×1及ナ?ト協同 ?1700迄連続攻撃 /
+    多量ノ油及気泡ノ湧出スルヲ認ム 撃沈確実
+  translation: >-
+    About 10 miles off Hakusa lighthouse on the north-west coast of Formosa, CD 1 found an enemy [submarine,
+    surfaced; characters not certain] and attacked; in the afternoon, with one more CD and [?], attacked
+    continuously until 1700. A large quantity of oil and air bubbles seen to rise; sinking certain
+  note: >-
+    The 29th's only anti-submarine entry near Formosa; the fair copy (C16120644000 p28) has the same text, its
+    area column 内地 (home waters), and reads the last clause 協同シ1700迄連続攻撃. Not HAMMERHEAD's: Hakusa
+    (白沙) lighthouse is on Formosa's north-west coast, some 200 nm north of her Attack 1 (21-18N 121-10E as the
+    sheet types it), 50 minutes later. Her own counter-attack was over by then: bombed at 0901 I and four depth
+    charges 0907-0915 (narrative p15). Kept to show the day was read

@@ -1,0 +1,28 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's
+# claims).
+# The Navy's July summary and its fair copy (J01, J02, the same text) record MI-11's losses on the 31st, from about
+# 0330 I, and have no entry for an attack on the convoy, or any ship torpedoed north of Luzon, on the 30th. So
+# HAMMERHEAD's claims of the 30th are no_loss: the records show no loss that morning. The caveat: the summary records
+# losses, not every attack, and lists the convoy's losses under the 31st as a whole, with no time or place for any
+# one ship; a ship damaged on the 30th that sailed on, or one hit on the 30th and lost on the 31st, would not be told
+# apart from the 31st's. JANAC not checked for HAMMERHEAD.
+# Attack 1 (29 July, three Mk 18 at a coastal oiler, all missed, no claim) has no entry: neither copy of the summary
+# mentions the oiler or its escorts; the 29th's anti-submarine entry off Formosa (J03) is 200 nm north, not hers.
+- attack: Attack 2
+  record: J01
+  relation: no_loss
+  note: >-
+    Six Mk 23 at 0531 I on 30 July at "the largest ship in the convoy", four hits, a passenger-freighter of the
+    KANSAI MARU type claimed sunk, seen to sink by three men and its pip gone from the radar (rg367-74822943/p31).
+    The summary has no loss on the 30th; it dates the convoy's attack from about 0330 on the 31st (J01, J02). The
+    convoy still counted sixteen ships when the 31st's attack began, against HAMMERHEAD's count of fourteen, so
+    the count can't show a ship lost on the 30th. One of the four ships the summary has sunk on the 31st could
+    have been hit on the 30th, but the record doesn't say so
+- attack: Attack 3
+  record: J01
+  relation: no_loss
+  note: >-
+    Four Mk 18 at 0537 I at the next ship (ZUIYO MARU type), which they missed; three explosions heard in the next
+    column, two AKs claimed damaged or probably sunk (rg367-74822943/p32, narrative p16). The summary has two ships
+    torpedoed and damaged (No. 1 Ogura Maru, Dakar Maru), but under the 31st's attack; nothing ties either to the
+    30th

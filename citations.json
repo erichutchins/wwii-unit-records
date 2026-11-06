@@ -266,7 +266,10 @@
    4,
    5,
    6,
+   8,
+   9,
    10,
+   11,
    12,
    13,
    14,
@@ -280,7 +283,24 @@
    26,
    28,
    30,
-   33
+   33,
+   41
+  ]
+ },
+ "74822943": {
+  "title": "USS Hammerhead, June 1944 - August 1944",
+  "series": "U.S. Submarine War Patrol Reports",
+  "series_id": 305243,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/74822943",
+  "pages": [
+   15,
+   23,
+   30,
+   31,
+   32,
+   37,
+   38
   ]
  },
  "74824944": {
