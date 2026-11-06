@@ -1,0 +1,12 @@
+town,x,y,read,lat,lon,source,query,on
+0.5W tick,699,5600,"meridian tick where it meets the neat line, read by eye on the margin; its latitude from the conic solved on the margins (the sheet draws no graticule inside)",47.73461,-0.5,loc-12ag/ict21080,,12ag-1944-08-24
+0E tick,1595,5600,"meridian tick where it meets the neat line, read by eye on the margin; its latitude from the conic solved on the margins (the sheet draws no graticule inside)",47.74024,0,loc-12ag/ict21080,,12ag-1944-08-24
+0.5E tick,2467,5600,"meridian tick where it meets the neat line, read by eye on the margin; its latitude from the conic solved on the margins (the sheet draws no graticule inside)",47.74359,0.5,loc-12ag/ict21080,,12ag-1944-08-24
+1E tick,3360,5600,"meridian tick where it meets the neat line, read by eye on the margin; its latitude from the conic solved on the margins (the sheet draws no graticule inside)",47.74482,1,loc-12ag/ict21080,,12ag-1944-08-24
+1.5E tick,4265,5600,"meridian tick where it meets the neat line, read by eye on the margin; its latitude from the conic solved on the margins (the sheet draws no graticule inside)",47.74380,1.5,loc-12ag/ict21080,,12ag-1944-08-24
+2E tick,5142,5600,"meridian tick where it meets the neat line, read by eye on the margin; its latitude from the conic solved on the margins (the sheet draws no graticule inside)",47.74065,2,loc-12ag/ict21080,,12ag-1944-08-24
+2.5E tick,6008,5600,"meridian tick where it meets the neat line, read by eye on the margin; its latitude from the conic solved on the margins (the sheet draws no graticule inside)",47.73543,2.5,loc-12ag/ict21080,,12ag-1944-08-24
+49.5N tick,6432,933,"parallel tick where it meets the neat line, read by eye on the margin; its longitude from the conic solved on the margins (the sheet draws no graticule inside)",49.5,2.79078,loc-12ag/ict21080,,12ag-1944-08-24
+49N tick,6437,2255,"parallel tick where it meets the neat line, read by eye on the margin; its longitude from the conic solved on the margins (the sheet draws no graticule inside)",49,2.77613,loc-12ag/ict21080,,12ag-1944-08-24
+48.5N tick,6439,3571,"parallel tick where it meets the neat line, read by eye on the margin; its longitude from the conic solved on the margins (the sheet draws no graticule inside)",48.5,2.76014,loc-12ag/ict21080,,12ag-1944-08-24
+48N tick,6442,4898,"parallel tick where it meets the neat line, read by eye on the margin; its longitude from the conic solved on the margins (the sheet draws no graticule inside)",48,2.74488,loc-12ag/ict21080,,12ag-1944-08-24

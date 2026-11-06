@@ -63,8 +63,9 @@
   scan: 5900 x 6100
   heading: not read
   shows: the Normandy coast to the lower Seine along the top, Paris at the right, the Loire at the bottom
-  towns: ""
+  towns: towns-B05.csv
   towns_on: 12ag-1944-08-22
+  towns_check: 16 ticks, since the sheet draws no graticule inside the map, only ticks on its neat line (10 meridians along the bottom, 6 parallels down the right), read by eye on the margins of 22 August 1944 (6 November 2026), the conic solved on them (0.14 km rms, 0.4 km at worst); registers on 23 August at 13 of 16
 - base: B06
   from: 1944-08-24
   to: 1944-08-25
@@ -72,8 +73,9 @@
   scan: 6700 x 6000
   heading: not read
   shows: the Seine bay (Fécamp, Yvetot) at top-left, the Seine's loops to Paris at the right
-  towns: ""
+  towns: towns-B06.csv
   towns_on: 12ag-1944-08-24
+  towns_check: 11 ticks, since the sheet draws no graticule inside the map, only ticks on its neat line (7 meridians along the bottom, 4 parallels down the right), read by eye on the margins of 24 August 1944 (6 November 2026), the conic solved on them (0.33 km rms, 0.9 km at worst); registers on 25 August at 10 of 11
 - base: B07
   from: 1944-08-26
   to: 1944-09-01

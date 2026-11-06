@@ -36,6 +36,15 @@ fit better than the towns did: 26 crossings at 0.50 km rms on B13, 60 at 0.82 km
 scale is 1.4 times coarser; B15 is read from its own scan, the May printing being scanned 1.7 per cent larger than
 April's). The same file serves every day of the base through `--gcps-from`.
 
+The 1944 sheets have theirs the same way (`towns-B01.csv` to `towns-B08.csv`), the first fit of each solved from the
+degree labels on its margins (`sheet_towns.py`'s `conic_from_lines`): the half-degree crossings of the 1:500,000 sheets
+(34 on Normandy at 0.14 km rms, 31 on Brittany at 0.22; 10 and 9 on the Loire sheets of mid-August at 0.6 and 0.5,
+where the kilometre grid passed for the graticule in places and `bases.yml` says so), and, on the four sheets of
+22 August to 5 September, which draw no graticule inside the map, the ticks on the neat line themselves (`1W tick`,
+`49.5N tick`: the coordinate read on the margin and the other from the conic solved on all the ticks, which the row
+says), 16, 11, 14 and 13 of them at 0.14 to 0.48 km rms. The double sheet of 10 September (B10) alone has none: two
+plates on one scan, one day. `bases.yml` gives each base's count, fit and the day it was checked on.
+
 ## HQ Twelfth Army Group, 7–17 March 1945
 
 The 1:1,000,000 sheets, each "to accompany G-3 report no. …: situation as of …1200 Mar 1945". All eleven days of the
