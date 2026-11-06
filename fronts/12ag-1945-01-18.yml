@@ -1,0 +1,23 @@
+# 12ag-1945-01-18: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21228
+date: 1945-01-18
+as_of: 1200 HRS 18 JANUARY 1945
+title: "Situation 1200 hrs 18 January 1945, Twelfth Army Group (SECRET struck through; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 18 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [0, 4880, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all); its sample is the unsure run 56 at 522,4924 that put Soissons and Beauvais on the enemy side"}
+  - {box: [2200, 540, 2290, 620], why: "the last digit (5) of 1945 in the title, magenta, standing past the first title box's right edge"}
+  - {box: [3150, 1200, 3300, 1320], why: "the Second British army boundary's end at the front near Geldrop, heavy, magenta, no map ticks (unsure run 3237,1280, looked on overlay crop 3000,1000); the front itself is the blue ticked line from about x 3350"}
+  - {box: [3170, 1770, 3745, 1900], why: "the Second British/Ninth US army boundary, heavy black, magenta in part, red ticks only from roads, no map ticks (runs 19-21, looked on overlay crop 3150,1700); ends well short of the front"}
+  - {box: [3360, 2120, 3890, 2225], why: "the Twenty One/Twelfth army group boundary's end at the front near Monschau, magenta then blue, no map ticks (runs 22 and 23 at 3430,2140 and 3687,2149; looked on overlay crops 3150,1700 and 3550,2000); the front itself runs south from about 3915,2215"}
+  - {box: [3960, 4030, 4415, 4860], why: "the Twelfth/Sixth army group boundary from the front at Saar corner (4425,4005) south-west past Faulquemont, magenta, no map ticks (run 46 at 4275,4403; looked on overlay crop 3900,3850)"}
+  - {box: [3470, 4840, 4060, 5200], why: "the same boundary's south-west stretch past Nancy (runs 55 and 57 at 3980,4939 and 3597,5127; looked on overlay crop 3400,4300); put Chaumont on the wrong side before"}
+  - {box: [5000, 4760, 5110, 4850], why: "the Seventh/First French army boundary's end on the Rhine plain north of Strasbourg, heavy black, magenta in part (unsure run 5059,4801; looked on overlay crop 4300,4300)"}
+  - {box: [4390, 5220, 4620, 5390], why: "the Seventh/First French army boundary's south-west stub near Saint-Dié, magenta, red ticks only from roads (runs 59, 60 at 4578,5263 and 4459,5329; put Saint-Dié on the wrong side)"}
+  - {box: [5435, 4695, 5475, 4740], why: "the outline of the 553rd's symbol, a short magenta hook with no ticks, on the Rhine bank east of the front (unsure run 5456,4715); the front runs unbroken past it"}
+flip:
+  - {at: [3550, 2823], why: "a short run at the First/Third army boundary's end on the front near Rochefort/Wellin, turned east by the boundary stub's ticks (the map draws no tick at the junction); the front there has the US to the west, as runs 27 and 29 either side (looked on overlay crop 3450,2720 and --look)"}
+checked: []
