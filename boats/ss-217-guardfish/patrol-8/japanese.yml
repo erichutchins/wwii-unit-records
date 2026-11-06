@@ -1,0 +1,148 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# From the Navy's day-by-day summary of escort and anti-submarine events for July 1944 (大東亜戦争経過概要（護衛対潜関係）,
+# jacar:C16120659800) and the 1st Surface Escort Division's war diary for July 1944 (第一海上護衛隊戦時日誌,
+# jacar:C08030141100): its narrative (作戦指導, pp. 9-10), its July summary table with the month's loss list (別表第一,
+# p27) and its convoy charts (別表第二, 馬来直航路, p28; 別表第七, 菲島北航路, p33). Zone I (Tokyo time) throughout, as
+# GUARDFISH's report is.
+# Three convoys: TAMA-21C (Takao to Manila; Attacks 1-4), HI-69 (Moji to Manila, with the escort carrier Shinyo;
+# Attack 5) and an unnamed one on the 19th (Attack 6). TAMA-21C's six losses are in the diary's chart and loss list
+# without a time for each ship, and THRESHER attacked the same convoy that night, so which ships GUARDFISH sank is
+# not in the Japanese record; JANAC's credit (secondary, janac:6/p18) is given in claims.yml as the postwar answer.
+# Searched and not found: the summary has nothing in the Luzon Strait on the 17th, 18th or 19th (C16120659800 p6: its
+# entries are Saipan, the Bonins, the Java Sea, and the cruiser Oi west of Manila), so neither HI-69's damage nor the
+# 19 July sinking is there; Teiryu Maru (帝竜丸) is in the diary's loss list only, with no convoy, time or place, and is
+# on none of its convoy charts read (pp. 28, 32, 33, 35); her convoy is not yet identified. Not yet read: the
+# summary's fair copy (C16120644000, pp. 20-28) for the 16th-19th, the designated-ship movement tables for Teiryu,
+# Mantai, Jinzan and Hiyama Maru (each ship's own log would give the hour and position of her loss), and Shinyo's or
+# the escort Kashii's records for HI-69 on the 18th.
+- id: J01
+  source: jacar:C16120659800
+  page: p5
+  convoy: TAMA-21C
+  ship: Seattle Maru
+  event: sank
+  date: 1944-07-16
+  time: '1030'
+  zone: I
+  original: >-
+    高雄ヨリマニラニ向ヘル船団（護衛艦8 輸送船21）ハルソン島北方ニテ敵潜ノ襲撃ヲウク … 1030しやとる丸（A徴傭5773t
+    部隊4300名）沈没 尚状況不明ナルモ同船団中夜半更ニ1隻沈没セルモノノ如キ模様アリ
+  translation: >-
+    The convoy bound from Takao to Manila (8 escorts, 21 transports) was attacked by an enemy submarine north of
+    Luzon … at 1030 Seattle Maru (Army-requisitioned, 5773 tons, 4,300 troops) sank. The situation is not yet clear,
+    but it appears that one more ship of the same convoy sank at midnight
+  note: >-
+    The 16th, written in the remarks column beside the entry. The convoy is TAMA-21C (J02). Seattle Maru's sinking is
+    the morning's, PIRANHA's by JANAC (secondary, 19-26N 120-18E); "one more ship … at midnight" is the first word of
+    GUARDFISH's Attack 1 (2342 I). The page is marked "19-7" (July 1944) at the foot
+- id: J02
+  source: jacar:C08030141100
+  page: p10
+  convoy: TAMA-21C
+  event: sank
+  date: 1944-07-17
+  zone: I
+  original: >-
+    タマ二一C船団ハ呂宋海峡ニテ十六日朝敵潜ノ雷撃ヲ受ケ「シヤトル」丸沈没ノ為之ガ救助船団ト二分航行中十七日未明追躡セル
+    敵潜ノ攻撃ヲ受ケ五隻沈没セリ 依ッテ事後研究会ヲ開催セシメ参謀一名ヲ「マニラ」ニ派遣セリ
+  translation: >-
+    Convoy TAMA-21C was torpedoed by an enemy submarine in the Luzon Strait on the morning of the 16th and Seattle
+    Maru sank; because of this it was sailing divided into the ships rescuing her and the convoy, and it was attacked
+    before dawn on the 17th by an enemy
+    submarine that had followed it, and five ships sank. A meeting to study the attack afterwards was therefore
+    ordered, and a staff officer sent to Manila
+  note: >-
+    The narrative, item (ハ). "Before dawn on the 17th" (十七日未明) covers GUARDFISH's Attacks 1-4 (2342 on the 16th to
+    0303) and THRESHER's; the diary speaks of one following submarine. Five, with Seattle Maru six: the six names of
+    J03 and J04. Re-read at 500 dpi for THRESHER's file (its J02): 沈没ノ為之ガ救助船団ト二分, the ノ為 after 沈没
+- id: J03
+  source: jacar:C08030141100
+  page: p33
+  convoy: TAMA-21C
+  event: sank
+  date: 1944-07-17
+  time: '0345'
+  zone: I
+  lat_raw: 18-53N
+  lon_raw: 119-44E
+  original: 自16日0945 N19-17 E120-15 至17日0345 N18-53 E119-44 しやとる、日山、祥山、満泰、西寧、仁山（沈没）
+  translation: >-
+    From the 16th 0945 at 19-17N 120-15E to the 17th 0345 at 18-53N 119-44E: Seattle, Hiyama, Shozan, Mantai,
+    Sainei, Jinzan (sunk)
+  note: >-
+    The convoy chart 別表第七 (Philippines north route), beside a sinking mark on the line of タマ21C, which the chart's
+    head gives 20 ships, operations party (一), and seven escorts, the cell read 海一, 海二, 草垣, 掃?三?, 前?島, 円島,
+    駆?六二 (partly legible). The line leaves Takao on the 14th and reaches Manila about the 19th. The two positions
+    bound the attacks, not any one ship: the 0345 end is 32 nm north of Attack 1's typed position and 36 nm north of
+    Attack 2's. 日山 is read Hiyama after JANAC (secondary)
+- id: J04
+  source: jacar:C08030141100
+  page: p27
+  event: loss_list
+  date: 1944-07
+  zone: I
+  original: >-
+    被害船舶名（イ）敵潜ニ依ル被害 沈没（二〇隻）小破（五隻）… 満泰丸（5863）、西寧丸（4916）、仁山丸（5215）、帝竜丸（6550）
+    … しやとる丸（5773）日山丸（2800）、祥山丸（2856）… （小破）聖川丸、海17、第一小倉丸、だかあ丸、日永丸
+  translation: >-
+    Ships damaged: (a) by enemy submarines, sunk (20 ships), slightly damaged (5) … Mantai Maru (5863), Sainei Maru
+    (4916), Jinzan Maru (5215), Teiryu Maru (6550) … Seattle Maru (5773), Hiyama Maru (2800), Shozan Maru (2856) …
+    (slightly damaged) Kiyokawa Maru, Kai-17, No. 1 Ogura Maru, Dakar Maru, Hinaga Maru
+  note: >-
+    The July summary table 別表第一, its notes (記事) item 2; gross tons in brackets as written. Only the ships of this
+    patrol's days are given here. Teiryu Maru (帝竜丸) is the ship JANAC credits to Attack 6 (secondary); the list
+    gives her no date or place. 帝竜 is read Teiryu after JANAC
+- id: J05
+  source: jacar:C08030141100
+  page: p10
+  convoy: HI-69
+  ship: Kai-17
+  event: torpedoed
+  date: 1944-07-18
+  time: '0800'
+  zone: I
+  original: >-
+    ヒ六九船団中ノ天栄丸、播磨丸ハ十八日〇八〇〇頃船団ニ遅レ追及中敵潜ノ雷撃ヲ受ケ、船団後方ニテ制圧中ノ海十七ヲ急派シタル処、
+    同艦ハ高速ニテ直進セシ為反ツテ敵潜ノ雷撃ヲ受ケ中破セリ
+  translation: >-
+    Tenei Maru and Harima Maru of convoy HI-69, which had fallen behind the convoy and were catching up, were
+    torpedoed by an enemy submarine at about 0800 on the 18th; Kai-17, which was holding down the submarine astern of
+    the convoy, was sent to them at once, and because she ran straight at high speed she was herself torpedoed and
+    moderately damaged
+  note: >-
+    The narrative, item (ロ). The time is the attack on the two stragglers; Kai-17's own hit is charted at 1055 (J06).
+    Neither Tenei Maru nor Harima Maru is in the month's loss list (J04), and the narrative says only that they were
+    torpedoed. More than ten hours before GUARDFISH's Attack 5 (1822 I)
+- id: J06
+  source: jacar:C08030141100
+  page: p28
+  convoy: HI-69
+  ship: Kai-17
+  event: torpedoed
+  date: 1944-07-18
+  time: '1055'
+  zone: I
+  lat_raw: 21-36N
+  lon_raw: 119-58E
+  original: 18日0850 N21-58 E119-50 / 18日1055 N21-36 E119-58 海17（小破）
+  translation: 18th 0850, 21-58N 119-50E / 18th 1055, 21-36N 119-58E, Kai-17 (slightly damaged)
+  note: >-
+    The convoy chart 別表第二 (Malaya direct route), on the line of (ヒ69), Moji to Manila, which reaches Manila on the
+    20th (a mark at 20th 0530, 15-42N 118-37E, without words). Escorts in the chart's head: 香椎, 千振, 佐渡, two 海
+    (the numbers not settled), 神鷹 (the escort carrier Shinyo), 14 ships. The 0850 mark has no words; the narrative
+    (J05) has the stragglers torpedoed about 0800. The chart says slightly damaged (小破) where the narrative says
+    moderately (中破). Nothing on the line after 1055 until Manila: GUARDFISH's Attack 5, 1822 I at 20-27N 119-11E, is
+    7 h 27 min after and 82 nm south-west of the 1055 mark, on the convoy's way to Manila
+- id: J07
+  source: jacar:C08030141100
+  page: p27
+  ship: Kiyokawa Maru
+  event: loss_list
+  date: 1944-07
+  zone: I
+  original: （小破）聖川丸、海17、第一小倉丸、だかあ丸、日永丸
+  translation: (slightly damaged) Kiyokawa Maru, Kai-17, No. 1 Ogura Maru, Dakar Maru, Hinaga Maru
+  note: >-
+    The same notes as J04. Kiyokawa Maru (聖川丸) is a seaplane tender; the diary's chart 別表第二 marks her slightly
+    damaged with a later convoy, ヒ68, on the 26th (p28), not on the 18th. GUARDFISH saw "one seaplane tender" in the
+    18 July convoy (Attack 5's sheet); no damage to her that day is in this record

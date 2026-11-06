@@ -1,0 +1,21 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Zone I throughout. Attack 1 was on the convoy PIRANHA attacked 3 h 52 min later; the Japanese record has one loss in
+# it, Nichiran Maru, which JANAC (secondary) and PIRANHA's claims give to PIRANHA, and no damage at APOGON's hour.
+- attack: Attack 1
+  record: J02
+  relation: no_loss
+  note: >-
+    Fired 0304 I on the 12th (the sheet types 0301; the narrative's 0304 fits the hits heard at 0306-45) at 19-11N
+    122-38E, six Mk 23s at the center column of a southbound convoy (course 180, 13-14 kt; 8 or 9 AKs including a
+    large passenger freighter, at least 6 escorts); three hits heard, believed in the far port column; then rammed
+    by a large AK of the center column, which APOGON thought should have "a large hole in port quarter"; two ships
+    claimed damaged. The convoy is MOMA-01 (inferred from place and course): the only line on the diary's
+    Philippines-route chart at sea east of northern Luzon that morning, southbound from Takao (9th) to Manila (about
+    the 15th), and the convoy PIRANHA attacked at 0656 I at 18-33N 122-53E, 40 nm south-south-east of APOGON's
+    position, as a 13-kt convoy would run in 3 h 52 min. Its one recorded loss is Nichiran Maru (日蘭丸), sunk at 0745
+    I at 18-?9N 122-?0E (J02; 0935 in the summary, J01), 4 h 41 min after APOGON's firing and about 40 nm south, an
+    hour after PIRANHA's attack; JANAC (secondary) credits PIRANHA with her (janac:6/p29). Neither record has a ship
+    torpedoed or damaged near 0300, and neither names the ship that rammed APOGON; the diary's July loss list gives
+    five ships slightly damaged by submarines without dates (GUARDFISH Patrol 8, J07: 聖川丸, 海17, 第一小倉丸, だかあ丸,
+    日永丸), none tied to this convoy. No loss for APOGON's attack in the Japanese record; whether her hits were on
+    Nichiran Maru before PIRANHA's is not in it

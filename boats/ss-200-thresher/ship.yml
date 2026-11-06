@@ -1,0 +1,14 @@
+# USS THRESHER (SS-200). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: THRESHER
+hull: SS-200
+class: Tambor        # the report doesn't name her class; DANFS, "Thresher I (SS-200)", and the hull numbers SS-198 to SS-203 (Tambor class)
+# no silhouette yet: silhouettes/silhouettes.yml has no Tambor profile (gato and balao only)
+kind: submarine
+plain: "a fleet submarine of the Tambor class: her thirteenth war patrol, in a coordinated attack group with GUARDFISH, PIRANHA and APOGON in the Luzon Strait, June-July 1944"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+max_kts: 20.5        # surfaced maximum, about 20 kn (Tambor class); the check allows 30 nm of DR on top. The narrative (p34) has her "making 19.2 knots" on 12 July
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 13, name: Thirteenth War Patrol, dates: 14 Jun 1944 – 27 Jul 1944 }

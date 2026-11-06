@@ -320,7 +320,7 @@
     "lon_raw": "149-51E",
     "local": "1944-06-24 1200(K)",
     "page": "rg367-74851415/p04",
-    "note": "Sighted a plane similar to \"BETTY\"; dove",
+    "note": "Sighted a plane similar to \"BETTY\"; dove; Aircraft contacts table (G) 1A (rg367-74851415/p29): BETTY 1; Pat.; Sight; 20,000 yds; elevation 2\u00b0; plane at 18,000 320\u00b0 R. when it detected S/M; 13 knots 263 Surf.; SD cont. Table types 1300 (-10), the narrative 1200 K; same position",
     "fix": ""
    },
    "geometry": {
@@ -366,7 +366,7 @@
     "lon_raw": "145-43E",
     "local": "1944-06-25 0800(K)",
     "page": "rg367-74851415/p04",
-    "note": "Sighted a float type biplane; dove",
+    "note": "Sighted a float type biplane; dove; Aircraft contacts table (G) 2A (rg367-74851415/p29): DAVE 1; Pat.; Sight; 12,000; elevation 6\u00b0; plane at 16,000 130\u00b0 R. when it detected S/M; 13 knots 263 Surf.; SD cont. Table types the date 6-24-44, the narrative 25 June; same time and position",
     "fix": ""
    },
    "geometry": {
@@ -389,7 +389,7 @@
     "lon_raw": "144-29E",
     "local": "1944-06-25 1400(K)",
     "page": "rg367-74851415/p04",
-    "note": "Sighted a \"BETTY\" type plane bearing 070 T.; time typed 140? (last digit faint, 1400 likely)",
+    "note": "Sighted a \"BETTY\" type plane bearing 070 T.; time typed 140? (last digit faint, 1400 likely); Aircraft contacts table (G) 3A (rg367-74851415/p29): BETTY 1; Pat.; Sight; 20,000; elevation 3\u00b0; 13 knots 270 Surf.; SD cont. Table types 1400 (the narrative's faint last figure); same position",
     "fix": ""
    },
    "geometry": {
@@ -412,7 +412,7 @@
     "lon_raw": "144-28E",
     "local": "1944-06-25 1407(K)",
     "page": "rg367-74851415/p04",
-    "note": "Sighted a four engine \"MAVIS\" bearing 030 T. distance 13 miles",
+    "note": "Sighted a four engine \"MAVIS\" bearing 030 T. distance 13 miles; Aircraft contacts table (G) 4A (rg367-74851415/p29): MAVIS 1; Pat.; Sight; 26,000; elevation 2\u00b0; 13 knots 270 Surf.; SD cont. Table types the date 6-24-44, the narrative 25 June; same time and position",
     "fix": ""
    },
    "geometry": {
@@ -458,7 +458,7 @@
     "lon_raw": "141-08E",
     "local": "1944-06-26 0740(K)",
     "page": "rg367-74851415/p05",
-    "note": "SD radar indication 18 miles; did not dive",
+    "note": "SD radar indication 18 miles; did not dive; Aircraft contacts table (G) 5A (rg367-74851415/p29): type --, 1; Pat.; SD; 36,000; 14 knots 267 Surf.; SD 0 minutes; same time and position",
     "fix": ""
    },
    "geometry": {
@@ -481,7 +481,7 @@
     "lon_raw": "140-40E",
     "local": "1944-06-26 0910(K)",
     "page": "rg367-74851415/p05",
-    "note": "SD radar indication 6 miles and closing; dove",
+    "note": "SD radar indication 6 miles and closing; dove; Aircraft contacts table (G) 6A (rg367-74851415/p30): type -, 1; Pat.; SD; 12,000; 14 knots 267 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -550,7 +550,7 @@
     "lon_raw": "122-27E",
     "local": "1944-07-02 0730(I)",
     "page": "rg367-74851415/p06",
-    "note": "Sighted a signel engine monoplane bearing 090 T. distance 5 miles; at 0605 BATAN ISLAND bore 298 T. 25 miles and at 0653 BABYUAN ISLAND bore 237 T. and BALINTANG ISLAND 271 T., which put her nearer 20 N than the typed 19-29N",
+    "note": "Sighted a signel engine monoplane bearing 090 T. distance 5 miles; at 0605 BATAN ISLAND bore 298 T. 25 miles and at 0653 BABYUAN ISLAND bore 237 T. and BALINTANG ISLAND 271 T., which put her nearer 20 N than the typed 19-29N; Aircraft contacts table (G) 7A (rg367-74851415/p30): type -, 1; Pat.; Sight; 10,000; elevation 2\u00b0; 2 knots 090 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -573,7 +573,7 @@
     "lon_raw": "121-01E",
     "local": "1944-07-03 0800(I)",
     "page": "rg367-74851415/p06",
-    "note": "Sighted a two engine bomber bearing 130 T. distance 14 miles headed on a northerly course",
+    "note": "Sighted a two engine bomber bearing 130 T. distance 14 miles headed on a northerly course; Aircraft contacts table (G) 8A (rg367-74851415/p30): NELL 1; Pat.; Sight; 14 mi.; elevation 2\u00b0; 2 knots 270 Surf.; same",
     "fix": ""
    },
    "geometry": {
@@ -596,7 +596,7 @@
     "lon_raw": "120-56E",
     "local": "1944-07-03 0920(I)",
     "page": "rg367-74851415/p07",
-    "note": "SD indication of a plane range 20 miles; dove 0930",
+    "note": "SD indication of a plane range 20 miles; dove 0930; Aircraft contacts table (G) 9A (rg367-74851415/p30): type -, 3; mission typed H; SD; 20 mi.; 12 knots 270 Per.; SD 0; same (the narrative doesn't give the number)",
     "fix": ""
    },
    "geometry": {
@@ -619,7 +619,7 @@
     "lon_raw": "120-41E",
     "local": "1944-07-03 1313(I)",
     "page": "rg367-74851415/p07",
-    "note": "Sighted a twin engine bomber bearing 016 T. distance 12 miles; minute sign missing on longitude (120 41 E.)",
+    "note": "Sighted a twin engine bomber bearing 016 T. distance 12 miles; minute sign missing on longitude (120 41 E.); Aircraft contacts table (G) 10A (rg367-74851415/p30): SALLY 1; Pat.; Sight; 12 mi.; elevation 4\u00b0; 2 knots 270 Per.; same; the table types 120\u00b041'E with its minute sign",
     "fix": ""
    },
    "geometry": {
@@ -757,7 +757,7 @@
     "lon_raw": "120-02E",
     "local": "1944-07-07 0822(I)",
     "page": "rg367-74851415/p09",
-    "note": "SD radar indication 16 miles moving in; dove 0825 8 miles from station",
+    "note": "SD radar indication 16 miles moving in; dove 0825 8 miles from station; Aircraft contacts table (G) 11A (rg367-74851415/p31): type --, 1; Pat.; SD; 16 mi.; 19 knots 137 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -966,7 +966,7 @@
     "lon_raw": "117-34E",
     "local": "1944-07-19 1251(I)",
     "page": "rg367-74851415/p13",
-    "note": "SD contact 8 miles moving in; dove 1252",
+    "note": "SD contact 8 miles moving in; dove 1252; Aircraft contacts table (G) 12A (rg367-74851415/p31): type --, 1; Esc.; SD; 8 mi.; 16 knots 190 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -1012,7 +1012,7 @@
     "lon_raw": "117-40E",
     "local": "1944-07-19 1445(I)",
     "page": "rg367-74851415/p14",
-    "note": "SD contact 6 miles moving in very fast; dove 1446; 1448 received one large bomb while passing 150 feet",
+    "note": "SD contact 6 miles moving in very fast; dove 1446; 1448 received one large bomb while passing 150 feet; Aircraft contacts table (G) 13A (rg367-74851415/p31): type --, 1; Esc.; SD; 6 mi.; 12 knots 150 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -1081,7 +1081,7 @@
     "lon_raw": "119-13E",
     "local": "1944-07-23 1158(I)",
     "page": "rg367-74851415/p16",
-    "note": "Sighted \"MAVIS\" four engine bomber bearing 260 T. distance 4 miles on a southerly course",
+    "note": "Sighted \"MAVIS\" four engine bomber bearing 260 T. distance 4 miles on a southerly course; Aircraft contacts table (G) 14A (rg367-74851415/p31): MAVIS 1; Pat.; Sight; 4 mi.; elevation 12\u00b0; 2 knots 180 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -1104,7 +1104,7 @@
     "lon_raw": "119-12E",
     "local": "1944-07-23 1545(I)",
     "page": "rg367-74851415/p17",
-    "note": "Sighted \"MAVIS\" again bearing 230 T. course 070 T.",
+    "note": "Sighted \"MAVIS\" again bearing 230 T. course 070 T.; Aircraft contacts table (G) 15A (rg367-74851415/p31): MAVIS 1; Pat.; Sight; 6 mi.; elevation 6\u00b0; 2 knots 180 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -1219,7 +1219,7 @@
     "lon_raw": "120-45E",
     "local": "1944-07-30 0626(I)",
     "page": "rg367-74851415/p19",
-    "note": "Sighted plane bearing 100 T. distance 10 miles moving in (narrative; 0420 had received HAMMERHEAD's convoy contact report and proceeded east at maximum speed)",
+    "note": "Sighted plane bearing 100 T. distance 10 miles moving in (narrative; 0420 had received HAMMERHEAD's convoy contact report and proceeded east at maximum speed); Aircraft contacts table (G) 16A (rg367-74851415/p32): MAVIS 1; Esc.; Sight; 10 mi.; elevation 3\u00b0; 18 knots 065 Surf.; SD cont.; same (the narrative names no type)",
     "fix": ""
    },
    "geometry": {
@@ -1242,7 +1242,7 @@
     "lon_raw": "120-50E",
     "local": "1944-07-30 0712(I)",
     "page": "rg367-74851415/p20",
-    "note": "Sighted a two engine bomber bearing 110 T. distance 10 miles; dove 0716",
+    "note": "Sighted a two engine bomber bearing 110 T. distance 10 miles; dove 0716; Aircraft contacts table (G) 17A (rg367-74851415/p32): NELL 1; Esc.; Sight; 8 mi.; elevation 4\u00b0; 14 knots 065 Surf.; SD cont.; same (longitude typed 120\u00b050\u00b0E)",
     "fix": ""
    },
    "geometry": {
@@ -1311,7 +1311,7 @@
     "lon_raw": "120-54E",
     "local": "1944-07-30 0914(I)",
     "page": "rg367-74851415/p20",
-    "note": "Sighted aircraft similar to \"CHERRY\" ONI 249 bearing 270 T. distance 10 miles",
+    "note": "Sighted aircraft similar to \"CHERRY\" ONI 249 bearing 270 T. distance 10 miles; Aircraft contacts table (G) 18A (rg367-74851415/p32): CHERRY 1; Esc.; Sight; 10 mi.; elevation 2\u00b0; 2 knots 225 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -1380,7 +1380,7 @@
     "lon_raw": "121-53E",
     "local": "1944-07-30 1412(I)",
     "page": "rg367-74851415/p21",
-    "note": "Sighted \"CHERRY\" ONI 249 over convoy",
+    "note": "Sighted \"CHERRY\" ONI 249 over convoy; Aircraft contacts table (G) 19A (rg367-74851415/p32): CHERRY 1; Esc.; Sight; 10 mi.; elevation 3\u00b0; 15 knots 160 Surf.; SD cont.; same",
     "fix": ""
    },
    "geometry": {
@@ -1403,7 +1403,7 @@
     "lon_raw": "121-53E",
     "local": "1944-07-30 1457(I)",
     "page": "rg367-74851415/p21",
-    "note": "Sighted our \"MAVIS\" over convoy; convoy bore 204 T. distance 12 miles",
+    "note": "Sighted our \"MAVIS\" over convoy; convoy bore 204 T. distance 12 miles; Aircraft contacts table (G) 20A (rg367-74851415/p32): MAVIS 1; Esc.; Sight-SD; 12 mi.; elevation 2\u00b0; 12 knots 160 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -1426,7 +1426,7 @@
     "lon_raw": "121-24E",
     "local": "1944-07-30 1650(I)",
     "page": "rg367-74851415/p21",
-    "note": "A third plane similar to \"DAVE\" ONI 249 had joined the air escort",
+    "note": "A third plane similar to \"DAVE\" ONI 249 had joined the air escort; Aircraft contacts table (G) 21A (rg367-74851415/p33): DAVE 1; Esc.; Sight-SD; 10 mi.; elevation 2\u00b0; 12 knots 180 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -1449,7 +1449,7 @@
     "lon_raw": "121-24E",
     "local": "1944-07-30 1655(I)",
     "page": "rg367-74851415/p21",
-    "note": "Sighted another plane",
+    "note": "Sighted another plane; Aircraft contacts table (G) 22A (rg367-74851415/p33): NELL 2; Esc.; Sight-SD; 12 mi.; elevation 2\u00b0; 12 knots 180 Surf.; SD 0; same (the narrative has 'another plane')",
     "fix": ""
    },
    "geometry": {
@@ -1702,7 +1702,7 @@
     "lon_raw": "120-26E",
     "local": "1944-07-31 0802(I)",
     "page": "rg367-74851415/p26",
-    "note": "Sighted \"MAVIS\" type patrol plane bearing 090 T. distance 8 miles",
+    "note": "Sighted \"MAVIS\" type patrol plane bearing 090 T. distance 8 miles; Aircraft contacts table (G) 23A (rg367-74851415/p33): MAVIS 1; Esc.; Sight; 8 mi.; elevation 2\u00b0; 2 knots 270 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -1725,7 +1725,7 @@
     "lon_raw": "122-25E",
     "local": "1944-08-01 0625(I)",
     "page": "rg367-74851415/p26",
-    "note": "SD contact 22 miles; did not dive (0320: proceeded through BALINTANG CHANNEL astern of PARCHE and headed for Midway)",
+    "note": "SD contact 22 miles; did not dive (0320: proceeded through BALINTANG CHANNEL astern of PARCHE and headed for Midway); Aircraft contacts table (G) 24A (rg367-74851415/p33): type --, 1; Pat.; SD; 22 mi.; 15 knots 060 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {

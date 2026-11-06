@@ -8,6 +8,10 @@
 # apart from the 31st's. JANAC not checked for HAMMERHEAD.
 # Attack 1 (29 July, three Mk 18 at a coastal oiler, all missed, no claim) has no entry: neither copy of the summary
 # mentions the oiler or its escorts; the 29th's anti-submarine entry off Formosa (J03) is 200 nm north, not hers.
+# Round 3: the 1st Surface Escort Division's July loss list (J04) has the same four sunk, with tonnage, and both damaged
+# ships slightly damaged (小破); its August chart (J05) has No. 1 Ogura Maru escorted to Corregidor. Still no times.
+# Round 4: the 21st Minesweeper Division's August diary has Dakar Maru afloat and adrift on 1-2 August (see japanese.yml);
+# it pairs with no attack of this boat's (JANAC credits STEELHEAD).
 - attack: Attack 2
   record: J01
   relation: no_loss
@@ -26,3 +30,17 @@
     column, two AKs claimed damaged or probably sunk (rg367-74822943/p32, narrative p16). The summary has two ships
     torpedoed and damaged (No. 1 Ogura Maru, Dakar Maru), but under the 31st's attack; nothing ties either to the
     30th
+- attack: Attack 2
+  record: J04
+  relation: possible
+  note: >-
+    The 1st Surface Escort Division's July statistics count MI-11 as having met submarines twice ("ミ11(2)"), which
+    fits HAMMERHEAD's attack on the 30th and the boats' on the 31st; the table doesn't date the encounters. Its loss
+    list (no dates) has four sunk and two slightly damaged from the convoy, the same ships as the summary, so it
+    doesn't show whether any loss was hers. Possible, against J01's no_loss: the summary records no loss on the 30th
+- attack: Attack 3
+  record: J04
+  relation: possible
+  note: >-
+    As Attack 2: a second encounter is counted for MI-11 in July, undated; nothing ties either damaged ship (No. 1
+    Ogura Maru, Dakar Maru, both 小破) to the 30th

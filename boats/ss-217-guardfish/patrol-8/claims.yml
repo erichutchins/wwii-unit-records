@@ -1,0 +1,58 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Attacks 1-4 were on TAMA-21C, which lost five ships before dawn on the 17th (J02) to GUARDFISH and THRESHER; the
+# Japanese record gives the convoy's attacks one span (16th 0945 to 17th 0345, J03) and six names (J03, J04) but no
+# ship's time, so no single sinking can be given to one attack from it: probable, with JANAC's credit (secondary) as
+# the postwar answer. Attack 3 (two misses, no damage claimed) has no record of its own. Attack 5's convoy is HI-69
+# (J06), whose recorded damage is ten hours earlier; Attack 6's ship is in the July loss list only (J04).
+# Attacks 1 and 2 are paired with J03, the chart's span and six names (its 0345 end gives the minutes and miles), for the
+# narrative's "five ships before dawn" (J02). Attack 4 is paired below as possible; its typed longitude, 119-4?.0E,
+# has an unread figure, so check_crossrefs lists it without minutes and miles.
+- attack: Attack 1
+  record: J03
+  relation: probable
+  note: >-
+    TAMA-21C (Takao to Manila, 20 ships in the chart, 21 transports and 8 escorts in the summary), the convoy GUARDFISH
+    found after PIRANHA's contact report on the 16th, southbound (her sheet: course 220, 7.5 kt). Fired 2342 I on the
+    16th at 18-20.5N 119-42.5E; the summary has "one more ship … at midnight" (J01), and the diary five ships sunk
+    before dawn on the 17th (J02), the span ending 0345 at 18-53N 119-44E, 32 nm north of this position (J03). Four
+    ships claimed sunk. JANAC (secondary) credits GUARDFISH with Jinzan Maru (5,215) and Mantai Maru (5,863) on the
+    16th at 18-20N 119-42E, this sheet's position (janac:6/p18), both in the diary's six (J03, J04); THRESHER is
+    credited with Sainei and Shozan Maru on the 17th (janac:6/p50), so the convoy's five are shared by two boats and
+    the Japanese record does not say whose were whose. The "large tanker" claimed: none of the six is written as a
+    tanker in these pages
+- attack: Attack 2
+  record: J03
+  relation: probable
+  note: >-
+    Fired 0042 I on the 17th at 18-17.5N 119-50.0E at a ship of the scattered convoy, seen to roll over and disappear.
+    Within J02's "before dawn on the 17th" and J03's span, 36 nm south of its 0345 end. JANAC (secondary) credits
+    GUARDFISH with Hiyama Maru (2,838) on the 17th at 18-17N 119-50E, this sheet's position (janac:6/p18); the diary
+    lists 日山丸 (2800) among the six (J03, J04). Probable, not hit: THRESHER was attacking the same convoy, and the
+    record gives no ship's time
+- attack: Attack 4
+  record: J03
+  relation: possible
+  note: >-
+    0303 I, two hits, claimed damaged. Inside the chart's attack span (0945 on the 16th to 0345 on the 17th); if the
+    ship sank she is one of the five the narrative counts before dawn (J02), but the diary names no damaged ship of
+    TAMA-21C and JANAC credits nothing at that hour. Its position (18-09.7N 119-4?.0E) has an unread figure
+- attack: Attack 5
+  record: J06
+  relation: no_loss
+  note: >-
+    HI-69 (Moji to Manila, 14 ships, with the escort carrier Shinyo, 神鷹, among its escorts in the chart's head),
+    GUARDFISH's "large fast convoy" with "two aircraft carriers" on base course 215 at 15 kt. Its line on the diary's
+    chart has marks at 0850 and 1055 I on the 18th (21-36N 119-58E, Kai-17 slightly damaged) and nothing more until
+    Manila on the 20th. Attack 5, 1822 I at 20-27N 119-11E, is 7 h 27 min after and 82 nm south-west of the 1055 mark,
+    where a 15-knot convoy bound for Manila would have been; the claimed sinking of a "naval auxiliary similar to the
+    Ayatosan Maru" has no entry in the July loss list (J04) or the summary (C16120659800 p6). The morning's damage
+    (Tenei Maru, Harima Maru, Kai-17; J05, J06) is ten hours too early to be GUARDFISH's
+- attack: Attack 6
+  record: J04
+  relation: probable
+  note: >-
+    Fired 0743 I on the 19th at 20-07N 118-20E at a convoy on 050; one ship ("similar to the Hoeisan Maru, 6,100
+    tons") claimed sunk, one damaged. The diary's July loss list has Teiryu Maru (帝竜丸, 6550) sunk by submarine (J04),
+    with no date, place or convoy; JANAC (secondary) credits GUARDFISH with Teiryu Maru (6,550) on the 19th at 20-07N
+    118-29E (janac:6/p18). Probable until a Japanese record gives her time and place: her convoy is not on the charts
+    read, and the summary has no entry for her

@@ -1,0 +1,36 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Times: THRESHER's zone H + 1 h = zone I. The sheets type all three attacks 16 July; the narrative (p37-38) puts
+# Attacks 2 and 3 on the 17th (positions.csv date_fix). All three were on one six-ship group (1 AO, 3 AK, 2 escorts,
+# course about 195-240, 8-9 kt) about 50 miles north of the ten-ship convoy GUARDFISH attacked. The Japanese record
+# treats the night as one convoy, TAMA-21C, split in two for Seattle Maru's rescue (J02); its chart's span ends at
+# THRESHER's last attack (J03). It gives no ship an hour, so each attack is probable, not hit; JANAC's credit
+# (secondary) is the postwar answer.
+- attack: Attack 1
+  record: J03
+  relation: probable
+  note: >-
+    Fired 2329 H 16 July = 0029 I on the 17th at 18-55N 119-44E (the sheet's 2330), six bow at the escort and the
+    leading AK and four stern at the second AK; one DD and two AKs claimed sunk. The chart's span ends at 0345 I on
+    the 17th at 18-53N 119-44E (J03), 3 h 16 min later and 2 nm from this position; the diary has five ships sunk
+    before dawn on the 17th by a following submarine, the convoy then sailing in two parts (J02). THRESHER's group
+    (six ships, two escorts "about the size of our DEs") is taken for one of the two parts (inferred: the record
+    gives neither part's ships); the convoy's seven escorts (J03) cover both. The record names no escort among the
+    losses. The summary's "one more ship … at midnight" (J01) may be this attack or GUARDFISH's Attack 1 (2342 I)
+- attack: Attack 2
+  record: J03
+  relation: possible
+  note: >-
+    Fired 0118 H = 0218 I on the 17th at 18-56N 119-35E (the sheet's 0119, typed 16 July), at the escort, an AK and
+    the AO; damage claimed, no sinking. 1 h 27 min before and 9 nm from the chart's 0345 end (J03). Possible: the
+    record gives no damage short of sinking for TAMA-21C, and no ship's hour
+- attack: Attack 3
+  record: J03
+  relation: probable
+  note: >-
+    Fired 0244 H = 0344 I on the 17th at 19-04N 119-26E (the sheet's 0224, typed 16 July), two at the AK and two at
+    the AO, one stern at the escort; the AK sank at once and the AO blew up and sank within 15 seconds (narrative
+    p38). The chart's span ends at 0345 I on the 17th (J03), one minute after the firing, at 18-53N 119-44E, 20 nm
+    to the south-east; the span's end position agrees better with Attack 1's. JANAC (secondary) credits THRESHER with
+    Sainei Maru (4,916) and Shozan Maru (2,838) on the 17th at 19-04N 119-26E, this attack's position (janac:6/p50);
+    both are among the chart's six (祥山, 西寧) and in the loss list as 西寧丸 (4916) and 祥山丸 (2856) (J04), neither
+    written as a tanker. JANAC chapter 4 marks the agent of both "probable" (*)

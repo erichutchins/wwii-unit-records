@@ -1,0 +1,120 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type of attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# interval in seconds since the torpedo before (typed "10 Sec."); depth_set as typed (16'); power typed "-" kept as -.
+# The sheets type the track angle once, in the first tube's column (72 P, 70P, 75S); the other tubes' track cells are
+# blank because the sheet leaves them blank. Gyro angles typed in degrees and minutes are written as decimals
+# (171°30' -> 171.5; 4°40' -> 4.67; 352°40' -> 352.67; 352°10' -> 352.17). "Type Spread" is typed "Div." in every
+# column, kept in attacks.csv's spread.
+# Times: the sheets type zone G ("0456 G"); the narrative's heading on p06 reads "Hereafter all times are ZT (-)7",
+# i.e. zone G, two hours behind the Japanese zone I.
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    Submerged periscope attack from ahead. Submerged 20,000 yards ahead of convoy at dawn. Convoy disposed in 3
+    columns zigging 40 degrees either side of base course of 180°(T). Made approach on leading ship of center
+    column. Aircraft patrol made cautious use of periscope necessary. Depth control poor due to currents causing
+    varying densities in water. At a range of about 3000 yards angle on bow was small turned out for stern tube
+    shot. Didn't fire bow tubes because of poor depth control was unable to locate target in outboard column.
+  description: >-
+    1 - Large Passenger Freighter KMFKMK similar to ASAHASAN MARU (M.C.)
+  sunk: One large passenger freighter.
+  damaged: None.
+  determined_by: >-
+    Heavy explosion at 2'-00" and 2'-10" after firing. Target was loaded with troops no depth charges dropped in
+    vicinity of target which substantiates opinion target was sunk and troops were in the water. Target was not
+    sighted after coming back to periscope depth although convoy was still in sight. One ship remained in vicinity
+    of attack for several hours and from its movements and escorts (2 DD's and one smaller escort) was probably
+    rescuing survivors. Very loud breaking up noises and minor explosions heard for about 45 minutes thru hull and
+    over sound gear. Large oil slick passed thru on following morning in vicinity of the attack.
+  target_line: "Target Draft: 21' Course: 162 Speed: 11 Range: 2100 (At firing)"
+  own_ship: "Speed: 2. Course: 090°(T) Depth: 62'. Angle: 0 (At firing)"
+  spread: Div. (each tube)
+  hits: Miss, Hit, Hit (tubes 7, 8, 9)
+  torpedo_detail: >-
+    Mark 18-1 torpedoes, Mark 8-5 exploders, actuation set Mech. (actual Miss, Mech., Mech.), Mark 18-1 warheads, TPX.
+  sea: Force 2.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  page: rg367-74832061/p26
+  table_page: rg367-74832061/p27
+  note: >-
+    Typed track 72 P; own course + gyro + 180 - target course gives about 80.5 P for tube 7 (read twice: kept as
+    typed). The narrative (p08, 0401-0456) has the target as "a large AP and the only ship in sight not smoking",
+    leading the center column, with #10 tube out of commission (bent spindle) so only three torpedoes were ready aft;
+    "Heard two explosions". The narrative (p09) names the ship "similar to Asakasan Maru page 86, ONI 208-J"; the
+    sheet types ASAHASAN MARU. The sheet's position is 18-33N 122-53E; ship contact 8 (p21, the convoy at 0250 G)
+    is 18-55N 122-46E, course 170, 11 kt, remarks "Sank one AP".
+
+- attack: Attack 2
+  type_attack: >-
+    Submerged periscope attack from ahead. Submerged shortly after daylight when plane headed toward with convoy
+    about 19,000 yards away. Convoy disposed in 3 columns with 3 or 4 ships in each column. Depth control bad
+    because of heavy swells. Aircraft patrolled ahead of convoy making periscope observations difficult. Made
+    approach on leading ship of center column. Convoy zigging 40-50° either side of base course. With range about
+    2500 yards convoy zigged giving me a good set up on leading ship of left hand column a large AO. Fired 3 MK23's
+    at AO and 3 more at second ship in column a large AK loaded with troops. Again difficult depth control made a
+    rapid set up for stern tubes impossible. Got two hit in AO and no hits in AK unless the terrific explosion heard
+    4 minutes after firing was a hit in the AK. Counted 11 and possibly 12 ships in convoy. I may have counted an
+    escort in convoy. GUARDFISH later reported convoy consisted of 9 ships.
+  description: >-
+    1 - Large AO similar to EIYO MARU MKMF (EC). 2 - Lare AK.
+  sunk: One Large AO.
+  damaged: None.
+  determined_by: >-
+    Heavy explosions at 1'44" and 1'54" after firing. C.O. saw first torpedo hit just aft of bridge. When last seen
+    target was down by the stern. Characteristic breaking up noises heard thru hull and on sound gear for over one
+    hour after the attack.
+  target_line: "Target Draft: (1) 28'. Course: 230. Speed. 7. Range: 2600. (2) 25' \" 230 \" 7 \" 3000."
+  own_ship: "Speed: 4. Course: 340°(T). Depth: 60'. Angle 1° down(At firing)."
+  spread: Div. (each tube)
+  hits: Miss, Hit, Hit, Miss, Miss, Miss (tubes 1 to 6)
+  torpedo_detail: >-
+    Mark 23 torpedoes, Mark 6-4 exploders, actuation set Mech. (actual Miss, Mech., Mech., Miss, Miss, Miss), Mark
+    16-1 warheads (tube 5 16-2), TPX.
+  sea: Force 3.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  page: rg367-74832061/p28
+  table_page: rg367-74832061/p29
+  note: >-
+    Typed track 70P; own course + gyro + 180 - target course gives about 65.3 P for tube 1 (kept as typed). Range and
+    draft per torpedo are inferred: the sheet types target (1) 28', 2600 yds and (2) 25', 3000 yds, and says three at
+    the AO and three at the AK; tubes 1-3 (gyros 4°40' to 7°30') are given target (1), tubes 4-6 (014° to 016°30')
+    target (2). The narrative (p12) times the salvoes 07-44-15 (three MK 23 at the middle tanker) and 07-44-42
+    (three at a large AP "literally loaded to gunwale with troops") and calls the targets "the middle ship in the
+    column - a tanker - and the last one (an A.P.)", where the sheet has the leading and second ships of the left
+    hand column: the two disagree. Two explosions at 250 feet during the dive; first of 62 depth charges at 0753;
+    breaking up noises about 1½ hours. The convoy (contact 9, p21): 0132 G, 20-06N 120-18E, 10 ships, course 215,
+    7 kt; the narrative (p11) says "Sent contact report", zigging between 240 and 190, zigged to 130 at 0415, back to
+    250 at 0530.
+
+- attack: Attack 3
+  type_attack: >-
+    Night surface attack from ahead. Picked up target at radar range of 22,500 yards, expecting to find a convoy.
+    Started approach but could not sight target, a single ship, until range closed to about 8,000 yards. Target
+    zigging between 330 and 045. Commenced firing 4 torpedoes on 75 starboard track with torpedo run of 2400 yards,
+    using radar ranges, TBT bearings 1° div. spread. Set-up checked perfectly throughout. The only possible
+    explantion for missing is that torpedoes ran under a shallow draft target (Depth set 16 feet). Target did not
+    turn toward until at least two minutes after firing. Heard 4 explosions 7 minutes after firing, believed to be
+    torpedoes at end of run.
+  description: Unidentified AK (UN)
+  sunk: None.
+  damaged: None.
+  determined_by: None.
+  target_line: "Target Draft: Unknown. Course: 045. Speed: 11. Range: 2800"
+  own_ship: "Speed: 10. Course: 300. Depth: 18' Angle: 1° up."
+  spread: Div. (each tube); 1° div. spread in the type of attack
+  hits: Miss, Miss, Miss, Miss (tubes 1 to 4)
+  torpedo_detail: >-
+    Mark 23 torpedoes, Mark 6-4 exploders, actuation set Mech. (actual Miss), Mark 16-1 warheads, TPX.
+  sea: Force 4.
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  page: rg367-74832061/p30
+  table_page: rg367-74832061/p31
+  note: >-
+    Typed track 75S; own course + gyro + 180 - target course gives about 67 S for tube 1 (kept as typed). The
+    narrative (p17) has 2040 "Fired four torpedoes depth set 16 feet", 2049 "Heard and felt explosion", 2050 "Heard
+    three explosions. Probably torpedoes at end of run"; the sheet has 4 explosions 7 minutes after firing. Contact 13
+    (p22): 1920 G, 20-47N 118-36E, Unid. AK, course 015, 11 kt. The captain took her for the convoy GUARDFISH had
+    reported at 0400 (course 350, speed 7) but found one pip.

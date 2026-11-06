@@ -1,0 +1,90 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# From the Navy's day-by-day summary of escort and anti-submarine events for July 1944 (大東亜戦争経過概要（護衛対潜関係）,
+# jacar:C16120659800) and the 1st Surface Escort Division's war diary for July 1944 (第一海上護衛隊戦時日誌,
+# jacar:C08030141100): its narrative (p10) and its convoy chart 別表第七 (菲島北航路, Philippines north route, p33).
+# Zone I (Tokyo time) throughout; PIRANHA's report keeps zone G (ZT -7), two hours behind.
+# J02-J04 repeat records GUARDFISH's Patrol 8 already transcribes (ss-217-guardfish/patrol-8/japanese.yml J01-J03),
+# as PIRANHA's own ids, citing the same pages; J01 is new.
+# Not yet read: the summary's fair copy (jacar:C16120644000) for the 12th, 16th and 19th; Nichiran Maru's and Seattle
+# Maru's own movement records. The 19th (Attack 3, no damage claimed): the summary's next page (C16120659800 p6) has no
+# Luzon Strait entry for the 17th-19th by GUARDFISH's reading of it; not re-read here.
+- id: J01
+  source: jacar:C16120659800
+  page: p5
+  ship: Nichiran Maru
+  event: sank
+  date: 1944-07-12
+  time: '0935'
+  zone: I
+  original: 陸軍部隊輸送ノ日蘭丸（A徴傭6503t）ハルソン島N西方ニテ敵潜ノ雷撃ヲウク … 沈没
+  translation: >-
+    Nichiran Maru (Army-requisitioned, 6503 tons), carrying Army troops, was torpedoed by an enemy submarine (N?)west
+    of Luzon … sank
+  note: >-
+    In the 12th's block of the summary, between entries timed 1330 and 0731 (the entries are not in time order).
+    "沈没" (sank) stands in the remarks column. "N西方" is read as written: the character before 西方 looks like a
+    Latin N and may be 北 (north-west). 日蘭 is read Nichiran after JANAC (secondary, janac:6/p29, "NIGHIRAN MARU").
+    The 0935 is the summary's; the diary's chart has 0745 (J02)
+- id: J02
+  source: jacar:C08030141100
+  page: p33
+  ship: Nichiran Maru
+  event: sank
+  date: 1944-07-12
+  time: '0745'
+  zone: I
+  lat_raw: 18-?9N
+  lon_raw: 122-?0E
+  original: 12日0745 N18-?9 E122-?0 日蘭丸（沈没）
+  translation: 12th 0745, 18-?9N 122-?0E, Nichiran Maru (sunk)
+  note: >-
+    The convoy chart 別表第七, a sinking mark on the line that leaves Takao on the 9th and reaches Manila about the
+    15th; the head above that line's column reads モマ01 (MOMA-01), its escort and ship-count cells blank. The second
+    figure of each minute is lost in the binding's shadow, read at 10x. A convoy east of northern Luzon that morning,
+    as PIRANHA's (southbound, course about 180)
+- id: J03
+  source: jacar:C16120659800
+  page: p5
+  convoy: TAMA-21C
+  ship: Seattle Maru
+  event: sank
+  date: 1944-07-16
+  time: '1030'
+  zone: I
+  original: >-
+    高雄ヨリマニラニ向ヘル船団（護衛艦8 輸送船21）ハルソン島北方ニテ敵潜ノ襲撃ヲウク … 1030しやとる丸（A徴傭5773t
+    部隊4300名）沈没
+  translation: >-
+    The convoy bound from Takao to Manila (8 escorts, 21 transports) was attacked by an enemy submarine north of
+    Luzon … at 1030 Seattle Maru (Army-requisitioned, 5773 tons, 4,300 troops) sank
+  note: The same entry as GUARDFISH Patrol 8's J01, the 16th
+- id: J04
+  source: jacar:C08030141100
+  page: p33
+  convoy: TAMA-21C
+  event: sank
+  date: 1944-07-16
+  time: '0945'
+  zone: I
+  lat_raw: 19-17N
+  lon_raw: 120-15E
+  original: 自16日0945 N19-17 E120-15 至17日0345 N18-53 E119-44 しやとる、日山、祥山、満泰、西寧、仁山（沈没）
+  translation: >-
+    From the 16th 0945 at 19-17N 120-15E to the 17th 0345 at 18-53N 119-44E: Seattle, Hiyama, Shozan, Mantai,
+    Sainei, Jinzan (sunk)
+  note: >-
+    The same mark as GUARDFISH Patrol 8's J03, given here with the span's start (the first attack, the morning of the
+    16th), which is PIRANHA's; the 0345 end is the attacks of the night (GUARDFISH, THRESHER)
+- id: J05
+  source: jacar:C08030141100
+  page: p10
+  convoy: TAMA-21C
+  ship: Seattle Maru
+  event: sank
+  date: 1944-07-16
+  zone: I
+  original: タマ二一C船団ハ呂宋海峡ニテ十六日朝敵潜ノ雷撃ヲ受ケ「シヤトル」丸沈没、之ガ救助ノ為船団ト二分航行中
+  translation: >-
+    Convoy TAMA-21C was torpedoed by an enemy submarine in the Luzon Strait on the morning of the 16th and Seattle
+    Maru sank; while it was sailing in two parts for her rescue …
+  note: The narrative, item (ハ); the same passage as GUARDFISH Patrol 8's J02, abridged to the morning's part

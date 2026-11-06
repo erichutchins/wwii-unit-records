@@ -11,6 +11,6 @@ max_kts: 21          # surfaced maximum, about 21 kn (Gato); the check allows 30
 dives: false
 
 map:
-  # dates: the first and last transcribed fix, not the report's departure and arrival
+  # dates: the first and last transcribed fix (here the report's departure from Pearl and arrival at Fremantle, port positions)
   periods:
-    - { n: 1, name: First War Patrol, dates: 24 Jun 1944 – 1 Aug 1944 }
+    - { n: 1, name: First War Patrol, dates: 6 Jun 1944 – 17 Aug 1944 }

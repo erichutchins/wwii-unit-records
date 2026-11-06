@@ -1,5 +1,24 @@
 [
  {
+  "key": "ss-200-thresher",
+  "alias": "thresher",
+  "name": "THRESHER",
+  "hull": "SS-200",
+  "class": "Tambor",
+  "kind": "submarine",
+  "plain": "a fleet submarine of the Tambor class: her thirteenth war patrol, in a coordinated attack group with GUARDFISH, PIRANHA and APOGON in the Luzon Strait, June-July 1944",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-200-thresher/tracks.geojson",
+  "periods": [
+   {
+    "n": 13,
+    "name": "Thirteenth War Patrol",
+    "dates": "14 Jun 1944 – 27 Jul 1944"
+   }
+  ]
+ },
+ {
   "key": "ss-215-growler",
   "alias": "growler",
   "name": "GROWLER",
@@ -147,11 +166,16 @@
   "class": "Gato",
   "silhouette": "gato",
   "kind": "submarine",
-  "plain": "a fleet submarine of the Gato class: her sixth war patrol, in a pack with PARCHE and HAMMERHEAD south of Formosa in 1944",
+  "plain": "a fleet submarine of the Gato class: her third war patrol, north-west of Truk in 1943, and her sixth, in a pack with PARCHE and HAMMERHEAD in the Luzon Strait in 1944",
   "max_kts": 21,
   "dives": false,
   "geojson": "boats/ss-280-steelhead/tracks.geojson",
   "periods": [
+   {
+    "n": 3,
+    "name": "Third War Patrol",
+    "dates": "5 Oct 1943 – 7 Oct 1943"
+   },
    {
     "n": 6,
     "name": "Sixth War Patrol",
@@ -205,6 +229,28 @@
   ]
  },
  {
+  "key": "ss-308-apogon",
+  "alias": "apogon",
+  "name": "APOGON",
+  "hull": "SS-308",
+  "class": "Balao",
+  "silhouette": "balao",
+  "kind": "submarine",
+  "plain": "a fleet submarine of the Balao class: her fourth war patrol, in GUARDFISH's pack with THRESHER and PIRANHA in Luzon Strait in 1944, ended by a Japanese freighter's ramming",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-308-apogon/tracks.geojson",
+  "periods": [
+   {
+    "n": 4,
+    "name": "Fourth War Patrol",
+    "dates": "19 Jun 1944 – 26 Jul 1944",
+    "area": "Luzon Strait",
+    "co": "W. P. SCHOENI"
+   }
+  ]
+ },
+ {
   "key": "ss-312-burrfish",
   "alias": "burrfish",
   "name": "BURRFISH",
@@ -240,7 +286,7 @@
    {
     "n": 1,
     "name": "First War Patrol",
-    "dates": "24 Jun 1944 – 1 Aug 1944"
+    "dates": "6 Jun 1944 – 17 Aug 1944"
    }
   ]
  },
@@ -421,6 +467,26 @@
     "name": "SOUTH CHINA SEA",
     "lon": 116.0,
     "lat": 17.5
+   }
+  ]
+ },
+ {
+  "key": "ss-389-piranha",
+  "alias": "piranha",
+  "name": "PIRANHA",
+  "hull": "SS-389",
+  "class": "Balao",
+  "silhouette": "balao",
+  "kind": "submarine",
+  "plain": "a fleet submarine of the Balao class, on her first war patrol, in a pack with GUARDFISH, THRESHER and APOGON in the Luzon Strait",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-389-piranha/tracks.geojson",
+  "periods": [
+   {
+    "n": 1,
+    "name": "First War Patrol",
+    "dates": "14 Jun 1944 – 8 Aug 1944"
    }
   ]
  },

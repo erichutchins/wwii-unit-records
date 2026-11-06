@@ -1,0 +1,28 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Attack 1 is the first attack on the oiler Kazahaya, which TINOSA attacked twice later the same day and which sank at
+# 1830 I (ss-283-tinosa/patrol-3/claims.yml). STEELHEAD claimed her damaged, "later reported sunk by U.S.S. TINOSA"
+# (attack sheet, rg367-74851315/p22).
+# Attacks 2-5 (21 October, 4 and 5 November) are not yet transcribed and have no entries.
+- attack: Attack 1
+  record: J01
+  relation: hit
+  note: >-
+    Fired four stern torpedoes at 02-36-30 K (0136 I) at 10-26N 146-29.5E, a single unescorted tanker, two hits and a
+    dud; the order has Kazahaya torpedoed once at 0244 I at 10-30N 146-37E, about 8 nm away. Hit, not probable: no
+    other boat is known to have attacked her before TINOSA's 1101 I, and STEELHEAD's narrative heard the target
+    "running irregularly" after the hits, as the order has her able to proceed. The times are 68 minutes apart
+    (japanese.yml header); the place, the lone tanker and the day carry the pairing
+- attack: Attack 1
+  record: J02
+  relation: hit
+  note: >-
+    The Navy's summary starts the attacks at 0140 I, four minutes after STEELHEAD fired (0136 I). It repeats the
+    Combined Fleet's signals (J03), so it is the same witness, not a second one
+- attack: Attack 1
+  record: J03
+  relation: probable
+  note: >-
+    She sank at 1830 I, after TINOSA's three attacks (ss-283-tinosa/patrol-3:Attack 2, Attack 3A-3F). STEELHEAD's hit
+    began it ("from 0100 yesterday", the first of four engagements) and slowed her, but the loss can't be given to one
+    attack. JANAC credits her jointly to TINOSA and STEELHEAD (janac:6/p56); ComSubPac credited STEELHEAD with a tanker
+    damaged, 10,500 tons (endorsement, rg367-74851315/p37)

@@ -1,0 +1,26 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Times: PIRANHA's zone G + 2 h = zone I. Attack 3 (19 July, four misses, no damage claimed) has no record found.
+- attack: Attack 1
+  record: J02
+  relation: hit
+  note: >-
+    Fired 0456 G = 0656 I on the 12th at 18-33N 122-53E, three Mk 18s at a large passenger freighter leading the
+    center column of a southbound convoy; two hits claimed and a sinking. The diary's chart marks Nichiran Maru
+    (日蘭丸) sunk at 0745 I on the 12th, 49 minutes later, at 18-?9N 122-?0E (the minutes partly lost; the degrees
+    agree), on the line of a convoy from Takao to Manila (head モマ01); the summary (J01) has her torpedoed and sunk,
+    timed 0935. She carried Army troops, as PIRANHA saw ("loaded with troops"). No other submarine is known to have
+    attacked that convoy that morning; GUARDFISH and THRESHER were to the north (PIRANHA's p07). JANAC (secondary)
+    credits PIRANHA with Nichiran Maru (6,504) on the 12th at 18-33N 122-53E, this sheet's position (janac:6/p29).
+    GUARDFISH's report has her attack heard at 0848 I, about two hours after the firing
+- attack: Attack 2
+  record: J04
+  relation: hit
+  note: >-
+    Fired 0744 G = 0944 I on the 16th (salvoes 07-44-15 and 07-44-42 G) at 19-26N 120-18E, three Mk 23s at a large
+    AO and three at a large AK loaded with troops; two hits on the AO claimed. The diary's chart begins TAMA-21C's
+    attacks at 0945 I on the 16th at 19-17N 120-15E (J04): one minute and 9.4 nm from the sheet's position. The
+    summary has Seattle Maru (しやとる丸, Army-requisitioned, 5773 t, 4,300 troops) sunk at 1030 I (J03), 46 minutes
+    after the firing; the narrative has her sunk by the morning's attack (J05). PIRANHA took her for a tanker ("Large
+    AO similar to EIYO MARU"); the Japanese record has a transport carrying troops. PIRANHA had sent the convoy's
+    contact report at 0132 G = 0332 I; GUARDFISH heard it at 0353 I. JANAC (secondary) credits PIRANHA with Seattle
+    Maru (5,773) on the 16th at 19-26N 120-18E (janac:6/p29)

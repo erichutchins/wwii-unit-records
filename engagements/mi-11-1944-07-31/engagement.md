@@ -55,17 +55,25 @@ the night, on one GMT clock.
 ## Outcome
 
 The Navy's July summary: four ships sunk on the 31st (Yoshino, Manko, Fuso and Koei Maru, the last named plainly in
-the summary's fair copy) and two
-torpedoed and damaged (No. 1 Ogura Maru and Dakar Maru); the convoy withdrew for a time to Pangui Bay. No Japanese
-record found gives a time or place for any one ship, so which attack sank which is open: each claim is paired as
-possible in the boats' files. JANAC's postwar list puts three ships at PARCHE's position and two at STEELHEAD's,
-which are the boats' own; it has Dakar Maru sunk. HAMMERHEAD claimed one ship sunk and two damaged on the 30th; the
-summary's entry is for the 31st only.
+the summary's fair copy) and two torpedoed and damaged (No. 1 Ogura Maru and Dakar Maru); the convoy withdrew for a
+time to Pangui Bay. The 1st Surface Escort Division's own July tables give the same four sunk with their tonnage
+(Koei Maru 10,000, the largest), class both damaged ships as slightly damaged, and count MI-11 as meeting
+submarines twice that month, which fits HAMMERHEAD's attack on the 30th and the boats' on the 31st. Its August chart
+has Kazan Maru escorting the torpedoed No. 1 Ogura Maru to shelter at Santa Cruz and on to Corregidor, and the
+escorts at Manila from about 3 August. No Japanese record found gives a time or place for any one ship, so which
+attack sank which is open: each claim is paired as possible in the boats' files. JANAC's postwar list puts three
+ships at PARCHE's position and two at STEELHEAD's, which are the boats' own; it has Dakar Maru sunk, where both
+Japanese lists have her damaged, and the 21st Minesweeper Division's August diary has her afloat: Minesweeper 39, of
+the escort division's six-ship hunting group (formed on 28 July), reached her adrift at 1320 on 2 August and saw her
+in to the anchorage at Calayan Island. HAMMERHEAD claimed one ship sunk and two damaged on the 30th; the summary has no
+loss that day, and the escort division's count of two encounters doesn't say whether either cost a ship.
 
 ## The convoy
 
 Takao to Manila, sailed at 0500 on 29 July with sixteen ships and six escorts, carrying Army units and other
-transport. It had come south to Takao from 13 to 21 July. Its own record: [[convoy:mi-11]].
+transport. It had come south to Takao from 13 to 21 July. Harukaze joined it on 1 August for the last leg, Shimushu
+went on to a rescue for it, and the escorts' rows read Manila from about the 3rd. Shimushu then took (ミ一一) on from
+Manila to Miri, about 7-12 August. Its own record: [[convoy:mi-11]].
 
 ## The pack
 

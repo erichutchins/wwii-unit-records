@@ -1,0 +1,1750 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 13,
+    "start": "1944-06-14T23:00Z",
+    "end": "1944-07-28T03:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -160.625,
+      24.1167
+     ],
+     [
+      -162.6917,
+      25.575
+     ],
+     [
+      -166.1583,
+      26.625
+     ],
+     [
+      -167.4,
+      27.0167
+     ],
+     [
+      -171.55,
+      28.4417
+     ],
+     [
+      -172.7167,
+      28.8167
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      -177.3833,
+      28.2
+     ],
+     [
+      179.9583,
+      27.8917
+     ],
+     [
+      178.0,
+      27.5783
+     ],
+     [
+      175.7033,
+      26.9833
+     ],
+     [
+      169.55,
+      25.9167
+     ],
+     [
+      165.0,
+      25.0
+     ],
+     [
+      164.6667,
+      24.9
+     ],
+     [
+      163.9333,
+      24.5917
+     ],
+     [
+      160.5833,
+      25.275
+     ],
+     [
+      159.3333,
+      25.4167
+     ],
+     [
+      155.2,
+      25.7167
+     ],
+     [
+      153.3167,
+      25.85
+     ],
+     [
+      150.1667,
+      24.4667
+     ],
+     [
+      142.7,
+      20.825
+     ],
+     [
+      141.0833,
+      20.7667
+     ],
+     [
+      137.3367,
+      21.0667
+     ],
+     [
+      135.9917,
+      21.0167
+     ],
+     [
+      133.15,
+      21.0917
+     ],
+     [
+      132.0417,
+      21.1183
+     ],
+     [
+      127.8967,
+      21.2883
+     ],
+     [
+      126.0,
+      21.3167
+     ],
+     [
+      123.15,
+      21.2617
+     ],
+     [
+      122.225,
+      21.5417
+     ],
+     [
+      122.1083,
+      21.4117
+     ],
+     [
+      121.0533,
+      21.37
+     ],
+     [
+      121.0917,
+      21.5367
+     ],
+     [
+      120.0333,
+      20.9167
+     ],
+     [
+      119.875,
+      21.2083
+     ],
+     [
+      119.1583,
+      21.0917
+     ],
+     [
+      119.2383,
+      21.1
+     ],
+     [
+      119.9283,
+      21.0967
+     ],
+     [
+      119.0333,
+      21.1767
+     ],
+     [
+      119.95,
+      21.1533
+     ],
+     [
+      122.3583,
+      20.9667
+     ],
+     [
+      121.7217,
+      21.2117
+     ],
+     [
+      123.15,
+      21.55
+     ],
+     [
+      123.1417,
+      21.5167
+     ],
+     [
+      123.0583,
+      19.985
+     ],
+     [
+      123.0583,
+      20.0883
+     ],
+     [
+      122.4,
+      19.275
+     ],
+     [
+      122.2533,
+      19.5917
+     ],
+     [
+      119.8867,
+      19.7167
+     ],
+     [
+      118.7167,
+      19.9
+     ],
+     [
+      119.1483,
+      19.755
+     ],
+     [
+      119.7333,
+      18.9167
+     ],
+     [
+      119.5833,
+      18.9333
+     ],
+     [
+      119.4333,
+      19.0667
+     ],
+     [
+      133.5333,
+      22.0567
+     ],
+     [
+      -177.3833,
+      28.2
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Pearl",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-14T23:00Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-06-14 1330(VW)",
+    "page": "rg367-74855459/p29",
+    "note": "Underway for THIRTEENTH WAR PATROL as a member of the coordinated attack group \"Mickey Finns\", Captain W.V. O'Regan C.T.G. in GUARDFISH; enroute MIDWAY in company with GUARDFISH and PIRANHA; escorted by PC 486 until dark (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 1",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-15T16:00Z",
+    "lat_raw": "24-07N",
+    "lon_raw": "160-37.5W",
+    "local": "1944-06-15 1600(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 1: greatest depth 300', layer 100', gradient -4 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -160.625,
+     24.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 2",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-16T02:00Z",
+    "lat_raw": "25-34.5N",
+    "lon_raw": "162-41.5W",
+    "local": "1944-06-16 0200(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 2: 200', layer 60', -3 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -162.6917,
+     25.575
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 3",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-16T16:00Z",
+    "lat_raw": "26-37.5N",
+    "lon_raw": "166-09.5W",
+    "typed": "26-37.5N 16?-09.5W",
+    "local": "1944-06-16 1600(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 3: 300', layer 200', -4 deg",
+    "fix": "third digit faint; 166 fits BT 2 and BT 4"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -166.1583,
+     26.625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 4",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-16T21:00Z",
+    "lat_raw": "27-01N",
+    "lon_raw": "167-24W",
+    "local": "1944-06-16 2100(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 4: 300', layer 60', -11 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -167.4,
+     27.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 5",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-17T16:00Z",
+    "lat_raw": "28-26.5N",
+    "lon_raw": "171-33W",
+    "local": "1944-06-17 1600(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 5: 300', layer 80', -10 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -171.55,
+     28.4417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 6",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-17T21:00Z",
+    "lat_raw": "28-49N",
+    "lon_raw": "172-43W",
+    "local": "1944-06-17 2100(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 6: 315', layer 100', -10 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -172.7167,
+     28.8167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Midway",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-18T21:40Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-06-18 0940(Y)",
+    "page": "rg367-74855459/p29",
+    "note": "Moored Submarine Base, MIDWAY ISLAND. Received 21,000 gallons fuel oil and 600 gallons lube oil (port position; day typed 1? , read as 18)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Midway",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-19T07:25Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-06-18 1925(Y)",
+    "page": "rg367-74855459/p29",
+    "note": "Underway for rendezvous with GUARDFISH, PIRANHA, and APOGON (port position; left at 1525 with GUARDFISH and PIRANHA, returned for a PPI transformer, received it at the entrance buoys 1845)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 7",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-19T17:00Z",
+    "lat_raw": "27-53.5N",
+    "lon_raw": "179-57.5E",
+    "local": "1944-06-19 1700(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 7: 300', layer 140', -6.5 deg (19 June dropped from the ship's calendar on crossing the 180th meridian, p29)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     179.9583,
+     27.8917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 8",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-20T02:00Z",
+    "lat_raw": "27-34.7N",
+    "lon_raw": "178-00E",
+    "local": "1944-06-20 0200(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 8: 300', layer 80', -6 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     178.0,
+     27.5783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 9",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-20T17:00Z",
+    "lat_raw": "26-59N",
+    "lon_raw": "175-42.2E",
+    "local": "1944-06-20 1700(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 9: 300', layer 160', -5 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     175.7033,
+     26.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 10",
+    "patrol": 13,
+    "on_track": false,
+    "utc": "1944-06-21T03:00Z",
+    "lat_raw": "26-22.5N",
+    "lon_raw": "172-77E",
+    "local": "1944-06-21 0300(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 10: 300', layer 70', -12 deg",
+    "fix": "minutes typed 77 (impossible); left off the track"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     173.2833,
+     26.375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 11",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-21T19:00Z",
+    "lat_raw": "25-55N",
+    "lon_raw": "169-33E",
+    "local": "1944-06-21 1900(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 11: 300', layer 10', -12 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     169.55,
+     25.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "rendezvous",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-22T16:30Z",
+    "lat_raw": "25-00N",
+    "lon_raw": "165-00E",
+    "local": "1944-06-23 0330(L)",
+    "page": "rg367-74855459/p30",
+    "note": "Rendezvoused with GUARDFISH, PIRANHA and APOGON. Took station as southern ship in line of bearing 000-180 T, distance 15 miles and set course for patrol area",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     165.0,
+     25.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 12",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-22T19:30Z",
+    "lat_raw": "24-54N",
+    "lon_raw": "164-40E",
+    "local": "1944-06-22 1930(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 12: 300', layer 55', -12 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     164.6667,
+     24.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 13",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-22T23:00Z",
+    "lat_raw": "24-35.5N",
+    "lon_raw": "163-56E",
+    "local": "1944-06-22 2300(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 13: 300', layer 30', -16 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     163.9333,
+     24.5917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 14",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-23T19:00Z",
+    "lat_raw": "25-16.5N",
+    "lon_raw": "160-35E",
+    "local": "1944-06-23 1900(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 14: 300', layer 70', -12 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     160.5833,
+     25.275
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 15",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-23T23:00Z",
+    "lat_raw": "25-25N",
+    "lon_raw": "159-20E",
+    "local": "1944-06-23 2300(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 15: 300', layer 100', -11 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     159.3333,
+     25.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 16",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-24T20:00Z",
+    "lat_raw": "25-43N",
+    "lon_raw": "155-12E",
+    "local": "1944-06-24 2000(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 16: 300', layer 20', -17 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     155.2,
+     25.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 17",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-25T05:09Z",
+    "lat_raw": "25-51N",
+    "lon_raw": "153-19E",
+    "local": "1944-06-25 0509(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 17: 330', layer 35', -20 deg",
+    "fix": "typed 6/24 0509, after BT 16 (6/24 2000) and 2 deg further west: the 25th by its place in the table and the track"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.3167,
+     25.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 18",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-25T20:18Z",
+    "lat_raw": "24-28N",
+    "lon_raw": "150-10E",
+    "local": "1944-06-25 2018(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 18: 300', layer 35', -14 deg (longitude's third digit faint, read as 150)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.1667,
+     24.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 19",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-27T20:18Z",
+    "lat_raw": "20-49.5N",
+    "lon_raw": "142-42E",
+    "local": "1944-06-27 2018(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 19: 300', layer 50', -9 deg (search for the downed aviators north of PAJAROS, 27-28 June, p30)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.7,
+     20.825
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 20",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-28T06:25Z",
+    "lat_raw": "20-46N",
+    "lon_raw": "141-05E",
+    "local": "1944-06-28 0625(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 20: 290', layer 100', -6 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.0833,
+     20.7667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 21",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-29T00:00Z",
+    "lat_raw": "21-04N",
+    "lon_raw": "137-20.2E",
+    "local": "1944-06-29 0000(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 21: 300', layer 30', -9 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.3367,
+     21.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 22",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-29T07:00Z",
+    "lat_raw": "21-01N",
+    "lon_raw": "135-59.5E",
+    "local": "1944-06-29 0700(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 22: 250', layer 110', -7 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.9917,
+     21.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 23",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-29T20:30Z",
+    "lat_raw": "21-05.5N",
+    "lon_raw": "133-09E",
+    "local": "1944-06-29 2030(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 23: 300', layer 115', -6 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.15,
+     21.0917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 24",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-30T02:00Z",
+    "lat_raw": "21-07.1N",
+    "lon_raw": "132-02.5E",
+    "local": "1944-06-30 0200(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 24: 300', layer 50', -7 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     132.0417,
+     21.1183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 25",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-06-30T20:30Z",
+    "lat_raw": "21-17.3N",
+    "lon_raw": "127-53.8E",
+    "typed": "21-17.3N 1?7-53.8E",
+    "local": "1944-06-30 2030(Z)",
+    "page": "rg367-74855459/p59",
+    "note": "Density layers (C) 25: 300', layer 140', -5 deg",
+    "fix": "second digit faint; 137 would put her back east of BT 21; 127 fits BT 24 and BT 26"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.8967,
+     21.2883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 26",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-01T01:00Z",
+    "lat_raw": "21-19N",
+    "lon_raw": "126-00E",
+    "local": "1944-07-01 0100(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 26: 300', layer 100', -7 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.0,
+     21.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 27",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-01T20:30Z",
+    "lat_raw": "21-15.7N",
+    "lon_raw": "123-09E",
+    "local": "1944-07-01 2030(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 27: 300', layer 80', -4 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.15,
+     21.2617
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 28",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-02T20:30Z",
+    "lat_raw": "21-32.5N",
+    "lon_raw": "122-13.5E",
+    "local": "1944-07-02 2030(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 28: 300', layer 60', -4 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.225,
+     21.5417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 29",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-03T02:00Z",
+    "lat_raw": "21-24.7N",
+    "lon_raw": "122-06.5E",
+    "local": "1944-07-03 0200(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 29: 300', layer 140', -3 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.1083,
+     21.4117
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 1",
+    "patrol": 13,
+    "on_track": false,
+    "utc": "1944-07-03T03:30Z",
+    "lat_raw": "21-15N",
+    "lon_raw": "122-10E",
+    "local": "1944-07-03 1130(H)",
+    "page": "rg367-74855459/p41",
+    "note": "PC 4000 yds, est. course 150 T 10 kn; avoided",
+    "fix": "ship-contact positions are the target, not THRESHER"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.1667,
+     21.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 30",
+    "patrol": 13,
+    "on_track": false,
+    "utc": "1944-07-03T20:30Z",
+    "lat_raw": "21-15.5N",
+    "lon_raw": "121-05E",
+    "local": "1944-07-03 2030(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 30: 300', layer 60, -4 deg (hour's second digit faint)",
+    "fix": "time illegible (2?30); 2030 assumed (the table's evening cards are mostly 2030), so the row is kept off the track; BT 31 at 2300 is 7 mi away"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.0833,
+     21.2583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 31",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-03T23:00Z",
+    "lat_raw": "21-22.2N",
+    "lon_raw": "121-03.2E",
+    "local": "1944-07-03 2300(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 31: 200', layer - -, -2 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.0533,
+     21.37
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 3",
+    "patrol": 13,
+    "on_track": false,
+    "utc": "1944-07-04T00:05Z",
+    "lat_raw": "21-31.2N",
+    "lon_raw": "121-10.5E",
+    "local": "1944-07-04 0805(H)",
+    "page": "rg367-74855459/p41",
+    "note": "PC 12000 yds, est. course 130 T 10 kn; avoided",
+    "fix": "ship-contact positions are the target, not THRESHER"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.175,
+     21.52
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 32",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-04T02:00Z",
+    "lat_raw": "21-32.2N",
+    "lon_raw": "121-05.5E",
+    "local": "1944-07-04 0200(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 32: 300', layer 190', -2 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.0917,
+     21.5367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 33",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-04T20:45Z",
+    "lat_raw": "20-55N",
+    "lon_raw": "120-02E",
+    "local": "1944-07-04 2045(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 33: 315', layer 100', -10 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.0333,
+     20.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 34",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-05T05:25Z",
+    "lat_raw": "21-12.5N",
+    "lon_raw": "119-52.5E",
+    "local": "1944-07-05 0525(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 34: 300', layer - -, -5 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.875,
+     21.2083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 35",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-05T20:16Z",
+    "lat_raw": "21-05.5N",
+    "lon_raw": "119-09.5E",
+    "local": "1944-07-05 2016(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 35: 315', layer 90', -12 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.1583,
+     21.0917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 36",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-06T05:14Z",
+    "lat_raw": "21-06N",
+    "lon_raw": "119-14.3E",
+    "local": "1944-07-06 0514(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 36: 300', layer 110', -14 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.2383,
+     21.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 37",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-06T21:35Z",
+    "lat_raw": "21-05.8N",
+    "lon_raw": "119-55.7E",
+    "local": "1944-07-06 2135(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 37: 300', layer 90', -17 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.9283,
+     21.0967
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 38",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-07T05:20Z",
+    "lat_raw": "21-10.6N",
+    "lon_raw": "119-02E",
+    "local": "1944-07-07 0520(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 38: 300', layer 140', -12 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.0333,
+     21.1767
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 39",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-07T22:00Z",
+    "lat_raw": "21-09.2N",
+    "lon_raw": "119-57E",
+    "local": "1944-07-07 2200(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 39: 320', layer 140', gradient faint",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.95,
+     21.1533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 40",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-08T21:00Z",
+    "lat_raw": "20-58N",
+    "lon_raw": "122-21.5E",
+    "local": "1944-07-08 2100(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 40: 300', layer 60', -5 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.3583,
+     20.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 41",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-09T04:40Z",
+    "lat_raw": "21-12.7N",
+    "lon_raw": "121-43.3E",
+    "local": "1944-07-09 0440(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 41: 300', layer 40', -11 deg (evening of 9 July closed Y'AMI ISLAND for an SJ radar check, p31)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.7217,
+     21.2117
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 42",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-09T21:04Z",
+    "lat_raw": "21-33N",
+    "lon_raw": "123-09E",
+    "local": "1944-07-09 2104(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 42: 310', layer 60', -7 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.15,
+     21.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 43",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-10T04:20Z",
+    "lat_raw": "21-31N",
+    "lon_raw": "123-08.5E",
+    "local": "1944-07-10 0420(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 43: 300', layer 120', -8 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.1417,
+     21.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 44",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-10T21:24Z",
+    "lat_raw": "19-59.1N",
+    "lon_raw": "123-03.5E",
+    "local": "1944-07-10 2124(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 44: 300', layer 80', -12 deg",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.0583,
+     19.985
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 45",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-11T04:40Z",
+    "lat_raw": "20-05.3N",
+    "lon_raw": "123-03.5E",
+    "local": "1944-07-11 0440(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 45: 310', layer 130', -5 deg (0000 H 11 July commenced patrol in next assigned area, p31)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.0583,
+     20.0883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 4",
+    "patrol": 13,
+    "on_track": false,
+    "utc": "1944-07-11T13:30Z",
+    "lat_raw": "19-38N",
+    "lon_raw": "123-08E",
+    "typed": "14-38N 1?3-08E",
+    "local": "1944-07-11 2130(H)",
+    "page": "rg367-74855459/p41",
+    "note": "3 AP, 4 DD(EU) (the 4 overtyped, perhaps on a 2) 24000 yds, est. course 175 T 11 kn; no attack possible. Narrative p31: SJ radar contact on a group of at least six (6) ships, bearing 275 T, range 24,000 yards; contact report receipted by GUARDFISH and APOGON, not PIRANHA; 2145 enemy course 275, speed 14; p32: zig-zag 30 deg either side of base course 175, speed 11, ten-minute legs",
+    "fix": "ship-contact positions are the target, not THRESHER. Latitude circled in pencil on the scan, with the note \"Probably 1938N. See Guardfish and Apogon\"; 14-38N is east of Samar. Longitude's second digit is struck (1?3), 123 fitting BT 45 (123-03.5E)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.1333,
+     19.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 46",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-11T22:04Z",
+    "lat_raw": "19-16.5N",
+    "lon_raw": "122-24E",
+    "typed": "19-16.5N 12?-24E",
+    "local": "1944-07-11 2204(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 46: 300', layer 140', -4 deg (0604 H 12 July: after losing the convoy to the near escort, 0455 H submerged)",
+    "fix": "second or third digit faint (12?); 122 fits BT 47 (122-25E)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.4,
+     19.275
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 5",
+    "patrol": 13,
+    "on_track": false,
+    "utc": "1944-07-12T07:00Z",
+    "lat_raw": "19-45.3N",
+    "lon_raw": "121-52E",
+    "typed": "14-45.3N 121-52E",
+    "local": "1944-07-12 1500(H)",
+    "page": "rg367-74855459/p41",
+    "note": "PC 9000 yds; evaded (narrative p34: 1500 H sighted patrol boat, closest range 4,000 yards)",
+    "fix": "ship-contact positions are the target, not THRESHER. Latitude circled in pencil on the scan like Ship 4's; 14-45N is inside Luzon. 19- assumed from the pencil note on Ship 4 and BT 46-47"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.8667,
+     19.755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 6",
+    "patrol": 13,
+    "on_track": false,
+    "utc": "1944-07-13T09:01Z",
+    "lat_raw": "19-28N",
+    "lon_raw": "122-14E",
+    "local": "1944-07-13 1701(H)",
+    "page": "rg367-74855459/p41",
+    "note": "PC 10000 yds; evaded (narrative p34: sighted and avoided small patrol boat, closest range 8,000 yards)",
+    "fix": "ship-contact positions are the target, not THRESHER"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.2333,
+     19.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 48",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-13T21:00Z",
+    "lat_raw": "19-35.5N",
+    "lon_raw": "122-15.2E",
+    "typed": "19-35.5N 12?-1?.2E",
+    "local": "1944-07-13 2100(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 48: 300', layer 140', -4 deg",
+    "fix": "faint; read 122-15.2 on the half-page crop, the second and fifth digits not certain on the zoom"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.2533,
+     19.5917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 49",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-14T21:00Z",
+    "lat_raw": "19-43N",
+    "lon_raw": "119-53.2E",
+    "typed": "19-43N 119-5?.2E",
+    "local": "1944-07-14 2100(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 49: 300', layer 200', -12 deg (0500 H 15 July, enroute the rendezvous)",
+    "fix": "minutes' second digit 3 or 8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.8867,
+     19.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "rendezvous",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-15T03:30Z",
+    "lat_raw": "19-54N",
+    "lon_raw": "118-43E",
+    "typed": "19-54N 11?-43E",
+    "local": "1944-07-15 1130(H)",
+    "page": "rg367-74855459/p35",
+    "note": "In rendezvous position; took up scouting line on line of bearing 090 T, distance 18 miles, THRESHER western ship, speed 8 knots, course 180 T. The position is the one ordered at 2054 H 14 July: \"rendezvous in position 19-54N, 11?-43E at 150300Z\" (p34)",
+    "fix": "third digit of the longitude broken (11?), read as 8: 113-43E is 360 mi west of BT 49"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.7167,
+     19.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 50",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-15T23:00Z",
+    "lat_raw": "19-45.3N",
+    "lon_raw": "119-08.9E",
+    "local": "1944-07-15 2300(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 50: 300', layer 160', -11 deg (0700 H 16 July: 0307 H had set course 090 T to intercept PIRANHA's convoy, 108 miles away)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.1483,
+     19.755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 7",
+    "patrol": 13,
+    "on_track": false,
+    "utc": "1944-07-16T08:00Z",
+    "lat_raw": "19-45N",
+    "lon_raw": "119-48E",
+    "local": "1944-07-16 1600(H)",
+    "page": "rg367-74855459/p41",
+    "note": "Smoke of 1 AO, 3 AK, 2 DD 35000 yds, est. course 230 T 9 kn; tracked; attacked, sunk 1 DD, 3 AK, 1 AO, probably sunk 1 DD. Narrative p36: smoke to the southeast, range about 35,000 yards; tracked on course 257 speed 8; 1710 large unidentified plane over convoy; 2300 radar contact, course 195 speed 8, column with an escort on each beam about 1,000 yards out",
+    "fix": "ship-contact positions are the target, not THRESHER"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.8,
+     19.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-16T15:30Z",
+    "lat_raw": "18-55N",
+    "lon_raw": "119-44E",
+    "local": "1944-07-16 2330(H)",
+    "page": "rg367-74855459/p45",
+    "note": "Torpedo attack No. 1: 6 bow (3 at the DD escort, 3 at the leading AK) and 4 stern (at the 2nd AK); 6 hits typed; claims 1 DD and 2 AKs sunk. Narrative p37: fired 2329 H, sighted four and heard six explosions 2332",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.7333,
+     18.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-16T17:19Z",
+    "lat_raw": "18-56N",
+    "lon_raw": "119-35E",
+    "local": "1944-07-17 0119(H)",
+    "page": "rg367-74855459/p48",
+    "note": "Torpedo attack No. 2: 5 bow (at the DD and the AK), 3 stern (at the AO); 6 hits typed; claims DD, AK and AO damaged or probably sunk. Narrative p37-38: fired 0118 H 17 July",
+    "fix": "sheet types July 16; the narrative (p37-38) fires it at 0118 H on 17 July, after attack No. 1 at 2329 H on the 16th"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.5833,
+     18.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 3",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-16T18:24Z",
+    "lat_raw": "19-04N",
+    "lon_raw": "119-26E",
+    "local": "1944-07-17 0224(H)",
+    "page": "rg367-74855459/p51",
+    "note": "Torpedo attack No. 3: 4 bow (2 at the AK, 2 at the AO), 1 stern (at the escort); 4 hits typed; claims the AK and the AO sunk. Narrative p38: commenced firing 0244 H 17 July; AK hit 0246, AO hit 0247 and sank within 15 seconds; escort's pip lost 0258",
+    "fix": "sheet types July 16 0224 H; the narrative fires it at 0244 H on 17 July"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.4333,
+     19.0667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 51",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-21T21:30Z",
+    "lat_raw": "22-03.4N",
+    "lon_raw": "133-32E",
+    "local": "1944-07-21 2130(Z)",
+    "page": "rg367-74855459/p60",
+    "note": "Density layers (C) 51: 150', layer - -, 0 deg (enroute MIDWAY; 1900 H 17 July set course for MIDWAY, p39)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.5333,
+     22.0567
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "arrive Midway",
+    "patrol": 13,
+    "on_track": true,
+    "utc": "1944-07-28T03:00Z",
+    "lat_raw": "28-12N",
+    "lon_raw": "177-23W",
+    "local": "1944-07-27 1500(Y)",
+    "page": "rg367-74855459/p40",
+    "note": "Arrived MIDWAY (port position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -177.3833,
+     28.2
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# From the Navy's day-by-day summary of escort and anti-submarine events for July 1944 (大東亜戦争経過概要（護衛対潜関係）,
+# jacar:C16120659800) and the 1st Surface Escort Division's war diary for July 1944 (第一海上護衛隊戦時日誌,
+# jacar:C08030141100): its narrative (作戦指導, p10), its July loss list (別表第一, p27) and its convoy chart
+# 別表第七 (菲島北航路, Philippines north route, p33). Zone I (Tokyo time) throughout; THRESHER's report keeps zone H
+# (ZT -9), one hour behind.
+# One convoy: TAMA-21C (Takao to Manila), which GUARDFISH attacked the same night 32-36 nm to the south (GUARDFISH's
+# Patrol 8, japanese.yml J01-J04, transcribes these same pages; the entries are repeated here as THRESHER's own ids).
+# The narrative has the convoy sailing in two parts after Seattle Maru's sinking (J02): THRESHER's six ships (1 AO,
+# 3 AK, 2 escorts) and GUARDFISH's ten are taken for the two parts (inferred; the diary gives neither part's ships).
+# The chart gives no hour to any of the six ships sunk, so it does not say which boat sank which.
+# Searched and not found: the general July summary's fair copy for 7-20 July (jacar:C16120643900, pp. 20-22 read, the
+# 10th-11th) is the Navy's operations summary, with no convoy entries on the pages read; the 16th-17th not yet read
+# there. Not yet read: the designated-ship movement tables for Sainei Maru and Shozan Maru (each ship's own log would
+# give the hour and position of her loss).
+- id: J01
+  source: jacar:C16120659800
+  page: p5
+  convoy: TAMA-21C
+  ship: Seattle Maru
+  event: sank
+  date: 1944-07-16
+  time: '1030'
+  zone: I
+  original: >-
+    高雄ヨリマニラニ向ヘル船団（護衛艦8 輸送船21）ハルソン島北方ニテ敵潜ノ襲撃ヲウク … 1030しやとる丸（A徴傭5773t
+    部隊4300名）沈没 尚状況不明ナルモ同船団中夜半更ニ1隻沈没セルモノノ如キ模様アリ
+  translation: >-
+    The convoy bound from Takao to Manila (8 escorts, 21 transports) was attacked by an enemy submarine north of
+    Luzon … at 1030 Seattle Maru (Army-requisitioned, 5773 tons, 4,300 troops) sank. The situation is not yet clear,
+    but it appears that one more ship of the same convoy sank at midnight
+  note: >-
+    The 16th, as GUARDFISH Patrol 8's J01. The morning's sinking is PIRANHA's (JANAC, secondary). "One more ship …
+    at midnight" may be GUARDFISH's Attack 1 (2342 I) or THRESHER's Attack 1 (0029 I on the 17th); the entry does
+    not say
+- id: J02
+  source: jacar:C08030141100
+  page: p10
+  convoy: TAMA-21C
+  event: sank
+  date: 1944-07-17
+  zone: I
+  original: >-
+    タマ二一C船団ハ呂宋海峡ニテ十六日朝敵潜ノ雷撃ヲ受ケ「シヤトル」丸沈没ノ為之ガ救助船団ト二分航行中十七日未明追躡セル
+    敵潜ノ攻撃ヲ受ケ五隻沈没セリ 依ッテ事後研究会ヲ開催セシメ参謀一名ヲ「マニラ」ニ派遣セリ
+  translation: >-
+    Convoy TAMA-21C was torpedoed by an enemy submarine in the Luzon Strait on the morning of the 16th, and Seattle
+    Maru sank; because of this, while it was sailing divided in two, the ships rescuing her and the convoy, it was
+    attacked before dawn on the 17th by an enemy submarine that had followed it, and five ships sank. A meeting to
+    study the attack afterwards was therefore ordered, and a staff officer sent to Manila
+  note: >-
+    The narrative, item (ハ), re-read at 500 dpi: "沈没ノ為之ガ救助船団ト二分" (the convoy split into the group rescuing
+    her and the convoy). GUARDFISH Patrol 8's J02 has "沈没、之ガ救助ノ為船団ト二分": the ノ為 stands after 沈没, not
+    after 救助, and 救助 runs straight into 船団. Neither part's ships, size or position is given. The diary speaks of
+    one following submarine; two boats attacked (GUARDFISH, THRESHER). Five, with Seattle Maru six: the six names of
+    J03 and J04
+- id: J03
+  source: jacar:C08030141100
+  page: p33
+  convoy: TAMA-21C
+  event: sank
+  date: 1944-07-17
+  time: '0345'
+  zone: I
+  lat_raw: 18-53N
+  lon_raw: 119-44E
+  original: 自16日0945 N19-17 E120-15 至17日0345 N18-53 E119-44 しやとる、日山、祥山、満泰、西寧、仁山（沈没）
+  translation: >-
+    From the 16th 0945 at 19-17N 120-15E to the 17th 0345 at 18-53N 119-44E: Seattle, Hiyama, Shozan, Mantai,
+    Sainei, Jinzan (sunk)
+  note: >-
+    The convoy chart 別表第七, beside a sinking mark on the line of タマ21C (head: 20 ships, operations party (一),
+    seven escorts, the cell read 海一, 海二, 草垣, 掃?三?, 前?島, 円島, 駆?六二, partly legible; re-read at 500 dpi with
+    no figure settled further). One line only leaves Takao on the 14th and reaches Manila about the 19th: the chart
+    does not draw the split of J02. The span's end, 0345 I on the 17th at 18-53N 119-44E, is one minute after
+    THRESHER's last firing (Attack 3, 0344 I) and 2 nm from her Attack 1's typed position (18-55N 119-44E); GUARDFISH's
+    last attack was at 0303 I, 32-36 nm further south. 日山 is read Hiyama after JANAC (secondary)
+- id: J04
+  source: jacar:C08030141100
+  page: p27
+  event: loss_list
+  date: 1944-07
+  zone: I
+  original: >-
+    被害船舶名（イ）敵潜ニ依ル被害 沈没（二〇隻）… 満泰丸（5863）、西寧丸（4916）、仁山丸（5215）… しやとる丸（5773）
+    日山丸（2800）、祥山丸（2856）
+  translation: >-
+    Ships damaged: (a) by enemy submarines, sunk (20 ships) … Mantai Maru (5863), Sainei Maru (4916), Jinzan Maru
+    (5215) … Seattle Maru (5773), Hiyama Maru (2800), Shozan Maru (2856)
+  note: >-
+    The July summary table 別表第一, its notes (記事) item 2, gross tons in brackets as written; as GUARDFISH Patrol 8's
+    J04, given here for TAMA-21C's six only. No ship in the list is written as a tanker

@@ -1,0 +1,53 @@
+# The attack data sheet's words, as typed. Hand-edited; the numbers are in attacks.csv.
+# The sheet is two pages: `page` (time, position, target and own-ship data, type of attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed: courses degrees (T), speeds kts, ranges yds, depths and drafts ft; interval in seconds
+# since the torpedo before (typed blank, 8, 8, 9, 15, 13). The sheet types the gyro once for the salvo ("356° to 010°"),
+# so attacks.csv's gyro is blank; the hits are typed once for the salvo, so hit is blank (`hits` below).
+
+- attack: Attack 1
+  description: >-
+    8 or 9 ship convoy with at least 6 escorts including Fleet destroyers. Convoy composed of large passenger
+    freighter and other fast modern AKs. Fired 6 torpedoes at center column consisting of one large passenger
+    freighter and two overlapping AKs.
+  damaged: >-
+    1 unidentified AK - 4000 tons (UN) 1 large AK - 7500 tons (EU). This target damaged by ramming on port quarter.
+  determined_by: >-
+    Heard 3 torpedo hits 2 Min. - 45 secs. after firing. Time indicates hits on far port column. Convoy scattered to
+    starboard and was rammed by large AK of center column.
+  target_line: Target Draft 20 Course 180° Speed 13 Range 2000 (at firing)
+  own_ship: Speed 2.5 Course 070° T Depth 62' Angle 0°
+  type_attack: >-
+    This was first attack on convoy which had been picked up by THRESHER. APOGON made end around and was in position
+    as starboard flanker. GUARDFISH in contact on port side. Clear night, moonrise at 2345. Moon about 50% full. Due
+    to visibility and escorts attack was made by periscope only. Submerged at 17,000 range. Was in position ahead of
+    starboard column on 70° track for ships of center column. Binocular and TDC range checked at 2,000 yards. Fired
+    six bow tubes small gyros spread by point of aim, three at large passenger freighter, fourth at overlapping ship
+    ahead and beyond, fifth at overlapping ship astern and sixth back at MOT of first target. It is believed that
+    all torpedoes missed center column and three hits were obtained on ships of far port column. No explosions seen.
+    Misses were probably caused by a zig toward after firing. After torpedo explosions large AK of center column
+    turned on red truck light and changed course to about 290 or 300° T. I thought he would pass well clear but he
+    evidently sighted periscope wake and turned back to ram us. From our own damage believe he should have a large
+    hole in port quarter. This attack probably would have been more successful if firing had been delayed another
+    minute to get better track.
+  gyro: 356° to 010°
+  hits: Total of 3 hits heard commencing 2 min. 45 sec. after firing No. 1.
+  torpedo_detail: >-
+    Mk. 23 torpedoes, Mk. 6-4 exploders, actuation Contact, Mk. 16-1 war heads, Torpex.
+  spread: >-
+    Longitudinal on center target, MOT, bow and stern. One for right freighter, one for left freighter and last at
+    MOT of center freighter.
+  sea: "2"
+  overhaul: U.S.S. BUSHNELL, Majuro Lagoon.
+  remarks: All H.S. 3 timed hits.
+  page: rg367-74801303/p41
+  table_page: rg367-74801303/p42
+  note: >-
+    The sheet types 0301 I; the narrative (p32) has 0255 "Swung right to a 70° track on center ships" and 0304
+    "Commenced firing 6 Mk. 23 torpedoes forward, estimated range 2,000 yards. Gyros between 355 and 010" (355 there,
+    356 on the sheet). Narrative 0306-45 "heard the first of three explosions 8 to 10 seconds apart", which it takes
+    for hits in the far port column; the ramming followed (no time typed; the depth charges a few seconds after,
+    seven in all). The sheet's 2 min. 45 sec. from firing matches 0304 + 2-45 = 0306-45, so the narrative's 0304 is
+    the firing time and the sheet's 0301 is three minutes early. The sheet's position 19-11N 122-38E sits about 40
+    miles south of the 2314 contact (19-51N 123-04E), as a convoy making 13-14 kts on 180 for four hours would.
+    Target data are the one solution typed for the center column (draft 20, course 180, speed 13, range 2000).

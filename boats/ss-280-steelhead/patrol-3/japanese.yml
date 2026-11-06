@@ -1,0 +1,69 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# The oiler Kazahaya (風早), 6 October 1943. The entries repeat TINOSA's (ss-283-tinosa/patrol-3/japanese.yml, which
+# has the full header: the 2nd Destroyer Squadron's war diary telegram log, jacar:C08030101300, and the Navy's
+# day-by-day escort and anti-submarine summary, jacar:C16120658600) where they bear on STEELHEAD's attack, under this
+# patrol's own ids and citing the same pages: J01 = TINOSA's J01, J02 = her J08, J03 = her J06. They count once with
+# TINOSA's, not as a second witness. Zone I (Tokyo time), which the Imperial Navy kept; STEELHEAD's report keeps K, an
+# hour ahead of I.
+# The times disagree: STEELHEAD fired at 02-36-30 K (attack sheet, rg367-74851315/p22), which is 0136 I, and the order
+# of J01 has her torpedoed at 0244 I, 68 minutes later. The summary (J02) starts the attacks at 0140 I and her own
+# telegram (J03) counts from 0100: both fit STEELHEAD's 0136 I, not 0244. Which of the order's 0244 or the boat's time is
+# wrong is not settled here; no other submarine is known to have attacked her before TINOSA at 1101 I.
+- id: J01
+  source: jacar:C08030101300
+  page: p22
+  ship: Kazahaya
+  event: torpedoed
+  date: 1943-10-06
+  time: '0244'
+  zone: I
+  lat_raw: 10-30N
+  lon_raw: 146-37E
+  original: YB信令第三六號 二水戦司令官ハ速ニ駆逐艦一隻ヲ派遣風早（〇二四四一〇度三〇分北一四六度三七分東ニ於テ雷撃一ヲ受ク自力航行可能）ノ護衛ニ任ゼシムベシ
+  translation: >-
+    YB signal order No. 36: the commander of the 2nd Destroyer Squadron is to send one destroyer at once to escort
+    Kazahaya (torpedoed once at 0244 at 10°30'N 146°37'E; able to proceed under her own power)
+  note: >-
+    TINOSA's J01, the order of 6 October 0830. The position is about 8 nm east-north-east of the 10-26N 146-29.5E
+    STEELHEAD's attack sheet types (rg367-74851315/p22). One torpedo hit, where the sheet has two hits and a dud
+    (Hit, Hit, Dud, Miss) and the narrative a third torpedo striking the forecastle without exploding (p04); "able to
+    proceed under her own power" fits the narrative: 0238 K "Target opened fire with bow gun and turned towards us",
+    and the heavier screws "running irregularly" heard after 0246 K (p05). The time is 68 minutes after STEELHEAD's
+    0136 I (0236 K): see the header
+- id: J02
+  source: jacar:C16120658600
+  page: p03
+  ship: Kazahaya
+  event: torpedoed
+  date: 1943-10-06
+  time: '0140'
+  zone: I
+  original: 特務艦風早（一二〇〇〇屯 一六．五節 TO）ハ単独トラックニ向ケ航行中トラックノNW二五〇′ニテ敵潜ノ襲撃ヲウク（GF） 敵一隻ヲ乗切リ有効ナル攻撃ヲ加ヘシモ前後五本ノ魚雷ヲ蒙リ一八三〇沈没
+  translation: >-
+    The special service ship Kazahaya (12,000 tons, 16.5 knots, TO), on passage alone to Truk, was attacked by an
+    enemy submarine 250 miles north-west of Truk (GF). She ran over one of the enemy and attacked it effectively, but
+    took five torpedoes in all and sank at 1830
+  note: >-
+    TINOSA's J08 (handwritten; numerals as written in Arabic figures on the page). `time` is the entry's, 0140, the
+    start of the attacks: four minutes after STEELHEAD fired at 0136 I (0236 K). "On passage alone" fits the sheet's
+    "Single tanker, unescorted". Compiled from the Combined Fleet's signals, so it counts once with J03. The 250 miles
+    north-west of Truk is the day's later attacks (TINOSA's, near 10-20N 148-30E), not STEELHEAD's position, which is
+    about 360 nm from Truk
+- id: J03
+  source: jacar:C08030101300
+  page: p26
+  ship: Kazahaya
+  event: sank
+  date: 1943-10-06
+  time: '1830'
+  zone: I
+  original: 二四駆機密第〇七〇二三〇番電 一、昨〇一〇〇以後敵潜水艦六隻ヲ見四回ニ亘リテ交戦被雷計五 二、一七二七罐室被雷一八三〇沈没 三、機密図書処分完了 四、一一〇五第三回交戦ノ際敵潜水艦一隻ヲ乗切リ爆雷攻撃効果確実
+  translation: >-
+    1. From 0100 yesterday sighted six enemy submarines and engaged them four times; torpedo hits five in all. 2. 1727
+    boiler room torpedoed, 1830 sank. 3. Disposal of secret documents completed. 4. At 1105, in the third
+    engagement, ran over one enemy submarine; depth-charge attack effective, certain
+  note: >-
+    TINOSA's J06, telegram of 7 October 0230, sender 風早 (Kazahaya). "From 0100 yesterday" opens her day with
+    STEELHEAD's attack (0136 I). The 1105 engagement she calls the third is TINOSA's Attack 2, so the first and second
+    were before it; only STEELHEAD's is known. Of the five hits, J01 gives STEELHEAD one and TINOSA's morning attack
+    three (TINOSA's J02). She sank at 1830 I, sixteen hours after STEELHEAD's attack and about 120 nm east of it

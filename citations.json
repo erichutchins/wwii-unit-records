@@ -1,4 +1,23 @@
 {
+ "74801303": {
+  "title": "USS Apogon, April 1944 - July 1944",
+  "series": "U.S. Submarine War Patrol Reports",
+  "series_id": 305243,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/74801303",
+  "pages": [
+   24,
+   30,
+   31,
+   34,
+   35,
+   37,
+   38,
+   39,
+   40,
+   41
+  ]
+ },
  "74802211": {
   "title": "USS Atule, January 1945 - March 1945",
   "series": "U.S. Submarine War Patrol Reports",
@@ -294,11 +313,27 @@
   "record_group": 38,
   "url": "https://catalog.archives.gov/id/74822943",
   "pages": [
+   3,
+   4,
+   6,
+   8,
+   10,
+   11,
+   13,
+   14,
    15,
+   21,
    23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
    30,
    31,
    32,
+   34,
    37,
    38
   ]
@@ -409,6 +444,27 @@
    24,
    26,
    28
+  ]
+ },
+ "74832061": {
+  "title": "USS Piranha, June 1944 - August 1944",
+  "series": "U.S. Submarine War Patrol Reports",
+  "series_id": 305243,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/74832061",
+  "pages": [
+   3,
+   7,
+   10,
+   19,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   28,
+   30
   ]
  },
  "74834293": {
@@ -620,6 +676,20 @@
    34
   ]
  },
+ "74851315": {
+  "title": "USS Steelhead, September 1943 - February 1944",
+  "series": "U.S. Submarine War Patrol Reports",
+  "series_id": 305243,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/74851315",
+  "pages": [
+   4,
+   5,
+   19,
+   20,
+   22
+  ]
+ },
  "74851415": {
   "title": "USS Steelhead, June 1944 - August 1944",
   "series": "U.S. Submarine War Patrol Reports",
@@ -655,6 +725,25 @@
    37,
    38,
    40
+  ]
+ },
+ "74855459": {
+  "title": "USS Thresher, March 1944 - July 1944",
+  "series": "U.S. Submarine War Patrol Reports",
+  "series_id": 305243,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/74855459",
+  "pages": [
+   29,
+   30,
+   35,
+   40,
+   41,
+   45,
+   48,
+   51,
+   59,
+   60
   ]
  },
  "74856215": {

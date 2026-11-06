@@ -4,11 +4,12 @@ hull: SS-280
 class: Gato
 silhouette: gato     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
 kind: submarine
-plain: "a fleet submarine of the Gato class: her sixth war patrol, in a pack with PARCHE and HAMMERHEAD south of Formosa in 1944"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+plain: "a fleet submarine of the Gato class: her third war patrol, north-west of Truk in 1943, and her sixth, in a pack with PARCHE and HAMMERHEAD in the Luzon Strait in 1944"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
 max_kts: 21          # surfaced maximum, about 21 kn (Gato); the check allows 30 nm of DR on top
 dives: false
 
 map:
   # dates: the first and last transcribed fix, not the report's departure and arrival
   periods:
+    - { n: 3, name: Third War Patrol, dates: 5 Oct 1943 – 7 Oct 1943 }   # so far only 5-7 October is transcribed
     - { n: 6, name: Sixth War Patrol, dates: 17 Jun 1944 – 16 Aug 1944 }

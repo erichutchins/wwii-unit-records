@@ -14,6 +14,19 @@
 # Base Force diary (C08030266800) has September 1944 onward, not July; the August summary (C16120659900, pp. 1-7)
 # has no entry for No. 1 Ogura Maru or Dakar Maru at a first read (pp. 278-284 of the copy). Found: the 2nd
 # Demobilization Bureau's copy of the summary (J04), with the fourth name legible.
+# Round 3 (5 Nov 2026): the 1st Surface Escort Division's July statistics and loss list (J05 here; p27) and its August
+# chart (J06; C08030141400 p19): still no time or place for any one ship.
+# I-29, 26 July 1944 (J07, J08): not MI-11, and not STEELHEAD's attack. Her ship contacts table (positions.csv,
+# "Ship 6", 1655 I, 20-10N 121-56E) has an explosion and white smoke 12 miles off, "later identified as Jap sub sunk
+# by SAWFISH"; PARCHE saw it too (ss-384-parche/patrol-2, 1655). The Navy's July summary has I-29 torpedoed in the
+# Luzon Strait at 1645 and lost (J07; its fair copy J08). Context for what STEELHEAD witnessed: SAWFISH's patrol is
+# not in the records yet, so there is no attack to pair it with. Searched and not found (5 Nov 2026): the 6th Fleet
+# (submarines) war diary for July 1944 and a Navy list of submarines lost (JACAR by 第六艦隊 戦時日誌, 伊号第二九潜水艦,
+# 潜水艦 喪失, 1944-06 to 1944-12: no hits).
+# Round 4 (5 Nov 2026): the 21st Minesweeper Division's August diary (J09; C08030211100 p3) has Dakar Maru afloat and
+# adrift on 1-2 August, taken in to Calayan Island; the escort division's August narrative (J10; C08030141400 p11)
+# gives the hunting group of six formed on 28 July. Searched, no hits: JACAR for 占守, 華山丸, 春風, 屋代, 草垣 war
+# diaries or action reports (1944-07 to 1944-09). Next: the 21st Minesweeper Division's July diary (in C08030210300?).
 - id: J01
   source: jacar:C16120659800
   page: p9
@@ -87,3 +100,144 @@
     the letter before D not read; perhaps escort vessels) formed to concentrate on the area, and a judgement that
     anti-submarine work in the Luzon Strait had not yet achieved what was hoped. The hunting group is not tied to
     MI-11 in the text. Event status: the losses are J02 and J03
+- id: J05
+  source: jacar:C08030141100
+  page: p27
+  convoy: MI-11
+  event: loss_list
+  date: 1944-07-31
+  original: >-
+    1.敵ト遭遇船団名 … ミ11(2) … / 2.被害船舶名 (イ)敵潜ニ依ル被害 沈没（20隻） 小破（5隻） 12?,176噸 … 扶桑丸(81?5)，光栄丸(1,0000)，
+    吉野丸(8990)，万光丸(4471) … （小破）聖川丸，海17，第一小倉丸，だかあ丸，日永丸
+  translation: >-
+    1. Convoys that met the enemy: … MI-11 (2) … 2. Ships damaged: (a) by enemy submarines, sunk (20 ships), slightly
+    damaged (5 ships), 12?,176 tons … Fuso Maru (81?5), Koei Maru (10,000), Yoshino Maru (8990), Manko Maru (4471)
+    … (Slightly damaged) Hijirikawa Maru, Kaibokan 17, No. 1 Ogura Maru, Dakar Maru, Hiei Maru
+  note: >-
+    The 1st Surface Escort Division's July 1944 diary, 別表第一 (its convoy-escort statistics for the month), the
+    notes under the table; read at 400-600 dpi. The month's loss list, not dated by ship: no time or position.
+    What it adds to the Navy's summary (J01-J04): MI-11 met submarines twice in July ("ミ11(2)"); the four sunk with
+    their tonnage, the fourth written 光栄丸 (as in J04) with 1,0000 (so written: 10,000); and No. 1 Ogura Maru and
+    Dakar Maru (written だかあ丸) classed 小破, slightly damaged, not sunk. Fuso Maru's third figure is not certain
+    (8195 is JANAC's figure). The total tonnage's third figure is not read. The other sunk ships on the list are
+    other convoys'. The count of two encounters fits HAMMERHEAD's attack on the 30th and the boats' on the 31st,
+    but the table doesn't date them
+- id: J06
+  source: jacar:C08030141400
+  page: p19
+  convoy: MI-11
+  event: status
+  date: 1944-08-01
+  zone: I
+  original: >-
+    華山丸：（ミ一一）＝（第一小倉丸 被雷船）＝ サンタクルスニ避泊 ＝（第一小倉丸 被雷船）＝ コレヒドール /
+    占守：（ミ一一救助）… マニラ / 春風：（單）（ミ一一）… マニラ
+  translation: >-
+    Kazan Maru: (MI-11), then (No. 1 Ogura Maru, the torpedoed ship), sheltered at Santa Cruz, then (No. 1 Ogura
+    Maru, the torpedoed ship) to Corregidor. Shimushu: (MI-11 rescue) … Manila. Harukaze: (single), (MI-11) …
+    Manila
+  note: >-
+    The 1st Surface Escort Division's August 1944 diary, chart 麾下艦船部隊ノ行動 (其ノ二), days 1-10 (read right to
+    left). Kazan Maru stays with MI-11 into the 1st, then escorts the torpedoed No. 1 Ogura Maru, shelters at Santa
+    Cruz (on the Luzon coast) about the 4th and brings her on to Corregidor about the 5th-6th: so No. 1 Ogura Maru
+    stayed afloat and reached Manila Bay. Shimushu is on "MI-11 rescue" from the 1st to about the 3rd, and Harukaze
+    joins MI-11 on the 1st; both rows then read Manila from about the 3rd, which is the nearest this chart comes to
+    the convoy's arrival. The day columns are read from the column rules; the times on the small stamps are not
+    read. Dakar Maru is not named on this page
+- id: J07
+  source: jacar:C16120659800
+  page: p8
+  ship: I-29
+  event: sank
+  date: 1944-07-26
+  time: '1645'
+  zone: I
+  original: I29 ルソン海峡ニ於テ敵潜ノ雷撃2本ヲ受ク … 8SS/6F … I29ハ沈没（生存者ニ依リ判明）
+  translation: >-
+    I-29 was hit by two torpedoes from an enemy submarine in the Luzon Strait. [Unit:] 8th Submarine Squadron, 6th
+    Fleet. [Result:] I-29 sunk (established from survivors)
+  note: >-
+    The Navy's day-by-day summary for July 1944 (大東亜戦争経過概要（護衛対潜関係）), the 26th; read at 400-700 dpi.
+    The zone is not written: the summary keeps Tokyo time. No position beyond "the Luzon Strait". The torpedo count
+    is written as a figure that reads 2 (its fair copy, J08, writes 二本). 敵潜 is written with the abbreviated 潜.
+    The time is ten minutes before STEELHEAD's 1655 I sighting of an explosion and white smoke 12 miles off at
+    20-10N 121-56E, and PARCHE's two heavy explosions and a third at 1655: the same event. Which boat fired is not
+    in the entry. Finding aids only (postwar, secondary): JANAC's chapter 3 lists I 29, submarine, 2,212 tons, sunk
+    26 July 1944 at 20-10N 121-50E by a United States submarine (janac:3/p13); combinedfleet (combinedfleet:I-29)
+    names SAWFISH (four torpedoes, three hits, 20-10N 121-55E, about 1700) and has I-29 on her way from Singapore
+    to Kure, with one survivor reaching shore. The record's "two torpedoes" and "survivors" stand as written
+- id: J08
+  source: jacar:C16120644000
+  page: p19
+  ship: I-29
+  event: sank
+  date: 1944-07-26
+  time: '1645'
+  zone: I
+  original: イ29「ルソン」海峡ニ於テ敵潜ノ雷撃二本ヲ受ク … 菲蘭 … イ29沈没（生存者ニ依リ?判明）
+  translation: >-
+    I-29 was hit by two torpedoes from an enemy submarine in the Luzon Strait. [Area:] the Philippines. [Result:]
+    I-29 sunk (established from survivors)
+  note: >-
+    太平洋戦争経過概要 9/10, the 2nd Demobilization Bureau's fair copy of the Navy's summary, the 26th (sheet 50).
+    The same text as J07, so it counts once with it (a copy, not a second witness). It writes the torpedo count as
+    二本, settling J07's figure, and the area 菲蘭 (Philippines); the unit beside it is written as 8?/6F. One
+    character before 判明 is not read
+- id: J09
+  source: jacar:C08030211100
+  page: p3
+  convoy: MI-11
+  ship: Dakar Maru
+  event: rescue
+  date: 1944-08-01
+  zone: I
+  original: >-
+    （一日）掃三十八：二四〇 遭難者ヲ揚陸 一三二五 だかあ丸 救??地点ニ向ケ「パングイ」湾出港 / 掃三十九：二四二 遭難者ヲ機帆船ニ移ス、
+    だかあ丸 福寿丸 警戒 / 所在：掃三八 バングイ湾 一三二五 … 19-14N 121-38E；掃三九 バングイ湾 … 二四?? 19-09N 121-16E /
+    （二日）掃三十九：一三二〇 だかあ丸漂流位置ニ到着 一三四〇 だかあ丸 福寿丸 泊地附近 掃蕩任ニ就ク、一五五〇 燃料補給ノ為単艦ニテ高雄ニ回航 /
+    所在：カラヤン島 仮泊（掃三八）、カラヤン（掃三九）
+  translation: >-
+    (1st) Minesweeper 38: [0]240, landed survivors; 1325, left Pangui Bay for the place of Dakar Maru's [rescue; two
+    characters not read]. Minesweeper 39: [0]242, transferred survivors to sailing vessels; guarded Dakar Maru and
+    Fukuju Maru. Position: Minesweeper 38, Pangui Bay at 1325, then 19-14N 121-38E; Minesweeper 39, Pangui Bay, then
+    at about midnight [the time not read] 19-09N 121-16E. (2nd) Minesweeper 39: 1320, arrived at Dakar Maru's
+    drifting position; 1340, took up a hunting patrol off the anchorage for Dakar Maru and Fukuju Maru; 1550, left
+    alone for Takao to refuel. Position: Calayan Island, temporary anchorage (Minesweeper 38), Calayan (Minesweeper 39)
+  note: >-
+    The 21st Minesweeper Division's war diary for August 1944 (第二十一掃海隊戦時日誌), 作戦経過概要, days 1-2; read at
+    330-600 dpi. Minesweepers 38 and 39 were the 1st subgroup of the escort division's submarine-hunting group formed
+    on 28 July (J10), so this is the hunting group at work after the attack. What it adds: Dakar Maru (だかあ丸, as the
+    escort division's loss list writes her) was still afloat on 1-2 August, adrift ("漂流位置", her drifting
+    position), and was taken in to the anchorage at Calayan Island, north of Luzon, with Fukuju Maru (福寿丸, not
+    otherwise in the convoy's records); so she was not sunk on the 31st, as JANAC has her, but damaged, as the Navy's
+    summary and the loss list say. Both minesweepers had survivors aboard, landed at or moved from Pangui Bay, where
+    the convoy had withdrawn. The drifting position itself is not written; 19-09N 121-16E is Minesweeper 39's
+    position at about midnight on the 1st, 13 h 20 min before she reached the drifting ship, so not the place of the
+    attack. The first figure of the two early times (written 二四〇 and 二四二) is not seen; 0240 and 0242 are the
+    likely readings. The two characters after 救 are not read
+- id: J10
+  source: jacar:C08030141400
+  page: p11
+  convoy: MI-11
+  event: status
+  date: 1944-07-28
+  zone: I
+  original: >-
+    敵潜掃蕩隊トシテ軍隊区分ヲ以テ護衛艦四隻ヲ一隊トシ掃蕩隊ハ船団ノ附近ニ不即不離間接直接護衛ニ任ジツツ機宜行動敵潜ノ捕捉攻撃ニ任ズルコトト定メタリ
+    編制左ノ如シ / 七月二十八日 第一掃蕩小隊 第二一掃海隊（掃三八・掃三九） 指揮官 21??司令 / 第二掃蕩小隊 朝風 屋代 指揮官 屋代艦長 /
+    第三掃蕩小隊 草垣 松輪 指揮官 草垣艦長 / 八月六日附 第一掃蕩小隊ニ鴻ヲ編入 …
+  translation: >-
+    It was decided to form submarine-hunting groups of four escort vessels each by the organisation order; the
+    hunting groups were to keep near the convoys without being tied to them, giving indirect and direct escort, and
+    to act as occasion offered to catch and attack enemy submarines. Organisation as follows. 28 July: 1st hunting
+    subgroup, 21st Minesweeper Division (Minesweepers 38 and 39), commander the division's commanding officer; 2nd
+    hunting subgroup, Asakaze and Yashiro, commander Yashiro's captain; 3rd hunting subgroup, Kusagaki and Matsuwa,
+    commander Kusagaki's captain. From 6 August, Otori added to the 1st subgroup …
+  note: >-
+    The 1st Surface Escort Division's war diary for August 1944, narrative, (三) 作戦指導 (イ) 掃蕩隊; read at 220 dpi.
+    Six ships in three pairs from 28 July, the day before MI-11 sailed: this is the "?D×6" hunting group beside the
+    31 July entry in the Navy's summary (J04's copy), which can now be read as six escort vessels. The text does not
+    name MI-11; the minesweepers' own diary (J09) has two of the six rescuing survivors and guarding Dakar Maru after
+    the attack, and the August chart (p19) has Asakaze, Matsuwa, Yashiro and Kusagaki sailing from Takao with an
+    "(ミ一三掃蕩隊)", the hunting group for MI-13, in the first days of August. The commander's unit abbreviation
+    after 21 is not read

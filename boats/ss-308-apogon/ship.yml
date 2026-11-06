@@ -1,0 +1,14 @@
+# USS APOGON (SS-308). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: APOGON
+hull: SS-308
+class: Balao          # the patrol report doesn't name her class; SS-308 is a Balao-class boat (Portsmouth Navy Yard), DANFS "Apogon"
+silhouette: balao     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
+kind: submarine
+plain: "a fleet submarine of the Balao class: her fourth war patrol, in GUARDFISH's pack with THRESHER and PIRANHA in Luzon Strait in 1944, ended by a Japanese freighter's ramming"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+max_kts: 20.5         # surfaced maximum, about 20.25 kn (Balao); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 4, name: Fourth War Patrol, dates: 19 Jun 1944 – 26 Jul 1944, area: Luzon Strait, co: W. P. SCHOENI }

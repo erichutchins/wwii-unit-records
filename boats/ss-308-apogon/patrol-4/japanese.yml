@@ -1,0 +1,45 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# From the Navy's day-by-day summary of escort and anti-submarine events for July 1944 (大東亜戦争経過概要（護衛対潜関係）,
+# jacar:C16120659800) and the 1st Surface Escort Division's war diary for July 1944 (第一海上護衛隊戦時日誌,
+# jacar:C08030141100): its convoy chart 別表第七 (菲島北航路, Philippines north route, p33). Zone I (Tokyo time)
+# throughout, as APOGON's report is.
+# One convoy, the one PIRANHA attacked at 0656 I the same morning (PIRANHA's Patrol 1, japanese.yml J01-J02, reads
+# these same entries; they are repeated here as APOGON's own ids). Its line on the chart is headed モマ01 (MOMA-01).
+# Searched and not found: anything in the summary's 12th block (C16120659800 p5) near 0300 (its entries are timed
+# 0100, 1330, 0935 and 0731: Guam, the Southwest Area Fleet's flag, Nichiran Maru, and a ship west of Palau); no ship
+# damaged by ramming or by torpedo on the 12th in either record; the chart's MOMA-01 head has its escort and
+# ship-count cells blank. The general summary's fair copy for 7-20 July (jacar:C16120643900, pp. 20-22, the
+# 10th-11th) has no convoy entries on the pages read; its 12th not yet read. Not yet read: Nichiran Maru's own
+# movement record (the designated-ship movement tables, 第5回 タ～ワの部? にちらん is filed under ナ).
+- id: J01
+  source: jacar:C16120659800
+  page: p5
+  ship: Nichiran Maru
+  event: sank
+  date: 1944-07-12
+  time: '0935'
+  zone: I
+  original: 陸軍部隊輸送ノ日蘭丸（A徴傭6503t）ハルソン島N西方ニテ敵潜ノ雷撃ヲウク … 沈没
+  translation: >-
+    Nichiran Maru (Army-requisitioned, 6503 tons), carrying Army troops, was torpedoed by an enemy submarine (N?)west
+    of Luzon … sank
+  note: >-
+    As PIRANHA Patrol 1's J01 (the time re-read at 400 dpi; the first figure after 0 is open at the top and may be 7,
+    read 9 as PIRANHA's). The only submarine entry in the 12th's block of the summary; nothing near APOGON's 0304
+- id: J02
+  source: jacar:C08030141100
+  page: p33
+  convoy: MOMA-01
+  ship: Nichiran Maru
+  event: sank
+  date: 1944-07-12
+  time: '0745'
+  zone: I
+  lat_raw: 18-?9N
+  lon_raw: 122-?0E
+  original: 12日0745 N18-?9 E122-?0 日蘭丸（沈没）
+  translation: 12th 0745, 18-?9N 122-?0E, Nichiran Maru (sunk)
+  note: >-
+    As PIRANHA Patrol 1's J02, re-read at 600 dpi: the second figure of each minute is lost in the binding's shadow.
+    A sinking mark on the line that leaves Takao on the 9th and reaches Manila about the 15th, headed モマ01 (read at
+    400 dpi); the line's escort and ship-count cells are blank. The only mark on that line

@@ -8,6 +8,12 @@
 # repeats their reports and doesn't time any ship.
 # STEELHEAD fired first, at 0332 I: J01's "about 0330" is her Attack 1. Attack 2 (all four believed missed ahead)
 # has no entry.
+# Round 3: the 1st Surface Escort Division's July loss list (J05) has the same four sunk, with tonnage, and both damaged
+# ships slightly damaged (小破); its August chart (J06) has No. 1 Ogura Maru escorted to Corregidor. Still no times.
+# Round 4: the 21st Minesweeper Division's August diary (J09) has Dakar Maru afloat and adrift on 1-2 August,
+# taken in to Calayan Island; the hunting group of six formed on 28 July (J10). Still no time or place of any hit.
+# I-29, 26 July 1944 (J07, J08): STEELHEAD only saw it (her "Ship 6", 1655 I); SAWFISH's patrol is not in the records,
+# so no claim row pairs it.
 - attack: Attack 1
   record: J01
   relation: possible
@@ -32,3 +38,27 @@
   note: >-
     A medium AK "similar to MALTA MARU", two hits, bow almost awash, claimed sunk. JANAC credits STEELHEAD with Dakar
     Maru (cargo, 7,169 tons) sunk; the Navy's summary has Dakar Maru torpedoed and damaged, not sunk
+- attack: Attack 4
+  record: J05
+  relation: possible
+  note: >-
+    The 1st Surface Escort Division's July loss list (別表第一) classes Dakar Maru (だかあ丸) slightly damaged (小破),
+    not sunk, in agreement with the Navy's summary (J03) and against JANAC's sinking. Her later fate is J09. No time
+    or place to tie her to this attack rather than Attack 1
+- attack: Attack 4
+  record: J09
+  relation: possible
+  note: >-
+    The 21st Minesweeper Division's August diary has Dakar Maru still afloat and adrift on 1-2 August: Minesweeper 39
+    reached her "drifting position" at 1320 I on the 2nd and saw her and Fukuju Maru into the anchorage at Calayan
+    Island. So the ship JANAC credits to this attack as sunk was damaged, not sunk, 56 hours after the attack
+    (0516 I on the 31st to 1320 I on the 2nd). Bow almost awash fits a ship that floated on, adrift. The drifting
+    position isn't written; Minesweeper 39's midnight position on the 1st, 19-09N 121-16E, is about 27 nm ENE of
+    STEELHEAD's 18-57N 120-50E, which doesn't place either attack. Still possible: nothing names the ship Attack 4
+    hit, and Attack 1 claimed hits too
+- attack: Attack 3
+  record: J05
+  relation: possible
+  note: >-
+    The same list has Fuso Maru sunk (81?5 tons, the third figure not certain; JANAC 8,195), among the four sunk
+    from MI-11; no time or place for her

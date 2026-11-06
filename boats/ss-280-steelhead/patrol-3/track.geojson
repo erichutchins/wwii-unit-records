@@ -1,0 +1,120 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 3,
+    "start": "1943-10-05T16:36Z",
+    "end": "1943-10-06T22:05Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      146.4917,
+      10.4333
+     ],
+     [
+      148.0,
+      10.2667
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 2",
+    "patrol": 3,
+    "on_track": false,
+    "utc": "1943-10-05T13:26Z",
+    "lat_raw": "10-31N",
+    "lon_raw": "146-00E",
+    "local": "1943-10-05 2326(K)",
+    "page": "rg367-74851315/p19",
+    "note": "Ship contact 2: UNKNOWN, SJ radar 5,900 yards; contact failed to develop, SJ interference yields possibility it was TINOSA. Narrative (p04): 2326 SJ contact 5,900 yards 358 T.; 2328 lost contact. The table repeats the day's position",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.0,
+     10.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 3",
+    "patrol": 3,
+    "on_track": false,
+    "utc": "1943-10-05T14:33Z",
+    "lat_raw": "10-26.5N",
+    "lon_raw": "146-29.5E",
+    "typed": "10-26.5N 142-29.5E",
+    "local": "1943-10-06 0033(K)",
+    "page": "rg367-74851315/p19",
+    "note": "Ship contact 3: AO, SJ radar 15,000 yards, BC-085 S-15 knots, similar to KYOKUTO MARU, Attack #1. Narrative (p04): 0033 SJ contact 15,000 yards 120 T., visual on a large tanker at 9,000 yards; base course 035 T., speed 15 (the table's 085 against the narrative's and the sheet's 035)",
+    "fix": "As the day's position (row above): the attack sheet types 146-29.5E"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.4917,
+     10.4417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1943-10-05T16:36Z",
+    "lat_raw": "10-26N",
+    "lon_raw": "146-29.5E",
+    "local": "1943-10-06 0236(K)",
+    "page": "rg367-74851315/p22",
+    "note": "Torpedo attack No. 1, TIME 02-36-30(K): four stern torpedoes at a single unescorted tanker, range 1100 yards; two hits and a dud; claims one damaged, 'later reported sunk by U.S.S. TINOSA'. Narrative (p04): 0236 fired four from stern tubes, 0237 saw and heard two hits, a third struck the forecastle and did not explode, 0238 target opened fire with bow gun, 0238-30 dove to 80 feet",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.4917,
+     10.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 1A",
+    "patrol": 3,
+    "on_track": true,
+    "utc": "1943-10-06T22:05Z",
+    "lat_raw": "10-16N",
+    "lon_raw": "148-00E",
+    "local": "1943-10-07 0805(K)",
+    "page": "rg367-74851315/p20",
+    "note": "Aircraft contact 1A: not identified, 4 mi., 270 T. fast, SD; 4 eng. Mitsibishui ?; three depth charges dropped. Narrative (p06): 0805 sighted plane (4 motor bomber) 090 T. about four miles abeam flying low and headed for STEELHEAD; quick dive; 0819, 0922, 0923 depth charges far away. The table gives own position",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.0,
+     10.2667
+    ]
+   }
+  }
+ ]
+}

@@ -14,6 +14,10 @@
 # Keys follow the hull numbers, as in other patrol datasets (SS-385 patrol 1 = SS-385-P01).
 
 boats:
+  SS-200:   # THRESHER, Tambor class
+    folder: boats/ss-200-thresher
+    patrols:
+      13: { status: transcribed, nara: [74855459], first_fix: 1944-06-14, last_fix: 1944-07-27, files: [positions, japanese, claims, attacks], note: "Thirteenth War Patrol, Pearl Harbor 14 June to Midway 27 July 1944 (folder pp. 28-67; pp. 01-27 are the Twelfth, not transcribed). The density-layer table (GCT) is the position table; ship contacts and attacks 1-3 (16-17 July, zone H); aircraft contacts and the counterattack forms not yet. GUARDFISH's pack" }
   SS-215:   # GROWLER, Gato class
     folder: boats/ss-215-growler
     patrols:
@@ -21,7 +25,7 @@ boats:
   SS-217:   # GUARDFISH, Gato class
     folder: boats/ss-217-guardfish
     patrols:
-      8: { status: mapped, nara: [74819308], first_fix: 1944-06-14, last_fix: 1944-07-31, files: [positions, attacks], note: "no position table: narrative events, ship and aircraft contacts and attack sheets; ports at standard positions; no depth log. Luzon Strait 2-21 July with PIRANHA and THRESHER (Capt O'Regan); left the strait 21 July, so not in the 30-31 July action" }
+      8: { status: mapped, nara: [74819308], first_fix: 1944-06-14, last_fix: 1944-07-31, files: [positions, attacks, japanese, claims], note: "no position table: narrative events, ship and aircraft contacts and attack sheets; ports at standard positions; no depth log. Luzon Strait 2-21 July with PIRANHA and THRESHER (Capt O'Regan); left the strait 21 July, so not in the 30-31 July action" }
   SS-235:   # SHAD, Gato class
     folder: boats/ss-235-shad
     patrols:
@@ -33,11 +37,12 @@ boats:
   SS-280:   # STEELHEAD, Gato class
     folder: boats/ss-280-steelhead
     patrols:
+      3: { status: transcribed, nara: [74851315], first_fix: 1943-10-05, last_fix: 1943-10-07, files: [positions, japanese, claims, attacks], note: "Third War Patrol, 12 Sep - 25 Nov 1943 (folder pp. 02-38; pp. 39-68 are the Fourth). 5-7 October only so far: the attack on Kazahaya (Attack 1) with TINOSA; the rest of the narrative, contacts and Attacks 2-5 not yet" }
       6: { status: mapped, nara: [74851415], first_fix: 1944-06-17, last_fix: 1944-08-16, files: [positions, japanese, claims, attacks], note: "no position table: narrative fixes, ship contacts and attack sheets; aircraft tables not transcribed; no depth log. Group 17.15 with PARCHE and HAMMERHEAD (Cdr Parks); the 30-31 July action" }
   SS-364:   # HAMMERHEAD, Gato class
     folder: boats/ss-364-hammerhead
     patrols:
-      1: { status: mapped, nara: [74822943], first_fix: 1944-06-24, last_fix: 1944-08-01, files: [positions, japanese, claims, attacks], note: "the density-layer table is the patrol's position table (GCT); ship contacts 8-12 and attacks 1-3 transcribed; the narrative before 27 July and after 31 July, and aircraft contacts, not yet. Group 17.15 with PARCHE and STEELHEAD; found and first attacked convoy MI-11 on 30 July" }
+      1: { status: mapped, nara: [74822943], first_fix: 1944-06-06, last_fix: 1944-08-17, files: [positions, japanese, claims, attacks], note: "the density-layer table is the patrol's position table (GCT dates); narrative events, ship and aircraft contacts, attacks 1-3 and the 9 July gun attack; Pearl Harbor 6 June to Fremantle 17 August. Group 17.15 with PARCHE and STEELHEAD; found and first attacked convoy MI-11 on 30 July" }
   SS-283:   # TINOSA, Gato class
     folder: boats/ss-283-tinosa
     patrols:
@@ -47,6 +52,10 @@ boats:
     folder: boats/ss-304-seahorse
     patrols:
       5: { status: mapped, nara: [74845019], first_fix: 1944-06-03, last_fix: 1944-07-19, files: [positions, japanese, claims, attacks], note: "position tables, attack sheets and narrative fixes; no depth log. Japanese side for 4 July from the 2nd China Expeditionary Fleet diary" }
+  SS-308:   # APOGON, Balao class
+    folder: boats/ss-308-apogon
+    patrols:
+      4: { status: transcribed, nara: [74801303], first_fix: 1944-06-19, last_fix: 1944-07-26, files: [positions, japanese, claims, attacks], note: "Fourth War Patrol, Majuro 19 June to Pearl Harbor 26 July 1944 (folder pp. 23-55; pp. 02-22 are the Third, not transcribed). Aircraft and ship contacts, Attack 1 (12 July, rammed by a freighter of the convoy); the daily narrative 19 June - 8 July not yet. GUARDFISH's pack" }
   SS-312:   # BURRFISH, Balao class
     folder: boats/ss-312-burrfish
     patrols:
@@ -56,6 +65,10 @@ boats:
     patrols:
       1: { status: mapped, nara: [74828582], first_fix: 1944-03-30, last_fix: 1944-05-23, files: [positions, japanese, claims, attacks], note: "position tables, attack sheets and narrative fixes; no depth log" }
       2: { status: mapped, nara: [74828617], first_fix: 1944-06-24, last_fix: 1944-08-06, files: [positions, japanese, claims, attacks], note: "no position table: aircraft and ship contacts and attack sheets (the narrative types no positions); no depth log. Ramage's Medal of Honor action, 31 July 1944" }
+  SS-389:   # PIRANHA, Balao class
+    folder: boats/ss-389-piranha
+    patrols:
+      1: { status: transcribed, nara: [74832061], first_fix: 1944-06-14, last_fix: 1944-08-08, files: [positions, japanese, claims, attacks], note: "First War Patrol, Pearl Harbor 14 June to Majuro 8 August 1944; zone G (-7) on station. Ship and aircraft contacts, ports and attacks 1-3; no positions 20-26 July (none typed). GUARDFISH's pack; Attack 2 opened the TAMA-21C attack, 16 July" }
   SS-385:   # BANG, Balao class
     folder: boats/ss-385-bang
     patrols:

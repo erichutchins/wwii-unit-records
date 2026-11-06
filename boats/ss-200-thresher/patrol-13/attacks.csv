@@ -1,0 +1,24 @@
+attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
+Attack 1,1944-07-16,2330,H,1,150,13,Surface,240,9,2650,,098S,010,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p45
+Attack 1,1944-07-16,2330,H,2,150,13,Surface,240,9,2650,,099S,010,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p45
+Attack 1,1944-07-16,2330,H,3,150,13,Surface,240,9,2650,,100S,011,6',,Miss,No,23,8,,Divergent,,rg367-74855459/p45
+Attack 1,1944-07-16,2330,H,4,150,13,Surface,240,9,2650,,104S,015,6',,Miss,No,23,8,,Divergent,,rg367-74855459/p45
+Attack 1,1944-07-16,2330,H,5,150,13,Surface,240,9,2650,,105S,016,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p45
+Attack 1,1944-07-16,2330,H,6,150,13,Surface,240,9,2650,,106S,017,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p45
+Attack 1,1944-07-16,2330,H,7,150,13,Surface,240,9,1900,,108S,169,6',,Hit,No,18-1,10,,Divergent,,rg367-74855459/p45
+Attack 1,1944-07-16,2330,H,8,150,13,Surface,240,9,1900,,111S,171,6',,Hit,No,18-1,10,,Divergent,,rg367-74855459/p45
+Attack 1,1944-07-16,2330,H,9,150,13,Surface,240,9,1900,,113S,173,6',,Miss,No,18-1,10,,Divergent,,rg367-74855459/p45
+Attack 1,1944-07-16,2330,H,10,150,13,Surface,240,9,1900,,115S,175,6',,Miss,No,18-1,10,,Divergent,,rg367-74855459/p45
+Attack 2,1944-07-16,0119,H,2,215,17,Surface,305,9,2500,,086S,357,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p48
+Attack 2,1944-07-16,0119,H,3,215,17,Surface,305,9,2500,,087S,358,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p48
+Attack 2,1944-07-16,0119,H,4,215,17,Surface,305,9,2500,,080S,351,6',,Miss,No,23,8,,Divergent,,rg367-74855459/p48
+Attack 2,1944-07-16,0119,H,5,215,17,Surface,305,9,2500,,081S,352,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p48
+Attack 2,1944-07-16,0119,H,6,215,17,Surface,305,9,2500,,082S,353,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p48
+Attack 2,1944-07-16,0119,H,7,215,17,Surface,305,9,1720,,073S,178,6',,Hit,No,18-1,10,,Divergent,,rg367-74855459/p48
+Attack 2,1944-07-16,0119,H,8,215,17,Surface,305,9,1720,,075S,1?0,6',,Hit,No,18-1,10,,Divergent,,rg367-74855459/p48
+Attack 2,1944-07-16,0119,H,10,215,17,Surface,305,9,1720,,078S,183,6',,Miss,No,18-1,10,,Divergent,,rg367-74855459/p48
+Attack 3,1944-07-16,0224,H,2,230,16,Surface,290,?,2500,,112S,352,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p51
+Attack 3,1944-07-16,0224,H,3,230,16,Surface,290,?,2500,,113S,354,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p51
+Attack 3,1944-07-16,0224,H,4,230,16,Surface,290,?,2500,,106S,345,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p51
+Attack 3,1944-07-16,0224,H,5,230,16,Surface,290,?,2500,,108S,347,6',,Hit,No,23,8,,Divergent,,rg367-74855459/p51
+Attack 3,1944-07-16,0224,H,10,230,16,Surface,290,?,1700,,088S,168,6',,Miss,No,18-1,- - -,,Divergent,,rg367-74855459/p51

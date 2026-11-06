@@ -1,0 +1,57 @@
+# The attack data sheets' words, as typed (section (H) ATTACK DATA, pp. 20-26 of Enclosure (A), scans p22-p28).
+# Hand-edited; the numbers are in attacks.csv. Attack 1's sheet runs over two scans: `page` (time, position, target
+# and own-ship data, fire control narrative) and `table_page` (one column per torpedo). attacks.csv cites `page`.
+# attacks.csv units, as typed: courses degrees (T), speeds kts, ranges yds, depths and drafts ft; interval typed
+# "--", "10s", "11s", "9s" (seconds since the torpedo before), kept as typed; gyro 179½ written 179.5. Type spread is
+# typed per torpedo (1R, 1L, 4R, 4L), so attacks.csv's offset holds it.
+# Attacks 2-5 (21 October, 4 and 5 November) are on p23-p28 and not yet transcribed.
+
+- attack: Attack 1
+  time: 02-36-30(K)
+  date: October 6, 1943
+  position: "Lat. 10°-26'N. Long. 146°-29.5E."
+  description: >-
+    Single tanker, unescorted. Original contact by radar at 15,000 yards. Visual contact made at 9,000 yards.
+  sunk: None.
+  damaged: One.
+  determined_by: >-
+    Damaged Determined by torpedo hits and explosions observed by officers and men on the bridge. Tanker in crippled
+    condition later reported sunk by U.S.S. TINOSA.
+  target_line: "Target Draft - 22 feet; Course - 035°, Speed 15 knots, Range-1100 yds"
+  own_ship: "Speed 10 knots; Course 148°; Depth - surface; Angle 0° (at firing)."
+  fire_control: >-
+    While running at flank speed attempting to get ahead of the target we were evidently sighted at a range of 7000
+    yards as the tanker changed course 90° and headed directly for us after being on the previous leg only two
+    minutes. It is believed we were mistaken for an escort for the target did not change course again until we had
+    fired. At 2,000 yards he evidently dropped a depth charge to make certain we were not a submarine and as we did
+    not dive he continued on his course. At 1800 yards we were challenged by blinker gun with "AA" and when we did
+    not reply, at 1400 yards he flashed his red and green battle lights three times. We were keeping our stern to
+    the target and were waiting for a 110° starboard track. When the desired track was obtained, fired four
+    torpedoes from stern tubes while still on the surface at a range of 1100 yards. As stated in narrative two hits
+    and one low order detonation believed to be a dud were observed. Because the gunfire at this range was fairly
+    accurate and in order to avoid ramming (target turned towards us after sustaining hits) dove to 80 feet. Had
+    intended to come immediately to periscope depth and resume attack when the sound report of fast light screws
+    and one depth charge, gave the impression that an escort was present and we went deep. The only explanation for
+    the sound report in the light of subsequent actions is that the operator either heard one of our own torpedoes
+    still running or some auxiliary pumps or machinery operating on the target. Because of this erroneous report and
+    the SJ radar failure valuable time was lost before surfacing and the target was never relocated again.
+  tubes: "#7, #8, #9, #10"
+  hits: Hit, Hit, Dud, Miss
+  spread: 1R, 1L, 4R, 4L
+  torpedo_detail: >-
+    Mark 14-3A torpedoes (serials 39502, 25474, 23893, 23557), Mark 6-1 exploders (4922, 11310, 17784, 6325),
+    actuation set Contact only, actuation actual blank, Mark 16 warheads (3605, 3633, 843, 10048), TPX. Depth set 12,
+    power High, erratic No on all four.
+  remarks: Torpedo performance was normal. There was some evidence of one dud or low order explosion.
+  sea: Moderate swell
+  overhaul: U.S.S. BUSHNELL
+  page: rg367-74851315/p22
+  table_page: rg367-74851315/p23
+  note: >-
+    The sheet types 146-29.5E; the narrative's day position (p04) and ship contact 3 (p19) type 142-29.5E, a typo
+    (positions.csv). The narrative times the firing at 0236 and the hits at 0237; the sheet 02-36-30. The narrative
+    puts the first contact at 120 T. 15,000 yards and the base course 035, speed 15, as the sheet; ship contact 3
+    types BC-085. The table types "Similar to KYOKUTO MARU". The tanker's depth charge at 2,000 yards (sheet) and the
+    one heard at 0241 after diving (narrative p05) are two events. The sheet claims one damaged; the first
+    endorsement (p34) "two hits and one dud ... severely damaged and later reported sunk by the TINOSA"; ComSubPac's
+    endorsement (p37) credits STEELHEAD with "1 - Tanker (class unknown) - 10,500 tons" damaged.

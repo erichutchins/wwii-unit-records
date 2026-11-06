@@ -9,6 +9,10 @@
 # PARCHE fired from 0359 to 0433 I (the times on the attack sheets; Attacks 7-8 typed 0420 and 1433, the narrative's
 # 0429 and 0433). STEELHEAD fired first, at 0332 I, so J01's "about 0330" is the start of both boats' attacks.
 # Attack 1 (both missed) has no entry.
+# Round 3: the 1st Surface Escort Division's July loss list (J05) has the same four sunk, with tonnage, and both damaged
+# ships slightly damaged (小破); its August chart (J06) has No. 1 Ogura Maru escorted to Corregidor. Still no times.
+# Round 4: the 21st Minesweeper Division's August diary has Dakar Maru afloat and adrift on 1-2 August (see japanese.yml);
+# it pairs with no attack of this boat's (JANAC credits STEELHEAD).
 - attack: Attack 2
   record: J03
   relation: possible
@@ -47,3 +51,24 @@
   note: >-
     With Attack 7: a large AP "similar to HEIAN MARU", two hits down the throat, then a stern shot; sank bow first
     at 0442 I. JANAC credits PARCHE with Yoshino Maru (transport, 8,990 tons), in the summary's sunk list
+- attack: Attack 3
+  record: J05
+  relation: possible
+  note: >-
+    The 1st Surface Escort Division's July loss list has Koei Maru (光栄丸) sunk at 10,000 tons, the largest of the
+    four and the only one of a size with a large AO; JANAC has her a tanker. The list has no time or place, so it
+    doesn't separate this attack from Attack 6
+- attack: Attack 4
+  record: J06
+  relation: possible
+  note: >-
+    If the second AO, slowed to 2 knots by two hits, was No. 1 Ogura Maru, she survived: the escort division's
+    July list classes her slightly damaged (小破, J05) and its August chart has Kazan Maru escorting "the torpedoed
+    No. 1 Ogura Maru" to Santa Cruz and on to Corregidor about 4-6 August (J06). That would make Attack 6's sinking
+    claim another ship's, or a miss. Nothing in the records names the ship of either attack
+- attack: Attack 2
+  record: J05
+  relation: possible
+  note: >-
+    The escort division's list classes the two damaged ships of the summary (No. 1 Ogura Maru, Dakar Maru) as
+    slightly damaged (小破), with Hijirikawa Maru, Kaibokan 17 and Hiei Maru from other attacks; no time or place

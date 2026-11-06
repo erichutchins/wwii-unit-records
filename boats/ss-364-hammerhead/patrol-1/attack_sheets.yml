@@ -5,6 +5,7 @@
 # as -; own depth typed "Surface" kept as Surface. Halves and quarters typed as fractions (354½, 1¼°) are written
 # .5 and .25. The "Type Spread" row is typed per torpedo as an offset (1° R, ½° L, 3/4° L), so attacks.csv's offset
 # holds it; tube 7 of Attack 1 types a faded mark read as 0.
+# The gun attack report (p34, 9 July) is in positions.csv (Gun Attack 1); a gun attack has no rows here.
 
 - attack: Attack 1
   type_attack: >-
