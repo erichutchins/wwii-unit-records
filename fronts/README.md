@@ -27,13 +27,14 @@ matches each ring on the day's sheet) and is fitted by the sheet's own projectio
 transform to the scan (`trace_front.Conic`, for a day with 30 towns or more): 0.72 km rms over the sheet, 1.8 km at
 worst. The March days keep their twenty and the polynomial, so their files don't move.
 
-`towns-B13.csv` and `towns-B14.csv` (hand-read) are the north Germany sheet's and the 1:1,400,000 sheet's control
-points: not towns but the sheets' own graticule crossings (`town` is the crossing's name, `7E 50N`; `source` the
+`towns-B13.csv`, `towns-B14.csv` and `towns-B15.csv` (hand-read) are the north Germany sheet's and the two printings of
+the 1:1,400,000 sheet's control points: not towns but the sheets' own graticule crossings (`town` is the crossing's name, `7E 50N`; `source` the
 sheet, since the point is the sheet's own drafting), read by eye on gridded crops of the base's first day
 (`towns_on` in `bases.yml`) round where a conic seeded from the margins' degree labels put each
 (`tools/sheet_towns.py crops --graticule`). A crossing is exact where a town's ring stands for a centroid, so these
-fit better than the towns did: 26 crossings at 0.50 km rms on B13, 60 at 0.82 km on B14 (whose scale is 1.4 times
-coarser). The same file serves every day of the base through `--gcps-from`.
+fit better than the towns did: 26 crossings at 0.50 km rms on B13, 60 at 0.82 km on B14 and 58 at 0.67 km on B15 (whose
+scale is 1.4 times coarser; B15 is read from its own scan, the May printing being scanned 1.7 per cent larger than
+April's). The same file serves every day of the base through `--gcps-from`.
 
 ## HQ Twelfth Army Group, 7–17 March 1945
 

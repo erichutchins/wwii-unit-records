@@ -145,5 +145,6 @@
   scan: 5900 x 6700
   heading: not read (B14's, by the overview)
   shows: B14's map with the state boundaries and names overprinted in red
-  towns: ""
+  towns: towns-B15.csv
   towns_on: 12ag-1945-05-20
+  towns_check: 58 whole-degree graticule crossings read on gridded crops of 20 May 1945 (6 November 2026; the conic 0.67 km rms, 1.5 km at worst; 15 June 1945 matches 42 of 58), seeded by B14's crossings shifted by the scans' offset; read from its own scan because B14's points register on it at 1 of 13 (another scanning, 1.7 per cent larger)
