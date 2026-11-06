@@ -1,0 +1,43 @@
+# 12ag-1945-05-20: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21350
+date: 1945-05-20
+as_of: 201200 MAY 1945
+report: 349
+title: "HQ 12th Army Group Situation Map (SECRET struck through), to accompany G-3 report no. 349: situation as of 201200 May 1945; signed for A. Franklin Kibler, Brigadier General, GSC, A.C. of S., G-3; 1:1,500,000 Albers conical equal-area sheet"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B15.csv
+exclude:
+  # first pass: the sheet is full of heavy dark lines that are not the front (national borders drawn dark, the grey-hatched
+  # mountain borders, army and army-group boundaries, provincial lines). Only the Elbe-Mulde-Bohemia-Enns-Brenner line is ticked.
+  - {box: [0, 0, 3150, 6698], why: "everything west of the Elbe start: Rhine, French/Swiss/Dutch borders, legend (bottom left), army boundaries, no front"}
+  - {box: [4250, 200, 5995, 1060], why: "title block lettering: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, report no. 349, date, signature"}
+  - {box: [3790, 255, 4250, 1275], why: "Second British Army units table (boxed list, heavy rules)"}
+  - {box: [4700, 5900, 5995, 6250], why: "foot stamp box: SECRET, Auth CG Twelfth Army Group, Initials, Date 20 MAY 1945"}
+  - {box: [5450, 1060, 5995, 6698], why: "east of the front: Czech/Austrian/Hungarian borders, no front"}
+  - {box: [4350, 1100, 5995, 3000], why: "Saxony-Bohemia border (dark hatched Erzgebirge), east of the line"}
+  - {box: [3150, 1430, 3880, 2700], why: "heavy black provincial/state outlines in Thuringia/Anhalt, west of the line, no ticks"}
+  - {box: [3150, 3000, 4250, 3350], why: "Bavarian-Bohemian border west of the line"}
+  - {box: [3150, 3350, 4650, 5400], why: "Bavaria: army boundaries drawn black, Danube, Bavaria-Czech/Austrian borders, west of the line"}
+  - {box: [3455, 370, 3490, 400], why: "short spur stub beside the Elbe front at Schnackenburg (the bank's heavy ink), duplicate of the front"}
+  - {box: [3560, 1410, 3600, 1440], why: "Stassfurt: black provincial outline (Anhalt/Prussian Saxony) with no ticks, west of the Elbe line"}
+  - {box: [3150, 2700, 3880, 2860], why: "Thuringia-Bavaria/Saxony state border (dark red/black, hatched) west of the line, no ticks (unsure runs 3161,2739 3295,2790 3574,2743 3745,2731 3817,2791)"}
+  - {box: [4000, 2780, 4065, 2880], why: "Bohemian border (grey hatched, red overprint) beside the line at Graslitz/Falkenau, not the line (unsure runs 4050,2798 4019,2846; --overlay crop 3500 2400)"}
+  - {box: [4170, 2660, 4310, 2720], why: "Saxony-Bohemia border piece (hatched, red overprint) east of the line (unsure runs 4184,2707 4284,2674)"}
+  - {box: [4130, 3410, 4200, 3490], why: "blue fragment on the hatched Bavaria-Bohemia border at the XII/V symbol, west of the line"}
+  - {box: [4650, 3920, 4885, 4075], why: "blue fragments on the hatched Bavaria-Bohemia border (Bohemian Forest) west of the line"}
+  - {box: [4900, 4100, 5000, 4160], why: "Bohemian Forest border piece at the 26 symbol, west of the line (unsure run 4949,4129)"}
+  - {box: [4700, 4280, 4880, 4380], why: "Bavaria-Austria border at the Inn, hatched/red, west of the front (unsure runs 4747,4309 4787,4328 4819,4349)"}
+  - {box: [3350, 5650, 3950, 5800], why: "Austria-Italy border at the Brenner (hatched, red overprint) with no ticks, and blue fragments on it (unsure runs 3537,5704 3453,5721 3852,5663 3944,5679)"}
+  - {box: [3960, 5700, 4100, 5800], why: "Austria-Italy border south of Gross Venediger (red/hatched), no ticks (unsure run 3970,5764)"}
+  - {box: [4780, 5110, 4840, 5170], why: "Army/army-group boundary drawn as a thin black line with no ticks, near Bad Aussee (unsure run 4809,5141)"}
+  - {box: [4620, 4940, 4720, 4990], why: "Mondsee's dark shore outline, a lake edge not a front (blue run at 4651,4959 / 4682,4967 turned the 13E 48N ring)"}
+  - {box: [3880, 2860, 4000, 3020], why: "dark-grey hatched Bohemian border and road fragments round the Asch bulge, west of the line, no ticks (runs 29-32 near 3930,2896 / 3923,2960 / 3950,2972 / 3978,2997)"}
+flip: []
+checked:   # runs of the Elbe line at Rosslau/Dessau, no ticks counted; the line is continuous from the ticked Elbe above to the ticked Mulde below
+  - {at: [3791, 1416], why: "Rosslau, Elbe line between the ticked reaches; heavy black, front by continuity"}
+  - {at: [3835, 1403], why: "Rosslau, Elbe line between the ticked reaches; heavy black, front by continuity"}
+  - {at: [3917, 1419], why: "Dessau/Rosslau, Elbe line between the ticked reaches; heavy black, front by continuity"}
+# Reviewed: after 8 May the ticked line is the line of contact with the Soviet armies (the Elbe, the Mulde, the line
+# across Bohemia, the Enns, then the Tauern to the Brenner), not a front against the enemy: the side frontSide calls
+# "enemy" is the Soviets'. A page must say so and not shade it as the enemy's. The three Rosslau runs are accepted by
+# continuity (heavy, unticked, between the ticked Elbe and Mulde). B15's 68 days (20 May to 26 July) are all like this.
