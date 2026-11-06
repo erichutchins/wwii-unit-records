@@ -1,0 +1,18 @@
+# 12ag-1944-12-17: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21196
+date: 1944-12-17
+as_of: 1200 HRS 17 DECEMBER 1944
+title: "Situation 1200 hrs 17 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [100, 380, 2290, 770], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 17 DECEMBER 1944, TWELFTH ARMY GROUP); the front proper begins south of it at the Krammer, y 780"}
+  - {box: [100, 4850, 1100, 5700], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+flip:
+  - {at: [1630, 873], why: "the Walcheren arc, Domburg to Veere: the enemy held Schouwen across the water to the north, and the arc's neighbours on Beveland and Tholen run with the enemy north; this one ran the other way (reviewed: Ostend read enemy)"}
+  - {at: [4813, 4157], why: "the front from the 35th Division's bump south-east toward Bitche: the map ticks it on the south-west, the US side; its own count turned it the other way (reviewed on the overlay and by the side test's legs; Zweibruecken read US before)"}
+  - {at: [4863, 4202], why: "the same line on toward Bitche, which followed the stretch above as a line"}
+checked:
+  - {at: [2011, 894], why: "the Tholen arc west of Krammer: looked at, ticks on the map's own ticks on the land side"}
+  - {at: [2057, 859], why: "the hook end of the same Tholen arc: looked at (--look 2057,859), the map's ticks on the inside of the hook, the way the line is turned"}
+  - {at: [3980, 3634], why: "the front on the Moselle west of Remich above Sierck: looked at on the overlay, the map's ticks on the west (US) side, the red ticks on them; the heavy line south from the corner is the First/Third boundary and is not traced"}

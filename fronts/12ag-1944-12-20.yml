@@ -1,0 +1,20 @@
+# 12ag-1944-12-20: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21199
+date: 1944-12-20
+as_of: 1200 HRS 20 DECEMBER 1944
+title: "Situation 1200 hrs 20 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [450, 380, 2300, 790], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 20 DECEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [2600, 1880, 3000, 2000], why: "the Twenty One/Twelfth army group boundary west of Maastricht, heavy, no ticks"}
+  - {box: [3000, 1760, 3700, 1900], why: "the same boundary east to the front at Geilenkirchen, heavy, no ticks"}
+  - {box: [4580, 3960, 4760, 4440], why: "the Twelfth/Sixth army group boundary from the front near Sarreguemines south-west, no ticks"}
+  - {box: [4420, 4440, 4700, 4700], why: "the same boundary, Sarrebourg area, no ticks"}
+  - {box: [4000, 4680, 4440, 4860], why: "the same boundary along the Marne-Rhine canal, no ticks"}
+  - {box: [3700, 4860, 4040, 5160], why: "the same boundary south-west of Dombasle, no ticks"}
+flip:
+  - {at: [4615, 5560], why: "the Colmar pocket's west side, south from above Turckheim to the sheet's edge: the map's ticks are west and north, toward the French (reviewed on the overlay; Epinal and Saint-Die read enemy before)"}
+  - {at: [4745, 5480], why: "the hook north of Turckheim, the same line: ticked on its north side"}
+checked: []

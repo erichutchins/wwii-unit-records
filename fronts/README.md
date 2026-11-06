@@ -45,6 +45,22 @@ where the kilometre grid passed for the graticule in places and `bases.yml` says
 says), 16, 11, 14 and 13 of them at 0.14 to 0.48 km rms. The double sheet of 10 September (B10) alone has none: two
 plates on one scan, one day. `bases.yml` gives each base's count, fit and the day it was checked on.
 
+## The front across the whole sheet, from December 1944
+
+The front alone, traced across the whole 1:1,000,000 plate on its 81 towns (`towns-B11.csv`): 22 December 1944 by
+hand, to settle what a whole sheet leaves out (the title block, the legend, boundaries drawn heavy with no ticks), and
+16–20 December by five agents from the skill, a day each, and reviewed (every town on the wrong side traced to the
+stretch that put it there; five stretches turned on review). No symbols are read on these days yet.
+
+| Map | Sheet | Stretches | Boxes left out | Turned by hand |
+|---|---|---|---|---|
+| `12ag-1944-12-16` | [ict21195](https://www.loc.gov/resource/g5701s.ict21195/) | 69 | 11 | 0 |
+| `12ag-1944-12-17` | [ict21196](https://www.loc.gov/resource/g5701s.ict21196/) | 44 | 2 | 3 |
+| `12ag-1944-12-18` | [ict21197](https://www.loc.gov/resource/g5701s.ict21197/) | 26 | 4 | 0 |
+| `12ag-1944-12-19` | [ict21198](https://www.loc.gov/resource/g5701s.ict21198/) | 38 | 4 | 0 |
+| `12ag-1944-12-20` | [ict21199](https://www.loc.gov/resource/g5701s.ict21199/) | 37 | 7 | 2 |
+| `12ag-1944-12-22` | [ict21201](https://www.loc.gov/resource/g5701s.ict21201/) | 48 | 11 | 0 |
+
 ## HQ Twelfth Army Group, 7–17 March 1945
 
 The 1:1,000,000 sheets, each "to accompany G-3 report no. …: situation as of …1200 Mar 1945". All eleven days of the
