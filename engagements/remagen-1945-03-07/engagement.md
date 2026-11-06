@@ -5,6 +5,10 @@ eyebrow: III Corps' after action report
 theater: europe
 clock: A
 window: {from: 1945-03-07T13:00Z, to: 1945-03-17T15:00Z}
+# the map's base: today's relief and the Rhine; the front and the units as the 12th Army Group drew them at noon, every
+# other day of the window
+relief: remagen
+fronts: [12ag-1945-03-07, 12ag-1945-03-09, 12ag-1945-03-11, 12ag-1945-03-13, 12ag-1945-03-15, 12ag-1945-03-17]
 participants:
   - id: 9ad
     name: 9th Armored Division
@@ -46,6 +50,16 @@ The bridge is placed at the G-2 report's reference "F6520" (pdf 72), decoded on 
 (`tools/ndg_grid.py`): a four-figure reference names a 1 km square, and the point is its south-west corner;
 OpenStreetMap's bridge lies about 250 m north-east of it, inside the square. Remagen and Erpel are drawn at their
 centres (OpenStreetMap), and the heavy ponton bridge at the narrative's "wF673186" (pdf 38), decoded the same way.
+
+Under them, the front and the divisions are the 12th Army Group's situation maps for 1200 every other day from 7 to 17
+March, traced [[cite:loc-12ag/ict21276]]: the army group's own units and its intelligence picture of the Germans',
+each symbol in its unit's area, not at a position (`fronts/README.md`); the account shows the first, and the records
+depth steps through them. At noon on the 7th the map draws the front's point about 8 km short of the Rhine, near
+Lantershofen, where the 60th Armored Infantry Battalion's task force had closed in at 0205
+[[cite:eucmh60aib/1945-03]]; the bridge was taken that afternoon, so that map shows the morning, not the crossing.
+From the 9th the maps draw the bridgehead, and from the 11th they list the German divisions facing it, which the page
+shows as the map does, as a list. The 60th's dashed line is its own stations from 28 February, joined straight, to the
+day shown.
 
 ## Sources and what's missing
 
