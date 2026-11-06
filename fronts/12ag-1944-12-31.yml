@@ -1,0 +1,21 @@
+# 12ag-1944-12-31: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21210
+date: 1944-12-31
+as_of: 1200 HRS 31 DECEMBER 1944
+title: "Situation 1200 hrs 31 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 31 DECEMBER 1944, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [100, 4850, 1100, 5620], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [3060, 1170, 3360, 1310], why: "the Twenty One/Twelfth army group boundary near Eindhoven-Turnhout, heavy, no ticks"}
+  - {box: [3190, 1770, 3640, 1840], why: "the Ninth/First army boundary west of Maastricht, heavy, no ticks"}
+  - {box: [2600, 2765, 2800, 2795], why: "the Twenty One/Twelfth army group boundary west of the Meuse at Givet, heavy, no ticks"}
+  - {box: [2840, 2770, 3130, 2796], why: "the lettering TWENTY ONE / TWELFTH underlined"}
+  - {box: [4370, 3950, 4425, 3998], why: "the First/Third army boundary's end at the front, heavy, no ticks"}
+  - {box: [4050, 4005, 4400, 4600], why: "the Twelfth/Sixth army group boundary from the front near Forbach south-west, magenta, no map ticks"}
+  - {box: [3380, 5030, 3730, 5220], why: "the Twelfth/Sixth army group boundary south-west of Nancy, magenta, no map ticks"}
+  - {box: [3680, 4590, 4170, 5020], why: "the Twelfth/Sixth army group boundary from Arracourt south-west past Dombasle and St. Nicolas, heavy black, no ticks, red ticks only from roads (looked at 3941,4864 and the overlay crop 3700,4500); it had put Toul, Chaumont on the enemy side"}
+flip: []
+checked: []

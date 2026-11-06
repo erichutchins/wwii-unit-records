@@ -1,0 +1,20 @@
+# 12ag-1945-01-01: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21211
+date: 1945-01-01
+as_of: 1200 HRS 1 JANUARY 1945
+title: "Situation 1200 hrs 1 January 1945, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 1 JANUARY 1945, TWELFTH ARMY GROUP); title lettering ends above the Walcheren/Tholen arcs"}
+  - {box: [100, 4850, 1100, 5620], why: "the legend, its sample of the front included"}
+  - {box: [3380, 4650, 4425, 5220], why: "the Twelfth/Sixth army group boundary from the Saar corner south-west, magenta/blue with no map ticks; looked at on the overlay crop 3800,4000 (black line, no ticks)"}
+  - {box: [4190, 4175, 4320, 4295], why: "the Twelfth/Sixth army group boundary's last stretch to the front near St-Avold, magenta, no ticks (looked at 4255,4230)"}
+  - {box: [4300, 4000, 4378, 4112], why: "the First/Third army boundary's last stretch to the front near Sarreguemines, no map ticks (the red ticks come from the roads); looked on the overlay crop 4100,3700"}
+  - {box: [4615, 4062, 4655, 4095], why: "a short magenta hook by the enemy 36 box, a leader or bracket, not front"}
+  - {box: [3790, 1225, 3835, 1262], why: "a magenta hook on the enemy 7 box, not front (looked on the overlay crop 3500,1000)"}
+  - {box: [3840, 1085, 3885, 1125], why: "a short blue stub on the 180 box, not front"}
+  - {box: [2640, 2776, 2875, 2799], why: "the Twenty One/Twelfth army group boundary west of Givet, heavy black with no map ticks (the red ticks come from the roads); looked on the overlay crop 2600,2700"}
+flip: []
+checked: []

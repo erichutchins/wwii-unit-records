@@ -1,0 +1,20 @@
+# 12ag-1944-12-27: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21206
+date: 1944-12-27
+as_of: 1200 HRS 27 DECEMBER 1944
+title: "Situation 1200 hrs 27 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 27 DECEMBER 1944, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [100, 4850, 1100, 5620], why: "the legend, its sample of the front included"}
+  - {box: [2985, 2765, 3080, 2795], why: "the Twenty One/Twelfth army group boundary east of Givet, magenta, no ticks (looked on the overlay, a.jpg crop)"}
+  - {box: [3730, 2120, 3790, 2160], why: "the Ninth/First army boundary near Eupen, magenta, no ticks"}
+  - {box: [4040, 4000, 4425, 4650], why: "the First/Third army boundary and the Twelfth/Sixth army group boundary from the Saar corner south-west, blue with red ticks from the roads only, no map ticks"}
+  - {box: [3380, 4650, 4100, 5220], why: "the Twelfth/Sixth army group boundary south-west of the Marne-Rhine canal, a heavy black line ending at the lettering, no ticks (looked at 3836,4954)"}
+  - {box: [3190, 1770, 3640, 1840], why: "the Ninth/First army boundary west of Maastricht, heavy black, no ticks (looked at 3509,1823)"}
+  - {box: [4890, 2380, 5070, 2520], why: "the Rhine's dark blue ink at Neuwied under the CinC ADV box, not front (looked at 4993,2418)"}
+  - {box: [5300, 2940, 5480, 3050], why: "the Rhine's dark blue ink near Mainz, not front (looked at 5389,2997)"}
+flip: []
+checked: []

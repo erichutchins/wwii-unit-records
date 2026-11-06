@@ -1,0 +1,22 @@
+# 12ag-1944-12-29: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21208
+date: 1944-12-29
+as_of: 1200 HRS 29 DECEMBER 1944
+title: "Situation 1200 hrs 29 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 29 DECEMBER 1944, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [100, 4850, 1100, 5620], why: "the legend, its sample of the front included"}
+  - {box: [3100, 830, 3625, 1300], why: "the Twenty One/Twelfth army group boundary from the front at Boxmeer SW past Eindhoven, heavy black and magenta, ticks only of roads (looked on the 1100 px overlay crop)"}
+  - {box: [2990, 1770, 3840, 1890], why: "the Second British/Ninth US army boundary and its end west of Maastricht, heavy, red ticks only from roads, no map ticks"}
+  - {box: [3790, 4262, 4270, 4990], why: "the Twelfth/Sixth army group boundary from the Saar corner at the front SW to Dombasle, heavy, red ticks from roads only"}
+  - {box: [3480, 5000, 3800, 5200], why: "the same boundary continuing SW (TWELFTH/SIXTH lettered on it), no map ticks"}
+  - {box: [4440, 5200, 4580, 5300], why: "the Seventh US/First French army boundary near St Dié, heavy magenta, no map ticks"}
+  - {box: [2640, 2775, 2808, 2805], why: "the Twenty One/Twelfth army group boundary's stub west of the salient tip at Givet, blue-ticked by roads only, no map ticks (looked at 2770,2792 on the 330 px crop)"}
+  - {box: [3800, 520, 3960, 600], why: "the heavy black hatched Westwall-type line beside the Waal/Rhine near Kleve, with a '?' at its end; not the front (Kleve lies east of the Nijmegen front, enemy side), the map's ticks on it are hatching (looked at 3850,555 and 3910,580)"}
+  - {box: [3560, 785, 3636, 850], why: "the end of the same Twenty One/Twelfth boundary where it meets the front at Boxmeer, short heavy magenta, no map ticks (looked at 3627,800 on the 1100 px crop)"}
+  - {box: [5005, 2415, 5055, 2450], why: "the Rhine's dark blue ink and the CinC ADV box's leader at Neuwied, not front (looked on the 500 px crop at 5028,2433); it had put Siegen, Marburg and Limburg on the US side"}
+  - {box: [5360, 2950, 5420, 3010], why: "the Rhine's dark blue ink at the bend near Eltville/Rudesheim, no ticks, not front (looked at 5392,2995, 4x); it had put Marburg and Limburg on the US side"}
+flip: []
+checked: []

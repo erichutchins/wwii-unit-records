@@ -1,0 +1,35 @@
+# 12ag-1944-12-30: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21209
+date: 1944-12-30
+as_of: 1200 HRS 30 DECEMBER 1944
+title: "Situation 1200 hrs 30 December 1944, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 30 DECEMBER 1944, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [100, 4850, 1100, 5620], why: "the legend, its sample of the front included"}
+  - {box: [3060, 1030, 3750, 1300], why: "the Twenty One/Twelfth army group boundary from Turnhout to the Maas at Deurne, heavy, no map ticks, red ticks only from roads (looked on the overlay, 1:1 crop)"}
+  - {box: [2820, 1340, 2910, 1460], why: "the same boundary's stretch north-east of Mol, heavy, no ticks (First Canadian/Second British lettering beside it)"}
+  - {box: [3150, 1730, 3830, 1870], why: "the Ninth/First army boundary from Maastricht to the front at Geilenkirchen, heavy, no map ticks"}
+  - {box: [2980, 1770, 3060, 1800], why: "the Ninth/First boundary's stub, heavy, no ticks"}
+  - {box: [2980, 1900, 3340, 2080], why: "the First/Ninth army boundary west of Liege to the Geer, heavy, ticks of roads only"}
+  - {box: [3790, 2145, 3880, 2195], why: "the Ninth/First army boundary's last stretch to the front near Eupen, heavy, no ticks"}
+  - {box: [3855, 1085, 3890, 1115], why: "ink of an enemy division's symbol (180) beyond the front, not a line"}
+  - {box: [3815, 1615, 3850, 1645], why: "ink of an enemy division's symbol (183) beyond the front, not a line"}
+  - {box: [2700, 2330, 2780, 2410], why: "the Twenty One/Twelfth army group boundary at Namur, heavy, no ticks"}
+  - {box: [2830, 2470, 2900, 2525], why: "the same boundary beside FIRST, heavy, no ticks"}
+  - {box: [3030, 2640, 3090, 2700], why: "the same boundary's last stretch to the front at Givet/Rochefort, heavy, no ticks"}
+  - {box: [2690, 2765, 2800, 2805], why: "the same boundary west of the Givet loop (TWENTY ONE line), heavy, no ticks"}
+  - {box: [4370, 3950, 4425, 3998], why: "the First/Third army boundary's end at the Saar corner (to be looked at)"}
+  - {box: [4050, 4005, 4400, 4600], why: "the Twelfth/Sixth army group boundary from the Saar corner south-west, red ticks only from roads"}
+  - {box: [4735, 4030, 4810, 4070], why: "ink of an enemy division's box (hatched, number lost in the ink) behind the front near Saarbruecken, not a line; it put Zweibruecken on the US side"}
+  - {box: [4620, 4880, 5215, 5010], why: "the Seventh/First French army boundary from the Bruche valley to the Rhine front, magenta, red ticks only from roads, no map ticks (lettering SEVENTH / FIRST FR on it)"}
+  - {box: [4380, 5100, 4660, 5420], why: "the same boundary's south-west run toward Saint-Die, heavy, no map ticks (it put Saint-Die and Epinal on one side)"}
+  - {box: [3380, 5030, 3730, 5220], why: "the Twelfth/Sixth army group boundary south-west of Nancy, heavy, no map ticks"}
+  - {box: [3700, 2130, 3820, 2170], why: "the Ninth/First army boundary's last run to Eupen (the NINTH FIRST line), heavy, no ticks"}
+  - {box: [3855, 2125, 3880, 2152], why: "ink of the 5th/78th division symbol's hook beside Eupen, not a line"}
+  - {box: [380, 4410, 430, 4490], why: "the right edge of the SHAEF headquarters box at Paris, heavy ink not front (looked on the overlay, 300 px crop)"}
+flip: []
+checked:
+  - {at: [2926, 2783], why: "the Givet salient's tip: the front hooks round the TWELFTH lettering (arc over the top, then east along y 2782 to the north line); ticks outward (US side) on the arc and the horizontal, red ticks agree (looked on the overlay, 450 px crop)"}

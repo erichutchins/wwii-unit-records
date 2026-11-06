@@ -1,0 +1,15 @@
+# 12ag-1945-01-02: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21212
+date: 1945-01-02
+as_of: 1200 HRS 2 JANUARY 1945
+title: "Situation 1200 hrs 2 January 1945, Twelfth Army Group"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B11.csv
+exclude:
+  - {box: [200, 380, 2250, 750], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 2 JANUARY 1945, TWELFTH ARMY GROUP); ends above the Walcheren/Tholen arcs"}
+  - {box: [100, 4850, 1100, 5620], why: "the legend (U.S., British, Enemy, Front line), its sample of the front included"}
+  - {box: [3380, 4560, 4260, 5220], why: "the Twelfth/Sixth army group boundary from Sarrebourg south-west past Nancy, magenta, no map ticks (the unsure runs at 4124,4610 and 3544,5132; the line is magenta, not blue, on overlay-sheet.jpg, with no ticks; the unsure runs on the first trace)"}
+  - {box: [4300, 3995, 4395, 4130], why: "the First/Third army boundary's stub from the Saar corner south-west (run 47), heavy, red ticks only from the roads, no map ticks (looked at 4354,4042 on the overlay crop)"}
+flip: []
+checked: []
