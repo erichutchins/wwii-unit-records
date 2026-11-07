@@ -6,7 +6,7 @@ report: "311"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 311, situation as of 121200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
 gcps_from: 12ag-1945-04-11
-area: [470, 2320, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
+area: [0, 0, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
 exclude:
   - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 11 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
   - {box: [4700, 80, 6400, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 310, SITUATION AS OF 111200 APR. 1945, signature and name), all letters; same place as 04-08 (--title 4700 80 1600 930)"}
@@ -41,7 +41,10 @@ exclude:
   - {box: [842, 4841, 912, 4911], why: "run 118 (middle 877,4876): the same boundary, plain heavy with a bend (looked, 877,4876)"}
   - {box: [670, 5274, 740, 5344], why: "run 120 (middle 705,5309): the Twelfth / Sixth boundary toward Saarbruecken, plain heavy (overlay)"}
   - {box: [5249, 1120, 5319, 1190], why: "run 29 (middle 5284,1155): the lake at the sheet NE (13E 53N, Plauer See area), blue ink and heavy lettering, not a front line and not a boundary (overlay, looked 5284,1155)"}
+  - {box: [490, 2188, 560, 2258], why: "run 56 (middle 525,2223): the Rhine's blue ink at Wesel, a short stretch with no ticks of the map's own, ending at the lettering of the Fifteenth / Ninth boundary (looked, crop 300,1950); the ticked run 57 below it is front, left in"}
 flip: []
 checked: []
 # Reviewed: 23 of 26 towns on 11 April's side; 11E 51N and 11E 52N (own) are the advance to Erfurt and the Magdeburg pocket. 7E 53N (own) rests on one 59 px stub by the Polish symbol, a weak test. The heavy Lingen V (runs at 1179,901 and 1128,942) is front: 13 April's reader saw the map's own ticks on it at 5x, the boundary being the thin plain line beside it; 11 April's boxes on it were taken out.
 # Reviewed: `area: [470, 2320, 760, 2950]` now takes in the Ruhr pocket's west side along the Rhine (Duisburg to Koln): 7 stretches added, front 2,017 -> 2,074 km (about 57 km); ticks on the map's ticks on the overlay crop 380,2250; no town changed side. Still missing: the Rhine north of Duisburg (off the area).
+# Reader: area widened to [0, 0, 760, 2950]: adds the Dutch-border front (Emmen/Coevorden, Lingen's west, Twente) and the Rhine just north of Duisburg, 7 stretches, front 2,074 -> 2,190 km; one box added for the Rhine's ink at Wesel; no town changed side.
+# Reviewed (7 Nov 2026): area widened to the sheet's top-left corner (B13's west neat line is about 6 35'E, so only the Dutch border strip lies there); what it added is the ticked front along the Dutch border (Emmen, Coevorden, Meppen, Lingen, Twente) where present, with the red ticks on the map's own (overlay crop 250,900 on 04-11). Boundaries and the Rhine ink at Wesel (behind the line since 24 March) boxed; no town changes side.

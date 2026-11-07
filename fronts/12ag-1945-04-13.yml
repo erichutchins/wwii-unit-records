@@ -7,7 +7,7 @@ report: "312"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 312, situation as of 131200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
 gcps_from: 12ag-1945-04-12
-area: [470, 2320, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
+area: [0, 0, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
 exclude:
   - {box: [540,2280,600,2360], why: "area-taken-in: the heavy black Rhine north of Duisburg beside its river blue, no map ticks (magenta, unsure 554,2334); the front's stretch along the Ruhr's north side starts about 590,2372, outside the box"}
   - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 13 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
@@ -45,8 +45,12 @@ exclude:
   - {box: [1920, 999, 1990, 1069], why: "run 32 (middle 1955,1034): a 27 px stub of the thick lake ink at the Duemmer See, between the ticked legs of the Damme ring, no ticks of its own (looked 1955,1034 at 3x and overlay crop); the ring's legs either side are ticked front and stay in"}
   - {box: [735, 3007, 805, 3077], why: "run 72 (middle 770,3042): a 31 px chord across the hatched city at Koeln, off the ticked Rhine-bank legs either side, no ticks (looked 770,3042; overlay crop)"}
   - {box: [3489, 4936, 3559, 5006], why: "run 95 (middle 3524,4971): the blunt dead-end thick spur at Uffenheim past the corner where the ticked front turns, no ticks on either side (looked 3524,4971)"}
+  - {box: [453, 2184, 523, 2254], why: "run 47 (middle 488,2219): the Rhine's blue ink at Wesel, no ticks of the map's own, beside the Fifteenth / Ninth lettering (overlay crop 250,2100); the front starts ticked below at Duisburg"}
+  - {box: [499, 2183, 569, 2253], why: "run 48 (middle 534,2218): the same Rhine stretch at Wesel (overlay crop 250,2100)"}
 flip: []
 checked:
   - {at: [1106, 502], why: "run 6: the cap of the narrow pocket at Lethe, under the Auth box frame, a short thick arc with no ticks of its own (looked 1106,502 at 3x); taken the way the legs it joins run, ticks outward as on the ticked legs below (overlay crop); 7E 53N own agrees"}
 # Reviewed: every town on 12 April's side. The Lingen V carries the map's ticks (three strokes at about 1182,830-870, two near 1340,725) and is front; the thin plain line SW to Hengelo is the boundary. The Ruhr pocket's west edge on the Rhine (x 490-740) is past the 7E crossings and untraced, so the ring shows open there.
 # Reviewed: `area: [470, 2320, 760, 2950]` now takes in the Ruhr pocket's west side along the Rhine (x 490-740, y 2400-2930 as noted, to Koln): 8 stretches added, front 2,288 -> 2,349 km (about 61 km); ticks on the map's ticks on the overlay crop 380,2200. The area also brought in the heavy Rhine north of Duisburg (magenta, no ticks), boxed. No town changed side. Still missing: about 60 px of the heavy line between 590,2372 and 650,2378 north of the Oberhausen arc, and the Rhine north of Duisburg.
+# Reader: area widened to [0, 0, 760, 2950]: adds the Dutch-border front (Emmen/Coevorden), 2 stretches, front 2,349 -> 2,417 km (run 5 unsure, ticked); two boxes added for the Rhine's ink at Wesel; no town changed side.
+# Reviewed (7 Nov 2026): area widened to the sheet's top-left corner (B13's west neat line is about 6 35'E, so only the Dutch border strip lies there); what it added is the ticked front along the Dutch border (Emmen, Coevorden, Meppen, Lingen, Twente) where present, with the red ticks on the map's own (overlay crop 250,900 on 04-11). Boundaries and the Rhine ink at Wesel (behind the line since 24 March) boxed; no town changes side.

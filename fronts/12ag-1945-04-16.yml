@@ -10,7 +10,7 @@ report: "315"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 315, situation as of 161200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
 gcps_from: 12ag-1945-04-15
-area: [470, 124, 4900, 2974]
+area: [0, 0, 4900, 2974]
 exclude:
   - {box: [400, 174, 1520, 504], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 13 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
   - {box: [4930, 104, 6400, 1034], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 312, SITUATION AS OF 131200 APR. 1945, signature and name), all letters; same place as 04-08 (--title 4700 80 1600 930)"}
@@ -61,3 +61,5 @@ exclude:
 flip: []
 checked: []
 # Reviewed: 25 of 26 towns on 15 April's side; 13E 51N own ("13E 51N          own (US)  by run 69 own at 5726,3078"; 15 Apr enemy): its ring sits about 15 px from the Zschopau line, ticked on its west with US symbols inside, a weak test. Pockets ringed and ticked outward on the whole-sheet overlay (regenerated and read by the reviewer): the Ruhr (cut at Hagen), the Harz, Köthen/Barby, Emmen; the Zeitz-Altenburg-Chemnitz salient closed and ticked west; the Elbe Salzwedel-Havelberg. 93 stretches, 1931 km; three unsure stubs where the Ruhr pocket's halves meet at Hagen. 28 empty boxes dropped; 36 added on boundary runs (Celle-Münster, Hanau-Bayreuth, Bad Kreuznach-Saarbrücken) and looked-at strays (lake edges, river blue, lettering); the ticked front at Celle stays traced.
+# Reader: area widened to [0, 0, 4900, 2974]: adds nothing; GeoJSON unchanged.
+# Reviewed (7 Nov 2026): area widened to the sheet's top-left corner (B13's west neat line is about 6 35'E, so only the Dutch border strip lies there); what it added is the ticked front along the Dutch border (Emmen, Coevorden, Meppen, Lingen, Twente) where present, with the red ticks on the map's own (overlay crop 250,900 on 04-11). Boundaries and the Rhine ink at Wesel (behind the line since 24 March) boxed; no town changes side.

@@ -10,7 +10,7 @@ report: "316"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 316, situation as of 171200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
 gcps_from: 12ag-1945-04-16
-area: [478, 100, 4908, 2950]
+area: [0, 0, 4908, 2950]
 exclude:
   - {box: [408, 150, 1528, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 13 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either (04-16's box shifted by +8,-24; holds the same today)"}
   - {box: [4938, 80, 6408, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 312, SITUATION AS OF 131200 APR. 1945, signature and name), all letters; same place as 04-08 (--title 4700 80 1600 930) (04-16's box shifted by +8,-24; holds the same today)"}
@@ -65,3 +65,5 @@ exclude:
 flip: []
 checked: []
 # Reviewed: 25 of 26 towns on 16 April's side. 7E 52N (Münster) reads enemy and is WRONG ("7E 52N           enemy     by run 50 own at 718,2451, run 48 own at 654,2417, run 53 own at 805,2440, run 54 enemy at 816,2455"): with the Ruhr pocket shrunk to its western part, the nearest runs are the ring's top at Essen, three own to one enemy; an artefact of the test, not a wrong stretch. The remaining Ruhr pocket (Duisburg-Essen-Wuppertal-Düsseldorf) traces as a closed ring ticked outward (crop 450,2150, read by the reviewer); the heavy Ruhr line east of Essen to Hagen and Arnsberg carries no ticks and is boxed, with the Hagen stubs 16 April kept. Harz, Köthen/Barby, Emmen and the Zeitz-Chemnitz salient ticked outward; the Elbe Salzwedel-Havelberg drawn. 97 stretches, about 1923 km, 0 unsure, no turns. 31 empty boxes dropped, 35 added on boundaries (each looked at), among them three Bad Kreuznach-Baumholder strokes the tool had counted as ticked.
+# Reader: area widened to [0, 0, 4908, 2950]: adds nothing; GeoJSON unchanged.
+# Reviewed (7 Nov 2026): area widened to the sheet's top-left corner (B13's west neat line is about 6 35'E, so only the Dutch border strip lies there); what it added is the ticked front along the Dutch border (Emmen, Coevorden, Meppen, Lingen, Twente) where present, with the red ticks on the map's own (overlay crop 250,900 on 04-11). Boundaries and the Rhine ink at Wesel (behind the line since 24 March) boxed; no town changes side.

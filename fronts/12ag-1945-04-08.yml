@@ -7,7 +7,7 @@ report: "307"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 307, situation as of 081200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet, 6 Nov 2026
 gcps_from: 12ag-1945-04-07
-area: [470, 2320, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
+area: [0, 0, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
 # Boxes: 04-07's 25, each looked at on today's overlay (run with no excludes: 122 runs, 57 not front). The sheet is the same
 # base printing, 24 px off 04-07's in x. The title/Auth/legend are lettered by hand, so moved a little; boundaries are heavy
 # black runs with no ticks, and a run is left out by its middle, so each box now stands on the middle of today's run. The
@@ -32,3 +32,5 @@ checked: []
 # line moved: the Crailsheim salient (10E 49N 52 -> 15 km from the front), Hildesheim, Verden; and fewer, longer
 # stretches. 7 April's boundary boxes that catch no run today were dropped.
 # Reviewed: `area: [470, 2320, 760, 2950]` now takes in the Ruhr pocket's west side along the Rhine (Duisburg to Koln): 5 stretches added, front 1,997 -> 2,074 km (about 77 km); ticks on the map's ticks on the overlay crop 380,2250; no town changed side. Still missing: the Rhine north of Duisburg (off the area).
+# Reader: area widened to [0, 0, 760, 2950]: adds the Dutch-border front (Emmen/Coevorden to Twente), 7 stretches, front 2,074 -> 2,157 km; ticks on the map's ticks on crop 380,420; no town changed side; no box added.
+# Reviewed (7 Nov 2026): area widened to the sheet's top-left corner (B13's west neat line is about 6 35'E, so only the Dutch border strip lies there); what it added is the ticked front along the Dutch border (Emmen, Coevorden, Meppen, Lingen, Twente) where present, with the red ticks on the map's own (overlay crop 250,900 on 04-11). Boundaries and the Rhine ink at Wesel (behind the line since 24 March) boxed; no town changes side.

@@ -6,7 +6,7 @@ report: "310"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 310, situation as of 111200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
 gcps_from: 12ag-1945-04-10
-area: [470, 2320, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
+area: [0, 0, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
 exclude:
   - {box: [430,2340,520,2440], why: "area-taken-in: the same Ninth / Fifteenth boundary's diagonal (about 435,2430 to 548,2318), plain heavy line, no map ticks (--look 490,2375); the front's own stretches start at about 555,2317, outside the box"}
   - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 11 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
@@ -41,9 +41,14 @@ exclude:
   - {box: [1171, 5400, 1301, 5530], why: "the same boundary toward Zweibrucken (run 137, 424 px), heavy line, ticks only the railways' (overlay)"}
   - {box: [1867, 2507, 1927, 2567], why: "the NINTH / FIRST boundary's last stretch to the front at Meschede (run of 150 px, middle 1897,2537), heavy black, no ticks; the pocket's ticked front ends at its corner at 1790,2515 (looked, overlay crop 1550,2380)"}
   - {box: [2965, 1954, 3025, 2014], why: "the TWENTY ONE / TWELFTH boundary through Dassel toward Einbeck (run 45, 90 px, middle 2995,1984), plain heavy line, no ticks, continuing the run at Einbeck (looked, overlay crop 2750,1800)"}
+  - {box: [541, 1336, 611, 1406], why: "run 46 (middle 576,1371): the First CDN / Second BR boundary running south to the Zutphen box, heavy black, no ticks (overlay crop 380,420)"}
+  - {box: [387, 2609, 457, 2679], why: "run 75 (middle 422,2644): the Ninth / Fifteenth boundary west of Duesseldorf, heavy black, no ticks (overlay crop 250,2100)"}
+  - {box: [307, 2725, 377, 2795], why: "run 79 (middle 342,2760): the same boundary's foot, heavy black, no ticks (overlay crop 250,2100)"}
 flip: []
 checked:
   - {at: [1298, 2179], why: "the 30 px link across the heavy blob where the Lippe-Datteln canal meets the front at Lunen (between runs 47 and 50); no ticks of its own, the chain runs on through it with the ticks of its neighbours on the same side, the red ticks to the US side (looked, crop 1150,2080); a thin boundary wiggle beside it is not traced"}
 # Boxes: 04-10's, each retested on a bare run (only Auth, title, legend boxed) listing every run's middle; kept those catching a heavy unticked boundary run, dropped the rest (catch nothing today), added boxes for the boundary runs the bare run showed (each looked at on the overlay or --look). Checked entries of 04-10 at (888,3272) and (3856,3788) match no run today and are dropped.
 # Reviewed: every town on 10 April's side; the Lingen-area crossings keep their distance to the front (7E 53N 23 -> 24 km). The thick Lingen V carries the map's ticks (seen at 5x on 13 April) and is front: its two boxes were taken out on review; the thin plain line SW to Nordhorn stays boxed as the boundary. The sheet does not yet show the Ninth Army on the Elbe.
 # Reviewed: `area: [470, 2320, 760, 2950]` now takes in the Ruhr pocket's west side along the Rhine (Duisburg to Koln): 7 stretches added, front 1,848 -> 1,915 km (about 67 km); ticks on the map's ticks on the overlay crop 380,2250. The area also brought in the Ninth / Fifteenth boundary's diagonal (ticked blue by the grey railway ticks beside it, turned toward the US side), boxed. No town changed side. Still missing: the Rhine north of Duisburg (off the area).
+# Reader: area widened to [0, 0, 760, 2950]: adds the Dutch-border front (Emmen/Coevorden to Twente), 5 stretches, front 1,915 -> 1,988 km; four boxes added (the First CDN/Second BR boundary to Zutphen, the Ninth/Fifteenth boundary west of Duesseldorf, two stretches); unboxed they turned 7E 52N to enemy, boxed no town changes side.
+# Reviewed (7 Nov 2026): area widened to the sheet's top-left corner (B13's west neat line is about 6 35'E, so only the Dutch border strip lies there); what it added is the ticked front along the Dutch border (Emmen, Coevorden, Meppen, Lingen, Twente) where present, with the red ticks on the map's own (overlay crop 250,900 on 04-11). Boundaries and the Rhine ink at Wesel (behind the line since 24 March) boxed; no town changes side.

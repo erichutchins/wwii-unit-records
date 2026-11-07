@@ -9,7 +9,7 @@ report: "314"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 314, situation as of 151200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
 gcps_from: 12ag-1945-04-14
-area: [470, 108, 4900, 2958]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
+area: [0, 0, 4900, 2958]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
 exclude:
   - {box: [730, 2793, 765, 2833], why: "area-taken-in: heavy ink of the enemy bridgehead list's box beside its last symbol (3), a small hook the area brought in, not front (no ticks; inside the list's frame, far from any front stretch)"}
   - {box: [455, 2168, 560, 2238], why: "area-taken-in: the heavy black Rhine north of Duisburg (with its river blue and the FIFTEENTH / NINTH boundary lettering), no map ticks (magenta, unsure 500,2208); the front's stretch begins at about 563,2272, outside the box"}
@@ -49,6 +49,9 @@ exclude:
   - {box: [1175, 4673, 1245, 4743], why: "run 107 (middle 1210,4708) of the first 04-15 run: the same boundary, plain heavy (crop 400,3400)"}
   - {box: [813, 5037, 883, 5107], why: "run 108 (middle 848,5072) of the first 04-15 run: the same boundary down to the Saar, plain heavy (crop 400,3400)"}
   - {box: [1949, 5191, 2019, 5261], why: "run 112 (middle 1984,5226) of the first 04-15 run: the thin Seventh / First French boundary on the Rhine at Speyer, no ticks (looked 1984,5226)"}
+  - {box: [320, 1940, 390, 2010], why: "run 41 (middle ~355,1975): a river squiggle inside the legend list's I CDN box (Vicinity Zutphen), not front (overlay crop 250,1850)"}
 flip: []
 checked: []
 # Reviewed: 25 of 26 towns on 14 April's side. 11E 50N own ("11E 50N          own (US)  by run 81 own at 4172,4380"): the Coburg-Kronach front is gone and the town sits inside the Bamberg salient, ticked on its inside: right, a weak test. Pockets drawn and ringed, ticks outside: Emmen, the Ruhr (cut at Hagen), the Harz, Köthen/Barby, Zeitz-Altenburg; the Elbe Salzwedel-Havelberg. 91 stretches, 2079 km (14 Apr 2439: smaller pockets, and long boundaries now boxed). 28 of 14 April's boundary boxes caught nothing and are dropped; 25 added on today's runs, among them the long Twenty One/Twelfth line to Celle and the Frankfurt-Bayreuth line (the front at Celle kept). One unsure stub at Hagen, where the pocket's halves meet.
+# Reader: area widened to [0, 0, 4900, 2958]: adds nothing but one 3 km river squiggle in the legend list's I CDN box, boxed; GeoJSON unchanged.
+# Reviewed (7 Nov 2026): area widened to the sheet's top-left corner (B13's west neat line is about 6 35'E, so only the Dutch border strip lies there); what it added is the ticked front along the Dutch border (Emmen, Coevorden, Meppen, Lingen, Twente) where present, with the red ticks on the map's own (overlay crop 250,900 on 04-11). Boundaries and the Rhine ink at Wesel (behind the line since 24 March) boxed; no town changes side.

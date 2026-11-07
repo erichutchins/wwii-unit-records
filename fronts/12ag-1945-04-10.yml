@@ -7,7 +7,7 @@ report: "309"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 309, situation as of 101200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet, 7 Nov 2026
 gcps_from: 12ag-1945-04-09
-area: [470, 2320, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
+area: [0, 0, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
 exclude:
   - {box: [470,2325,548,2410], why: "area-taken-in: the heavy black Ninth / Fifteenth army boundary's diagonal toward the Rhine at Duisburg, plain heavy line with no map ticks (magenta, unsure 487,2395); the front's stretches start right of x 555 outside the box"}
   - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 10 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
@@ -42,3 +42,5 @@ checked:
 # Dropped from 04-09 (catch no run today): 1990-2420 x 4120-4460, 1900-2020 x 5180-5250, 2840-2970 x 3615-3735, 1660-1790 x 4560-4680, 1990-2100 x 5200-5320, 900-1030 x 3480-3600. Kept (each catches a heavy unticked run): Auth, title, legend, the two Twenty One boxes, the Lahn box, Treysa, Saarbrucken, Remagen, N Koblenz, Ehrenbreitstein, Lahn mouth.
 # Reviewed: 23 of 26 towns on 9 April's side; 10E 52N, 10E 50N and 9E 49N (own) and the north-east crossings 20-30 km nearer the front are the advance toward the Elbe and to Heilbronn. Overlay looked at whole by the reviewer.
 # Reviewed: `area: [470, 2320, 760, 2950]` now takes in the Ruhr pocket's west side along the Rhine (Duisburg to Koln): 7 stretches added, front 2,087 -> 2,158 km (about 71 km); ticks on the map's ticks on the overlay crop 380,2250. The area also brought in the Ninth / Fifteenth boundary's diagonal (magenta, no ticks), boxed. No town changed side. Still missing: the Rhine north of Duisburg (off the area).
+# Reader: area widened to [0, 0, 760, 2950]: adds the Dutch-border front (Emmen/Coevorden to Twente), 4 stretches, front 2,158 -> 2,244 km (run 11, the west tip at the neat line, stays unsure, ticked); no town changed side; no box added.
+# Reviewed (7 Nov 2026): area widened to the sheet's top-left corner (B13's west neat line is about 6 35'E, so only the Dutch border strip lies there); what it added is the ticked front along the Dutch border (Emmen, Coevorden, Meppen, Lingen, Twente) where present, with the red ticks on the map's own (overlay crop 250,900 on 04-11). Boundaries and the Rhine ink at Wesel (behind the line since 24 March) boxed; no town changes side.
