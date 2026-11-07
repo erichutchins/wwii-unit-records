@@ -1,0 +1,18 @@
+# 12ag-1944-09-06: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21093
+date: 1944-09-06
+as_of: 1200 HRS 6 SEPTEMBER 1944
+title: "Situation 1200 hrs 6 September 1944, Twelfth Army Group"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B11.csv
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [200, 200, 2800, 720], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 6 SEPTEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [5600, 4900, 6400, 5450], why: "the legend at the bottom right on this sheet (U.S., British, Enemy), no front in it"}
+  - {box: [4040, 3890, 4130, 3970], why: "the outline of an enemy division's box (3) south-east of Verdun, traced as a stray stretch (looked at 4073,3933)"}
+flip: []
+checked: []
+# Reader: the sheet draws no ticked front line anywhere. The heavy black lines (First Canadian/Second British, Twenty One/Twelfth
+# group, First/Third and the corps boundaries, drawn thin enough that the tool does not trace them) have no ticks; the
+# ticked grey lines are railways. The trace is therefore only what the three boxes leave out: no front stretch.
+# Reviewed: the sheet draws no ticked front line at all (whole-sheet overlay read by the reviewer): only army, army-group and corps boundaries, unit symbols, and the grey railways; so the front is empty here: no front drawn, not no front. Title, legend (bottom right on this sheet) and one enemy box outline boxed; with them the trace is empty. Towns matched to the base's 81 (59 agree, median 1.8 px), so later B09 days can match to this one. No sides to test.
