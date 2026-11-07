@@ -1,0 +1,94 @@
+# The questions the records leave open, and each answer's evidence. Hand-edited; fields in records/README.md (An engagement's claims).
+# The 60th's reports are a transcription (EUCMH), not yet checked against the original; Cole is secondary, written from
+# the US records and the German commanders' postwar manuscripts. No German record has been read here.
+- question: When did the German attack on the Sauer begin?
+  answer: '"Dec 16, 0630"'
+  weight: record
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  note: After "over a 1000 rounds artillery preparation"
+- question: When did the German attack on the Sauer begin?
+  answer: Few or no boats landed "before 0630"
+  weight: secondary
+  source: Cole, The Ardennes, chapter IX
+  ref: cole/9/p229
+  note: Cole adds "considerable confusion and delay on the east bank"; he gives no German time for the crossing
+- question: What attacked the 60th on the Sauer?
+  answer: '"Two infantry regiments", by the battalion''s estimate'
+  weight: record
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  note: '"one to attack the battalion and the other to move through and attack positions to our rear"'
+- question: What attacked the 60th on the Sauer?
+  answer: The 276th Volks Grenadier Division, its 986th and 988th Regiments, with the 987th on the south flank
+  weight: secondary
+  source: Cole, The Ardennes, chapter IX
+  ref: cole/9/p229
+  note: >-
+    Pages 229-231. Cole: the 987th was "thus far missing in American identifications of the 276th" on the 17th. A
+    German record (the division's or LXXX Corps' war diary) would settle it; none has been read
+- question: What did the fight on the Sauer cost the 60th?
+  answer: 1 officer and 63 men killed, 4 and 156 wounded, 4 and 141 missing, in the whole month
+  weight: record
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  note: The month's totals, Sibret and Chenogne included; the report doesn't split them by fight
+- question: What did the fight on the Sauer cost the 60th?
+  answer: '"An estimated 231 casualties" in the three days'
+  weight: secondary
+  source: Cole, The Ardennes, chapter IX
+  ref: cole/9/p235
+  note: Cole has volunteers leading back "nearly 60 percent of the armored infantry" from behind the German lines
+- question: When was the attack from Longlier toward Sibret?
+  answer: '"0800, on Dec 19", as transcribed'
+  weight: record
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  note: >-
+    The report arrives at Longlier at 2345 on the 26th and has Sibret taken by nightfall on the 27th, so the 19th is a
+    slip, the transcriber's or the original's; the original hasn't been checked
+- question: When was the attack from Longlier toward Sibret?
+  answer: The morning of 27 December
+  weight: secondary
+  source: Cole, The Ardennes, chapter XXIV
+  ref: cole/24/p615
+  note: Task Force Collins was "held up some hours by mines" north of Vaux-lez-Rosières
+- question: When did Task Force Collins first get into Chenogne?
+  answer: 30 December ("attacked and took Chenogne"), pulling back south of it at darkness
+  weight: record
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  note: The report has the 28th's attack on the woods driven back, and the 29th as patrolling
+- question: When did Task Force Collins first get into Chenogne?
+  answer: 29 December, late in the day, its tanks through the village square before four were knocked out
+  weight: secondary
+  source: Cole, The Ardennes, chapter XXIV
+  ref: cole/24/p616
+  note: Cole's "on the 8th" for the day before is a misprint for the 28th in this transcription (p. 616)
+- question: When did the German attack south from Chenogne toward Sibret come?
+  answer: '"On Dec 31, at 0530"'
+  weight: record
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  note: An enemy force "estimated the size of a brigade"; the battalion names no unit
+- question: When did the German attack south from Chenogne toward Sibret come?
+  answer: 30 December, from 0730, the Fuehrer Begleit Brigade with the 3d Panzer Grenadier Division
+  weight: secondary
+  source: Cole, The Ardennes, chapter XXIV
+  ref: cole/24/p619
+  note: >-
+    Pages 619-620: Denkert's plan for 0730, which Remer kept; the grenadier battalion "drove Task Force Collins back
+    toward Sibret". The two accounts are a day and two hours apart. The battalion's report for the 30th has its own
+    attack on Chenogne and a German attack at 2000; a German record, or the original of the battalion's report, would
+    settle which day
+- question: What attacked from Chenogne?
+  answer: '"An enemy force estimated the size of a brigade", an infantry battalion and a tank company against the battalion'
+  weight: record
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+- question: What attacked from Chenogne?
+  answer: The Fuehrer Begleit Brigade (Remer), attached to the 3d Panzer Grenadier Division
+  weight: secondary
+  source: Cole, The Ardennes, chapter XXIV
+  ref: cole/24/p619
+  note: Cole names the brigade's "about forty Mark IV tanks plus an assault gun brigade of thirty tubes" (p. 614)

@@ -1,0 +1,456 @@
+# Every dated entry, in the record's words. Hand-edited; fields in records/README.md (An engagement's events).
+# Two sources so far. The US side: the 60th Armored Infantry Battalion's after action reports for December 1944 and
+# January 1945, as transcribed by EUCMH (eucmh60aib/<month>; the page has no page numbers, and the transcription has
+# not been checked against the original in NARA RG 407). The German side: Cole's official history (cole-ardennes,
+# secondary), which drew on the German commanders' postwar manuscripts; no German record has been read here yet.
+# The report types no zone letters: its times are taken as A, the engagement's clock (engagement.md, "The clock").
+
+# ---- The Sauer, 16-26 December
+- at: 1944-12-10 1110
+  of: us
+  actor: 60aib
+  kind: station
+  words: >-
+    "By Dec 10, at 1110, the battalion completed relieving the 2/109, in a sector of the line assigned to 9-AD. From
+    Dec 10 to Dec 15, the 60-AIB occupied and defended the assigned sector. We patrolled actively along our front but
+    nothing took place to change this sectors reputation of being exceptionally quiet."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: beaufort
+  note: >-
+    The report names no village for the sector; Beaufort is where its company command posts were on the 17th, and
+    Cole has the battalion's headquarters there (p. 231)
+- at: 1944-12-16 0630
+  of: de
+  actor: The German attack (as the 60th's report gives it)
+  kind: fight
+  words: >-
+    "On Dec 16, 0630, the Germans attacked our sector following over a 1000 rounds artillery preparation consisting
+    chiefly of Nebelwerfer and medium caliber artillery. The attacking force was estimated at two infantry regiments,
+    one to attack the battalion and the other to move through and attack positions to our rear. ... The two main
+    routes of infiltration were through the draws at Dilligen and Grundhof. ... Vehicular bridges were established
+    across the Sauer River at Dillegen, Wallendorf and Grundhof."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: dillingen
+  basis: reported
+  note: The US side's account of the attack; the town is spelled Dilligen and Dillegen in the transcription
+- at: 1944-12-16 0630
+  placed: Cole's "before 0630", the time the first boats landed; no German time is given
+  of: de
+  actor: 276th Volks Grenadier Division
+  kind: fight
+  words: >-
+    "In any case there was considerable confusion and delay on the east bank, and few or none of the rubber assault
+    boats landed on the American side before 0630. ... The main crossing was made by the 986th Regiment near
+    Wallendorf."
+  source: Cole, The Ardennes, chapter IX
+  ref: cole/9/p229
+  pos: wallendorf
+  basis: secondary
+  note: >-
+    Cole (p. 229) has the 276th (Generalleutnant Kurt Moehring), just in from Poland, "generally" facing the 60th
+    Armored Infantry Battalion, between Wallendorf and Bollendorf; its artillery and train horse-drawn, no assault guns
+- at: 1944-12-16
+  placed: Cole types no time
+  of: de
+  actor: 988th Regiment (276th Volks Grenadier Division)
+  kind: fight
+  words: >-
+    "The center German regiment, 988th, made its crossings near Dillingen, aiming in the direction of Beaufort and
+    Haller. Here Company A was deployed in the woods above the Sauer ... By noon the attack threatened to overrun the
+    company and infiltration had taken place at several points".
+  source: Cole, The Ardennes, chapter IX
+  ref: cole/9/p230
+  pos: dillingen
+  basis: secondary
+- at: 1944-12-16
+  placed: '"By noon"; no time typed'
+  of: us
+  actor: 60aib
+  kind: fight
+  words: >-
+    "The situation became increasingly critical due to our over extended front and, by noon, Baker Company, the
+    reserve company, less its AT Plat was committed between Able and Charlie Cos with the mission of driving through
+    and clearing the enemy from the near bank of the Our and the Sauer Rivers. After meeting heavy opposition, Baker
+    Co finally succeeded in occupying a position abreast of Able and Charlie Cos."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: beaufort
+- at: 1944-12-17 1100
+  of: us
+  actor: CCA, 9th Armored Division
+  kind: assignment
+  words: >-
+    "After continued request for reinforcements, the morning of Dec 17, CCA/9-AD, having taken command of this sector
+    at 1100, attached Troop A, 89th Cavalry Reconnaissance Squadron to the battalion, and the 3-FAB assigned 3 medium
+    tanks."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+- at: 1944-12-17
+  placed: Cole types no time ("during the morning")
+  of: de
+  actor: 987th Regiment (276th Volks Grenadier Division)
+  kind: move
+  words: >-
+    "On the south the 987th Regiment, thus far missing in American identifications of the 276th Volks Grenadier
+    Division, appeared during the morning. One of its battalions marched unopposed through the Schwarz Erntz gorge and
+    occupied Müllerthal".
+  source: Cole, The Ardennes, chapter IX
+  ref: cole/9/p231
+  pos: mullerthal
+  basis: secondary
+- at: 1944-12-17 1743
+  of: us
+  actor: 60aib
+  kind: move
+  words: >-
+    "By late afternoon the situation again became more critical and by darkness snipers had worked into Beaufort. All
+    contact was lost with the front line companies and could not be restored. The 81-MM mortar platoon was ambushed
+    attempting to move into position and all company OP's in Beaufort were attacked and forced to withdraw with all
+    Company Commanders cut off from their companies. With the enemy in control of Beaufort and enemy patrols
+    attempting to cut the only withdrawal route, Beaufort – Haller road, at 1743, the Hq & Hq Co (minus) withdrew to
+    the Battalion Motor Park in the vicinity of Savelborn."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: savelborn
+- at: 1944-12-17 2030
+  placed: Cole's time for the cavalry's rear guard (from the US records); the attack began "at dark"
+  of: de
+  actor: 1st Battalion, 988th Regiment
+  kind: fight
+  words: >-
+    "The chief German success on 17 December came at the close of day, with an attack by the 1st Battalion, 988th
+    Regiment, on Beaufort. ... at dark Germans seeped into the town from assembly points in the woods ... The cavalry
+    unit, led by Capt. Victor C. Leiker, held on until 2030, by which time the German infantry controlled all the
+    street corners, then fought its way south to Waldbillig."
+  source: Cole, The Ardennes, chapter IX
+  ref: cole/9/p232
+  pos: beaufort
+  basis: secondary
+- at: 1944-12-18 1400
+  of: us
+  actor: 60aib
+  kind: fight
+  words: >-
+    "The attack proceeded as planned but encountered heavy enemy opposition at the Line of Departure ... At 1600, Dec
+    18, after an advance of 1500 yard the task forces were withdrawn. An enemy force of approximately 70 men engaged
+    the Command Post in a fire fight from 0730 to 1400, personnel, drivers and small administrative groups from Co
+    CP's threw back all attempts to take over the place and at 1400, 50 prisoners of the afore mentioned group
+    surrendered. Throughout the day 250 enemy prisoners were taken and about 100 others were killed."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: savelborn
+  note: CCA's counterattack toward Beaufort was set for 0300; the report gives 1600 for its withdrawal
+- at: 1944-12-18
+  placed: '"At dawn"; Cole types no time'
+  of: de
+  actor: A battalion of the 986th Regiment, with an antitank company
+  kind: fight
+  words: >-
+    "The American setback had stemmed from the last act of General Moehring as commander of the 276th. Moehring had
+    collected a battalion of the 986th Regiment and an antitank company armed with fifty-four Panzerfausts for an
+    attack across the Savelborn-Ermsdorf road to seize Medernach. ... There it lay, with perfect cover for close-in
+    work with the bazooka, when the American advance began."
+  source: Cole, The Ardennes, chapter IX
+  ref: cole/9/p234
+  pos: savelborn
+  basis: secondary
+  note: >-
+    In the Eselbour woods. Cole (p. 234): "The Americans lost seven tanks before the order finally came to withdraw."
+    Moehring was killed in his staff car between Beaufort and Müllerthal (p. 232); Cole gives no date, and has
+    Colonel Hugo Dempwolff take over the division (p. 235)
+- at: 1944-12-19
+  placed: '"On the morning of Dec 19"; no time typed'
+  of: us
+  actor: 60aib
+  kind: station
+  words: >-
+    "During the night of Dec 18/19 the remnants of Able Co and the MG platoon successfully withdrew from their
+    Beaufort position and were placed in the defensive line. On the morning of Dec 19, the defensive line Waldbillig –
+    Ermsdorf was strengthened ... The 60-AIB's CP was moved to 9136."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: waldbillig
+  note: The four-figure reference 9136 names no map sheet, so the CP is not placed; the line is drawn at Waldbillig
+- at: 1944-12-20
+  placed: '"During the night of Dec 19/20"'
+  of: us
+  actor: 60aib
+  kind: move
+  words: >-
+    "During the night of Dec 19/20 the remnants of Baker and Charlie Cos arrived in an area near Fels, Luxembourg. This
+    withdrawal was executed just prior to an enemy attack by troops estimated the size of Battalion preceded by an
+    artillery preparation to wipe out the surrounded companies."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: larochette
+  note: Fels is Larochette's German name
+- at: 1944-12-20
+  placed: '"In midafternoon" for the attack, "when night fell" for the village; Cole types no time'
+  of: de
+  actor: 276th Volks Grenadier Division
+  kind: fight
+  words: >-
+    "In midafternoon on 20 December the weapons remaining to the company, apparently not more than three or four,
+    joined the 988th at Haller and the attack against Waldbillig commenced. ... when night fell Dempwolff brought the
+    987th Regiment through Müllerthal and into the gorge running west to Waldbillig. ... The capture of Waldbillig on
+    20 December marked the high-water mark of the 276th Volks Grenadier Division advance."
+  source: Cole, The Ardennes, chapter IX
+  ref: cole/9/p236
+  pos: waldbillig
+  basis: secondary
+  note: The 60th's report doesn't mention Waldbillig after the 19th
+- at: 1944-12-21
+  of: us
+  actor: 60aib
+  kind: fight
+  words: >-
+    "From Dec 20 to Dec 23, our line was strengthened and Charlie Co was moved up to occupy the right portion of our
+    sector. On Dec 21, an attack by about 60 enemy infantrymen on Charlie Co's right flank was quickly repulsed."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+- at: 1944-12-23
+  of: us
+  actor: 60aib
+  kind: fight
+  words: >-
+    "On Dec 23, an enemy counterattack was launched by two infantry companies and two S/P 75-MM guns on the right of
+    the sector at Savelborn. The entire attack was repulsed with heavy losses. On Dec 24, Baker Co was attached to
+    19t-TB. From Dec 23 to Dec 26, the activity on both sides was limited to a heavy exchange of artillery fire and
+    probing patrols."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: savelborn
+  note: '"19t-TB" as transcribed: the 19th Tank Battalion'
+
+# ---- Sibret and Chenogne, 26 December - 3 January
+- at: 1944-12-26 1600
+  of: us
+  actor: 60aib
+  kind: move
+  words: >-
+    "At 1600, Dec 26, the 60-AIB was relieved in the Savelborn sector and as part of CCA, 9-AD, moved immediately to
+    Longlier, Belgium."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: savelborn
+- at: 1944-12-26 2345
+  of: us
+  actor: CCA, 9th Armored Division
+  kind: arrival
+  words: >-
+    "Arriving at 2345, CCA, was attached to the 4th Armored Division and orders were issued for an attack at 0800, on
+    Dec 19, along the Neufchateau – Bastogne road to take the high ground southwest of Bastogne and make contact with
+    friendly units in the town."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: longlier
+  note: '"Dec 19" as transcribed; the attack was the next morning, 27 December (the report''s own next sentences, and Cole p. 615)'
+- at: 1944-12-27
+  placed: Day only; the attack was ordered for 0800
+  of: us
+  actor: Task Force Collins
+  kind: fight
+  words: >-
+    "The 60-AIB and attachments were organized as Task Force Collins (Lt Col Kenneth W. Collins) ... The first
+    resistance encountered was in vicinity of Sibret, Belgium. 40 PW's being taken. A PW stated they were left behind
+    to cover the withdrawal of the main body to Saint-Hubert, Belgium. Light resistance was also encountered in
+    capturing the towns of Jodenville and Flohamont. ... At darkness road blocks were established surrounding Sibret.
+    Charlie Co patrolled the town throughout the night and Able Co occupied the high ground north of Sibret."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: sibret
+  note: >-
+    Task Force Collins was the battalion less Baker Co, with Charlie Co of the 19th Tank Bn, a platoon of the 9th
+    Armored Engineers, the 811th Tank Destroyer Bn and a section of the 482nd AAA AW Bn
+- at: 1944-12-27
+  placed: Cole types no time ("It took all night")
+  of: de
+  actor: A detachment of the 104th Panzer Grenadier Regiment
+  kind: fight
+  words: >-
+    "Collins sent his single company of Shermans into Sibret, firing at everything in sight. The Americans could not be
+    said to hold the village, however, for a small detachment of the 104th Panzer Grenadier Regiment was determined to
+    make a fight of it and did. It took all night to drive the German grenadiers out of the cellars and ruined houses."
+  source: Cole, The Ardennes, chapter XXIV
+  ref: cole/24/p615
+  pos: sibret
+  basis: secondary
+  note: >-
+    Cole (p. 615): the sector was General Kokott's, his 26th Volks Grenadier Division and its attached battalions of
+    the 15th Panzer Grenadier Division
+- at: 1944-12-28
+  of: us
+  actor: 60aib
+  kind: fight
+  words: >-
+    "On Dec 28, Able Co, with Charlie 19-TB attached, attacked the woods to north of the former position but were
+    driven back by heavy enemy fire. Throughout the remainder of the 28 as well as the 29, vigorous patrolling was
+    carried out. Enemy activity was relatively inactive."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: sibret
+- at: 1944-12-29
+  placed: '"While at breakfast"; Cole types no time'
+  of: de
+  actor: A company of the 26th Volks Grenadier Division's pioneers
+  kind: fight
+  words: >-
+    "In the meantime General Kokott had gathered a counterattack force, a company of the division Pioneers, to retake
+    Sibret. While at breakfast on the 29th ... Collins' troops suddenly saw a body of men march out of the nearby
+    woods. ... The Americans cut loose with every weapon, to such effect that some fifty dead Germans were counted".
+  source: Cole, The Ardennes, chapter XXIV
+  ref: cole/24/p616
+  pos: sibret
+  basis: secondary
+  note: The 60th's report has the 29th as patrolling, "Enemy activity was relatively inactive"
+- at: 1944-12-29
+  placed: '"Late in the day"; Cole types no time'
+  of: de
+  actor: Fuehrer Begleit Brigade
+  kind: fight
+  words: >-
+    "Late in the day, however, the fortunes of war turned against the Americans. Collins' tanks had moved through the
+    village square in Chenogne and were approaching a road junction when high velocity shells knocked out the two lead
+    tanks. Then, in a sharp exchange of shots, the enemy gunners accounted for two more of the Shermans, and the
+    Americans withdrew."
+  source: Cole, The Ardennes, chapter XXIV
+  ref: cole/24/p616
+  pos: chenogne
+  basis: secondary
+  note: >-
+    Cole (p. 616): Remer's brigade "already had taken some share in the action against CCA", one of its 105-mm. flak
+    pieces holding up Task Force Collins at the roadside woods. The 60th's report has Chenogne taken on the 30th
+    (Questions, below)
+- at: 1944-12-30
+  placed: Day only; the 2000 attack follows
+  of: us
+  actor: Task Force Collins
+  kind: fight
+  words: >-
+    "On Dec 30, Task Force Collins attacked and took Chenogne. Charlie Co lead in the attack and after stiff fighting
+    cleared all enemy resistance from high ground south of Chenogne and heavy woods to the right. Able Co supported by
+    Charlie 19-TB then passed through and cleared the town of Chenogne. At darkness our troops pulled back and
+    occupied the high ground south of the town and an attached Recon platoon of Troop B, 89th Reconnaissance Squadron
+    out posted the town."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: chenogne
+- at: 1944-12-30 0730
+  placed: The time Cole gives for the German plan ("planned to attack at 0730"), which he says Remer kept
+  of: de
+  actor: Fuehrer Begleit Brigade, with the 3d Panzer Grenadier Division
+  kind: fight
+  words: >-
+    "Generalmajor Walter Denkert, commanding the 3d Panzer Grenadier Division, planned to attack at 0730 on 30
+    December ... Remer also kept to his time schedule. The Fuehrer Begleit advance was geared for a one-two punch at
+    Sibret. ... The grenadier battalion made some progress and drove Task Force Collins back toward Sibret, but the
+    battalion commander was killed and the advance slowed down."
+  source: Cole, The Ardennes, chapter XXIV
+  ref: cole/24/p620
+  pos: chenogne
+  basis: secondary
+  note: >-
+    Pages 619-620. The 60th's report has the attack south from Chenogne at 0530 on the 31st (Questions, below)
+- at: 1944-12-30 2000
+  of: de
+  actor: The enemy (as the 60th's report gives it)
+  kind: fight
+  words: >-
+    "At 2000, the enemy attacked with an unknown number of tanks and infantry and drove our out post from Chenogne to
+    our position south of the town. At 2400, the enemy probed our lines with two tanks and a platoon of infantry along
+    the Sibret – Chenogne road but were repulsed."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: chenogne
+  basis: reported
+- at: 1944-12-30
+  placed: '"As dusk came"; Cole types no time'
+  of: de
+  actor: 3d Panzer Grenadier Division
+  kind: move
+  words: >-
+    "As dusk came Remer set about pulling his command together, and the 3d Panzer Grenadier --heeding his call for
+    assistance--moved troops into the ruins of Chenogne."
+  source: Cole, The Ardennes, chapter XXIV
+  ref: cole/24/p620
+  pos: chenogne
+  basis: secondary
+  note: Pages 620-621
+- at: 1944-12-31 0530
+  of: de
+  actor: The enemy (as the 60th's report gives it)
+  kind: fight
+  words: >-
+    "On Dec 31, at 0530, the enemy launched a strong attack south from Chenogne apparently with the aim of cutting the
+    Neuchateau – Bastogne road. This attack was launched by an enemy force estimated the size of a brigade. Of this,
+    an estimated battalion of infantry and a company of tanks attacked our position both frontally and from the
+    flanks. Able Co 60-AIB and Charlie Co 19-TB were forced from the high ground south of Chenogne ... The force of the
+    attack struck the reserve position and was repulsed with very heavy losses."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: chenogne
+  basis: reported
+  note: The report names no German unit; Cole puts the Fuehrer Begleit Brigade's attack on the 30th
+- at: 1944-12-31 1200
+  placed: '"By noon"'
+  of: us
+  actor: 60aib
+  kind: station
+  words: >-
+    "Simultaneously with the enemy counterattack a Combat Command from the 11-AD was launching an attack northeast
+    throughout Jodenville and this threat to his flank apparently caused the enemy to withdraw his forces to the high
+    ground south of Chenogne. By noon our troops had been reorganized and the line firmly established."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  pos: sibret
+- at: 1944-12
+  placed: The month's totals, as the report gives them
+  of: us
+  actor: 60aib
+  kind: loss_list
+  words: >-
+    Personnel losses, each line as typed: "Killed – 1 Off & 63 EM", "Died of wounds – O Off & 1 EM", "Wounded or injured
+    – 4 Off & 156 EM", "Missing – 4 Off & 141 EM", "Captured – 0 Off & 2 EM". And: "During the month the following
+    damages and casualties were inflicted on the enemy : Killed : 578; Prisoners : 518; Wounded : 327; AT Guns 3
+    (88-MM); Vehicles : 4."
+  source: 60th AIB AAR, December 1944
+  ref: eucmh60aib/1944-12
+  note: The enemy's losses are the battalion's own count, not a German record
+- at: 1945-01-01 1100
+  of: us
+  actor: Task Force Collins
+  kind: fight
+  words: >-
+    "orders were received by Task Force Collins to attack that morning with the mission of clearing the heavy woods to
+    the front and right front, and seize and occupy the high ground south of the railroad between Chenogne and
+    Senonchamps. ... the attack which was set for 1100. ... Within some five or six hours after the attack began, the
+    woods had been flushed, and Task Force Collins was digging in on its objective. ... In these woods we captured our
+    first prisoners other than German (Polish, Czech, etc)."
+  source: 60th AIB AAR, January 1945
+  ref: eucmh60aib/1945-01
+  pos: chenogne
+- at: 1945-01-02
+  of: us
+  actor: CCA, 9th Armored Division
+  kind: fight
+  words: >-
+    "On the morning of January 2, these two troops attacked and cleared a small woods just north of the railroad
+    finding therein only a few enemy stragglers. ... Later, Task Force Karsteter took the town of Senonchamps and the
+    11-AD made contact with elements of the 101-A/B north and east of Senonchamps."
+  source: 60th AIB AAR, January 1945
+  ref: eucmh60aib/1945-01
+  pos: senonchamps
+- at: 1945-01-03
+  placed: '"The following afternoon"; no time typed'
+  of: us
+  actor: CCA, 9th Armored Division
+  kind: move
+  words: >-
+    "TF Collins remained in position until units of CCA were relieved the following afternoon, January 3, by elements
+    of the 17-A/B. Upon relief of CCA, both Task Forces were disbanded and all attached elements reverted to their
+    parent units."
+  source: 60th AIB AAR, January 1945
+  ref: eucmh60aib/1945-01
+  pos: chenogne

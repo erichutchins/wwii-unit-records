@@ -1,0 +1,28 @@
+{
+ "box": [
+  [
+   3.397522,
+   48.900838
+  ],
+  [
+   8.599548,
+   50.901301
+  ]
+ ],
+ "zoom": 9,
+ "size": [
+  1894,
+  1131
+ ],
+ "source": "aws-terrain-tiles",
+ "note": "Today's coastline at the tiles' resolution; harbour works since 1943 show as land.",
+ "rivers": [
+  "Maas",
+  "Main",
+  "Marne",
+  "Mosel",
+  "Rhin",
+  "Rhine",
+  "Schelde"
+ ]
+}

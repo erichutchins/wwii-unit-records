@@ -1,0 +1,13 @@
+id,label,of,kind,date,time,lat,lon,from,brg,nm,lat2,lon2,basis,source,ref,note
+beaufort,Beaufort,,town,,,49.84,6.2949,,,,,,approx,OpenStreetMap,OSM Nominatim,The town's centre; the 60th's company command posts and observation posts on 17 Dec (the report)
+dillingen,Dillingen,,town,,,49.8529,6.3196,,,,,,approx,OpenStreetMap,OSM Nominatim,The village's centre on the Sauer; a German crossing and route of infiltration (the report; Cole p. 230)
+wallendorf,Wallendorf,,town,,,49.8742,6.2904,,,,,,approx,OpenStreetMap,OSM Nominatim,Wallendorf-Pont's centre where the Our meets the Sauer; the 986th Regiment's main crossing (Cole p. 229)
+grundhof,Grundhof,,town,,,49.8352,6.3305,,,,,,approx,OpenStreetMap,OSM Nominatim,The village's centre on the Sauer; a German crossing and route of infiltration (the report)
+mullerthal,Müllerthal,,town,,,49.7903,6.3071,,,,,,approx,OpenStreetMap,OSM Nominatim,The village's centre in the Schwarz Erntz gorge (Cole p. 231)
+waldbillig,Waldbillig,,town,,,49.7936,6.2784,,,,,,approx,OpenStreetMap,OSM Nominatim,The village's centre; the south end of the 60th's line from 19 Dec (the report)
+savelborn,Savelborn,,town,,,49.8118,6.2535,,,,,,approx,OpenStreetMap,OSM Nominatim,The hamlet's centre; the battalion motor park from 17 Dec (the report)
+larochette,Larochette (Fels),,town,,,49.787,6.2189,,,,,,approx,OpenStreetMap,OSM Nominatim,The town's centre; the report's Fels
+longlier,Longlier,,town,,,49.8562,5.4609,,,,,,approx,OpenStreetMap,OSM Nominatim,The village's centre (the report)
+sibret,Sibret,,town,,,49.9683,5.6352,,,,,,approx,OpenStreetMap,OSM Nominatim,The village's centre (the report)
+chenogne,Chenogne,,town,,,49.991,5.6196,,,,,,approx,OpenStreetMap,OSM Nominatim,The village's centre (the report)
+senonchamps,Senonchamps,,town,,,50.0097,5.6594,,,,,,approx,OpenStreetMap,OSM Nominatim,The village's centre (the report)

@@ -239,7 +239,10 @@ cole-ardennes:
   cite: cole/<chapter>/p<page>      # e.g. cole/25/p650
   match: '^cole/(\d+|[A-Z])/p(\d+)$'
   link: https://www.ibiblio.org/hyperwar/USA/USA-E-Ardennes/USA-E-Ardennes-{1}.html#page{2}
-  used_for: operations/europe (the Ardennes)
+  used_for: >-
+    operations/europe (the Ardennes); engagements/bulge-1944-12-16 (the German side: the 276th Volks Grenadier Division
+    on the Sauer, the 26th Volks Grenadier Division, the Fuehrer Begleit Brigade and the 3d Panzer Grenadier Division at
+    Sibret and Chenogne, as Cole tells it from the German commanders' postwar manuscripts, not yet read here)
 
 macdonald-siegfried:
   title: "The Siegfried Line Campaign (United States Army in World War II: The European Theater of Operations)"
