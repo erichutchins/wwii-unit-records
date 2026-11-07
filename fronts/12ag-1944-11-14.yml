@@ -1,0 +1,26 @@
+# 12ag-1944-11-14: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21163
+date: 1944-11-14
+as_of: 1200 HRS 14 NOVEMBER 1944
+title: "Situation 1200 hrs 14 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-13
+exclude:
+  - {box: [388,288,2384,776], why: "test title"}
+  - {box: [216,4912,1096,5592], why: "test legend"}
+  - {box: [2910,1770,3680,1960], why: "the Twenty One/Twelfth army group boundary from Tirlemont to the front near Maastricht (heavy black, no map ticks; --look 3215,1854 and 3575,1863)"}
+  - {box: [2830,3490,2950,3620], why: "a short heavy boundary stretch by Raucourt, no map ticks, magenta with two red ticks (--look 2880,3555; overlay crop 2700,3350 500x450)"}
+  - {box: [3875,2000,3915,2030], why: "a short stub inside a unit symbol's outline just off the front near Geilenkirchen, not the front (--look 3887,2010; overlay crop 3700,1900 400x250)"}
+flip:
+  - {at: [2034, 919], why: "the west end of the Scheldt north-shore run, a short hook (unsure, no ticks of its own; --look 2040,910, overlay crop 1980,860 160x110 enlarged 5x): the map's ticks stand on the inside (east and south) of the hook, the same side as on the ticked run beside it, the red ticks fell outside; turned"}
+checked: []
+
+# Reader: title agrees with the catalogue (1200 HRS 14 NOVEMBER 1944, no report number; SECRET underlined).
+# Reader: towns: --gcps-from 12ag-1944-11-13 accepted (one run): offset -16,+8 against 11-13, 44 of 81 agree, median 1.2 px, 37 placed through the transform (Verdun 73 px, Épinal 53, Saint-Dié 30, Adenau 26, Paderborn 26, Euskirchen 23, Jülich 22, Gemünd 21, Kempenich 20; the rest 5-19 px). Fit over all 81: rms 1.0 km (leave-one-out 1.0, worst Beauvais 2.4 km).
+# Reader: boxes: 11-13's title and legend shifted -16,+8, each left out in turn: without the title 89 stretches (20 unsure), without the legend 78 (12 unsure); both kept. Title box ends at x 2384, y 776, clear of the Scheldt north-shore run. Boundaries trace on this print (73 stretches, 6 unsure with the two boxes alone), so three more boxes, each left out in turn: Twenty One/Twelfth army group boundary from Tirlemont to the front near Maastricht (heavy black, no map ticks; three unsure runs at 3215,1854, 3575,1863, 3534,1889 and one railway-ticked blue piece; without the box 71 stretches, 4 unsure; with it 67); a short boundary stretch by Raucourt at 2880,3555 (without the box 68, 2 unsure); a stub in a unit symbol's outline at 3887,2010 near Geilenkirchen (without the box 68, 2 unsure). Each box catches only its own stretch and cuts no ticked front. 11-08's other boundary boxes (Brussels-Aachen west of x 2900, Twelfth/Sixth, Seventh/First French, Tournai) catch nothing today.
+# Reader: flips: one, the short hook at the west end of the Scheldt north-shore run at 2034,919 (unsure): map ticks inside (east/south), red ticks outside, turned. Walcheren's three arcs read right (red ticks on the map's ticks, crop 1500,820 750x250); no flip. Nijmegen island traces whole, red ticks on the map's ticks inside it (crop 3150,170 650x750). checked: none needed.
+# Reader: front: 67 stretches, about 779 km (about 814 on 11-13), 0 unsure; reaches 47.95N at the sheet's bottom edge in Alsace.
+# Reader: sides: 80 of 81 as on 11-13 (11-13's GeoJSON backed up and unchanged by the check). Saint-Dié changes from own to enemy: 11-13 "Saint-Dié        own (US)  by run 45 own at 4548,5200", today "Saint-Dié        enemy     by run 63 enemy at 4473,5189". Reason: its ring sits on the line (a weak test); the line runs a little differently on this sheet and the run now passes with the town on the German side, which agrees with the town German-held until about 22 November. Arnhem and Metz enemy; Nijmegen, Épinal, Ostend own.
+# Reviewed: 80 of 81 towns on 13 November's side. Saint-Dié enemy ("Saint-Dié        enemy     by run 63 enemy at 4473,5189"; 13 Nov own): right (German-held until about 22 November), its ring on the line, weak. Arnhem, Metz enemy; Nijmegen, Épinal, Ostend own (Ostend on a mixed vote of the Walcheren arcs). Fit 1.0 km rms. 67 stretches, about 779 km, 0 unsure, reaching 47.95N in Alsace; the Nijmegen island whole. One flip, a hook at the west end of the Scheldt north-shore run (the map's ticks inside). Boxes: title, legend, the Twenty One/Twelfth boundary from Tirlemont to the front near Maastricht (railway ticks beside it), a boundary stretch by Raucourt and a symbol stub near Geilenkirchen.
