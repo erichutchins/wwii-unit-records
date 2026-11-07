@@ -1,0 +1,30 @@
+# 12ag-1945-03-29: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21298
+date: 1945-03-29
+as_of: 291200 MAR. 1945
+report: 297
+title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 297, situation as of 291200 Mar. 1945 (signed)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1945-03-27
+# Base B12 (1:1,000,000). The 13 excludes of 12ag-1945-03-27 were each tried alone on this sheet (a trace with no boxes, then
+# one box at a time) and kept, resized, or dropped by what they remove today (run numbers are this sheet's, no boxes).
+# Dropped because they remove no stretch today: the signature's right end (1500,1230,1730,1300), the Oirschot and Roermond
+# army-boundary stubs, the Nahe diagonal's box (the heavy line now only shows as two ticked-looking scraps, boxed below),
+# the Nahe line at Bad Kreuznach, the Wittlich-Trier boundary stub, the Bingen stub.
+exclude:
+  - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER / Brigadier General, G.S.C. / A.C. of S., G-3): removes runs 1, 4 and 5 (middles 684,1321, 806,1338, 701,1355), all lettering; the front lies below"}
+  - {box: [150, 5000, 1100, 5720], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample): removes run 91 (932,5629) only"}
+  - {box: [1580, 2790, 2400, 3000], why: "the TWENTY ONE / TWELFTH army group boundary from Liege to Julich, heavy black, no map ticks: removes runs 43, 44, 47, 51 and 53 (53 unsure at 1767,2945)"}
+  - {box: [2380, 2500, 2640, 2760], why: "the same boundary's stretch from Julich to the Rhine near Neuss, heavy black, no map ticks (overlay crop 2200,1300): removes runs 36 and 43 (36 middle 2511,2618)"}
+  - {box: [1820, 4760, 2650, 5030], why: "the TWELFTH / SIXTH army group boundary from Conflans to Saarlautern, heavy black, no map ticks: removes runs 86 and 87 (unsure at 2553,4920 and 2140,4979)"}
+  - {box: [2720, 4440, 3060, 4960], why: "the same boundary's course from Saarlautern NE past Neunkirchen to the Glan (corner, diagonal and the vertical leg): plain heavy black, no ticks of its own, US on both sides (the pocket is overrun); removes runs 80, 82, 84 and 85 (middles 2968,4504, 2966,4557, 2961,4735, 2789,4927). Enlarged from 03-27's box (to y 4960) to take run 85, the corner, which stood below it (crop 2200,4000)"}
+  - {box: [3290, 4290, 3420, 4380], why: "a scrap of the Third / Seventh army boundary NE of Kaiserslautern (unsure run 79, 3354,4336): heavy black line with no ticks, the dashes' road strokes counted (overlay crop 2200,4000); US corps (XX, XV) both sides"}
+  - {box: [3880, 4080, 4020, 4190], why: "the same boundary where it crosses the Rhine at Oppenheim (unsure run 78, 3948,4136): a plain heavy black line with no ticks across the river (look 3948,4136); not the front. The front is the heavy line east of Darmstadt, untraced (see below)"}
+flip: []
+checked:
+  - {at: [3040, 1482], why: "the head of the Wesel bridgehead's corridor, a short heavy arc with no ticks (look 3040,1482): the 17th Airborne's box stands inside it (US), the 84th (enemy) outside; Munster, north of it, reads enemy by this run"}
+# Not traced, noted: the front east of the Rhine bridgehead is drawn as a very heavy ticked black line from Aschaffenburg north
+# past Hanau and Nidda to near Fulda (x 4300-4700, y 3100-4400), and the bridgehead outside Worms (4250,4400-4500): too heavy for
+# the tracer and past the towns' spread (Marburg's x is about 4390). The blue Hanau-Frankfurt stretch is traced to where the
+# boundary line meets it near 4144,3900.
+# Reviewed: Daaden, Nastätten, Bocholt, Marburg (own) and Münster, Soest, Paderborn nearer the front are the breakouts from Remagen and Wesel. Siegburg (own) is doubtful: it sits under the line on the Sieg and was German-held into April; a weak test. The heavy ticked east side of the Frankfurt bridgehead (x 4300-4700) is past the towns' spread and untraced.
