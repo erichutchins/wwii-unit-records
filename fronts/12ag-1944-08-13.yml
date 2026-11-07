@@ -1,0 +1,28 @@
+# 12ag-1944-08-13: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21069
+date: 1944-08-13
+as_of: 1200 HRS 13 AUGUST 1944
+title: "SECRET (struck through) / Situation 1200 hrs 13 August 1944 / Twelfth Army Group; 1:500,000, Europe (Air) Conical Orthomorphic, Div. of Maps stamp Nov 1 1944"
+read: the title on the sheet (bottom left on this base, read on the whole sheet), 7 Nov 2026
+gcps_from: towns-B04.csv
+radius: 4    # B04's ticked line is traced whole at the default 4 (one 21-stretch trace at 3 breaks it into 21 pieces, loses the heavy wedge
+             # at the 43/50 salient (2150-2250, 1310-1390) that 4 keeps, and adds the XIX/V corps boundary's stub at Vire (1786,1528) as a
+             # false front; 4 gives 12 stretches, 0 unsure, 137 km against 130 km). Unlike B01, this sheet's front is not finer.
+area: [500, 250, 3300, 3300]   # Normandy's front lies north-west of the towns' spread (the crossings run from 49N at 1E down to 47.5N); this box takes in Carentan-Bayeux-Caen-Falaise-Avranches
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [200, 3700, 2560, 4480], why: "the title block's lettering: SECRET (struck through), SITUATION 1200 HRS 13 AUGUST 1944, TWELFTH ARMY GROUP, bottom left on this base (read on the whole sheet)"}
+  - {box: [5550, 4980, 6686, 5984], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE with its hatched sample), the sheet's reference letters and the Library's stamp, bottom right"}
+  - {box: [4300, 4100, 4980, 4660], why: "the DESTROYED table (enemy divisions' boxes in a ruled frame): the frame's ruling and the symbols read as heavy ink"}
+  - {box: [4300, 4680, 4980, 4960], why: "the UNLOCATED table, a ruled frame, empty on this day"}
+  # Not boxed, and why: the army/corps boundaries (First/Third, Twelfth/Twenty One, the corps lines west of Vire and Torigny,
+  # the Mayenne 'First/Third temporary' line, the Cotentin lines) are heavy black lines with no ticks; at radius 4 none is traced
+  # (looked at the overlay: all black, none blue). At radius 3 one is (the stub north of Vire at 1786,1528), another reason for 4.
+  # The coastline and the Bay of Mont St-Michel are blue-grey and light: not traced. The two tables' frames are not traced at 3 or 4
+  # either (tried without the boxes: the same stretches); the boxes stay as a precaution. The front is open at both ends, as the
+  # sheet draws it: from the north end near Colombelles/Cabourg (2897, 468) it runs south round Caen's east side, west by
+  # Bretteville/Thury-Harcourt, round the 43/50 salient, south-west past Vire and Mortain and ends at Domfront (2000, 2289).
+  # The sheet draws no ring round Falaise/Argentan and no Loire flank: Argentan and Falaise lie behind the German side of the line.
+flip: []
+checked: []   # none unsure at radius 4; every stretch's red ticks were looked at on 4x crops and fall on the map's own hatching, the Allied (west/north) side: no flip
+# Reviewed: 7 Nov 2026, B04 towns re-read (28 graticule crossings, 0.25 km rms): the town-ring test passes (printed towns within about 25 px, 1 km), the trace on them gives 12 stretches, 137 km; the area box stays (without it 10 stretches, 118 km)
