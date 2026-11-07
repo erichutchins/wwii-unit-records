@@ -1,0 +1,33 @@
+# 12ag-1944-11-22: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21171
+date: 1944-11-22
+as_of: 1200 HRS 22 NOVEMBER 1944
+title: "Situation 1200 hrs 22 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-21
+exclude:
+  - {box: [396, 288, 2392, 776], why: "title"}
+  - {box: [224, 4912, 1104, 5648], why: "legend"}
+  - {box: [2232, 1770, 3688, 2118], why: "the Twenty One/Twelfth army group boundary from west of Tirlemont to the front near Maastricht (heavy black, no map ticks)"}
+  - {box: [3430, 5060, 3790, 5290], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, heavy black, no map ticks"}
+  - {box: [2822, 1330, 2952, 1545], why: "First Canadian/Second British army boundary, Turnhout-Mol reach (heavy black here, grey railway ticks beside it); ran as unsure runs, middles 2886,1474 and 2916,1371"}
+  - {box: [3192, 860, 3392, 1010], why: "First Canadian/Second British army boundary north-east of Eindhoven, heavy black; ran as a ticked run on the railway's ticks"}
+  - {box: [3792, 1925, 3892, 2000], why: "the 104 unit symbol's heavy outline (a stretch at dark 90, unsure, middle 3844,1959), not the front"}
+  - {box: [3420,740,3560,880], why: "First Canadian/Second British army boundary's end near Cuijk, heavy black, no ticks; unsure run, middle 3488,812 (look)"}
+  - {box: [3690,1930,3830,2040], why: "Ninth/First army boundary's end at the front near Geilenkirchen-Aachen, heavy black, no ticks; unsure run, middle 3756,1984 (look)"}
+  - {box: [3630,3630,3760,3750], why: "First/Third army boundary's end (an angle, heavy black, no ticks) north of Arlon; unsure run, middle 3692,3690 (look)"}
+  - {box: [4130,4730,4250,4830], why: "Twelfth/Sixth army group boundary along the canal near Nancy, heavy black, no ticks; unsure run, middle 4187,4782 (look)"}
+  - {box: [4330,5490,4440,5600], why: "Seventh/First French army boundary's angle near Gerardmer, heavy black, no ticks; unsure run, middle 4386,5546 (look)"}
+flip: []   # none: at dark 70 the Walcheren/Beveland arcs trace with the map's ticks inside; 11-21's two flips would have turned them wrong (checked on an enlarged crop, 1480,800 600x300, with and without)
+checked: []
+
+# Reader: title agrees with the catalogue (1200 HRS 22 NOVEMBER 1944; SECRET underlined; no report number).
+# Reader: towns: --gcps-from 12ag-1944-11-21 accepted on the one run: offset -8,+0 px, 75 of 81 agree, median 0.6 px, 6 placed through the transform (Grevenbroich, Julich, Gemund, Adenau, Marche, Prum). Fit over all 81: rms 0.9 km (leave-one-out 0.9, worst Beauvais 2.1 km).
+# Reader: dark: left at the default 70. At 70 the front runs whole top to bottom, arcs included (41 stretches, 0 unsure). 80 (65 stretches, 11 unsure) and 90 (62, 10 unsure) add only strays: the thin army boundaries (First/Third at y 3700, the Canadian/British line) come out as magenta unsure runs.
+# Reader: boxes: 11-21's shifted -8,0 and each tried out in turn at 70. Kept: title (93 stretches, 46 unsure without it), legend (82, 37), Twenty One/Twelfth (44, 2), SW of Dombasle (43, 2), Turnhout-Mol (42, 1), NE of Eindhoven (42, 1), the 104 outline (42, 2). Dropped as catching nothing at 70 (41 stretches, 0 unsure with or without): Dombasle end, near Eindhoven, Cuijk end (11-21's), Bayon end. New today (each the one unsure run it removes, all looked at: a heavy angle or end with no ticks): Canadian/British end near Cuijk (3488,812), Ninth/First end at the front (3756,1984), First/Third angle (3692,3690), Twelfth/Sixth along the canal near Nancy (4187,4782), Seventh/First angle near Gerardmer (4386,5546).
+# Reader: flips: none. The two 11-21 flips (1786,949; 1582,987 here) were tried off: at 70 the Walcheren and Beveland arcs trace with their ticks counted, red ticks on the map's teeth inside every arc leg (crop 1480,800 600x300, with and without; with the flips the red ticks fell outside). So an arc, west legs included, is right unflipped.
+# Reader: front: 41 stretches (32 ticks, 9 line, 0 unsure); 921 km (own sum of the GeoJSON legs; 11-21 872 km at dark 90, so longer by 49: not accounted for, perhaps the pieces dark 90 gave and the shorter arc spurs); southmost 47.99N (the sheet's foot). Reaches read on crops: Metz (3800,4000 700x450: front west of the city, a single smooth line, no small loops today; Metz lies west of the line, US side), Saverne/Sarrebourg salient (4250,4450 700x550: ticked, whole), Saint-Die (4250,5200 450x450: line close east of the town), Roer (3450,1500 650x600: continuous, a ticked spur to 3660,1815 at the boundary).
+# Reader: sides: 79 of 81 as on 11-21. Changed: Metz, 11-21 "Metz             enemy     by run 44 enemy at 3871,4208"; today "Metz             own (US)  by run 32 own at 4209,4241": the front no longer makes the small loops round the city, it passes about 100 px east of the ring, so Metz is behind it (resistance in the city ended about 22 Nov). Ostend, 11-21 "Ostend           enemy     by run 15 enemy at 1591,986, run 13 own at 1657,934, run 16 own at 1768,974, run 14 enemy at 1793,948"; today "Ostend           own (US)  by run 11 own at 1662,934, run 10 own at 1851,913": the arcs now trace as two whole runs with their ticks inside and no flip, so the test, far beyond the arcs' open west end, gives own: the open-arc artefact again, not chased. Arnhem enemy ("by run 1 enemy at 3526,411"); Nijmegen own; Epinal own; Saint-Die enemy ("by run 38 enemy at 4522,5296"): the line runs just east of the ring at 4530, so it is a town on the line, not a change (Seventh Army took it about 22-23 Nov; the 12th Army Group sheet still has it behind the line's edge).
+# Reviewed: default cutoff right (a darker print than 11-21; 80 and 90 only added strays). Overlay crop 1500,820 looked at: the Walcheren, Beveland and Tholen arcs trace whole with their red ticks inside, west legs included, so 11-21's two flips are rightly not carried. Metz own is right (the line now passes east of the city; resistance there ended about 22 Nov). Ostend own is the open-arc test's chance reading today, not evidence. Saint-Die enemy sits on the line (weak). About 921 km. 79 of 81 towns as 11-21.
