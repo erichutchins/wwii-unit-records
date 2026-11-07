@@ -1,0 +1,37 @@
+# 12ag-1944-07-25: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21050
+date: 1944-07-25
+as_of: 2400 HRS 25 JULY 1944
+title: "Situation 2400 hrs 25 July 1944, Twelfth Army Group (COPY NO. blank; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [1400, 330, 3700, 910], why: "the title block's lettering (SITUATION 2400 HRS 25 JULY 1944 / TWELFTH ARMY GROUP / COPY NO. and its rule), over the Bay of the Seine, far north of the front; 07-26's box, its foot lowered from y 830 to 910 because today's COPY NO. rule stands at y 837-866 (runs 1-6)"}
+  - {box: [4400, 380, 4950, 560], why: "SECRET struck through and underlined, top right; not front; 07-26's box, its foot lowered to 560 because today's underline runs sit at y 504-524"}
+  - {box: [1400, 4100, 2500, 4850], why: "the legend (U.S., British, Enemy, FRONT LINE and its sample), bottom left; 07-26's box raised to y 4100 because today's top legend symbol (U.S.) has its middle at y 4146"}
+  - {box: [2190, 1960, 2280, 2050], why: "VII corps flag's strokes, north of the Vire (runs 7, 8, unsure, no ticks); a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [2240, 2260, 2310, 2320], why: "the VII/XIX corps boundary mark by the Vire; a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [1990, 2130, 2060, 2190], why: "the VII corps (flag) symbol's bar at its Vire side; a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [1480, 2380, 1560, 2430], why: "the 353 symbol's stroke (enemy box, 1514,2409), well behind the front's ticks; a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [1620, 2490, 1700, 2540], why: "the 295 symbol's stroke (1650,2525); a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [2190, 2495, 2260, 2540], why: "the 30 symbol's stroke (2219,2519), a division box beside the front, not on it; a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [2440, 2270, 2500, 2315], why: "the XIII corps flag's bar (2468,2294); a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [2470, 2415, 2500, 2470], why: "a boundary's short stroke by the 29 symbol (2486,2445), heavy with no ticks; a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [2900, 2665, 2960, 2715], why: "the 276 symbol's stroke (2930,2690), south of the front; a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [2340, 2840, 2420, 2890], why: "the 266 symbol's stroke (2380,2865); a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [2170, 2830, 2290, 2900], why: "the II Prcht corps symbol's stroke (2200,2865); a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [2700, 2920, 2780, 2970], why: "the XLVII corps symbol's stroke (2720,2945); a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [3300, 2740, 3380, 2790], why: "the 1085 symbol's stroke (3336,2766); a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [3290, 2880, 3420, 2950], why: "the corps symbol's strokes at (3325,2935) and (3370,2920); a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [3730, 2790, 3790, 2850], why: "a symbol's stroke at (3760,2820); a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [3880, 2170, 3940, 2230], why: "the 711 symbol's stroke (3907,2201), east of the front; a symbol or boundary stroke, not front; looked at on the overlay"}
+  - {box: [4020, 2620, 4100, 2670], why: "the corps symbol's stroke (4058,2646), east of the front; a symbol or boundary stroke, not front; looked at on the overlay"}
+checked:
+  - {at: [2011, 2460], why: "run 16?, the Marigny lobe's west side between 17SS and the 27 symbol (x 2005-2015, y 2440-2480), left unsure as a short run with no ticks of its own: the map's hatching stands on its east (inside the lobe, toward the US 1 symbol), the same side as the red ticks of the runs above and below it; looked at 4x"}
+flip: []
+# Reviewed: no stretch turned. Every ticked stretch's red ticks looked at 4x against the hatching from the west coast (x 1384, y 2349) through the Marigny lobe, St-Lo, the Caumont and Tilly stretches, Caen and the Orne reach to the Orne mouth (hatching on the north and west, the US and British side): all on the hatching. Run 8 (2011,2460) checked by eye, hatching on its east like its neighbours.
+# Reviewed: excludes taken from 12ag-1944-07-26 and re-tested here at radius 3. Kept, moved: the title (foot lowered to y 910, the COPY NO. rule stands at y 837-866), SECRET (foot to 560), the legend (raised to y 4100, its top symbol's middle is at y 4146). Dropped as catching nothing today (traced with and without, 29 stretches either way): the First US/Second BR. army boundary box (2780,1980,2940,2260), the Caen loop box (3400,2465,3515,2515) and its last-stretch box (3495,2565,3530,2612; it would sit across the front's own Caen reach). Added 17 small boxes on symbols' and flags' strokes that traced as blue front (48 stretches fell to 29); one (the 276 symbol) was first misplaced and corrected.
+# Reviewed: gaps over 20 px (approximate, from the GeoJSON refitted to the towns, 1.6 px rms): Marigny foot to St-Lo 213 px (2340,2620 to 2543,2557, the heavy hatched stretch the mask doesn't open at radius 3), Marigny lobe 56 px (2006,2476 to 2007,2532), Caen 40 px (3487,2597 to 3524,2613), 38 px (3857,2408 to 3843,2373), 34 px (2191,2573 to 2225,2569), 30 px (2006,2417 to 2013,2446), 28 px (1556,2311 to 1584,2308), 23 px (3017,2558 to 3038,2547). Ends: west touches the coast (1384,2349); east stops about 45 px short of the coast at the Orne mouth (3794,2221). Traced 114.0 km in 29 stretches.
+# Reviewed: a 2400 hrs sheet (as_of 2400 HRS 25 JULY 1944). None turned, one checked (the Marigny lobe's west side). About 114 km traced; the largest gap is the heavy hatched stretch from the Marigny foot to St-Lo (213 px), the fused-tick fault. 17 symbol and flag strokes boxed.
