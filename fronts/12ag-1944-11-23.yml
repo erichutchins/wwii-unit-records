@@ -1,0 +1,36 @@
+# 12ag-1944-11-23: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21172
+date: 1944-11-23
+as_of: 1200 HRS 23 NOVEMBER 1944
+title: "Situation 1200 hrs 23 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-22
+exclude:
+  - {box: [373, 266, 2366, 753], why: "title"}
+  - {box: [203, 4888, 1082, 5624], why: "legend"}
+  - {box: [2207, 1747, 3661, 2094], why: "the Twenty One/Twelfth army group boundary from west of Tirlemont to the front near Maastricht (heavy black, no map ticks)"}
+  - {box: [3404, 5035, 3764, 5265], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, heavy black, no map ticks"}
+  - {box: [3765, 1901, 3864, 1976], why: "the 104 unit symbol's heavy outline (a stretch at dark 90, unsure, middle 3816,1935), not the front"}
+  - {box: [3975, 3500, 4026, 3665], why: "First/Third army boundary's last stretch to the front north of Arlon, heavy black beside the front with no ticks (the front is the ticked line 20 px to its right); unsure runs, middles 4012,3558 and 3994,3640 (look)"}
+  - {box: [4036, 3476, 4068, 3504], why: "where that First/Third boundary stretch joins the front, a heavy loop with no ticks; unsure runs, middles 4046,3485 and 4058,3492 (look)"}
+  - {box: [4205, 4700, 4295, 4770], why: "Twelfth/Sixth army group boundary along the canal near Nancy, heavy black, no ticks; unsure run, middle 4249,4733 (look)"}
+  - {box: [4250, 5520, 4340, 5590], why: "Seventh/First French army boundary's end near Gerardmer (heavy, ends in a blob, no ticks); unsure run, middle 4293,5553 (look)"}
+  - {box: [3780, 1676, 3808, 1700], why: "Twenty One/Twelfth army group boundary's end at the front on the Roer (a heavy line from the south-west joins the front, no ticks); unsure run, middle 3793,1688 (look)"}
+  - {box: [3888, 1864, 3914, 1890], why: "Ninth/First army boundary's end at the front on the Roer, heavy black, no ticks; unsure run, middle 3900,1876 (look)"}
+  - {box: [2935, 1168, 2995, 1230], why: "First Canadian/Second British army boundary, Turnhout-Mol reach (heavy black; a short blue run on grey railway ticks beside it, ticked, middle 2963,1198; looked at on a crop 2600,900 800x500: no front here, Turnhout lies on the line's west)"}
+flip: []
+checked:
+  - {at: [4465, 5621], why: "the front's southern end near La Bresse/Gerardmer, unsure only for want of ticks; looked at on a crop (4250,5350 500x400): the map's ticks are on its west, the US side, and it continues the ticked front above it"}
+
+# Reader: title agrees with the catalogue (1200 HRS 23 NOVEMBER 1944; SECRET underlined; no report number).
+# Reader: towns: --gcps-from 12ag-1944-11-22 accepted on the one run; 50 of 81 agree (offset about -28,-25 px, varying across the sheet since the scan is 6637x5976 against 11-22's 6646x6004); 31 placed through the transform (matches 4-44 px off: today's overprint). I piped that run's output through tail, so its offset and median line was lost; 50 comes from counting "matched" rows in the gcps CSV. Fit over all 81: rms 0.8 km (leave-one-out 0.9, worst Beauvais 2.1 km).
+# Reader: dark: left at the default 70. At 70 the front runs whole (47 stretches, 0 unsure after the boxes); 80/90 not tried since nothing came out in pieces.
+# Reader: boxes: 11-22's, shifted by a linear fit of the matched towns' offsets (about -28,-25). Each tried out in turn at 70. Kept: title (106 stretches, 54 unsure without it), legend (75, 26), Twenty One/Twelfth (52, 1), SW of Dombasle (50, 2), the 104 outline (49, 0: it adds a ticked stretch). New today (each the one unsure run, or two, it removes, all looked at: heavy boundary with no ticks): First/Third's last stretch beside the front north of Arlon (4012,3558 and 3994,3640), where it joins the front (4046,3485 and 4058,3492), Twelfth/Sixth along the canal near Nancy (4249,4733), Seventh/First end near Gerardmer (4293,5553), the Twenty One/Twelfth and Ninth/First ends at the Roer (3793,1688; 3900,1876), and the Canadian/British boundary at Turnhout-Mol (2963,1198; a short blue run on railway ticks, which with the shifted 11-22 box off turned Turnhout enemy). Dropped as catching nothing (shifted boxes landed off the line): NE of Eindhoven, Cuijk end, Ninth/First end (11-22 position), First/Third angle (11-22 position), Nancy canal (11-22 position), Gerardmer (11-22 position), Turnhout-Mol (11-22 position; replaced by the one above).
+# Reader: flips: none. Walcheren, Beveland and Tholen arcs traced whole at 70, with the red ticks on the map's teeth inside every leg (crops 1450,640 800x300 and 1450,820 500x240).
+# Reader: checked: (4465,5621), the front's southern end at La Bresse, no ticks counted; map's ticks west of it on a crop, continuing the ticked front.
+# Reader: reaches on crops: Roer (3450,1500 650x600: continuous, ticked, the boundary ends boxed), Metz (3800,3950 700x450: line passes just east of the city, Metz behind it), Saverne/Sarrebourg salient (4300,4450 800x750: ticked, whole; the sheet still draws the front at Saverne with Strasbourg beyond the line, no advance to Strasbourg drawn), Saint-Die (4250,5100 450x350: the line runs through the town's ring), La Bresse/Gerardmer (4250,5350 500x400).
+# Reader: front: 47 stretches (34 ticks, 12 line, 1 checked, 0 unsure); 881 km by my own sum of the GeoJSON legs; southmost 47.99N.
+# Reader: sides: see the report: 81 of 81 as 11-22 once Turnhout's boundary is boxed. Strasbourg enemy (ring far east of the line, east of the Saverne salient; the map hasn't drawn its capture), Saint-Die enemy (line through the ring: weak), Ostend own (open-arc artefact, not chased).
+# Reviewed: whole-sheet overlay looked at: one continuous ticked front from the Scheldt arcs (whole, ticks inside) to La Bresse; the Saverne salient is drawn with its head at Saverne and Strasbourg east of the line, so Strasbourg enemy is the sheet's own reading (the 2nd Armored entered the city that morning; the noon sheet does not draw it). The reader piped the --gcps-from run and lost its summary line; the towns file was written and the fit is 0.8 km rms. The Turnhout-Mol box rightly re-placed on the boundary (its railway ticks had turned Turnhout). 81 of 81 towns as 11-22; about 881 km.
