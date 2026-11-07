@@ -1,0 +1,29 @@
+# 12ag-1944-06-06: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21001
+date: 1944-06-06
+as_of: 2400 HRS 6 JUNE 1944
+title: "Situation - 2400 hrs 6 June 1944, HQ. FUSAG; 12 AG Outline Maps 1:500,000 (no report number, no copy number seen)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 5
+exclude:
+  - box: [4350, 450, 5050, 650]
+    why: "the struck-through SECRET at the top right (on this sheet at about 4400-4980,500-610 on the scan)"
+  - box: [1400, 450, 3500, 780]
+    why: "the title block's lettering (SITUATION - 2400 HRS 6 JUNE 1944, HQ. FUSAG; on this sheet about 1450-3450,517-732)"
+  - box: [1600, 4100, 2250, 4500]
+    why: "the legend (U.S., BRITISH, ENEMY keys; this sheet's legend has no FRONT LINE sample); on this sheet about 1680-2170,4155-4460"
+  - box: [1250, 1350, 4150, 3400]
+    why: "the hand overprint of 6 June: unit boxes with their numbers, black attack arrows, arc and loop lines (1145), army and corps boundary lines (xxxx, XXX, I), the circle near Ste-Mere-Eglise, the dashed 21 Pz circle and their lettering. Looked at on crops (St-Mere-Eglise circle and its line at 2060,2060 and 2200,1960; Omaha-Port-en-Bessin; Juno-Sword-Orne): none draws a tick, and the legend has no front-line sample. Not front"
+checked: []
+flip: []
+
+# Reader: title SITUATION - 2400 HRS 6 JUNE 1944 / HQ. FUSAG (second line), "12 AG OUTLINE MAPS 1:500,000" at the top left margin; no report number, no copy number. Agrees with the catalogue (ict21001, 1944-06-06). Same wording and style as 2-13 July except SECRET is struck through at the top right and no "COPY No." line was read.
+# Reader: towns: towns-B01.csv matched on its own sheet, offset +0,+0 px: 34 of 34 agree, median 0.0 px, none placed through the transform. Fit 0.1 km rms, worst 0.3 km.
+# Reader: THE SHEET DRAWS NO TICKED FRONT. Every heavy line on it is hand overprint without ticks: black attack arrows (from the unit boxes toward the beaches: 115/116/16/231 toward Omaha-Grandcamp, 69/7/8 toward Courseulles-St-Aubin, 1146 toward Caen), a long loop beside "1145" east of the Orne mouth, the army boundary "1st U.S. / 2nd BR" with its xxxx marks, a corps boundary (XXX, I) running south from the coast at Courseulles, a circle near Ste-Mere-Eglise ("NOT CONFIRMED G-3 AIR", with a line to the 101-type box and a xxxx stub at its NE) and a dashed circle round the 21 (?) box near Falaise. None has a tick (looked at the Ste-Mere-Eglise circle on --look 2060,2060 and 2200,1960, and the beach area on crops 1500,1500 1300x900 and 2700,1500 1500x1000). The legend has U.S., BRITISH and ENEMY keys but no FRONT LINE sample. No Utah, Omaha, Gold/Juno/Sword or 6th Airborne arc is drawn as a front.
+# Reader: radius, without any box: 5: 119 stretches (46 ticks, 21 line, 52 unsure); 4: 257 (72 ticks, 26 line, 159 unsure); 3: 308 (66 ticks, 34 line, 208 unsure). All of it symbols, arrows, boundaries, title, SECRET, legend. The "ticks" are the symbol boxes' corners and letters, not ticks of a front. With the four boxes below every radius gives 0 stretches; radius left at 5 (as 2-8 July).
+# Reader: boxes (all on the scan, placed from where each sits on this sheet: SECRET 4400-4980,500-610; title 1450-3450,517-732; legend 1680-2170,4155-4460; overprint 1300-4100,1400-3350): SECRET [4350,450,5050,650], title [1400,450,3500,780], legend [1600,4100,2250,4500], overprint [1250,1350,4150,3400] (widened to 1250 on the west to take in the 243 box). Removing the overprint box alone leaves the 119 stretches above, taking out the title, SECRET and legend each only adds the lettering. No ticked front stretch exists to be hit. No table of units on the way on this sheet.
+# Reader: --sides: no front, so every town reads "?" (34 of 34, none on any side). Nothing to say about Utah/Omaha/Gold/Juno/Sword towns: the graticule crossings are all at half-degree points, mostly off the beaches in any case. The GeoJSON has 0 features, length 0 km; its properties (box -2.0,48.0,1.0,50.0) are set.
+# Reader: unsure: whether any of the overprint's black arcs was meant as a line held (the loop by 1145, the circle by Ste-Mere-Eglise); they have no ticks and no legend sample, so they are left out as not front. The reviewer might read them as objective or arrow lines.
+# Reviewed: whole-sheet overlay looked at: the legend has no FRONT LINE sample (U.S., BRITISH, ENEMY only), and every heavy line in the beachhead is hand overprint without ticks: attack arrows to Omaha, Grandcamp and the British beaches, the 1st U.S./2nd BR army and I Corps boundaries, the loop by 1145, the Ste-Mere-Eglise circle (NOT CONFIRMED G-3 AIR) and the dashed circle by Falaise. Empty front, rightly. The big box over the overprint fits this day only: a later day that draws a ticked front must not inherit it.
