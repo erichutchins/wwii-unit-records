@@ -1,0 +1,64 @@
+# 12ag-1944-07-30: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21055
+date: 1944-07-30
+as_of: 1200 HRS 30 JULY 1944
+title: "Situation 1200 hrs 30 July 1944, Twelfth Army Group (SECRET struck through; no copy or report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [1000, 480, 3300, 930], why: "the title block's lettering (SITUATION 1200 HRS 30 JULY 1944 / TWELFTH ARMY GROUP) and SECRET struck through and underlined, which stands under it on this sheet (runs at x 1055-3206, y 504-906); moved from the 31 July box, which is top middle and right there"}
+  - {box: [1500, 4380, 2180, 5050], why: "the legend's letters (U.S., BRITISH, ENEMY, FRONT LINE), x 1500-2160, y 4400-5030, on this sheet lower than on 31 July"}
+  - {box: [1330, 4380, 1480, 4880], why: "the legend's sample symbols (the U.S. box, the British box and the hatched ENEMY box, x 1340-1470, y 4390-4870), traced as runs; not front"}
+  - {box: [1330, 4950, 1480, 5050], why: "the legend's sample of the front line beside FRONT LINE (x 1340-1470, y 4985-5030), a sample not a front"}
+  - {box: [3360, 2135, 3520, 2185], why: "the blue stretch at Douvres (x 3380-3490, y 2152-2162), the CDN/Second BR. corps boundary: a heavy line with the boundary's X's near it and no hatching; the red ticks fall on nothing; looked at 4x (the 31 July box, moved up from y 2180-2270)"}
+  - {box: [3465, 2025, 3500, 2055], why: "the tiny blue run on the foot of the III corps symbol north of Douvres (x 3470-3485, y 2030-2045), a symbol edge, not front"}
+  - {box: [2935, 2185, 2975, 2222], why: "the run at Bayeux (x 2944-2965, y 2197-2215), the base of the dashed British corps symbol under SECOND: a symbol edge and the boundary's hook, no map ticks; looked at 6x"}
+  - {box: [3470, 2300, 3690, 2450], why: "run 113? (x 3480-3670, y 2310-2440), the heavy arc round the north and east of Caen with X-marks and thin boundary lines either side and no map ticks: the I CDN corps boundary enclosing Caen, not the front (the front is the Orne line at x 3790 and the Cormelles line); looked at 4x. This is the 31 July boxes for Caen and Colombelles, which are one run here"}
+  - {box: [3385, 2400, 3445, 2460], why: "run 119? (x 3395-3430, y 2395-2440), the thin heavy line SE from the XII/CON symbol toward Caen, the boundary's strand: no ticks; looked at 4x"}
+  - {box: [3040, 2360, 3085, 2400], why: "the short run at the VII symbol north of the Odon (x 3055-3080, y 2365-2385), a symbol's edge, no ticks of the map's"}
+  - {box: [3500, 2612, 3530, 2635], why: "the hook on the CON/2 symbol's base at Cormelles (x 3510-3520, y 2620-2637), a unit-symbol edge traced as a short run; the front passes just below it"}
+  - {box: [1700, 2340, 1740, 2430], why: "runs 115? and 118? (x 1717, y 2350-2420), the pole of the TWELFTH army group flag: a lettered symbol's staff, no ticks"}
+  - {box: [1750, 2610, 1790, 2680], why: "the blue run on the edge of the 80 symbol near Coutances (x 1760-1775, y 2615-2670), a symbol edge ticked by chance; the symbol stands in the US rear"}
+  - {box: [1680, 2690, 1760, 2920], why: "run 140? (x 1700-1740, y 2700-2910), the heavy corps boundary running south from Coutances to the front at x 1760 y 3150: a black line with no hatching on either side"}
+  - {box: [2060, 2690, 2140, 3020], why: "run 138? (x 2085-2130, y 2700-3010), the same kind of boundary line (the V/XIX-corps line) running south to the front near Percy: no hatching either side"}
+  - {box: [2300, 2720, 2360, 2800], why: "run 141? (x 2310-2350, y 2735-2790), the boundary line from the north that meets the Cahagnes arm: no hatching"}
+  - {box: [2335, 2855, 2372, 2890], why: "run 148? (x 2340-2365, y 2858-2883), the boundary's last stretch joining the front at the Cahagnes arm, no hatching on either side"}
+  - {box: [2225, 2880, 2290, 2915], why: "run 151? (x 2225-2285, y 2885-2915), the diagonal of the 30 symbol: a symbol's stroke"}
+  - {box: [2365, 3015, 2415, 3052], why: "run 156? (x 2375-2400, y 3022-3040), the lower edge of the 275 symbol: not front"}
+  - {box: [2200, 2200, 2275, 2280], why: "run 108? (x 2205-2270, y 2200-2275), a boundary line beside the VII/XIX corps symbols near Carentan: no hatching"}
+  - {box: [2300, 2280, 2350, 2315], why: "run 111? (x 2310-2340, y 2290-2300), the base of the XII symbol's bar: a symbol edge"}
+  - {box: [2620, 3195, 2670, 3260], why: "runs 172? and 173? (x 2640-2655, y 3205-3250), the bracket ends of the II PARCHT symbol: a unit-symbol edge"}
+  - {box: [1985, 3310, 2040, 3350], why: "the short run on the 255 symbol (x 2000-2015, y 3320-3335): a unit-symbol edge"}
+  - {box: [1935, 3395, 1975, 3440], why: "the blue run on the 243 symbol (x 1950-1960, y 3405-3430): a unit-symbol edge"}
+  - {box: [1735, 3440, 1830, 3485], why: "the blue diagonal across the 91 symbol (x 1745-1820, y 3445-3475): hatching of an enemy symbol"}
+  - {box: [1455, 3470, 1530, 3505], why: "the blue run on the 1755 symbol's top (x 1475-1515, y 3480-3495): a symbol's edge"}
+  - {box: [1650, 3535, 1710, 3575], why: "the run on the lower 1755/265 symbols (x 1665-1695, y 3545-3560): a symbol edge"}
+  - {box: [2640, 4200, 2710, 4250], why: "the table 'UNITS BELIEVED ON WAY TO BATTLE AREA': lettering of 266 INF (x 2660-2680, y 4220-4235), not front"}
+  - {box: [3270, 4120, 3330, 4160], why: "the same table's REMARKS lettering (x 3295-3300, y 4140): not front"}
+
+  - {box: [4660, 960, 4730, 1015], why: "the blue run across the 176 GAF symbol at Fecamp (x 4675-4715, y 980-1010): a unit symbol's hatching, far from the front; looked at 3x"}
+  - {box: [5055, 1405, 5095, 1450], why: "the blue run on the figure 8 of the 84 symbol (x 5065-5080, y 1415-1440): a figure's stroke, far from the front; looked at 3x"}
+  - {box: [2475, 3090, 2525, 3125], why: "the blue run on the enemy 2 symbol's lower edge (x 2485-2515, y 3100-3115): a unit-symbol stroke; looked at 2.5x"}
+  - {box: [2915, 3075, 3040, 3145], why: "three blue runs on the LXXXVII corps symbol's outline (x 2925-3030, y 3084-3139): a unit-symbol outline; looked at 2.5x"}
+  - {box: [2770, 2830, 2790, 2862], why: "the left stroke of the Cahagnes arm's tip (x 2778-2793, y 2836-2860), a second line beside run 25 on the arm itself (the arm is drawn double there): a duplicate, not another front; looked at 4x"}
+flip: []
+checked:
+  - {at: [1730, 3159], why: "run 167? (x 1710-1760, y 3150-3165), the front's bend north of 353: the map's ticks stand on the NW/outer side where the red tick falls; unsure only by its length; looked at 4x"}
+  - {at: [2036, 3204], why: "run 171? (x 2010-2060, y 3190-3215), on the ticked line SW of Percy: map ticks on the north side, as the red tick; looked at 4x"}
+  - {at: [2106, 3161], why: "run 168? (x 2090-2130, y 3160-3175), on the ticked line near Percy, ticks on the north side; looked at 4x"}
+  - {at: [2140, 3148], why: "run 165? (x 2130-2170, y 3145-3160), the same line, ticks north; looked at 4x"}
+  - {at: [2433, 2836], why: "run 146? (x 2420-2450, y 2830-2845), on the ticked line east of Tessy; ticks on the north/outer side; looked at 4x"}
+  - {at: [2462, 2827], why: "run 144? (x 2450-2480, y 2825-2835), the same line; ticks on the north side; looked at 4x"}
+  - {at: [2853, 2727], why: "run 139? (x 2840-2865, y 2715-2745), the short heavy arc between the corridor's two ticked ends (the Cahagnes arm's tip and the Evrecy line's west end): no ticks of its own; kept as the head of the corridor, its place between the ends. Unsure; looked at 4x"}
+  - {at: [3500, 2643], why: "the front's own piece at Cormelles (x 3485-3515, y 2637-2647), on the ticked line, ticks NW as the red ticks either side; looked at 4x"}
+
+# Radius 3 leaves gaps (reader's list by scan x, y; stretch ends over 20 px apart, in path order from the west): x 1687-1685, y 3253-3225 (28);
+# x 1698-1717, y 3184-3166 (26); x 1743-1763, y 3150-3147 (20); x 1947-2022, y 3244-3211 (82); x 2050-2097, y 3190-3165 (53);
+# x 2152-2173, y 3145-3144 (21); x 2392-2420, y 2860-2840 (34); x 2475-2496, y 2825-2826 (21); x 2829-2843, y 2774-2739 (38);
+# x 2858-2904, y 2714-2652 (77, the corridor's head and the Evrecy line's west end; run 23 between them is the head, checked); x 3048-3075, y 2613-2616 (27);
+# x 3407-3485, y 2627-2637 (79, the heavy blob west of Cormelles); x 3765-3801, y 2542-2412 (135, the Colombelles stretch, the largest).
+# The front meets the coast on the west at x 1455-1462, y 3325-3330 (the Granville shore) and on the east at the Orne mouth, x 3796, y 2200 (within about 10 px of the shore).
+# Reviewed: no stretch turned; 7 short on-line stretches checked by eye; the title, legend, boundary lines, and unit-symbol edges boxed.
+# Reviewed: no stretch turned; unticked corps and army boundaries and unit-symbol edges boxed. About 108 km traced of about 134; the largest gaps are at Colombelles (135 px) and west of Cormelles (79 px). The corridor head at 2853,2727 is checked by position only.
