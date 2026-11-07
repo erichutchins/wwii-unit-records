@@ -1,0 +1,24 @@
+# 12ag-1945-02-01: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21242
+date: 1945-02-01
+as_of: 011200 FEB. 1945
+report: 241
+title: "12th Army Group Outline Maps 1:1,000,000. HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 241, situation as of 011200 Feb. 1945 (signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1945-01-31
+exclude:
+  - {box: [200, 250, 2000, 830], why: "the title block's lettering (SECRET struck through, HQ TWELFTH ARMY GROUP SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 240, SITUATION AS OF 311200 JAN. 1945); ends above the Walcheren/Tholen arcs, whose tops are at about y 855"}
+  - {box: [200, 850, 1570, 1130], why: "the title block's signature (C. T. Schmidt, for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), left of the Walcheren arc, whose west end is at x 1585"}
+  - {box: [0, 4850, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [5430, 230, 6150, 520], why: "the stamp (Auth: CG, Twelfth Army Group / Initials: C.T.S. / Date: 1 February 1945) top right, lettering and its frame; unsure runs 5870,333, 6090,334 and 5532,470 (the hook of the A, the P of Group, the O of February) and a blue run 5 at 5871,457 (the 5 of 1945) that put Paderborn on the US side; looked, overlay crop 5400,200; no front here"}
+  - {box: [3375, 965, 3440, 1055], why: "a boundary end near Helmond, heavy black, no map ticks (on 01-31 a magenta stub, run 3412,1010); looked, overlay crop 3150,800: not traced today, box kept in place from 01-31"}
+  - {box: [3000, 1900, 3420, 2150], why: "the boundary lettered TWENTY ONE / TWELFTH, west of Liege to Seraing, magenta, red ticks only from roads, no map ticks (unsure run 3104,1975; looked, overlay crop 2900,1750); the front is east of x 3880 here. Widened from 01-31, the sheet printed 11 px off its box"}
+  - {box: [3670, 2135, 3930, 2270], why: "a boundary (heavy black line by the V Corps symbol, no map ticks) running east to the front near 3930,2260, magenta (unsure runs 3735,2149 and 3885,2186; looked, overlay crop 3600,1950); the front is blue and unbroken east of x 3960. Not traced on 01-31"}
+  - {box: [3765, 2600, 3835, 2665], why: "a boundary stub to the front near Houffalize, heavy black, no map ticks (on 01-31 run 3804,2628); looked, overlay crop 3700,2450: not traced today, box kept in place from 01-31; the front runs unbroken east of it"}
+  - {box: [3930, 4130, 4140, 4290], why: "the boundary lettered TWELFTH / XXXXX / SIXTH on the map, south-west of Metz toward Courcelles, magenta, red ticks only from roads, no map ticks (unsure run 3983,4267; looked, overlay crop 3650,4000)"}
+  - {box: [3760, 4290, 3860, 4340], why: "the west end of the same TWELFTH / SIXTH boundary near Pagny, magenta, ticks only from roads (unsure run 3802,4316; looked, overlay crop 3650,4000)"}
+  - {box: [4215, 3935, 4375, 4075], why: "the same TWELFTH / SIXTH boundary's last stretch to the front, blue-drawn, ticks only from roads (looked, overlay crop 3700,3700); the front is at x 4390 and runs unbroken past the box"}
+  - {box: [4030, 2615, 4080, 2660], why: "a short blue hook (run 26 at 4058,2633) on the outline of the enemy's hatched band beside the 246/32 symbols, a dead end with no map ticks, not the front; it put Prum on the US side (looked, overlay crop 3850,2450); the front runs unbroken west of x 3990 here"}
+flip: []
+checked: []
+# Reviewed: 81 of 81 towns on 31 January's side; the larger stamp, the V Corps boundary (no ticks) and the moved 21/12 and 12/6 boundary stubs boxed.
