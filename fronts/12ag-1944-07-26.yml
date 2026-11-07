@@ -1,0 +1,24 @@
+# 12ag-1944-07-26: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21051
+date: 1944-07-26
+as_of: 1200 HRS 26 JULY 1944
+title: "Situation 1200 hrs 26 July 1944, HQ Twelfth Army Group (COPY NO. blank; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [1400, 330, 3700, 830], why: "the title block's lettering (SITUATION 1200 HRS 26 JULY 1944 / HQ TWELFTH ARMY GROUP / COPY NO. and its rule), over the Bay of the Seine, far north of the front; same box as 27 July, caught 96 runs at radius 3"}
+  - {box: [4400, 380, 4950, 540], why: "SECRET struck through and underlined, top right; not front; same box as 27 July, caught 21 runs"}
+  - {box: [1400, 4150, 2500, 4850], why: "the legend (U.S., British, Enemy, FRONT LINE and its sample of the front line with ticks), bottom left; 27 July's box widened west to x 1400 because today's legend symbols sit at x 1430-1740; not front"}
+  - {box: [2780, 1980, 2940, 2260], why: "the First US/Second BR. army boundary's heavy line from the SHAEF flag south, as 27 July; caught one run"}
+  - {box: [3400, 2465, 3515, 2515], why: "run 12? (x 3410-3500, y 2475-2500, middle 3452,2491): the thin boundary line round Caen (the Second British/First Canadian army boundary's loop), a heavy line with no front hatching either side; its red ticks fall on nothing; looked at 3x"}
+  - {box: [3495, 2565, 3530, 2612], why: "run 25, the vertical stroke at x 3510, y 2590-2620 where that Caen boundary comes down to meet the front: the boundary's last stretch to the front, no hatching on it; the front's own line runs on east of it at y 2615-2650 and stays; looked at 3x"}
+checked:
+  - {at: [3713, 2626], why: "run 30? (x 3700-3750, y 2615-2650), the front's short stretch west of the Colombelles bend, left unsure by the tool (a single short run): the map's hatching stands on its north side, as the red ticks; looked at 3x"}
+flip: []
+# Reviewed: no stretch turned. Every ticked stretch's red ticks looked at 3-4x against the hatching from the west coast (Lessay) through the Marigny lobe (hatching inside it, the US 9, 4, 1 symbols), St-Lo, Caumont, the Tilly-Caen stretch and the Orne reach (hatching on the west, the British side): all on the hatching, which stands on the US/British side.
+# Reviewed: radius 3 kept (the 1:500,000 sheet's front is drawn fine, but radius 2 fragments it). With the same boxes plus nineteen more for boundaries, symbols' strokes and flag bars, radius 2 traced 49.0 km of 44 stretches (the boundaries it picks up: the Vire, VII corps, Caumont, Tilly, Caen loop and coast arcs, each heavy with no hatching) and radius 3 traced 88.7 km in 35 stretches (about 94.7 before the last two boxes), of a line about 155 km long. Radius 2 broke the ticked front into shorter pieces and added only boundaries, so nothing it traced was front that radius 3 missed.
+# Reviewed: excludes copied from 12ag-1944-07-27 and re-tested here at radius 3, each placed where it sits today: the title (caught 96 runs; same box), SECRET (21; same box), the legend (54; the box widened west to x 1400 because the legend symbols sit at x 1430-1740 today), the First US/Second BR. army boundary from the SHAEF flag (1 run; the box now begins at y 1980 because the line's stub above the flag stands higher). Dropped as catching nothing at radius 3 (07-27's Littry-Caumont boundary, the St-Lo run 19, the VIII corps flag bar) and the 90 symbol's stroke box, which today sits across the front itself at x 1770-1840, y 2220-2270 and would have cut it. Added today: the Caen boundary's run 12? at (3452,2491) and its last stretch to the front, run 25 at (3510,2600).
+# Reviewed: gaps over 20 px, the largest: Marigny foot to St-Lo about 180 px (2095,2620 to 2269,2565), Caen west to Caen south about 150 px (3319,2641 to 3470,2618), Marigny lobe west side 102 px (2027,2489 to 2033,2591), Tilly 70-76 px twice, Caumont 52 and 64 px; the line stops about 65 px short of the coast at both ends.
+# Reviewed: none turned; radius 3 kept on a trial (88.7 km against 49.0 at radius 2, whose extra ink was boundaries and symbols). About 57% of a line about 155 km long is traced; the largest gaps are the Marigny foot to St-Lo (180 px) and south of Caen (150 px). 27 July's box on the 90 symbol is dropped: it cut the front today.
