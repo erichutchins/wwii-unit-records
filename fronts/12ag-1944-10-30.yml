@@ -1,0 +1,30 @@
+# 12ag-1944-10-30: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B09 (6 Sep - 3 Nov 1944). Excludes copied from 12ag-1944-10-31 (reviewed) and moved by this sheet's offset (+32,-8 from 10-31, by --gcps-from).
+item: ict21147
+date: 1944-10-30
+as_of: 1200 HRS 30 OCTOBER 1944
+title: "Situation 1200 hrs 30 October 1944, Twelfth Army Group (SECRET struck through above; no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-10-31
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [180, 165, 2480, 590], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 30 OCTOBER 1944, TWELFTH ARMY GROUP), read on title.jpg (x2.48): lettering runs x about 198-2455, y about 185-570; the Walcheren arc stands below it (y 583 and down)"}
+  - {box: [241, 4934, 1111, 5634], why: "the legend, bottom left: 10-31's box moved +32,-8; kept so the box stands where the legend does"}
+  - {box: [1911, 1594, 3111, 1874], why: "the Twenty One/Twelfth army group boundary, Tournai to Brussels (heavy, no ticks): 10-31's box moved +32,-8 (from --gcps-from)"}
+  - {box: [3961, 4714, 4071, 4774], why: "the Twelfth/Sixth army group boundary's south-west end near Neufchateau: 10-31's box moved +32,-8 (from --gcps-from)"}
+  - {box: [4581, 4274, 4761, 4384], why: "the same boundary's last stretch north-east of Toul: 10-31's box moved +32,-8 (from --gcps-from)"}
+  - {box: [5601, 3394, 5711, 3454], why: "a bit of the Westwall (Siegfried Line) outline, the wavy double line north of Zweibrucken: 10-31's box moved +32,-8 (from --gcps-from)"}
+  - {box: [6091, 3634, 6201, 3704], why: "a bit of the Westwall outline's end near Kandel: 10-31's box moved +32,-8 (from --gcps-from)"}
+  - {box: [5369, 3350, 5449, 3410], why: "a short stretch of the Westwall outline's heavy double line between Neunkirchen and Homburg: 10-31's box moved +32,-8 (from --gcps-from)"}
+  - {box: [5609, 3515, 5679, 3580], why: "the end of the Westwall outline's loop west of Waldfischbach: 10-31's box moved +32,-8 (from --gcps-from)"}
+  - {box: [6247, 3740, 6329, 3810], why: "the Westwall outline's northern end beside the Rhine near Karlsruhe: 10-31's box moved +32,-8 (from --gcps-from)"}
+  - {box: [3960, 1187, 4040, 1237], why: "the Twenty One/Twelfth army group boundary's last stretch to the front at Maastricht (run 40 at 3985,1219, unsure): a heavy black line with no ticks, seen on look 3985,1219; 11-02 doesn't trace it. Not the front"}
+  - {box: [3420, 5042, 3510, 5112], why: "the Twelfth/Sixth army group boundary near Chaumont (run 82 at 3420,5085, unsure; 116 km from the front): a heavy black line with no ticks, seen on look 3420,5085, with Chaumont's ring beside it. Not the front"}
+  - {box: [2800, 1190, 4045, 1620], why: "the Twenty One/Twelfth army group boundary from the Brussels end to Maastricht (runs 40, 36, 32, 31 and the unsure bit at 3900,1246): drawn with its own short ticks and stroked magenta, but a boundary, not the front; seen on the overlay crop 2700,1100 1600x600, labelled TWENTY ONE / XXXXX / TWELFTH at its west end. The 10-31 box [1911,1594..3111,1874] did not reach it here (run 40 mid at 2969,1566). Stands well off the front's runs (the nearest, run 29, mid at 4155,1240)"}
+  - {box: [2700, 4540, 4420, 5200], why: "the Twelfth/Sixth army group boundary from the front near Toul to Chaumont and beyond (runs 69, 70, 71, 75: unsure, mid at 4350,4549, 4061,4710, 3753,4878, 3331,5109): heavy black with its own ticks, labelled TWELFTH / XXXXX / SIXTH, seen on the overlay crop 3200,4250 1700x950; 10-31's small boxes missed their middles by a few px. The front runs east of x 4500 here"}
+flip: []
+checked:
+  - {at: [2434, 670], why: "Walcheren, the short stub joining the inner loop's head to the junction by the CDN 2 box: no ticks of its own; look 2434,670 and the overlay crop show the map's ticks on the lower (right-hand) side on the arcs it joins, the same way as the stub runs"}
+  - {at: [1833, 834], why: "the western end of the Zeebrugge coast reach, short stub at the line's end: look 1833,834 shows the map's ticks on the south-west (US) side, the side the run's right falls on, same as the run it continues"}
+# Not yet reviewed. Sides checked against 12ag-1944-10-31 by the reader (see the report).
+# Reviewed: 81 of 81 towns on 31 October's side; the 21/12 boundary Brussels-Maastricht and the 12/6 boundary Toul-Chaumont boxed whole (labelled on the sheet).
