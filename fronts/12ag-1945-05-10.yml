@@ -1003,12 +1003,6 @@ exclude:
   - 5327
   why: '05-09''s box shifted by the sheets'' offset +16,+0 (05-09''s reason follows): 05-08''s box shifted by the sheets'' offset +16,+48 (05-08''s reason follows): 05-07''s box 166 shifted by the sheets'' offset -8,+16 (05-07''s reason follows, with its coordinates): NEW on 05-07, boxed at its middle (a heavy untick run that slipped outside 05-06''s shifted boxes): run 120: a heavy black boundary with no ticks, bending at Freising (looked, --look 3894,5228)'
 - box:
-  - 3007
-  - 6082
-  - 3097
-  - 6152
-  why: '05-09''s box shifted by the sheets'' offset +16,+0 (05-09''s reason follows): 05-08''s box shifted by the sheets'' offset +16,+48 (05-08''s reason follows): 05-07''s box 168 shifted by the sheets'' offset -8,+16 (05-07''s reason follows, with its coordinates): NEW on 05-07, boxed at its middle (a heavy untick run that slipped outside 05-06''s shifted boxes): run 171: heavy black bands near Oberstdorf, no ticks (looked, --look 3028,6053)'
-- box:
   - 3144
   - 6228
   - 3234
@@ -1146,3 +1140,4 @@ area:
 - 5916
 - 6364
 # Reviewed: the legend still reads FRONT LINE and the line is drawn as an ordinary ticked front; no line of contact with the Soviets drawn. All 60 towns on 9 May's side. 126 stretches, about 2777 km, 0 unsure. Four flips by hand: the Tauern hairpin tip near Salzburg (the map's ticks seen inside it on a close crop), and the curl at the foot of the Tyrol loop near Scharnitz, turned by continuity with its ticked neighbour (too few ticks to read; an inference, no town depends on it). The Mühldorf-Altötting-Salzach line drawn plain and boxed (two more boxes; railway ticks beside it had made a run read ticked); three stray runs on the Chiemsee and Bodensee boxed.
+# Reviewed later (from 11 May): the box [3007,6082,3097,6152], carried from 8 May as a plain band, cut the ticked top bar and left stem of the Allgäu loop here (crop 2700,5800: the map's ticks stand on the bar's north side); removed, the loop traces whole with its red ticks outside, one more stretch, no town changes side. 7-9 May trace the loop without it.

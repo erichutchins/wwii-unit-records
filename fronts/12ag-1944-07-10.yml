@@ -1,0 +1,25 @@
+# 12ag-1944-07-10: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21035
+date: 1944-07-10
+as_of: 2400 HRS 10 JULY 1944
+title: "Situation 2400 hrs 10 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-11
+radius: 3
+exclude:
+  - {box: [900, 330, 3850, 910], why: "the title block lettering (box from 07-11)"}
+  - {box: [4450, 380, 5300, 620], why: "SECRET struck through, top right (box from 07-11)"}
+  - {box: [1100, 4100, 2600, 5100], why: "the legend, bottom left (box from 07-11)"}
+  - {box: [1890, 2350, 1990, 2400], why: "a symbol stroke: the heavy diagonal across the 17SS box (SS panzer grenadier symbol), no ticks; not front"}
+checked: []
+flip:
+  - {at: [1867, 2176], why: "short vertical stretch by the 265 box, east of the sheet's bend (--look 1867,2176); the map's ticks are on its east side, the US side as on the runs either side; the red ticks fell on the west"}
+
+# Reader: title SITUATION 2400 HRS 10 JULY 1944, HQ FUSAG on the line below, COPY NO. blank, no report number, SECRET struck through at top right. Agrees with the catalogue's day (ict21035). Towns matched to 12ag-1944-07-11's (base B01): 32 of 34 agreed (median 1.0 px, sheet offset +24, -16 px); 0.5W 49N (14 px off) and 1.5W 48.5N (22 px off) placed through the transform, as on 07-11.
+# Reader: 34 stretches (24 ticks, 9 line, 1 by hand, 0 unsure), 134.1 km from the GeoJSON (summed great-circle), against about 134 km on 11 July. From the Passage de la Deroute coast (about 1300,2210) to the Orne mouth (tip about 3845,2150). Caen: the front runs into the north-west of the town (3460,2500), round it south-east and up the Orne to the mouth on the overlay crops 3000,2000 and 2600,2300.
+# Reader: boxes, each re-tested by removal. Title block: 34 stretches with or without it (it catches nothing today, kept as copied from 07-11); SECRET: without it 42 (3 unsure); legend: without it 104 (66 unsure); both kept. New: a symbol-stroke box [1890,2350,1990,2400], the heavy diagonal inside the 17SS box, which traced as a short blue run (35 stretches without it, 34 with). Corps boundaries print thin today and trace nothing. No ticked stretch is boxed.
+# Reader: turns. 07-11's flip on the heavy head west of Saint-Lo is NOT copied: today no heavy head traces there (the line runs south of the 352 box in one ticked sweep, ticks and red ticks both on the north side, crop 1900,2300), so there is nothing within 8 px to turn. One stretch came out unsure, the short vertical one by the 265 box (1867,2176; the St-Jean-de-Daye bend's north end): the map's ticks stand on its east side (--look), the red ticks fell on the west; flipped; after it the red ticks fall east on the map's ticks, as at the runs either side, and 1.5W 50N and 1W 49.5N stay own.
+# Reader: gaps over 20 px between run ends (by nearest ends in the GeoJSON, about 23.5 px/km, approximate): 22 px at 1.349W 49.295N (runs 1-3); 25 at 1.340W 49.267N (3-10); 80 at 1.661W 49.261N (runs 9-8, the west reach); 115 between run 4 and run 12 at the Orne mouth (the tip, continuous on crop 3000,2000); 27 at 0.300W 49.217N; 36 at 0.413W 49.160N; 27 at 1.151W 49.181N; 44 at 0.976W 49.117N; 24 at 0.770W 49.106N; 29 at 0.884W 49.090N; 41 at 0.950W 49.114N; 25 at 0.823W 49.083N. The line is continuous across those I looked at on the crops (1200,2000; 1600,2050; 1900,2300; 2600,2300; 3000,2000); the west reach 9-8 and the middle gaps are the pairing of overlapping runs, not looked at singly. Radius fixed at 3.
+# Reader: --sides on 07-11 (its GeoJSON backed up and unchanged by the run) and today, town by town: all 34 towns on the same side; none changes, so no line to quote. 0.5E 49.5N and 1E 49.5N read enemy (right: land north of the Seine, German-held), by three runs to one. Beyond the open ends the towns read either way: 0E, 0.5E and 1E 50N are in the sea off the east end (0E own, runs split 3 own to 1 enemy; 0.5E and 1E own, 2 enemy to 2 own), 2W and 1.5W 50N in the Passage de la Deroute off the west end (own). No town on the wrong side.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 10 July. All 34 towns on 11 July's side; 0.5E and 1E 49.5N enemy (right); sea towns off the open ends read either way. 34 stretches, about 134 km, 0 unsure; the line runs round Caen's south-east and up the Orne to its mouth. One flip, a short stretch by the 265 box at the north end of the St-Jean-de-Daye bend (the map's ticks east). 11 July's flip west of Saint-Lô has no counterpart today (one ticked sweep south of the 352 box). A box over a stroke in the 17 SS symbol. Gaps up to 115 px (at the Orne-mouth tip), the map's line continuous.
