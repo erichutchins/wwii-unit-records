@@ -1,0 +1,21 @@
+# 12ag-1944-08-24: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21080
+date: 1944-08-24
+as_of: 1200 HRS 24 AUGUST 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 24 AUGUST 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: towns-B06.csv
+# Scale: the sheet's note reads "4072 1:500,000 Air Maps"; the scale bar gives kilometres to 40. Heading (series) read at the
+# foot: "Prepared by Hdq. Engr. Section 12th Army Group from G.S.G.S. ... Conical Orthomorphic; French Lambert Zone 2".
+# Reviewed: the sheet draws one front only, the hatched line from the Seine's mouth at Honfleur to the army group boundary
+# south of Crulai (runs 13-23 and 25). It draws no bridgehead or pocket ring and no front along the Seine or at Paris.
+exclude:
+  - {box: [700, 650, 2300, 850], why: "title block lettering (SECRET, SITUATION 1200 HRS 24 AUGUST 1944, TWELFTH ARMY GROUP); runs 1-12"}
+  - {box: [5600, 4960, 6450, 5620], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE and their samples), bottom right; runs 26-73"}
+  - {box: [5190, 5700, 5620, 5800], why: "the Library of Congress Division of Maps stamp (NOV 1 1944), its lettering; runs 74-75"}
+  - {box: [5600, 2780, 5720, 2860], why: "the hatched enemy box '17' over Paris (a unit symbol drawn solid, not a front); run 24"}
+flip: []
+checked: []
+# Reviewed: the sheet draws one front, the British one from the Seine mouth at Honfleur past Lisieux and Orbec to the army group boundary south of Crulai, British boxes west and the enemy east; nothing round Paris or on the Seine. Two 26 px gaps where corps boundaries join.
