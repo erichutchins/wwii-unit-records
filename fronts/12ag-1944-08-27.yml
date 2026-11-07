@@ -1,0 +1,21 @@
+# 12ag-1944-08-27: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). B07.
+item: ict21083
+date: 1944-08-27
+as_of: 1200 HRS 27 AUGUST 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 27 AUGUST 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: towns-B07.csv
+exclude:
+  - box: [380, 400, 2650, 860]
+    why: the title block (SECRET struck through, SITUATION 1200 HRS 27 AUGUST 1944, TWELFTH ARMY GROUP), lettered over the Bay of the Seine at the sheet's top left, same place as on 26 August.
+  - box: [350, 4750, 1400, 5500]
+    why: the legend at bottom left, same place as on 26 August.
+  - box: [4350, 2350, 4600, 2600]
+    why: the army-group boundary (a heavy black diagonal line through Sucy-en-Brie region east of Paris), no ticks either side; seen with --look at 4457,2457. Left out as a boundary, not front.
+  - box: [4650, 5500, 5300, 5750]
+    why: the Division of Maps stamp's frame at the foot of the sheet (runs 5, 6, 7 at y about 5610); lettering and a ruled box, not front.
+flip: []
+checked: []
+# Reviewed: one ticked front, the lower Seine line from Honfleur round the Rouen loops to the hook at Vernon; the 26 August pocket west of Evreux is gone; nothing east of Mantes. The Sucy-en-Brie diagonal (army group boundary) and the stamp boxed.
