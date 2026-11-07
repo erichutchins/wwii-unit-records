@@ -10,6 +10,7 @@ read: the title on the sheet (stamp top left, lettering top right, overlay-sheet
 gcps_from: towns-B14.csv
 # Not traced at all (outside the towns' spread, so not in the output): the Canadian front beyond the Ijsselmeer on the
 # sheet's left edge, drawn black (x < 600), and the foot of the sheet below y 5950.
+area: [100, 820, 1000, 2200]   # added 7 Nov (from 14 May): takes in the north-west (the Friesland coast)
 exclude:
   - {box: [3900, 200, 5560, 1160], why: "the title block's lettering, top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 318, SITUATION AS OF 191200 APR. 1945, the signature, Brigadier General, A.C. of S., G-3); runs 1-12, 15-39, 53-66 are letters; the front's nearest stretches are below y 1250 (Elbe at Wittenberge, run 78 at 3905,1291)"}
   - {box: [100, 280, 1300, 700], why: "the stamp top left (Auth: CG, Twelfth Army Group / Initials / Date: 19 APRIL 1945, and its frame); runs 13 and 14 (998,669 and 917,659); the front's first stretches here are at y 900 and below (run 40 at 791,919)"}
@@ -31,3 +32,4 @@ exclude:
 flip: []
 checked:
   - {at: [3851, 4212], why: "the front's loop east of Velden toward Amberg (run at 3860,4171 to 3824,4244, unsure): the map's black ticks stand on its west (left, US) side and the trace runs south-south-west with the enemy to its left, so it runs the right way (looked, --look 3845,4210)"}
+# Reviewed later (from 14 May): an area added for the north-west (100,820 to 1000,2200): the ticked Friesland coast, the line round the IJsselmeer's north-east shore by the Noordoostpolder and Kampen, and the front facing western Holland from Harderwijk by Apeldoorn to the Rhine (crop 150,1100 on 19 April read by the reviewer) lay outside the towns' spread and were dropped; now traced, no town changes side.

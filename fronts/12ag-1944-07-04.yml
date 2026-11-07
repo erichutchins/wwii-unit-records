@@ -1,0 +1,29 @@
+# 12ag-1944-07-04: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21029
+date: 1944-07-04
+as_of: 2400 HRS 4 JULY 1944
+title: "Situation 2400 hrs 4 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-05
+radius: 5
+exclude:
+  - box: [4500, 200, 5500, 520]
+    why: "the struck-through SECRET at the top right, as on 5 July"
+  - box: [1550, 3950, 2450, 4700]
+    why: "the legend (U.S., BRITISH, ENEMY keys and the FRONT LINE sample), as on 5 July"
+  - box: [1000, 300, 3400, 950]
+    why: "the title block's lettering (SITUATION 2400 HRS 4 JULY 1944, HQ FUSAG, COPY No.), as on 5 July"
+  - box: [2900, 3800, 4300, 4500]
+    why: "the table of units believed to be on the way to the battle area, as on 5 July"
+checked: []
+flip: []
+
+# Reader: title SITUATION 2400 HRS 4 JULY 1944, HQ FUSAG on the line below, COPY No. blank, no report number. Agrees with the catalogue's day (ict21029).
+# Reader: towns matched to 12ag-1944-07-05's (base B01): 29 of 34 agreed (median 0.7 px, sheet offset -8, -8 px); five placed through the transform: 1.5W 50N (7 px off), 1W 50N (4), 0.5W 50N (18), 1.5W 48.5N (28), 0.5W 48.5N (64).
+# Reader: radius, counted by the GeoJSON. 3: 34-35 stretches (29 ticks, 3 line, 3 unsure), the line in fragments (about 91 km); strays at 4495,464 (SECRET), 1381,2066, 3345,2432. 4: 23 stretches, 23 ticks, 0 unsure, 139.1 km, but the heavy arc at the Orne mouth (about 3790,2200-2290) is dropped, so the front ends at 49.256N, and 0.5E 49.5N then reads own (US). 5: 15 stretches, 15 ticks, 0 unsure, 138.3 km, reaches the Orne mouth (49.2727N) as on 5 July, but drops the thick west tip (coast at about 1300,2070 to 1420,2120). Radius 5 kept, for the Orne end and the sides.
+# Reader: boxes, the four of 5 July's, put where they sit today (SECRET at about 4540-4800,465; legend keys and FRONT LINE sample at about 1610-1880,4130-4610; title lettering; table of units on the way). At radius 5, taking each out alone: without SECRET 18 stretches, 146.0 km, 1 unsure (4761,466); without legend, without title and without table, no change (15, 138.3 km). The legend, title and table are kept for the lettering that radius 4 and 3 trace. None touches a ticked front stretch (front at y 2000-2750).
+# Reader: no stretch flipped, checked or left out by hand: 15 of 15 ticks. Crops 600,1900 (west end) and 2700,1900 (Caen end): red ticks on the map's own ticks, on the north and west side. Untraced at radius 5: the west tip and the hump at 1450-1600,2100-2130 (the 4 to 1 gap below), seen on the crop, the line drawn continuous by the map.
+# Reader: --sides, 5 July's GeoJSON backed up before and byte for byte unchanged after, run on 07-05 and today: 34 of 34 the same side, no town changes, at radius 5. (At radius 4 the one change is 0.5E 49.5N, 07-05 "enemy by run 3 enemy at 3809,2244, run 4 enemy at 3815,2303, run 8 own at 3781,2408, run 13 own at 3688,2378", radius 4 "own (US) by run 6 enemy at 3793,2286, run 7 own at 3750,2392, run 10 own at 3602,2338, run 8 own at 3485,2332": the line's northern tip missing.) 0.5E and 1E 49.5N enemy, right. 0E, 0.5E and 1E 50N own on both days, beyond the open end, so either way.
+# Reader: length 138.3 km from the GeoJSON (5 July 136.1 by the same count; 15 runs). Gaps over 20 px (23.5 px/km), a run's end to the nearest other run: 1 end to 2 start 26 px; 2 end to 3 start 46 px; 4 end (1.4809W 49.3147N) to 1 start (1.5342W 49.3252N) 95 px; 9 end to 11 start 30 px (0.49W 49.117N); 10 end to 12 start 40 px; 14 end to 15 start 44 px; the west tip, 3 end (1.664W 49.315N) 127 px from any other run, is the coast end; the Orne-mouth end 0.2234W 49.2727N.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 4 July. Traced at radius 5: at 4 the heavy Orne-mouth tip drops out (and 0.5E 49.5N turns own); at 5, 15 stretches, about 138 km, 0 unsure, all turned by their ticks, from the Passage de la Déroute coast to the Orne mouth, ticks on the north and west; the thick west tip and a hump near 1450-1600,2100 untraced (gaps up to 95 px). Boxes: the SECRET strike-through, legend, title lettering and the table of units on the way. All 34 towns on 5 July's side; 0.5E and 1E 49.5N enemy (right).

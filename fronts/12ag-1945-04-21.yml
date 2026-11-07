@@ -7,6 +7,7 @@ report: 320                      # top right: "TO ACCOMPANY G-3 REPORT NO. 320"
 title: "12 Army Group Outline Map 1:1,400,000. Top right, lettered by hand: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 320, SITUATION AS OF 211200 APR. 1945, signed C. T. Schmidt for A. FRANKLIN KIBLER, Brigadier General, G.S.C., A.C. of S., G-3"
 read: the title on the sheet (title.jpg via --title 3900 200 1700 1000), 7 Nov 2026
 gcps_from: 12ag-1945-04-20
+area: [100, 820, 1000, 2200]   # added 7 Nov (from 14 May): takes in the north-west (the Friesland coast)
 exclude:
   - {box: [4030, 354, 5620, 1224], why: "the title block's lettering, top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 318, SITUATION AS OF 191200 APR. 1945, the signature, Brigadier General, A.C. of S., G-3); runs 1-12, 15-39, 53-66 are letters; the front's nearest stretches are below y 1250 (Elbe at Wittenberge, run 78 at 3905,1291)"}
   - {box: [93, 365, 1295, 779], why: "the stamp top left (Auth: CG, Twelfth Army Group / Initials / Date: 19 APRIL 1945, and its frame); runs 13 and 14 (998,669 and 917,659); the front's first stretches here are at y 900 and below (run 40 at 791,919)"}
@@ -49,3 +50,4 @@ checked:
 # Reviewed: 59 of 60 towns on 19 April's side; 8E 53N (own) sits on the line at the Canadian front's corner south of
 # Oldenburg. The Rhine and Main reaches boxed here are US-held both banks, with railway ticks only.
 # Reviewed: 59 of 60 towns on 20 April's side; 12E 50N (own) is the advance past Plauen. The Harz pocket is gone (it surrendered on 21 April), so the front is shorter. One stretch turned at 1993,5370 to the map's ticks.
+# Reviewed later (from 14 May): an area added for the north-west (100,820 to 1000,2200): the ticked Friesland coast, the line round the IJsselmeer's north-east shore by the Noordoostpolder and Kampen, and the front facing western Holland from Harderwijk by Apeldoorn to the Rhine (crop 150,1100 on 19 April read by the reviewer) lay outside the towns' spread and were dropped; now traced, no town changes side.

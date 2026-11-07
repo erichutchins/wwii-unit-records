@@ -1,0 +1,24 @@
+# 12ag-1944-11-10: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21159
+date: 1944-11-10
+as_of: 1200 HRS 10 NOVEMBER 1944
+title: "Situation 1200 hrs 10 November 1944, Twelfth Army Group (SECRET struck through above)"
+read: the title on the sheet (SECRET struck through; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-09
+exclude:
+  - {box: [412,296,2408,784], why: "test title"}
+  - {box: [240,4920,1120,5600], why: "test legend"}
+  - {box: [2508,1724,3038,2034], why: "test baw"}
+  - {box: [3038,1614,3533,1854], why: "test bae"}
+  - {box: [1688,2184,1808,2244], why: "test tourn"}
+flip: []
+checked: []
+
+# Reader: title agrees with the catalogue (1200 HRS 10 NOVEMBER 1944, no report number, SECRET struck through).
+# Reader: towns: --gcps-from 12ag-1944-11-09 accepted (one run): offset +0,+16 against 11-09, 50 of 81 agree, median 0.7 px, 31 placed through the transform (Colmar 63 px; the rest 8-29 px). Fit over all 81: rms 0.8 km (leave-one-out 0.9, worst Beauvais 2.4 km).
+# Reader: boxes: the sheet prints heavy (168 stretches, 76 unsure with none). 11-09's three boxes (shifted +0,+16) and 11-08's nine (shifted +8,+24) were tried all together (82 stretches, 0 unsure) and each left out in turn: title 135 (50 unsure), legend 114 (25 unsure), Tournai stub 83 (1 unsure); the other nine (Twelfth/Sixth last stretch, Twenty One/Twelfth near Brussels, Brussels 2322-2512, Twelfth/Sixth toward the front, Seventh/First French, both halves of the Brussels-Aachen boundary, the south-west end, the MARSEILLES arrow) each leave the count at 82 and are dropped as catching nothing. The Brussels-Aachen and Twelfth/Sixth boundaries do not trace on this print. Title box ends at x 2408, clear of the Scheldt north-shore run.
+# Reader: flips: none carried over. (1) Bergsche Maas piece (11-09 at 2998,725, shifted 2998,741): traced today with its red ticks on the map's ticks, south of the line (--look 3000,740), so not flipped. (2) Nijmegen island north arc (11-09 at 3562,401, shifted 3562,417): the island traces whole today (west, north and east sides, run 1 over the north arc), red ticks on the map's ticks inside the island (overlay crop 3150,170 650x750), so not flipped. 11-08's Walcheren flips: not carried (ring gone since 11-09; Ostend own with none).
+# Reader: sides: 81 of 81 agree with 11-09 town by town; no town changes side. Arnhem enemy by run 1 at 3587,415; Nijmegen own; Metz enemy by runs 62, 61, 60; Épinal own; Ostend own. 82 stretches, 0 unsure, front about 781 km (11-09: 675).
+# Reviewed: all 81 towns on 9 November's side; Arnhem, Metz enemy; Nijmegen, Épinal, Ostend own. Fit 0.8 km rms. 82 stretches, about 781 km, 0 unsure, no flips: the Nijmegen island traces whole today (west, north and east sides, ticks inside), where 9 November's lighter print gave only pieces, and the Bergsche Maas piece reads right by itself. The sheet prints heavy: title, legend and a Tournai stub boxed; nine of 8-9 November's other boxes catch nothing and are dropped.
