@@ -1,0 +1,26 @@
+# 12ag-1944-08-18: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21074
+date: 1944-08-18
+as_of: 1200 HRS 18 AUGUST 1944
+title: "SECRET (struck through) / Situation 1200 hrs 18 August 1944 / Twelfth Army Group; 1:500,000 sheet (B04)"
+read: the title on the sheet (bottom left on this base, read on the region 200,4100 2600x1000), 7 Nov 2026
+gcps_from: towns-B04.csv
+radius: 4    # lengths: radius 4 188.8 km (15 stretches); radius 3 186.6 km (23); radius 2 187.2 km (34, after the four strays below boxed; 205.3 km with them). Radius 4 traces the most with the ticks right; 3 and 2 only fragment the same line (radius 2 also makes 5 unsure runs)
+area: [500, 250, 3300, 3300]   # copied from 08-17: Normandy's front lies north-west of the towns' spread
+exclude:
+  - {box: [200, 4560, 2550, 5050], why: "the title block's lettering: SECRET (struck through), SITUATION 1200 HRS 18 AUGUST 1944, TWELFTH ARMY GROUP, bottom left (same place as 17 Aug)"}
+  - {box: [5600, 4950, 6686, 5984], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample) bottom right (same place as 17 Aug)"}
+  - {box: [1390, 1540, 1530, 1680], why: "a heavy army-corps boundary (First Army/Third Army line west of Vire) with no ticks; its railway/road neighbours passed for ticks at radius 2"}
+  - {box: [1870, 1670, 2030, 1830], why: "the same boundary near Tinchebray, black with no ticks; picked up at radius 2"}
+  - {box: [2210, 1990, 2320, 2065], why: "the same boundary near La Ferte-Mace road (La Coulonche), black with no ticks; picked up at radius 2"}
+  - {box: [1930, 1090, 2000, 1130], why: "the XII/VIII corps symbols' heavy lettering at St-Martin-des-Besaces, not a line; picked up at radius 2 and 3"}
+flip: []
+checked:
+  - {at: [3498, 1446], why: "the Polish tongue's head east of Falaise, a short arc; looked at 2x on the overlay: the map's ticks stand on its outer (north/east) side, the same side as the red ticks and as runs 4 and 7 either side, so it runs the right way"}
+# Reviewed: 7 Nov 2026 (q-0818). Copied from 08-17: area box, title box, legend box (same places). 25 of 28 towns agree (median 1.4 px; 1W 48.5N, 0E 48.5N and 1.5E 47.5N placed through the transform).
+# Radius 4 kept: 188.8 km, 15 stretches, 1 unsure (the tongue's head, checked). The heavy line east of Argentan is traced whole (runs 11-12, 15) and the tongue and loop are continuous, unlike 17 Aug. Radius 3: 186.6 km, 23 stretches (12 by 'line'), no strays; radius 2: 205.3 km with 4 strays (the army-boundary lines west of Vire at (1470,1603), (1959,1742), (2265,2019) and the corps lettering at (1963,1106)), 187.2 km with them boxed, 5 unsure.
+# Gaps over 20 px at radius 4: 1e/2s 49 px (3158,838)-(3203,858); 2e/3s 26 px; 4e/6s 78 px under the POLISH box (the symbol covers the line; one line); 5e/8s 29 px (2865,1505)-(2837,1498); 11e/15s 27 px at the east end (3738,1826)-(3748,1851).
+# Falaise gap: open, about 7.0 km (curl at 0.058E 48.834N to the Argentan line at 0.099E 48.777N), against about 22 km on 17 Aug. No ring; ticks on the outer (Allied) side of the pocket, enemy inside. No heavy unticked boundary inside the traced area (the black army-group boundary lines are thin).
+# Ends: north (-0.162, 49.266) at Dives; east (0.272, 48.716) at the stub south of Nonant. No stretch turned; all ticks checked at 2x on the overlay.
+# Reviewed: the Falaise gap about 7 km (22 on 17 August), the pocket ticked outside; the line east of Argentan to Nonant traces at radius 4 today (radius 3 and 2 tried, no better); one stretch checked at the Polish tongue, none turned.
