@@ -1,0 +1,26 @@
+# 12ag-1945-03-24: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21293
+date: 1945-03-24
+as_of: 241200 MAR. 1945
+report: 292
+title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 292, situation as of 24 1200 Mar. 1945 (signed, C. T. Schmidt)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: 12ag-1945-03-22
+# Base B12 (1:1,000,000). Excludes carried over from 12ag-1945-03-22 (same base sheet; this scan is offset -16,+0 px from it)
+# and moved to where each stands on this sheet, each looked at on the overlay (scan coordinates):
+exclude:
+  - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER, G. / Brigadier General, G.S.C. / A.C. of S., G-3); it stands about 100-190 px higher than on 21 March (letters at y 1150-1480 in 03-21's frame, here y 1140-1420); magenta/blue hooks of its letters (unsure runs 982,1158 and 1343,1253, and blue loops at about 730,1305, 840,1300); looked, overlay crop 300,900; the front is below y 1560 west of x 1250 and rises to y 1310 only at x 1700"}
+  - {box: [1500, 1230, 1730, 1300], why: "the signature's 'KIBLER, G.' lettering, right end; the front is at y 1320 or below at x 1700 (crop 300,900)"}
+  - {box: [150, 5000, 1100, 5720], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample and lettering); unsure runs 512,5228, 646,5412, 494,5560, 664,5582, 952,5586"}
+  - {box: [1580, 2790, 2400, 3000], why: "the TWENTY ONE / TWELFTH army group boundary from Liege to its end, blue-drawn, ticks only from roads (unsure run 1820,2904), no map ticks"}
+  - {box: [2300, 2440, 2660, 2800], why: "the same boundary's stretch from its end to the Rhine near Neuss (unsure run 2502,2604), magenta, roads' ticks only"}
+  - {box: [1820, 4850, 2680, 5030], why: "the TWELFTH / SIXTH army group boundary from Conflans to the front at Saarlautern, heavy black, no map ticks"}
+  - {box: [2980, 4260, 3160, 4420], why: "the TWELFTH / SIXTH army group boundary's long stretch from Bad Kreuznach by Idar-Oberstein to Saarlautern (run 26 of the first trace: 107 points, heavy black, no map ticks, 'line' only from roads); on 22 March the pocket's edge stood here, on 24 March the pocket is gone and the sheet draws this heavy black line (the same boundary as the Conflans box) across Idar-Oberstein; looked, raw crop 2300,4000 and overlay crop 2900,4100; the 03-22 Idar-Oberstein stub box is not carried (the stub is not drawn)"}
+  - {box: [3560, 3990, 3690, 4100], why: "the same boundary's last stretch from Bad Kreuznach up the Nahe to the Rhine at Bingen (run 24 of the first trace, 'line'), heavy black, no ticks; the Rhine front itself (runs 22, 23) is outside this box"}
+  - {box: [2340, 3390, 2440, 3450], why: "a short stretch (6 points, 'ticks' only from the roads and the Siegfried band) of the FIRST / THIRD army boundary where it crosses the Siegfried-line band in the Eifel (west of Ahrdorf); heavy black, no map ticks; looked, overlay crop 2100,3150; it made Verviers and Gemuend read enemy"}
+flip: []
+checked: []   # the 03-22 Nahe stretch (3491,4171) is now inside the boundary box, so not carried
+# Reviewed: Strasbourg and Colmar read enemy only because their rings are below the sheet's neat line (y about 5780).
+# Reviewed: check_fronts flags Münster (nearer the front by the Wesel crossing) and Pirmasens and Landau (own: out
+# of the southern Palatinate remnant 23 March still draws); all three are the line's movement. The Wesel ring is
+# traced with its own side inside, round the airborne divisions' drop.
