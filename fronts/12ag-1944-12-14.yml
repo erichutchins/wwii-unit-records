@@ -1,0 +1,23 @@
+# 12ag-1944-12-14: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21193
+date: 1944-12-14
+as_of: 1200 HRS 14 DECEMBER 1944
+title: "Situation 1200 hrs 14 December 1944, Twelfth Army Group"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B11.csv
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [230, 380, 2290, 770], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 14 DECEMBER 1944, TWELFTH ARMY GROUP, and the dot under it), seen on the overlay crop 1400,250; stops at y 770, above the Walcheren/Beveland/Tholen arcs (their tops at y 810 and below), while GROUP ends at y 735"}
+  - {box: [150, 4880, 1060, 5620], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE), its sample of the front included, seen on the overlay crop 0,4700; sits lower than on 15 December: FRONT LINE letters reach y 5560, which came out as runs at 541,5538 and 980,5544, so y1 5620; x0 150 takes in the ENEMY sample box edge"}
+  - {box: [2500, 1740, 3770, 1990], why: "the Twenty One/Twelfth army group boundary from Louvain to the front near Geilenkirchen, heavy, its ticks are the railways' (seen on the overlay crop 2500,1600)"}
+  - {box: [2900, 1000, 3500, 1400], why: "the First Canadian/Second British army boundary south of the Maas toward Turnhout, heavy, no ticks (looked at 3366,1093 3233,1260 2963,1324)"}
+  - {box: [3480, 4880, 4100, 5300], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, no ticks (seen on overlay crop 3400,4000)"}
+  - {box: [4060, 4600, 4560, 4830], why: "the same boundary along the Marne-Rhine canal to Sarrebourg, no ticks"}
+  - {box: [4520, 4280, 4830, 4660], why: "the same boundary from Sarrebourg north-east toward the front near Sarreguemines, no ticks"}
+  - {box: [4540, 4990, 4800, 5300], why: "the Seventh/First French army boundary north-east of St. Die, no ticks"}
+  - {box: [5100, 4950, 5260, 5020], why: "the stub where that boundary meets the front on the Rhine, no ticks"}
+  - {box: [4650, 3960, 4780, 4050], why: "an enemy division's box (36) with its hatching in the Saar salient, not a line (looked at 4701,4007)"}
+  - {box: [5500, 4170, 5600, 4260], why: "an enemy division's box (245) beside the salient's hatching, not a line (looked at 5546,4217)"}
+flip: []
+checked: []   # none needed: no stretch came out unsure on 14 December
+# Reviewed: 81 of 81 towns on 15 December's side; the legend box lowered to take in FRONT LINE.
