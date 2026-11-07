@@ -1,0 +1,20 @@
+# 12ag-1944-07-16: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21041
+date: 1944-07-16
+as_of: 2400 HRS 16 JULY 1944
+title: "Situation 2400 hrs 16 July 1944, HQ Twelfth Army Group, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-17
+radius: 3
+exclude:
+  - {box: [900, 330, 3850, 910], why: "the title block lettering, from 07-17's box widened to x 3850: the 1944 of the date line ends at x 3702 on this sheet"}
+  - {box: [4450, 380, 5300, 620], why: "SECRET struck through, top right (21 unsure runs at y 460-545, x 4540-4890)"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend, bottom left, from 07-17's box"}
+checked: []
+flip: []
+# Reader: title 2400 HRS 16 JULY 1944 (HQ Twelfth Army Group, "Copy No." left blank, no report number; SECRET struck through at top right); agrees with the catalogue's day (ict21041). The hour is 2400, not 1200 as on 17 July. Towns matched to 12ag-1944-07-17's: 34 of 34 agreed (median 1.1 px), none placed through the transform.
+# Reader: boxes re-tested by tracing with and without each. Title box: without it 118 stretches (95 unsure); widened from 07-17's x 3700 to 3850 because the 4 of 1944 ends at x 3702 on this sheet. SECRET box (new): without it 41 stretches (21 unsure). Legend box: without it 69 (42 unsure). All three kept. The fourteen symbol, boundary-stub and arrow boxes of 07-17 each added to this day one at a time: each leaves 20 stretches, 0 unsure, so each catches nothing here (the symbols stand elsewhere) and all are dropped. No new symbol stroke traces a stray stretch, so none is boxed.
+# Reader: 20 stretches (17 ticks, 3 line), about 141.8 km (from the GeoJSON), 0 unsure, 0 turned, 0 checked by hand, from the Passage de la Deroute coast (1366,2215) to the Orne mouth (3865,2157). The line loops round Saint-Lo as on 17 July (crop 1900,2250: the tongue at x 2080, y 2290-2480, ticks outside it). The unit table "units believed on the way" lies far south of the front, outside the line's area. Gaps over 20 px between stretches (fitted pixels, a few px error): one, about 55-64 px at about 3025,2515 (run 10 to run 14, under the 50 symbol), where the map's line is continuous and the tracer lost it; crop 2850,2400 checked. All other joins 19 px or less.
+# Reader: --sides: 34 towns agree with 07-17's, town by town (the side word of every line identical); none on the wrong side. Eleven own (US/British), 23 enemy. Towns in the sea off the Orne end read either way: '1E 50N           own (US)  by run 1 enemy at 3836,2229, run 4 enemy at 3828,2367, run 6 own at 3716,2375, run 7 enemy at 3520,2494' (07-17: own, runs 1 and 8 enemy, 7 and 14 own), and 0.5E 50N own with runs 1 and 4 enemy against 6 and 7 own. 2W 50N and 1.5W 50N, in the Passage de la Deroute off the west end, read own, three runs to one (run 5 enemy at 2094,2337, the loop's far side).
+# Reviewed: this sheet is the situation at 2400 hrs 16 July (not 1200 as on the days after). All 34 towns on 17 July's side; 20 stretches, about 142 km, Passage de la Déroute to the Orne mouth, 0 unsure, no turns; the line loops round Saint-Lô, ticks outside, as on 17 July. One gap of about 60 px under the 50 symbol (the map's line continuous). Title box widened to this sheet's lettering, a SECRET box added; 17 July's 14 symbol, stub and arrow boxes caught nothing here and are dropped.
