@@ -6,10 +6,12 @@ report: 299
 title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 299, situation as of 311200 Mar. 1945 (signed)"
 read: the title on the sheet, 7 Nov 2026
 gcps_from: 12ag-1945-03-29
+area: [4250, 1700, 5150, 4560]   # takes in the line north-east of Paderborn to Kassel and Hersfeld, the Vogelsberg flank to Gelnhausen, and the Frankfurt bridgehead east side to the Neckar
 # Base B12 (1:1,000,000). The 8 excludes of 12ag-1945-03-29 were each tried alone on this sheet (a trace with no boxes, then
 # one box at a time). Dropped because they remove no stretch today: the legend, the Liege-Julich boundary, the old
 # Julich-Neuss box (that boundary now runs elsewhere, see below), the Kaiserslautern scrap, the Oppenheim box (moved).
 exclude:
+  - {box: [4670, 3495, 4730, 3540], why: "the heavy black diagonal (Frankfurt-Hanau to the Vogelsberg corner), its last 6 km to the front's corner at 4745,3490: plain heavy black, no map ticks, magenta unsure run at 4712,3510 once `area` took it in (look 4560,3440 at 4x); the front's own ticked line (runs 46 and 48) lies 15 px east of the box"}
   - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER ...): removes the unsure run at 834,1360, all lettering; the front lies below"}
   - {box: [1820, 4760, 2720, 5030], why: "the TWELFTH / SIXTH army group boundary from Conflans to Saarlautern, heavy black, no map ticks: widened from 03-29 (x1 2650 to 2720) to meet the next box; removes the runs at 2691,4895, 2455,4924 and 2376,4937 (magenta, unsure) (plot: crop 2200,4000)"}
   - {box: [2720, 4380, 3060, 4960], why: "the same boundary's course from Saarlautern NE to the Glan (corner, diagonal and vertical leg): plain heavy black, no ticks, US on both sides; 03-29's box, enlarged upward (top 4440 to 4380) so the leg's upper end at 3030,4422 goes too (crop 2200,4000)"}
@@ -18,3 +20,4 @@ exclude:
 flip: []
 checked: []
 # Reviewed: 80 of 81 towns on 29 March's side; Siegburg back to enemy (right). The sheet draws no closed Ruhr ring on 31 March; the heavy ticked line north-east of Paderborn is past the towns' spread and untraced.
+# Reviewed (area): `area: [4250, 1700, 5150, 4560]` takes in the heavy ticked line north-east of Paderborn (4300,1700 to 4600,1900), on by Kassel and Hersfeld (the line continues without a break) and down the Vogelsberg flank to Gelnhausen, then the Frankfurt bridgehead's east side by Aschaffenburg and the Odenwald to the Neckar: 13 stretches added, front 1005 to 1344 km; ticks checked on crops 4000,1500, 4350,2000, 4500,3640 (3x) and 4300,4400; one box on the diagonal's last stub. No town changed side. Already traced before, and not front: the heavy diagonal from Hanau (4450,3745) to 4565,3645 is the army boundary (no ticks of its own), left as it was. Still missing: nothing found.

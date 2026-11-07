@@ -6,6 +6,7 @@ report: 298
 title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 298, situation as of 30 1200 Mar. 1945 (signed)"
 read: the title on the sheet, 7 Nov 2026
 gcps_from: 12ag-1945-03-28
+area: [4300, 2300, 5000, 4110]   # takes in the Giessen-Vogelsberg flank (x 4300-5000, y 2300-3300) and the line past Hanau to Aschaffenburg
 # Base B12 (1:1,000,000). The 15 excludes are copied from 12ag-1945-03-28 and are to be checked on this sheet's overlay.
 exclude:
   - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER, G. / Brigadier General, G.S.C. / A.C. of S., G-3), letters at y 1150-1420, x 450-1650, in the same place as on 22 March; looked, overlay crop 300,900; the front is below y 1340 and rises to y 1340 only at x 1730"}
@@ -29,3 +30,4 @@ exclude:
 flip: []
 checked: []
 # Reviewed: 78 of 81 towns on 28 March's side; Daaden and Bocholt (own) are the advance, Strasbourg the neat-line weak test. The Giessen-Vogelsberg flank (x 4300-5000, y 2300-3300) and the line past Hanau to Aschaffenburg are past the towns' spread and untraced, hence the shorter front.
+# Reviewed (area): `area: [4300, 2300, 5000, 4110]` takes in the Giessen-Vogelsberg flank (Frankenberg to Hersfeld's corridor, the 6th/4th Armored head at 4900,3050) and the line past Hanau to Aschaffenburg and Umstadt: 15 stretches added, front 957 to 1184 km; ticks checked on crops 4100,2200 and 4100,3200; the Third/Seventh boundary and the Vogelsberg diagonal (heavy, no ticks) were not traced; no town changed side. Still missing: nothing found.

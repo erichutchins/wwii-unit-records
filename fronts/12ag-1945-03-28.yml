@@ -6,6 +6,7 @@ report: 296
 title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 296, situation as of 28 1200 Mar. 1945 (signed)"
 read: the title on the sheet, 7 Nov 2026
 gcps_from: 12ag-1945-03-27
+area: [4380, 3700, 4700, 4110]   # takes in the Main past Hanau to Aschaffenburg
 # Base B12 (1:1,000,000). The 13 excludes are copied from 12ag-1945-03-27 and are to be checked on this sheet's overlay.
 exclude:
   - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER, G. / Brigadier General, G.S.C. / A.C. of S., G-3), letters at y 1150-1420, x 450-1650, in the same place as on 22 March; looked, overlay crop 300,900; the front is below y 1340 and rises to y 1340 only at x 1730"}
@@ -32,3 +33,4 @@ checked:
   - {at: [4201, 4510], why: "run 102 at the corner of the Worms-Oppenheim bridgehead's east side: red ticks inside (west, US) as the runs either side; the town Darmstadt is own"}
 
 # Reviewed: 79 of 81 towns on 27 March's side; Nastätten (own) is inside the Taunus salient, Marburg (own) on the Lahn-Dill bridgehead's corner. Front past Hanau beyond the towns' spread, untraced.
+# Reviewed (area): `area: [4380, 3700, 4700, 4110]` takes in the Hanau loop's east side, the Main past Hanau and the arc to Aschaffenburg and Umstadt: 6 stretches added, front 1008 to 1043 km; ticks checked on overlay crop 4150,3450; no town changed side. Still missing: nothing found past x 4700.

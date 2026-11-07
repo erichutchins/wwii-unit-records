@@ -6,6 +6,7 @@ report: 297
 title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 297, situation as of 291200 Mar. 1945 (signed)"
 read: the title on the sheet, 7 Nov 2026
 gcps_from: 12ag-1945-03-27
+area: [4230, 3000, 4880, 4460]   # takes in the Frankfurt bridgehead east side from Worms north past Hanau and Nidda, and the Vogelsberg corner
 # Base B12 (1:1,000,000). The 13 excludes of 12ag-1945-03-27 were each tried alone on this sheet (a trace with no boxes, then
 # one box at a time) and kept, resized, or dropped by what they remove today (run numbers are this sheet's, no boxes).
 # Dropped because they remove no stretch today: the signature's right end (1500,1230,1730,1300), the Oirschot and Roermond
@@ -28,3 +29,4 @@ checked:
 # the tracer and past the towns' spread (Marburg's x is about 4390). The blue Hanau-Frankfurt stretch is traced to where the
 # boundary line meets it near 4144,3900.
 # Reviewed: Daaden, Nastätten, Bocholt, Marburg (own) and Münster, Soest, Paderborn nearer the front are the breakouts from Remagen and Wesel. Siegburg (own) is doubtful: it sits under the line on the Sieg and was German-held into April; a weak test. The heavy ticked east side of the Frankfurt bridgehead (x 4300-4700) is past the towns' spread and untraced.
+# Reviewed (area): `area: [4230, 3000, 4880, 4460]` takes in the Frankfurt bridgehead's east side (Aschaffenburg north past Hanau and Nidda to the Vogelsberg), the 4th Armored corridor's tip at 4840,3050 and the Worms bulge: 4 stretches added, front 1166 to 1350 km; ticks checked on crops 4150,3000 and 4580,3030 (4x); the heavy stretch at 4290,3580 traced across; no town changed side. Still missing: nothing found.
