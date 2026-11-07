@@ -1,0 +1,29 @@
+# 12ag-1944-07-03: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21028
+date: 1944-07-03
+as_of: 2400 HRS 3 JULY 1944
+title: "Situation 2400 hrs 3 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-04
+radius: 5
+exclude:
+  - box: [4350, 300, 4950, 560]
+    why: "the struck-through SECRET at the top right (about 4450-4800,405-495; 4 July had it at 4540-4800,465)"
+  - box: [1550, 3950, 2450, 4700]
+    why: "the legend (U.S., BRITISH, ENEMY keys and the FRONT LINE sample), as on 4 July"
+  - box: [1000, 300, 3400, 950]
+    why: "the title block's lettering (SITUATION 2400 HRS 3 JULY 1944, HQ FUSAG, COPY No.), as on 4 July"
+  - box: [2900, 3580, 4100, 4250]
+    why: "the table of units believed to be on the way to the battle area (the sheet draws it at about 2950-4030,3640-4190; box widened up from 4 July's)"
+checked: []
+flip: []
+
+# Reader: title SITUATION 2400 HRS 3 JULY 1944, HQ FUSAG on the line below, COPY No. blank, no report number. Agrees with the catalogue's day (ict21028).
+# Reader: towns matched to 12ag-1944-07-04's (base B01), sheets offset -16, 0 px: 28 of 34 agreed (median 0.8 px); six placed through the transform: 1.5W 50N (41 px off), 1W 50N (23), 0.5W 50N (19), 0.5W 49N (29), 1.5W 48.5N (13), 0.5W 48.5N (45).
+# Reader: radius, by the GeoJSON (strays after the boxes below). 3: 38 stretches (35 ticks, 3 line, 0 unsure), 130.1 km, the line in fragments, no strays left. 4: 14 stretches, 14 ticks, 0 unsure, 151.2 km, reaches the west tip (1.712W 49.307N) but the Orne-mouth heavy arc ends at 49.276N. 5: 13 stretches, 13 ticks, 0 unsure, 149.8 km, from the west tip to the Orne mouth (49.288N), nothing lost at either end. Radius 5 kept.
+# Reader: boxes, 07-04's four moved to where each sits today (the 07-04 positions missed today's SECRET, which starts at x about 4450). At radius 5, taking each out alone: without SECRET no change (13, 149.8 km); without legend 14 stretches, 1 unsure; without title and without table no change. At radius 3: without SECRET 50 stretches, 9 unsure; without legend 92, 41 unsure; without title 69, 27 unsure; without table no change (38). The table's box traces nothing on this sheet at 3 or 5, kept as on 4 July. None touches a ticked front stretch (front at y about 1870-2610).
+# Reader: no stretch flipped, checked or left out by hand: 13 of 13 ticks. Crops 600,1800 (west end, 1000x700) and 3300,1850 (Caen end, 700x900): red ticks on the map's own ticks, on the north and west side; the west tip, the hump at St-Sauveur and the Orne-mouth arc all traced. Today's front already reaches the west tip (1.712W) where 4 July's stops at 1.664W.
+# Reader: --sides, 07-04's GeoJSON backed up first and byte for byte unchanged after, run on 07-04 and today, diffed town by town: 34 of 34 the same side, no town changes. 0.5E and 1E 49.5N enemy on both, right. 0E, 0.5E and 1E 50N own on both (beyond the open end, either way); 1E 50N own by runs 7 and 5 against 3 and 8 enemy.
+# Reader: length 149.8 km from the GeoJSON (07-04 138.1 by the same count). Gaps over 20 px (23.5 px/km), a run's end to the nearest other run's end, at radius 5: run 1 start (1.5421W 49.3314N) to run 2 end 32 px; run 3 start (0.2406W 49.288N, the Orne-mouth end) to run 8 start 144 px; run 1 end (1.7123W 49.3075N, the coast end) 306 px from any other run. At radius 4 the gaps are 58, 33 and 21 px, and the west end 788 px.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 3 July. Traced at radius 5 (at 4 the Orne-mouth arc falls short; at 3 the line breaks up): 13 stretches, about 150 km, 0 unsure, all turned by their ticks, from the west coast tip (1.71W) by the St-Sauveur hump to the Orne mouth, ticks on the north and west; a 144 px gap at the Orne-mouth end where the map's arc is continuous. Boxes: SECRET (moved to this sheet's), the legend, the title lettering and the table of units on the way. All 34 towns on 4 July's side; 0.5E and 1E 49.5N enemy (right).
