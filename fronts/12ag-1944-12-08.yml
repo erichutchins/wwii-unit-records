@@ -1,0 +1,28 @@
+# 12ag-1944-12-08: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21187
+date: 1944-12-08
+as_of: 1200 HRS 8 DECEMBER 1944
+title: "Situation 1200 hrs 8 December 1944, Twelfth Army Group"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B11.csv
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [250, 390, 2290, 780], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 8 DECEMBER 1944, TWELFTH ARMY GROUP); seen on the overlay crop 0,250 (2600x800): SECRET's underline starts y 412, GROUP's letters end y 740 and 1944 ends x 2275 (y 570); without the box 31 unsure fragments at y 425-730; y1 780 stops above the Walcheren, Beveland and Tholen arcs (the highest, at x 2150-2210, is at y 800-850) and x1 2290 stops west of the Hollandsch Diep arc (at x 2290 it is y 760, the run's middle far east)"}
+  - {box: [30, 4650, 1070, 5540], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE), its sample of the front included, seen on the overlay crop 0,4700; seen on overlay crop 0,4800: U.S. box top y 4895, FRONT LINE letters and sample end y 5510, lettering x 240-1045; without the box 9 unsure fragments"}
+  - {box: [2500, 1740, 3770, 1990], why: "the Twenty One/Twelfth army group boundary from Louvain to the front near Geilenkirchen, heavy, its ticks are the railways' (seen on the overlay crop 2500,1600)"}
+  - {box: [2900, 1000, 3500, 1400], why: "the First Canadian/Second British army boundary south of the Maas toward Turnhout, heavy, no ticks (looked at 3366,1093 3233,1260 2963,1324)"}
+  - {box: [3480, 4880, 4100, 5300], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, no ticks (seen on overlay crop 3400,4000)"}
+  - {box: [4260, 4580, 4560, 4800], why: "the same boundary along the Marne-Rhine canal from x 4260 to Sarrebourg and north (4500,4600), no ticks; without it unsure at 4502,4617 (overlay crop 3500,4500)"}
+  - {box: [4520, 4280, 4830, 4660], why: "the same boundary from Sarrebourg north-east toward the front near Sarreguemines, no ticks"}
+  - {box: [4540, 4990, 4800, 5300], why: "the Seventh/First French army boundary north-east of St. Die, no ticks"}
+  - {box: [5100, 4950, 5260, 5020], why: "the stub where that boundary meets the front on the Rhine, no ticks"}
+  - {box: [4650, 3960, 4780, 4050], why: "an enemy division's box (36) with its hatching in the Saar salient, not a line (looked at 4701,4007)"}
+  - {box: [5500, 4170, 5600, 4260], why: "an enemy division's box (245) beside the salient's hatching, not a line (looked at 5546,4217)"}
+  - {box: [4630, 4050, 4720, 4130], why: "a blob on the Westwall hatching under the enemy division 36 box, a stub not front (looked at 4672,4092); 12-13 has the box above at y 3960-4050"}
+  - {box: [3840, 4740, 4300, 5020], why: "the Twelfth/Sixth army group boundary (TWELFTH XXXXX SIXTH) from Dombasle north-east along the Marne-Rhine canal's south bank, heavy black, only the canal's and railways' small ticks, none of its own; came out magenta (unsure) at 4035,4827; looked at on overlay crop 3500,4500; sits west of 12-10's box on the canal"}
+flip: []
+checked: []
+# Reviewed: 59 of 81 towns agreed on the transform (median 1.9 px), the rest placed through it (sheets offset -48, +24 px).
+# Reviewed: 81 of 81 towns on 12-09's side. Excludes copied from 12-09 and checked on the overlay: the title box (y 390-780, x 250-2290) holds the lettering (SECRET top y ~430, GROUP ends y ~755, 1944 ends x ~2240) and stops above the Walcheren/Beveland/Tholen arcs (y 815-870) and west of the Hollandsch Diep arc; the legend box moved to [30, 4650, 1070, 5540]; the three heavy boundaries boxes (Twenty One/Twelfth, Twelfth/Sixth along canal, Seventh/First French) each needed (without them unsure fragments); the Canadian/British box and the enemy-division boxes (36, 245, blob) changed nothing today, kept from 12-09 as heavy ink with no ticks there.
+# Reviewed: the Scheldt arcs (Walcheren, Beveland, Tholen, Krammer) have red ticks hanging south on the map's own south-hanging ticks; no flip.
+# Reviewed: 81 of 81 towns on 9 December's side; the legend box moved; one short unsure stretch on the Rhine (5227,5303) decides no town wrongly.
