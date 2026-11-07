@@ -1,0 +1,25 @@
+# 12ag-1944-07-07: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21032
+date: 1944-07-07
+as_of: 2400 HRS 7 JULY 1944
+title: "Situation 2400 hrs 7 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-08
+radius: 5
+exclude:
+  - box: [4500, 200, 5500, 520]
+    why: the struck-through SECRET at the top right (four stretches at about 0.2-0.4E 49.96N)
+  - box: [1550, 3950, 2450, 4700]
+    why: the legend's FRONT LINE sample (a stretch at 1.4W 48.4N, no front there)
+checked: []
+flip: []
+
+# Reader: title SITUATION 2400 HRS 7 JULY 1944, HQ FUSAG on the line below, COPY No. blank, no report number. Agrees with the catalogue's day (ict21032).
+# Reader: towns matched to 12ag-1944-07-08's (base B01): 28 of 34 agreed (median 0.7 px, sheet offset +8, +0 px); six placed through the transform: 1.5W 50N (19 px off), 1W 50N (32), 0.5W 50N (27), 0.5W 49N (10), 1.5W 48.5N (4), 0.5W 48.5N (14).
+# Reader: radius, before any box. Radius 5: 15 stretches (12 ticks, 3 line, 0 unsure), 169 km, one continuous line, but four of them (about 12 km) are the struck-through SECRET and one (1.8 km) is the legend's FRONT LINE sample. Radius 4: 51 stretches (33 ticks, 2 line, 16 unsure: SECRET, legend, strokes), gaps. Radius 3: 164 stretches, 113 unsure (title and roads' ink). With the two boxes below: radius 5 gives 10 stretches, 10 ticks, 0 unsure, 154.7 km; radius 4 gives 31 stretches, 139.0 km (not all strays boxed, not pursued); radius 3 gives 86 stretches, 244 km (mostly lettering). Radius 5 kept: whole line, nothing stray.
+# Reader: boxes. SECRET box: without it 15 stretches, with it 11 (4 gone). Legend box [1550,3950,2450,4700]: without it the 1.8 km stray at 1.4W 48.4N stays; with it 10 stretches. Neither touches a ticked front stretch (the front lies at y 2150-2700 on the scan). Title, table of units, symbol strokes and boundaries trace nothing at radius 5.
+# Reader: no stretch flipped, checked or left out by hand: 10 of 10 ticks agree. Crops 3000,2000 (Caen end: line from the Orne mouth at about 3830,2160 west along Caen's north, ticks on the north/west side) and 1200,1950 (Passage de la Deroute coast to Saint-Lo) read: red ticks fall on the map's own ticks.
+# Reader: --sides on 07-08 (its GeoJSON backed up and unchanged by the run) and today: 34 of 34 the same, no town changes side. 0.5E and 1E 49.5N enemy, right. Towns beyond the open ends read either way.
+# Reader: gaps over 20 px between run ends (23.5 px/km): 31 px at 0.388W/0.37W 49.229N (the line breaks where the 21 box's top meets it, at about 3540,2325), and the two ends of the line: west tip at 1.669W 49.277N (coast) and Orne-mouth end at 0.206W 49.292N.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 7 July. Traced at radius 5, as 8 July (radius 4 and 3 trace the heavy line in pieces and pick up lettering): 10 stretches, about 155 km, 0 unsure, all turned by their ticks, one continuous line from the Passage de la Déroute round Saint-Lô and Caen's north to the Orne mouth, ticks on the north and west; one break of 31 px where the 21 box meets the line. Two boxes at radius 5: the SECRET strike-through and the legend's FRONT LINE sample. All 34 towns on 8 July's side; 0.5E and 1E 49.5N enemy (right).
