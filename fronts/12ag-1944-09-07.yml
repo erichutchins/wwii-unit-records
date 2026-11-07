@@ -1,0 +1,19 @@
+# 12ag-1944-09-07: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21094
+date: 1944-09-07
+as_of: 1200 HRS 7 SEPTEMBER 1944
+title: "Situation 1200 hrs 7 September 1944, Twelfth Army Group"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-09-06
+exclude:
+  - {box: [200, 200, 2800, 720], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 7 SEPTEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [5600, 4900, 6400, 5450], why: "the legend at the bottom right (U.S., British, Enemy)"}
+flip: []
+checked: []
+# Reader: the sheet draws no ticked front line anywhere (looked at in tiles: Albert Canal and Antwerp, the Scheldt, the Meuse at
+# Namur-Liege, Luxembourg, the Moselle at Metz and Nancy). Only heavy black army, army-group and corps boundaries with no ticks,
+# unit symbols and grey ticked railways. With the title and legend boxed the trace is empty. The enemy box outline south-east of
+# Verdun that 6 September boxed traces nothing here (tested with and without), so it is not copied. Without the title box 15
+# stretches come from the lettering; without the legend box 12.
+# Reviewed: as on 6 September, the sheet draws no ticked front (whole-sheet overlay read by the reviewer): only boundaries, unit symbols and railways; the front is empty here, no front drawn, not no front. Title and legend boxed; 6 September's enemy-box outline catches nothing here and is left out. 63 of 81 towns agree with 6 September (Namur and Leuven placed through the transform, 55 and 77 px off). No sides to test.
