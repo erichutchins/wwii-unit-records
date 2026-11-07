@@ -6,7 +6,7 @@ report: 302
 title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 302, situation as of 031200 Apr. 1945"
 read: the title on the sheet, 7 Nov 2026
 gcps_from: 12ag-1945-04-02
-area: [4350, 1700, 5500, 4800]   # takes in the front east of x 4350: Paderborn-Kassel-Fulda, the Vogelsberg, Hanau-Spessart, the Würzburg salient, Mosbach
+area: [2126, 500, 6576, 4800]   # widened 7 Nov (from 4 April): takes in the north and west   # takes in the front east of x 4350: Paderborn-Kassel-Fulda, the Vogelsberg, Hanau-Spessart, the Würzburg salient, Mosbach
 # Base B12 (1:1,000,000). Boxes copied from 12ag-1945-04-02's 15 (the prompt said 14; the file has 15), each tried alone on a
 # no-box trace (142 runs): six removed nothing and are dropped (the sector symbols at the left edge, Giessen, Wesel, Kempen,
 # Bonn, the Koeln leader hook); nine kept; four added after looking (legend top row, Krefeld boundary diagonal, the Cleve
@@ -31,3 +31,4 @@ checked: []
 # Unsure left: (2169,1139) a short corner piece where the front meets the heavy line leaving the traced area north of Arnhem/Zutphen. The Ruhr ring is drawn closed (front, enemy inside). The ticked front east of x 4550 (Hanau-Spessart, Paderborn-Fulda) and north of y 1139 is past the towns' spread and untraced.
 # Reviewed: 78 of 81 towns on 2 April's side; Münster (own) was taken on 3 April; Siegburg (enemy, on the Ruhr ring's edge) and Strasbourg (the open end) are weak tests. The Emmerich-Kleve arc is boxed as boundary (unticked, running on west); the front past x 4550 and north of y 1139 is past the towns' spread.
 # Reviewed (area): `area: [4350, 1700, 5500, 4800]` takes in the front east of x 4350: Paderborn to Kassel and Fulda, the Vogelsberg, Hanau-Aschaffenburg, the Spessart, the Würzburg salient and the Odenwald to Mosbach; nothing needed north of y 1139 beyond the towns' spread. 38 stretches added, front 975 to 1715 km (the ticks on crops 4250,1650, 4900,3100 (3x) and 4250,3500); one box on the Vogelsberg boundary's stub at Fulda. No town changed side. Still missing: nothing found.
+# Reviewed later (from 4 April): area widened to the whole front (the old area began at x 4350 and missed ticked front in the north and west); 149 stretches, about 1949 km against 1719, 0 unsure, no town changes side; the whole-sheet overlay read by the reviewer.
