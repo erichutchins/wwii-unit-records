@@ -1,0 +1,41 @@
+# 12ag-1944-08-06: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21062
+date: 1944-08-06
+as_of: 1200 HRS 6 AUGUST 1944
+title: "Situation 1200 hrs 6 August 1944, HQ Twelfth Army Group (SECRET struck through; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B02.csv
+radius: 2   # tried 4 (11 stretches, the thin front lost in the British sector), 3 (the Orne-side ticked line in fragments with gaps), 2 (the ticked line whole, coast to coast); see the comment below
+area: [5800, 300, 6350, 900]   # the British sector's ticked line from Evrecy to the Orne mouth lies east of the towns' spread (0E) and was dropped without it
+exclude:
+  - {box: [1400, 1180, 3300, 1520], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 6 AUGUST 1944, HQ TWELFTH ARMY GROUP), top left-middle on this base; at radius 3 the letters come in as 70 short stretches"}
+  - {box: [1100, 4780, 1950, 5350], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE) bottom left, with its sample of the front line (hatched bar at x 1425-1520, y 4965-4985); a sample not a front; its BRITISH letters also drew a small oval stretch at 1600,4790"}
+  - {box: [4800, 4800, 5750, 5400], why: "the table 'REMNANTS OF THESE DIVISIONS ON THIRD ARMY FRONT' and the UNLOCATED box under it, bottom right: black rules and division symbols, no front"}
+  # radius 2 traces the thin ticked line whole but also reads these heavy lines and symbols as stretches; each boxed (off the front's own stretches):
+  - {box: [4380, 1460, 4560, 1580], why: "the Sienne river's dark blue line by the 5 box (blue at its edge read as ticked line, hatch-like river bank), no front"}
+  - {box: [5040, 1340, 5110, 1440], why: "the end of the Third/First army boundary: a heavy black line with no ticks, short arc"}
+  - {box: [5200, 1160, 5300, 1260], why: "the army boundary running down to the Guards box junction: heavy black, no ticks (looked on c2 overlay at 5230,1180)"}
+  - {box: [4800, 1525, 4870, 1570], why: "the boundary diagonal from the 9 box into the junction at 'B 2': heavy black with no ticks; the front's own vertical (x 4880) is outside this box"}
+  - {box: [4920, 1865, 5010, 1915], why: "the oval of the 353 enemy box read as a short curve, a symbol"}
+  - {box: [4990, 2170, 5060, 2230], why: "the 275 enemy box's oval, a symbol"}
+  - {box: [5800, 1090, 5900, 1150], why: "the 277 enemy box's hatch, a symbol"}
+  - {box: [740, 2930, 830, 3000], why: "the armoured symbol by Brest (left edge), a symbol not a line"}
+  - {box: [5820, 590, 5900, 810], why: "the heavy Caen-Evrecy line between the First Canadian and Second British armies: black with no ticks (g overlay), ends at the front at Evrecy"}
+  - {box: [3060, 1760, 3280, 1920], why: "the enemy 319 box (hatched, with its oval) near St-Malo read as a short curve (looked at 3214,1881): a symbol; no front line is drawn at St-Malo"}
+  - {box: [3640, 3300, 3730, 3380], why: "the US 8 division's box at Rennes, its cross read as short curves (looked at 3682,3340): a symbol"}
+  - {box: [3330, 2220, 3570, 2390], why: "the US 83 division's box south of St-Malo, its cross read as a short ticked curve (run at 3432,2300, seen on the overlay): a symbol"}
+  - {box: [2780, 4540, 3000, 4700], why: "the US 4 armoured division's box at Redon, its oval read as two short curves (runs at 2876,4615 and 2848,4595, seen on the overlay): a symbol"}
+  # today's sheet: boxes found on the overlay, each looked at 4x (--look)
+  - {box: [5050, 940, 5150, 1040], why: "the Twelfth/Twenty-One army group boundary from the XIX/V junction north toward St-Amand: heavy black, no ticks (looked at 4x at 5099,986 on the Normandy overlay); radius 2 reads it as a stretch"}
+  - {box: [4540, 1680, 4790, 2200], why: "the Third/First army boundary running south-south-east from Coutances toward Beffeville: a plain heavy black line with no ticks either side (looked at 4571,1729 and 4698,2026); two stretches"}
+  - {box: [4990, 1750, 5080, 1830], why: "the 2 (enemy) division box at Mortain's north, its hatching read as two small stretches (looked at 5044,1777): a symbol"}
+  - {box: [5070, 2080, 5160, 2150], why: "the LEHR enemy box's hatch (looked at 5114,2116): a symbol"}
+  - {box: [5220, 3630, 5320, 3720], why: "the enemy 708 box's hatch near Fougeres (looked at 5268,3669): a symbol"}
+  - {box: [3050, 1950, 3200, 2060], why: "the enemy 319 box by St-Malo, its cross read as a short curve (looked at 3117,1999): a symbol; no front line is drawn at St-Malo"}
+flip: []
+checked:
+  - {at: [6245, 626], why: "the Orne-mouth line east of Caen (3?): heavy line with the map's ticks on its west (looked at 4x), the red ticks the same side; British on the west"}
+  - {at: [6230, 682], why: "the same line, south part (4?): map ticks on the west, red ticks on them (4x)"}
+  - {at: [6157, 798], why: "the line's south-west tail at Cuverville/Demouville toward the Caen-Troarn road (4x): map ticks on its north-west, the red ticks the same side"}
+# Reviewed: the ticked front ends at St-Pois (about 4820,1650); the heavy line from Brecey south to St-Hilaire is plain, without ticks (the army boundary, reviewer's crop 4450,1550), and no front is drawn round Mortain, where the US 30th and the enemy's 2 Pz and 84 stand. About 76 km, the Orne mouth to St-Pois; three gaps where symbols cover the line by the Orne.
