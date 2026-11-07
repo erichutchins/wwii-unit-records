@@ -1,0 +1,33 @@
+# 12ag-1944-06-10: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21005
+date: 1944-06-10
+as_of: 2400 HRS 10 JUNE 1944
+title: "Situation - 2400 hrs 10 June 1944, HQ. FUSAG, Copy No. ___; 12 AG Outline Maps 1:500,000 (no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-06-09
+radius: 4
+dark: 110
+runs:   # the toothed line as waypoints on the scan, enemy on the left, read by eye on gridded 2x crops, 7 Nov 2026
+        # run 1: the Utah arc from its east end at the VII/V Corps boundary north of Carentan, west along the south, north up the west side past the 4th Division box, round the top and east along the stub to about 2050,1615
+        # run 2: one line from the top of the Orne pocket's east leg (below the SS box) down the leg, west round the pocket's foot and along the Caen reach, over the Bayeux arch, along Omaha to the Isigny hook
+  - [[2155, 2018], [2140, 2030], [2100, 2052], [2050, 2065], [2000, 2067], [1960, 2057], [1920, 2045], [1890, 2030], [1860, 2010], [1835, 1985], [1815, 1960], [1800, 1930], [1792, 1900], [1787, 1860], [1792, 1830], [1800, 1800], [1805, 1760], [1800, 1725], [1801, 1695], [1815, 1675], [1835, 1657], [1860, 1645], [1880, 1632], [1895, 1615], [1910, 1600], [1935, 1597], [1960, 1610], [1985, 1625], [2010, 1627], [2040, 1622], [2050, 1615]]
+  - [[3888, 2132], [3870, 2150], [3855, 2175], [3850, 2200], [3845, 2230], [3835, 2270], [3820, 2310], [3810, 2330], [3795, 2365], [3780, 2395], [3765, 2412], [3740, 2412], [3710, 2400], [3675, 2387], [3640, 2372], [3600, 2365], [3550, 2370], [3500, 2375], [3480, 2370], [3460, 2385], [3445, 2357], [3425, 2355], [3405, 2382], [3385, 2392], [3355, 2387], [3330, 2395], [3310, 2412], [3280, 2422], [3240, 2428], [3200, 2425], [3175, 2410], [3150, 2385], [3130, 2360], [3105, 2348], [3070, 2333], [3035, 2318], [3000, 2300], [2965, 2270], [2930, 2235], [2900, 2200], [2870, 2185], [2840, 2165], [2810, 2147], [2780, 2135], [2755, 2122], [2735, 2120], [2710, 2137], [2685, 2150], [2670, 2145], [2650, 2125], [2630, 2125], [2600, 2135], [2570, 2147], [2530, 2155], [2485, 2160], [2450, 2155], [2420, 2145], [2375, 2147], [2330, 2137], [2300, 2122], [2275, 2100], [2250, 2075], [2243, 2073]]
+exclude:
+  - box: [1000, 250, 3450, 950]
+    why: "the title block's lettering (SITUATION - 2400 HRS 10 JUNE 1944, HQ FUSAG, COPY No.)"
+  - box: [4700, 300, 5350, 520]
+    why: "SECRET at the top right"
+  - box: [1300, 4750, 2100, 5300]
+    why: "the legend (U.S., BRITISH, ENEMY and BOMB LINE keys)"
+checked: []
+flip: []
+
+# Reader: title SITUATION - 2400 HRS 10 JUNE 1944 / HQ. FUSAG / COPY No. ___ (blank); "12 AG OUTLINE MAPS 1:500,000" at the top left margin; no report number. Agrees with the catalogue (ict21005, 1944-06-10). Legend (as on 9 June, read there; not re-read here): U.S., BRITISH, ENEMY keys and a dashed BOMB LINE; no FRONT LINE sample.
+# Reader: towns matched to 12ag-1944-06-09, sheets offset -8,-16 px: 29 of 34 agree (median 0.9 px); five placed through the transform: 1.5W 50N (37 px off), 1W 50N (29), 0.5W 50N (27), 1W 49.5N (31), 1.5W 48.5N (29).
+# Reader: toothed: the Utah arc (from the VII/V Corps boundary north of Carentan, west along the south, north up the west side past the 4th and 90th Division boxes, round the top and east along the stub north-east of the 4th Division box to about 2050,1615: the stub is now joined to the arc, one run), and one line from the Orne pocket's east leg (below the SS box) down the leg, west round the pocket's foot, along the Caen reach, over the Bayeux arch (now a salient's arch cut open: the line runs on south-west past the LEHR box to Tilly's north, then north-west to Isigny), and along Omaha to the Isigny hook. Not toothed: arrows, the corps and army boundaries (heavy black, no teeth; the diagonal at Carentan, the verticals at x about 2900, 3300, 3500), the bomb line, unit boxes (the dashed boxes), circles. The Utah arc and the Omaha line are still not joined on the sheet (the diagonal between them is the corps boundary).
+# Reader: METHOD: hand waypoints (`runs:`), read by eye on gridded 2x crops of the scan (grid every 50 px, labelled every 100; crops from 1800,1500 650x650; 1950,1900 650x400; 1600,1550 450x550; 2250,1980 650x300; 2850,1980 650x300; 2850,2150 650x400; 3350,2100 650x400; 3700,1950 500x400), 7 Nov 2026, every 50-100 px and at every bend, started from 9 June's course but redrawn on today's ink: the sheet's line is much changed (the British line now runs south-east from the Aure to Tilly's north before turning east). Radius 4, dark 110. Teeth: looked on the same crops: they hang on the Allied side (inside the Utah arc, north of Omaha, inside the Orne pocket), as on 8-9 June; nothing flipped; run 1 goes west along the south and north up the west side, run 2 from the pocket west, so the enemy is on the left.
+# Reader: result: 2 runs, about 123.3 km from the GeoJSON (40.4 km run 1, 82.9 km run 2; 9 June 129.5 km). Overlay crops (1750,1550 500x600; 2100,1950 1000x300; 3000,2100 1000x400) looked at: the trace follows the drawn heavy line end to end and the red ticks fall on the map's teeth on both runs. Off the ink or untraced: at the pocket's top the path starts about 20 px short of the SS box's foot (the leg is thin there, about 3868,2135); the dip at 3445-3460,2355-2385 in the Caen reach is followed; nothing else seen.
+# Reader: boxes: with waypoints only the title, SECRET and legend boxes are kept.
+# Reader: sides: 9 June's GeoJSON backed up and unchanged after (cmp), --sides run on 9 June and today and diffed town by town: all 34 towns on the same side. The run lists differ only in the points: 2W 50N own (US) (by run 2 own at 3122,2358, run 1 enemy at 1791,1872); 2W 49.5N and 1.5W 49.5N enemy; 1W, 0.5W, 0.5E and 1E 49.5N own (US) by run 2 own at 3122,2358 (0.5E and 1E 49.5N: inland east of the Seine mouth, German-held: the open-end artefact, as on 8-9 June, no line between them and the sea); 49N and south enemy. No change to copy.
+# Reviewed: hand waypoints (radius 4, dark 110); overlay crop 1750,1500 looked at: the Utah arc (now joined to the stub by the 4th Division) and the long line from the Isigny hook along Omaha, past Bayeux toward Tilly and along the Caen reach to the 6th Airborne's pocket east of the Orne follow the toothed ink, teeth on the Allied side; Utah and Omaha still apart. WRONG sides, open-end artefacts east of the Seine mouth: 0.5E and 1E 49.5N read own (German-held). About 123 km.

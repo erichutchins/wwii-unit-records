@@ -1,0 +1,29 @@
+# 12ag-1944-06-29: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21024
+date: 1944-06-29
+as_of: 2400 HRS 29 JUNE 1944
+title: "Situation 2400 hrs 29 June 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-06-30
+radius: 4
+dark: 110
+runs:   # the toothed line as waypoints on the scan, enemy on the left; run 1: Orne-mouth arc's north tip, down its east side, west along the Caen reach, down the Odon east head (continuous today: no break at the 43 symbol), round the salient, west to the 1 symbol, north up the Vire past St-Lo, the Carentan diagonal, the loop under the 83 box, over the Cotentin ridge to the west tip at the lake; run 2: the Hague line, from its SW end east along an arch and NE up to the 709 symbol
+  - [[3845, 2174], [3835, 2191], [3825, 2216], [3822, 2246], [3817, 2286], [3810, 2321], [3785, 2346], [3750, 2363], [3700, 2368], [3670, 2358], [3645, 2343], [3630, 2331], [3600, 2338], [3565, 2321], [3530, 2316], [3500, 2326], [3450, 2336], [3400, 2331], [3370, 2328], [3345, 2351], [3340, 2386], [3338, 2416], [3330, 2430], [3330, 2450], [3327, 2471], [3335, 2486], [3342, 2516], [3350, 2556], [3350, 2596], [3340, 2619], [3325, 2631], [3300, 2626], [3270, 2611], [3240, 2591], [3200, 2576], [3165, 2561], [3135, 2536], [3115, 2506], [3100, 2516], [3065, 2531], [3025, 2546], [2975, 2556], [2940, 2566], [2910, 2586], [2902, 2611], [2900, 2641], [2895, 2676], [2875, 2693], [2850, 2700], [2800, 2700], [2750, 2698], [2700, 2686], [2675, 2671], [2660, 2646], [2655, 2621], [2640, 2611], [2610, 2616], [2575, 2616], [2540, 2606], [2500, 2581], [2450, 2551], [2405, 2526], [2375, 2518], [2340, 2528], [2315, 2516], [2302, 2496], [2302, 2466], [2310, 2431], [2320, 2406], [2335, 2366], [2325, 2331], [2315, 2311], [2290, 2286], [2250, 2266], [2220, 2246], [2200, 2221], [2175, 2201], [2125, 2183], [2090, 2141], [2065, 2126], [2040, 2151], [2015, 2176], [1980, 2196], [1950, 2206], [1920, 2191], [1900, 2171], [1895, 2151], [1880, 2126], [1850, 2106], [1800, 2091], [1750, 2066], [1700, 2026], [1660, 1996], [1630, 1961], [1600, 1931], [1575, 1923], [1550, 1946], [1520, 1941], [1500, 1931], [1470, 1923], [1450, 1923], [1435, 1936], [1420, 1966], [1405, 2001], [1400, 2036], [1390, 2051], [1350, 2058], [1300, 2052]]
+  - [[995, 1190], [1010, 1180], [1030, 1168], [1055, 1165], [1075, 1175], [1090, 1190], [1110, 1203], [1130, 1203], [1148, 1195], [1160, 1175], [1170, 1150], [1180, 1130], [1190, 1115], [1198, 1100]]
+exclude:
+  - box: [4300, 300, 4950, 680]
+    why: "the struck-through SECRET at the top right (box as on 30 June; not re-measured on this sheet)"
+  - box: [1650, 4020, 2550, 4880]
+    why: "the legend (box as on 30 June; not re-measured on this sheet)"
+  - box: [1300, 400, 3850, 1010]
+    why: "the title block's lettering (box as on 30 June; the title here runs about 1600-3770 across, 29 JUNE 1944)"
+checked: []
+flip: []
+
+# Reader: title SITUATION 2400 HRS 29 JUNE 1944, HQ FUSAG, COPY No. blank. Agrees with the catalogue's day (ict21024).
+# Reader: towns matched to 12ag-1944-06-30's (base B01), sheets offset +0, +16 px: 33 of 34 agreed (median 0.6 px); 0.5W 48.5N, 5 px off, placed through the transform.
+# Reader: METHOD: hand waypoints, read by eye. Started from 30 June's runs shifted +16 px in y, checked on overlay crops (3250,2100 700x560; 2200,2000 1100x700; 1250,1850 1000x400; 900,1000 350x300) and on gridded 2x crops of the scan (900,1000; 3250,2330; 3720,2100); radius 4, dark 110 as on 30 June. The shifted waypoints sat on the ink almost everywhere; only the Hague line was redrawn: today it is not a 2 km stub but a longer line, an arch from (995,1190) over Beaumont, down to (1130,1203) and NE up past Flottemanville to the 709 symbol (1198,1100), one run of 14 waypoints. Ticks hang south of the arch and east of its NE leg (Allied side), as in run order with the enemy on the left. The Odon east head is drawn unbroken today (no 43 symbol over it), so runs 1 and 2 of 30 June are one run here (waypoints added at 3330,2430 and 3330,2450).
+# Reader: ticks seen on the Allied side throughout (north and east on the Cotentin, inside the 83 loop, east of the Odon head, north on the Caen reach, east of the Orne arc, south of the Hague arch); the overlay's red ticks fall on the map's ticks on both runs. Nothing seen off the ink or untraced; the west tip stops at the lake. No stretch flipped or checked (no stretch method).
+# Reader: --sides on 30 June (its GeoJSON backed up, unchanged after) and today, 34 towns diffed: no town changes side. 0.5E and 1E 49.5N enemy; 2W and 1.5W 50N enemy (at sea past the open end, reached only by the Hague run, either way). No town on the wrong side. Length from the GeoJSON about 167 km (2 runs, 173 and 14 points).
+# Reviewed: hand waypoints (radius 4, dark 110), as 30 June; overlay crop 800,950 looked at: the whole ticked line from the west coast over the Cotentin ridge and the 83 loop, down the Vire past St-Lo, round the Odon salient (drawn unbroken today), the Caen reach and the Orne arc, and the Hague arch over Beaumont to the 709 box, follow the ink with the ticks on the Allied side. No town on the wrong side; about 167 km.
