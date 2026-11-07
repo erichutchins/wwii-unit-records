@@ -1293,8 +1293,8 @@ checked:
   - 1005
   why: 'NEW on 05-13: run 154 at 3698,1005 near Grabow/Ludwigslust, a short unsure stub on the heavy band running south-west from the front''s corner east of Ludwigslust (no ticks of its own); its red tick falls on the north-west side, where the map''s nubs stand on that band and where run 56 below it has them (looked, overlay crop 3560 880 300 240 enlarged)'
 area:
-- 350
-- 1263
+- 92
+- 802
 - 5908
 - 6332
 
@@ -1304,3 +1304,4 @@ area:
 # Reader: flips: the Groningen bar re-centred on run 150 (1105,931), kept; the Tauern tip's two flips re-centred: both arcs now come out ticked with ticks inside, only a short stub (4900,5799) was unsure and is turned to match (the tip is solid black, so this one is a judgement, not a tick seen). The Allgaeu east bar flip is NOT kept: at 3251,6182 on today's sheet there is only the straight army boundary running to the sheet's foot, boxed; on 05-12 the same flip may have turned a boundary stretch (worth a look at 05-12 near 3251,6182). The four checked entries of 05-12 are not kept (none is unsure today, so none applies); one NEW checked entry, run 154 at 3698,1005.
 # Reader: --sides on 05-12 (GeoJSON backed up and put back byte for byte) and on today, diffed town by town: 60 of 60 agree, none changed side. 135 stretches, about 2315 km (05-12: 146, about 2783 km), 0 unsure. Sheet-length difference: 05-12 has gaps of its own closed or open differently; the length is not compared further.
 # Reviewed: the legend still reads FRONT LINE; an ordinary ticked front, no line of contact with the Soviets. All 60 towns on 12 May's side. 135 stretches, about 2315 km: about 470 km shorter than 12 May (check_fronts flags it "short"); the whole-sheet overlays of both days, read by the reviewer, show one continuous line on the same course from the Dutch coast by the North Sea, the Elbe and Mulde and the Czech border to Austria and the Alps; where the difference lies (most likely the Alpine reaches) is not run down. 0 unsure. Flips: the Groningen bar and a stub at the Tauern tip (a judgement on solid ink). 12 May's Allgäu east-bar flip is not kept: on this sheet a straight untick army boundary runs there and is boxed (12 May's flip may have turned a boundary stretch). Two boxes east of Schwerin and two at the Norden finger dropped (they held the front); three boundary boxes added.
+# Reviewed later (from 14 May): area widened west and north to [92,802,5908,6332]: the ticked Friesland coast front west of Dokkum (Leeuwarden to the Lauwers Zee) lay outside the old area and was dropped; now traced (crop 300,700 read by the reviewer), about 2354 km, 136 stretches, 0 unsure.
