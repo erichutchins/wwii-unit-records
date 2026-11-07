@@ -1,0 +1,19 @@
+# 12ag-1944-08-26: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). B07 pilot.
+item: ict21082
+date: 1944-08-26
+as_of: 1200 HRS 26 AUGUST 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 26 AUGUST 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: towns-B07.csv
+exclude:
+  - box: [380, 400, 2650, 860]
+    why: the title block (SECRET struck through, SITUATION 1200 HRS 26 AUGUST 1944, TWELFTH ARMY GROUP), lettered over the Bay of the Seine at the sheet's top left, above the traced area and clear of the front (whose top is at y 1270). The tool found no stretch there; the box is recorded as settled.
+  - box: [350, 4750, 1400, 5500]
+    why: the legend at bottom left (U.S., BRITISH, ENEMY, FRONT LINE with its sample line and ticks); eleven of the first run's unsure stretches were its lettering and sample.
+flip: []
+checked:
+  - at: [3543, 1908]
+    why: the short unticked tail of the lower Seine line at Mantes (before the 79 box), no ticks of its own found. On the overlay at 4x the map's own ticks stand on the south side (the US side, toward the 79 and XV symbols) and the red ticks fall on them; the hatched 49 box lies on the other side.
+# Reviewed: the sheet draws only two fronts on 26 August: the lower Seine line from Honfleur to the 79th at Mantes, the Germans between it and the river, and a closed pocket west of Evreux (10 SS, 85, 89, 331, 2 inside, ticks outside). East of Mantes no front is drawn, only units round Paris, so the side test past it means nothing. Gaps: about 50 px at the Mantes tail, about 40 px of the ring behind the 10 SS box.
