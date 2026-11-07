@@ -1,0 +1,33 @@
+# 12ag-1944-08-28: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). B07.
+item: ict21084
+date: 1944-08-28
+as_of: 1200 HRS 28 AUGUST 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 28 AUGUST 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: towns-B07.csv
+exclude:
+  - box: [380, 400, 2650, 1000]
+    why: the title block (SECRET struck through, SITUATION 1200 HRS 28 AUGUST 1944, TWELFTH ARMY GROUP), lettered over the Bay of the Seine at the sheet's top left, same place as on 27 August; the box runs down to y 1000 to take in the TWELFTH ARMY GROUP line (scan y about 875-960), which the 27 August box did not reach.
+  - box: [350, 4750, 1400, 5500]
+    why: the legend at bottom left, same place as on 27 August; the box runs down to y 1000 to take in the TWELFTH ARMY GROUP line (scan y about 875-960), which the 27 August box did not reach.
+  - box: [4350, 2250, 4570, 2430]
+    why: the army-group boundary (a heavy black diagonal line through Sucy-en-Brie region east of Paris), no ticks either side; on 28 August the diagonal passes about (4300,2430), (4460,2355), (4560,2250), so the box is moved up from 27 August's; seen on the full scan with the box drawn. Left out as a boundary, not front (the trace does not reach it).
+  - box: [4650, 5500, 5300, 5820]
+    why: the Division of Maps stamp's frame at the foot of the sheet (frame x 4840-5245, y 5580-5790, with the Library of Congress line at its foot; box lengthened to 5820); lettering and a ruled box, not front.
+  - box: [3650, 1700, 3800, 1900]
+    why: the Twenty One/Twelfth army group boundary, a heavy black line with no ticks running NE from the front's east end at Meulan (about 3650,1930); seen on the overlay at 4x.
+area: [1950, 1150, 3720, 2000]   # takes in the Honfleur tip at the west (x about 2020-2220) and the front's east end at Meulan (x to about 3650), both past the towns' spread
+flip:
+  - at: [2801, 1430]
+    why: the lower strand of the S-curve at the Elbeuf loop; its red ticks fell on the north side, but the map's ticks hang south from the lower arm (looked at 6x).
+
+checked:
+  - at: [2818, 1366]
+    why: the head of the loop's tongue, a short heavy arc; its red ticks fall on the inside, the US side, between the upper and middle arms.
+  - at: [2778, 1399]
+    why: the loop's middle arm running back west; its red ticks fall on the map's ticks on the north (tongue) side, looked at 5x.
+
+# Reviewed: one ticked front, the lower Seine line, but longer than 27 August: from the Honfleur tip (west end, outside the towns' spread, taken in by area) round the Rouen loops and the Elbeuf hook to Meulan, where the Twenty One/Twelfth boundary (boxed) leaves it. Title, legend, Sucy boundary and stamp boxes as on 27 August (positions checked).
+# Reviewed: the lower Seine line from the Honfleur tip round the Rouen and Elbeuf loops to Meulan (about 98 km against 165 on 27 August: the pocket south of the river shrinking as the Germans crossed); one stretch turned at the Elbeuf hook (6x). The stretch east of Mantes to the boundary at about 3650,1930 is only partly traced (thick blunt ink).
