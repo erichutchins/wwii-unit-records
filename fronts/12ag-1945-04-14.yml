@@ -1,0 +1,50 @@
+# 12ag-1945-04-14: the sheet as read on its title; second run: the three lettering boxes, the 04-13 boxes that still catch a boundary run, and a box for each new boundary run (B13).
+# Run numbers in the why of the new boxes are those of the first run (124 runs, only the three lettering boxes in); every middle was looked at (--look) before boxing. The 04-13 boxes kept have 04-13's run numbers in their why.
+# Left in unsure: run 19 (3627,772), the stub of the ticked Celle curve where the boxed thin boundary leaves it; runs 99 and 100 (4183,4051; 4171,4071), the small lozenge at Coburg where the ticked front and the boundary's last stretch meet (looked at 3x: ticks on the outer edges, the two arms can't be told apart).
+# Not traced: the ticked Elbe line south of Wittenberge to Tangermuende (past the towns' spread), the Ruhr pocket's west edge on the Rhine (past 7E), the thick Lingen V is front (not boxed).
+item: ict21314
+date: 1945-04-14
+as_of: 141200 APR. 1945
+report: "313"
+title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 313, situation as of 141200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
+read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
+gcps_from: 12ag-1945-04-13
+exclude:
+  - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 13 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
+  - {box: [4700, 80, 6400, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 312, SITUATION AS OF 131200 APR. 1945, signature and name), all letters; same place as 04-08 (--title 4700 80 1600 930)"}
+  - {box: [5640, 5000, 6520, 5660], why: "the legend at bottom right (U.S., BRITISH, ENEMY, FRONT LINE sample), lettering and hatching; same place as 04-08 (looked, crop 5000,4300: its symbols run 5650-6460 x 5010-5600)"}
+  - {box: [560, 1690, 1300, 2020], why: "the Twenty One / Twelfth boundary west of Muenster, heavy black, no ticks; the red ticks fall on grey railways (overlay); same as 04-11 (catches run 51 (middle 814,1818) today)"}
+  - {box: [1230, 3760, 1850, 3930], why: "the First / Third boundary on the Lahn, heavy black, the blue is the river; as 04-11 (catches runs 103, 105, 106 today)"}
+  - {box: [1160, 3770, 1290, 3870], why: "the boundary on the Rhine at Ehrenbreitstein, plain heavy line beside the blue river (looked); as 04-11 (catches run 102 (1195,3782) and 103 today)"}
+  - {box: [1264, 3943, 1334, 4013], why: "run 107 (middle 1299,3978): the boundary along the Rhine south of Koblenz, a plain heavy line (the Third / Fifteenth start), the ticks are the Rhine railways (overlay)"}
+  - {box: [2808, 2588, 2878, 2658], why: "run 69 (middle 2843,2623): the boundary at Kassel, plain heavy, no ticks (overlay)"}
+  - {box: [3647, 2720, 3717, 2790], why: "run 71 (middle 3682,2755): the boundary east of Muehlhausen, plain heavy (overlay)"}
+  - {box: [2708, 2908, 2778, 2978], why: "run 76 (middle 2743,2943): the boundary at the Schwalm, plain heavy (overlay)"}
+  - {box: [835, 3564, 905, 3634], why: "run 102 (middle 870,3599): the Ahr boundary west of Linz, plain heavy, ticks only railways (overlay); 04-12 box 18 sat further west"}
+  - {box: [1220, 3948, 1290, 4018], why: "run 114 (middle 1255,3983): the Third / Fifteenth boundary beside the Rhine south of Koblenz, plain vertical heavy (overlay)"}
+  - {box: [3489, 4936, 3559, 5006], why: "run 95 (middle 3524,4971): the blunt dead-end thick spur at Uffenheim past the corner where the ticked front turns, no ticks on either side (looked 3524,4971)"}
+  - {box: [3516, 759, 3586, 829], why: "run 20 (middle 3551,794) of the first run: the thin plain Twenty One / Twelfth boundary at Celle, a railway beneath it, no ticks of its own (looked 3551,794)"}
+  - {box: [2888, 1059, 2958, 1129], why: "run 22 (middle 2923,1094) of the first run: the Twenty One / Twelfth army group boundary Muenster to Celle, a thin plain line, red ticks fall on grey railways (overlay, looked 2923,1094)"}
+  - {box: [831, 1063, 901, 1133], why: "run 25 (middle 866,1098) of the first run: the heavy plain boundary at Nordhorn, a boundary elbow with no ticks (looked 866,1098)"}
+  - {box: [1721, 1453, 1791, 1523], why: "run 26 (middle 1756,1488) of the first run: the Twenty One / Twelfth boundary Muenster to Luebbecke, one 950 px thin plain line, red ticks fall on grey railways (overlay, crop 1500,600); it joins run 22 (the heavy black stretch on to Celle, boxed above)"}
+  - {box: [831, 1288, 901, 1358], why: "run 27 (middle 866,1323) of the first run: the heavy plain line by Nelo/Gronau, boundary toward Hengelo, no ticks (looked 866,1323)"}
+  - {box: [786, 1341, 856, 1411], why: "run 28 (middle 821,1376) of the first run: the same boundary at Enschede, plain heavy, no ticks (looked 821,1376)"}
+  - {box: [1606, 2392, 1676, 2462], why: "run 41 (middle 1641,2427) of the first run: the heavy plain line by Arnsberg, the army boundary running off the pocket, no ticks (looked 1641,2427)"}
+  - {box: [1735, 2480, 1805, 2550], why: "run 53 (middle 1770,2515) of the first run: the same boundary east of Arnsberg, plain heavy, no ticks (looked 1770,2515)"}
+  - {box: [1822, 2493, 1892, 2563], why: "run 57 (middle 1857,2528) of the first run: the same boundary further east, plain heavy, no ticks (looked 1857,2528)"}
+  - {box: [3829, 2766, 3899, 2836], why: "run 67 (middle 3864,2801) of the first run: the boundary at Tonndorf, plain heavy, no ticks (looked 3864,2801)"}
+  - {box: [4998, 2898, 5068, 2968], why: "run 74 (middle 5033,2933) of the first run: the boundary's last stretch to the front at Zeitz, plain heavy, no ticks (looked 5033,2933)"}
+  - {box: [3668, 3649, 3738, 3719], why: "run 83 (middle 3703,3684) of the first run: the boundary south of the Werra, a plain heavy diagonal, no ticks (looked 3703,3684)"}
+  - {box: [1190, 3733, 1260, 3803], why: "run 86 (middle 1225,3768) of the first run: the boundary at the Rhine by Neuwied, plain heavy beside the blue river, no ticks (looked 1225,3768)"}
+  - {box: [3871, 3820, 3941, 3890], why: "run 87 (middle 3906,3855) of the first run: the boundary at Roda, plain heavy diagonal, no ticks (looked 3906,3855)"}
+  - {box: [2397, 4052, 2467, 4122], why: "run 94 (middle 2432,4087) of the first run: the Frankfurt-Fulda boundary, a plain heavy diagonal, no ticks (looked 2432,4087)"}
+  - {box: [4064, 3979, 4134, 4049], why: "run 96 (middle 4099,4014) of the first run: the boundary's last stretch into the front at Coburg, plain heavy, no ticks; the ticked front beside it (runs 99, 100) stays in (looked 4099,4014)"}
+  - {box: [2226, 4118, 2296, 4188], why: "run 105 (middle 2261,4153) of the first run: the Frankfurt boundary at Hanau, plain heavy, no ticks (looked 2261,4153)"}
+  - {box: [2094, 4172, 2164, 4242], why: "run 106 (middle 2129,4207) of the first run: the same boundary at Frankfurt, plain heavy, no ticks (looked 2129,4207)"}
+  - {box: [1942, 4399, 2012, 4469], why: "run 111 (middle 1977,4434) of the first run: the Twelfth / Sixth boundary, a plain heavy diagonal, no ticks (looked 1977,4434)"}
+  - {box: [1632, 4620, 1702, 4690], why: "run 113 (middle 1667,4655) of the first run: the same boundary at Alzey, plain heavy, no ticks (looked 1667,4655)"}
+  - {box: [1395, 4655, 1465, 4725], why: "run 114 (middle 1430,4690) of the first run: the same boundary west of Alzey, plain heavy, no ticks (looked 1430,4690)"}
+flip: []
+checked: []
+# Reviewed (reader): 26 of 26 towns agree with 04-13 (median 1.1 px); sides differ from 04-13 for 12E 51N (now own, Zeitz corridor, correct on the map) and 12E 53N (now own by run 2, the open end of the Elbe line at Wittenberge: an artefact).
+# Reviewed: 24 of 26 towns on 13 April's side; 12E 51N (own) is at the Zeitz tip beside the US 76, 12E 53N (own) an artefact of the line's open end at Wittenberge (the Elbe south of it is past the towns' spread). Runs 99-100 (the Coburg lozenge) and 19 (Celle) left unsure.
