@@ -1,0 +1,25 @@
+# 12ag-1944-11-11: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21160
+date: 1944-11-11
+as_of: 1200 HRS 11 NOVEMBER 1944
+title: "Situation 1200 hrs 11 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-10
+exclude:
+  - {box: [420,288,2416,776], why: "test title"}
+  - {box: [248,4912,1128,5592], why: "test legend"}
+flip: []
+checked:
+  - {at: [3660, 588], why: "Nijmegen island's east side, a short connecting piece (crop 3150,170 650x750): the island traces whole, red ticks on the map's ticks inside it"}
+  - {at: [4104, 4471], why: "a short piece in the Seille/Moselle front toward Metz (crop 4000,4350 450x500): red ticks on the map's ticks, US side west and south"}
+  - {at: [4325, 4744], why: "a short piece on the front where the Twelfth/Sixth boundary joins it (crop 4000,4350 450x500): map ticks on the US side, red ticks on them"}
+  - {at: [4536, 5349], why: "the front's south end, Rhine side (crop 4400,5200 300x250): map ticks on the west side, red ticks on them"}
+
+# Reader: title agrees with the catalogue (1200 HRS 11 NOVEMBER 1944, no report number; SECRET underlined).
+# Reader: towns: --gcps-from 12ag-1944-11-10 accepted (one run): offset +8,-8 against 11-10, 57 of 81 agree, median 1.0 px, 24 placed through the transform (Colmar 65 px; Breda, 's-Hertogenbosch, Nijmegen, Arnhem 27-33 px; the rest 4-21 px). Fit over all 81: rms 0.8 km (leave-one-out 0.9, worst Beauvais 2.4 km).
+# Reader: boxes: 11-10's title, legend and Tournai boxes shifted +8,-8, each left out in turn (72 stretches, 4 unsure with all three): title 75 (7 unsure), legend 73 (5 unsure), Tournai stub 72 (no change, dropped). 11-08's boundary boxes not needed: no boundary traces on this print (Brussels-Aachen, Twelfth/Sixth, Seventh/First French all untraced). Title box ends at x 2416, y 776, clear of the Scheldt north-shore run (crop 1500,650 900x300).
+# Reader: flips: none. Nijmegen island traces whole (crop 3150,170 650x750), red ticks on the map's ticks inside it. Walcheren's three arcs trace as separate open arcs with red ticks on the map's ticks (crop 1550,850 700x250); Ostend own. The four unsure stretches (short pieces within ticked line) read right on crops and are in checked.
+# Reader: sides: 81 of 81 agree with 11-10 town by town; no town changes side. Arnhem enemy by run 1 at 3545,421; Metz enemy by run 56; Nijmegen, Epinal, Ostend own. 72 stretches, 0 unsure.
+# Reviewed: all 81 towns on 10 November's side; Arnhem, Metz enemy; Nijmegen, Épinal, Ostend own. Fit 0.8 km rms. 72 stretches, about 668 km against 781 on 10 November: the difference is mostly in the south, where today's trace stops at 48.23N in the Vosges while 10 November reached 47.95N (about 45 km; not run down), and partly less doubled line (overlap about 23 km against 51). The Nijmegen island traces whole; the Walcheren arcs read right; no flips; four short pieces inside the ticked line checked on crops. Title and legend boxed; no boundary traces on this print.
