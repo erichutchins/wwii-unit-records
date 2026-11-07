@@ -1,0 +1,31 @@
+# 12ag-1944-07-31: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21056
+date: 1944-07-31
+as_of: 1200 HRS 31 JULY 1944
+title: "Situation 1200 hrs 31 July 1944, HQ Twelfth Army Group (Copy No. blank); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [1400, 380, 3650, 830], why: "the title block's lettering (SITUATION 1200 HRS 31 JULY 1944 / HQ TWELFTH ARMY GROUP / COPY NO. and its rule), top middle"}
+  - {box: [4450, 380, 4950, 520], why: "SECRET, struck through and underlined, top right, boxed whole"}
+  - {box: [1830, 4150, 2450, 4810], why: "the legend's letters (U.S., BRITISH, ENEMY, FRONT LINE)"}
+  - {box: [1680, 4735, 1828, 4785], why: "the legend's sample of the front line beside FRONT LINE, a sample not a front"}
+  - {box: [2850, 2040, 2950, 2200], why: "the heavy arc north of Bayeux (runs 1? and 2?, x 2860-2930, y 2020-2190): the First U.S./Second British army boundary, a heavy line with dotted beads and no map ticks of its own; the red ticks drawn on it fall on nothing. Looked at 3x"}
+  - {box: [2790, 2150, 2850, 2200], why: "the short arc at Bayeux (run 3?, x 2790-2870, y 2160-2195), the same boundary's hook beside SECOND BR.: no map ticks; looked at 3x"}
+  - {box: [2700, 2380, 2800, 2490], why: "the heavy line from Littry down to Caumont (run 8?, x 2740-2760, y 2330-2500), marked with the boundary's X's (First U.S./Second British boundary, V Corps' east side) and no map ticks; the front proper starts at the Caumont arm's tip (x 2655, y 2700) below; looked at 3x"}
+  - {box: [3360, 2180, 3520, 2270], why: "the two short stretches at Douvres (x 3380-3500, y 2195-2250), blue with ticks drawn but the map's marks there are the boundary's X's (CDN/Second BR. corps boundary), no hatching; looked at 3x"}
+  - {box: [3490, 2310, 3560, 2370], why: "run 7? (x 3490-3550, y 2310-2350), the heavy arc on the north of Caen joined to the boundary lines: no ticks, with the thin boundary west round Fleury and the dashed line down the east of Caen (x 3680-3720, y 2430-2500); these are the I CDN corps boundaries enclosing Caen, not the front (the front runs outside: Orne line x 3790, Cormelles ring, Caen-Evrecy line); looked at 3x"}
+  - {box: [3630, 2330, 3710, 2390], why: "run 10? (x 3640-3700, y 2340-2390), the same boundary's arc by Colombelles: no ticks; looked at 3x"}
+  - {box: [1640, 4190, 1745, 4640], why: "the legend's sample symbols (the U.S. box, the British box and the hatched ENEMY box, x 1650-1720, y 4200-4620), unit symbols' outlines and hatching traced as runs (the ENEMY box was the one `unsure` run); not front"}
+  - {box: [2830, 2995, 2900, 3045], why: "the hatching along the foot of the enemy 326 box's symbol (run 27, x 2850-2880, y 3016-3025), a unit-symbol edge traced as a short ticked run; looked at 4x"}
+flip: []
+checked: []
+# Radius 3 leaves gaps (reader's list by scan x, y; stretch ends over 20 px apart): x 3798,2245 north end of the Orne stretch
+# (to the coast, about 90 px); x 3820-3836, y 2381-2449 (30-70); x 3762-3714, y 2581-2612 (Cormelles bend, 57 and 33);
+# x 2946-3024, y 2632-2625 (Evrecy, 78); x 2874-2846, y 2750-2799 (Cahagnes arm, 57); x 2819, y 2865-2885 (21);
+# x 2631-2600, y 2877-2862 (34); x 2317-2308, y 3120-3152 (33); x 2139-2115, y 3171-3188 (30); x 1717-1724, y 3271-3308
+# (38) and 3308-3337 (30); x 1639-1694, y 3400 and x 1694-1748, y 3402 (55 each, the Folligny corner); x 1480-1508, y 3397 (28).
+# The front ends at the coast on the west at x 1455, y 3395 (St-Pair/Granville) and on the east at the Orne mouth (x 3800, y 2190).
+# Reviewed: no stretch turned; the army and corps boundaries round Bayeux, Douvres and Caen (X-marks or beads, no ticks) are boxed. Radius 3 gaps listed above; the Colombelles hook (118 px) the largest.
