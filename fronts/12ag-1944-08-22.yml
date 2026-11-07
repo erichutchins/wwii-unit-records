@@ -1,0 +1,42 @@
+# 12ag-1944-08-22: B05 pilot (1:750,000 sheet).
+item: ict21078
+date: 1944-08-22
+as_of: 1200 HRS 22 AUGUST 1944
+report:                          # no G-3 report number on this sheet
+title: "SECRET (struck through) / SITUATION 1200 HRS 22 AUGUST 1944 / TWELFTH ARMY GROUP"   # lettered by hand at bottom left, not top left; the top margin carries only a faint show-through. Printed: scale 1:750,000, Projection Europe (Air) Conical Orthomorphic 4, 'Prepared by Hqs Engr Section 12th Army Group from G.S.G.S. 4072 1:500,000 Air Maps', pencilled G5701 S1 svar A4
+read: the sheet's bottom left, 7 November 2026
+gcps_from: towns-B05.csv
+area: [100, 100, 5850, 1300]   # the ticks span only y 1200 down; the coast, the pocket and the Seine front lie above
+# radius: 3 because the 1:750,000 sheet's front is a line 5-7 px wide with hatching ticks as thick as it: at the default 4
+# the ticks' spurs cut the line into pieces under the tool's 25 px floor and whole reaches (the Dives bend, the heavy arcs
+# at Argentan) were missing; at 2 the roads' darkest ink and every tick fragmented it worse (176 stretches, the line in 24
+# pieces); 5 and 6 left almost none (5 and 2 stretches). 3 traces the ticked line with the fewest breaks.
+radius: 3
+exclude:
+  - box: [100, 4650, 2700, 5300]
+    why: the title block, lettered by hand at bottom left (SECRET, SITUATION 1200 HRS 22 AUGUST 1944, TWELFTH ARMY GROUP); heavy lettering, no front here
+  - box: [4850, 5150, 5750, 5880]
+    why: the legend at bottom right (U.S., BRITISH, ENEMY, FRONT LINE with its sample ticked line); heavy symbols and lettering
+  - box: [4850, 6040, 5893, 6137]
+    why: the printed margin matter along the bottom edge (projection note, reproduction credit); dark lettering outside the neat line, no front
+flip:
+  - at: [2107, 1161]
+    why: >
+      the ring of the pocket's remnant (Chambois, round the unlabelled blank west of the Polish symbol), east side, runs 14 and 18
+      together. At 4x the map's own black ticks stand on the OUTSIDE of the ring (south arc, east side, as the Allied
+      side is outside and the enemy inside); the tool's red ticks here sat on the inside (west) from the symbols' strokes.
+      Run 20, the south arc, found outward-ticked and runs west to east, so the east side must run up (north) to
+      continue it: enemy inside, on the left.
+  - at: [2093, 1197]
+    why: the other half of the same east side of the ring (run 18), turned with run 14 above
+checked:
+  - at: [2029, 394]
+    why: the front's top, a short piece east of the thick untraced stretch from the Dives mouth (x 1850-2015); at 4x the map's ticks hang below it (south, Allied side) and the line runs west to east, enemy on the left
+  - at: [2263, 642]
+    why: the sharp bend at Lisieux's Touques crossing (run 8, about 33 px); the map's ticks stand on the west side and the run goes south, so the enemy is on the left (east)
+# Reviewed: the sheet draws the Dives-Touques-Orne front from the Dives mouth south to Le Merlerault and the ring at
+# Chambois. It draws no front on the Seine or at Mantes: the thin black lines (army and army group boundaries, First/Third,
+# Twelfth/First) carry no ticks and are not traced (the heavy-ink mask at radius 3 drops them), so no box was needed for them.
+# The table 'DIVISIONS IN TRAP' / 'UNLOCATED' (top right, about 4300-4900 x 170-600) is thin symbols and lettering that
+# the mask drops; no stretch falls there. The coastline's blue is not dark enough (grey < 70) to be heavy ink: no box.
+# Reviewed: the sheet draws the Dives-Touques line south to near Le Merlerault and a ring at Chambois (the Falaise pocket's mouth), enemy inside; nothing on the Seine. The ring's east side is turned by hand to the map's ticks; its west side and the 165 px from the Dives mouth are untraced (line and ticks fused). Title bottom left.
