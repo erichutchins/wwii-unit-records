@@ -1,0 +1,56 @@
+# 12ag-1944-09-12: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21099
+date: 1944-09-12
+as_of: 1200 HRS 12 SEPTEMBER 1944
+title: "Situation 1200 hrs 12 September 1944, Twelfth Army Group"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-09-11
+exclude:
+  - {box: [200, 100, 2800, 720], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 11 SEPTEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [1550, 5700, 2450, 5990], why: "the legend (lower left on this print: U.S., British, Enemy and their lettering)"}
+  - {box: [5917, 700, 6037, 820], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5573, 821, 5693, 941], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5412, 890, 5532, 1010], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5316, 931, 5436, 1051], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5077, 1038, 5197, 1158], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [4516, 1049, 4636, 1169], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4808, 1055, 4928, 1175], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [4960, 1060, 5080, 1180], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [3574, 1238, 3694, 1358], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [3219, 1405, 3339, 1525], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [3122, 1452, 3242, 1572], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [2921, 1541, 3041, 1661], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [2536, 1613, 2656, 1733], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [2384, 1635, 2504, 1755], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [4485, 1656, 4605, 1776], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [2172, 1694, 2292, 1814], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [4369, 1687, 4489, 1807], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4566, 1773, 4686, 1893], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4326, 2308, 4446, 2428], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4329, 2352, 4449, 2472], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4857, 2748, 4977, 2868], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [5032, 3013, 5152, 3133], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4742, 3193, 4862, 3313], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4744, 3254, 4864, 3374], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [5564, 3408, 5684, 3528], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4803, 3418, 4923, 3538], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4863, 3480, 4983, 3600], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [5767, 3564, 5887, 3684], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [6020, 3634, 6140, 3754], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4331, 1099, 4451, 1219], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the strip's hatching or the grey railway's): not the front"}
+  - {box: [4566, 1997, 4686, 2117], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the strip's hatching or the grey railway's): not the front"}
+  - {box: [4546, 2032, 4666, 2152], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the strip's hatching or the grey railway's): not the front"}
+  - {box: [4499, 2073, 4619, 2193], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the strip's hatching or the grey railway's): not the front"}
+  - {box: [4977, 2836, 5097, 2956], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the strip's hatching or the grey railway's): not the front"}
+  - {box: [5385, 3242, 5505, 3362], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the strip's hatching or the grey railway's): not the front"}
+  - {box: [5516, 3313, 5636, 3433], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the strip's hatching or the grey railway's): not the front"}
+  - {box: [5576, 3346, 5696, 3466], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the strip's hatching or the grey railway's): not the front"}
+  - {box: [5093, 3433, 5213, 3553], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the strip's hatching or the grey railway's): not the front"}
+  - {box: [5878, 4168, 5998, 4288], why: "army group boundary along the Rhine near Offenburg (heavy dashed/black), no ticks: not the front"}
+flip: []
+checked: []
+
+# Reader: the sheet draws no ticked front anywhere (tiles read: Antwerp/Scheldt, Brussels, Aachen-Eifel, Luxembourg, Metz-Nancy, Saar, Rhine). Heavy plain lines only: the Twenty One/Twelfth army group boundary (Ghent-Brussels-Cologne), army boundaries, a plain heavy line Ghent-Antwerp-north (no ticks; the tool did not trace it), the Siegfried Line's hatched strips, and grey ticked railways. The tool's ticks counted on the Siegfried strips and boundaries are the strips' hatching and the railways' ticks. The light print missed nothing: no ticked line is drawn.
+# Reader: boxes: the title (9 stretches without it); the legend at lower left (x 1550-2450, y 5700+; it traces nothing here, boxed where it sits); 30 boxes of 120 px on the stretches the first trace found (14 on the army group boundary, run 30 the Rhine near Offenburg, the rest Siegfried strips) and 9 more on Siegfried fragments that surfaced when the copied 09-11 Siegfried boxes were dropped; with all of them the trace is empty. Boxes copied from 09-11 that catch nothing on this print (XIX Corps outline, old Offenburg, old legend place) were dropped; the 09-11 Siegfried boxes were replaced by boxes at this print's places. Towns: 51 of 81 agree with 09-11 (median 0.7 px, offset +8,+0), 30 placed through the transform (worst Verviers 84, Grevenbroich 57, Mechelen 46, Kleve 40). No sides to test (every town reads '?').
+# Reviewed: as on 6-11 September, no ticked front is drawn: the front is empty, no front drawn, not no front. The Siegfried Line's hatched strips (no ticks) from the Dutch border by Aachen and the Eifel to Trier, Saarbrücken and Zweibrücken, the Twenty One/Twelfth boundary, the Rhine near Offenburg, the title and the legend (lower left on this print) boxed. A heavy plain line from Ghent through Antwerp and north has no ticks at full resolution and does not trace. 51 of 81 towns matched to 11 September; fit 0.8 km rms.
