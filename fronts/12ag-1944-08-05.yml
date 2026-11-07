@@ -1,0 +1,44 @@
+# 12ag-1944-08-05: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21061
+date: 1944-08-05
+as_of: 1200 HRS 5 AUGUST 1944
+title: "Situation 1200 hrs 5 August 1944, HQ Twelfth Army Group (SECRET struck through; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B02.csv
+radius: 2   # tried 4 (11 stretches, the thin front lost in the British sector), 3 (the Orne-side ticked line in fragments with gaps), 2 (the ticked line whole, coast to coast); see the comment below
+area: [5800, 300, 6350, 900]   # the British sector's ticked line from Evrecy to the Orne mouth lies east of the towns' spread (0E) and was dropped without it
+exclude:
+  - {box: [650, 850, 2800, 1220], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 5 AUGUST 1944, HQ TWELFTH ARMY GROUP), top left-middle on this base; at radius 3 the letters come in as 70 short stretches"}
+  - {box: [1400, 4680, 2100, 5020], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE) bottom left, with its sample of the front line (hatched bar at x 1425-1520, y 4965-4985); a sample not a front; its BRITISH letters also drew a small oval stretch at 1600,4790"}
+  - {box: [4800, 4800, 5750, 5180], why: "the table 'REMNANTS OF THESE DIVISIONS ON THIRD ARMY FRONT' and the UNLOCATED box under it, bottom right: black rules and division symbols, no front"}
+  # radius 2 traces the thin ticked line whole but also reads these heavy lines and symbols as stretches; each boxed (off the front's own stretches):
+  - {box: [4380, 1460, 4560, 1580], why: "the Sienne river's dark blue line by the 5 box (blue at its edge read as ticked line, hatch-like river bank), no front"}
+  - {box: [5040, 1340, 5110, 1440], why: "the end of the Third/First army boundary: a heavy black line with no ticks, short arc"}
+  - {box: [5200, 1160, 5300, 1260], why: "the army boundary running down to the Guards box junction: heavy black, no ticks (looked on c2 overlay at 5230,1180)"}
+  - {box: [4800, 1525, 4870, 1570], why: "the boundary diagonal from the 9 box into the junction at 'B 2': heavy black with no ticks; the front's own vertical (x 4880) is outside this box"}
+  - {box: [4920, 1865, 5010, 1915], why: "the oval of the 353 enemy box read as a short curve, a symbol"}
+  - {box: [4990, 2170, 5060, 2230], why: "the 275 enemy box's oval, a symbol"}
+  - {box: [5800, 1090, 5900, 1150], why: "the 277 enemy box's hatch, a symbol"}
+  - {box: [740, 2930, 830, 3000], why: "the armoured symbol by Brest (left edge), a symbol not a line"}
+  - {box: [5820, 590, 5900, 810], why: "the heavy Caen-Evrecy line between the First Canadian and Second British armies: black with no ticks (g overlay), ends at the front at Evrecy"}
+  - {box: [3060, 1760, 3280, 1920], why: "the enemy 319 box (hatched, with its oval) near St-Malo read as a short curve (looked at 3214,1881): a symbol; no front line is drawn at St-Malo"}
+  - {box: [3640, 3300, 3730, 3380], why: "the US 8 division's box at Rennes, its cross read as short curves (looked at 3682,3340): a symbol"}
+  - {box: [3330, 2220, 3570, 2390], why: "the US 83 division's box south of St-Malo, its cross read as a short ticked curve (run at 3432,2300, seen on the overlay): a symbol"}
+  - {box: [2780, 4540, 3000, 4700], why: "the US 4 armoured division's box at Redon, its oval read as two short curves (runs at 2876,4615 and 2848,4595, seen on the overlay): a symbol"}
+flip:
+  - {at: [5310, 1286], why: "the Bocage S-bend east of the Guards box (stretch 9?), looked at 4x on the overlay: the map's hatches stand above it (north, the British/US side, between it and the heavy boundary), and the tool's red ticks fell below (the German side, 326/21 boxes); turned so the red ticks fall on the map's"}
+  - {at: [5393, 1279], why: "the short stretch east of the same bend (11?), the same line: map hatches above it, red ticks below until turned; turned with its neighbour, and both now agree with the blue run 8 beyond it"}
+checked:
+  - {at: [4865, 1578], why: "the short arc south of the 'B 2' box (20?): the map's ticks on its west, the red ticks the same side (looked at 4x); US 9/28 boxes to the west"}
+  - {at: [4787, 1608], why: "the diagonal SW of the junction by the 9 box (21?): the map's hatches on its NW side, toward the US 9 box, the red ticks on them (4x)"}
+  - {at: [4754, 1635], why: "the same diagonal's second part (22?): map hatches NW, red ticks on them (4x)"}
+  - {at: [4899, 2084], why: "the line's west tail south of Mortain, the 1 and A 3 boxes above (28?): map hatches above (north, US side), red ticks on them (4x). The line ends here at a blob, an open end; nothing drawn further south or west"}
+  - {at: [4941, 2071], why: "the tip of the same Mortain tail (28?, east part): map hatches above, red ticks on them, as 4899,2084"}
+  - {at: [4870, 1506], why: "the short heavy arc below the 29 box where the line turns south to the 'B 2' junction (radius 2): the map's ticks on its west, the red ticks the same side, US 28/29/9 boxes west"}
+  - {at: [5038, 2071], why: "the Mortain tip's east limb (radius 2): the map's hatches on the inner (north-west) side toward the 1 and A 3 boxes, the red ticks on them (4x overlay)"}
+# Reviewed: no front line is drawn anywhere in Brittany on this sheet. The ticked line runs only in Normandy, from the Orne
+# mouth (about 6260,400) round Caen's east side and the Villers-Bocage / Vire / Mortain bends to an open end west of Mortain
+# (4870,2085). US symbols (4, 6, 8, 83, 90 ...) stand beyond that end in Brittany and the south with no line, and no ring
+# round Brest, Lorient, St-Nazaire or St-Malo (the enemy 319 box stands by St-Malo, drawn as a symbol only).
+# Reviewed: the area east of the towns extrapolates up to 847 px, but the front lands right: north end -0.23,49.27 (the Orne mouth at Ouistreham), south end -0.90,48.63 (by Mortain). No front or pocket is drawn in Brittany; US divisions stand there without a line, so the side test past the open end west of Mortain means nothing. Radius 2 on this sheet, with its extra boundaries, a river and symbols boxed.
