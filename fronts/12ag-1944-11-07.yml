@@ -1,0 +1,26 @@
+# 12ag-1944-11-07: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21156
+date: 1944-11-07
+as_of: 1200 HRS 7 NOVEMBER 1944
+title: "Situation 1200 hrs 7 November 1944, Twelfth Army Group (SECRET struck through above)"
+read: the title on the sheet (SECRET struck through; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-06
+exclude:
+  - {box: [420, 288, 3008, 738], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 6 NOVEMBER 1944, TWELFTH ARMY GROUP), x ~440-2300+, y ~290-720 (overlay crop 300,250 1400x600): 11-05's box shifted +16,+8 started at x 468 and left the S of SITUATION (traced magenta at x ~450), so it is widened to x 420; alone it takes 176 runs (59 unsure) to 138 (27 unsure); stops above the Walcheren/Beveland arcs (y ~ 860 and below)"}
+  - {box: [248, 4912, 1128, 5592], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE): 11-05's box shifted +16,+8; alone it takes 176 runs (59 unsure) to 154 (41 unsure)"}
+  - {box: [2330, 1978, 2520, 2058], why: "the same boundary, a stretch at x ~2345-2510, y ~1985-2040 (railway ticks, no map ticks; overlay crop 1400,1800 1600x550); alone 176 to 175"}
+  - {box: [2100, 2068, 2340, 2133], why: "the same boundary's last stretch at Brussels, x ~2105-2290, y ~2070-2095, beside the XXXXX TWENTY ONE / TWELFTH lettering (the 11-05 box shifted +16,+8, widened); alone 176 to 175"}
+  - {box: [1450, 2218, 1570, 2303], why: "the same boundary's west end near Tournai, x ~1460-1560, y ~2215-2290; alone 176 to 175"}
+  - {box: [3800, 4848, 4030, 5028], why: "the Twelfth/Sixth army group boundary's stretch toward the front, x ~3810-4010, y ~4850-5010, magenta unsure with red ticks on the grey railways (overlay crop 3600,4650 700x500); alone 176 to 175"}
+  - {box: [4140, 5545, 4395, 5730], why: "the Seventh/First French army boundary from its end (x ~4150) to the front at x ~4400, y ~5550, one stretch today, x ~4150-4400, y ~5555-5720 (heavy black, no map ticks; red ticks on its north side fall on bare paper; overlay crop 3900,5400 700x500); 11-06's two boxes for it, shifted +0,+8, caught nothing (its middle at 4266,5622 fell between them); alone this takes 66 runs to 65; it stops short of the front's own run, which starts at x ~4405, y ~5545"}
+flip: []
+checked: []
+
+# Reader: title agrees with the catalogue (1200 HRS 7 NOVEMBER 1944, no report number, SECRET struck through).
+# Reader: towns: --gcps-from 12ag-1944-11-06 accepted (one run): offset +0,+8 against 11-06, 65 of 81 agree, median 1.9 px, 16 placed through the transform (Grevenbroich, Ahrweiler, Adenau, Beauvais, Verdun, Sedan, Chaumont, Haguenau, Ypres, Tournai, Charleroi, Dinant, Arlon, Ostend, Paderborn, Marburg; 4-9 px). Fit over all 81: rms 0.8 km (leave-one-out 0.8, worst Beauvais 2.2 km).
+# Reader: boxes: 11-06's twelve shifted +0,+8, each tried alone (106 stretches with none). Kept because each takes a run off: title (95), legend (81), Twenty One/Twelfth at x 2330-2520 (105), at x 2100-2340 (105), at Tournai x 1450-1570 (105), Twelfth/Sixth toward the front x 3800-4030 (105) -- the last stretch to the front at x 4016-4146 was also tried and catches nothing, so dropped. Dropped because they catch nothing today (106 stays 106; those stretches do not trace): Twenty One/Twelfth at Louvain (x 2740-2880), x 1980-2110, Leuze x 1630-1720; Twelfth/Sixth end x 4016-4146; Seventh/First French's two boxes (x 4140-4250 and 4255-4395). Without any box one stretch (middle 4266,5622) of the Seventh/First French boundary remained, unsure and between those two; one new box covers it, x 4140-4395, y 5545-5730 (run 65 now is the front's own start at x ~4464). All boxes together: 106 to 65 stretches, 0 unsure.
+# Reader: flips: none. Beveland north shore, its west-end hook and Walcheren's west and east arcs read on enlarged crops (1400,830 800x420; 2100,700 800x400): red ticks against the map's ticks everywhere. The dashed reach of the Beveland/Tholen shore (x ~1950-2150, y ~900-920) does not trace: left untraced. Walcheren still drawn as a ring (falls 8 November).
+# Reader: sides: 81 of 81 as on 11-06 (diffed town by town on the tool's side column: no town changes side). "Arnhem           enemy     by run 1 enemy at 3597,440"; "Metz             enemy     by run 48 enemy at 3849,4136, run 49 enemy at 3807,4220, run 50 enemy at 3810,4261"; "Épinal           own (US)  by run 62 own at 4421,5442, run 63 own at 4414,5494, run 64 own at 4414,5531, run 65 own at 4464,5622". Front 763 km (11-06: 731 by the same count).
+# Reviewed: all 81 towns on 6 November's side; Arnhem and Metz enemy, Épinal own. Fit 0.8 km rms. 65 stretches, about 763 km, 0 unsure, no flips: the Beveland north shore, its hook and Walcheren's arcs read right on enlarged crops; Walcheren still drawn as a ring; the Beveland/Tholen shore's dashed reach untraced. Six of 6 November's boxes caught nothing and are dropped; one added over the Seventh/First French boundary (heavy, no ticks), stopping short of the front.
