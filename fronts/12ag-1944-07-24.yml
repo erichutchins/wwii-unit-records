@@ -1,0 +1,20 @@
+# 12ag-1944-07-24: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21049
+date: 1944-07-24
+as_of: 1200 HRS 24 JULY 1944
+title: "SECRET (struck through) / Situation 1200 hrs 24 July 1944, Twelfth Army Group (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [900, 330, 3700, 910], why: "the title block lettering (SECRET struck through, SITUATION 1200 HRS 24 JULY 1944 / TWELFTH ARMY GROUP), over the Bay of the Seine, far north of the front; 07-25 box widened left to x 900 because this sheet lettering starts at x 1053 (runs 1-9)"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend (U.S., British, Enemy, FRONT LINE and its sample), bottom left; 07-25 box moved to this sheet position (legend ink stands at y 4200-4800 and the FRONT LINE sample near 4950; foot lowered to 5100, left edge to 1100); without it about 78 stretches of legend ink trace as front"}
+checked:
+  - {at: [2411, 2586], why: "the one unsure run, a short stretch with no ticks of its own between St-Lo and the Vire-Taute reach (x 2395-2430, y 2585): the map's hatching stands on its north, the same side as the red ticks of the runs either side; looked at 4x"}
+flip: []
+# Reviewed: a 1200 hrs sheet (as_of 1200 HRS 24 JULY 1944; the 25th was 2400 hrs). No stretch turned; one checked (2411,2586). Every ticked stretch's red ticks looked at 4x against the hatching from the west coast (1345,2320) to the Orne mouth (3771,2194): all on the hatching (north and west, the US and British side).
+# Reviewed: excludes taken from 12ag-1944-07-25 and re-tested here at radius 3 (each removed in turn, 35 stretches kept either way). Kept, moved: the title block (box widened left to x 900: this sheet's SITUATION lettering starts at x 1053 and traced as magenta runs 1-9) and the legend (07-25's box, now x 1100-2500, y 4100-5100: the legend ink stands at y 4200-4800 and the FRONT LINE sample near 4950; without it, 78 more stretches). Dropped as catching nothing today: SECRET's box (the strike-through sits inside the title box), and all 17 symbol and flag stroke boxes (the symbols were not traced as front with them removed). No box cuts the front.
+# Reviewed: --sides: no town on the wrong side. 0.5E 49.5N and 1E 49.5N read enemy (east of the Orne, German side), as they should; the rest US north of the line and enemy south.
+# Reviewed: gaps over 20 px (approximate, from the GeoJSON refitted to the towns, 1.5 px rms; chained west to east): 46 px (2281,2599 to 2326,2607, the St-Lo foot), 36 px (3687,2588 to 3721,2578), 29 px (2369,2601 to 2396,2591), 27 px (3059,2526 to 3086,2521), 27 px (3526,2632 to 3553,2628), 26 px (2486,2559 to 2512,2557), 25 px (2081,2543 to 2106,2544), 25 px (3800,2364 to 3794,2340), 24 px (1533,2293 to 1557,2293), 23 px (2825,2666 to 2842,2650), 22 px (3305,2621 to 3326,2614), 20 px twice (2427,2580 to 2445,2571; 3750,2527 to 3767,2516). Ends: west touches the coast of the Baie du Dérout (1345,2320); east stops about 30 px short of the coast at the Orne mouth (3771,2194). Traced 117.4 km in 35 stretches.
+# Reviewed: a 1200 hrs sheet; none turned, one checked by St-Lo; about 117 km, the gaps all under 50 px; the title box widened, 17 of 25 July's symbol boxes dropped as catching nothing.
