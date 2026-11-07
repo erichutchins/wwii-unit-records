@@ -51,17 +51,17 @@
   to: 1944-08-21
   days: 9
   scan: 6700 x 6000
-  heading: "Projection Europe (Air) Conical Orthomorphic", 1:500,000 (read on 13 August 1944); the title is at the bottom left; the front traces at radius 4
+  heading: '"Projection Europe (Air) Conical Orthomorphic", 1:500,000 (read on 13 August 1944); the title is at the bottom left; the front traces at radius 4'
   shows: Normandy's coast (Carentan, Bayeux, Caen) along the top, Le Mans and the Loire below; a 1:500,000 sheet by its grid
   towns: towns-B04.csv
   towns_on: 12ag-1944-08-13
-  towns_check: 9 half-degree graticule crossings read on gridded crops of 13 August 1944 (6 November 2026; the conic 0.52 km rms, 1.7 km at worst), seeded by the margins; as on B03 the kilometre grid confused the reading, and a third pass would tighten it if these days are wanted NOT GOOD ENOUGH IN THE NORTH (6 November 2026, the pilot): the crossings sit mostly on 47.5N, none at 49N west of 1E, and printed towns land 5-8 km off (Falaise about 200 px, Vire 145, Argentan 120); read crossings along 48.5N and 49N from 1W to 0.5E before tracing B04 days; the 1.5E crossings may include a kilometre-grid misread
+  towns_check: '9 half-degree graticule crossings read on gridded crops of 13 August 1944 (6 November 2026; the conic 0.52 km rms, 1.7 km at worst), seeded by the margins; as on B03 the kilometre grid confused the reading, and a third pass would tighten it if these days are wanted NOT GOOD ENOUGH IN THE NORTH (6 November 2026, the pilot): the crossings sit mostly on 47.5N, none at 49N west of 1E, and printed towns land 5-8 km off (Falaise about 200 px, Vire 145, Argentan 120); read crossings along 48.5N and 49N from 1W to 0.5E before tracing B04 days; the 1.5E crossings may include a kilometre-grid misread'
 - base: B05
   from: 1944-08-22
   to: 1944-08-23
   days: 2
   scan: 5900 x 6100
-  heading: "Scale 1:750,000", "Projection Europe (Air) Conical Orthomorphic" (read on 22 August 1944); the title is at the bottom left, the legend bottom right; the front traces at radius 3
+  heading: '"Scale 1:750,000", "Projection Europe (Air) Conical Orthomorphic" (read on 22 August 1944); the title is at the bottom left, the legend bottom right; the front traces at radius 3'
   shows: the Normandy coast to the lower Seine along the top, Paris at the right, the Loire at the bottom
   towns: towns-B05.csv
   towns_on: 12ag-1944-08-22
@@ -71,7 +71,7 @@
   to: 1944-08-25
   days: 2
   scan: 6700 x 6000
-  heading: "Prepared by Hdq. Engr. Section 12th Army Group from G.S.G.S. 4072 1:500,000 Air Maps" (the foot, read on 24 August 1944); 1:500,000, but its front traces at radius 4
+  heading: '"Prepared by Hdq. Engr. Section 12th Army Group from G.S.G.S. 4072 1:500,000 Air Maps" (the foot, read on 24 August 1944); 1:500,000, but its front traces at radius 4'
   shows: the Seine bay (Fécamp, Yvetot) at top-left, the Seine's loops to Paris at the right
   towns: towns-B06.csv
   towns_on: 12ag-1944-08-24
