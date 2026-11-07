@@ -1,0 +1,47 @@
+# 12ag-1944-09-14: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21101
+date: 1944-09-14
+as_of: 1200 HRS 14 SEPTEMBER 1944
+title: "Situation 1200 hrs 14 September 1944, Twelfth Army Group"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-09-13
+exclude:
+  - {box: [200, 100, 2800, 720], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 11 SEPTEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [2150, 4900, 3300, 5650], why: "the legend (U.S., British, Enemy, the front-line sample; at x 2150-3300, y 4900-5650 on this print)"}
+  - {box: [5573, 821, 5693, 941], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5412, 890, 5532, 1010], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5077, 1038, 5197, 1158], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [4808, 1055, 4928, 1175], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [3122, 1452, 3242, 1572], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [2384, 1635, 2504, 1755], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5661, 800, 5781, 920], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [3282, 1364, 3402, 1484], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [1634, 2066, 1754, 2186], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [1357, 2395, 1477, 2515], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [1197, 2483, 1317, 2603], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [1098, 2613, 1218, 2733], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [4803, 3418, 4923, 3538], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4863, 3480, 4983, 3600], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [5767, 3564, 5887, 3684], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [3707, 1207, 3827, 1327], why: "Twenty One/Twelfth army group boundary east of Tongeren-Maastricht (plain heavy black, no ticks; looked at: the small strokes beside it are the grey railway's): not the front"}
+  - {box: [3482, 1236, 3602, 1356], why: "Twenty One/Twelfth army group boundary near Maastricht (plain heavy black, no ticks; looked at): not the front"}
+  - {box: [2618, 1570, 2738, 1690], why: "Twenty One/Twelfth army group boundary near Brussels (plain heavy black, no ticks; looked at): not the front"}
+  - {box: [1768, 2762, 1888, 2882], why: "Twenty One/Twelfth army group boundary near Saint-Quentin (plain heavy black, no ticks; looked at): not the front"}
+  - {box: [2341, 3267, 2461, 3387], why: "army group boundary, a fork east of Laon (heavy black, no ticks; looked at): not the front"}
+  - {box: [2334, 3297, 2454, 3417], why: "army group boundary east of Laon (heavy black, no ticks; looked at): not the front"}
+  - {box: [2373, 3400, 2493, 3520], why: "army group boundary near Reims (heavy black, no ticks; looked at): not the front"}
+  - {box: [2453, 3504, 2573, 3624], why: "army group boundary near Reims (heavy black, no ticks; looked at): not the front"}
+  - {box: [5788, 4278, 5908, 4398], why: "army group boundary along the Rhine near Offenburg (heavy black, no ticks; looked at): not the front"}
+  - {box: [2239, 1647, 2359, 1767], why: "army group boundary near Brussels (heavy black, its ticks are the grey railway's): not the front"}
+  - {box: [1901, 1689, 2021, 1809], why: "army group boundary west of Brussels (heavy black, its ticks are the grey railway's): not the front"}
+  - {box: [1531, 2516, 1651, 2636], why: "Twenty One/Twelfth army group boundary near Cambrai (heavy black, its ticks are the grey railway's): not the front"}
+  - {box: [659, 3272, 779, 3392], why: "Twenty One/Twelfth army group boundary near Beauvais (heavy black, its ticks are the grey railway's): not the front"}
+flip: []
+checked: []
+
+
+# Reader: no ticked front is drawn on this sheet either: the front is empty, no front drawn, not no front. The brief's "heavy line with ticks round Aachen" is the Siegfried Line's hatched band (scan 4200-4500, 1100-1900): two heavy wavy outlines with cross-hatching between, looked at at 4250,1650 and 4330,1800 and 4400,2250: no map ticks on either side. Plain heavy lines looked at: the Twenty One/Twelfth army group boundary (Maastricht, Brussels, Saint-Quentin, Cambrai, Beauvais), the army group boundary east of Laon and by Reims, a heavy plain line at the Scheldt/Antwerp (scan 2300,1120: no ticks; not found by the tool at all), the Rhine's heavy outline at 5848,4338. No ticked reach at the Moselle (Metz, Nancy), the Albert Canal or the Scheldt.
+# Reader: boxes: title and legend as on 09-13 (same places); 13 boxes of 120 px, one on each stretch the 09-13 boxes missed on this print (offset -8,+16: the print's boundaries sit a little off); 15 of the 09-13 boxes kept (besides title and legend) because each catches a stretch here (boundaries, and three Siegfried strips at 4886,3460, 4973,3574, 5786,3613 whose small strokes are the band's own, not ticks). the rest of the 09-13 boxes were dropped: with only the title and legend the trace found 29 stretches, all 29 are covered by the 15 kept and the 13 new boxes, so the dropped ones caught nothing. None of the old boxes sat on a ticked front (there is none). The Siegfried band is mostly not found by the tool.
+# Reader: towns: 51 of 81 agree with 09-13 (median 0.6 px, offset -8,+16), 30 placed through the transform (worst Metz 64, Prüm 59, Gemünd 57, Ypres 54). Conic fit rms 0.8 km, leave-one-out 0.8 km, worst 1.9 km (Beauvais). No sides to test (every town reads ?).
+# Reviewed: as on 6-13 September, no ticked front is drawn: the front is empty, no front drawn, not no front. At Aachen the heavy wavy line is the Siegfried Line's band, two outlines enclosing cross-hatching, with no ticks (close crop at 4000,1150 read by the reviewer; the reviewer's first reading of it as ticked front was wrong). Boundaries, three Siegfried strips, the title and legend boxed. 51 of 81 towns matched to 13 September; fit 0.8 km rms.
