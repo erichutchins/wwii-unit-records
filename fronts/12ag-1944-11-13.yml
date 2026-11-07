@@ -1,0 +1,22 @@
+# 12ag-1944-11-13: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21162
+date: 1944-11-13
+as_of: 1200 HRS 13 NOVEMBER 1944
+title: "Situation 1200 hrs 13 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-11
+exclude:
+  - {box: [404,280,2400,768], why: "test title"}
+  - {box: [232,4904,1112,5584], why: "test legend"}
+flip: []
+checked: []
+
+# Reader: title agrees with the catalogue (1200 HRS 13 NOVEMBER 1944, no report number; SECRET underlined). 12 November is not in the catalogue (ict21161 absent), so 13 November was traced.
+# Reader: towns: --gcps-from 12ag-1944-11-11 accepted: offset -16,-8 px against 11-11, 56 of 81 agree, median 1.3 px, 25 placed through the transform (Euskirchen, Ahrweiler, Adenau 60-63 px; Eindhoven 49; Colmar 41; Arnhem 41; the rest 10-39 px). Fit over all 81: rms 0.8 km (leave-one-out 0.9, worst Beauvais 2.4 km). (The match command was run twice by mistake; same result.)
+# Reader: boxes: 11-11's title and legend boxes shifted -16,-8, each left out in turn: title 62 stretches (10 unsure), legend 52 (4 unsure), both kept (48 stretches, 0 unsure). No boundary traces on this print (Brussels-Aachen, Twelfth/Sixth, Seventh/First French untraced), so 11-08's boxes not needed. Title box ends at x 2400, y 768, clear of the Scheldt north-shore run.
+# Reader: checked: 11-11's four checks shifted -16,-8 and tried; the trace is 48 stretches, 0 unsure without them, so all four dropped. Nijmegen island traces whole, red ticks on the map's ticks inside.
+# Reader: flips: none. Front: 48 stretches, about 814 km, reaching 47.96N at the sheet's bottom edge in the Vosges/Alsace (11-11 stopped at 48.23N; the map draws the line running off the bottom of the sheet).
+# Reader: sides: 80 of 81 as on 11-11. Saint-Dié changes from enemy to own: 11-11 "Saint-Dié enemy by run 71 enemy at 4546,5262", 11-13 "Saint-Dié own (US) by run 45 own at 4548,5200". Its ring (4557,5291) sits on the line on this sheet (crop 4300,5000 500x600): the line is drawn through the town with the map's ticks on the west (US) side and the 36th Division symbol west of it; that is the line, not a wrong stretch. Arnhem and Metz enemy; Nijmegen, Epinal, Ostend own.
+# Reviewed: no sheet exists for 12 November (the catalogue skips ict21161). 80 of 81 towns on 11 November's side. Saint-Dié reads own and is WRONG (German-held until about 22 November; "Saint-Dié own (US) by run 45 own at 4548,5200"): its ring sits on the line, ticked on its west (US) side; a weak test, not a wrong stretch. Arnhem, Metz enemy; Nijmegen, Épinal, Ostend own. Fit 0.8 km rms. 48 stretches, about 814 km, 0 unsure, no turns; the trace reaches 47.96N in the Vosges (11 November stopped at 48.23N); the Nijmegen island whole. Title and legend boxed; no boundary traces on this print.
