@@ -1,0 +1,29 @@
+# 12ag-1944-07-02: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21027
+date: 1944-07-02
+as_of: 2400 HRS 2 JULY 1944
+title: "Situation 2400 hrs 2 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-03
+radius: 5
+exclude:
+  - box: [4350, 300, 4950, 560]
+    why: "the struck-through SECRET at the top right (on this sheet at about 4510-4880,440-560; same box as 3 July)"
+  - box: [1550, 3950, 2450, 4700]
+    why: "the legend (U.S., BRITISH, ENEMY keys and the FRONT LINE sample), as on 3 July (on this sheet at about 1630-2340,4100-4610)"
+  - box: [1000, 300, 3500, 950]
+    why: "the title block's lettering (SITUATION 2400 HRS 2 JULY 1944, HQ FUSAG, COPY No.; on this sheet 1470-3410,400-935; box widened to 3500 on the right)"
+  - box: [2900, 3580, 4100, 4250]
+    why: "the table of units believed to be on the way to the battle area (the sheet draws it at about 2980-4080,3650-4230)"
+checked: []
+flip: []
+
+# Reader: title SITUATION 2400 HRS 2 JULY 1944, HQ FUSAG on the line below, COPY No. blank, no report number. Agrees with the catalogue's day (ict21027).
+# Reader: towns matched to 12ag-1944-07-03's (base B01), sheets offset +32, 0 px: 28 of 34 agreed (median 1.0 px); six placed through the transform: 2W 50N (6 px off), 1.5W 50N (64), 1W 50N (35), 0.5W 49N (26), 1.5W 48.5N (16), 0.5W 48.5N (35).
+# Reader: radius, by the GeoJSON (all four boxes in). 5: 19 stretches (19 ticks, 0 line, 0 unsure), 146.6 km, west coast tip (1.699W 49.315N) to the Orne-mouth arc (0.222W 49.275N), nothing lost at either end. 4: 32 stretches (28 ticks, 3 line, 1 unsure), 121.8 km, the line in fragments. 3: 37 stretches (29 ticks, 4 line, 4 unsure), 62.5 km, fragments. Radius 5 kept.
+# Reader: boxes are 07-03's four (found to sit on this sheet's SECRET at about 4510-4880,440-560, legend 1630-2340,4100-4610, table 2980-4080,3650-4230, title 1470-3410,400-935 by a scan with the boxes drawn on it), the title box widened on the right to 3500 as the "1944" ends at about 3410. At radius 5, taking each out alone: without SECRET 20 stretches, 1 unsure at 4575,496 (the strike-through; 149.4 km); without legend, title or table no change. At radius 3: without SECRET 56 stretches, 20 unsure; without legend 97, 45 unsure; without title 94, 57 unsure; without table no change (37). Table's box traces nothing at 3 or 5, kept as on 3 July. None touches a ticked front stretch (front at y about 1990-2600).
+# Reader: no stretch flipped, checked or left out by hand: 19 of 19 ticks. Crops 800,1700 (west end) and 3300,1850 (Caen end): red ticks on the map's own ticks, on the north and west side; the west tip, the St-Sauveur hump and the Orne-mouth arc traced.
+# Reader: --sides, 07-03's GeoJSON backed up first and byte for byte unchanged after, run on 07-03 and today, diffed town by town: 34 of 34 the same side, no town changes. 0.5E and 1E 49.5N enemy on both, right. 0E, 0.5E, 1E 50N (beyond the open end, either way): own (US) on 07-03 and today by the tool's own words; 0.5W 50N own too.
+# Reader: length 146.6 km from the GeoJSON (07-03 149.8 by the same count). Gaps over 20 px (23.5 px/km), a run's end to the nearest other run's end: run 1 end/run 2 start 25 px; run 3 start/run 4 end 23; run 7 end/run 8 start 23; run 5 start/run 10 end 45; run 18 end/run 19 start 39 (19 start to run 17 32); run 6 start (0.2224W 49.2753N, the Orne-mouth end) to run 7 198 px (the Caen turn, which the map draws continuous); run 2 end (1.6993W 49.3146N, the coast end) 334 px from any other run.
+# Reviewed: whole-sheet overlay checked: one ticked front from the west coast below Carteret round St-Lo and the Odon salient to the Orne-mouth bridgehead, red ticks on the map's own (north and east). The 198 px break at the Caen turn is between two traced runs where the map draws the line continuous; it decides no town. Radius 5 as 3-8 July. All 34 towns as 07-03.
