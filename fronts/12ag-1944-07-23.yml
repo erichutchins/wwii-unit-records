@@ -1,0 +1,18 @@
+# 12ag-1944-07-23: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21048
+date: 1944-07-23
+as_of: 1200 HRS 23 JULY 1944
+title: "SECRET (struck through) / Situation 1200 hrs 23 July 1944, Twelfth Army Group (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [900, 330, 3700, 910], why: "the title block lettering (SECRET struck through, SITUATION 1200 HRS 23 JULY 1944 / TWELFTH ARMY GROUP), from 07-24's box"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend (U.S., British, Enemy, FRONT LINE sample), bottom left, from 07-24's box"}
+checked: []
+flip: []
+# Reviewed: a 1200 hrs sheet (as_of 1200 HRS 23 JULY 1944). Excludes copied from 12ag-1944-07-24 at the same places and re-tested at radius 3: without the title box 129 stretches (94 unsure), without the legend box 110 (66 unsure), with both 29 (0 unsure); both kept, neither cuts the front. 07-24's symbol and flag stroke boxes were not needed (no stray stretch traces from a symbol or flag). Nothing turned or checked: every ticked stretch's red ticks looked at on crops from the west coast (1322,2215) to the Orne (3849,2166): all on the map's hatching, north and west (US and British side).
+# Reviewed: --sides: no town on the wrong side (0.5E 49.5N and 1E 49.5N enemy, east of the Orne; towns 0E-1E 48.5N-49N enemy). 32 of 34 towns agreed with 07-24's rings (median 0.9 px); 1W 49.5N and 1.5W 48.5N placed through the transform.
+# Reviewed: gaps over 20 px (approximate, run end to nearest other run end, from the GeoJSON refitted to the towns, rms 2.8 px; west to east): 25 px (1523,2257 to 1548,2258), 31 px (1711,2292 to 1742,2295), 31 px (2209,2568 to 2239,2575), 46 px (2325,2631 to 2371,2631), 43 px (2696,2677 to 2739,2678), 41 px (2911,2589 to 2880,2615), 28 px (3234,2611 to 3261,2618), 29 px (3471,2593 to 3499,2600), 24 px (3621,2589 to 3643,2580), 102 px (3743,2563 to 3643,2580: the heavy line at the Caen bend is untraced between runs 11 and 19), 38 px (3799,2455 to 3778,2487). Ends: west at the coast of the Baie du Derout (1322,2215); east at the Orne mouth (3849,2166), the line running up to the sea. 118.9 km in 29 stretches.
+# Reviewed: none turned, nothing unsure, about 119 km from the Baie du Derout to the Orne mouth; the one real hole is the Caen bend (102 px between 3743,2563 and 3643,2580).
