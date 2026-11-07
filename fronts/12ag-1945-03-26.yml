@@ -1,0 +1,38 @@
+# 12ag-1945-03-26: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21295
+date: 1945-03-26
+as_of: 261200 MAR. 1945
+report: 294
+title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 294, situation as of 26 1200 Mar. 1945 (signed, C. T. Schmidt)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1945-03-24
+exclude:
+  - {box: [650, 1130, 1420, 1400], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER / Brigadier General, G.S.C. / A.C. of S., G-3), read where it stands on this sheet (letters y 1150-1420, x 400-1640; overlay crop 300,900); six unsure/line fragments of its letters fall at 925,1175, 1379,1251, 719,1311, 823,1349, 720,1347 and 957,1345; the front is below y 1560 west of x 1250 and first rises to y 1340 at x 1720 (the 03-24 second box for the 'G.' at the right end is not carried: no stretch of it is found today)"}
+  - {box: [1980, 2810, 2260, 2920], why: "the TWENTY ONE / TWELFTH army group boundary from Liege to its end, heavy black, no map ticks (four stretches, mids 2203,2834, 2152,2850, 2098,2870 and 2010,2889: 'line' and 'ticks' only from the roads); moved from 03-24's box, looked at on the overlay"}
+  - {box: [2320, 2730, 2410, 2810], why: "the same boundary's turn toward the Rhine (mid 2362,2767, unsure, no map ticks); the Rhine front (runs 27-29) is east of x 2640 here and clear of it"}
+  - {box: [2480, 2540, 2600, 2650], why: "the same boundary's last stretch to the Rhine near Neuss (mid 2539,2591, 253 points, unsure, roads' ticks only); the Rhine front stands at x 2640-2750 here (runs 26-29), outside this box"}
+  - {box: [1900, 4850, 2700, 5030], why: "the TWELFTH / SIXTH army group boundary from Conflans to the front at Saarlautern, heavy black, no map ticks (stretches mid 1956,4990, 2135,4964 and 2632,4891); the boundary then turns north-east at (2680,4880) and runs up to (2735,4715), where it meets run 62's end"}
+  - {box: [2900, 4430, 3060, 4520], why: "the same boundary's long diagonal from Saarlautern (2735,4715) by Idar-Oberstein to Kirn (stretch mid 2980,4474, 561 points, 'ticks' only from the roads); the Palatinate pocket is gone on 26 March and the sheet draws this heavy black line across it; looked, overlay crops 2600,3900 and 1700,4500; it stands about 100 px lower than 03-24's box [2980,4260,3160,4420] (offset -8,+16 does not account for it: the stretch is cut at different junctions today)"}
+  - {box: [3440, 4150, 3540, 4230], why: "the same boundary along the Nahe from Kirn to Bad Kreuznach (stretch mid 3491,4190, 179 points, 'ticks' from the roads and the river); looked, overlay crop 2600,3900"}
+  - {box: [3560, 3985, 3640, 4040], why: "the same boundary's last stretch from Bad Kreuznach up the Nahe to the Rhine at Bingen (stretch mid 3597,4006, unsure, heavy black, no ticks); the Rhine front (runs 53-54) is west and north of this box"}
+  - {box: [3436, 3770, 3480, 3802], why: "a short stretch of the Rhine's own channel beside the '89' label at St Goar/Oberwesel (unsure, mid 3458,3786, no ticks, nothing to continue); looked, --look 3458,3786: the front here is the heavy black S-curve 40-60 px east, which stays; the Rhine's blue is not the line"}
+  - {box: [400, 5030, 1000, 5660], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample and lettering): eleven stretches, mids 511,5058, 526,5235, 431,5245, 499,5250, 521,5264, 480,5583, 522,5591, 937,5602, 653,5604, 498,5604, 834,5635; the front is nowhere near the legend"}
+# The 03-24 First/Third box (west of Ahrdorf, the Siegfried band) is not carried: no stretch of the boundary's piece there is
+# found on this sheet (looked, overlay crop 2100,3150). Boxes above are the 03-24 ones moved to where each stands today (the
+# sheet is offset -8,+16 px from 03-24's, and several boundary stretches are cut at other junctions), each sized to the
+# stretches it leaves out and kept off the front's own runs: Wesel bridgehead (runs 4-22, joined in one ring), Remagen
+# (runs 33-38), Boppard/St Goar and Oppenheim (runs 44-56) are all front.
+flip:
+  - {at: [3996, 5006], why: "the Rhine front from Germersheim south to the Lauter hook (stretch 67 of the trace): the map's own ticks are the black hairs on the WEST (US) side of the heavy line, the Rhine's dark blue beside it on the east was counted as ticks and turned the stretch north, ticks on its east; with it Landau (15 km west of the Rhine, the Palatinate cleared) read enemy and Karlsruhe own on this stretch; looked, overlay crop 3920,4900 enlarged four times: hairs left of the line, red ticks (the run's right) on the river; turned"}
+  - {at: [3946, 5089], why: "the short westward hook of the front at the mouth of the Lauter, joined to the stretch above (stretch 68): the map's hairs stand on its north side (US), the trace's ticks fell on its south; looked, overlay crop 3880,5010 enlarged four times; turned with the stretch above"}
+checked: []
+# Reviewed (sides against 03-24: 78 of 81 agree): Strasbourg's ring is below the sheet's neat line (y about 5780), a weak
+# test; Braubach's ring lies under the line (0-2 km), either side; Darmstadt reads own because the Oppenheim bridgehead now
+# holds it (symbols 26 (+) and 90 round it, the line 1 km off; 7 km east of the line on 03-25).
+# Not traced (a limit of the tool, no box covers them): the Oppenheim bridgehead's southern edge (from the Rhine near
+# Gernsheim, 4020,4190, east to 4290,4200), its long south-east diagonal (4290,4200 to 4640,3930, the Aschaffenburg point)
+# and the right leg of the Hanau head (4480-4640, 3760-3950) are drawn so heavy, ticks fused to the line, that the skeleton
+# is cut into pieces under 25 px; the bridgehead's west and north legs and the Hanau head's left leg are traced.
+# Reviewed: 78 of 81 towns on 24 March's side; Darmstadt (own) is in the Oppenheim bridgehead, Braubach and
+# Strasbourg are weak tests. Two Rhine stretches below Germersheim turned to the map's hairs (the river's blue had
+# passed for ticks). The bridgehead's south edge and its diagonal to Aschaffenburg are drawn too heavy to skeletonise.
