@@ -1,0 +1,20 @@
+# 12ag-1944-12-01: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21180
+date: 1944-12-01
+as_of: 1200 HRS 1 DECEMBER 1944
+title: "Situation 1200 hrs 1 December 1944, Twelfth Army Group"
+read: the title on the sheet (SECRET underlined and struck through; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-12-02
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why (12-02's, shifted +16, +8)
+  - {box: [274, 382, 2374, 772], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 3 DECEMBER 1944, TWELFTH ARMY GROUP); seen on overlay crop 0,250 (2700x800): SECRET starts y ~446, GROUP ends y ~770, 1944 ends x ~2235 (y 600); y1 780 stops above the Walcheren, Beveland and Tholen arcs (highest y ~880, x 1550-2100) and x1 2350 stops west of the Hollandsch Diep arc (its west end x ~2370, y ~785); the arcs are blue and ticked on the map's south side"}
+  - {box: [54, 4642, 1154, 5562], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE), its sample of the front included, seen on overlay crop 0,4900: U.S. box top y ~4930, FRONT LINE sample and letters end y ~5535, lettering x 215-1025 (inside the box); without the box 33 unsure fragments at x 250-985, y 4955-5530"}
+  - {box: [2524, 1732, 3794, 1982], why: "the Twenty One/Twelfth army group boundary from Louvain to the front near Geilenkirchen, heavy, its ticks are the railways' (seen on the overlay crop 2500,1600)"}
+  - {box: [3504, 4872, 4124, 5292], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, no ticks (seen on overlay crop 3400,4000)"}
+  - {box: [4284, 4572, 4584, 4792], why: "the same boundary along the Marne-Rhine canal from x 4260 to Sarrebourg and north (4500,4600), no ticks; without it unsure at 4502,4617 (overlay crop 3500,4500)"}
+  - {box: [4652, 4436, 4676, 4458], why: "the blunt stub of the Twelfth/Sixth army group boundary's end where it meets the front by the 4 (armored) box, heavy black, no ticks either side; unsure at 4670,4444 (--look 4670,4444); the 12-02 box for this boundary (shifted) ends at x 4666, here the boundary meets the front a little farther east; the box stops below the front's blue run"}
+flip: []
+checked: []
+
+# Reader: towns matched to 12-02 (offset +16, +8 px): 56 of 81 agree, median 0.6 px, 25 placed through the transform. 12-02's ten boxes shifted by that offset and each tried alone (GeoJSON with and without): kept where they change it (title, legend, Twenty One/Twelfth boundary, Twelfth/Sixth south-west of Dombasle, Twelfth/Sixth along the Marne-Rhine canal). Dropped as catching nothing here: the enemy 18's squiggle, the Rhine reach north of Karlsruhe (nothing traces there on this day, so no box is needed), the Rhine stub at 5631,4418, the Twelfth/Sixth stub down to Sarrebourg (4456-4666), the stub by 3 (ELMS). One new box: a blunt unticked boundary stub at 4670,4444, just east of where 12-02's boundary box ends. Title box stops above the Scheldt arcs and west of the Hollandsch Diep arc; the arcs trace with red ticks south, as the map's (overlay crop 1000,450): no flip. Saar and Vosges front whole.
+# Reviewed: all 81 towns on 2 December's side. Strasbourg reads enemy and is WRONG (liberated 23 November; "Strasbourg       enemy     by run 69 enemy at 5241,4827, run 70 enemy at 5217,4918"): its ring, placed through the transform, sits by the ticked Rhine front, the ring-under-the-line case of 2 and 4 December. Jülich, Haguenau, Kleve, Landau (one run of four own, at the Lauter-Rhine corner) and Darmstadt enemy. 84 stretches, about 893 km, 0 unsure, no turns; Scheldt arcs ticked south as the map's; the Saar and Vosges front whole. Five of 2 December's boxes caught nothing here and are dropped; one added on a blunt unticked boundary stub at 4670,4444 (looked at).
