@@ -1,0 +1,27 @@
+# 12ag-1944-11-19: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21168
+date: 1944-11-19
+as_of: 1200 HRS 19 NOVEMBER 1944
+title: "Situation 1200 hrs 19 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-18
+exclude:
+  - {box: [396,288,2392,776], why: "title"}
+  - {box: [224,4912,1104,5648], why: "legend"}
+  - {box: [2232,1770,3688,2118], why: "the Twenty One/Twelfth army group boundary from west of Tirlemont to the front near Maastricht (heavy black, no map ticks)"}
+  - {box: [3704,1748,3794,1808], why: "army boundary stub at Geilenkirchen, heavy black, no ticks"}
+  - {box: [4028,4800,4128,4870], why: "the Twelfth/Sixth army group boundary's end near Dombasle, heavy black, no ticks"}
+  - {box: [3430,5060,3790,5290], why: "the Twelfth/Sixth army group boundary south-west of Dombasle (labelled TWELFTH xxxxx SIXTH), heavy black, no map ticks; traced as an unsure run, middle 3606,5166 (crop 3350,4950 800x400)"}
+flip: []
+checked:
+  - {at: [2122, 880], why: "the arc head of the Tholen peninsula on the Scheldt north shore, no ticks of its own; the map's ticks on its two flanks and below it are on the south (US) side, as the run's own side says (crop 1500,600 900x450)"}
+
+# Reader: title agrees with the catalogue (1200 HRS 19 NOVEMBER 1944, no report number; SECRET underlined).
+# Reader: towns: --gcps-from 12ag-1944-11-18 accepted on the one run: offset +8,+0 px, 64 of 81 agree, median 0.8 px, 17 placed through the transform (Kleve 19 px, Nijmegen and Arnhem 17, Gemünd 14, Ahrweiler 13, 's-Hertogenbosch 13, Prüm 11, Saint-Dié 9, Metz 7). Fit over all 81: rms 0.9 km (leave-one-out 0.9, worst Beauvais 2.2 km).
+# Reader: boxes: 11-18's six shifted +8,+0 and each left out in turn. Kept: title (without: 129 stretches, 49 unsure), legend (without: 108, 32 unsure), Twenty One/Twelfth (without: 78, adds unsure 3248,1857 and 2515,2033), Geilenkirchen stub 3704,1748 (without: 75, adds a stub at 3759,1775), Dombasle end 4028,4800 (without: 75, adds a stub at 4060,4865). Dropped: the 102-box stub (3648,1815,3733,1858): without it 74 stretches, the same. New: a box at 3430,5060,3790,5290 on the Twelfth/Sixth boundary (TWELFTH xxxxx SIXTH label) south-west of Dombasle, which ran as the one magenta unsure run (middle 3606,5166, heavy black, no ticks; crop 3350,4950 800x400). The First Canadian/Second British and First/Third boundaries are thin on this sheet and not traced.
+# Reader: checked: the arc head of the Tholen peninsula (2122,880), unsure with no ticks: the map's ticks on its flanks are on the south side. Scheldt hook unflipped, red ticks on the map's (crop 1500,600 900x450). flip: none.
+# Reader: front: 73 stretches (59 ticks, 13 line, 1 by eye, 0 unsure); 907 km (own sum of the GeoJSON legs; 11-18 the same way 925 km); southmost 47.97N. Shorter than 11-18 by 18 km, mostly in latitudes 48-49 (Vosges and Metz-Saar), with no gap seen on the Geilenkirchen-Eschweiler, Metz or Belfort crops (the line is continuous, Metz wrapped on three sides). --dark 80 gives 81 stretches, 931 km, but adds three unsure stray pieces (boundary stubs at 3690,1820 and 4484,4606, and 6139,5209 on the Rhine); the default 70 was kept.
+# Reader: sides: 81 of 81 as on 11-18, no town changes side (11-18 GeoJSON byte-identical to its backup after the --sides run). Arnhem enemy; Nijmegen, Epinal, Ostend own; Metz enemy ("Metz             enemy     by run 43 enemy at 3913,4145, run 49 enemy at 3874,4217"), inside the ring, still German-held; Saint-Dié enemy ("Saint-Dié        enemy     by run 68 enemy at 4523,5323"), on the line: a weak test.
+# Reviewed: report and crops (Geilenkirchen-Eschweiler, Metz, Vosges) show one continuous ticked front, Metz wrapped on three sides and reading enemy (the city held out to about 22 Nov). Length about 907 km against 925 by the same sum on 11-18: 2 per cent, spread over small breaks between runs; dark 80 added strays, so the default kept. The Twelfth/Sixth box south-west of Dombasle is on the labelled boundary. 81 of 81 towns as 11-18.
