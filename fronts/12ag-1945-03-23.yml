@@ -1,0 +1,27 @@
+# 12ag-1945-03-23: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21292
+date: 1945-03-23
+as_of: 231200 MAR. 1945
+report: 291
+title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 291, situation as of 23 1200 Mar. 1945 (signed)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: 12ag-1945-03-22
+# Base B12 (1:1,000,000). Excludes carried over from 12ag-1945-03-22 (same base sheet) and moved to where each stands on
+# this sheet, each looked at on the overlay (scan coordinates). The Saar-Palatinate pocket's outline is gone (overrun), and the
+# Rhine bridgehead at Oppenheim is drawn: traced as front.
+exclude:
+  - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER, G. / Brigadier General, G.S.C. / A.C. of S., G-3), letters at y 1150-1420, x 450-1650, in the same place as on 22 March; looked, overlay crop 300,900; the front is below y 1340 and rises to y 1340 only at x 1730"}
+  - {box: [1500, 1230, 1730, 1300], why: "the signature's 'KIBLER, G.' lettering, right end; the front at x 1700 is at y 1345 (crop 300,900)"}
+  - {box: [150, 5000, 1100, 5720], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample and lettering), x 150-1100, y 5000-5720 on this sheet (overlay sheet)"}
+  - {box: [1580, 2790, 2400, 3000], why: "the TWENTY ONE / TWELFTH army group boundary from Liege to its end, heavy black, no map ticks"}
+  - {box: [2420, 2540, 2640, 2800], why: "the same boundary's stretch from its end to the Rhine near Neuss, heavy black, no map ticks"}
+  - {box: [1820, 4850, 2680, 5030], why: "the TWELFTH / SIXTH army group boundary from Conflans to Saarlautern, heavy black, no map ticks"}
+  - {box: [1400, 1840, 1560, 1960], why: "the FIRST CDN / SECOND BR army boundary's last stretch at Oirschot (unsure run 1467,1906): heavy black, no map ticks (looked, overlay crop 1250,1700); roads' ticks only"}
+  - {box: [2200, 1930, 2290, 2010], why: "the SECOND BR / NINTH army boundary's short stub by the Maas at Roermond (unsure run 2236,1970): heavy black, no map ticks (crop 1250,1700)"}
+  - {box: [2850, 4440, 3030, 4630], why: "the diagonal heavy black line from Saarbrucken area NE to the Nahe (unsure run 2936,4536): no map ticks (look 3000,4500), US divisions (89, 65, 80, 45) stand on both sides; the pocket it enclosed on 22 March is overrun, so this is an army boundary, not the front"}
+  - {box: [3540, 3990, 3700, 4140], why: "the same heavy black line along the Nahe from Bingen's mouth to Bad Kreuznach (unsure run 3614,4065): no map ticks (look 3200,4300); not the front, US on both sides (XII Corps, 89)"}
+flip: []
+checked: []
+# Reviewed: Siegburg (enemy; US on 22 March) and Neuwied (US; enemy on 22 March) sit under the line at the Remagen
+# bridgehead's north and south edges, so their sides are weak tests, not wrong stretches. The Saarbrücken-Nahe
+# diagonal and the Nahe line are an army boundary now that the pocket is gone (US divisions both sides, no ticks).
