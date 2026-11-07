@@ -1,0 +1,18 @@
+# 12ag-1944-07-18: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21043
+date: 1944-07-18
+as_of: 1200 HRS 18 JULY 1944
+title: "SECRET (struck through) / Situation 1200 hrs 18 July 1944, Twelfth Army Group (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-19
+radius: 3
+exclude:
+  - {box: [900, 330, 3700, 910], why: "the title block lettering, from 07-19's box"}
+  - {box: [1380, 2335, 1475, 2410], why: "the 353 symbol's hatched box in the Passage de la Deroute shallows, a stroke with no ticks, south of the front (which runs at y 2200); look at 1421,2370"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend, bottom left, from 07-19's box"}
+checked:
+  - {at: [1757, 2294], why: "short heavy stretch on the west reach under the 265 symbol's box; the map's ticks stand on its north side (US side), continuous with the blue run either side, 4x look"}
+  - {at: [3753, 2568], why: "the bend at the south end of the Orne reach, east of the 21 symbol; the map's ticks on its north and west inner side (US/British side), continuous with the runs either side, 4x look"}
+flip: []
+# Reviewed: all 34 towns on 19 July's side (33 of 34 agreed on the transform, 1W 50N placed through it). 27 stretches, about 136 km, from the Passage de la Déroute coast to the Orne mouth; the east end has not moved from 19 July: no Goodwood advance east of the Orne is drawn on this 1200 hrs sheet. Hatching and red ticks on the north and west side throughout; two stretches confirmed by eye at 4x, no turns. Title and legend boxes re-tested; a new box over the hatched 353 symbol in the shallows (130 px south of the front). Gaps of 46 and 47 px under the 4/265 symbols on the west reach. Towns in the sea off the Orne end read either way.

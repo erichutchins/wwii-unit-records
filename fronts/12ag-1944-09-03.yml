@@ -1,0 +1,16 @@
+# 12ag-1944-09-03: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21090
+date: 1944-09-03
+as_of: 1200 HRS 3 SEPT. 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS. 3 SEPT. 1944 / CENTRAL ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: towns-B08.csv
+radius: 3   # as on B08's pilot day (12ag-1944-09-02)
+exclude:
+  - {box: [0, 0, 2700, 1000], why: "the title block: SECRET (struck through), SITUATION 1200 HRS. 3 SEPT. 1944, CENTRAL ARMY GROUP (lettering, heavy); same box as 09-02"}
+  - {box: [700, 4440, 1700, 5090], why: "the legend: U.S., BRITISH, ENEMY, FRONT LINE lettering and the sample front line with its ticks (looked at on a crop, 3 Sept scan)"}
+flip: []
+checked: []
+# Reviewed: the sheet (titled CENTRAL ARMY GROUP) draws one ticked front: a heavy line along the south shore of the Seine estuary from Trouville/Honfleur east past Berville, ticks on the south (Allied) side, facing Le Havre; looked at on the scan (crop 300,2500 1000x500). 2 stretches, about 32 km. 2 September's Le Havre arc and the line in the north are not drawn; no front is drawn for the pursuit past Brussels, Mons and Verdun (no front drawn, not no front). 2 September's four large excludes not copied (its note says not to); title and legend boxed. The three margin ticks that change side (0E, 0.5E, 1.5E, enemy to own) follow the line's move, not a wrong stretch.
