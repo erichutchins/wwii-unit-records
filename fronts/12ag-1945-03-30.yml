@@ -1,0 +1,31 @@
+# 12ag-1945-03-30: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21299
+date: 1945-03-30
+as_of: 301200 MAR. 1945
+report: 298
+title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 298, situation as of 30 1200 Mar. 1945 (signed)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1945-03-28
+# Base B12 (1:1,000,000). The 15 excludes are copied from 12ag-1945-03-28 and are to be checked on this sheet's overlay.
+exclude:
+  - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER, G. / Brigadier General, G.S.C. / A.C. of S., G-3), letters at y 1150-1420, x 450-1650, in the same place as on 22 March; looked, overlay crop 300,900; the front is below y 1340 and rises to y 1340 only at x 1730"}
+  - {box: [1500, 1230, 1730, 1300], why: "the signature's 'KIBLER, G.' lettering, right end; the front at x 1700 is at y 1345 (crop 300,900)"}
+  - {box: [150, 5000, 1100, 5720], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample and lettering), x 150-1100, y 5000-5720 on this sheet (overlay sheet)"}
+  - {box: [1580, 2790, 2400, 3000], why: "the TWENTY ONE / TWELFTH army group boundary from Liege to its end, heavy black, no map ticks"}
+  - {box: [2380, 2500, 2640, 2760], why: "the same boundary's stretch from its end to the Rhine near Neuss, heavy black, no map ticks"}
+  - {box: [1820, 4760, 2650, 5030], why: "the TWELFTH / SIXTH army group boundary from Conflans to Saarlautern, heavy black, no map ticks"}
+  - {box: [1400, 1840, 1560, 1960], why: "the FIRST CDN / SECOND BR army boundary's last stretch at Oirschot (unsure run 1467,1906): heavy black, no map ticks (looked, overlay crop 1250,1700); roads' ticks only"}
+  - {box: [2200, 1930, 2290, 2010], why: "the SECOND BR / NINTH army boundary's short stub by the Maas at Roermond (unsure run 2236,1970): heavy black, no map ticks (crop 1250,1700)"}
+  - {box: [3000, 4100, 3350, 4500], why: "the diagonal heavy black line from Saarbrucken area NE to the Nahe (unsure run 2936,4536): no map ticks (look 3000,4500), US divisions (89, 65, 80, 45) stand on both sides; the pocket it enclosed on 22 March is overrun, so this is an army boundary, not the front"}
+  - {box: [3540, 3990, 3700, 4140], why: "the same heavy black line along the Nahe from Bingen's mouth to Bad Kreuznach (unsure run 3614,4065): no map ticks (look 3200,4300); not the front, US on both sides (XII Corps, 89)"}
+  - {box: [2330, 3390, 2450, 3470], why: "the FIRST / THIRD army boundary's short heavy stretch across the old hatched lines near Wittlich-Trier (unsure run 2384,3432): heavy black, no map ticks (look 2384,3432); not the front"}
+  - {box: [2720, 4440, 3060, 4900], why: "the same heavy black army boundary's lower leg, from Saarlautern NE to the box above (run 39, middle 2833,4643): a plain heavy black line with no ticks of its own (the strokes the tracer counted are roads crossing it; looked, 2900,4650 and 2780,4800); US divisions (70, 94, 65) stand on both sides, so not the front. Counted as a front on this sheet only because road strokes passed for ticks"}
+  - {box: [3580, 3968, 3630, 3992], why: "the stub where the Nahe army boundary leaves the front at Bingen (unsure run 3603,3972): short heavy black, no ticks of its own; looked (look 3603,3972): the front's own ticked line passes above it, and the heavy line runs south from it; the boundary box below starts at y 3990"}
+  - {box: [3300, 4150, 3520, 4230], why: "the army boundary along the Nahe west of Bad Kreuznach (unsure run 95, middle 3409,4199): plain heavy black, no ticks of its own (look 3409,4199), US divisions (65, 94) both sides; the 27 March box here (3000-3350) stands 40 px off on this sheet, so a new box. Not the front"}
+  - {box: [2640, 4700, 2740, 4830], why: "the Twelfth/Sixth army group boundary's short vertical leg by Saarlautern (unsure run 108, middle 2685,4766): heavy black, no ticks of its own, the strokes beside it are the old hatched lines (look 2685,4766); the pocket is overrun; not the front"}
+  - {box: [4200, 3680, 4360, 3790], why: "the TWELFTH / SIXTH army group boundary's arc by Frankfurt-Hanau (unsure run 35, middle 4278,3731): plain heavy black, no ticks of its own, the strokes the tracer counted are roads and the old hatching (look 4278,3731 and 4520,3640); US divisions (5, 26, 80, 11) stand on both sides; the front's own ticked line is farther east (x about 4580). Counted as front on this sheet only because road strokes passed for ticks, so Darmstadt read enemy"}
+  - {box: [3950, 4040, 4060, 4140], why: "the same army group boundary's stretch by Darmstadt-Oppenheim (unsure run 39, middle 4006,4093): plain heavy black, labelled TWELFTH XXXXX SIXTH, no ticks (look 4006,4093 and 3900,4130); US (44, 3, XV Corps) both sides; not the front"}
+  - {box: [3770, 4150, 3880, 4260], why: "the same boundary's lower stretch toward Alzey (unsure run 40, middle 3827,4215): plain heavy black, no ticks (look 3827,4215); US on both sides (XX Corps, 65); not the front"}
+flip: []
+checked: []
+# Reviewed: 78 of 81 towns on 28 March's side; Daaden and Bocholt (own) are the advance, Strasbourg the neat-line weak test. The Giessen-Vogelsberg flank (x 4300-5000, y 2300-3300) and the line past Hanau to Aschaffenburg are past the towns' spread and untraced, hence the shorter front.
