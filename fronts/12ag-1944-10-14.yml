@@ -1,0 +1,46 @@
+# 12ag-1944-10-14: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21131
+date: 1944-10-14
+as_of: 1200 HRS 14 OCTOBER 1944
+title: "Situation 1200 hrs 14 October 1944, Twelfth Army Group (SECRET struck through above; no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-10-16
+exclude:   # 10-15's boxes moved (+19,-12), keeping only those that catch a stretch on this sheet (checked on the overlay); reasons are 10-15's (and 10-16's), carried in their YAMLs
+  - {box: [180, 185, 2480, 600], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [217, 4962, 1087, 5662], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [1887, 1622, 3087, 1902], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [5577, 3422, 5687, 3482], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [6067, 3662, 6177, 3732], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [5565, 3501, 5655, 3608], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [6223, 3768, 6305, 3838], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [2776, 1218, 4021, 1648], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [2676, 4568, 4396, 5228], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [5115, 3125, 5205, 3210], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [1743, 1975, 1843, 2075], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [4503, 4365, 4603, 4465], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [5286, 3364, 5386, 3444], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [6169, 3741, 6269, 3841], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [1377, 2376, 1577, 2576], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [3258, 1061, 3358, 1161], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [1513, 2299, 1613, 2399], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [1338, 2547, 1438, 2647], why: "copied from 12ag-1944-10-15 (itself 10-16 moved) and moved by (+19,-12); reasons carried in 10-15.yml and its ancestors"}
+  - {box: [1319, 158, 1499, 233], why: "the SECRET lettering's strokes in the title block, traced as a short stretch (overlay crop 1300,0)"}
+  - {box: [5539, 1348, 5719, 1413], why: "the blue-pencilled underline beneath the 'TEMPORARILY UNLOCATED' / LEHR label, not front (run 65 in the first trace at 5610,1394; --sides had Siegen, Much and others own through it)"}
+  - {box: [4269, 973, 4669, 1183], why: "army group boundary (Twenty One / Twelfth) from Geilenkirchen to the north-east: a heavy black line with no map ticks (overlay crop 3850,900 750x450)"}
+  - {box: [4745, 3998, 5579, 4363], why: "army boundary (Twelfth/Sixth) along the Marne-Rhine canal and on north-east: a heavy black line with no ticks, grey railway ticks beside it (overlay crop 4600,3950 1000x650); starts where it meets the front at about 4725,4345; moved to start at x 4745 (+19,-12 gave 4754): on 14 Oct the boundary's first stretch to the front (middle 4751,4342) fell just outside, and put Saint-Dié and Epinal own"}
+  - {box: [5204, 3163, 5259, 3228], why: "Siegfried Line hatched feature (west Palatinate), a short stretch with no ticks, traced by its red tick beside it; it alone decided Zweibrücken, Kaiserslautern, Pirmasens, Landau and Heidelberg own through run 105 at 5213,3209 (overlay crop 4700,3000 1100x1300); 10-16's box at 5096,3137 does not reach it here"}
+  - {box: [5790, 3715, 5860, 3785], why: "where the Siegfried Line hatched feature (west Palatinate) crosses the Twelfth/Sixth army boundary: two short fragments (runs 59 and 61 at 5834,3734 and 5813,3759) with no ticks, which alone put Haguenau, Strasbourg, Landau, Karlsruhe, Heidelberg, Baden-Baden and Offenburg own (overlay crop 5600,3550); 10-15 boxed this feature, and its box moved to here (5847,3708 +) fell 13 px short"}
+area: [4524, 5088, 5324, 5978]   # 10-15's area moved (+19,-12); catches nothing on this sheet (no ticked front south of the Marne-Rhine canal on 14 Oct)
+flip: []   # 10-15's eleven flips (Nijmegen east flank, Antwerp-Breda-Turnhout line, Breskens end) moved (+19,-12): none lies on a traced stretch today, those lines carry no ticks on 14 Oct
+checked:
+  - {at: [4300, 1290], why: "top of the arc at Geilenkirchen, its red tick south on the inside, as runs 5 and 6 below it"}
+  - {at: [4430, 1734], why: "west face of the Aachen-Eupen salient, red ticks west on the map's own ticks (overlay crop 4300,1680 x3)"}
+  - {at: [4406, 1784], why: "same, run 24"}
+  - {at: [4373, 1804], why: "same, run 25"}
+  - {at: [4436, 2176], why: "the hook at Schmidt/Dahlem: red tick falls on the map's ticks on the hook's south, as runs 33 and 35 either side (overlay crop 4250,2100)"}
+  - {at: [4335, 2329], why: "red ticks on the map's ticks, west (overlay crop 4250,2100)"}
+  - {at: [4324, 2361], why: "same"}
+  - {at: [4325, 3519], why: "red tick on the map's ticks, west (overlay crop 4230,3430 x3)"}
+# Reader: gcps matched to 12ag-1944-10-16 (10-15 refused: 36 of 81 within 4 px); 47 of 81 agree (median 1.5 px), 34 placed through the transform. Boxes are 10-15's moved (+19,-12) (10-14 = 10-15 + (19,-12)), keeping the 22 that catch a stretch here and dropping the zero-hit ones; three of 10-15's boxes dropped for cutting ticked front (the Maastricht loop at 4078,1520; the front's last stretch to the Marne-Rhine canal at 4557,4302; the front by the Siegfried strip north of Trier at 4612,2904); two boxes added or moved (the boundary's first stretch to the front at 4745,4325; the Siegfried feature where it crosses the army boundary at 5790,3715). All eleven of 10-15's flips match no stretch today: on 14 Oct the Nijmegen east flank and the Antwerp-Breda-Turnhout arc (scan about 3700,700 to 4050,200) carry no ticks and are not traced (looked at 3800,450 and 3980,250), so nothing was flipped or forced; the Breskens end is not traced either. Arnhem reads own, wrong: the ticked arc along the scan's top edge is missing. No ticked front south of the Marne-Rhine canal (the heavy lines there are boundaries: looked at 4880,5140, 4650,5280, 5150,4980), so Saint-Dié and Colmar read own (should be enemy): beyond the line's open end, not a wrong stretch. The Geilenkirchen-Aachen-Monschau reach is traced in several fragments with gaps, its red ticks on the map's own west ticks; eight stretches checked by eye. Front 291 km (10-15: 585).
+# Reviewed: this sheet draws a ticked front only from north of Maastricht to the Marne-Rhine canal (whole-sheet overlay read by the reviewer): no ticked line round the Nijmegen salient, on the Antwerp-Breda-Turnhout line (a plain heavy line today) or in the Vosges south of the canal; no front drawn there, not no front. 66 stretches, 291 km; the Geilenkirchen-Aachen-Monschau reach traced in fragments (fused ticks), eight stretches checked by eye on the map's west ticks. Towns beyond the open ends read own and are artefacts, not wrong stretches: Arnhem, Breda, 's-Hertogenbosch, Bergen op Zoom (north), Saint-Dié and Colmar (south). Nijmegen own, Metz enemy. 15 October's flips match nothing here; three boxes that cut ticked stretches dropped; one added on the Siegfried strip at the army boundary.

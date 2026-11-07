@@ -1,0 +1,63 @@
+# 12ag-1945-04-16: the sheet as read on its title (G-3 report 315, 161200 Apr 1945; agrees with the catalogue); B13, towns matched to 04-15 (26 of 26 agree, median 0.5 px; offset +0,+16 px).
+# Reader: 04-15's area and its ten lettering/list/boundary boxes that still hold something kept, shifted by y+16 (title, Auth box, legend, the Muenster and Lahn boundary boxes, Ahr/Neuwied/Third-Fifteenth, Hanau and Frankfurt-Darmstadt); the 28 that hold nothing today dropped. Boxes 2, 3, 4 (Auth, title, legend) each hold a "ticked" run that is lettering or the legend's hatched box (looked), kept; the Hanau and Frankfurt-Darmstadt boxes hold 'line' runs that are plain heavy boundaries (looked), kept.
+# Reader: a first trace with those boxes left 162 stretches; the long boundaries it left in were boxed at the middle of their runs (looked on overlay crops 2900,500; 450,950; 2200,3200; 400,4300): the Twenty One/Twelfth line Celle to Muenster (run 24 at Celle, run 29 and five of its pieces; the ticked front round Celle, run 13, stays traced), the Hanau-Meiningen-Bayreuth line (five runs), the Twelfth/Sixth line Bad Kreuznach to Saarbruecken (three runs), and 20 unsure runs that are lake edges, river blue, corps lettering or boundary strokes (looked). Left unsure and kept as front: the three stubs on the Ruhr's north side at Hagen (1324,2403; 1020,2430; 1176,2464), the pocket's ring where its halves meet, as on 04-15.
+# Reader: area widened? no: 04-15's box (shifted) and a test with x0 250 add nothing. Ruhr pocket cut at Hagen, ticked outward; Harz, Koethen/Barby, Zeitz-Altenburg-Chemnitz salient and Emmen drawn as rings with ticks outward; the Elbe Salzwedel-Havelberg. 93 stretches, 1,931 km (04-15: 2,079).
+# Reader: sides: 25 of 26 as 04-15. 13E 51N enemy -> own: "13E 51N          own (US)  by run 69 own at 5726,3078"; its ring (5767,2976) lies about 15 px from the Zschopau line, which has the map's ticks on its west and the US symbols (4, 6, 76, 80) inside: under the line, a weak test.
+item: ict21316
+date: 1945-04-16
+as_of: 161200 APR. 1945
+report: "315"
+title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 315, situation as of 161200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
+read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
+gcps_from: 12ag-1945-04-15
+area: [470, 124, 4900, 2974]
+exclude:
+  - {box: [400, 174, 1520, 504], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 13 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
+  - {box: [4930, 104, 6400, 1034], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 312, SITUATION AS OF 131200 APR. 1945, signature and name), all letters; same place as 04-08 (--title 4700 80 1600 930)"}
+  - {box: [5640, 5024, 6520, 5684], why: "the legend at bottom right (U.S., BRITISH, ENEMY, FRONT LINE sample), lettering and hatching; same place as 04-08 (looked, crop 5000,4300: its symbols run 5650-6460 x 5010-5600)"}
+  - {box: [560, 1714, 1300, 2044], why: "the Twenty One / Twelfth boundary west of Muenster, heavy black, no ticks; the red ticks fall on grey railways (overlay); same as 04-11 (catches run 51 (middle 814,1818) today)"}
+  - {box: [1230, 3784, 1850, 3954], why: "the First / Third boundary on the Lahn, heavy black, the blue is the river; as 04-11 (catches runs 103, 105, 106 today)"}
+  - {box: [1220, 3972, 1290, 4042], why: "run 114 (middle 1255,3983): the Third / Fifteenth boundary beside the Rhine south of Koblenz, plain vertical heavy (overlay)"}
+  - {box: [1190, 3757, 1260, 3827], why: "run 86 (middle 1225,3768) of the first run: the boundary at the Rhine by Neuwied, plain heavy beside the blue river, no ticks (looked 1225,3768)"}
+  - {box: [1097, 3744, 1167, 3814], why: "run 97 (middle 1132,3763) of the first 04-15 run: the boundary at the Rhine by Neuwied, plain heavy beside the blue river (crop 400,3400)"}
+  - {box: [2185, 4144, 2255, 4214], why: "run 98 (middle 2220,4163) of the first 04-15 run: the boundary at Hanau, plain heavy, no ticks (crop 400,3400)"}
+  - {box: [2000, 4329, 2070, 4399], why: "run 99 (middle 2035,4348) of the first 04-15 run: the Twelfth / Sixth boundary at Frankfurt-Darmstadt, a plain heavy lettered diagonal, no ticks (crop 400,3400)"}
+  - {box: [3391, 826, 3461, 896], why: "run 24 (middle 3426,861) of the unboxed 04-16 run: the thin Twenty One / Twelfth army group boundary from Celle (3306,928) NE toward Wittingen, no map ticks, red ticks fall on paper (crop 2900,500); the ticked front round Celle (run 13) and the heavy ticked line east of 3645,775 stay traced"}
+  - {box: [2686, 1136, 2756, 1206], why: "run 29 (middle 2721,1171) of the unboxed 04-16 run: the long Twenty One / Twelfth army group boundary from Celle SW to Muenster, one 1,311-point line, thin, no ticks"}
+  - {box: [2002, 1327, 2072, 1397], why: "run 32 (middle 2037,1362) of the second 04-16 run: a piece of the Twenty One / Twelfth boundary Celle to Muenster left by the box on its long run (crop 450,950), thin or heavy, no ticks, the red ticks fall on paper and railways"}
+  - {box: [1852, 1407, 1922, 1477], why: "run 34 (middle 1887,1442) of the second 04-16 run: a piece of the Twenty One / Twelfth boundary Celle to Muenster left by the box on its long run (crop 450,950), thin or heavy, no ticks, the red ticks fall on paper and railways"}
+  - {box: [1777, 1446, 1847, 1516], why: "run 35 (middle 1812,1481) of the second 04-16 run: a piece of the Twenty One / Twelfth boundary Celle to Muenster left by the box on its long run (crop 450,950), thin or heavy, no ticks, the red ticks fall on paper and railways"}
+  - {box: [1630, 1525, 1700, 1595], why: "run 36 (middle 1665,1560) of the second 04-16 run: a piece of the Twenty One / Twelfth boundary Celle to Muenster left by the box on its long run (crop 450,950), thin or heavy, no ticks, the red ticks fall on paper and railways"}
+  - {box: [1397, 1648, 1467, 1718], why: "run 37 (middle 1432,1683) of the second 04-16 run: a piece of the Twenty One / Twelfth boundary Celle to Muenster left by the box on its long run (crop 450,950), thin or heavy, no ticks, the red ticks fall on paper and railways"}
+  - {box: [3569, 766, 3639, 836], why: "run at 3604,801 (middle) of the third 04-16 run: the thin Twenty One / Twelfth boundary beside Celle (the piece between run 23's neighbours), heavy, no ticks (look)"}
+  - {box: [2717, 1053, 2787, 1123], why: "run at 2752,1088 (middle) of the third 04-16 run: the blue Steinhuder Meer's lake edge (look), not front"}
+  - {box: [2684, 1070, 2754, 1140], why: "run at 2719,1105 (middle) of the third 04-16 run: the same lake's edge (look), not front"}
+  - {box: [778, 2088, 848, 2158], why: "run at 813,2123 (middle) of the third 04-16 run: the heavy corps lettering (XIX / XVI) and boundary strokes at Recklinghausen/Wesel, no ticks (look)"}
+  - {box: [1649, 2355, 1719, 2425], why: "run at 1684,2390 (middle) of the third 04-16 run: the heavy black boundary stub east of Hagen at the Ruhr's lake, no ticks (look)"}
+  - {box: [617, 2350, 687, 2420], why: "run at 652,2385 (middle) of the third 04-16 run: the Fifteenth / Ninth boundary past Ruhrort, plain heavy, no ticks (look; same as 04-15 box at 582,2350)"}
+  - {box: [1369, 2351, 1439, 2421], why: "run at 1404,2386 (middle) of the third 04-16 run: the heavy boundary running east from Hagen along the Ruhr's north bank (look): the pocket's ticked ring ends at Hagen, this is the boundary beyond it"}
+  - {box: [941, 3520, 1011, 3590], why: "run at 976,3555 (middle) of the third 04-16 run: the Rhine/Ahr river's dark blue at Linz, no ticks (look)"}
+  - {box: [3218, 3597, 3288, 3667], why: "run at 3253,3632 (middle) of the third 04-16 run: the thin boundary line, plain, no ticks (look)"}
+  - {box: [2956, 3607, 3026, 3677], why: "run at 2991,3642 (middle) of the third 04-16 run: the same thin boundary at its elbow, no ticks (look)"}
+  - {box: [1046, 3697, 1116, 3767], why: "run at 1081,3732 (middle) of the third 04-16 run: the thin boundary at Neuwied beside the Rhine, no ticks (look)"}
+  - {box: [2792, 3743, 2862, 3813], why: "run at 2827,3778 (middle) of the third 04-16 run: the long boundary running SW, plain heavy, no ticks (look)"}
+  - {box: [2707, 3811, 2777, 3881], why: "run at 2742,3846 (middle) of the third 04-16 run: the same boundary, plain heavy (look)"}
+  - {box: [1244, 4035, 1314, 4105], why: "run at 1279,4070 (middle) of the third 04-16 run: the Third / Fifteenth boundary beside the Rhine's blue, vertical black, no ticks (look)"}
+  - {box: [1325, 4168, 1395, 4238], why: "run at 1360,4203 (middle) of the third 04-16 run: the Rhine's dark blue between grey roads, no front ink, no ticks (look)"}
+  - {box: [1561, 4306, 1631, 4376], why: "run at 1596,4341 (middle) of the third 04-16 run: the Rhine/Nahe's dark blue at Eltville, no ticks (look)"}
+  - {box: [1536, 4324, 1606, 4394], why: "run at 1571,4359 (middle) of the third 04-16 run: the same river's dark blue, no ticks (look)"}
+  - {box: [1836, 4459, 1906, 4529], why: "run at 1871,4494 (middle) of the third 04-16 run: the Twelfth / Sixth boundary on the Rhine at Oppenheim, plain heavy, no ticks (look)"}
+  - {box: [1624, 4640, 1694, 4710], why: "run at 1659,4675 (middle) of the third 04-16 run: the Twelfth / Sixth boundary west of Worms, plain heavy, no ticks (look)"}
+  - {box: [1846, 4752, 1916, 4822], why: "run at 1881,4787 (middle) of the third 04-16 run: the Rhine's blue at Worms, no ticks (look)"}
+  - {box: [1924, 4991, 1994, 5061], why: "run at 1959,5026 (middle) of the third 04-16 run: the Rhine's blue at Speyer, no ticks, the Seventh/First French boundary meets it (look)"}
+  - {box: [2443, 4030, 2513, 4100], why: "run at 2478,4065 (middle) of the fourth 04-16 run: the thin boundary Hanau to the Meiningen elbow, lower half: one 387-point line, plain, red ticks fall on railways (crop 2200,3200; the upper half is boxed)"}
+  - {box: [3563, 3593, 3633, 3663], why: "run at 3598,3628 (middle) of the fourth 04-16 run: the thin boundary's Meiningen end (the horizontal and the first of the diagonal toward Bayreuth), plain, no ticks (crop 2200,3200)"}
+  - {box: [4008, 3954, 4078, 4024], why: "run at 4043,3989 (middle) of the fourth 04-16 run: the thin boundary Meiningen to Bayreuth, the long diagonal (580 points), plain, red ticks fall on paper (crop 2200,3200)"}
+  - {box: [4347, 4207, 4417, 4277], why: "run at 4382,4242 (middle) of the fourth 04-16 run: the same Meiningen-Bayreuth boundary, a piece near Kulmbach (crop 2200,3200)"}
+  - {box: [4474, 4297, 4544, 4367], why: "run at 4509,4332 (middle) of the fourth 04-16 run: the same boundary, the piece before Bayreuth (crop 2200,3200)"}
+  - {box: [1120, 4697, 1190, 4767], why: "run at 1155,4732 (middle) of the fifth 04-16 run: the Twelfth / Sixth army group boundary from Bad Kreuznach west and south (one 663-point line), plain heavy then thin, no map ticks, red ticks fall on railways (crop 400,4300)"}
+  - {box: [805, 4979, 875, 5049], why: "run at 840,5014 (middle) of the fifth 04-16 run: the same boundary running south to Neunkirchen, plain, no ticks (crop 400,4300)"}
+  - {box: [609, 5264, 679, 5334], why: "run at 644,5299 (middle) of the fifth 04-16 run: the same boundary's end at Saarbruecken, plain, no ticks (crop 400,4300)"}
+flip: []
+checked: []
+# Reviewed: 25 of 26 towns on 15 April's side; 13E 51N own ("13E 51N          own (US)  by run 69 own at 5726,3078"; 15 Apr enemy): its ring sits about 15 px from the Zschopau line, ticked on its west with US symbols inside, a weak test. Pockets ringed and ticked outward on the whole-sheet overlay (regenerated and read by the reviewer): the Ruhr (cut at Hagen), the Harz, Köthen/Barby, Emmen; the Zeitz-Altenburg-Chemnitz salient closed and ticked west; the Elbe Salzwedel-Havelberg. 93 stretches, 1931 km; three unsure stubs where the Ruhr pocket's halves meet at Hagen. 28 empty boxes dropped; 36 added on boundary runs (Celle-Münster, Hanau-Bayreuth, Bad Kreuznach-Saarbrücken) and looked-at strays (lake edges, river blue, lettering); the ticked front at Celle stays traced.
