@@ -1,0 +1,25 @@
+# 12ag-1944-11-29: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21178
+date: 1944-11-29
+as_of: 1200 HRS 29 NOVEMBER 1944
+title: "Situation 1200 hrs 29 November 1944, Twelfth Army Group"
+read: the title on the sheet (SECRET underlined and struck through; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-30
+exclude:
+  - {box: [282, 382, 2382, 772], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 3 DECEMBER 1944, TWELFTH ARMY GROUP); seen on overlay crop 0,250 (2700x800): SECRET starts y ~446, GROUP ends y ~770, 1944 ends x ~2235 (y 600); y1 780 stops above the Walcheren, Beveland and Tholen arcs (highest y ~880, x 1550-2100) and x1 2350 stops west of the Hollandsch Diep arc (its west end x ~2370, y ~785); the arcs are blue and ticked on the map's south side"}
+  - {box: [62, 4642, 1162, 5562], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE), its sample of the front included, seen on overlay crop 0,4900: U.S. box top y ~4930, FRONT LINE sample and letters end y ~5535, lettering x 215-1025 (inside the box); without the box 33 unsure fragments at x 250-985, y 4955-5530"}
+  - {box: [2532, 1732, 3802, 1982], why: "the Twenty One/Twelfth army group boundary from Louvain to the front near Geilenkirchen, heavy, its ticks are the railways' (seen on the overlay crop 2500,1600)"}
+  - {box: [3512, 4872, 4132, 5292], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, no ticks (seen on overlay crop 3400,4000)"}
+  - {box: [4292, 4572, 4592, 4792], why: "the same boundary along the Marne-Rhine canal from x 4260 to Sarrebourg and north (4500,4600), no ticks; without it unsure at 4502,4617 (overlay crop 3500,4500)"}
+  - {box: [4516, 4458, 4656, 4574], why: "the Twelfth/Sixth army group boundary's last stretch to the front, a straight heavy diagonal from the Seventh box up to the 4 (armored) box, no ticks either side (--look 4520,4540 and 4640,4435); the blue part by the 4 box ends blunt against the ticked front at about 4700,4410"}
+  - {box: [4016, 4628, 4416, 4838], why: "the same boundary along the Marne-Rhine canal west of Sarrebourg, heavy, no ticks (unsure at 4194,4743; --look; overlay crop 3800,4500)"}
+  - {box: [2780, 880, 3320, 1620], why: "the First Canadian/Second British army boundary, heavy black with no ticks of the map's, from the Wilhelmina canal at about 3300,900 down to 2810,1590 (unsure fragments at 3144,1000, 2965,1244, 2924,1362, 2801,1537; overlay crop 2600,900); the front is 600 px east"}
+  - {box: [3400, 2000, 3560, 2110], why: "the Ninth/First army boundary's last stretch, a short heavy stub with no ticks (unsure at 3469,2051; overlay crop 2600,900)"}
+  - {box: [3250, 3640, 4000, 3760], why: "the First/Third army boundary's heavy end to the front, no ticks of the map's (unsure at 3299,3715, 3801,3700, 3925,3725; overlay crop 3600,3500); stops at x 4000, short of the front's own corner at about 4025,3650-3735"}
+flip: []
+checked:
+  - {at: [4508, 5485], why: "the front's short vertical near Gerardmer: the map's ticks hang west, the US side, the red ticks on them (--look 4508,5485; overlay crop 4250,5300)"}
+
+# Reader: towns matched to 11-30 (offset +16, +8 px): 75 of 81 agree, median 0.9 px, 6 placed through the transform (Colmar 28 px, Marche 10, Grevenbroich 5, Kleve 5, Bitburg 4, Landau 4). 11-30's eight boxes shifted +16,+8 and each tried alone (GeoJSON with and without): kept the seven that change it; dropped the Seventh/First French boundary box at Gerardmer (4316-4496, 5508-5558), which catches nothing. None of the seven cuts the front (each removes only the title, legend or boundary fragments; the removals marked ticked were the legend's sample, a railway-ticked boundary, and run 66 on the canal boundary). 11-30's three checked entries dropped: none of today's unsure fragments lies within 8 px of them (3219,507; 3946,3213; 4072,3658), so those stretches come out right alone. Three new boxes: First Canadian/Second British boundary, Ninth/First stub, First/Third boundary end (each looked at on overlay crops). One new checked at 4508,5485. Rhine north of Karlsruhe: nothing traces there, no box. No flips; Scheldt arcs ticked south as the map's.
+# Reviewed: 80 of 81 towns on 30 November's side. Strasbourg own ("Strasbourg       own (US)  by run 41 own at 5269,4698"; 30 Nov enemy, its ring off the line): right, but one run carries it, a weak test. Jülich, Haguenau, Kleve, Landau (one run of four own), Darmstadt enemy. 47 stretches, about 946 km (30 Nov about 887; not run down, the Rhine reach near Strasbourg traces differently), one continuous line from the Scheldt arcs (ticked south as the map's) to the sheet's south end, 0 unsure, no flips, one check at Gérardmer on the map's west ticks. Boxes re-tested one by one; three boundary boxes added (First Canadian/Second British, a Ninth/First stub, the First/Third boundary's end short of the front's corner).
