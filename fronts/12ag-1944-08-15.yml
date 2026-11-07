@@ -1,0 +1,23 @@
+# 12ag-1944-08-15: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21071
+date: 1944-08-15
+as_of: 1200 HRS 15 AUGUST 1944
+title: "SECRET (struck through) / Situation 1200 hrs 15 August 1944 / Twelfth Army Group; 1:500,000 sheet (B04)"
+read: the title on the sheet (bottom left on this base, read on the region 200,4100 2600x1000), 7 Nov 2026
+gcps_from: towns-B04.csv
+radius: 4    # copied from 08-14 (B04's ticked line is traced whole at 4)
+area: [500, 250, 3300, 3300]   # copied from 08-14: Normandy's front lies north-west of the towns' spread
+exclude:
+  - {box: [200, 4350, 2900, 4900], why: "the title block's lettering: SECRET (struck through), SITUATION 1200 HRS 15 AUGUST 1944, TWELFTH ARMY GROUP, bottom left"}
+  - {box: [5700, 4800, 6686, 5984], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample) bottom right"}
+  - {box: [1300, 1250, 1480, 1380], why: "the Twelfth/First army boundary (heavy black, boundary ovals, no ticks) at Pontfarcy-Landelles; the one unsure stretch at 1401,1322"}
+flip: []
+checked: []
+# Reviewed: 7 Nov 2026 (copied from 08-14: radius 4, the area box; title box [200,4350,2900,4900] and legend box [5700,4800,6686,5984] where they sit today).
+# No DESTROYED table or other frame traced, so no box for one. 27 of 28 towns agree (median 0.6 px; 1.5E 47.5N, 10 px off, placed through the transform).
+# Without the legend box 'U.S.'/'BRITISH' lettering made 18 false runs. One box for the Twelfth/First army boundary at Pontfarcy (heavy black,
+# boundary ovals, no ticks): it came out as the single unsure run at 1401,1322. 14 stretches, 0 unsure, no flip. Every stretch's red ticks looked at on
+# 1.3-2x crops and fall on the map's hatching, the Allied side. No ring is drawn round the Falaise pocket: the line is open between the Potigny hook
+# (about 2950,1350) and the Argentan line (about 3000,1790). The north end's heavy ticked stretch (2870,440 to 2965,590) is not traced (too heavy for radius 4).
+# Reviewed: the Falaise gap is open: the Canadians' hook at Potigny and the US line at Argentan and Ecouche, the enemy behind; none turned. Untraced: the heavy ticked stretch at the north end, about 2870,440 to 2965,590 (180 px, ticks west). The line is open between Domfront and the Mace line, as drawn.
