@@ -1,0 +1,35 @@
+# 12ag-1944-11-17: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21166
+date: 1944-11-17
+as_of: 1200 HRS 17 NOVEMBER 1944
+title: "Situation 1200 hrs 17 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-16
+exclude:
+  - {box: [372,240,2368,728], why: "title"}
+  - {box: [200,4864,1080,5600], why: "legend"}
+  - {box: [2208,1722,3664,2070], why: "the Twenty One/Twelfth army group boundary from its west end beyond Tirlemont (x 2230) to the front near Maastricht (heavy black, no map ticks)"}
+  - {box: [3968,4820,4088,4930], why: "the Twelfth/Sixth army group boundary near Dombasle, heavy black, no map ticks"}
+  - {box: [3240,810,3370,920], why: "First Canadian/Second British army boundary, heavy black, no map ticks (look: crop 2350,500)"}
+  - {box: [3000,1000,3130,1190], why: "First Canadian/Second British boundary, its next stretch, no ticks"}
+  - {box: [2840,1240,2950,1470], why: "First Canadian/Second British boundary, its last stretch, no ticks"}
+  - {box: [3680,1700,3770,1760], why: "army boundary's last stretch to the front at Geilenkirchen, heavy black, no ticks (crop 3450,1550)"}
+  - {box: [3150,3680,3330,3770], why: "First/Third army boundary, heavy black, no ticks (crop 3000,3550)"}
+  - {box: [3590,3640,3835,3705], why: "First/Third army boundary to the front, heavy black, no ticks"}
+  - {box: [3380,5060,3680,5230], why: "Twelfth/Sixth army group boundary SW of Dombasle, heavy black, no ticks (crop 3300,4950)"}
+flip: []
+checked:
+  - {at: [3836, 1908], why: "the front itself east of Aachen: heavy black joining two blue runs with the map's own ticks on its US (west) side; the tool found no ticks (crop 3700,1680 250x300). Not a boundary: box E (3800,1870,3870,1940) was dropped as it cut this stretch"}
+  - {at: [2552, 738], why: "a short piece of the Scheldt north-shore front between two ticked runs, map ticks on its US (south) side, red ticks match (crop 2350,500 1100x950)"}
+  - {at: [4206, 4583], why: "a short piece of the front's west edge near Nancy between two ticked runs, the map's ticks along its US (west) side (crop 4000,4450 400x300)"}
+
+# Reader: title agrees with the catalogue (1200 HRS 17 NOVEMBER 1944, no report number; SECRET underlined).
+# Reader: towns: --gcps-from 12ag-1944-11-16 accepted on the one run: offset +8,-40 px against 11-16, 78 of 81 agree, median 1.0 px, 3 placed through the transform (Saint-Dié 9 px, Metz 5, Marche 5). Fit over all 81: rms 0.9 km (leave-one-out 0.9, worst Beauvais 2.3 km).
+# Reader: boxes: 11-16's four boxes shifted +8,-40, each left out in turn. Title kept as 372,240,2368,728 (shifted y 728; without it 184 stretches, 76 unsure; it stays clear of the Scheldt north-shore run, which begins below y 728). Legend kept (without: 146, 48 unsure). Twenty One/Twelfth boundary kept (without: 115, 18 unsure). Dombasle box shifted gave 4890, which missed the boundary stretch (middle 3978,4893), so y1 4930 as on 11-16 (shifted it caught nothing: 109 stretches with or without; at 4930 it takes one unsure stretch).
+# Reader: new boxes A-H, each a heavy black line with no map ticks, each catching one stretch (leaving each out in turn adds one): First Canadian/Second British boundary (3 boxes, crop 2350,500), the army boundary's last stretch to the front at Geilenkirchen (D, crop 3450,1550), First/Third army boundary (F, G, crop 3000,3550), Twelfth/Sixth army group boundary SW of Dombasle (H, crop 3300,4950). A box E east of Aachen (3800,1870,3870,1940) was tried and DROPPED: it cut the front itself (heavy black joining two blue runs, map ticks on the US side), now in checked.
+# Reader: flip: none. The Scheldt hook reads right unflipped, red ticks on the map's own (crop 1350,750 800x300); Nijmegen island whole, ticks inside (crop 3050,150 650x750). Aachen-Geilenkirchen, Metz and the Vosges reaches read right, ticks on the US side. Small gaps in blue left: the front's black near 3750-3795,1705-1722 (about 50 px, where the boundary stub D meets it, boxed), and the Scheldt hook's third arc tail, as on 11-16.
+# Reader: front: 97 stretches (73 ticks, 21 line, 3 checked by eye, 0 unsure), about 830 km (own sum of the GeoJSON legs; 11-16 recomputed the same way: 787.5 km, 83 stretches); southmost 47.98N (La Bresse, the sheet's south edge for the line). Longer than 11-16 by about 42 km, the Operation Queen advance (Aachen-Geilenkirchen, Hurtgen) and the Vosges line running further; not checked stretch by stretch.
+# Reader: sides: 81 of 81 as on 11-16, no town changes side (11-16 GeoJSON backed up and byte-identical after its --sides run). Arnhem and Metz enemy; Nijmegen, Epinal and Ostend own; Saint-Dié enemy ("Saint-Dié        enemy     by run 91 enemy at 4470,5215"), on the line: a weak test. Ostend lists run 24 enemy at 1773,886 (the Walcheren/Beveland arc), outvoted three own.
+# Reviewed: overlay crop 3600,1600 looked at: the front is continuous east of Aachen with the ticks on the US side (the dropped box rightly; the checked stretch at 3836,1908 is front), and the break near Geilenkirchen (3750-3790,1705-1722) is about 1 km where an army boundary meets the front; it decides no town. The seven new boxes are heavy untick boundaries. 81 of 81 towns as 11-16; about 830 km (Operation Queen's first gains).
