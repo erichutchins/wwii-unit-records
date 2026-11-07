@@ -51,11 +51,11 @@
   to: 1944-08-21
   days: 9
   scan: 6700 x 6000
-  heading: not read
+  heading: "Projection Europe (Air) Conical Orthomorphic", 1:500,000 (read on 13 August 1944); the title is at the bottom left; the front traces at radius 4
   shows: Normandy's coast (Carentan, Bayeux, Caen) along the top, Le Mans and the Loire below; a 1:500,000 sheet by its grid
   towns: towns-B04.csv
   towns_on: 12ag-1944-08-13
-  towns_check: 9 half-degree graticule crossings read on gridded crops of 13 August 1944 (6 November 2026; the conic 0.52 km rms, 1.7 km at worst), seeded by the margins; as on B03 the kilometre grid confused the reading, and a third pass would tighten it if these days are wanted
+  towns_check: 9 half-degree graticule crossings read on gridded crops of 13 August 1944 (6 November 2026; the conic 0.52 km rms, 1.7 km at worst), seeded by the margins; as on B03 the kilometre grid confused the reading, and a third pass would tighten it if these days are wanted NOT GOOD ENOUGH IN THE NORTH (6 November 2026, the pilot): the crossings sit mostly on 47.5N, none at 49N west of 1E, and printed towns land 5-8 km off (Falaise about 200 px, Vire 145, Argentan 120); read crossings along 48.5N and 49N from 1W to 0.5E before tracing B04 days; the 1.5E crossings may include a kilometre-grid misread
 - base: B05
   from: 1944-08-22
   to: 1944-08-23
