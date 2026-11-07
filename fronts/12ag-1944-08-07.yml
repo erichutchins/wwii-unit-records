@@ -1,0 +1,18 @@
+# 12ag-1944-08-07: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21063
+date: 1944-08-07
+as_of: 1200 HRS 7 AUGUST 1944
+title: "Situation 1200 hrs 7 August 1944, Twelfth Army Group (SECRET struck through; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B02.csv
+radius: 2   # as 6 August (the thin ticked line whole at 2)
+area: [5813, 306, 6363, 906]   # 6 August's box moved with the sheet (+13, +6 px)
+exclude:
+  - {box: [1050, 440, 3350, 930], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 7 AUGUST 1944, TWELFTH ARMY GROUP), top left on this sheet (the title moved right and up since 6 August)"}
+  - {box: [2250, 4780, 3200, 5520], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE) bottom centre-left on this sheet, with its sample of the front line; a sample not a front"}
+  - {box: [5063, 946, 5163, 1046], why: "6 August's box moved with the sheet (+13, +6): the Twelfth/Twenty-One army group boundary from the XIX/V junction north toward St-Amand: heavy black, no ticks (looked at 4x at 5099,986 on the Normandy overlay); radius 2 reads it as a stretch"}
+  - {box: [5080, 1440, 5120, 1500], why: "the heavy vertical stub north of the junction at Vire ('29'): the Twelfth/Twenty-One army group boundary running up from the front, heavy black with no ticks (looked at 4x at 5097,1481, a short stub of 35 px); the front's own diagonal (5079,1517) and its eastward run (5136,1495) lie outside the box"}
+flip: []
+checked: []
+# Reviewed: traced from Acquancourt (east of Evrecy) by Villers-Bocage and Vire to south of Mortain, none turned. MISSING: the reach from Acquancourt north-east to the coast near Cabourg (about 6060,845 to 6200,400, 450 px) is printed grey 74-80, above the tool's fixed dark<70 threshold, so the mask never sees it (a tool limit: a per-sheet darkness setting would take it in). No front drawn round Mortain.
