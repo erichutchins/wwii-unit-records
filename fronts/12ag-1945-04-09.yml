@@ -7,6 +7,7 @@ report: "308"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 308, situation as of 091200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet, 7 Nov 2026
 gcps_from: 12ag-1945-04-08
+area: [470, 2320, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
 exclude:
   - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 9 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
   - {box: [4700, 80, 6400, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 308, SITUATION AS OF 091200 APR. 1945, signature and name), all letters; same place as 04-08 (--title 4700 80 1600 930)"}
@@ -30,3 +31,4 @@ flip: []
 checked: []
 # Dropped from 04-08: its Lingen boxes (760-1082 x 980-1140), the Twelfth/Sixth box 1000-1790 x 4640-4780 and the Saarbrucken box, which catch no run today.
 # Reviewed: 25 of 26 towns on 8 April's side; 8E 51N (near Olpe, now own) sits on the Ruhr pocket's eastern ring, a weak test.
+# Reviewed: `area: [470, 2320, 760, 2950]` now takes in the Ruhr pocket's west side along the Rhine (x 500-640, y 2340-2800 as noted, to Koln): 10 stretches added, front 1,967 -> 2,020 km (about 53 km); ticks on the map's ticks on the overlay crop 380,2250; no town changed side. Still missing: the Rhine north of Duisburg (off the area).

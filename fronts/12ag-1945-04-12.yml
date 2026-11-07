@@ -6,6 +6,7 @@ report: "311"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 311, situation as of 121200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
 gcps_from: 12ag-1945-04-11
+area: [470, 2320, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
 exclude:
   - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 11 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
   - {box: [4700, 80, 6400, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 310, SITUATION AS OF 111200 APR. 1945, signature and name), all letters; same place as 04-08 (--title 4700 80 1600 930)"}
@@ -43,3 +44,4 @@ exclude:
 flip: []
 checked: []
 # Reviewed: 23 of 26 towns on 11 April's side; 11E 51N and 11E 52N (own) are the advance to Erfurt and the Magdeburg pocket. 7E 53N (own) rests on one 59 px stub by the Polish symbol, a weak test. The heavy Lingen V (runs at 1179,901 and 1128,942) is front: 13 April's reader saw the map's own ticks on it at 5x, the boundary being the thin plain line beside it; 11 April's boxes on it were taken out.
+# Reviewed: `area: [470, 2320, 760, 2950]` now takes in the Ruhr pocket's west side along the Rhine (Duisburg to Koln): 7 stretches added, front 2,017 -> 2,074 km (about 57 km); ticks on the map's ticks on the overlay crop 380,2250; no town changed side. Still missing: the Rhine north of Duisburg (off the area).

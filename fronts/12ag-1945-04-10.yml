@@ -7,7 +7,9 @@ report: "309"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 309, situation as of 101200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
 read: the title on the sheet, 7 Nov 2026
 gcps_from: 12ag-1945-04-09
+area: [470, 2320, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine, Duisburg to Koln (west of the 7E crossings)
 exclude:
+  - {box: [470,2325,548,2410], why: "area-taken-in: the heavy black Ninth / Fifteenth army boundary's diagonal toward the Rhine at Duisburg, plain heavy line with no map ticks (magenta, unsure 487,2395); the front's stretches start right of x 555 outside the box"}
   - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 10 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
   - {box: [4700, 80, 6400, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 309, SITUATION AS OF 101200 APR. 1945, signature and name), all letters; same place as 04-08 (--title 4700 80 1600 930)"}
   - {box: [5640, 5000, 6520, 5660], why: "the legend at bottom right (U.S., BRITISH, ENEMY, FRONT LINE sample), lettering and hatching; same place as 04-08 (looked, crop 5000,4300: its symbols run 5650-6460 x 5010-5600)"}
@@ -39,3 +41,4 @@ checked:
   - {at: [3856, 3788], why: "the short arc at the tip of the Fulda-area hairpin by 67 (38 px), no ticks of its own; the ticks on its two sides run the way the chain runs, the red ones on the US side (looked, crop 3780,3740)"}
 # Dropped from 04-09 (catch no run today): 1990-2420 x 4120-4460, 1900-2020 x 5180-5250, 2840-2970 x 3615-3735, 1660-1790 x 4560-4680, 1990-2100 x 5200-5320, 900-1030 x 3480-3600. Kept (each catches a heavy unticked run): Auth, title, legend, the two Twenty One boxes, the Lahn box, Treysa, Saarbrucken, Remagen, N Koblenz, Ehrenbreitstein, Lahn mouth.
 # Reviewed: 23 of 26 towns on 9 April's side; 10E 52N, 10E 50N and 9E 49N (own) and the north-east crossings 20-30 km nearer the front are the advance toward the Elbe and to Heilbronn. Overlay looked at whole by the reviewer.
+# Reviewed: `area: [470, 2320, 760, 2950]` now takes in the Ruhr pocket's west side along the Rhine (Duisburg to Koln): 7 stretches added, front 2,087 -> 2,158 km (about 71 km); ticks on the map's ticks on the overlay crop 380,2250. The area also brought in the Ninth / Fifteenth boundary's diagonal (magenta, no ticks), boxed. No town changed side. Still missing: the Rhine north of Duisburg (off the area).
