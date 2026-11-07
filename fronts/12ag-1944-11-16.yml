@@ -1,0 +1,24 @@
+# 12ag-1944-11-16: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21165
+date: 1944-11-16
+as_of: 1200 HRS 16 NOVEMBER 1944
+title: "Situation 1200 hrs 16 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-15
+exclude:
+  - {box: [364,280,2360,768], why: "title"}
+  - {box: [192,4904,1072,5640], why: "legend"}
+  - {box: [2200,1762,3656,2110], why: "the Twenty One/Twelfth army group boundary from its west end beyond Tirlemont (x 2230) to the front near Maastricht (heavy black, no map ticks)"}
+  - {box: [3960,4860,4080,4930], why: "the Twelfth/Sixth army group boundary near Dombasle, heavy black, no map ticks"}
+flip: []
+checked: []
+
+# Reader: title agrees with the catalogue (1200 HRS 16 NOVEMBER 1944, no report number; SECRET underlined).
+# Reader: towns: --gcps-from 12ag-1944-11-15 accepted on the first run: offset -48,+0 px against 11-15, 40 of 81 agree, median 1.8 px, 41 placed through the transform (Metz 51 px, Saint-Dié 29, Bocholt 23, Grevenbroich 21, Jülich/Kleve/Bad Godesberg/Königswinter/Euskirchen 20, the rest 4-18 px). Fit over all 81: rms 0.8 km (leave-one-out 0.9, worst Beauvais 2.1 km).
+# Reader: boxes: 11-15's boxes shifted -48,0, each left out in turn (baseline 83 stretches, 0 unsure). Title (without: 154, 62 unsure) kept, ends y 768, clear of the Scheldt north-shore run. Legend (without: 125, 39 unsure) kept, y1 raised to 5640 as the sample's magenta end sat at 1004,5589. Twenty One/Twelfth boundary (without: 87, 1 unsure at 2474,2031) kept but widened west to x 2200 and down to y 2110, since today the boundary runs on beyond Tirlemont to x~2230. Twelfth/Sixth boundary near Dombasle (without: 1 unsure at 4022,4894) kept, moved to 3960,4860,4080,4930 (overlay crop 3700,4600 700x500). DROPPED: the Canal-end box (4032,4740,4182,4850) and the old Twelfth/Sixth box at 3542,5130: each catches nothing (83 stretches with or without).
+# Reader: flip: none. The Scheldt hook reads right unflipped, red ticks on the map's own (crop 1450,800 750x260). Not all of the third arc's black tail (about 2060-2150, 840-890) is traced: blue stops short of it, a gap of some 50 px, not a turn. Nijmegen island whole, ticks inside (crop 3050,150 650x750). Aachen-Geilenkirchen (crop 3600,1600) and Metz (crop 3600,3950) reaches read right, ticks on the US side.
+# Reader: front: 83 stretches (67 ticks, 16 line, 0 unsure), about 788 km (own sum of the GeoJSON legs); southmost point 47.99N (11-15: 47.95), so the Vosges end falls about 4 km short of 47.95.
+# Reader: sides: 81 of 81 as on 11-15, no town changes side (11-15's GeoJSON backed up and unchanged by its --sides run). Saint-Dié enemy ("Saint-Dié        enemy     by run 80 enemy at 4472,5273"), on the line: a weak test. Arnhem and Metz enemy; Nijmegen, Epinal and Ostend own.
+# Reviewed: whole-sheet overlay looked at: the front traces unbroken from the Scheldt round Nijmegen, down the Maas, past Aachen and Metz into the Vosges; the widened Twenty One/Twelfth box holds only the boundary (Brussels-Maastricht), which ends west of the front. 83 stretches against 41 at the same length (about 788 km): splits of one line. 81 of 81 towns as 11-15.
