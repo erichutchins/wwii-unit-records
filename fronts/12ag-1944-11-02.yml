@@ -1,0 +1,26 @@
+# 12ag-1944-11-02: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B09 (6 Sep - 3 Nov 1944). Excludes started from 12ag-1944-11-03 (the base's reviewed pilot) and moved by the
+# sheets' offset (+32, -16 px, from --gcps-from) where each sits today.
+item: ict21151
+date: 1944-11-02
+as_of: 1200 HRS 2 NOVEMBER 1944
+title: "Situation 1200 hrs 2 November 1944, Twelfth Army Group (SECRET struck through above; no report number)"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: 12ag-1944-11-03   # 52 of 81 towns agree (median 0.7 px), the other 29 placed through the transform
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why (seen on overlay crops of 6 Nov 2026)
+  - {box: [190, 190, 2470, 600], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 2 NOVEMBER 1944, TWELFTH ARMY GROUP), read on title.jpg (1600 px for 3974 px of scan, x2.48): lettering runs x 200-2455, y 200-583, so about where 11-03's stood; without the box 71 stretches of lettering are traced. The front's first reach (the Scheldt, x about 1780 up, y 840 and below) stands outside it"}
+  - {box: [212, 4944, 1082, 5644], why: "the legend, bottom left: 11-03's box moved by the sheets' offset; nothing of it is traced on this sheet either way (beyond the towns' spread), kept so the box stands where the legend does"}
+  - {box: [1882, 1604, 3082, 1884], why: "the Twenty One/Twelfth army group boundary, Tournai to Brussels (heavy, no ticks): 11-03's box moved +32,-16; nothing of it is traced on this sheet either way"}
+  - {box: [3932, 4724, 4042, 4784], why: "the Twelfth/Sixth army group boundary's south-west end near Neufchateau: 11-03's box moved +32,-16; nothing traced here either way"}
+  - {box: [4552, 4284, 4732, 4394], why: "the same boundary's last stretch north-east of Toul: 11-03's box moved +32,-16; nothing traced here either way"}
+  - {box: [5572, 3404, 5682, 3464], why: "a bit of the Westwall (Siegfried Line) outline, the wavy double line north of Zweibrucken: 11-03's box moved +32,-16 (it covers the outline's turn at about 5670,3450 on crop 5300,3250)"}
+  - {box: [6062, 3644, 6172, 3714], why: "a bit of the Westwall outline's end near Kandel: 11-03's box moved +32,-16 (covers the curl at about 6130,3690; without it that bit is traced as a stretch at 6112,3698; crop 5900,3550)"}
+  - {box: [5340, 3360, 5420, 3420], why: "a short stretch of the Westwall outline's heavy double line between Neunkirchen and Homburg (run 45 at 5379,3392, blue, ticks of the outline's hatching), found only on this sheet; not the front, which is at the Moselle (crop 5000,3250)"}
+  - {box: [5580, 3525, 5650, 3590], why: "the end of the Westwall outline's loop west of Waldfischbach (run 50 at 5614,3557, magenta, unsure), not the front (crop 5300,3250)"}
+  - {box: [6230, 3750, 6300, 3820], why: "the Westwall outline's northern end beside the Rhine near Karlsruhe (run 54 at 6260,3786, a blue stub on the outline's loop), not the front (crop 5900,3550)"}
+flip: []
+checked:
+  - {at: [4367, 2340], why: "the front by Prüm (Siegfried Line), a short heavy stretch between ticked reaches: map ticks on its west (US) side (look 4367,2340; crop 4150,2200), where the overlay's red ticks fall; --sides agrees (Prüm, Cochem enemy, Dinant, Marche own)"}
+# The overlay's red ticks on the Aachen-Roer front (crop 4100,1250) stand on the map's own ticks, on the west (US) side.
+# Reviewed: every town on the side it is on 3 November. Three Westwall-outline bits this sheet traces are boxed.

@@ -1,0 +1,32 @@
+# 12ag-1945-04-08: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated. Boxes start as 04-07's (B13), moved as looked at.
+item: ict21308
+date: 1945-04-08
+as_of: 081200 APR. 1945
+report: "307"
+title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 307, situation as of 081200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: 12ag-1945-04-07
+# Boxes: 04-07's 25, each looked at on today's overlay (run with no excludes: 122 runs, 57 not front). The sheet is the same
+# base printing, 24 px off 04-07's in x. The title/Auth/legend are lettered by hand, so moved a little; boundaries are heavy
+# black runs with no ticks, and a run is left out by its middle, so each box now stands on the middle of today's run. The
+# boxes of 04-07 whose boundary is thin black today (Ninth/First at Paderborn, First/Third round Kassel, Giessen, Frankfurt NE,
+# Fulda, Twelfth/Sixth south of Frankfurt to Neunkirchen) catch no run: today's trace draws no stretch there, so they are dropped.
+exclude:
+  - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 8 APRIL 1945), heavy lettering and frame; one unsure run at 1458,294 (the 'p' of Group); same place as 04-07; no front near (checked on the crop). The 1st CDN Army sector list below it is not front either"}
+  - {box: [4700, 80, 6400, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 307, SITUATION AS OF 081200 APR. 1945, signature and name); 04-07's box widened to x 6400 because today's '307' and '1945' run to x 6310; runs at 5008-5684 x 223-977 are all letters (crop 4900,0)"}
+  - {box: [5640, 5000, 6520, 5660], why: "the legend at bottom right (U.S., BRITISH, ENEMY boxes, FRONT LINE sample), lettering; runs at 5674-6036 x 5033-5633 are its letters and the Enemy box's hatching (crop 5400,4900); lowered to y 5660 to hold the F of FRONT LINE"}
+  - {box: [1680, 1320, 2060, 1560], why: "the TWENTY ONE / TWELFTH army group boundary, run 44, heavy black with no ticks, diagonal from the sheet's edge past Lengerich to the front at the Weser near Minden (2370,1293, outside the box); on 04-07 four boxes held it, today it is one run whose middle (1746,1491) falls here; looked at on the overlay (crop 1000,850): the plain heavy line, the red ticks of the front are all on the Lingen/Osnabruck front above it"}
+  - {box: [560, 1690, 1300, 2020], why: "the same boundary, its western run (52, 594-1028 x 1724-1986, middle 774,1799), heavy black no ticks, labelled TWENTY ONE"}
+  - {box: [760, 985, 1030, 1140], why: "the heavy black boundary running south-west from Lingen (run 34, middle 1028,1010; no ticks; the grey is a road); same as 04-07; the front's own stretches run north and south from the junction at about 1088,985, outside the box (crop 650,850)"}
+  - {box: [1035, 980, 1082, 1020], why: "the boundary's last piece into the junction at Lingen (run 35, middle 1074,1003, a short curl into the Lingen box); the front's stretches run outside it; the unsure run 1088,983 is the front's own link and is kept"}
+  - {box: [1230, 3760, 1850, 3930], why: "the FIRST / THIRD boundary where it follows the Lahn from Ehrenbreitstein to Runkel (runs 87 and 88, middles 1571,3829 and 1365,3881; heavy black, the blue is the river); no US front on the Lahn on 8 April"}
+  - {box: [1990, 4120, 2420, 4460], why: "the same boundary, a long diagonal run (85) from Frankfurt to near Fulda (1870-2907 x 3695-4522, middle 2384,4138), heavy line, no ticks; the front itself is some 400 px east of it at Fulda (the sheet's front from the Werra south to Meiningen)"}
+  - {box: [1000, 4640, 1790, 4780], why: "the TWELFTH / SIXTH army group boundary, run 93 (811-1778 x 4593-4885, middle 1261,4707), plain heavy line (the blue beside it is a stream)"}
+  - {box: [660, 5160, 900, 5330], why: "the same boundary toward Saarbrucken, run 94 (385-829 x 4902-5288, middle 725,5228), plain heavy line; there is no front on the Saar on 8 April"}
+  - {box: [1900, 5180, 2020, 5250], why: "the SEVENTH / FIRST FRENCH army boundary's stub on the Rhine at Speyer (run 98, 1907-1949 x 5214-5230, unsure 1936,5221)"}
+flip: []
+checked: []
+# Reviewed: every town on the side it was on 7 April. The front is longer (about 2,000 km against 1,660) where the
+# line moved: the Crailsheim salient (10E 49N 52 -> 15 km from the front), Hildesheim, Verden; and fewer, longer
+# stretches. 7 April's boundary boxes that catch no run today were dropped.
