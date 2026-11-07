@@ -1,0 +1,18 @@
+# 12ag-1944-07-22: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21047
+date: 1944-07-22
+as_of: 1200 HRS 22 JULY 1944
+title: "SECRET (struck through) / Situation 1200 hrs 22 July 1944, Twelfth Army Group (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [900, 330, 3700, 910], why: "the title block lettering, from 07-23's box"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend, bottom left, from 07-23's box"}
+  - {box: [1430, 2280, 1500, 2340], why: "the 91st Division symbol's stroke (magenta, no ticks, nothing to continue), not the front"}
+checked: []
+flip: []
+# Reviewed: a 1200 hrs sheet (as_of 1200 HRS 22 JULY 1944), agrees with the catalogue. Excludes copied from 12ag-1944-07-23 at the same places, re-tested at radius 3: without the title box 138 stretches (96 unsure), without the legend box 117 (62 unsure); both kept, neither cuts the front. Added one box (1430-1500, 2280-2340): the 91st Division symbol's stroke traced as a magenta unsure stretch at 1462,2310; with it 33 stretches, 0 unsure. Nothing turned or checked: every ticked stretch's red ticks looked at on 4x crops from the west coast (1325,2224) to the east end at the Orne mouth (3847,2186): all on the map's hatching, north and west (US and British side).
+# Reviewed: --sides: no town on the wrong side (0.5E-1E 49.5N-50N and everything south of 49N enemy/east of the Orne). 32 of 34 towns agreed with 07-23's rings (median 0.8 px); 1W 49.5N and 1.5W 48.5N placed through the transform.
+# Reviewed: gaps over 20 px (approximate, from the GeoJSON refitted to the towns, rms 1.5 px): 56 px (1325,2224 to 1378,2205: the west coast end, line runs to the shore), 25 px (1927,2382 to 1951,2374), 26 px (2058,2504 to 2084,2507), 22 px (2552,2623 to 2574,2624), 31 px (2338,2641 to 2369,2640), 26 px (2669,2685 to 2694,2691), 25 px (2860,2689 to 2835,2692), 37 px (2882,2608 to 2884,2645), 35 px (3639,2592 to 3674,2596), 24 px (3754,2579 to 3732,2589), 25 px (3785,2505 to 3779,2529), 21 px (3813,2303 to 3805,2322). Ends: west at the coast of the Baie du Derout (about 1325,2224); east at the Orne mouth (about 3847,2186), the line running up to the sea. About 128 km in 33 stretches.
