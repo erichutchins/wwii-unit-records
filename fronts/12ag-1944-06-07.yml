@@ -1,0 +1,94 @@
+# 12ag-1944-06-07: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21002
+date: 1944-06-07
+as_of: 2400 HRS 7 JUNE 1944
+title: "Situation - 2400 hrs 7 June 1944, HQ. FUSAG; 12 AG Outline Maps 1:500,000 (no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-06-06
+radius: 5
+dark: 115
+exclude:
+  - box: [3222, 2195, 3282, 2310]
+    why: "the I Corps boundary south from Courseulles, a plain heavy line without ticks, where it leaves the arc (the unsure stub at 3236,2252); the arc at the junction is above y 2160 (reviewer, scan crop 2820,1950)"
+  - box: [4400, 400, 5050, 650]
+    why: "the struck-through SECRET at the top right (about 4590-4830,500 on the scan)"
+  - box: [900, 250, 3600, 720]
+    why: "the title block's lettering (SITUATION - 2400 HRS. 7 JUNE 1944, HQ. FUSAG)"
+  - box: [1100, 3950, 2000, 4950]
+    why: "the legend (U.S., BRITISH, ENEMY keys; no FRONT LINE sample on this sheet)"
+  - box: [1850, 1150, 3150, 1450]
+    why: "the three heavy black bars in the Bay of the Seine (naval/air overprint, no ticks)"
+  - box: [1000, 1300, 2860, 3300]
+    why: "west of Omaha: unit boxes (709, 243, 245, 91, 30, 914-916, 919), the Ste-Mere-Eglise/airborne loop and its arrows, the corps boundary XXX to the SW, the dashed lines; looked at on --look crops (1800,2000; 1900,1950; 2160,1900; 2000,2020): plain black lines, no ticks. The ticked line starts east of x 2860"
+  - box: [2860, 2300, 3350, 3300]
+    why: "inland of Omaha-Gold: the 1st U.S./2nd BR army boundary (xxxx at 2850,2700, plain, looked at) and the corps boundary south of Courseulles, AIR RCN LINE lettering, 716 box; no ticks"
+  - box: [3000, 1000, 4400, 2000]
+    why: "attack arrows to the British beaches and the British/Canadian boxes (69, 50, 8, CDN, 185, 27, 9, BR); arrow shafts, no ticks, all north of the ticked line's arcs; ends at y 2000 so the ticked arc below it is not hit; the shafts that run down to the arc are boxed separately below"
+  - box: [4000, 1000, 5200, 2200]
+    why: "east of the Orne mouth: arrows, 9/BR boxes, ARMD TN"
+  - box: [3350, 2340, 5200, 3300]
+    why: "Caen curve, 21 Pz/125 Pz/12 Pz boxes, tank circles (50 TKS, 30 TKS) and arrows, 3 CDN/3 BR boundary; no ticks (looked at 3450,2480)"
+  - box: [2830, 1950, 2900, 2060]
+    why: "short stub at the foot of the 18 box (no ticks)"
+  - box: [2860, 2150, 3040, 2300]
+    why: "the plain black line down from the 18 box (boundary, no ticks) and the lower plain arc under the ticked Omaha arc at 2920-3050,2180-2250 (looked at: no ticks, raw crop 2920,2110)"
+  - box: [3480, 2260, 3560, 2420]
+    why: "the plain black curve from the Courseulles-Bernieres line down to Caen (no ticks; looked at 3400,2380)"
+  - box: [3600, 2240, 3660, 2300]
+    why: "tip of an attack arrow (Ouistreham), no ticks"
+  - box: [3660, 2150, 3760, 2260]
+    why: "arrow end and the Orne-mouth overprint (no ticks)"
+  - box: [3270, 2190, 3340, 2300]
+    why: "top of the corps boundary running south from the Courseulles junction (plain black, no ticks; looked at crop 2750,1950 overlay)"
+  - box: [3000, 2000, 3030, 2118]
+    why: "foot of the attack-arrow shaft at 3010 that meets the toothed Gold arc (no ticks)"
+  - box: [3080, 2000, 3135, 2160]
+    why: "attack arrow (shaft and head) at 3110 that touches the toothed Gold arc (no ticks)"
+  - box: [3255, 2000, 3330, 2112]
+    why: "foot of the arrow shafts at 3260-3285 and the arrow beside them above the Courseulles junction (no ticks)"
+  - box: [2875, 2100, 2905, 2190]
+    why: "the plain heavy line running south from the 18 box under the arc's start (no ticks); the toothed arc starts at y 2070-2085 above it"
+  - box: [3470, 2000, 3570, 2085]
+    why: "attack-arrow shafts at 3480-3550 north of Douvres (traced as strays 3499,2009 with side lumps; no ticks)"
+  - box: [3500, 2085, 3570, 2185]
+    why: "the heavy shaft curving down to the arc at Douvres from the north-east (looked at, crop 3540,2150: plain, no ticks)"
+  - box: [3570, 2000, 4000, 2150]
+    why: "the long diagonal arrow shafts to Sword and Ouistreham (3600-3800, 2000-2150) and their heads (strays 3787,2134; 3875,2108; 3985,2099; 3970,2055); the arc is below y 2190 here"
+  - box: [3490, 2212, 3530, 2262]
+    why: "the plain boundary running south from the arc at Douvres (no ticks; the box below it is the same line)"
+  - box: [3568, 2185, 3610, 2212]
+    why: "tip of an attack arrow beside Ouistreham (stray 3582,2208; no ticks)"
+  - box: [3425, 2030, 3500, 2160]
+    why: "the heads of two attack arrows north of Douvres (strays 3440,2045 and 3480,2130 at dark 115; no ticks); the arc is below y 2165 here"
+  - box: [3770, 2180, 3812, 2212]
+    why: "the foot of the arrow heads at the Orne mouth (stray 3783,2195, no ticks); the front's end is at 3650-3680,2310"
+  - box: [3860, 2140, 3905, 2185]
+    why: "the mark on top of the SS box east of the Orne (stray 3880,2161); a symbol"
+  - box: [2440, 3690, 2800, 3790]
+    why: "the lettering CON... on the sheet far south of the line (strays 2495,3719; 2538,3719; 2761,3721; at dark 115 one traced as a ticked stretch at 48.68N 1.00W)"
+  - box: [3598, 2318, 3635, 2352]
+    why: "the vertical edge of the 191 box under the arc's lowest bend (a stub of about 25 px at 3615,2320-2345, the ticks' look but below the arc, where no tooth hangs; looked at crop 3610,2330)"
+checked: []
+flip:
+  - at: [3002, 2133]
+    why: "the map's ticks hang on the south (inland, enemy) side of this beachhead arc, the Allied landings being to the north; --sides without the flip put the inland towns (1W 49N, 1.5W 49N and the south) on the US side. Turned so the ticked side reads enemy, the opposite of the July sheets"
+  - at: [3193, 2173]
+    why: "the map's ticks hang on the south (inland, enemy) side of this beachhead arc, the Allied landings being to the north; --sides without the flip put the inland towns (1W 49N, 1.5W 49N and the south) on the US side. Turned so the ticked side reads enemy, the opposite of the July sheets"
+  - at: [3376, 2160]
+    why: "the map's ticks hang on the south (inland, enemy) side of this beachhead arc, the Allied landings being to the north; --sides without the flip put the inland towns (1W 49N, 1.5W 49N and the south) on the US side. Turned so the ticked side reads enemy, the opposite of the July sheets"
+  - at: [3537, 2208]
+    why: "the map's ticks hang on the south (inland, enemy) side of this beachhead arc, the Allied landings being to the north; --sides without the flip put the inland towns (1W 49N, 1.5W 49N and the south) on the US side. Turned so the ticked side reads enemy, the opposite of the July sheets"
+  - at: [3572, 2269]
+    why: "the map's ticks hang on the south (inland, enemy) side of this beachhead arc, the Allied landings being to the north; --sides without the flip put the inland towns (1W 49N, 1.5W 49N and the south) on the US side. Turned so the ticked side reads enemy, the opposite of the July sheets"
+  - at: [3658, 2308]
+    why: "the map's ticks hang on the south (inland, enemy) side of this beachhead arc, the Allied landings being to the north; --sides without the flip put the inland towns (1W 49N, 1.5W 49N and the south) on the US side. Turned so the ticked side reads enemy, the opposite of the July sheets"
+
+# Reader: title SITUATION - 2400 HRS. 7 JUNE 1944 / HQ. FUSAG ("12 AG OUTLINE MAPS 1:500,000" at the top left margin), SECRET struck through at the top right; no report number. Agrees with the catalogue (ict21002, 1944-06-07). The brief's "6 June" wording was 6 June's; this sheet says 7 June.
+# Reader: towns: matched to 12ag-1944-06-06, offset -16,-16 px: 30 of 34 agree (median 1.1 px); four placed through the transform: 2W 50N (6 px off), 1.5W 50N (5), 1W 49.5N (44), 1.5W 48.5N (80).
+# Reader: legend: U.S., BRITISH, ENEMY keys, no FRONT LINE sample. The sheet DOES draw a ticked line, unlike 6 June: hand-drawn with short teeth, in three parts on the scan, from the 18 box at Omaha/Port-en-Bessin (about 2880,2085) east through Arromanches-Courseulles (the arcs at 2900-3250,2090-2250 and 3290-3750,2150-2250) to the Sword/Ouistreham end (about 3700,2310). Not drawn ticked: Utah and the airborne area (the loop round 82/101 at Ste-Mere-Eglise is a plain heavy line, looked at on four crops), and no ticked Orne bridgehead arc east of the Orne (the heavy marks there are arrows and boxes). Everything else heavy is plain overprint: attack arrows, the 1st U.S./2nd BR army and I Corps boundaries, the dashed lines, AIR RCN LINE, the tank circles.
+# Reader: re-read 7 Nov 2026 with the tool's dark key. Setting kept: radius 5, dark 115 (the line here is thin and pale). On the first boxes (arrow box to y 2150): r5 d70 (old) 25 km/7 stretches; r5 d85 24.3 km (7: 1 ticks, 1 unsure); r5 d100 28.1 (9, 3 unsure); r5 d115 30.4 (11); r4 d85 33.3 (13, 5 unsure); r4 d100 41.3 (22, 10 unsure); r4 d115 47.6 (26, 18 unsure: strays through the CON lettering, the legend and box marks). After the arrow box was cut to y 2000 with the shafts boxed singly: r4 d100 36.2 km, 21 stretches, the Gold arc's middle (3130-3290) still missing; r4 d115 41.5 (25, 18 unsure, strays); r4 d130 75.9 (37, junk); r5 d115 36.3 km before its strays were boxed, 28.0 km after. Radius 5 breaks the line least at dark 115; radius 4 breaks the arc in the middle at 100 and 115 both.
+# Reader: boxes (30, all on the scan): the first reading's 14 kept, the big arrow box [3000,1000,4400,...] cut to y 2000 (its lower part replaced by small boxes round single shafts: 3000-3030, 3080-3135, 3255-3330 above y 2112; 3470-3570, 3500-3570 down to 2185, 3570-4000 to y 2150, 3425-3500 the two arrow heads north of Douvres, 3568-3610 an arrow tip) so the toothed arc below is never cut; plus the plain line south from the 18 box (2875,2100-2190), the plain boundary south from the arc at Douvres (3490,2212-2262), the arrow feet and the SS-box mark at the Orne mouth (3770,2180; 3860,2140), the CON lettering far south (2440,3690-3790) and a 25 px stub of the 191 box under the arc's lowest bend (3598,2318-2352; the one box that might touch a tooth, it is below the arc: looked at on crop 3610,2330, say if wrong). The reviewer's I Corps box [3222,2195,3282,2310] kept.
+# Reader: result: 7 stretches, 6 of them the ticked arcs (flipped) and 1 unsure (the arc's western start, 2880,2084, a short piece without recognised teeth, left unflipped; its side reads right: north own, south enemy). 28.0 km from the GeoJSON, 0.72W to 0.285W. The overlay (crop 2820,1950 940x430) follows the drawn teeth from the 18 box to the Sword end except four short gaps of about 60-70 px each (about 2-3 km each, 8-10 km of the roughly 38 km line): the dip of the Gold arc at about 3075-3150,2190-2200; the junction at about 3220-3290,2130-2170 where the corps boundary meets the arc and the traced piece hooks; the Douvres bend at about 3465-3535,2190-2200 where the boundary runs south from the arc; and the last bend into the Sword end after 3650-3700,2300-2320 (the tool traced up to the end bend on both sides). The line is continuous on the map through all of them.
+# Reader: FLIPPED ALL SIX RUNS: the map's teeth hang on the south (inland) side of the arcs, and the Allied arrows come from the sea to the north, so unflipped --sides put every inland town on the US side. Reverse of the July sheets, where ticks fall on the Allied side. The flips are now at 3002,2133; 3193,2173; 3376,2160; 3537,2208; 3572,2269; 3658,2308. --sides now: 50N towns own; 49N and south enemy except 0.5E 49N and 1E 49N, which read own (by runs 5 and 6, the diagonal Douvres-Sword stretches, which they sit beside, not across; towns east of the Orne mouth have no line between them and the sea, and 49N there is south of the line, so this is the side test's geometry, not a flipped stretch; unresolved); 2W 49.5N reads enemy and 1.5W 49.5N, 1W 49.5N own (sea-side towns on the west end of an arc that does not run there; not evidence). The reviewer should still decide whether the ticks are the draughtsman's convention (toward the enemy).
+# Reviewed: the first sheet with a front: a hand-drawn toothed line from Port-en-Bessin round Gold, Juno and Sword to Ouistreham (no FRONT LINE sample; Utah, the airborne area and the Orne are not toothed). The teeth hang on the inland (enemy) side, the reverse of July (scan crop 2820,1950), so all six stretches are flipped rightly. Radius 5, dark 115. Overlay crop looked at: about 28 km of a line of about 38 traced; untraced, four bends of 2-3 km (the Gold dip, the Courseulles junction, the Douvres bend, the last bend at Sword). WRONG sides: 0.5E 49N and 1E 49N read own, east of the Orne mouth where no line separates them from the sea (an open-end artefact; both German-held).
