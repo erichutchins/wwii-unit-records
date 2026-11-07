@@ -1,0 +1,25 @@
+# 12ag-1944-08-31: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). B07.
+item: ict21087
+date: 1944-08-31
+as_of: 1200 HRS 31 AUGUST 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 31 AUGUST 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+# (30 August's boundary box at (4380,2230,4690,2430) is dropped: it sits in no part of the front today, and no heavy boundary is traced today; the thin army-group boundaries drawn today (Twenty One/Twelfth, First/Third, etc.) are thinner than the mask and are not found.)
+gcps_from: towns-B07.csv
+exclude:
+  - box: [280, 280, 2650, 1000]
+    why: the title block (SECRET struck through, SITUATION 1200 HRS 31 AUGUST 1944, TWELFTH ARMY GROUP), lettered over the Bay of the Seine at the sheet's top left (scan about x 300-2600, y 300-780 today); 30 August's box began at y 400 and is raised to y 280 to take in SECRET and its rule too. The front (Honfleur, scan y about 1300 and the Mailleraye bend, y about 1090 and below) lies clear of it.
+  - box: [350, 4750, 1400, 5900]
+    why: the legend at bottom left (U.S., BRITISH, ENEMY, FRONT LINE with its ticked sample), seen today at scan x 410-1230, y 4850-5490; 30 August's box covers it with room (unchanged).
+  - box: [4650, 5500, 5300, 5900]
+    why: the Division of Maps stamp's frame at the foot of the sheet (NOV 1 1944, scan about x 4800-5220, y 5640-5870; lettering and a ruled box, not front); 30 August's box stopped at y 5820 and is lengthened to take in the stamp's lower edge. Not found traced either way.
+area: [1600, 850, 6200, 2300]   # as 30 August; today's front lies wholly inside it (Honfleur scan x 1700 to Beauvais x 4200, y 990-1600)
+flip:
+  - at: [2886, 1238]
+    why: the Seine front's east side at Rouen (scan x 2850-2900, y 1200-1290), found with no ticks of its own (unsure); at 4x its red ticks lay on the west, the Seine side, while the map's ticks stand on the east, and the blue run just below it (x 2930, y 1330) has them east. Turned to match.
+checked:
+  - at: [3873, 1121]
+    why: the Beauvais re-entrant's west side (scan x 3860-3880, y 1050-1180), a heavy vertical with no ticks counted of its own; at 4x its red ticks lie on the west, over the map's ticks, as the blue runs above and below it. Found the right way.
+# Reviewed: the sheet draws the lower Seine line from Honfleur round the Rouen and Andelle bends, and a separate piece from Marseille-en-Beauvaisis by Gournay to the Beauvais re-entrant; nothing at Paris or the Aisne today. One stretch turned at Rouen (4x). UNDERCOUNT: about 150 km traced of perhaps 250; the line and its heavy ticks fuse, the skeleton breaks into pieces under the tool's 25 px minimum (the Elbeuf and Mailleraye bends, the north Andelle loop); no radius from 2 to 10 does better. A tool fault, not a reading.
