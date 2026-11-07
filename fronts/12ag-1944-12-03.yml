@@ -1,0 +1,26 @@
+# 12ag-1944-12-03: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21182
+date: 1944-12-03
+as_of: 1200 HRS 3 DECEMBER 1944
+title: "Situation 1200 hrs 3 December 1944, Twelfth Army Group"
+read: the title on the sheet (SECRET struck through; no report number), 7 Nov 2026
+gcps_from: towns-B11.csv
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [250, 390, 2350, 780], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 6 DECEMBER 1944, TWELFTH ARMY GROUP); seen on the overlay crop 0,250 (2600x800): SECRET's underline starts y 412, GROUP's letters end y 740 and 1944 ends x 2275 (y 570); without the box 31 unsure fragments at y 425-730; y1 780 stops above the Walcheren, Beveland and Tholen arcs (the highest, at x 2150-2210, is at y 800-850) and x1 2350 (6 Dec sheet sits further east: the last 4 of 1944 ends x ~2335, y 570-620) stops west of the Hollandsch Diep arc (its end at x ~2450, y 780)"}
+  - {box: [30, 4650, 1130, 5570], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE), its sample of the front included, seen on the overlay crop 0,4700; seen on overlay crop 0,4800: U.S. box top y 4895, FRONT LINE letters and sample end y 5510, lettering x 240-1045, but on 6 Dec the E of LINE ends x ~1115 (y 5455-5535), box x1 1130; without the box 9 unsure fragments"}
+  - {box: [2500, 1740, 3770, 1990], why: "the Twenty One/Twelfth army group boundary from Louvain to the front near Geilenkirchen, heavy, its ticks are the railways' (seen on the overlay crop 2500,1600)"}
+  - {box: [2900, 1000, 3500, 1400], why: "the First Canadian/Second British army boundary south of the Maas toward Turnhout, heavy, no ticks (looked at 3366,1093 3233,1260 2963,1324)"}
+  - {box: [3480, 4880, 4100, 5300], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, no ticks (seen on overlay crop 3400,4000)"}
+  - {box: [4260, 4580, 4560, 4800], why: "the same boundary along the Marne-Rhine canal from x 4260 to Sarrebourg and north (4500,4600), no ticks; without it unsure at 4502,4617 (overlay crop 3500,4500)"}
+  - {box: [4520, 4430, 4900, 4660], why: "the same boundary from Sarrebourg north-east toward the front near Sarreguemines, no ticks"}
+  - {box: [4540, 4990, 4800, 5300], why: "the Seventh/First French army boundary north-east of St. Die, no ticks"}
+  - {box: [5100, 4950, 5260, 5020], why: "the stub where that boundary meets the front on the Rhine, no ticks"}
+  - {box: [4650, 3960, 4780, 4050], why: "an enemy division's box (36) with its hatching in the Saar salient, not a line (looked at 4701,4007)"}
+  - {box: [5500, 4170, 5600, 4260], why: "an enemy division's box (245) beside the salient's hatching, not a line (looked at 5546,4217)"}
+  - {box: [4630, 4050, 4720, 4130], why: "a blob on the Westwall hatching under the enemy division 36 box, a stub not front (looked at 4672,4092); 12-13 has the box above at y 3960-4050"}
+  - {box: [3840, 4740, 4300, 5020], why: "the Twelfth/Sixth army group boundary (TWELFTH XXXXX SIXTH) from Dombasle north-east along the Marne-Rhine canal's south bank, heavy black, only the canal's and railways' small ticks, none of its own; came out magenta (unsure) at 4035,4827; looked at on overlay crop 3500,4500; sits west of 12-10's box on the canal"}
+  - {box: [3770, 1725, 3870, 1830], why: "the last stretch of the Twenty One/Twelfth army group boundary to the front, a heavy tapering wedge running north-east from x 3770 to y 1735 near the 43 box, no ticks (looked at 3790,1805 and 3840,1750; red ticks drawn on it were stubs); its west part is the box above (x to 3770); the front proper runs at y ~1700 there, clear of the box"}
+  - {box: [5980, 2270, 6120, 2320], why: "the top edge of an army symbol's box (xxxx marks, hatched CNC) at Giessen, a short heavy bar not front (seen on overlay crop 5600,1900; the stretch came out 'own' at 6047,2294 and decided Siegen, Marburg, Daaden)"}
+flip: []
+checked: []

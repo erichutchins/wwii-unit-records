@@ -1,0 +1,37 @@
+# 12ag-1944-08-23: B05, second and last day (1:750,000 sheet). Settings copied from 12ag-1944-08-22.yml.
+item: ict21079
+date: 1944-08-23
+as_of: 1200 HRS 23 AUGUST 1944
+report:                          # no G-3 report number on this sheet
+title: "SECRET (struck through) / SITUATION 1200 HRS 23 AUGUST 1944 / TWELFTH ARMY GROUP"   # lettered by hand at bottom left, as on 22 August
+read: the sheet's bottom left, 7 November 2026
+gcps_from: towns-B05.csv
+area: [100, 100, 5850, 1300]   # as 22 August: the coast and the north lie above the ticks' span
+radius: 3                      # as 22 August: the 5-7 px line with ticks as thick; see that day's note
+exclude:
+  - box: [100, 4650, 2700, 5300]
+    why: the title block, lettered by hand at bottom left (SECRET, SITUATION 1200 HRS 23 AUGUST 1944, TWELFTH ARMY GROUP); heavy lettering, no front here
+  - box: [4850, 5150, 5750, 5880]
+    why: the legend at bottom right; heavy symbols and lettering
+  - box: [4850, 6040, 5893, 6137]
+    why: the printed margin matter along the bottom edge (projection note, reproduction credit); no front
+  - box: [4400, 6040, 4850, 6137]
+    why: the printed margin matter along the bottom edge (left of the 22 August box), the neat line's heavy bottom border at x 4600-4730, outside the map, no front
+  - box: [4780, 1480, 5000, 1650]
+    why: the hatched enemy symbol "17" south-east of Paris (Corbeil/Melun); its box strokes passed for two short stretches (runs 29, 30), no front; the sheet draws no Seine front
+  - box: [2120, 320, 2230, 400]
+    why: the hatched enemy symbol at the Touques mouth (north of Pont-l'Eveque, the "11" box); a hatched box with its crossed arm and two bars, no line through it, passed for a short stretch (run 1)
+flip: []   # none. The 22 August flips were for a closed ring at Chambois; today's sheet draws no ring (the front is an S, a salient to Gace/L'Aigle), and the ticks at the old points (run 19, the Trun curl) agree with the red ticks
+checked:
+  - at: [2086, 450]
+    why: the short stretch at the Pont-l'Eveque bend (magenta, no ticks of its own); at 4x the map's ticks hang below (south) as on the stretches either side, the line runs east, enemy on the left
+  - at: [2270, 717]
+    why: run 12, the Touques line south of Lisieux; at 4x the map's ticks stand on the west side with the red ticks, the run goes south
+  - at: [2711, 1322]
+    why: the tip of the salient at Gace/L'Aigle (run 26); the line is continuous round the tip, the map's ticks stand inside (north on the upper arc, north again on the lower arc, which runs west), and the red tick agrees
+
+# Reviewed: the sheet draws the front as an S, from the Dives mouth (x ~1850) south by the Touques past Lisieux, then SSW
+# to St-Clair/Trun, east along the north arc to a salient tip at Gace/L'Aigle (2740, 1295), and back west along the south arc
+# toward Le Merlerault. No closed ring at Chambois, no Seine front. Ticks inside the salient (map and tool agree on every
+# stretch at 4x). Untraced: the first ~55 px at the Dives mouth, and ~100 px at the south end beyond (2390, 1376).
+# Reviewed: the Falaise pocket is closed on this sheet: the front runs from the Dives mouth by the Touques and Lisieux to Trun, then out to the salient tip at Gacé/L'Aigle and back toward Le Merlerault; map ticks and red ticks agree on every stretch at 4x, no flips (22 August's Chambois ring is gone). 27 stretches, 111.5 km traced, with gaps up to 128 px on the south arc; the chaining at the Pont-l'Évêque hook and the Lisieux loop is the reader's. All 16 towns are margin ticks far from the front, so the side test tests nothing here. Two enemy symbols (the 17 south-east of Paris, the 11 at the Touques mouth) and the neat line boxed.
