@@ -1,0 +1,33 @@
+# 12ag-1944-07-17: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21042
+date: 1944-07-17
+as_of: 1200 HRS 17 JULY 1944
+title: "Situation 1200 hrs 17 July 1944, Twelfth Army Group (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-18
+radius: 3
+exclude:
+  - {box: [900, 330, 3700, 910], why: "the title block lettering, from 07-18's box"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend, bottom left, from 07-18's box"}
+  - {box: [3240, 1930, 3310, 1990], why: "the XXX symbol's stroke on the Bay of the Seine, a run with no ticks (run 1, unsure)"}
+  - {box: [2850, 1990, 2920, 2130], why: "the First US/Second British army boundary's last stretch to the coast, heavy with no ticks (run 2, unsure)"}
+  - {box: [3570, 2000, 3650, 2090], why: "the II CDN/I corps boundary's stub at the coast, heavy with no ticks (run 3, unsure)"}
+  - {box: [2460, 2085, 2530, 2115], why: "a stroke inside the XXX First symbol's box (run 4, unsure)"}
+  - {box: [2220, 2410, 2270, 2450], why: "a stroke at the 39 symbol's box (run 18, unsure)"}
+  - {box: [3130, 2620, 3195, 2720], why: "strokes of the 277 symbol's box and below it, south of the front (runs 31 and the blue stub)"}
+  - {box: [3600, 2910, 3660, 2970], why: "a stroke on the 10SS symbol, far south of the front (run 32, unsure)"}
+  - {box: [2170, 2200, 2215, 2245], why: "a stroke inside the VIII corps symbol's box, behind the front"}
+  - {box: [3030, 2530, 3090, 2565], why: "a stroke inside the 276 symbol's box, south of the front"}
+  - {box: [3355, 2420, 3425, 2545], why: "the 43 arrow's shaft beside the CDN 2 box, south-west of the front"}
+  - {box: [1700, 2285, 1780, 2320], why: "a stroke inside the 265 symbol's box, 60 px south of the front (the front here runs at y 2240)"}
+  - {box: [1335, 2255, 1400, 2340], why: "a stroke inside the 243 symbol's box, south of the front's west end"}
+  - {box: [3870, 2280, 3930, 2330], why: "a stroke inside the 711 (ELMS) symbol's box, east of the front's east end (the east end runs at x 3800 to 3850)"}
+  - {box: [3885, 2465, 3940, 2505], why: "a stroke inside the 346 symbol's box, east of the front"}
+checked: []
+flip: []
+# Reader: title 1200 HRS 17 JULY 1944, no report number; agrees with the catalogue (ict21042). Towns matched to 12ag-1944-07-18's: 33 of 34 agreed (median 0.8 px), 1W 50N placed through the transform (61 px off).
+# Reader: boxes re-tested by tracing with and without each. Title box: without it 90 stretches (64 unsure); legend box: without it 96 (60 unsure); both kept. The 353 symbol's box from 07-18 catches nothing here (17 stretches with and without it), so it is dropped. Twelve new boxes over unticked strokes in unit symbols (XXX, 39, 277, 10SS, VIII, 276, 265, 243, 711 (ELMS), 346) and boundaries' last stretches (First US/Second Br, II CDN/I) and the 43 arrow's shaft; each re-tested, each removes one stretch. Without them 32 stretches, 7 unsure.
+# Reader: 17 stretches, about 135 km (from the GeoJSON), 0 unsure, 0 turned, 0 checked by hand, from the Passage de la Deroute coast (1347,2200) to the Orne mouth (3855,2172). Line north of Saint-Lo differs from 18 July: on 17 July it loops round the town (crop 2000,2380) where 18 July runs south of it. Gaps over 20 px (fitted pixels, a few px error): 21 px at 2014,2384; 32 px at 2187,2526; 35 px at 2994,2519; 23 px at 3091,2499; 27 px at 3683,2381.
+# Reader: --sides: 34 towns agree with 07-18's, town by town; none on the wrong side. Eleven own (US/British), 23 enemy. Towns in the sea off the Orne end (0.5E 50N, 1E 50N) read either way: 1E 50N reads own on two runs against enemy on two, as on 18 July.
+# Reviewed: all 34 towns on 18 July's side. 17 stretches, about 135 km, Passage de la Déroute to the Orne mouth, hatching and red ticks north and west; no turns. Saint-Lô not yet taken: the line loops round the town here (crop 2000,2380). Title and legend boxes kept; the 353 box caught nothing and is dropped; 14 boxes added over symbol strokes, two coast boundary stubs and an arrow shaft, each re-tested (each removes one stretch). Largest gap 35 px under the 5 symbol.

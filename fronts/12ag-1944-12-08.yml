@@ -15,7 +15,6 @@ exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front,
   - {box: [4260, 4580, 4560, 4800], why: "the same boundary along the Marne-Rhine canal from x 4260 to Sarrebourg and north (4500,4600), no ticks; without it unsure at 4502,4617 (overlay crop 3500,4500)"}
   - {box: [4520, 4430, 4900, 4660], why: "narrowed on review (7 Nov 2026): the old box [4520,4280,4830,4660] swallowed ticked front on the Saar east of Saarlautern; the same boundary from Sarrebourg north-east toward the front near Sarreguemines, no ticks"}
   - {box: [4540, 4990, 4800, 5300], why: "the Seventh/First French army boundary north-east of St. Die, no ticks"}
-  - {box: [5100, 4950, 5260, 5020], why: "the stub where that boundary meets the front on the Rhine, no ticks"}
   - {box: [4650, 3960, 4780, 4050], why: "an enemy division's box (36) with its hatching in the Saar salient, not a line (looked at 4701,4007)"}
   - {box: [5500, 4170, 5600, 4260], why: "an enemy division's box (245) beside the salient's hatching, not a line (looked at 5546,4217)"}
   - {box: [4630, 4050, 4720, 4130], why: "a blob on the Westwall hatching under the enemy division 36 box, a stub not front (looked at 4672,4092); 12-13 has the box above at y 3960-4050"}
@@ -26,3 +25,4 @@ checked: []
 # Reviewed: 81 of 81 towns on 12-09's side. Excludes copied from 12-09 and checked on the overlay: the title box (y 390-780, x 250-2290) holds the lettering (SECRET top y ~430, GROUP ends y ~755, 1944 ends x ~2240) and stops above the Walcheren/Beveland/Tholen arcs (y 815-870) and west of the Hollandsch Diep arc; the legend box moved to [30, 4650, 1070, 5540]; the three heavy boundaries boxes (Twenty One/Twelfth, Twelfth/Sixth along canal, Seventh/First French) each needed (without them unsure fragments); the Canadian/British box and the enemy-division boxes (36, 245, blob) changed nothing today, kept from 12-09 as heavy ink with no ticks there.
 # Reviewed: the Scheldt arcs (Walcheren, Beveland, Tholen, Krammer) have red ticks hanging south on the map's own south-hanging ticks; no flip.
 # Reviewed: 81 of 81 towns on 9 December's side; the legend box moved; one short unsure stretch on the Rhine (5227,5303) decides no town wrongly.
+# Reviewed later (from 3 December): the box [5100,4950,5260,5020] caught nothing on this sheet and is removed (trace unchanged).

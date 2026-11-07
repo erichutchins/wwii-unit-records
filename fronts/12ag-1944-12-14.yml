@@ -15,9 +15,9 @@ exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front,
   - {box: [4060, 4600, 4560, 4830], why: "the same boundary along the Marne-Rhine canal to Sarrebourg, no ticks"}
   - {box: [4520, 4430, 4900, 4660], why: "narrowed on review (7 Nov 2026): the old box [4520,4280,4830,4660] swallowed ticked front on the Saar east of Saarlautern; the same boundary from Sarrebourg north-east toward the front near Sarreguemines, no ticks"}
   - {box: [4540, 4990, 4800, 5300], why: "the Seventh/First French army boundary north-east of St. Die, no ticks"}
-  - {box: [5100, 4950, 5260, 5020], why: "the stub where that boundary meets the front on the Rhine, no ticks"}
   - {box: [4650, 3960, 4780, 4050], why: "an enemy division's box (36) with its hatching in the Saar salient, not a line (looked at 4701,4007)"}
   - {box: [5500, 4170, 5600, 4260], why: "an enemy division's box (245) beside the salient's hatching, not a line (looked at 5546,4217)"}
 flip: []
 checked: []   # none needed: no stretch came out unsure on 14 December
 # Reviewed: 81 of 81 towns on 15 December's side; the legend box lowered to take in FRONT LINE.
+# Reviewed later (from 3 December): the box [5100,4950,5260,5020] ("the stub where that boundary meets the front on the Rhine") cut the ticked Rhine front south of Strasbourg here; removed, the front traces whole (one more stretch), no town changes side.

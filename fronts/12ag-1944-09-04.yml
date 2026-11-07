@@ -1,0 +1,20 @@
+# 12ag-1944-09-04: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21091
+date: 1944-09-04
+as_of: 1200 HRS 4 SEPT. 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS. 4 SEPT. 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: 12ag-1944-09-03
+radius: 3   # as on B08's pilot day (12ag-1944-09-02) and 09-03
+area: [3500, 0, 6653, 900]   # adds the ticked front from Lille north-east to Brussels, above the towns' top margin tick (y 848)
+exclude:
+  - {box: [0, 0, 2700, 1000], why: "the title block: SECRET (struck through), SITUATION 1200 HRS. 4 SEPT. 1944, TWELFTH ARMY GROUP (lettering, heavy); same box as 09-03"}
+  - {box: [950, 4900, 1850, 5600], why: "the legend: U.S., BRITISH, ENEMY, FRONT LINE lettering and the sample front line with its ticks; lower and wider on this sheet than 09-03's box (700,4440,1700,5090), which would miss its lower half; looked at on an overlay crop"}
+flip:
+  - {at: [3004, 1215], why: "St Pol/Tincq stretch (run 27?, no tick count): the map's ticks stand on the east, inside the salient round the British 53 Div's box; the tool's red ticks fell on the west, the enemy side; looked at on a 3x crop of the overlay"}
+  - {at: [3088, 1483], why: "Doullens stretch (run 35?, no tick count): the map's ticks stand on the east (Allied) side; the tool's red tick fell on the west; looked at on a 3x crop of the overlay"}
+checked: []
+# Reader: unlike 3 Sept, the sheet draws one long ticked front, ticks on the Allied side, about 287 km: the Somme (Le Crotoy, Abbeville) and its fingers round Doullens and Auxi-le-Chateau, St Pol, Bethune, round Lille and north-east to Brussels (ends at the Twenty One/Twelfth boundary, x 5390, y 300), and a short ticked stub east of Le Havre (Montivilliers/Harfleur, ticks to the east, facing the German 711 and 346 boxes). The 3 Sept estuary line is not drawn. No front is drawn elsewhere (Paris to the Meuse, Belgium east of Brussels, the Meuse): every other heavy black line is an unticked boundary and is not traced (the radius-3 trace finds none of them). `area` takes in the Lille-Brussels reach above the towns' top margin tick (y 848), which the towns' spread cut off. The legend stands lower and wider than on 3 Sept, so its box is moved. Two unsure stretches had the map's ticks on the other side from the tool's red ticks (3 times-enlarged overlay crops) and are flipped; the other three unsure (Bethune corner, the Auxi finger, Abbeville) were looked at and the tool had them right.
+# Reviewed: unlike 3 September the sheet draws a long ticked front: the Somme and the Auxi and Doullens fingers, St Pol, Béthune, round Lille to Brussels, all ticked on the Allied side, and a short stub facing Le Havre (ticks east); the estuary line of 3 September is gone. No front drawn from Paris to the Meuse or east of Brussels. 46 stretches, about 287 km; area widened north to take in Lille-Brussels (past the margin ticks' spread). Two stretches flipped on 3x crops (St Pol/Tincq, Doullens: the map's ticks inside, round 53 Div); three left unsure (Béthune corner, Auxi finger, Abbeville). Legend box moved to this sheet's legend. 12 of 13 margin ticks agree; 0E reads enemy off the Le Havre stub's open end: an artefact, not a wrong stretch.
