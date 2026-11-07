@@ -1,0 +1,22 @@
+# 12ag-1944-08-11: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21067
+date: 1944-08-11
+as_of: 1200 HRS 11 AUGUST 1944
+title: "SECRET (struck through) / Situation 1200 hrs 11 August 1944, Twelfth Army Group; 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B03.csv
+radius: 3   # B03 is a 1:500,000 sheet: at 4 the heavy ticked stretch north of Argences (about 5420,480 to 5470,900, the Dives/Orne flank) is lost; at 3 the ticked line is whole (18 stretches); at 2 the Third/First and XXXX boundaries (about 3700-4300,1400-3000) and the DESTROYED table's lettering come in as magenta stretches
+area: [0, 0, 6686, 5984]   # whole scan
+exclude:
+  - {box: [150, 600, 2500, 1150], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 11 AUGUST 1944, TWELFTH ARMY GROUP), top left; at radius 3 the letters trace as magenta stretches"}
+  - {box: [250, 4850, 1160, 5520], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE with its sample of the ticked line), bottom left; the sample is a sample, not a front"}
+  - {box: [6200, 5600, 6686, 5984], why: "the library's stamp and the sheet's catalogue lettering (G5701s, S 7, Var, A4), bottom right"}
+# Not boxed, and why (looked at the whole-sheet overlay at radius 3, and at 2 where they appear):
+#  - the tables (DESTROYED about 2500-3100,4690-5170; UNLOCATED about 2500-3100,5300-5620): not traced at radius 3, so nothing to leave out.
+#  - the heavy boundaries with no ticks (army group Twelfth/Twenty One, Third/First, XXXX line, corps lines, coast road): not traced at radius 3; at radius 2 they trace as magenta stretches.
+#  - the coastline: blue-grey and light, not traced.
+#  - no pocket ring is drawn on this sheet: St-Malo (319 (ELMS), 168 TNG) has only its enemy boxes, no line (looked at 4x, 1900,1850); Lorient/St-Nazaire/Brest lie off the sheet or draw nothing (looked at 0,4300 4x). The front ends in the north at about 5420,480 inland of the Orne flank (no coast stretch drawn), and in the south at Domfront (about 4470,2290).
+flip: []
+checked: []
+# Reviewed: the area over the whole scan extrapolates the fit north of the crossings, but the front lands right: its north end at -0.15,49.22 (Troarn, east of Caen), its south end at -0.74,48.57 (Domfront), its west point at -0.95,48.71 (Mortain). Radius 3 is needed for the Dives flank. No pocket is drawn at St-Malo; the line is open at both ends, so towns past Domfront mean nothing in the side test.

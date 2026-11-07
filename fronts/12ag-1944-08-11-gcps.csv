@@ -1,0 +1,11 @@
+town,x,y,read,lat,lon,source,query
+2.5W 49N,1354,1280,matched to towns-B03.csv's ring,49,-2.5,loc-12ag/ict21067,
+1W 49N,3946,1151,matched to towns-B03.csv's ring,49,-1,loc-12ag/ict21067,
+1W 48.5N,4019,2521,matched to towns-B03.csv's ring,48.5,-1,loc-12ag/ict21067,
+0E 48N,5869,3754,matched to towns-B03.csv's ring,48,0,loc-12ag/ict21067,
+2.5W 47.5N,1451,5330,matched to towns-B03.csv's ring,47.5,-2.5,loc-12ag/ict21067,
+2W 47.5N,2337,5283,matched to towns-B03.csv's ring,47.5,-2,loc-12ag/ict21067,
+1.5W 47.5N,3219,5238,matched to towns-B03.csv's ring,47.5,-1.5,loc-12ag/ict21067,
+1W 47.5N,4127,5190,matched to towns-B03.csv's ring,47.5,-1,loc-12ag/ict21067,
+0.5W 47.5N,5016,5140,matched to towns-B03.csv's ring,47.5,-0.5,loc-12ag/ict21067,
+0E 47.5N,5902,5090,matched to towns-B03.csv's ring,47.5,0,loc-12ag/ict21067,
