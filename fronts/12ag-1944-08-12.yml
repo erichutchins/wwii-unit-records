@@ -1,0 +1,33 @@
+# 12ag-1944-08-12: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21068
+date: 1944-08-12
+as_of: 1200 HRS 12 AUGUST 1944
+title: "SECRET (struck through) / Situation 1200 hrs 12 August 1944, Twelfth Army Group; 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B03.csv   # four of the ten crossings (2.5W 49N, 1W 49N, 1W 48.5N, 0E 48N) match 280-870 px off and are placed through the transform; see the review note
+radius: 4   # B03 is a 1:500,000 sheet. At 4 (dark 70, the default) the ticked line is whole: 12 stretches, 0 unsure, 154 km, with the title, legend and stamp boxes only. At 3 it breaks into 28 pieces (129 km, 4 of them chains of broken stretches); at 4 with dark 85/100/115 it gains strays (13/21/78 stretches, 1/1/50 unsure); at 3 with dark 85/100/115, 38/59/123 stretches, 12/30/93 unsure, 130/177/346 km. No dark: needed.
+area: [0, 0, 6686, 5984]   # whole scan
+exclude:
+  - {box: [150, 600, 2500, 1150], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 12 AUGUST 1944, TWELFTH ARMY GROUP), top left; at radius 3 the letters trace as magenta stretches"}
+  - {box: [250, 4850, 1160, 5640], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE with its sample of the ticked line), bottom left (today the lettering of FRONT LINE runs to y 5600, past the 11th's box); the sample is a sample, not a front"}
+  - {box: [6200, 5600, 6686, 5984], why: "the library's stamp and the sheet's catalogue lettering (G5701s, S 7, Var, A4), bottom right"}
+# Reader: 7 Nov 2026, the trace finished at radius 4, dark 70 (default), three boxes (title, legend, stamp), no waypoints.
+# Reader: the line is one ticked front, open at both ends: from about 5440,455 (inland of the Dives/Orne flank, north of Colombelles) south by
+#  Argences, round the Potigny dent, west by Thury-Harcourt, round the 43/50 salient and south-west by Vire and Sourdeval to Mortain, ending at
+#  Domfront (about 4470,2290). 12 stretches, all by ticks, 0 unsure, 154 km. Nothing of the drawn ticked line is left untraced: the blue stops a few
+#  pixels short of the ink's last blob at each end. Looked at the whole sheet and 2x crops of the Dives flank, the Potigny dent and Mortain-Barenton:
+#  the overlay lies on the heavy ink, and the red ticks fall on the map's own ticks, on the west and north (Allied) side everywhere. No flip, no check.
+# Reader: Not boxed, and why (looked at the whole-sheet overlay at radius 4): the tables (DESTROYED about 2500-3100,4690-5170; UNLOCATED about
+#  2500-3100,5300-5620), the heavy boundaries with no ticks (army group Twelfth/Twenty One, Third/First, XXXX line, corps lines, coast road), the symbols'
+#  blackened boxes (an SS division at about 5212,1918, a corps at 5922,1991) and the coastline are not traced at radius 4. The five boxes the radius-3 reading
+#  carried for them were taken out after a run without them gave the same 12 stretches. Without the three left, radius 4 traces 97 stretches (the title's
+#  letters, the legend's lettering and the stamp).
+# Reader: no pocket ring is drawn on this sheet: St-Malo (319 (ELMS), 168 TNG) has only its enemy boxes, no line; Lorient/St-Nazaire/Brest lie off the sheet or
+#  draw nothing. The sheet draws no ring round Falaise/Argentan.
+# Reader: the side test (--sides) has only the ten crossings, all at or south of the line's open south end (Domfront, 0.74W 48.57N), so it says nothing about
+#  the line's sides: the five towns north of 48N read US only because they lie west of the line's south end; the five on the 47.5N row mix by their distance.
+#  The sides were read from the ticks on crops instead.
+flip: []
+checked: []
+# Reviewed (7 Nov 2026): held earlier (at radius 3 the line came out in 28 pieces, 129 km); re-read at radius 4, default cutoff: 12 stretches, all by ticks, none unsure, about 154 km. Whole-sheet overlay looked at: the whole drawn ticked line, from inland of the Dives/Orne flank north of Colombelles, south by Argences round the Potigny dent, west by Thury-Harcourt and round the 43/50 salient, by Vire and Sourdeval to Mortain and its end at Domfront (the sheet draws no line beyond it); ticks on the Allied side. The towns' sides as 08-11 (all near or past the line's open south end, so weak). check_fronts 08-09 to 08-14 flags nothing on this day.
