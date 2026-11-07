@@ -1,0 +1,29 @@
+# 12ag-1944-07-05: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21030
+date: 1944-07-05
+as_of: 2400 HRS 5 JULY 1944
+title: "Situation 2400 hrs 5 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-06
+radius: 4
+exclude:
+  - box: [4500, 200, 5500, 520]
+    why: "the struck-through SECRET at the top right (two unsure stretches at about 4540-4590,473 at radius 5)"
+  - box: [1550, 3950, 2450, 4700]
+    why: "the legend, as on 6 July: its U.S., BRITISH and ENEMY keys and lettering (unsure stretches at about 1700-1880,4130-4300, and a short one on the ENEMY key at 1720,4470) and the FRONT LINE sample (1610-1780,4590)"
+  - box: [1000, 300, 3400, 950]
+    why: "the title block's lettering (SITUATION 2400 HRS 5 JULY 1944, HQ FUSAG, COPY No.), one unsure stretch at 2082,447 at radius 4, more at radius 3"
+  - box: [2900, 3800, 4300, 4500]
+    why: "the table of units believed to be on the way to the battle area (one unsure stretch at 3030,3987 at radius 4)"
+checked: []
+flip: []
+
+# Reader: title SITUATION 2400 HRS 5 JULY 1944, HQ FUSAG on the line below, COPY No. blank, no report number. Agrees with the catalogue's day (ict21030).
+# Reader: towns matched to 12ag-1944-07-06's (base B01): 27 of 34 agreed (median 0.9 px, sheet offset +0, +16 px); seven placed through the transform: 2W 50N (4 px off), 1.5W 50N (12), 1W 50N (20), 0.5W 50N (29), 0.5W 49N (14), 1.5W 48.5N (11), 0.5W 48.5N (12).
+# Reader: radius. The heavy line here is fatter than on 6 July: radius 5 traces only its thinner stretches (16 stretches, 93 km, 0 unsure, the thick black reaches west of Saint-Lo and round Caen missing; with only the SECRET and legend boxes, 17 stretches before the last box). Radius 4 with the four boxes: 19 stretches (17 ticks, 2 line, 0 unsure), 135.9 km, the line continuous from the Passage de la Deroute coast to the Orne mouth. Radius 4 with no boxes: 28 stretches (19 ticks, 3 line, 6 unsure), 148.5 km. Radius 3: 103 stretches (31 ticks, 5 line, 67 unsure: title, table, legend), 322 km. Radius 6: 4 stretches, 37 km; 7: 5, 16 km; 8: 0. Radius 4 kept.
+# Reader: boxes. SECRET [4500,200,5500,520] and the legend [1550,3950,2450,4700] are 6 July's, placed where they sit today (SECRET at about 4540-4800,475; the legend's keys and FRONT LINE sample at about 1610-1780,4130-4610, same place as 6 July). Added, at radius 4: the title block's lettering [1000,300,3400,950] and the table of units on the way to the battle area [2900,3800,4300,4500]. Each re-tested at radius 4 by taking it out alone: without SECRET 24 stretches, 147.2 km, 1 unsure; without legend 36, 161.0 km, 10 unsure; without title 20, 138.4 km, 1 unsure at 2082,447; without table 21, 137.7 km, 1 unsure at 3030,3987. With all four: 19, 135.9 km, 0 unsure. None touches a ticked front stretch (front at y 2100-2750).
+# Reader: no stretch flipped, checked or left out by hand: 17 of 17 ticks agree, 2 turned by line. Crops 1000,1900 (west end from the coast at about 1300,2190 across the Vire) and 2300,2000 / 2000,2400 (Caen, the Orne mouth at about 3810,2190, and the south bow): the red ticks fall on the map's own ticks, on the north and west side. The west end differs little from 6 July in shape (the line's tip is the coast at 1.62W 49.30N, against 1.67W on 6 July): the line round La Haye-du-Puits is already drawn.
+# Reader: --sides on 07-06 (its GeoJSON backed up before, byte for byte unchanged after) and today, diffed town by town: 34 of 34 the same side, no town changes. 0.5E and 1E 49.5N enemy, right. 0E, 0.5E and 1E 50N own (US) on both days, beyond the open end (Orne mouth), so either way.
+# Reader: length 135.9 km from the GeoJSON (6 July: 150.0 by the same count), shorter on 5 July as drawn; 19 runs. Gaps over 20 px (23.5 px/km) between a run's end and any other run: 7 end (0.3543W 49.2272N) to 11 start (0.3799W 49.2246N) 44 px, about 3540,2350 under the 21 box (the same break as 6 July); 14 end to 16 start (0.5332W 49.1126N) 45 px; 18 end to 15 start (0.8835W 49.093N) 41 px; 17 end to 19 start (0.7658W 49.0911N) 37 px; the three on the south bow in the overlay read as one continuous line there. The two ends: west tip 1.6202W 49.2991N (coast), Orne-mouth end 0.2168W 49.2731N.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 5 July. Traced at radius 4 (at 5 the heavy reaches west of Saint-Lô, the Caen arc and the Vire drop out, 93 km; at 3, lettering): 19 stretches, about 136 km, 0 unsure, no turns, one line from the coast near La Haye-du-Puits to the Orne mouth, ticks on the north and west; gaps of 37-45 px under the 21 box and on the south bow, the map's line continuous. Boxes: the SECRET strike-through, the legend, the title lettering and the table of units on the way. All 34 towns on 6 July's side; 0.5E and 1E 49.5N enemy (right).
