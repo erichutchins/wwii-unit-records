@@ -1,0 +1,33 @@
+# 12ag-1944-07-28: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21053
+date: 1944-07-28
+as_of: 1200 HRS 28 JULY 1944
+title: "Situation 1200 hrs 28 July 1944, HQ Twelfth Army Group (COPY NO. blank; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [6200, 5100, 6600, 5420], why: "the Library of Congress date stamp's left frame (x 6228-6236, y 5205-5370), at the bottom right margin; not front"}
+  - {box: [1430, 380, 3700, 830], why: "the title block's lettering (SITUATION 1200 HRS 28 JULY 1944 / HQ TWELFTH ARMY GROUP / COPY NO. and its rule: x 1450-3560, y 400-790), which stands at the top of this sheet over the Bay of the Seine; far north of the front"}
+  - {box: [4520, 395, 5030, 530], why: "SECRET struck through and underlined (x 4560-5000, y 410-500), top right, with its blue underline; not front"}
+  - {box: [1830, 4160, 2480, 4810], why: "the legend's letters (U.S., BRITISH, ENEMY, FRONT LINE: x 1850-2460, y 4180-4795), on this sheet lower than on 29 July; not front"}
+  - {box: [1680, 4735, 1830, 4800], why: "the legend's sample of the front line beside FRONT LINE (x 1690-1820, y 4760-4790), a sample not a front"}
+  - {box: [1680, 2690, 1760, 2920], why: "run 140? (x 1700-1740, y 2700-2910), the heavy corps boundary running south from Coutances to the front at x 1760 y 3150: a black line with no hatching on either side"}
+  - {box: [2060, 2690, 2140, 3020], why: "run 138? (x 2085-2130, y 2700-3010), the same kind of boundary line (the V/XIX-corps line) running south to the front near Percy: no hatching either side"}
+  - {box: [2335, 2855, 2372, 2890], why: "run 148? (x 2340-2365, y 2858-2883), the boundary's last stretch joining the front at the Cahagnes arm, no hatching on either side"}
+  - {box: [2225, 2880, 2290, 2915], why: "run 151? (x 2225-2285, y 2885-2915), the diagonal of the 30 symbol: a symbol's stroke"}
+
+  - {box: [2890, 2000, 2960, 2175], why: "the blue run beside the chain of small circles north of Bayeux (x 2910-2940, y 2080-2165): the First US/Second BR. army boundary's heavy line, no map hatching either side, its red ticks fall on nothing; looked at 4x"}
+  - {box: [2670, 2560, 2725, 2692], why: "run (x 2680-2712, y 2570-2700), the heavy straight line running south to the front at Caumont: a corps boundary, no hatching on either side; looked at 4x"}
+  - {box: [2715, 2295, 2790, 2495], why: "the blue run (x 2725-2780, y 2310-2490) along the V corps flag and its boundary line from the north to Balleroy: a heavy line with the boundary's X's below it, no map hatching either side; its red ticks fall on nothing; looked at 3x"}
+  - {box: [2740, 2190, 2810, 2270], why: "the blue run at x 2770-2785, y 2200-2250 (run 1), the First US/Second BR. army boundary's heavy line south from its X's under FIRST U.S.: no map hatching either side; the red ticks fall on the railway's own ticks (the grey line from the west); looked at 6x"}
+flip:
+  - {at: [1794, 2531], why: "the unsure arc on the west side of the Marigny lobe (x 1780-1800, y 2510-2560, run 13): the map's ticks are the small blobs on its right (inside the lobe, x 1790-1800, y 2550-2565) and the red ticks fell on its left (outside); its neighbour at x 1840 y 2505, ticked inside, and the lobe's foot at x 1830-1900 y 2625-2640 have the ticks inside too; looked at 8x. The 07-29 flip at x 1714 y 2563 has nothing to turn today (that bend is a gap)"}
+checked:
+  - {at: [1951, 2889], why: "run 40, the west side of the Cerisy lobe (x 1920-1980, y 2820-2910): map ticks on its inside (east), as the red ticks; looked at 4x"}
+  - {at: [2212, 2932], why: "run 44, the foot of the trough between the lobes (x 2195-2230, y 2920-2945): map ticks above, inside, as the red tick; looked at 4x"}
+  - {at: [2918, 2623], why: "run 22, on the ticked line east of Caumont (x 2890-2945, y 2610-2640): map ticks on the north side, as the red ticks; looked at 4x"}
+  - {at: [3372, 2602], why: "run 21, on the ticked line south of Fleury (x 3350-3395, y 2600-2605): map ticks on the north side, as the red ticks; looked at 4x"}
+  - {at: [3810, 2535], why: "run 12, the Orne line stretch at the hook beside the 49 symbol (x 3780-3830, y 2490-2540): map ticks on its west and north (British) side, as the red ticks; looked at 4x"}
+# Reviewed: sides and the one hand-turned arc (1794,2531, the Marigny lobe's west side) are right, but the trace is thin: about 84 km of a line about 130 km long. The largest gaps are the southern arc past Coutances (1739-1955, y 2686-2750, 225 px), the ridge between the lobes (165 px), the St-Lô corner (151 px) and west of Colombelles (132 px). Radius 3 is the B01 setting; this day's ink breaks more under it than its neighbours'.
