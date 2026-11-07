@@ -1,0 +1,55 @@
+# 12ag-1944-10-13: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21130
+date: 1944-10-13
+as_of: 1200 HRS 13 OCTOBER 1944
+title: "Situation 1200 hrs 13 October 1944, Twelfth Army Group (SECRET struck through above; no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-10-14
+exclude:   # 10-14's boxes moved (+16,-8)
+  - {box: [196, 177, 2496, 592], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: copied from 12ag-1944-10-15 (itself 10-16 moved) and moved b"}
+  - {box: [1903, 1614, 3103, 1894], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: copied from 12ag-1944-10-15 (itself 10-16 moved) and moved b"}
+  - {box: [5593, 3414, 5703, 3474], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: copied from 12ag-1944-10-15 (itself 10-16 moved) and moved b"}
+  - {box: [5581, 3493, 5671, 3600], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: copied from 12ag-1944-10-15 (itself 10-16 moved) and moved b"}
+  - {box: [2792, 1210, 4037, 1640], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: copied from 12ag-1944-10-15 (itself 10-16 moved) and moved b"}
+  - {box: [2692, 4560, 4412, 5220], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: copied from 12ag-1944-10-15 (itself 10-16 moved) and moved b"}
+  - {box: [5131, 3117, 5221, 3202], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: copied from 12ag-1944-10-15 (itself 10-16 moved) and moved b"}
+  - {box: [3274, 1053, 3374, 1153], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: copied from 12ag-1944-10-15 (itself 10-16 moved) and moved b"}
+  - {box: [5555, 1340, 5735, 1405], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: the blue-pencilled underline beneath the 'TEMPORARILY UNLOCA"}
+  - {box: [4285, 965, 4685, 1175], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: army group boundary (Twenty One / Twelfth) from Geilenkirche"}
+  - {box: [4761, 3990, 5595, 4355], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: army boundary (Twelfth/Sixth) along the Marne-Rhine canal an"}
+  - {box: [5220, 3155, 5275, 3220], why: "10-14's box moved (+16,-8); reason carried in 10-14.yml: Siegfried Line hatched feature (west Palatinate), a short st"}
+  - {box: [1380, 2050, 1860, 2660], why: "army group boundary (Twenty One / Twelfth) from Arras-Albert south-west to the Somme: a heavy black line with no map ticks, grey railway ticks beside it (overlay crop 700,2000 1400x1200); 10-14's boxes at 1393..1629,2291..2568 caught nothing here"}
+  - {box: [2300, 1480, 3830, 2060], why: "army group boundary (Twenty One / Twelfth) from Cambrai north-east to Maastricht: a heavy black line with no ticks; 10-14's boxes at 1903,1614 and 2792,1210 caught only its east end"}
+  - {box: [3880, 1150, 4290, 1205], why: "army group boundary (Twenty One / Twelfth) where it meets the front at Geilenkirchen: a heavy black line with no map ticks (its red ticks are grey railways); the ticked arc runs just below it (y 1210 and more at x 4170) (overlay crop 3900,1050 700x600); runs 1 and 2 at 4184,1194 and 4121,1205 put Nijmegen, Arnhem and Kleve enemy"}
+  - {box: [4222, 1266, 4266, 1284], why: "a hatching bar inside the Geilenkirchen corridor's head, traced as a short stretch (run at 4241,1275) with a tick on its north; not front (overlay crop 4160,1180 200x130, enlarged)"}
+  - {box: [4340, 4350, 4725, 4620], why: "army boundary (Twelfth/Sixth) from the Marne-Rhine canal at about 4735,4335 south-west to its label: a heavy black line with no map ticks (two stretches, runs at 4612,4381 and 4420,4540; overlay crop 4250,4100 600x600); the ticked front ends at the canal"}
+  - {box: [5075, 3070, 5135, 3118], why: "Siegfried Line hatched feature (west Palatinate), a short stretch with no ticks, its end at 5094,3091 (overlay crop 4950,2950 800x700); 10-14's box for it sits 100 px east and does not reach it here"}
+  - {box: [5545, 3410, 5600, 3445], why: "Siegfried Line hatched feature, the stretch at 5569,3428 on its heavy line, no ticks (overlay crop 4950,2950); 10-14's box moved (+16,-8) lies 24 px east of it"}
+  - {box: [5370, 3540, 5410, 3572], why: "Siegfried Line hatched feature by Saarbrucken/Zweibrucken (run at 5389,3555), no ticks (overlay crop 4950,2950)"}
+  - {box: [5120, 3572, 5168, 3604], why: "Siegfried Line hatched feature by Saarbrucken (run at 5143,3588), no ticks (overlay crop 4950,2950)"}
+  - {box: [5590, 3905, 5650, 3950], why: "army boundary (Twelfth/Sixth) north-east of the Moder, a heavy black line with no ticks, the stretch at 5618,3928 (overlay crop 5400,3700 500x400)"}
+  - {box: [3930, 2190, 4015, 2235], why: "army boundary (First/Ninth, the Aisne) near the front: a heavy black line with no map ticks, the stretch at 3971,2216 (overlay crop 3841,2106 260x220)"}
+area: [4540, 5080, 5340, 5970]
+flip: []
+checked:
+  - {at: [4306, 1287], why: "top of the arc at Geilenkirchen; 10-14's check at 4300,1290 (moved to 4316,1282) re-centred on today's run 1; its red tick south on the inside, the map's ticks hanging south (look at 4290,1280)"}
+  - {at: [4269, 1425], why: "Maastricht loop, red ticks outside on the map's ticks (overlay crop 3900,1050 700x600)"}
+  - {at: [4289, 1413], why: "same"}
+  - {at: [4185, 1448], why: "same"}
+  - {at: [4281, 1461], why: "same"}
+  - {at: [4176, 1491], why: "same"}
+  - {at: [4545, 1653], why: "east face of the Aachen salient round the 9, red ticks on the map's ticks, west (overlay crop 4100,1400 600x500)"}
+  - {at: [4541, 1696], why: "same"}
+  - {at: [4359, 1852], why: "bottom of the Eupen salient's west face, red tick on the map's ticks (overlay crop 4100,1400)"}
+  - {at: [4424, 2109], why: "Schmidt/Dahlem reach, red ticks on the map's ticks, west (overlay crop 4250,1850 500x450)"}
+  - {at: [4420, 2138], why: "same"}
+  - {at: [4390, 2234], why: "red ticks on the map's ticks, west (overlay crop 4200,2200 450x350)"}
+  - {at: [4364, 2259], why: "same"}
+  - {at: [4521, 3225], why: "the line east of Luxembourg/Sierck, map ticks on the west, red ticks on them (overlay crop 4391,3115 260x220)"}
+  - {at: [4382, 3401], why: "red ticks on the map's ticks, west (overlay crop 4250,3300 300x300)"}
+  - {at: [4359, 3426], why: "same"}
+  - {at: [4344, 3458], why: "same"}
+  - {at: [4312, 3737], why: "short run south of Verdun (Metz), red tick on the map's ticks, west, as runs 66 and 68 either side (overlay crop 4200,3600 250x250)"}
+# Reader: title read 1200 HRS 13 OCTOBER 1944, no report number (agrees with the catalogue). gcps matched to 12ag-1944-10-14 (accepted: offset +16,-8 px; 46 of 81 agree, median 1.7 px, 35 placed through the transform). Boxes: 10-14's 24 moved (+16,-8) and each tried by leaving it out: 11 dropped (no stretch caught today), 12 kept; 10-14's box on the Marne-Rhine canal's last stretch dropped (it cut ticked front). Kept the blue-pencil underline box (not front: the tool's ticks there are its own). 11 boxes added for boundaries and Siegfried hatching the moved boxes missed (Twenty One/Twelfth from Arras to the Somme and from Cambrai to Maastricht and Geilenkirchen; First/Ninth at the Aisne; Twelfth/Sixth from the canal south-west and north-east of the Moder; four Siegfried hatched bits; a hatching bar in the Geilenkirchen corridor head). 10-14's checks: the arc's top re-centred (4306,1287); its other seven drop (blue by themselves today); 16 more stretches checked by eye on crops (Maastricht loop, east face of the Aachen salient, Schmidt/Dahlem, Luxembourg line, Metz). Gap: the first ~100 px of the Geilenkirchen arc (4160-4270, 1210-1290, ticks hanging south) is not traced, its line fused with the boundary above it; so Nijmegen, Arnhem and Eindhoven read enemy here (10-14 traced it and read them own); nothing forced. No ticked front is drawn round Nijmegen, on the Antwerp-Breda line or in the Vosges: nothing traced there; Arnhem, Breda, 's-Hertogenbosch, Bergen op Zoom, Saint-Dié, Colmar are beyond the open ends. Metz enemy.
+# Reviewed: like 14 October, this sheet draws a ticked front only from Geilenkirchen and the Maastricht loop by Aachen, Monschau and the Luxembourg line past Metz to the Marne-Rhine canal; none round Nijmegen, on the Antwerp-Breda line or in the Vosges (no front drawn, not no front). 75 stretches, about 284 km, 17 short pieces of the fused Aachen-Monschau reach checked by eye on the map's west ticks; the first ~100 px of the Geilenkirchen arc (ticks south) is fused with the boundary above it and not traced. 78 of 81 towns on 14 October's side; Nijmegen, Arnhem and Eindhoven read enemy today and own on 14 October: all three lie beyond the line's open north end and are artefacts either way (Nijmegen and Eindhoven were Allied, Arnhem German). Colmar, Saint-Dié, Épinal beyond the south end, likewise. Metz enemy. 11 empty boxes dropped, one that cut the canal stretch dropped, 11 added (boundaries, Siegfried strips, a hatching bar), each tried by leaving it out.
