@@ -1,0 +1,42 @@
+# 12ag-1944-07-13: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21038
+date: 1944-07-13
+as_of: 2400 HRS 13 JULY 1944
+title: "Situation 2400 hrs 13 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-14
+radius: 3
+exclude:
+  - {box: [900, 330, 3850, 910], why: "the title block lettering, from 07-14's box"}
+  - {box: [4450, 380, 5300, 620], why: "SECRET struck through, top right, from 07-14's box"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend, bottom left, from 07-14's box"}
+  - {box: [3540, 2250, 3645, 2378], why: "the II Canadian/I (British) corps boundary's last stretch to the front at Colombelles, from 07-14's box"}
+  - {box: [1835, 1900, 2020, 2180], why: "VIII/VII corps boundary down to the front, heavy, no ticks (run 1, crop 1960,2120)"}
+  - {box: [2220, 2000, 2280, 2130], why: "corps boundary stub at the top, heavy, no ticks (run 2)"}
+  - {box: [2180, 2190, 2290, 2340], why: "XIX/VII corps boundary, heavy, no ticks (run 6)"}
+  - {box: [2440, 2200, 2580, 2600], why: "V/XIX corps boundary down to the front, heavy, no ticks (run 13, crop 2515,2400)"}
+  - {box: [2222, 2505, 2250, 2528], why: "the stub of a boundary meeting the front north of Saint-Lo (run 33; the front itself has a gap here where the boundary crosses it)"}
+  - {box: [2150, 2530, 2250, 2700], why: "LXXXIV/II Parachute boundary south of the front (run 45)"}
+  - {box: [2325, 2610, 2360, 2655], why: "the 352 symbol's own top stroke, not front (run 52)"}
+  - {box: [1570, 2262, 1610, 2285], why: "the 91's box top touching the front, a symbol stroke (run 18)"}
+  - {box: [2710, 2740, 2790, 2900], why: "XLVII/II Parachute boundary south of the front (run 59)"}
+  - {box: [2830, 1960, 2910, 2630], why: "First US/Second British army boundary down to the front, heavy, no ticks (runs 3 and 24)"}
+  - {box: [3050, 2750, 3130, 2950], why: "XLVII/II SS Panzer boundary south of the front (run 60)"}
+  - {box: [3500, 2080, 3600, 2260], why: "II Canadian/I corps boundary at the coast (runs 4 and 9)"}
+  - {box: [3230, 2130, 3310, 2530], why: "XII/VIII corps boundary down to the front, heavy, no ticks (runs 5, 26, 28)"}
+  - {box: [3310, 2320, 3445, 2555], why: "II Canadian boundary down to the front, heavy, no ticks (crop 3380,2450)"}
+  - {box: [3575, 2555, 3625, 2600], why: "the 21's box stroke (run 47)"}
+  - {box: [3485, 2625, 3535, 2660], why: "the 155's box stroke (run 58)"}
+  - {box: [3440, 2625, 3495, 2700], why: "boundary running south from the front to 9 SS (run 55)"}
+checked:
+  - {at: [3826, 2286], why: "short front stretch at the Orne, ticked on its west (US) side in the crop 3826,2290; the tool's red ticks fall on the same side"}
+  - {at: [2969, 2569], why: "short front stretch by the 50th's symbol, ticked on its north-west (US) side in the crop 2969,2580; red ticks on the same side"}
+flip: []
+
+# Reader: title SITUATION 2400 HRS 13 JULY 1944, HQ FUSAG on the line below, COPY NO. blank, no report number, SECRET struck through at top right. Agrees with the catalogue's day (ict21038). Towns matched to 12ag-1944-07-14's (base B01): 31 of 34 agreed (median 0.9 px, sheet offset +8, +0 px); 1.5W 50N (36 px), 0.5W 49N (16 px) and 0.5W 48.5N (13 px) placed through the transform.
+# Reader: 40 stretches (35 ticks, 3 line, 2 checked by hand), 0 unsure, 0 turned, from the Passage de la Deroute coast (about 1322,2213) to the Orne mouth (about 3855,2185). The two 'checked' were unsure stretches at the Orne (3826,2286) and by the 50th (2969,2569), both ticked on the US side in close crops. Length about 137 km from the GeoJSON (summed great-circle), against about 160 km on 14 July: this sheet has far less doubled line, and three small gaps (below).
+# Reader: 21 boxes: the three title/legend/SECRET boxes and 07-14's Colombelles boundary box (all re-tested: without them 106, 61, 92 and 41 stretches), 07-14's First US/Second British stub box (x 2840-2882, y 2560-2595) caught nothing here (40 stretches with and without) and is dropped, and 17 new boxes, each tested out (each removal added a stray stretch or an unsure one): the army/corps boundaries VIII/VII, VII top stub, XIX/VII, V/XIX, XII/VIII, II CDN, First US/Second British (whole, 2830-2910 x 1960-2630), II CDN/I at the coast, XLVII/II SS Panzer, XLVII/II Parachute, LXXXIV/II Parachute, the stub north of Saint-Lo, the one running south to 9 SS; and symbol strokes on 91, 352, 21 and 155. On this sheet the boundaries trace with false ticks, so they arrive as ticked blue stretches, not unsure: the close crops (1960,2120; 2515,2400; 3380,2450; 3270,2400) show heavy lines with no ticks. No ticked front stretch is boxed.
+# Reader: gaps over 20 px between front stretches (by eye on the overlay crops; the tool does not print them): about 65 px at Saint-Lo north (2190-2260, 2497) where a boundary crosses the front; about 50 px at the Orne between the arrow tip (3830,2215) and the next stretch (3828,2265); about 60 px at 3445-3465, 2570-2610 where the boundary to 9 SS meets the front; about 35 px at the 352 junction (2440-2470, 2630). An unfiltered endpoint listing from the GeoJSON also names pairs 22-57 px apart that are forks and joins of the line, not breaks.
+# Reader: --sides on 07-14 and today (07-14's GeoJSON backed up, unchanged by the run). 32 of 34 towns agree town by town. Two change from 07-14's own (US) to enemy, both off the open east end at the Orne mouth: 07-14 '0.5E 49.5N       own (US)  by run 2 enemy at 3817,2244, run 8 enemy at 3814,2368, run 12 own at 3768,2390, run 11 own at 3707,2383' -> today '0.5E 49.5N       enemy     by run 2 enemy at 3840,2203, run 9 enemy at 3826,2286, run 11 enemy at 3820,2351, run 14 own at 3747,2387'; 1E 49.5N reads identically on both days. Reason: the right answer (they are on land, German-held), reached by three enemy-side runs to one; on 07-14 the tie fell the other way. Beyond the open ends the towns read either way: 0.5E, 1E 50N and 0E 50N are in the sea and read own/enemy with runs split 1-3 or 3-1; 2W 50N and 1.5W 50N (Passage de la Deroute) own. No town on the wrong side.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 13 July. 32 of 34 towns on 14 July's side; 0.5E and 1E 49.5N now read enemy (right: on land north of the Seine), three runs to one off the open east end. 40 stretches, about 137 km, 0 unsure, no turns, two checked by eye on the US-side ticks. This sheet draws many heavy corps boundaries reaching the front, which trace with false ticks: 17 boxes added over them and over symbol strokes, each tested by removal; the overlay (crop 1250,1950, read by the reviewer) shows the front whole from the Passage de la Déroute to the Orne with every boundary out. Gaps of 35-65 px where boundaries cross the front (north of Saint-Lô, at the Orne, toward 9 SS, at the 352).
