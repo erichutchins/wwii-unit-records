@@ -1,0 +1,115 @@
+# 12ag-1944-10-15: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21132
+date: 1944-10-15
+as_of: 1200 HRS 15 OCTOBER 1944
+title: "Situation 1200 hrs 15 October 1944, Twelfth Army Group (SECRET struck through above; no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-10-17
+exclude:   # all of 10-16's boxes, moved (-11,-12) (the median offset of the two sheets' gcps); to be checked on the overlay; reasons are 10-16's, carried in 10-16.yml and its ancestors
+  - {box: [161, 197, 2461, 612], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [198, 4974, 1068, 5674], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1868, 1634, 3068, 1914], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3918, 4754, 4028, 4814], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4538, 4314, 4718, 4424], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5558, 3434, 5668, 3494], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [6048, 3674, 6158, 3744], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5326, 3390, 5406, 3450], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5546, 3513, 5636, 3620], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [6204, 3780, 6286, 3850], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3917, 1227, 3997, 1277], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3377, 5082, 3467, 5152], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [2757, 1230, 4002, 1660], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [2657, 4580, 4377, 5240], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4233, 1520, 4279, 1556], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1657, 2068, 1757, 2168], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5096, 3137, 5186, 3222], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1724, 1987, 1824, 2087], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1371, 2494, 1471, 2594], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4484, 4377, 4584, 4477], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4181, 1446, 4241, 1506], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3303, 795, 3403, 895], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [6095, 3881, 6155, 3941], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1622, 2130, 1722, 2230], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3106, 2305, 3206, 2405], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5853, 4214, 5953, 4314], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4346, 4490, 4446, 4590], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5267, 3376, 5367, 3456], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1739, 1565, 1839, 1665], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1564, 1582, 1664, 1682], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1784, 1622, 1884, 1722], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1491, 1634, 1591, 1734], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3171, 1747, 3271, 1847], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3231, 2554, 3331, 2654], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3258, 2951, 3358, 3051], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3296, 3111, 3396, 3211], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5997, 3672, 6097, 3772], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [6150, 3753, 6250, 3853], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1753, 5004, 1853, 5104], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1559, 5149, 1659, 5249], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [2889, 5205, 2989, 5305], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [2747, 5250, 2847, 5350], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1778, 1910, 1878, 2010], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3648, 4479, 3748, 4579], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4401, 4448, 4501, 4548], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3463, 5203, 3563, 5303], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3349, 932, 3449, 1042], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3199, 1132, 3349, 1272], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3349, 1662, 3499, 1772], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3929, 1572, 4049, 1672], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4059, 1532, 4149, 1612], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1649, 1522, 1759, 1622], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1939, 1522, 2039, 1622], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3239, 2472, 3339, 2562], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1358, 2388, 1558, 2588], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3249, 2982, 3849, 3592], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5464, 3412, 5564, 3502], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5839, 3732, 5939, 3822], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1649, 5022, 1749, 5122], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4649, 5162, 4749, 5272], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5389, 3402, 5499, 3482], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [5289, 3552, 5389, 3632], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1566, 2222, 1666, 2322], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4593, 2916, 4693, 2996], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3557, 3666, 3677, 3796], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3239, 1073, 3339, 1173], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1494, 2311, 1594, 2411], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1319, 2559, 1419, 2659], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1131, 5122, 1231, 5222], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1067, 5086, 1157, 5156], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3556, 4354, 3656, 4454], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [3325, 2700, 3395, 2800], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4255, 1525, 4307, 1560], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [4820, 5125, 4875, 5175], why: "copied from 12ag-1944-10-16 and moved by (-11,-12); reasons carried in 10-16.yml and its ancestors"}
+  - {box: [1300, 170, 1480, 245], why: "the SECRET lettering's strokes in the title block, traced as a short stretch (overlay crop 1300,0)"}
+  - {box: [5520, 1360, 5700, 1425], why: "the blue-pencilled underline beneath the 'TEMPORARILY UNLOCATED' / LEHR label, not front (run 65 in the first trace at 5610,1394; --sides had Siegen, Much and others own through it)"}
+  - {box: [4250, 985, 4650, 1195], why: "army group boundary (Twenty One / Twelfth) from Geilenkirchen to the north-east: a heavy black line with no map ticks (overlay crop 3850,900 750x450)"}
+  - {box: [4735, 4010, 5560, 4375], why: "army boundary (Twelfth/Sixth) along the Marne-Rhine canal and on north-east: a heavy black line with no ticks, grey railway ticks beside it (overlay crop 4600,3950 1000x650); starts where it meets the front at about 4725,4345"}
+  - {box: [5040, 3080, 5130, 3135], why: "Siegfried Line hatched feature stub, no ticks (overlay crop 4100,2950): same feature as 10-16's box at 5096,3137, which does not reach it here"}
+  - {box: [4410, 1470, 4470, 1510], why: "a symbol's outline beside the '3' box, traced as a short stretch (overlay crop 3950,1150)"}
+  - {box: [4580, 1840, 4640, 1885], why: "a symbol's outline beside the 526 box, traced as a short stretch (overlay crop 3950,1150)"}
+  - {box: [5185, 3175, 5240, 3240], why: "Siegfried Line hatched feature (west Palatinate), a short stretch with no ticks, traced by its red tick beside it; it alone decided Zweibrücken, Kaiserslautern, Pirmasens, Landau and Heidelberg own through run 105 at 5213,3209 (overlay crop 4700,3000 1100x1300); 10-16's box at 5096,3137 does not reach it here"}
+area: [4505, 5100, 5305, 5990]   # 10-16's area moved (-11,-12): the ticked front runs on south past the towns' spread; to be checked on the overlay
+flip:
+  - {at: [4097, 115], why: "the east flank of the Nijmegen salient (Rhine/Waal corridor, ticked on its west, inside): the map's own ticks are on the west (seen on --look 4100,150 and 4100,300) and runs 2, 12, 14, 16 on this flank run south (own on the west); this stretch ran north, own on the east (German) side, so turned"}
+  - {at: [4098, 149], why: "the east flank of the Nijmegen salient (Rhine/Waal corridor, ticked on its west, inside): the map's own ticks are on the west (seen on --look 4100,150 and 4100,300) and runs 2, 12, 14, 16 on this flank run south (own on the west); this stretch ran north, own on the east (German) side, so turned"}
+  - {at: [4106, 233], why: "the east flank of the Nijmegen salient (Rhine/Waal corridor, ticked on its west, inside): the map's own ticks are on the west (seen on --look 4100,150 and 4100,300) and runs 2, 12, 14, 16 on this flank run south (own on the west); this stretch ran north, own on the east (German) side, so turned"}
+  - {at: [3369, 601], why: "Antwerp-Breda-Turnhout line (ticked on its south, the US side; seen on --look and the overlay crop 2950,570): the red ticks fell on the north (German) side, and --sides put Turnhout/Charleroi/Leuven enemy against 10-16, so turned"}
+  - {at: [3197, 768], why: "Antwerp-Breda-Turnhout line (ticked on its south, the US side; seen on --look and the overlay crop 2950,570): the red ticks fell on the north (German) side, and --sides put Turnhout/Charleroi/Leuven enemy against 10-16, so turned"}
+  - {at: [3119, 802], why: "Antwerp-Breda-Turnhout line (ticked on its south, the US side; seen on --look and the overlay crop 2950,570): the red ticks fell on the north (German) side, and --sides put Turnhout/Charleroi/Leuven enemy against 10-16, so turned"}
+  - {at: [3082, 810], why: "Antwerp-Breda-Turnhout line (ticked on its south, the US side; seen on --look and the overlay crop 2950,570): the red ticks fell on the north (German) side, and --sides put Turnhout/Charleroi/Leuven enemy against 10-16, so turned"}
+  - {at: [3023, 826], why: "Antwerp-Breda-Turnhout line (ticked on its south, the US side; seen on --look and the overlay crop 2950,570): the red ticks fell on the north (German) side, and --sides put Turnhout/Charleroi/Leuven enemy against 10-16, so turned"}
+  - {at: [2997, 842], why: "Antwerp-Breda-Turnhout line (ticked on its south, the US side; seen on --look and the overlay crop 2950,570): the red ticks fell on the north (German) side, and --sides put Turnhout/Charleroi/Leuven enemy against 10-16, so turned"}
+  - {at: [2227, 834], why: "west end of the Walcheren/Breskens front (--look 2227,834: ticks on the south, own); --sides put Amiens/Arras/Beauvais on the enemy side of it by this run"}
+  - {at: [2196, 881], why: "west end of the Walcheren/Breskens front (--look 2227,834: ticks on the south, own); --sides put Amiens/Arras/Beauvais on the enemy side of it by this run"}
+checked:
+  - {at: [4328, 2266], why: "red ticks fall on the map's own ticks, on the west (US) side (overlay crops 4000,2050 / 4100,2950 / 4500,4400)"}
+  - {at: [4305, 2332], why: "red ticks fall on the map's own ticks, on the west (US) side (overlay crops 4000,2050 / 4100,2950 / 4500,4400)"}
+  - {at: [4296, 2365], why: "red ticks fall on the map's own ticks, on the west (US) side (overlay crops 4000,2050 / 4100,2950 / 4500,4400)"}
+  - {at: [4529, 3109], why: "red ticks fall on the map's own ticks, on the west (US) side (overlay crops 4000,2050 / 4100,2950 / 4500,4400)"}
+  - {at: [4512, 3149], why: "red ticks fall on the map's own ticks, on the west (US) side (overlay crops 4000,2050 / 4100,2950 / 4500,4400)"}
+  - {at: [4865, 4569], why: "red ticks fall on the map's own ticks, on the west (US) side (overlay crops 4000,2050 / 4100,2950 / 4500,4400)"}
+  - {at: [4869, 4947], why: "red ticks fall on the map's own ticks, on the west (US) side (overlay crops 4000,2050 / 4100,2950 / 4500,4400)"}
+  - {at: [4858, 5182], why: "red ticks fall on the map's own ticks, on the west (US) side (overlay crops 4000,2050 / 4100,2950 / 4500,4400)"}
+# Reader: 81 of 81 towns on 10-16's side (Arnhem own on both, WRONG: the heavy ticked arc along the top of the Nijmegen salient, scan about 3900,5 to 4070,25, is on the sheet but is not among the traced runs; nothing was boxed or flipped to force it). Boxes are 10-16's moved (-11,-12) plus seven added; 11 stretches turned by hand (3 on the Nijmegen east flank, 8 on the Antwerp-Breda-Turnhout line and the Breskens end), 8 checked. 132 stretches, 587 km (10-16: 845 km, 47 stretches): the ticked front is traced in fragments round Geilenkirchen-Maastricht-Monschau, gaps unfilled. Unsure and left: (3961,999), (4011,1116), (4206,1279), (4387,1485)-(4325,1857) fragments, (4406,2178), (4732,4347) at the boundary's junction with the front.
+# Reviewed: a thin day. 81 of 81 towns on 16 October's side, which includes Arnhem own: WRONG, as on 16 October (the arc across the top of the Nijmegen salient runs along the scan's top edge, about 3900,5 to 4070,25, and is not traced). Nijmegen own, Metz and Saint-Dié enemy. 132 stretches but only 587 km (neighbours 845, check_fronts "short"): the Geilenkirchen-Aachen-Monschau reach is traced in fragments (the fused-tick fault), with 15 stretches left unsure, mostly there. 11 stretches turned by hand, each on the map's own ticks (Nijmegen east flank, the Antwerp-Breda-Turnhout line and the Breskens end, ticks south); the whole-sheet overlay reads right from the Scheldt to the Vosges. A Siegfried-line stub that had put five Pfalz towns own is boxed.
