@@ -1,0 +1,21 @@
+# 12ag-1944-07-08: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21033
+date: 1944-07-08
+as_of: 2400 HRS 8 JULY 1944
+title: "Situation 2400 hrs 8 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-09
+radius: 5
+exclude: []
+checked: []
+flip: []
+
+# Reader: title SITUATION 2400 HRS 8 JULY 1944, HQ FUSAG on the line below, COPY No. blank, no report number, SECRET struck through at top right. Agrees with the catalogue's day (ict21033).
+# Reader: towns matched to 12ag-1944-07-09's (base B01): 29 of 34 agreed (median 0.9 px, sheet offset -8, +16 px); five placed through the transform: 2W 50N (6 px off), 0.5W 50N (56), 0.5W 49N (11), 0.5W 48.5N (23), 0E 48.5N (60).
+# Reader: radius, whole-sheet trace with 07-09's 23 boxes in place. Radius 3: 36 stretches, 11 unsure, 78.1 km (thick line lost). Radius 4: 28 stretches (27 ticks, 1 line, 0 unsure), 130.7 km, 16 gaps over 20 px (west reach 145 px, Orne-mouth reach 138 and 96 px). Radius 5 (outside the 3-4 asked, tried because 4 left gaps): 10 stretches, all ticks, 0 unsure, 155.1 km, one continuous line from the Passage de la Deroute coast round Caen up the Orne to its mouth, nothing stray on the overlay. Radius 5 kept; the reviewer may prefer 4 (re-add 07-09's boxes then).
+# Reader: boxes. At radius 5 every one of 07-09's 23 boxes was removed one at a time and the stretch count stayed 10, 0 unsure (title, SECRET, legend, table of units on the way, boundary ends, symbol strokes): none catches anything, so all dropped (exclude: []); the run with none is byte-identical to the one with all. At radius 4 several symbol-stroke and boundary-end boxes were needed (07-09's YAML), not re-tested here.
+# Reader: no stretch flipped, checked or left out: 10 of 10 ticks agree. Caen end (crop 3300,2150): the line comes in from the north-east, ticks on the north-west (British/US) side, ends at the Orne mouth at about 3800,2160 and the Charnwood reach round Caen's north-east is one line with its ticks; nothing unsure.
+# Reader: --sides on 07-09 (GeoJSON backed up, unchanged by the run) and today: 34 of 34 the same, no town changes side. 0.5E and 1E 49.5N read enemy, right (land north of the Seine, German-held). Towns beyond the open ends read either way.
+# Reader: gaps over 20 px between run ends (23.5 px/km): 28 px at 1.348W 49.297N and 27 px at 1.257W 49.271N (inside the corridor reach west of Isigny). The two others are the line's own ends: the west tip at 1.657W 49.262N and the Orne-mouth end at 0.205W 49.289N.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 8 July. Traced at radius 5: the line on this sheet is drawn heavier still than on 9 July (radius 4 here); at 3 it gave 78 km, at 4 131 km with gaps up to 145 px, at 5 one continuous line of 10 stretches, about 155 km, from the Passage de la Déroute round Saint-Lô's north and Caen's north-east to the Orne mouth, ticks on the north and west, nothing stray (crop 1250,1950 read by the reviewer). At radius 5 no symbol stroke or boundary traces, so the exclude list is empty. All 34 towns on 9 July's side; 0.5E and 1E 49.5N enemy (right).
