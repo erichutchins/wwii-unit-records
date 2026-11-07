@@ -1,0 +1,27 @@
+# 12ag-1944-08-19: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21075
+date: 1944-08-19
+as_of: 1200 HRS 19 AUGUST 1944
+title: "SECRET (struck through) / Situation 1200 hrs 19 August 1944 / Twelfth Army Group; 1:500,000 sheet (B04)"
+read: the title on the sheet (bottom left on this base, read on the region 200,4100 2600x1000), 7 Nov 2026
+gcps_from: towns-B04.csv
+radius: 4
+area: [500, 250, 3300, 3300]   # copied from 08-18: Normandy's front lies north-west of the towns' spread
+exclude:
+  - {box: [200, 4560, 2550, 5050], why: "the title block's lettering: SECRET (struck through), SITUATION 1200 HRS 19 AUGUST 1944, TWELFTH ARMY GROUP, bottom left (same place as 18 Aug)"}
+  - {box: [5600, 4950, 6686, 5984], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample) bottom right (same place as 18 Aug)"}
+  - {box: [3900, 300, 4560, 1010], why: "the heavy black frame of the 'REPORTED IN TRAP' list (upper right), a box round the list of enemy divisions, not a front line"}
+flip:
+  - {at: [3263, 1825], why: "the short run at Argentan, no ticks of its own (unsure); the map's hatching stands on its south/east side, the Allied side like runs 23-24 and 30-31 either side, and --sides put the towns south of Argentan 'enemy' by it (0E 48.5N, 0E 48N, 0E 47.5N, 0.5E 48N); turned"}
+checked:
+  - {at: [2993, 507], why: "the northern end (Dives), unsure for no ticks of its own; 4x on the overlay: the map's hatching is on its west side, the same side as the red ticks"}
+  - {at: [3185, 1192], why: "the west curve south of Livarot (runs 8 and 12), unsure; 4x: hatching on the west/outer side, the red ticks on it, pocket (enemy) inside"}
+  - {at: [3155, 1120], why: "the curve at the west of the pocket south of Livarot (run 8), unsure; 3x on the overlay: hatching on its west side, the red ticks on it"}
+# Reviewed: 7 Nov 2026 (q-0819). Copied from 08-18: radius 4, area box, title and legend boxes (same places). 25 of 28 towns agree (median 1.1 px; 1.5W 49N, 1W 48.5N, 1.5E 47.5N placed through the transform).
+# New today: the black frame of the 'REPORTED IN TRAP' list (upper right) traced as front; boxed. 18 Aug's three army-boundary boxes and the corps-lettering box were not needed (radius 4; no strays).
+# Radius 4 kept: 31 stretches, 162.7 km. Radius 3: 35 stretches, 156.3 km; radius 5: 29 stretches, 8 unsure. 4 is the most continuous. Shorter than 18 Aug (188.8 km): the heavy salient north of Argentan-Livarot (about (3300,810)-(3480,960)) is not picked up (gap ~230 px), nor at radius 3.
+# Falaise gap: open, about 2.5 km between the traced tongue's tip (0.109E 48.800N) and the Argentan line (0.106E 48.777N); the inked tongue and the line are plainly apart on the scan (looked at 3470,1690), against about 7 km on 18 Aug. No ring; ticks on the Allied side outside the pocket.
+# Ends: north (-0.164, 49.271) at Dives; east (0.262, 48.736) at the stub south of Nonant (the heavy line ends blunt at about (3750,1850); a thin line beside it is a boundary, not traced).
+# Turned: run 26 at Argentan (3263,1825) only; hatching on its SE side, --sides had four southern towns 'enemy' by it; after the flip no town on the wrong side.
+# Reviewed: the Falaise mouth about 2.5 km, the ring not closed on this sheet (no ink between the tongue and the Argentan line at 3470,1690); the short Argentan run turned to the map's hatching (south-east), three runs checked. The heavy salient north of Argentan toward Livarot (3300,810 to 3480,960) is untraced (the fused-tick fault). The REPORTED IN TRAP list's frame is boxed.
