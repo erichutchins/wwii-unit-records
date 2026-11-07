@@ -1,0 +1,31 @@
+# 12ag-1944-09-08: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21095
+date: 1944-09-08
+as_of: 1200 HRS 8 SEPTEMBER 1944
+title: "Situation 1200 hrs 8 September 1944, Twelfth Army Group"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-09-07
+exclude:
+  - {box: [200, 100, 2800, 720], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 8 SEPTEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [4500, 4900, 5100, 5450], why: "the legend at the bottom right (U.S., British, Enemy)"}
+  - {box: [4450, 1850, 4650, 2050], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+  - {box: [4620, 2950, 4780, 3150], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+  - {box: [4780, 3300, 5020, 3430], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+  - {box: [4780, 3430, 5000, 3540], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+  - {box: [5050, 3480, 5200, 3600], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+  - {box: [5230, 3500, 5750, 3720], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+  - {box: [5950, 4080, 6150, 4260], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+flip: []
+checked: []
+# Reader: the sheet draws no ticked front line anywhere (tiles read: the Scheldt and Antwerp, Albert Canal and Brussels, the Meuse at
+# Namur-Huy-Liege, Metz and Nancy on the Moselle, the Saar, the Rhine to Karlsruhe). Only plain black army, army-group and corps
+# boundaries, unit symbols and grey ticked railways. New on this sheet: a hand-drawn heavy line lettered SIEGFRIED LINE from the
+# Dutch border by Aachen, Schleiden and Saarbrucken to Karlsruhe, with filled wedges near Saarbrucken-Zweibrucken, the letters I, L, N,
+# E and a symbol's "L"; it has no ticks, so it is not the front, and the tool traced 12 fragments of it (red ticks on the overlay
+# were the tool's, not the map's). Each box was tested by tracing without it: every one adds stretches back (title 10 stretches,
+# legend 10, the seven Siegfried boxes 1, 1, 2, 1, 1, 5 and 1). Title is at y 140-200 here, so its box starts at y 100 (the
+# 7 September box, from y 200, would leave the SECRET underline); the legend is at x 4560-5000, y 4950-5450 on this sheet, not
+# bottom right. With all nine boxes the trace is empty: no front drawn. The towns: 63 of 81 agree with 7 September (median 0.7 px),
+# 18 placed through the transform. No sides to test.
+# Reviewed: as on 6-7 September, no ticked front is drawn: the front is empty, no front drawn, not no front. New on this sheet: the Siegfried Line, a heavy hand-drawn line lettered SIEGFRIED LINE from the Dutch border by Aachen to Saarbrücken and Karlsruhe, with filled wedges and no ticks: a fortification line, not the front (later B09 days box its hatched strips the same way); its twelve traced fragments are boxed. Title box raised to take in SECRET; the legend sits lower middle on this sheet and is boxed there.
