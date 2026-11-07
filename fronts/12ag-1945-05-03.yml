@@ -10,7 +10,7 @@ gcps_from: 12ag-1945-05-02
 # unticked Twenty One / Twelfth boundary (run 109, its 'ticks' are the grey railways'); no other box holds a run the tool found ticked. One new box (the Saarbruecken-Speyer line).
 # area widened from 05-02's [382,1279,3750,6250] to x1 4300: the Bavarian wedge's ticked arc (Glonn, Wasserburg, about 3800-4150,5560-5740, lat below 48N, past the towns' spread
 # and past x 3750) was dropped otherwise; looked, overlay crop 3600 5350 700 600: heavy black, map ticks on the Allied (north-west) side, the hatched enemy inside.
-area: [382, 1279, 4300, 6250]
+area: [100, 820, 4300, 6250]
 exclude:
 - box: [4030, 258, 5620, 1128]
   why: "05-02's box 0 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the title block's lettering, top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 318, SITUATION AS OF 191200 APR. 1945, the signature, Brigadier General, A.C. of S., G-3); runs 1-12, 15-39, 53-66 are letters; the front's nearest stretches are below y 1250 (Elbe at Wittenberge, run 78 at 3905,1291)"
@@ -309,3 +309,4 @@ checked:
   why: "the second short link (run 37, 5 points, no ticks), same gap, same way as run 32 and run 42; looked, overlay crop 2750 250 1300 1100"
 # Reviewed: 59 of 60 towns on 2 May's side; 12E 52N sits under the Elbe line. The Dutch front carries map ticks today, so no flip. The area widened to the Bavarian wedge's arc; the Saarbrücken-Speyer line boxed whole.
 # Reviewed later (4 May): 12E 48N (Glonn) reads enemy here; on 4 May it lies on the ticked west (Allied) side of the Wasserburg arc, so it may be wrong here and on 2 May. Not re-checked on this sheet.
+# Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) so the ticked front in the north-west outside the old area is traced: the ticked line round the IJsselmeer's north-east shore. Each added stretch located by the reviewer (5.4-6.0E, 52.6-53.4N, the 30 April one 51.9-52.4N); no town changes side.

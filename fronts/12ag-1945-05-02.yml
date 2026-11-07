@@ -5,8 +5,14 @@ report: 331
 title: '12 Army Group Outline Map 1:1,400,000. Top right, lettered by hand: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 331, SITUATION AS OF 021200 MAY 1945, signed C. T. Schmidt for A. FRANKLIN KIBLER, Brigadier General, G.S.C., A.C. of S., G-3'
 read: the title on the sheet (title.jpg via --title 3900 200 1700 1000), 7 Nov 2026
 gcps_from: 12ag-1945-05-01
-area: [382, 1279, 4300, 6250]   # widened on review to take in the Bavarian wedge's ticked arc (Glonn-Wasserburg-Miesbach) past x 3750, as on 3 May
+area: [100, 820, 4300, 6250]   # widened on review to take in the Bavarian wedge's ticked arc (Glonn-Wasserburg-Miesbach) past x 3750, as on 3 May
 exclude:
+- box:
+  - 330
+  - 6080
+  - 420
+  - 6160
+  why: 'a stroke of the legend lettering (FRONT LINE) that the area widened on 7 Nov (reviewer) exposed'
 - box:
   - 4022
   - 290
@@ -878,3 +884,4 @@ flip:
   why: 'the Dutch front''s own line, this day''s single run (1128 px, from 753,1480 by the Ijsselmeer shore past Kampen, Apeldoorn and Arnhem to 382,2120), unsure: no map ticks drawn on this sheet (looked --look; overlay crop 300 1250 900 1000: plain heavy black, the tool''s red ticks fell on the west and north, the hatched enemy 361 and 346 side). Turned so the Allied side is east and south, as 05-01 had it (its flip at 851,1753 is the same line cut differently): the Canadian 49 and CDN boxes stand east and south of it by Apeldoorn.'
 checked: []
 # Reviewed: 59 of 60 towns on 1 May's side; 7E 48N reads own again (right). The Dutch line turned by hand at its new point (608,1746), by the units either side. The Wismar and Lübeck wedges and the Wismar-Dannenberg line (the British reached Wismar and Lübeck on 2 May) are drawn without ticks; traced as front with the units standing on the right sides. Six boundary boxes added.
+# Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) so the ticked front in the north-west outside the old area is traced: the ticked Friesland coast and the line round the IJsselmeer's north-east shore; a legend stroke the wider area exposed is boxed. Each added stretch located by the reviewer (5.4-6.0E, 52.6-53.4N, the 30 April one 51.9-52.4N); no town changes side.

@@ -1135,9 +1135,10 @@ checked:
   - 5382
   why: '05-09''s entry shifted +16,+0: run at 5667,5382, the blunt east end of the Enns hook south of Linz: strokes of the map''s ticks on its upper side where the red ticks fall, as on the stretch it continues and as on 05-08 (looked, --look 5667,5382)'
 area:
-- 358
-- 1295
+- 100
+- 820
 - 5916
 - 6364
 # Reviewed: the legend still reads FRONT LINE and the line is drawn as an ordinary ticked front; no line of contact with the Soviets drawn. All 60 towns on 9 May's side. 126 stretches, about 2777 km, 0 unsure. Four flips by hand: the Tauern hairpin tip near Salzburg (the map's ticks seen inside it on a close crop), and the curl at the foot of the Tyrol loop near Scharnitz, turned by continuity with its ticked neighbour (too few ticks to read; an inference, no town depends on it). The Mühldorf-Altötting-Salzach line drawn plain and boxed (two more boxes; railway ticks beside it had made a run read ticked); three stray runs on the Chiemsee and Bodensee boxed.
 # Reviewed later (from 11 May): the box [3007,6082,3097,6152], carried from 8 May as a plain band, cut the ticked top bar and left stem of the Allgäu loop here (crop 2700,5800: the map's ticks stand on the bar's north side); removed, the loop traces whole with its red ticks outside, one more stretch, no town changes side. 7-9 May trace the loop without it.
+# Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) so the ticked front in the north-west outside the old area is traced: the ticked Friesland coast west of Dokkum. Each added stretch located by the reviewer (5.4-6.0E, 52.6-53.4N, the 30 April one 51.9-52.4N); no town changes side.

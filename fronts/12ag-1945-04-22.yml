@@ -7,7 +7,7 @@ report: 321                      # top right: "TO ACCOMPANY G-3 REPORT NO. 321"
 title: "12 Army Group Outline Map 1:1,400,000. Top right, lettered by hand: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 321, SITUATION AS OF 221200 APR. 1945, signed C. T. Schmidt for A. FRANKLIN KIBLER, Brigadier General, G.S.C., A.C. of S., G-3"
 read: the title on the sheet (title.jpg via --title 3900 200 1700 1000), 7 Nov 2026
 gcps_from: 12ag-1945-04-21
-area: [400, 1730, 840, 2170]   # traces past the towns spread: the Deventer-Apeldoorn arc and its run down to the Rhine, west of the 6E crossings
+area: [100, 820, 840, 2170]   # traces past the towns spread: the Deventer-Apeldoorn arc and its run down to the Rhine, west of the 6E crossings
 exclude:
   - {box: [4054, 306, 5644, 1176], why: "the title block's lettering, top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 318, SITUATION AS OF 191200 APR. 1945, the signature, Brigadier General, A.C. of S., G-3); runs 1-12, 15-39, 53-66 are letters; the front's nearest stretches are below y 1250 (Elbe at Wittenberge, run 78 at 3905,1291)"}
   - {box: [117, 317, 1319, 731], why: "the stamp top left (Auth: CG, Twelfth Army Group / Initials / Date: 19 APRIL 1945, and its frame); runs 13 and 14 (998,669 and 917,659); the front's first stretches here are at y 900 and below (run 40 at 791,919)"}
@@ -59,3 +59,4 @@ checked:
 # symbols, on the US side.
 # Reviewed: 57 of 60 towns on 21 April's side. 6E 52N reads enemy only because the ticked Deventer-Apeldoorn arc is joined today to a run that reaches the sheet's west edge, past the towns' spread, and is dropped (the trace-area limit); it was US-side. 11E 53N (Gartow) and 12E 52N (the Barby bridgehead's corner) sit under the line.
 # Reviewed (area, 7 Nov 2026): `area: [400, 1730, 840, 2170]` takes in the Deventer-Apeldoorn arc and its run down the west side to the Rhine opposite Nijmegen: 3 stretches added, 2088 -> 2206 km (89 -> 92); red ticks checked on overlay crop 300 1500 800 700 against the map's ticks. 6E 52N now reads own (US) by the arc's runs (it was enemy); no other town changed side. The arc's blunt hook end at Deventer (about 820,1765-1790) is a short heavy end with no ticks, left as the tool traced it.
+# Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) so the ticked front in the north-west outside the old area is traced: the ticked Friesland coast west of Dokkum and the ticked line round the IJsselmeer's north-east shore by the Noordoostpolder. Each added stretch located by the reviewer (5.4-6.0E, 52.6-53.4N, the 30 April one 51.9-52.4N); no town changes side.

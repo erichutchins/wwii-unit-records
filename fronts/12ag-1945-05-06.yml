@@ -970,8 +970,9 @@ exclude:
 flip: []
 checked: []
 area:
-- 342
-- 1231
+- 100
+- 820
 - 5900
 - 6300
 # Reviewed: --sides diffed with 5 May: 58 of 60 agree. 14E 48N own ("by run 126 own at 5002,5586"; 5 May enemy): the Linz-Steyr loop is drawn ticked today (short strokes on its west and inside, the US 65, 71 and 80 side) and is traced, so 5 May's box over it is dropped here; own is right. 12E 52N enemy ("by run 72 enemy at 4019,2166"): the ring sits under the Elbe line at Zerbst, a weak test. Glonn (12E 48N), 6E and 7E 52N own. Area widened east to take in the Salzburg-Berchtesgaden front (5 May corrected the same way). 151 stretches, about 2850 km, no turns; the Schönberg chord of 5 May is not drawn; two stubs left unsure (Traunstein wedge tip, a hook end at the south edge). Four boxes added where the shifted title and legend boxes fell short.
+# Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) so the ticked front in the north-west outside the old area is traced: the ticked Friesland coast west of Dokkum. Each added stretch located by the reviewer (5.4-6.0E, 52.6-53.4N, the 30 April one 51.9-52.4N); no town changes side.

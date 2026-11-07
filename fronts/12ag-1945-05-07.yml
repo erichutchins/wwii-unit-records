@@ -1039,8 +1039,8 @@ exclude:
   - 6258
   why: 'NEW on 05-07, boxed at its middle (a heavy untick run that slipped outside 05-06''s shifted boxes): run 188: the blunt end of the same tapering band, no ticks (looked, --look 3111,6223)'
 area:
-- 334
-- 1231
+- 100
+- 820
 - 5892
 - 6300
 flip:
@@ -1058,3 +1058,4 @@ flip:
   why: 'run 156 (2998,5988), the Allgaeu loop''s upper-left arc (Staufen-Sonthofen): the tool''s red ticks fall inside (east and south) while the map''s own short strokes stand outside on the north and west (US side; looked on overlay crop 2780 5960 260 180 enlarged, --look 2840,6120); 05-06 had this stretch right and the three towns 8E, 9E, 10E 48N own by it'
 checked: []
 # Reviewed: 60 of 60 towns on 6 May's side, after three runs of the Allgäu loop's upper-left arc were flipped (their red ticks fell inside the loop, the map's stand outside; unflipped they put 8E, 9E and 10E 48N enemy). The sheet draws the Elbe-Mulde line, the Czech border and the Austrian line as one ticked front, with no separate meeting-line symbol. 175 stretches, about 2630 km (6 May 2855): the Allgäu loop's left leg below y 6110 and the hook at its south edge are drawn as one heavy band with no readable ticks (crop 2700,5850) and are not traced; one unsure heavy band from Neuenburg toward Wilhelmshaven left as found. 6 May's south-edge box dropped (the line there is ticked today and traced); 13 boundary boxes added where shifted boxes fell short.
+# Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) so the ticked front in the north-west outside the old area is traced: the ticked Friesland coast west of Dokkum. Each added stretch located by the reviewer (5.4-6.0E, 52.6-53.4N, the 30 April one 51.9-52.4N); no town changes side.

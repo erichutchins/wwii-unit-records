@@ -1325,8 +1325,9 @@ checked:
   - 464
   why: '05-11''s entry shifted +16,+16 (05-11''s reason follows): NEW on 05-11: run at 3346,448, the short heavy connector across the Trave mouth at Travemuende (unsure, one red tick): the heavy black line is continuous through it and the ticks of its neighbours stand on the same side; its red tick falls where the map draws one (looked, overlay crop 3230 380 250 160 enlarged)'
 area:
-- 358
-- 1287
+- 100
+- 820
 - 5916
 - 6356
 # Reviewed: the legend still reads FRONT LINE; an ordinary ticked front, no line of contact with the Soviets. All 60 towns on 11 May's side. 146 stretches, about 2783 km, 0 unsure. Four of 11 May's boxes dropped because on this sheet they hold ticked front: east of Schwerin, the band from Ratzeburg to Gadebusch, and the bulge by Lenggries (crop 3250,520 read by the reviewer: the front runs there today). On 11 May the same boxes sit on the Schweriner See's and a small lake's edges and are right there (checked). Flips: the Tauern tip (re-centred), the Allgäu loop's east bar and the bar of the Dollart finger by Groningen (the map's ticks on their outer side); the Dollart bar's upper run left as traced (flipping it put 7E 53N enemy). One boundary box added (Osnabrück-Hannover).
+# Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) so the ticked front in the north-west outside the old area is traced: the ticked Friesland coast west of Dokkum. Each added stretch located by the reviewer (5.4-6.0E, 52.6-53.4N, the 30 April one 51.9-52.4N); no town changes side.

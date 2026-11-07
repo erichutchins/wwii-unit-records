@@ -1336,8 +1336,9 @@ checked:
   - 448
   why: 'NEW on 05-11: run at 3346,448, the short heavy connector across the Trave mouth at Travemuende (unsure, one red tick): the heavy black line is continuous through it and the ticks of its neighbours stand on the same side; its red tick falls where the map draws one (looked, overlay crop 3230 380 250 160 enlarged)'
 area:
-- 342
-- 1271
+- 100
+- 820
 - 5900
 - 6340
 # Reviewed: the legend still reads FRONT LINE, drawn as an ordinary ticked front; no line of contact with the Soviets. All 60 towns on 10 May's side. 174 stretches, about 2923 km, 0 unsure. The Allgäu loop at Oberstdorf traces whole (top bar and stems, ticks outside; crop 2700,5800 read by the reviewer), its box dropped (10 May corrected the same way). Tauern hairpin flips kept (re-centred); the Scharnitz flips dropped (both arms come out right by themselves). One check at the Trave mouth. Boxes added on lake edges (the Schweriner See, Chiemsee and others, a heavier Bodensee edge), the Elbe estuary edge and the Dannenberg-Uelzen boundary. A gap of about 100 px west of the Schweriner See.
+# Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) so the ticked front in the north-west outside the old area is traced: the ticked Friesland coast west of Dokkum. Each added stretch located by the reviewer (5.4-6.0E, 52.6-53.4N, the 30 April one 51.9-52.4N); no town changes side.

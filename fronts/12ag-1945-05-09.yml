@@ -1076,8 +1076,9 @@ checked:
   - 5382
   why: 'run at 5667,5382, the blunt east end of the Enns hook south of Linz: strokes of the map''s ticks on its upper side where the red ticks fall, as on the stretch it continues and as on 05-08 (looked, --look 5667,5382)'
 area:
-- 342
-- 1295
+- 100
+- 820
 - 5900
 - 6364
 # Reviewed: the day after VE Day the legend and drawing are unchanged: the same ticked front line (north-west coast, Elbe-Mulde, the Czech border, the Austrian salient to the Enns, the Allgäu loops), no line of contact drawn with the Soviets. All 60 towns on 8 May's side (34 own, 26 enemy). 138 stretches, about 2796 km, no flips; the Enns hook's end checked by eye; one stub near Emden left as found. The Mühldorf-Altötting-Salzach line plain and boxed, as on 8 May. Three boundary boxes added where shifted boxes fell short (the scans differ in size).
+# Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) as on the days around it; on this sheet nothing more traces there, no town changes side.
