@@ -1,0 +1,29 @@
+# 12ag-1944-08-10: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21066
+date: 1944-08-10
+as_of: 1200 HRS 10 AUGUST 1944
+title: "Situation 1200 hrs 10 August 1944, Twelfth Army Group (SECRET struck through; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B02.csv
+radius: 2   # as 9 August
+exclude:
+  - {box: [1050, 680, 3350, 1260], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 10 AUGUST 1944, TWELFTH ARMY GROUP), read with --title 900 600 2600 800; same place as 9 August"}
+  - {box: [100, 4600, 1000, 5300], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE) bottom left, with its sample of the front line; read on the overlay crop 0,4500 (lettering and symbol frames read as stretches); a sample not a front"}
+  - {box: [4300, 4850, 4960, 5290], why: "the DESTROYED box of enemy divisions (frame and its heading rule), bottom centre: a list's frame, not front (looked at on the overlay crop 4200,4500)"}
+  - {box: [5150, 4860, 5740, 5090], why: "the UNLOCATED box (frame and heading rule), bottom right: a list's frame, not front (looked at on the overlay crop 4200,4500)"}
+  - {box: [5050, 1525, 5088, 1568], why: "the heavy stub north-west of the front at Vire: an army boundary running up to the front, no ticks, a short hook (looked at 4x at 5072,1558); the front's own run goes east and south from it"}
+  - {box: [5045, 2050, 5100, 2085], why: "the frame of the enemy symbol '2SS' south of Mortain: symbol ink, not front (looked at 4x at 5067,2070); the front's diagonal lies west of the box"}
+  - {box: [6400, 2020, 6500, 2100], why: "an enemy army symbol's frame (XXXX), east of Mortain, read as a short stretch at 6449,2060 (seen on the overlay crop 4600,1000): symbol ink, not front"}
+  - {box: [5790, 2190, 5900, 2260], why: "an enemy corps symbol's frame (XXX) near Champsecret, read as a short stretch at 5843,2229 (seen on the overlay crop 4600,1000): symbol ink, not front"}
+  - {box: [5590, 2910, 5720, 3020], why: "the frame of the enemy symbol '708' at Aron, read as a short stretch at 5640,2963: symbol ink, not front (looked at 4x at 5650,2965)"}
+  - {box: [5245, 2180, 5335, 2232], why: "the frame of the enemy symbol '10SS' at Domfront, read as a short stretch at 5265,2200: symbol ink, not front (seen on the overlay crop 4800,1950 at 3x); the front's own end lies west and south of the box"}
+flip: []
+checked:
+  - {at: [6243, 958], why: "the east side of the Canadian tongue, Rocquancourt to Conde-sur-Ifs (runs 1 and 6, no ticks counted): looked at 3x on the overlay crop 5780,880 and 6000,900: the map's ticks are on its west, as are the red ticks"}
+  - {at: [6246, 1034], why: "the same east-side line, the stretch south of run 1 (overlay crop 6000,900 at 3x): ticks and red ticks on the west"}
+  - {at: [5863, 1085], why: "a short stretch of the Orne-side line north of Thury-Harcourt, no ticks counted: the map's ticks and the red tick are on its west (overlay crop 5550,1050 at 3x)"}
+  - {at: [5716, 1194], why: "Bourg-Bretteville toward the Orne, no ticks counted (runs 11, 12): the map's ticks and the red ticks are on the same side, north-west (overlay crop 5550,1050 at 3x)"}
+  - {at: [5624, 1246], why: "as 5716,1194 (the same line, run 12)"}
+# Reader (10 Aug): every box re-tested by removing it (each raised the stretch count; none dropped). Boxes copied from 9 August: the title block (same place), the legend (same place), the DESTROYED and UNLOCATED list frames (same places, tightened); new today: the Vire boundary stub and four enemy symbol frames the mask read as stretches (2SS, XXXX east of Mortain, XXX near Champsecret, 708 at Aron, 10SS at Domfront). The Mortain salient is ticked and traced; no turns; every stretch's red ticks agree with the map's on the 3x overlay crops. NOT TRACED: the east side from the Orne tip (about 5930,915) round the Canadian tongue is mostly traced today (the tongue's arc and its east side to about 6231,898); what the mask never reads is the heavy ticked line from about 6231,898 north to the coast near Cabourg (about 6190,450, some 450 px), looked at 3x at 6231,500: dark, ticks on its west, but not taken at radius 1, 2 or 3 (radius 3 with 24 stretches and no unsure was tried). The south end of the front at Domfront runs about 60 px past the traced end (about 5222,2250).
+# Reviewed: 30 stretches, 99 km, from the Orne tip by Villers-Bocage and Vire round the Mortain salient (ticked west and south) to Domfront; no turns, five stretches confirmed by eye. The east line from about 6231,898 north to the coast near Cabourg (about 450 px, dark and ticked on its west) is NOT traced, cause unknown; the south end stops about 60 px short of the tip at 5222,2250. Towns south of the open end at Domfront (0.5W 48N, 0E 48N, 47.5N row) read enemy: the open-end artefact, not a wrong stretch. Twelve boxes, each re-tested by removing it.
