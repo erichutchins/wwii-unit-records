@@ -1,0 +1,31 @@
+# 12ag-1944-11-20: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21169
+date: 1944-11-20
+as_of: 1200 HRS 20 NOVEMBER 1944
+title: "Situation 1200 hrs 20 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-19
+exclude:
+  - {box: [388,232,2384,720], why: "title"}
+  - {box: [216,4856,1096,5592], why: "legend"}
+  - {box: [2224,1714,3680,2062], why: "the Twenty One/Twelfth army group boundary from west of Tirlemont to the front near Maastricht (heavy black, no map ticks)"}
+  - {box: [3696,1692,3786,1752], why: "army boundary stub at Geilenkirchen, heavy black, no ticks"}
+  - {box: [3580,1745,3745,1815], why: "the Ninth/First army boundary's stub to the front at Geilenkirchen (west of the 84 symbol), heavy black, no ticks; ran as an unsure run, middle 3685,1779"}
+  - {box: [3610,3615,3790,3685], why: "the First/Third army boundary (labelled FIRST xxxx THIRD) near Esch-sur-Alzette, heavy black, no map ticks; ran as two unsure runs, middles 3684,3643 and 3738,3655"}
+  - {box: [4020,4744,4120,4814], why: "the Twelfth/Sixth army group boundary's end near Dombasle, heavy black, no ticks"}
+  - {box: [3422,5004,3782,5234], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, heavy black, no map ticks"}
+flip: []
+checked:
+  - {at: [2402, 748], why: "the front on the Scheldt north shore under the 346 (ELMS) symbol, a gap between ticked runs; the map's ticks along it are on the south (US) side (crop 1800,550 1000x500, look 2402,748)"}
+  - {at: [2348, 790], why: "same stretch, its western piece at Volkerak; the map's ticks are on the south (US) side (look 2348,790)"}
+  - {at: [4453, 5565], why: "the front's southward run below Gerardmer toward the foot of the sheet, unticked at the end but the map's ticks are on its west (US) side as on the run above (crop 4100,5350 600x400)"}
+
+# Reader: title agrees with the catalogue (1200 HRS 20 NOVEMBER 1944; SECRET underlined; no report number).
+# Reader: towns: --gcps-from 12ag-1944-11-19 accepted on the one run: offset -8,-56 px, 56 of 81 agree, median 1.2 px, 25 placed through the transform (Eindhoven, Nijmegen 12; 's-Hertogenbosch 10; Arnhem, Kleve, Bitburg, Karlsruhe 11; Trier, Zweibruecken, Pirmasens, Landau 10; Metz 6; Saint-Die 7). Fit over all 81: rms 0.9 km (leave-one-out 0.9, worst Beauvais 2.3 km).
+# Reader: boxes: 11-19's six shifted -8,-56. Each left out in turn: title (without: 102 stretches, 37 unsure), legend (87, 20 unsure), Twenty One/Twelfth (66, adds boundary pieces), Geilenkirchen 3696,1692 (64), Dombasle end 4020,4744 (64, unsure 4043,4798), SW of Dombasle (64, unsure 3590,5099): all kept. New today: the Ninth/First stub west of the 84 symbol (middle 3685,1779; without: unsure run) and the First/Third boundary near Esch-sur-Alzette (middles 3684,3643 and 3738,3655; without: two unsure runs), both heavy black with no ticks (crops 3350,1500 700x500; 3300,3450 700x350). First Canadian/Second British boundary is thin on this sheet, not traced. Seventh/First boundary near Gerardmer: not boxed, its end touches the front at about 4430,5495 (a small hook in the blue, crop 3900,4900 800x800); unsure whether it adds a stub, no unsure run reported.
+# Reader: checked: the 11-19 Tholen arc-head check dropped (arc head traces with its own ticks today). Three unsure runs checked instead: 2402,748 and 2348,790 (the Scheldt north-shore front under the 346 (ELMS) symbol, ticks on the south side, seen on look.jpg) and 4453,5565 (front south of Gerardmer to the sheet's foot, map ticks on its west). flip: none, Scheldt hook red ticks on the map's.
+# Reader: front: 63 stretches (53 ticks, 7 line, 3 checked by eye, 0 unsure); 822 km (own sum of the GeoJSON legs; 11-19 the same way 907 km); southmost 47.98N (the sheet's foot). 85 km shorter than 11-19, which the map explains: Metz is now two small pockets west of the city, not a ring on three sides (crop 3500,3900 800x500), and the Vosges line is straighter. Geilenkirchen-Eschweiler crop continuous (3700,1650 800x850). No gap found, so dark kept at 70, not tried at 80.
+# Reader: sides: 81 of 81 as on 11-19, no town changes side (11-19 GeoJSON byte-identical to its backup after the --sides run). Arnhem enemy ("by run 1 enemy at 3204,488, run 2 enemy at 3599,438"); Nijmegen own; Epinal own; Ostend own ("by run 20 own at 1588,954 ... run 16 enemy at 1776,879", the Walcheren-arc run that was also enemy on 11-19). Metz enemy ("Metz             enemy     by run 52 enemy at 3802,4155"): the ring is not closed, the city lies between pockets, German-held. Saint-Die enemy ("by run 60 enemy at 4492,5240"), on the line: a weak test.
+# Reviewed: whole-sheet overlay looked at: one continuous ticked front from the Walcheren arcs (traced, despite the reader's note) to the sheet's foot below Gerardmer; Metz is drawn as a small loop west of the city, not the three-sided ring of 11-18/19, which with a straighter Vosges line accounts for the shorter length (about 822 km against 907). No boundary traced. 81 of 81 towns as 11-19; Metz enemy.
