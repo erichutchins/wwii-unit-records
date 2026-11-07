@@ -1,0 +1,22 @@
+# 12ag-1944-08-21: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21077
+date: 1944-08-21
+as_of: 1200 HRS 21 AUGUST 1944
+title: "Situation 1200 hrs 21 August 1944; 1:500,000 sheet (B04)"
+read: the title on the sheet (bottom left on this base, read on the region 200,4100 2600x1000), 7 Nov 2026
+gcps_from: towns-B04.csv
+radius: 4
+area: [500, 250, 3300, 3300]   # copied from 08-20
+exclude:
+  - {box: [200, 4560, 2550, 5050], why: "the title block's lettering (same place as 20 Aug: SITUATION 1200 HRS 21 AUGUST 1944, lettering at x 250-2400, y 4690-4800 on the scan)"}
+  - {box: [5600, 4950, 6686, 5984], why: "the legend's place, bottom right, copied from 20 Aug; this sheet draws no legend there (only the Library's NOV 1 1944 stamp), so the box takes in nothing"}
+  - {box: [4180, 330, 4600, 1070], why: "the heavy frame of the REPORTED IN TRAP list (frame ink x 4195-4545, y 350-1030 on the overlay crop 4100,0 1000x1100; box leaves 15-25 px round it; same place as 20 Aug)"}
+flip: []
+checked: []
+# Reviewed: 7 Nov 2026 (q-0821). Title: 1200 HRS 21 AUGUST 1944, agrees with the catalogue; no report number. 27 of 28 towns agree (median 1.4 px; 0.5W 49N, 52 px off, placed through the transform).
+# 12 stretches (12 ticks, 0 line, 0 unsure), 181.8 km. No flips, no checked: every red tick, looked at on three overlay crops (3000,250 / 3000,800 / 2800,1350), falls on the map's own hatching.
+# Falaise: the ring the sheet draws (Argentan wall, the west lobe, the tongue's diagonal wall) is closed on the sheet, enemy inside, ticks outside it; traced runs 6, 8, 9, 10 form it, with gaps of 15 px (10 to 6 at the tongue's tip) and 18 px (8 to 9), both under 20. The tongue's east side is run 7 (ticks on the tongue side, CDN 4 and POL inside); the sheet's east line stands about 40 px east of the tip.
+# Gap over 20 px: run 3's end (0.0610E 49.1285N) to run 4's start (0.1547E 49.1058N), about 7.3 km (175 px), the heavy ticked front east of Dives to Livarot (scan about 3390-3550, 790-840): ink there is front, ticks on the south side (looked at 3470,810), untraced (too thick for the mask). Not hand-traced.
+# Ends: north (-0.141, 49.2939) at the Dives coast; south-east (0.2817, 48.7315) at the stub south-east of Exmes. Open ends and the sides test: 0.5E 48.5N reads own (US) and the far-east/south towns are one-sided, beyond the line's open end.
+# Reviewed: the Falaise ring closed on the sheet and in the trace (gaps under 20 px), the enemy inside, the Canadian-Polish tongue's ticks on its own side; none turned. One gap: the heavy ticked front east of Dives (about 3390-3550, 790-840; 7.3 km), too thick for the mask. 0.5E 48.5N reads own past the line's open south-east end, a weak test.
