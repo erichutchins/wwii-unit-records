@@ -16,7 +16,8 @@ exclude:
   - {box: [3610,3615,3790,3685], why: "the First/Third army boundary (labelled FIRST xxxx THIRD) near Esch-sur-Alzette, heavy black, no map ticks; ran as two unsure runs, middles 3684,3643 and 3738,3655"}
   - {box: [4020,4744,4120,4814], why: "the Twelfth/Sixth army group boundary's end near Dombasle, heavy black, no ticks"}
   - {box: [3422,5004,3782,5234], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, heavy black, no map ticks"}
-flip: []
+flip:
+  - {at: [1588, 954], why: "the Walcheren arc's west leg (Westkapelle): the map's teeth hang inside the arc (Allied Walcheren), the tool's red ticks stood outside; added on review of 21 Nov (overlay crop 1540,820), as 11-21 turns the same leg"}
 checked:
   - {at: [2402, 748], why: "the front on the Scheldt north shore under the 346 (ELMS) symbol, a gap between ticked runs; the map's ticks along it are on the south (US) side (crop 1800,550 1000x500, look 2402,748)"}
   - {at: [2348, 790], why: "same stretch, its western piece at Volkerak; the map's ticks are on the south (US) side (look 2348,790)"}
@@ -29,3 +30,4 @@ checked:
 # Reader: front: 63 stretches (53 ticks, 7 line, 3 checked by eye, 0 unsure); 822 km (own sum of the GeoJSON legs; 11-19 the same way 907 km); southmost 47.98N (the sheet's foot). 85 km shorter than 11-19, which the map explains: Metz is now two small pockets west of the city, not a ring on three sides (crop 3500,3900 800x500), and the Vosges line is straighter. Geilenkirchen-Eschweiler crop continuous (3700,1650 800x850). No gap found, so dark kept at 70, not tried at 80.
 # Reader: sides: 81 of 81 as on 11-19, no town changes side (11-19 GeoJSON byte-identical to its backup after the --sides run). Arnhem enemy ("by run 1 enemy at 3204,488, run 2 enemy at 3599,438"); Nijmegen own; Epinal own; Ostend own ("by run 20 own at 1588,954 ... run 16 enemy at 1776,879", the Walcheren-arc run that was also enemy on 11-19). Metz enemy ("Metz             enemy     by run 52 enemy at 3802,4155"): the ring is not closed, the city lies between pockets, German-held. Saint-Die enemy ("by run 60 enemy at 4492,5240"), on the line: a weak test.
 # Reviewed: whole-sheet overlay looked at: one continuous ticked front from the Walcheren arcs (traced, despite the reader's note) to the sheet's foot below Gerardmer; Metz is drawn as a small loop west of the city, not the three-sided ring of 11-18/19, which with a straighter Vosges line accounts for the shorter length (about 822 km against 907). No boundary traced. 81 of 81 towns as 11-19; Metz enemy.
+# Reviewed (again, on 21 Nov's review): the Walcheren arc's west leg was turned the wrong way (red ticks outside, the map's teeth inside); flipped. WRONG side: Ostend now reads enemy, an open-arc artefact (it lies beyond the arc's open west end, which the nearest leg's outside faces; Ostend was Allied from September 1944). Its earlier own came from the mis-turned leg.

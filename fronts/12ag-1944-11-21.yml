@@ -1,0 +1,37 @@
+# 12ag-1944-11-21: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21170
+date: 1944-11-21
+as_of: 1200 HRS 21 NOVEMBER 1944
+title: "Situation 1200 hrs 21 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-20
+dark: 90
+area: [1300, 700, 1900, 1100]
+exclude:
+  - {box: [404,288,2400,776], why: "title"}
+  - {box: [232,4912,1112,5648], why: "legend"}
+  - {box: [2240,1770,3696,2118], why: "the Twenty One/Twelfth army group boundary from west of Tirlemont to the front near Maastricht (heavy black, no map ticks)"}
+  - {box: [4036,4800,4136,4870], why: "the Twelfth/Sixth army group boundary's end near Dombasle, heavy black, no ticks"}
+  - {box: [3438,5060,3798,5290], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, heavy black, no map ticks"}
+  - {box: [2830,1330,2960,1545], why: "First Canadian/Second British army boundary, Turnhout-Mol reach (heavy black here, grey railway ticks beside it); ran as unsure runs, middles 2886,1474 and 2916,1371"}
+  - {box: [2960,1170,3085,1265], why: "First Canadian/Second British army boundary near Eindhoven, heavy black; unsure run, middle 3017,1217"}
+  - {box: [3200,860,3400,1010], why: "First Canadian/Second British army boundary north-east of Eindhoven, heavy black; ran as a ticked run on the railway's ticks"}
+  - {box: [3560,770,3650,870], why: "First Canadian/Second British army boundary's end near Cuijk, heavy black; unsure run, middle 3592,808"}
+  - {box: [3860,4955,3960,5035], why: "the Twelfth/Sixth army group boundary's end west of Bayon, heavy black; unsure run, middle 3905,4994"}
+  - {box: [3800,1925,3900,2000], why: "the 104 unit symbol's heavy outline (a stretch at dark 90, unsure, middle 3844,1959), not the front"}
+flip:
+  - {at: [1794, 949], why: "Walcheren: west leg of the Beveland arc, no tick counted; the map's ticks hang on the inner (east) side, the red ticks fell outside (look 1794,949)"}
+  - {at: [1590, 987], why: "Walcheren: the west arc's west leg near Westkapelle, no tick counted; the map's ticks point inward (east), the red ticks fell outside (look 1590,987)"}
+checked: []
+
+# Reader: title agrees with the catalogue (1200 HRS 21 NOVEMBER 1944; SECRET underlined; no report number).
+# Reader: towns: --gcps-from 12ag-1944-11-20 accepted on the one run: offset +16,+56 px, 67 of 81 agree, median 1.1 px, 14 placed through the transform (Julich, Gemund, Kempenich, Adenau, Epinal, Saint-Die, Metz, Marche, Turnhout, Eindhoven, 's-Hertogenbosch, Nijmegen, Paderborn, Prum). Fit over all 81: rms 0.9 km (leave-one-out 0.9, worst Beauvais 2.2 km).
+# Reader: dark: 90. At 70 the front came out in pieces (the print is paler: Scheldt north shore and the Roer reach broken); at 80 the Scheldt line was whole but the Walcheren/Beveland arcs were missing; 90 takes them. area: Walcheren box added while looking for those arcs (it made no difference by itself; the arcs came with dark 90), kept harmlessly.
+# Reader: boxes: 11-20's shifted +16,+56 and each tried out in turn. Kept (each catches heavy black with no ticks, shown by what comes back without it): title (78 stretches, 11 unsure), legend (79, 16 unsure), Twenty One/Twelfth (65, 3 unsure), Dombasle end (unsure 4061,4854), SW of Dombasle (unsure 3607,5173). Dropped as catching nothing today (62 stretches, 0 unsure with or without): the two Geilenkirchen stubs and the First/Third boundary near Esch-sur-Alzette. New: the First Canadian/Second British boundary is heavy black here (four boxes: Turnhout-Mol, near Eindhoven, north-east of Eindhoven which otherwise comes back as a ticked run on the railway ticks, and its end near Cuijk), the Twelfth/Sixth end west of Bayon (3860,4955), and the 104 symbol's outline (an unsure run at 3844,1959 only at dark 90). Seventh/First boundary near Gerardmer: its end merges into the front's small hook at about 4470,5565 and traces no stub (crop 4350,5500 250x160), so not boxed.
+# Reader: checked: none needed today. 11-20's three (Scheldt north shore under 346, south of Gerardmer) now trace with ticks of their own, 0 checked by eye.
+# Reader: flips: two unsure runs on Walcheren, the west leg of the Beveland arc (1794,949) and the west arc's west leg at Westkapelle (1590,987), flipped: the map's ticks hang on the inner (island) side and the red ticks fell outside. The Scheldt hook needed none.
+# Reader: front: 62 stretches (48 ticks, 12 line, 2 by hand, 0 unsure); 872 km (own sum of the GeoJSON legs; 11-20 the same way 822 km); southmost 47.99N (the sheet's foot). Unlike 11-20 the Walcheren arcs, not all traced there, are whole; I did not account for all of the 50 km. Metz is two small loops west of the city, as on 11-20 (crop 3550,3950 800x500). Roer reach (3500,1650) and Vosges reach (3950,4950) read continuous on crops.
+# Reader: sides: 80 of 81 as on 11-20 (11-20's GeoJSON byte-identical to its backup after the --sides run). Changed: Ostend, 11-20 "Ostend           own (US)  by run 20 own at 1588,954, run 19 own at 1649,888, run 18 own at 1747,910, run 16 enemy at 1776,879"; today "Ostend           enemy     by run 15 enemy at 1591,986, run 13 own at 1657,934, run 16 own at 1768,974, run 14 enemy at 1793,948". Ostend is 600 px from the Walcheren arcs, far outside the bridgehead; the map's ticks are inside the arcs, and on 11-20 the west-leg run 20 had its red ticks outside (look at the Walcheren crop), which made Ostend own; today with the ticks inside it reads enemy. Open-arc artefact, not a town taken. Arnhem enemy ("by run 1 enemy at 3440,444"); Nijmegen own; Epinal own; Metz enemy ("by run 44 enemy at 3871,4208"): the ring lies inside the small loop of pockets; Saint-Die enemy ("by run 61 enemy at 4528,5362"), still German on the 21st, line close by.
+# Reviewed: a paler print (dark 90; at 70 the Walcheren and Beveland arcs were missing). Scan and overlay enlarged at 1560,850: the map's teeth hang inside both arcs (Allied Walcheren and Beveland), and the two flips put the red ticks there; right. WRONG side: Ostend reads enemy, an open-arc artefact (beyond the arc's open west end; Allied from September 1944); 11-20's own came from that day's mis-turned west leg, now fixed. Metz enemy (inside the small loop). Length about 872 km (the arcs whole today). 80 of 81 towns as 11-20 (Ostend).
