@@ -146,7 +146,7 @@ Each map has four files:
 - `<map>.yml` (hand-written): what was read and decided for the day. `item`, `date` (the catalogue's); `as_of`, `report`
   and `title` as read on the sheet, and `read`, when; `gcps_from`, the day whose towns this sheet's are matched to (the
   same base sheet), or `gcps_read: by eye` for a base sheet's first day; `runs`, the front as waypoints on the scan where
-  it is traced that way (7 March); `area`, an optional box `[x0, y0, x1, y1]` on the scan that widens the traced area beyond the towns' spread (for front past the outermost towns); `exclude`, boxes on the scan whose heavy ink isn't the front; `flip` and `checked`,
+  it is traced that way (7 March); `area`, an optional box `[x0, y0, x1, y1]` on the scan that widens the traced area beyond the towns' spread (for front past the outermost towns); `dark`, the grey cutoff for the front's ink (default 70; raised on a light print whose line is drawn thinner or paler, as on the June 1944 Normandy sheets, where 70 loses much of the line at every radius); `exclude`, boxes on the scan whose heavy ink isn't the front; `flip` and `checked`,
   stretches turned or confirmed by hand after a look, each a point on the scan near the stretch; every one with its
   `why`. The tool refuses to trace a day without it.
 - `<map>-gcps.csv` (hand-checked, or matched): the 20 town rings the scan is fitted to. `x`, `y`: the ring's centre on the
