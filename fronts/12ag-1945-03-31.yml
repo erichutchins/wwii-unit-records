@@ -1,0 +1,20 @@
+# 12ag-1945-03-31: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21300
+date: 1945-03-31
+as_of: 311200 MAR. 1945
+report: 299
+title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 299, situation as of 311200 Mar. 1945 (signed)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1945-03-29
+# Base B12 (1:1,000,000). The 8 excludes of 12ag-1945-03-29 were each tried alone on this sheet (a trace with no boxes, then
+# one box at a time). Dropped because they remove no stretch today: the legend, the Liege-Julich boundary, the old
+# Julich-Neuss box (that boundary now runs elsewhere, see below), the Kaiserslautern scrap, the Oppenheim box (moved).
+exclude:
+  - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER ...): removes the unsure run at 834,1360, all lettering; the front lies below"}
+  - {box: [1820, 4760, 2720, 5030], why: "the TWELFTH / SIXTH army group boundary from Conflans to Saarlautern, heavy black, no map ticks: widened from 03-29 (x1 2650 to 2720) to meet the next box; removes the runs at 2691,4895, 2455,4924 and 2376,4937 (magenta, unsure) (plot: crop 2200,4000)"}
+  - {box: [2720, 4380, 3060, 4960], why: "the same boundary's course from Saarlautern NE to the Glan (corner, diagonal and vertical leg): plain heavy black, no ticks, US on both sides; 03-29's box, enlarged upward (top 4440 to 4380) so the leg's upper end at 3030,4422 goes too (crop 2200,4000)"}
+  - {box: [2150, 2230, 2480, 2440], why: "the TWENTY ONE / TWELFTH army group boundary from the Maas-Rhine hatched belt past Rheydt to Neuss: heavy black, no ticks; removes the unsure magenta scrap at 2189,2393 and run 28 (middle 2444,2364) (crop 1900,2150); the front is the Rhine, east of it"}
+  - {box: [3800, 4150, 3960, 4250], why: "the Sixth army group's boundary where it ends at Oppenheim (TWELFTH / SIXTH lettering): plain heavy black, no ticks, the unsure magenta scrap at 3870,4205 (crop 3500,3800); the front is the blue Darmstadt stretch to the east"}
+flip: []
+checked: []
+# Reviewed: 80 of 81 towns on 29 March's side; Siegburg back to enemy (right). The sheet draws no closed Ruhr ring on 31 March; the heavy ticked line north-east of Paderborn is past the towns' spread and untraced.
