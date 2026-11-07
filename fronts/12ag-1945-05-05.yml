@@ -10,8 +10,8 @@ gcps_from: 12ag-1945-05-04
 area:
 - 334
 - 1247
-- 4252
-- 6218
+- 5892
+- 6316
 exclude:
 - box:
   - 4030
@@ -948,7 +948,7 @@ exclude:
   - 5448
   - 5415
   - 5508
-  why: 'added today, measured on this sheet''s unboxed trace: a very heavy boundary band meeting the front at the sheet''s east end near Neubofen (225 px, unsure): no ticks, much heavier than the front (looked, --look 5385,5478)'
+  why: 'a very heavy band from Linz toward Steyr, no ticks on this sheet (unsure when unboxed, overlay crop 3700,5150); on 6 May it is drawn ticked and traced'
 flip:
 - at:
   - 4591
@@ -960,3 +960,4 @@ checked:
   - 5358
   why: 'the Inn corridor''s lower line, the first stub (unsure, magenta, 4507-4537,5358; 05-04''s flip at 4580-4600,5411, found on today''s sheet 21 px up and 58 px left): today its red ticks already fall north, with the map''s own ticks on the lower line''s north side (the Allied side; open US box 13 north); not flipped, as 05-04''s was, since the red ticks already fall the right way (looked, overlay crop 4440 5320 300 130 enlarged, --look 4522,5358)'
 # Reviewed: --sides diffed with 4 May: 60 of 60 agree (12E 48N own, 12E 52N own under the Elbe line, weak; 6E and 7E 52N own), after five boundary runs that slipped out of their shifted boxes were boxed on today's scan (each heavy black, no ticks; the scans differ in size, so the boxes do not shift exactly). 152 stretches, about 2629 km. Of 4 May's two Inn-corridor flips one is kept (4591,5372) and one is now a check (4522,5358, ticks already north). Left unsure: a three-stretch chord across the Schönberg salient (3426-3494,472-481; red ticks north, map's south: perhaps 4 May's old line still drawn) and a 40 px stub near Elsfleth; no town depends on them.
+# Reviewed later (from 6 May): area widened east and south to [334,1247,5892,6316]: the ticked front round the Salzburg-Berchtesgaden ground and on into the Alps (ticks north, hatched enemy boxes south) lay past the old edge and was not traced; 18 more stretches, about 2810 km now, no town changes side. The Linz-Steyr band stays boxed here (no ticks on this sheet; one unsure when unboxed).
