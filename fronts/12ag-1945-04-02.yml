@@ -1,0 +1,30 @@
+# 12ag-1945-04-02: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21302
+date: 1945-04-02
+as_of: 021200 APR. 1945
+report: 301
+title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 301, situation as of 021200 Apr. 1945"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1945-03-31
+# Base B12 (1:1,000,000). The 5 excludes are copied from 12ag-1945-03-31, to be tried on this sheet.
+exclude:
+  - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER ...): removes the unsure run at 834,1360, all lettering; the front lies below"}
+  - {box: [1820, 4760, 2720, 5030], why: "the TWELFTH / SIXTH army group boundary from Conflans to Saarlautern, heavy black, no map ticks: widened from 03-29 (x1 2650 to 2720) to meet the next box; removes the runs at 2691,4895, 2455,4924 and 2376,4937 (magenta, unsure) (plot: crop 2200,4000)"}
+  - {box: [2720, 4380, 3060, 4960], why: "the same boundary's course from Saarlautern NE to the Glan (corner, diagonal and vertical leg): plain heavy black, no ticks, US on both sides; 03-29's box, enlarged upward (top 4440 to 4380) so the leg's upper end at 3030,4422 goes too (crop 2200,4000)"}
+  - {box: [2150, 2230, 2480, 2440], why: "the TWENTY ONE / TWELFTH army group boundary from the Maas-Rhine hatched belt past Rheydt to Neuss: heavy black, no ticks; removes the unsure magenta scrap at 2189,2393 and run 28 (middle 2444,2364) (crop 1900,2150); the front is the Rhine, east of it"}
+  - {box: [150, 5040, 1000, 5700], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample with its ticks), lettering and sample symbols; 03-31 dropped this box because its legend was lettered elsewhere (crop 150,5000)"}
+  - {box: [1380, 1560, 1800, 1960], why: "the First Canadian / Second British army boundary from Grave SW past Tilburg: plain heavy black, no ticks (crop 200,1100)"}
+  - {box: [150, 4560, 600, 5020], why: "the two boxed sector symbols at the sheet's left edge (LORIENT - ST. NAZAIRE SECTORS, VERSAILLES): their heavy outlines read as a front run (run 165 at 294,4897, an enemy-side 'run' that turned Troyes, Epernay, Chalons, Saint-Dizier, Beauvais enemy); no ticks (crop 100,4500)"}
+  - {box: [2300, 3380, 3760, 3540], why: "the FIRST / THIRD army boundary from the Maas-Rhine belt east past Ahrdorf and Mayen to Koblenz and on along the Lahn to Diez: plain heavy black, no map ticks (looked at 3420,3480), US on both sides; removes runs 154, 156, 157, 158 (crop 2200,3100)"}
+  - {box: [3000, 4040, 4075, 4340], why: "the TWELFTH / SIXTH army group boundary from the Saarlautern box to Darmstadt: the long diagonal with its label, heavy black, no map ticks; removes runs 161, 162, 160 (crop 3200,3100)"}
+  - {box: [4076, 3550, 4730, 4040], why: "the THIRD / SEVENTH army boundary (TEMP) Darmstadt - Frankfurt - Hanau - Buedingen: plain heavy line, no map ticks; on this sheet the front itself has moved east to the heavy ticked line in the Spessart, so this is a boundary, not the 03-31 front (crop 4000,3600)"}
+  - {box: [4250, 3080, 4350, 3240], why: "the boundary's heavy stretch at Giessen (run 153, magenta, unsure): plain heavy black, no ticks (crop 4150,3000)"}
+  - {box: [2440, 1690, 2520, 1780], why: "the SECOND BRITISH / NINTH U.S. army boundary's end at Wesel: heavy black diagonal, no ticks (crop 2350,1650)"}
+  - {box: [2140, 2060, 2260, 2170], why: "the TWENTY ONE / TWELFTH army group boundary beside the Maas-Rhine hatched belt at Kempen: heavy black, no ticks (crop 2100,1950)"}
+  - {box: [2640, 2870, 2780, 2970], why: "the FIFTEENTH / FIRST army boundary's last stretch to the Rhine near Bonn: heavy black, no ticks (crop 2550,2850)"}
+  - {box: [2700, 2650, 2775, 2710], why: "the little leader hook of the Koeln unit symbol: no ticks, not a front (crop 2550,2600); front lies east of x 2790"}
+flip: []
+checked:
+  - {at: [3747, 1340], why: "the tip of the Muenster-Warendorf tongue (the 5 armored symbol inside): a heavy arc with no ticks of its own; both edges carry the map's ticks on the inside (looked at 3560,1320 and 3600,1400), so the tip joins them with US inside"}
+# Reviewed notes: the sheet draws the Ruhr ring closed (traced as front, enemy inside, ticks outside). Unsure left: (399,1735) the blunt west end at Tholen, (2707,1960) a short piece on the Oberhausen stretch between ticked runs. Front east of x 4600 (heavy ticked line in the Spessart / Paderborn-Fulda) is past the towns spread and untraced.
+# Reviewed: 78 of 81 towns on 31 March's side; Paderborn (own, taken 1 April) and Heidelberg (own, at the Hockenheim bridgehead's corner) are the advance, Siegburg (own) a weak test under the Ruhr ring. The sheet draws the Ruhr ring closed. The Frankfurt-Hanau line, front on 31 March, is boxed as the Third/Seventh boundary now that the front is in the Spessart, past the towns' spread.
