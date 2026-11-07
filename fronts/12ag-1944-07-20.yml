@@ -1,0 +1,23 @@
+# 12ag-1944-07-20: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21045
+date: 1944-07-20
+as_of: 1200 HRS 20 JULY 1944
+title: "SECRET (struck through) / Situation 1200 hrs 20 July 1944, Twelfth Army Group (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [900, 330, 3700, 910], why: "the title block lettering, from 07-21's box"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend, bottom left, from 07-21's box"}
+checked:
+  - {at: [3831, 2411], why: "short arc on the north-south reach at the Orne; the map's ticks stand on its west side (US/British side) and the red ticks fall on them, continuous with the blue run above and below, 4x crop"}
+  - {at: [3821, 2446], why: "same reach, lower arc at the thick junction; map ticks on its west side, red ticks on them"}
+  - {at: [3090, 2530], why: "short stretch over the 49th symbol's box; the map's ticks on its north side (US side), 4x crop, continuous with the blue stretches either side"}
+  - {at: [2418, 2624], why: "hook under the 35 symbol's box; map ticks on its north side (US side), continuous with the line either side, 4x crop"}
+flip: []
+
+# Reviewed: a 1200 hrs sheet (as_of 1200 HRS 20 JULY 1944, no report number), agrees with the catalogue (ict21045). Excludes copied from 12ag-1944-07-21 and re-tested at radius 3: without the title box 134 stretches (90 unsure), without the legend box 111 (59 unsure); both kept, neither cuts the front. The third box (SECRET struck through, 1600-2300 x 180-345) catches nothing here (36 stretches with and without), dropped. No further stray strokes: 36 stretches, 4 unsure, all on the front.
+# Reviewed: every stretch's red ticks looked at on 4x crops of the overlay from the west coast (1343,2212) to the Orne mouth (3846,2173): all on the map's hatching, north and west (US and British side). Nothing turned; the four unsure stretches are in `checked`.
+# Reviewed: --sides: 32 of 34 towns agreed with the towns-B01.csv rings (median 1.3 px); 1W 50N and 1W 49.5N placed through the transform. Towns south of the line enemy, north own; 0.5E and 1E 50N read own/enemy by the line's open end at the Orne, 0.5E 49.5N and 1E 49.5N enemy east of its end: the open end, not a wrong stretch. No town on the wrong side.
+# Reviewed: none turned, four short stretches checked by eye (under the 35 and 49 symbols, two on the Orne reach); about 98 km; the largest gaps are near 1656-1726,2288 (74 px) and 2313-2410,2630 (97 px). The small hook under the 6/111 symbol has faint ticks, left as traced.
