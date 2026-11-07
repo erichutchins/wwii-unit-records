@@ -17,8 +17,6 @@ exclude:
   - {box: [2680, 2881, 2810, 3011], why: "the boundary jogging at the Schwalm, heavy black, no ticks (looked)"}
   - {box: [2161, 5269, 2291, 5399], why: "the SEVENTH / FIRST FRENCH boundary diagonal near Speyer, plain heavy line (looked)"}
   - {box: [1357, 4629, 1487, 4759], why: "the TWELFTH / SIXTH army group boundary west of the Rhine, plain heavy line, no ticks (looked); inside the 04-08 box 1000-1790 x 4640-4780, which catches it again today"}
-  - {box: [1218, 794, 1278, 854], why: "the Twenty One / Twelfth boundary's last stretch to the front at the Lingen hairpin (run 18, 84 px), the thin heavy diagonal inside the hairpin, no ticks (looked, crop 1230,820)"}
-  - {box: [1110, 850, 1240, 980], why: "the same boundary diagonal into Lingen (run 24, 59 px), heavy, no ticks (looked, crop 1230,820)"}
   - {box: [931, 981, 1061, 1111], why: "the same boundary SW of Lingen toward Nordhorn (run 28, 449 px), heavy black, ticks only the grey railways' (overlay)"}
   - {box: [703, 1159, 833, 1289], why: "the same boundary west of Hengelo (run 40, 128 px), heavy black, no ticks of its own (overlay)"}
   - {box: [2088, 1238, 2218, 1368], why: "the TWENTY ONE / TWELFTH boundary Lengerich-Weser, run 31 (2,244 px) whose middle is at Lubbecke; plain heavy line, no ticks (overlay); 04-10's box at 1680-2060 x 1320-1560 catches nothing today"}
@@ -45,4 +43,4 @@ flip: []
 checked:
   - {at: [1298, 2179], why: "the 30 px link across the heavy blob where the Lippe-Datteln canal meets the front at Lunen (between runs 47 and 50); no ticks of its own, the chain runs on through it with the ticks of its neighbours on the same side, the red ticks to the US side (looked, crop 1150,2080); a thin boundary wiggle beside it is not traced"}
 # Boxes: 04-10's, each retested on a bare run (only Auth, title, legend boxed) listing every run's middle; kept those catching a heavy unticked boundary run, dropped the rest (catch nothing today), added boxes for the boundary runs the bare run showed (each looked at on the overlay or --look). Checked entries of 04-10 at (888,3272) and (3856,3788) match no run today and are dropped.
-# Reviewed: every town on 10 April's side; the Lingen-area crossings keep their distance to the front (7E 53N 23 -> 24 km), so the boxed Lingen diagonals are the boundary, not front. The sheet does not yet show the Ninth Army on the Elbe.
+# Reviewed: every town on 10 April's side; the Lingen-area crossings keep their distance to the front (7E 53N 23 -> 24 km). The thick Lingen V carries the map's ticks (seen at 5x on 13 April) and is front: its two boxes were taken out on review; the thin plain line SW to Nordhorn stays boxed as the boundary. The sheet does not yet show the Ninth Army on the Elbe.

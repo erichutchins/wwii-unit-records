@@ -42,4 +42,4 @@ exclude:
   - {box: [5249, 1120, 5319, 1190], why: "run 29 (middle 5284,1155): the lake at the sheet NE (13E 53N, Plauer See area), blue ink and heavy lettering, not a front line and not a boundary (overlay, looked 5284,1155)"}
 flip: []
 checked: []
-# Reviewed: 23 of 26 towns on 11 April's side; 11E 51N and 11E 52N (own) are the advance to Erfurt and the Magdeburg pocket. 7E 53N (own) rests on one 59 px stub by the Polish symbol, a weak test. Doubtful: the heavy Lingen diagonal (runs at 1179,901 and 1128,942) is traced here as front but was boxed as boundary on 11 April; it shows only a stub of ticks.
+# Reviewed: 23 of 26 towns on 11 April's side; 11E 51N and 11E 52N (own) are the advance to Erfurt and the Magdeburg pocket. 7E 53N (own) rests on one 59 px stub by the Polish symbol, a weak test. The heavy Lingen V (runs at 1179,901 and 1128,942) is front: 13 April's reader saw the map's own ticks on it at 5x, the boundary being the thin plain line beside it; 11 April's boxes on it were taken out.
