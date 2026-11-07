@@ -1,0 +1,20 @@
+# 12ag-1944-09-01: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). B07, its last day.
+item: ict21088
+date: 1944-09-01
+as_of: 1200 HRS 1 SEPTEMBER 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 1 SEPTEMBER 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: towns-B07.csv
+exclude:
+  - box: [280, 280, 2840, 740]
+    why: the title block (SECRET struck through, SITUATION 1200 HRS 1 SEPTEMBER 1944, TWELFTH ARMY GROUP), lettered over the Bay of the Seine at the sheet's top left (scan about x 300-2840, y 300-710 today, SECRET, the rule under it, SITUATION 1200 HRS 1 SEPTEMBER 1944 to x about 2835, TWELFTH ARMY GROUP to x about 2240). 31 August's box ran to x 2650 and y 1000; today's lettering reaches farther right (x 2835) and today's front (the hook at scan x 2880-2970, y 730-820) lies just clear of the box's right edge, so the box stops at y 740.
+  - box: [350, 4750, 1400, 5900]
+    why: the legend at bottom left (U.S., BRITISH, ENEMY, FRONT LINE with its ticked sample); same place as 31 August (legend at scan x about 410-1230, y 4850-5490).
+  - box: [4650, 5500, 5300, 5900]
+    why: the Division of Maps stamp's frame at the foot of the sheet (lettering and a ruled box, not front); same place as 31 August.
+area: [1600, 200, 6200, 2300]   # 31 August's box with its top raised from y 850 to 200: today's front runs from the Seine round Le Havre and up through Abbeville to the sheet's top edge (scan y about 270 at x 4400), mostly above y 850
+flip: []
+checked: []
+# Reviewed: the sheet draws one ticked front, a heavy line from the Seine below Le Havre (the Le Havre pocket, ENEMY 49 inside it) round the Mailleraye, Elbeuf and Rouen bends, up the Andelle side by Cailly to a hook at about scan (2880-2970, 730-820), then north-east by Poix and Abbeville to the Somme and off the sheet's top at about scan (4400-4540, 270). No Paris, Aisne or Gournay-Beauvais piece today. The thin boundary lines (Northern Central, Andelle, First/Third) are not heavy and are not found; no boundary box needed. The short heavy arc at the top (about scan 4500-4540, y 265-440) is not found either. Ten runs found (about 55 km), all along the Seine bends and the Cailly side; all ten had their red ticks on the map's own ticks at 4x, so no turn and nothing 'checked'. UNDERCOUNT: the heavy line and its ticks fuse and the skeleton breaks into pieces under the tool's 25 px minimum; about 250 km of perhaps 310 km drawn is missing (the pocket's top and west side at y about 1000-1100, the Mailleraye-Rouen east side, the hook, and the whole line from Cailly north-east to the Somme). Raising area's top from 850 to 200 found nothing more. A tool fault, not a reading; no other radius tried, as told. Sides: weak; 49.5N enemy and 49N own, where 31 August had both enemy (49N differs because the runs are few and all at the Seine; the margin ticks lie far off the line).
