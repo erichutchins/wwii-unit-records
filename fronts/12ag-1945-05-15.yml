@@ -7,6 +7,12 @@ read: the title on the sheet (title.jpg via --title 3900 200 1700 1000), 7 Nov 2
 gcps_from: 12ag-1945-05-14
 exclude:
 - box:
+  - 2650
+  - 1700
+  - 2950
+  - 1850
+  why: 'the middle of a 117-point run from Minden to Celle, the Osnabrück-Hannover army-group boundary (heavy, no ticks; boxed on 16 May), which had traced as front (reviewer, 7 Nov)'
+- box:
   - 4038
   - 354
   - 5628
@@ -1385,3 +1391,4 @@ area:
 # Reader: twelve boxes added at the middle of heavy untick runs the shift left outside every box (six boundaries: 2579,630 / 4552,1754 / 1201,2019 / 1333,2323 / 4226,3826 / 879,4110) the Emmerich-Cleve border loop (three runs) and the IJsselmeer line (see next).
 # Reader: UNSURE, for the reviewer: the heavy black line round the IJsselmeer (Zuiderzee) near Kampen-Urk, from 520,1340 to 500,1860, carried ticks on its east side on 14 May and is drawn on 15 May with no ticks at all. It is boxed out (nothing ticked there), so the front here is not traced today; if the reviewer reads it as the front still, remove the three boxes (588,1339 / 713,1524 / 542,1770) and flip or check it with the ticks on its east side.
 # Reviewed: the legend still reads FRONT LINE; one ticked front all round, no line of contact with the Soviets. All 60 towns on 14 May's side. 55 stretches, about 2148 km: the heavy line round the IJsselmeer, ticked on its east side on 14 May, is drawn without ticks today and is boxed, as is a thin border loop at Emmerich-Kleve whose railway dots read as ticks; with them out the line is about 300 km shorter. Area as 14 May (the Friesland coast kept). Stamp box trimmed to spare the ticked Norden finger; six boundary boxes added; one 5 px stub at Travemünde checked.
+# Reviewed later (from 16 May): a 117-point run from Minden by Hanover to Celle, the Osnabrück-Hannover army-group boundary (heavy, no ticks; crop 2300,1400 read by the reviewer), had traced as front here; boxed at its middle. 54 stretches now; no town changes side. No other B14 day carries it.
