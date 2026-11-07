@@ -1,0 +1,25 @@
+# 12ag-1944-11-15: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21164
+date: 1944-11-15
+as_of: 1200 HRS 15 NOVEMBER 1944
+title: "Situation 1200 hrs 15 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-14
+exclude:
+  - {box: [412,280,2408,768], why: "test title"}
+  - {box: [240,4904,1120,5584], why: "test legend"}
+  - {box: [2934,1762,3704,1952], why: "the Twenty One/Twelfth army group boundary from Tirlemont to the front near Maastricht (heavy black, no map ticks)"}
+  - {box: [4080,4740,4230,4850], why: "the Twelfth/Third-Sixth boundary's end along the Canal, heavy black, no map ticks (overlay crop 3900,4600 600x400)"}
+  - {box: [3590,5130,3700,5200], why: "the Twelfth/Sixth army group boundary, heavy black, no map ticks (overlay crop 3400,4950 500x400)"}
+flip: []
+checked: []
+
+# Reader: title agrees with the catalogue (1200 HRS 15 NOVEMBER 1944, no report number; SECRET underlined).
+# Reader: towns: --gcps-from 12ag-1944-11-14 accepted on the first run: offset +24,-8 px against 11-14, 56 of 81 agree, median 1.7 px, 25 placed through the transform (Metz 25 px, Heidelberg 15, Bitburg 13, Trier 11, Kaiserslautern 11, Darmstadt 10, Toul 10, Chaumont 10, the rest 4-9 px). Fit over all 81: rms 0.9 km (leave-one-out 0.9, worst Beauvais 2.1 km).
+# Reader: boxes: 11-14's five boxes shifted +24,-8, each left out in turn (baseline 41 stretches with all seven boxes below): title (without: 61 stretches, 18 unsure) kept, ends at y 768, clear of the Scheldt north-shore run; legend (without: 59, 15 unsure) kept; Twenty One/Twelfth boundary Tirlemont to Maastricht (without: 42, 1 unsure at 3509,1860) kept. DROPPED: the Raucourt boundary stretch box (2854,3482,2974,3612) and the Geilenkirchen stub box (3899,1992,3939,2022): each catches nothing today (41 stretches with or without). Two ADDED, both heavy black boundary with no map ticks, magenta with red ticks only (the grey beside them is canal and road): the Twelfth/Third-Sixth end along the Canal at 4152,4803 (box 4080,4740,4230,4850; without: 1 unsure) and the Twelfth/Sixth boundary at 3647,5152 (box 3590,5130,3700,5200; without: 1 unsure). Neither cuts a ticked stretch.
+# Reader: flip: 11-14's hook flip, recentred to 2058,911, hits the hook (1 by hand) but the red ticks then fall outside, off the map's ticks (crop 1960,840 240x140 enlarged 5x); without the flip the red ticks fall inside on the map's ticks. Not kept: flip is empty. Walcheren arcs and Nijmegen island see the overlay checks below.
+# Reader: front: 41 stretches (34 ticks, 7 line, 0 unsure), about 789 km (my own sum of the GeoJSON legs); Nijmegen island whole with red ticks inside on the map's ticks (crop 3150,170 650x750); Walcheren's three arcs and the hook read right unflipped (crop 1500,820 750x250). checked: none needed.
+# Reader: sides: 81 of 81 as on 11-14 (11-14's GeoJSON backed up; unchanged by the --sides run). Saint-Dié enemy on both days ("Saint-Dié        enemy     by run 63 enemy at 4473,5189" on 11-14; run 40 enemy at 4502,5160 today), its ring on the line: a weak test. Arnhem and Metz enemy; Nijmegen, Épinal, Ostend own.
+# Reviewed: hook flip dropped rightly: overlay crop 1800,760 shows the red ticks on the map's own on the inside of the Walcheren, Beveland and Tholen arcs and the hook without it. The two new boundary boxes (Canal end 4152,4803; Twelfth/Sixth 3647,5152) are heavy untick lines. 81 of 81 towns as 11-14; length about 789 km against 779.
