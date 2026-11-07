@@ -1,0 +1,21 @@
+# 12ag-1944-08-17: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21073
+date: 1944-08-17
+as_of: 1200 HRS 17 AUGUST 1944
+title: "SECRET (struck through) / Situation 1200 hrs 17 August 1944 / Twelfth Army Group; 1:500,000 sheet (B04)"
+read: the title on the sheet (bottom left on this base, read on the region 200,4100 2600x1000), 7 Nov 2026
+gcps_from: towns-B04.csv
+radius: 4    # copied from 08-16
+area: [500, 250, 3300, 3300]   # copied from 08-16: Normandy's front lies north-west of the towns' spread
+exclude:
+  - {box: [200, 4560, 2550, 5050], why: "the title block's lettering: SECRET (struck through), SITUATION 1200 HRS 17 AUGUST 1944, TWELFTH ARMY GROUP, bottom left (same place as 16 Aug)"}
+  - {box: [5600, 4950, 6686, 5984], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample) bottom right; its sample line and lettering made 5 of the 6 unsure runs (5819-6172, 5056-5257)"}
+flip: []
+checked:
+  - {at: [3147, 1134], why: "the hook's head, a short run at the corner (3150,1120) where the heavy line turns from east-west to south; looked at on --look: the map's ticks stand on its north and west (Allied) side, the same side as runs 4 and 6 either side, so it runs the right way"}
+# Reviewed: 7 Nov 2026 (q-0817). Copied from 08-16: radius 4, area box, the title's box (same place); the legend box is the same [5600,4950,6686,5984] (without it 6 unsure runs, 5 of them its sample).
+# 27 of 28 towns agree (median 1.0 px; 1W 49N placed through the transform, 5 px off). 18 stretches, 0 unsure, 0 flipped, 1 checked (the hook's head). About 135 km traced.
+# The heavy front here is drawn about 15 px wide, wider than the mask's disk: radius 2-6 all fragment it (127-150 km), so radius 4 is kept and the gaps are listed in the report: 4/5 (119 px), 7/8 (98 px) round the Falaise hook's loop, 11/10 (450 px, the Argentan line east of the town to Nonant).
+# The Falaise gap stays open between the hook's end (-0.161, 48.917) and the Argentan line (about 22 km). No ring: ticks on the outer (Allied) side of the pockets, the enemy inside. No heavy unticked boundary on the sheet (the black lines are thin).
+# Reviewed: the Falaise gap open, about 22 km (the hook's end to the Argentan line); the pocket's edges ticked outside; none turned. Thin: about 135 km at radius 4; the heavy line east of Argentan to Nonant (450 px) and the hook's loop are untraced. The reader's trial: radius 2 150 km, 3 127, 5 130, 6 117.
