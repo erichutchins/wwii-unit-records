@@ -1,0 +1,24 @@
+# 12ag-1944-09-05: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21092
+date: 1944-09-05
+as_of: 1200 HRS 5 SEPT 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 5 SEPT 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: 12ag-1944-09-04
+radius: 3   # as on 09-04
+area: [3500, 0, 6653, 900]   # as 09-04: the ticked front from Lille north-east to Brussels, above the towns' top margin tick
+exclude:
+  - {box: [0, 0, 2700, 1000], why: "the title block: SECRET (struck through), SITUATION 1200 HRS 5 SEPT 1944, TWELFTH ARMY GROUP (lettering, heavy); same box as 09-04"}
+  - {box: [700, 4400, 1750, 5000], why: "the legend: U.S., BRITISH, ENEMY, FRONT LINE lettering and sample front line with ticks; higher than 09-04 (950,4900,1850,5600): moved back up between 4 and 5 September; looked at on the overlay"}
+  - {box: [5900, 2250, 6200, 2500], why: "heavy black line N of Sedan (run at 6006,2353), no ticks either side: a boundary; the tool's red ticks fell on the Meuse's blue; looked at with --look"}
+  - {box: [5450, 2600, 5750, 2740], why: "heavy black line along the Ardennes canal by Attigny (run at 5595,2662), no ticks: a boundary; looked at with --look"}
+  - {box: [5450, 3200, 5750, 3430], why: "heavy black line by Suippes (run at 5588,3315), no ticks: a boundary; looked at with --look"}
+  - {box: [2780, 3650, 3000, 3900], why: "heavy black loop at the Paris bend of the Seine, over the First/Twelfth boxes (run at 2880,3783), no ticks: the army boundary's end; looked at with --look"}
+  - {box: [5000, 5600, 5600, 5800], why: "the stamp 'Division of Maps' at the foot of the sheet (run at 5220,5696): lettering, not front"}
+  - {box: [615, 2635, 720, 2700], why: "the foot of the Le Havre stub (run at 629,2655): the tool's run there is the Seine's blue edge turning east under the stub's last tick, not the stub; the stub itself (run 1, ticks to the east, as 09-04's run 46) stands; looked at with --look"}
+flip: []
+checked: []
+# Reader: the sheet draws no ticked front but the short stub east of Le Havre (Harfleur/Montivilliers, the map's ticks on the east, the tool's red ticks the same; one run, about as 09-04's run 46). The long ticked front of 4 September (Somme, Doullens, St Pol, Bethune, Lille, Brussels) is NOT drawn today, and nothing is drawn from Paris to the Meuse, nor the Meuse or Antwerp (the sheet's top edge is at about 51N, Antwerp is off it). Every other heavy black line is an unticked army or army-group boundary (read in tiles of the whole sheet, and six runs the finder had were looked at with --look): the Sedan, Ardennes-canal and Suippes stretches, the loop at the Paris bend of the Seine; all boxed out. The legend stands higher than on 4 September. `area` copied from 09-04 though it now takes in nothing. The 09-04 flips (St Pol/Tincq, Doullens) are not kept: no front there today.
+# Reviewed: the sheet draws only one ticked line, a 4.3 km stub on Montivilliers/Harfleur facing Le Havre (ticks east, Allied side); the whole-sheet overlay shows no other ticked line: 4 September's Somme-Lille-Brussels front is not drawn, nor anything on the Meuse (no front drawn, not no front). Six stray runs boxed after a look (Sedan, Attigny, Suippes, the Seine loop at Paris, the stamp, the stub's foot on the Seine's edge). Four margin ticks change to enemy off the stub's open end: an artefact of a one-stretch front.
