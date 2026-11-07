@@ -1,0 +1,30 @@
+# 12ag-1944-08-02: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21058
+date: 1944-08-02
+as_of: 1200 HRS 2 AUGUST 1944
+title: "Situation 1200 hrs 2 August 1944, HQ Twelfth Army Group (Copy No. blank); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 6 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3                  # copied from 12ag-1944-08-03: the 1:500,000 sheet's front is drawn finer; at 4 most of the ticked line is lost, at 2 the lettering comes in
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [1400, 380, 3650, 830], why: "the title block's lettering (SITUATION 1200 HRS 2 AUGUST 1944 / HQ TWELFTH ARMY GROUP / COPY NO. and its rule), top middle: x 1440-3570, y 400-810 on the overlay crop"}
+  - {box: [4450, 380, 4950, 520], why: "SECRET, struck through and underlined, top right, boxed whole because its strike-through traces (short magenta runs at 4486-4858, 423-460, and the underline as a blue one at 4700, 497); looked at the overlay crop"}
+  - {box: [1800, 4170, 2450, 4810], why: "the legend's letters (U.S., BRITISH, ENEMY, FRONT LINE), x 1820-2430, y 4180-4800 on the overlay crop"}
+  - {box: [1620, 4740, 1740, 4780], why: "the legend's sample of the front line (the bar beside FRONT LINE, x 1630-1730, y 4750-4770), a sample not a front"}
+  - {box: [2670, 2400, 2760, 2530], why: "the Twelfth/Twenty First army group boundary at Balleroy (x 2700, y 2430-2510): a heavy black line with no ticks either side, kept as a magenta run 6; looked at 4x, its neighbours above and below are plain black too"}
+  - {box: [2055, 3325, 2095, 3355], why: "the straight shaft of an attack arrow (the 4th Armored's, from its box at 2030,3285) running down-right into the hairpin at the Sée, x 2060-2100, y 3320-3360: a straight stroke no ticks follow, not the front; looked at 4x. Box kept off the hairpin's own arms (2092,3309; 2125,3350)"}
+flip:   # stretches turned by hand after a look, each with why
+  - {at: [1967, 3695], why: "Avranches, the short vertical at x 1965, y 3670-3700: the map's hatches stand on its west, the US 8 box west of it; at 4x the run's red tick was on its east"}
+  - {at: [1935, 3719], why: "Avranches, the bottom leg (x 1900-1960, y 3715-3725): the map's hatches stand above it (north, with the US side), the run's red ticks were below; looked at 4x"}
+  - {at: [1859, 3734], why: "Avranches, the line's tail running to the bay (x 1830-1890, y 3720-3745): its hatches stand above (north); the run's red ticks were below; the same line as 1935,3719"}
+  - {at: [3260, 2648], why: "the Caen-Evrecy line, a short plain run at x 3260-3320: the map's hatches stand above it (north, British 50/59 boxes), the run's red ticks were below (south, the enemy 277); looked at 4x"}
+  - {at: [3389, 2630], why: "the same line at x 3370-3410, y 2625: hatches above (north, British side), red ticks were below"}
+checked:   # stretches whose ticks didn't tell, confirmed on the overlay (--look and 4x crops): ticks on the run's right
+  - {at: [3770, 2593], why: "the corner east of Caen's south bay (x 3750-3775, y 2565-2610), a plain heavy stretch between the ticked bottom leg (hatches north) and the ticked Orne line (hatches west): red ticks on its west, as both neighbours"}
+  - {at: [2885, 2742], why: "the vertical at x 2885, y 2725-2760 east of the British 43/15 boxes, plain heavy between ticked arcs: red tick on its west (the British side), enemy 326 and 21 east"}
+# Reviewed: the three stretches turned at Avranches follow the map's hatching (north and west, with the US 8th
+# Infantry Division). The sheet ends the line at the bay just north of Avranches although Third Army was through the
+# town and into Brittany (its units drawn beyond the line's end), so the side test means nothing south of there:
+# Avranches, Rennes and Brittany read "enemy" only as the line's open end. Radius 3 leaves gaps (about 112 km traced),
+# listed by the reader: the Caen-Evrecy line at y 2620-2660, the x 2885 vertical, the Avranches vertical.
