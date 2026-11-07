@@ -1,0 +1,16 @@
+# 12ag-1944-08-25: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21081
+date: 1944-08-25
+as_of: 1200 HRS 25 AUGUST 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 25 AUGUST 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: 12ag-1944-08-24
+exclude:
+  - {box: [700, 650, 2300, 850], why: "title block lettering (SECRET, SITUATION 1200 HRS 25 AUGUST 1944, TWELFTH ARMY GROUP); box kept from 08-24, no stretch of it left to check"}
+  - {box: [5190, 5700, 5620, 5800], why: "the Library of Congress Division of Maps stamp (NOV 1 1944), its lettering; box from 08-24, here it gives runs at 5457-5590,5758"}
+  - {box: [0, 4950, 1250, 5650], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE and their samples), bottom left on this sheet (08-24's is bottom right); its lettering and front-line sample (runs at 490,5380 and 600-1140,5026-5591), all unsure"}
+flip: []
+checked: []
+# Reviewed: the sheet draws one ticked front, the British line from near Honfleur by the Touques, Lisieux and Orbec to its end near Crulai, ticks on the west; nothing ticked at Paris, on the Seine or at Melun and Fontainebleau (only army boundaries and enemy boxes), as the whole-sheet overlay shows. 5 stretches, about 160 km, none unsure, no turns. 24 August's bottom-right legend box removed (this sheet's legend is bottom left, boxed). The towns are 11 graticule ticks; all 11 on 24 August's side, which tests little here.
