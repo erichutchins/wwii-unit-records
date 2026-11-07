@@ -1,0 +1,310 @@
+item: ict21333
+date: '1945-05-03'
+as_of: 031200 MAY 1945
+report: 332
+title: '12 Army Group Outline Map 1:1,400,000. Top right, lettered by hand: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO 332, SITUATION AS OF 031200 MAY 1945, signed C. T. Schmidt for A. FRANKLIN KIBLER, Brigadier General, G.S.C., A.C. of S., G-3'
+read: the title on the sheet (title.jpg via --title 3900 200 1700 1000), 7 Nov 2026
+gcps_from: 12ag-1945-05-02
+# Reviewed: 05-02's boxes shifted by the sheets' offset +8,-32, each measured against an unboxed trace (183 runs). Box 111 (05-02's Waal stub at Nijmegen) is dropped:
+# shifted it held run 110, the Dutch front itself (23 px at 440,2084, map ticks drawn). Boxes 0, 1, 85 hold only title/stamp letters (runs 9, 10, 12, 22, 25, 45...), box 5 the
+# unticked Twenty One / Twelfth boundary (run 109, its 'ticks' are the grey railways'); no other box holds a run the tool found ticked. One new box (the Saarbruecken-Speyer line).
+# area widened from 05-02's [382,1279,3750,6250] to x1 4300: the Bavarian wedge's ticked arc (Glonn, Wasserburg, about 3800-4150,5560-5740, lat below 48N, past the towns' spread
+# and past x 3750) was dropped otherwise; looked, overlay crop 3600 5350 700 600: heavy black, map ticks on the Allied (north-west) side, the hatched enemy inside.
+area: [382, 1279, 4300, 6250]
+exclude:
+- box: [4030, 258, 5620, 1128]
+  why: "05-02's box 0 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the title block's lettering, top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 318, SITUATION AS OF 191200 APR. 1945, the signature, Brigadier General, A.C. of S., G-3); runs 1-12, 15-39, 53-66 are letters; the front's nearest stretches are below y 1250 (Elbe at Wittenberge, run 78 at 3905,1291)"
+- box: [93, 269, 1295, 683]
+  why: "05-02's box 1 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the stamp top left (Auth: CG, Twelfth Army Group / Initials / Date: 19 APRIL 1945, and its frame); runs 13 and 14 (998,669 and 917,659); the front's first stretches here are at y 900 and below (run 40 at 791,919)"
+- box: [20, 5390, 823, 5944]
+  why: "05-02's box 2 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the legend (U.S., BRITISH, ENEMY and their sample boxes), bottom left, at the sheet's edge, partly cut; no run was found in it, the box keeps it out should one be; the front's own stretches here are east of x 1400"
+- box: [158, 4949, 539, 5267]
+  why: "05-02's box 3 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the list box UNIT / VICINITY (16 Dieppe, 106 Rennes, 66 Lorient-St. Nazaire), bottom left, outside the fit; no run found, kept out"
+- box: [770, 2228, 1190, 2488]
+  why: "05-02's box 4 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth army group boundary, Wesel toward Munster: heavy black, no map ticks (looked, overlay crop 300 1100 3100 1900); it runs far behind the Dutch front, which is north of y 1900 here"
+- box: [1190, 2058, 1540, 2178]
+  why: "05-02's box 5 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary at Munster, no map ticks (looked, overlay crop 300 1100)"
+- box: [1520, 1928, 1870, 2118]
+  why: "05-02's box 6 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, lettered TWENTY ONE / XXXXX / TWELFTH, toward Osnabruck, no map ticks (looked, overlay crop 300 1100)"
+- box: [1830, 1788, 2130, 1958]
+  why: "05-02's box 7 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, Osnabruck toward Hannover, magenta in the trace, no map ticks (looked, overlay crop 300 1100)"
+- box: [2090, 1668, 2590, 1818]
+  why: "05-02's box 8 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary toward Hannover, no map ticks (looked, overlay crop 300 1100)"
+- box: [2560, 1598, 2940, 1698]
+  why: "05-02's box 9 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary at Hannover and the Aller, no map ticks (looked, overlay crop 300 1100)"
+- box: [2890, 1508, 2950, 1618]
+  why: "05-02's box 10 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary's northward jog beside the Aller (looked, overlay crop 300 1100)"
+- box: [2940, 1448, 3125, 1548]
+  why: "05-02's box 11 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the boundary's last stretch to the front at about 3120,1320; the front's corner (blue, about 3075,1290-1310) is above the box and stays (looked, overlay crop 300 1100)"
+- box: [1080, 2498, 1155, 2568]
+  why: "05-02's box 12 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): two short blue stubs of the Rhine/Ruhr's rivers beside the symbol 'AB 17' at Essen, about 1050-1105,2378-2430 and 985-1040,2455-2500 (the lower box): no ticks the map draws, red ticks from the river only (looked, overlay crop 900 2300 400 200); the Ruhr pocket is gone by 20 April, no front here"
+- box: [1025, 2583, 1080, 2628]
+  why: "05-02's box 13 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the second stub of the same (the 'Duisburg' river reach), see above"
+- box: [1170, 2923, 1215, 2963]
+  why: "05-02's box 14 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a tiny blue stub on the Rhine at Cologne beside the 'AB 82' symbol (about 1150,2810): river ink, no map ticks (looked, overlay crop 1000 2700 400 200)"
+- box: [2290, 3568, 2440, 3708]
+  why: "05-02's box 15 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary from Hanau toward the Thuringian Forest, first leg (magenta in the trace, no map ticks; looked, overlay crop 300 3150 3200 1400); the front's own end at Hanau (about 2236,3569) is left of the box"
+- box: [2430, 3458, 2570, 3578]
+  why: "05-02's box 16 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, second leg, no map ticks (looked, overlay crop 300 3150 3200 1400)"
+- box: [2560, 3368, 2680, 3478]
+  why: "05-02's box 17 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, third leg, to the bend (the existing box at 2609,3198 takes the rest), no map ticks (looked, overlay crop 300 3150 3200 1400)"
+- box: [980, 4393, 1175, 4473]
+  why: "05-02's box 18 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary west of Saarbrucken and its last stretch down to the sheet's Saar line (run 65 at 1077,4326): heavy black with no map ticks, red ticks only from railways (looked, --look 1030,4290 and overlay crop 950 4200 400 250); on 19 April the same ink was taken in the Saarbrucken-Oberstein boxes; the run's diagonal end meets the boundary box above at about 1220,4205"
+- box: [1510, 3508, 1710, 3848]
+  why: "05-02's box 19 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Rhine from Koblenz to Bingen (run 53 at 1502,3477): the river drawn heavy, lettered THIRD / FIFTEENTH (army boundary), grey railway ticks only, no map ticks (looked, --look 1500,3500). On 19 April the tool found no run on this reach; the Rhine is wholly behind the front on 20 April"
+- box: [1720, 3748, 2000, 3858]
+  why: "05-02's box 20 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Rhine and Main at Bingen-Mainz-Biebrich (runs 55 and 56 at 2038,3686 / 1719,3688, the second the 'unsure' one): the river drawn heavy black with blue, no map ticks (looked, --look 1830,3650 and overlay crop 1600 3620)"
+- box: [1930, 3688, 2285, 3973]
+  why: "05-02's box 21 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary along the Main from Oppenheim past Frankfurt to Hanau (run 54 and the short run 57 at 1900,3830): the same heavy black the 04-19 box [2100,3650,2330,3820] took (its run 142, Oppenheim to 2700,3430), no map ticks, grey railway ticks only (looked, overlay crops 300 3150 and 1850 3780)"
+- box: [1510, 3492, 1570, 3562]
+  why: "05-02's box 22 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short blue stub at Koblenz (run 145 at 1531,3542): the end of the Third / Fifteenth boundary on the Rhine, no map ticks, red ticks from the river (looked, overlay crop 1380 3450)"
+- box: [1163, 4084, 1345, 4463]
+  why: "05-02's box 23 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary from Saarbrucken north to Oberstein (runs 162 and 158 at 1198,4428 and 1279,4159): heavy black, no map ticks, grey railway ticks only (looked, overlay crop 700 3450); the whole boundary Saarbrucken-Oberstein-Frankfurt-Hanau-Meiningen-Bayreuth is left out in the boxes below"
+- box: [1413, 4023, 1813, 4110]
+  why: "05-02's box 24 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same Twelfth / Sixth boundary east of Oberstein (runs 156, 157, 154, 153 at 1543,4095 / 1436,4095 / 1646,4083 / 1751,4071), no map ticks (looked, overlay crop 700 3450)"
+- box: [2111, 3629, 2342, 3798]
+  why: "05-02's box 25 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary through Frankfurt-Hanau toward the Thuringian Forest (run 142 at 2209,3732, a long stretch from Oppenheim to 2700,3430), no map ticks (looked, overlay crops 700 3450 and 2350 3200)"
+- box: [2649, 3326, 2810, 3415]
+  why: "05-02's box 26 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, bend near Schmalkalden, lettered TWELFTH / XXXXX / SIXTH just east (runs 141 and 140 at 2673,3409 and 2743,3380), no map ticks (looked, overlay crop 2350 3200)"
+- box: [3089, 3324, 3209, 3393]
+  why: "05-02's box 27 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary at Meiningen (run 139 at 3145,3386), no map ticks (looked, overlay crop 2350 3200)"
+- box: [3210, 3403, 3772, 3840]
+  why: "05-02's box 28 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary's diagonal Meiningen to the front near Bayreuth (runs 143, 144, 148 at 3266,3485 / 3408,3599 / 3672,3812), no map ticks; it meets the front at about 3830,3900, whose own stretches (runs 150-152) lie east of the box (looked, overlay crop 2350 3200)"
+- box: [3100, 1439, 3200, 1489]
+  why: "05-02's box 29 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth army group boundary's last stretch to the front, east of Celle (magenta in the trace at about 3125-3180,1555-1568, unsure): heavy black, no map ticks (looked, overlay crop 3000 1450); the front's corner (blue, about 3290,1490) is beyond the box"
+- box: [775, 2499, 825, 2564]
+  why: "05-02's box 30 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth boundary at Duisburg-Hamborn, magenta in the trace at about 785-815,2605-2650: heavy black running on north-east, no map ticks (looked, overlay crop 650 2500)"
+- box: [1370, 3334, 1430, 3394]
+  why: "05-02's box 31 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Third / Fifteenth army boundary drawn heavy beside the Rhine at Andernach, magenta at about 1380-1420,3442-3480: no map ticks (looked, overlay crop 1250 3350); the Rhine is wholly behind the front"
+- box: [1795, 3924, 1965, 4039]
+  why: "05-02's box 32 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary at Oppenheim-Worms, magenta, a diagonal at about 1805-1950,4025-4125: heavy black, railway ticks only, no map ticks (looked, overlay crop 1750 3960)"
+- box: [1026, 2537, 1086, 2587]
+  why: "05-02's box 33 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short blue stub on the Rhine at Hamborn beside the '94' symbol (run at 1076,2617, magenta, unsure): river ink where the heavy Twenty One / Twelfth boundary meets it, no map ticks (looked, overlay crop 900 2450 400 300); the Rhine is wholly behind the front"
+- box: [1371, 4047, 1441, 4082]
+  why: "05-02's box 34 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary's heavy black beside the XXIII symbol near Oberstein (run at 1430,4114, magenta, unsure): no ticks the map draws (looked, overlay crop 1300 4000 400 250); the same boundary the box to its right takes"
+- box: [1340, 618, 1440, 698]
+  why: "05-02's box 35 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the stamp's last lettering ('BDO' after 'Date: 23 APRIL 1945', run at 1428,723, 33 px): outside the stamp box, the front's first stretches are at y 900 and below (looked, --look 1428,723)"
+- box: [1230, 1828, 1310, 1898]
+  why: "05-02's box 36 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth boundary's loop near Enschede-Hengelo, heavy black, no map ticks (run at 1318,1933, unsure; looked, --look 1318,1933 and overlay crop 0 1100 1500 1100)"
+- box: [1150, 1858, 1230, 1903]
+  why: "05-02's box 37 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, its western leg (run at 1230,1953), no map ticks (overlay crop 0 1100 1500 1100)"
+- box: [790, 2158, 860, 2203]
+  why: "05-02's box 38 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short blue stub of the Rhine/Waal below Nijmegen (run at 862,2249, unsure): river ink, red ticks from the river only; the Dutch front's own line (Kampen-Deventer-Apeldoorn arc, run at 712,1857) is traced and runs to the Rhine at 540,2100 (looked, overlay crop 500 2100 1100 1200)"
+- box: [885, 2188, 970, 2248]
+  why: "05-02's box 39 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same Rhine/Waal stub at Emmerich (run at 966,2291, unsure): river ink, no map ticks (looked, overlay crop 500 2100)"
+- box: [1050, 2628, 1090, 2688]
+  why: "05-02's box 40 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short blue/magenta stub on the Rhine at Duesseldorf-Neuss (run at 1106,2730, unsure): the Rhine drawn heavy, no map ticks; the Rhine is wholly behind the front (looked, overlay crop 500 2100)"
+- box: [1095, 2723, 1140, 2763]
+  why: "05-02's box 41 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same Rhine, next stub (run at 1155,2814)"
+- box: [1130, 2813, 1175, 2858]
+  why: "05-02's box 42 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same Rhine, next stub (run at 1187,2907)"
+- box: [1185, 2958, 1220, 2993]
+  why: "05-02's box 43 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Cologne stub shifted from 04-22's box, which sits 11 px above this sheet's (run at 1236,3046, blue, 0.12 ticks from the river): the Rhine beside the 'AB 82' symbol (looked, overlay crop 500 2100)"
+- box: [1200, 3023, 1245, 3053]
+  why: "05-02's box 44 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Rhine south of Cologne (run at 1256,3108, unsure): river ink, no map ticks (overlay crop 500 2100)"
+- box: [1215, 3068, 1255, 3103]
+  why: "05-02's box 45 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Rhine south of Cologne, the Fifteenth / Ninth boundary's lettering just below (run at 1274,3157, unsure): no map ticks (overlay crop 500 2100)"
+- box: [3190, 2228, 3570, 2318]
+  why: "05-02's box 46 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Ninth army boundary along the Harz's north edge, Blankenburg to Quedlinburg (runs at 3269,2330 unsure, 3348,2339 and 3511,2352): heavy black, no ticks either side (looked, --look 3340,2340 3480,2340 3600,2310). It is a boundary and the Harz isn't a front line here"
+- box: [2660, 2443, 2730, 2508]
+  why: "05-02's box 47 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Ninth / First boundary at Goettingen (run at 2734,2548, unsure, magenta): heavy black, no map ticks (looked, overlay crop 2550 2150 1300 700)"
+- box: [2710, 2578, 2810, 2623]
+  why: "05-02's box 48 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary south of Goettingen toward Kassel (run at 2799,2672, unsure, magenta): heavy black, no map ticks (overlay crop 2550 2150)"
+- box: [3860, 3473, 3930, 3508]
+  why: "05-02's box 49 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Third army boundary's end at the front near Hirschberg-Hof (run at 3933,3563, 44 px, unsure): heavy black thin line, no ticks (looked, --look 3933,3563)"
+- box: [2210, 3918, 2430, 3993]
+  why: "05-02's box 50 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary's long straight east of Mainz toward Wuerzburg-Grossumstadt (run at 2359,4026, 716 px, unsure, magenta): heavy black, no map ticks, lettered TWELFTH / SIXTH further on (looked, --look 2359,4026); its east end meets the front's blue stretch at about 2717,4084, which stays"
+- box: [3160, 4393, 3240, 4448]
+  why: "05-02's box 51 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a heavy diagonal boundary meeting the front at Ansbach (run at 3238,4492, 85 px, unsure): no map ticks; the front's own ticked stretch (run at 3425,4572) is right of the box (looked, --look 3238,4492)"
+- box: [1950, 4393, 2020, 4428]
+  why: "05-02's box 52 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Seventh / First French army boundary near Speyer (run at 2022,4483, unsure): heavy black, no ticks (looked, --look 2022,4483)"
+- box: [2415, 4843, 2455, 4908]
+  why: "05-02's box 53 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a heavy boundary near Pforzheim-Stuttgart (run at 2483,4947, unsure, magenta): no map ticks (looked, --look 2483,4947)"
+- box: [2900, 4078, 2990, 4188]
+  why: "05-02's box 54 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary's diagonal from Wuerzburg past Ochsenfurt and Uffenheim to the front near Ansbach (run at 2985,4203, 363 px, blue in the trace, 0.0/0.01 ticks): heavy black with no map ticks, the blue beside it a river (looked, --look 2900,4130 2985,4203 3080,4300); it meets the front at about 3200,4450, whose ticked stretch (run at 3425,4572) stays"
+- box: [3241, 1143, 3321, 1223]
+  why: "05-02's box 55 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth army group boundary from Celle toward the Elbe, heavy black, no map ticks (magenta in the trace, run at 3313,1255; looked, --look 3313,1255 3119,1469); 04-23's boxes took only its Hannover end"
+- box: [3047, 1357, 3127, 1437]
+  why: "05-02's box 56 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, next stretch toward Celle (run at 3119,1469), no map ticks (looked, --look 3119,1469)"
+- box: [4470, 1671, 4550, 1751]
+  why: "05-02's box 57 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a lake's blue ink at Potsdam (run at 4542,1783, 0 ticks): not a line, not front (overlay crop montage)"
+- box: [3189, 2289, 3269, 2369]
+  why: "05-02's box 58 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Ninth army boundary's bend near Sangerhausen, heavy black, no map ticks (run at 3261,2401; looked, --look 3261,2401); 04-23's box [3230,2300,...] sat on another leg of it"
+- box: [3074, 2418, 3154, 2498]
+  why: "05-02's box 59 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same First / Ninth boundary, lettered NINTH / FIRST just below, no map ticks (run at 3146,2530; overlay crop montage)"
+- box: [2306, 2480, 2386, 2560]
+  why: "05-02's box 60 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary near Marburg-Wolfhagen, no map ticks (run at 2378,2592; overlay crop montage, black continues either side)"
+- box: [2268, 2562, 2348, 2642]
+  why: "05-02's box 61 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, next bend (run at 2340,2674), no map ticks"
+- box: [2051, 2658, 2131, 2738]
+  why: "05-02's box 62 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, the loop at Winterberg (run at 2123,2770), heavy black, no map ticks (looked, --look 2123,2770)"
+- box: [1057, 2659, 1127, 2729]
+  why: "05-02's box 63 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short stub of the Rhine below Duesseldorf beside the XXII / AB 101 symbols (run at 1124,2766, magenta): river ink, the Rhine is behind the front (overlay crop montage)"
+- box: [1114, 2749, 1184, 2819]
+  why: "05-02's box 64 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Rhine at Cologne-Leverkusen, next stub (run at 1181,2856)"
+- box: [1169, 2868, 1239, 2938]
+  why: "05-02's box 65 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Rhine at Cologne, next stub (run at 1236,2975)"
+- box: [1187, 2895, 1257, 2965]
+  why: "05-02's box 66 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Rhine at Cologne, the AB 82 symbol beside (run at 1254,3002)"
+- box: [1203, 2982, 1273, 3052]
+  why: "05-02's box 67 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Rhine south of Cologne, FIFTEENTH / NINTH lettering below (run at 1270,3089): no map ticks"
+- box: [1891, 3026, 1971, 3106]
+  why: "05-02's box 68 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Ninth boundary's westward run through the Sauerland to the Rhine at Bonn, heavy black, no map ticks (run at 1963,3138; overlay crop montage)"
+- box: [1826, 3117, 1906, 3197]
+  why: "05-02's box 69 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, next stretch (run at 1898,3229), heavy black ending at the Rhine (overlay crop montage)"
+- box: [1675, 3464, 1755, 3544]
+  why: "05-02's box 70 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a heavy black boundary along the Lahn from Koblenz to Limburg, no map ticks (run at 1747,3576; looked, --look 1747,3576)"
+- box: [1297, 4043, 1377, 4123]
+  why: "05-02's box 71 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary at the XXIII symbol near Oberstein, no map ticks (run at 1369,4155; overlay crop montage); 04-23's boxes at 1411,4119 lie 40 px right of today's stretch"
+- box: [3430, 4145, 3510, 4225]
+  why: "05-02's box 72 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth boundary running beside the Regnitz at Erlangen, heavy black with the river's blue, no map ticks (run at 3502,4257; looked, --look 3502,4257)"
+- box: [2500, 4901, 2580, 4981]
+  why: "05-02's box 73 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a heavy black boundary's end at Esslingen (run at 2572,5013), no map ticks (looked, --look 2572,5013)"
+- box: [2630, 2335, 2720, 2425]
+  why: "05-02's box 74 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Ninth army boundary north-east of Goettingen, heavy black with the river's blue beside it, no map ticks (run at 2707,2452, 'line', 0.0/0.01 ticks; looked, overlay crop montage); 04-23's boxes took only its magenta stretches"
+- box: [2806, 2560, 2896, 2650]
+  why: "05-02's box 75 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary east of Goettingen, running on to its NINTH / FIRST lettering, no map ticks (run at 2883,2677, 'line', 0.0 ticks)"
+- box: [1064, 2704, 1124, 2764]
+  why: "05-02's box 76 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short stub of the Rhine at Duesseldorf under the XXII symbol (run at 1126,2806, 30 px): river ink, the Rhine is behind the front (overlay crop montage)"
+- box: [2039, 2846, 2129, 2936]
+  why: "05-02's box 77 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Ninth boundary through the Sauerland south of Winterberg, heavy black continuing either side, no map ticks (run at 2116,2963, 0.0/0.02 ticks; overlay crop montage)"
+- box: [2440, 3931, 2530, 4021]
+  why: "05-02's box 78 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary from Aschaffenburg east to Wertheim, heavy black, no map ticks (run at 2517,4048, 0.0/0.0; overlay crop montage)"
+- box: [2831, 3993, 2921, 4083]
+  why: "05-02's box 79 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary's diagonal at Wuerzburg, no map ticks (run at 2908,4110, 'line', 0.0/0.02)"
+- box: [3051, 4258, 3141, 4348]
+  why: "05-02's box 80 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary's diagonal on to the front at Ansbach, no map ticks (run at 3128,4375, 'line', 0.0/0.01); the front's own stretches at the junction (runs at 3326,4531 and 3412,4526) stay"
+- box: [2360, 4620, 2450, 4710]
+  why: "05-02's box 81 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a heavy black line from the Heilbronn diagonal south past Besigheim to Stuttgart, no map ticks, the Neckar's blue beside it (run at 2437,4737, 0.0/0.0; looked, --look 2437,4737 2449,4897 2470,4985); it runs on to the Esslingen boundary end boxed above, and 04-23 boxed the same line at 2483,4947"
+- box: [2372, 4780, 2462, 4870]
+  why: "05-02's box 82 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same line near Ludwigsburg (run at 2449,4897, 0.0/0.03), no map ticks (looked, --look 2449,4897)"
+- box: [2056, 5151, 2146, 5241]
+  why: "05-02's box 83 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): UNSURE: the heavy hook at the I FR symbol near Hoerb, west of the corridor's corner (run at 2133,5268, 87 px, 0.0/0.05 ticks): heavy as the front but no map ticks seen at 4x (--look 2160,5262; raw crops 2150,5265 and 2110,5320). Its top meets the thin I FR / II FR pole, it carries on behind the I FR symbol; judged boundary, may be First French Army front drawn without ticks (see the arc below)"
+- box: [2042, 5377, 2132, 5467]
+  why: "05-02's box 84 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): UNSURE: the arc's stretch at Rottweil toward Spaichingen (run at 2119,5494, 50 px, 0.0/0.09 ticks): the same line as the hook, Oberndorf-Rottweil-Spaichingen, heavy with no map ticks seen at 4x (raw crops 2100,5390 to 2215,5575); the 0.09 on one side is the Rottweil-Lemberg railway's grey ticks running beside it. Same place and shape on 22, 23 and 24 April (compared raw crops), while the ticked front beside it is also fixed; judged boundary. See the report"
+- box: [1214, 468, 1684, 648]
+  why: "05-02's box 85 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the stamp's lettering 'Army Group' (of 'CG, Twelfth Army Group') runs on past the shifted stamp box's right edge (runs at 1329,612 and 1550,623, unsure; looked, --look 1329,612 1550,623): letters, not front; the front's first stretches here are at y 900 and below"
+- box: [3160, 1186, 3240, 1266]
+  why: "05-02's box 86 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth army group boundary at Ulzen, heavy black running on north-east, no map ticks (run at 3216,1298, magenta/unsure; looked, --look 3216,1298); the previous day's boxes lay 40 px to the right of it on this sheet"
+- box: [1402, 3351, 1482, 3431]
+  why: "05-02's box 87 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Third / Fifteenth army boundary drawn heavy beside the Rhine at Andernach-Neuwied, no map ticks, the Rhine's blue under it (run at 1458,3463, unsure; looked, --look 1458,3463); 04-24's box at 1386,3406 lies 40 px left of today's stretch"
+- box: [3095, 4319, 3195, 4419]
+  why: "05-02's box 88 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary's long diagonal, Wuerzburg to Weissenburg (run at 3161,4441, 139 px of path, 'ticks' in the trace, blue and red on it): heavy black straight line with no map ticks, the grey railway's ticks beside it are what the trace counted (looked, --look 2850,4090 3000,4260 3300,4560 3500,4780, and overlay crop 2700 4000 900 850). 04-24's boxes took three pieces of the same line and left this middle, so it stayed coloured there; the front's own ticked stretches begin at the wedge near 3549,4825"
+- box: [1264, 608, 1484, 728]
+  why: "05-02's box 89 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the stamp's date lettering: the '5' of '25 APRIL 1945' and the initials after it stand past the shifted stamp box's right edge (run at 1321,733, 5 points, 'ticks'; looked, --look 1321,733): letters, not front. Left in, it put 7E 54N on the US side; the front's first stretches here are at y 900 and below"
+- box: [1166, 2241, 1276, 2351]
+  why: "05-02's box 90 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth boundary's loop at the Lippe near Wesel, heavy black running on, no map ticks, magenta (unsure) in the trace (looked, overlay crop 0 2100 2000 1600)"
+- box: [2541, 2324, 2651, 2434]
+  why: "05-02's box 91 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Ninth / First boundary at the Diemel near Karlshafen, heavy black continuing either side, no map ticks, magenta (unsure; overlay crop 1700 2100)"
+- box: [1193, 2404, 1303, 2514]
+  why: "05-02's box 92 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Fifteenth / Ninth boundary at Essen-Gelsenkirchen, heavy black running on, no map ticks, magenta (unsure; overlay crop 0 2100)"
+- box: [2441, 2468, 2551, 2578]
+  why: "05-02's box 93 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Ninth / First boundary near Marburg-Wolfhagen (Diemel), heavy black, no map ticks, magenta (unsure; overlay crop 1700 2100)"
+- box: [2348, 2481, 2458, 2591]
+  why: "05-02's box 94 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, next stretch, no map ticks, magenta (unsure; overlay crop 1700 2100)"
+- box: [1376, 2628, 1486, 2738]
+  why: "05-02's box 95 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Fifteenth / Ninth boundary east of Wuppertal, heavy black, no map ticks, magenta (unsure; overlay crop 0 2100)"
+- box: [527, 2702, 667, 2842]
+  why: "05-02's box 96 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth army group boundary along the Maas from Roermond to Maaseik (a long diagonal), heavy black, no map ticks, grey railway ticks only, magenta in the trace (looked, overlay crop 0 2100)"
+- box: [1695, 3014, 1805, 3124]
+  why: "05-02's box 97 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Ninth boundary's run through the Sauerland toward the Rhine at Bonn, heavy black, no map ticks, magenta (unsure; overlay crop 0 2100)"
+- box: [1772, 3137, 1872, 3237]
+  why: "05-02's box 98 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, next stretch to the Rhine, no map ticks, magenta (unsure; overlay crop 0 2100)"
+- box: [2074, 3264, 2184, 3374]
+  why: "05-02's box 99 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Fifteenth / First boundary near Westerburg, heavy black running on, no map ticks, magenta (unsure; overlay crop 1700 2100)"
+- box: [1536, 3284, 1646, 3394]
+  why: "05-02's box 100 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Fifteenth / First boundary's end beside the Rhine at Neuwied, heavy black, no map ticks, magenta (unsure; overlay crop 0 2100)"
+- box: [1928, 3343, 2038, 3453]
+  why: "05-02's box 101 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Third / First(?) army boundary along the Lahn, Limburg-Runkel, heavy black, no map ticks, magenta (unsure; overlay crop 1700 2100)"
+- box: [1839, 3392, 1949, 3502]
+  why: "05-02's box 102 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same Lahn boundary, next stretch, no map ticks, magenta (unsure; overlay crop 1700 2100)"
+- box: [3054, 3412, 3164, 3522]
+  why: "05-02's box 103 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Third army boundary diagonal at Fulda-Hersfeld, heavy black, no map ticks, magenta (unsure; overlay crop 1700 2100)"
+- box: [3943, 3439, 4053, 3549]
+  why: "05-02's box 104 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Third army boundary's end at the front near Hirschberg-Hof, heavy black thin line, no ticks, magenta (unsure; overlay crop 3200 2600)"
+- box: [2339, 4700, 2449, 4810]
+  why: "05-02's box 105 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the heavy black boundary line south of Heilbronn toward Stuttgart, the Neckar's blue beside it, no map ticks, magenta (unsure; overlay crop 1700 3700)"
+- box: [2620, 3946, 2740, 4066]
+  why: "05-02's box 106 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary's long straight from Aschaffenburg past Wertheim to Wuerzburg (one 757 px stretch, blue 'line', 0.0/0.01 ticks): heavy black with the river's blue, no map ticks, the grey railway ticks beside it are what the trace counted (overlay crop 1700 3700)"
+- box: [3251, 4492, 3371, 4612]
+  why: "05-02's box 107 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth boundary's long diagonal from Wuerzburg past Ansbach to Weissenburg (one 702 px stretch, blue 'line', 0.0/0.01 ticks): heavy black, no map ticks, grey railway ticks only (overlay crop 1700 3700 and 3000 3900); the front's ticked wedge begins beyond its end near 3760,4915"
+- box: [3563, 955, 3639, 1031]
+  why: "05-02's box 108 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short blue mark inside the CWTZ symbol's box (25 px, 0.2/0.6 ticks): a hand mark of the symbol, not the line (looked, overlay crop 1900 700)"
+- box: [1551, 3433, 1635, 3517]
+  why: "05-02's box 109 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short blue stub at the Rhine at Koblenz-Ehrenbreitstein on the heavy black Third / Fifteenth boundary (48 px), no map ticks, railway ticks only (overlay crop 0 2100)"
+- box: [1419, 1534, 1503, 1618]
+  why: "05-02's box 110 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short blue stretch on the First Canadian / Second British boundary at Lingen (59 px), lettered FIRST CDN / SECOND BRD, heavy black with no map ticks (overlay crop 0 700)"
+- box: [2146, 2704, 2196, 2754]
+  why: "05-02's box 112 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the First / Ninth army boundary's loop at Korbach-Winterberg, heavy black, no ticks (run at 2210,2771, 64 px; looked, --look 2210,2771); drawn heavier on this sheet than on 04-26"
+- box: [1476, 2759, 1546, 2849]
+  why: "05-02's box 113 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a heavy black army boundary beside the XVIII symbol near Wipperfuerth (run at 1532,2862, 85 px, no ticks; looked, --look 1532,2862)"
+- box: [2148, 2799, 2186, 2859]
+  why: "05-02's box 114 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same First / Ninth boundary south of Korbach (run at 2196,2884, 51 px, no ticks; looked, --look 2196,2884)"
+- box: [1581, 2859, 1776, 3099]
+  why: "05-02's box 115 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a heavy black boundary from Wipperfuerth south-east toward the Rhine at Bonn, a long diagonal (run at 1693,3044, 255 px, 0.02/0.02; looked, --look 1693,3044)"
+- box: [1671, 3809, 1766, 3834]
+  why: "05-02's box 116 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Third / Fifteenth boundary along the Rhine at Bingen, the river's blue beside it, no ticks (run at 1742,3888, 78 px; looked, --look 1742,3888)"
+- box: [1961, 3979, 2036, 4334]
+  why: "05-02's box 117 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth boundary's winding run south along the Rhine from Mainz (runs at 2024,4057, 2053,4097, 1992,4139, 1999,4190, 2019,4229, 2047,4321, 2053,4362: 37-79 px each, no ticks), heavy black beside the river's blue (looked, --look 2024,4057 2053,4097 2019,4229)"
+- box: [3179, 4416, 3279, 4516]
+  why: "05-02's box 118 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary's long diagonal from Wuerzburg to the Danube front (one 1084 px stretch, middle at 3253,4522, no ticks: heavy black with no map ticks either side), drawn heavy on this sheet; 04-26's boxes at 3119,4375 and 3275,4548 held its other parts"
+- box: [1622, 4588, 1722, 4688]
+  why: "05-02's box 119 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth boundary's long heavy run from Saarbruecken along the Pfalz to the Rhine at Speyer (one 1599 px stretch, middle at 1696,4694, no ticks): drawn heavy black on this sheet, where on 04-26 it was a thin line the mask didn't take; the red ticks the overlay draws on it have no map ticks beneath (looked, --look 1200,4560 1500,4600; overlay crop 950 4380 700 360 here against 04-26's)"
+- box: [2336, 4824, 2376, 4884]
+  why: "05-02's box 120 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a heavy boundary near Heilbronn-Stuttgart (run at 2379,4909, 51 px, no ticks; looked, --look 2379,4909)"
+- box: [2326, 4879, 2376, 4959]
+  why: "05-02's box 121 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, next stretch (run at 2356,4980, 83 px, no ticks)"
+- box: [3329, 1096, 3409, 1171]
+  why: "05-02's box 122 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth army group boundary from the Elbe at Dannenberg-Hitzacker south-west toward Ulzen, heavy black, no map ticks (magenta in the trace, run at 3385,1198; overlay crop 2950 1000 700 450: the red ticks fall on no map tick)"
+- box: [3132, 1253, 3212, 1333]
+  why: "05-02's box 123 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same boundary, next stretch past Ulzen (run at 3188,1357, unsure; overlay crop 2950 1000 700 450), no map ticks"
+- box: [1326, 2609, 1406, 2689]
+  why: "05-02's box 124 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): a short blue stub of a river on the heavy black Fifteenth / Ninth boundary east of Wuppertal (run at 1382,2713, 46 px, unsure; overlay crop 900 2600 600 250): river ink, no map ticks"
+- box: [1566, 4436, 1646, 4516]
+  why: "05-02's box 125 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Saarbruecken-Speyer line, heavy and unticked: its Pfalz stretch (run at 1622,4540, 115 px, unsure, magenta; overlay crop 500 4400 1000 400): boxed as on 04-27"
+- box: [1137, 4476, 1217, 4556]
+  why: "05-02's box 126 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same line at Saarbruecken (run at 1193,4580, 270 px, unsure, magenta), no map ticks (overlay crop 500 4400 1000 400)"
+- box: [1004, 4460, 1084, 4540]
+  why: "05-02's box 127 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same line west of Saarbruecken, at the heavy black boundary's foot (run at 1060,4564, 70 px, unsure, magenta), no map ticks (overlay crop 500 4400 1000 400)"
+- box: [1519, 4573, 1599, 4653]
+  why: "05-02's box 128 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same line toward Speyer (run at 1575,4677, 516 px, unsure, magenta), no map ticks (overlay crop 500 4400 1000 400)"
+- box: [3488, 4700, 3568, 4780]
+  why: "05-02's box 129 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the heavy black diagonal boundary near Pappenheim-Eichstaett on its way to the front (run at 3544,4804, 52 px, unsure, magenta; --look 3544,4804, overlay crop 3440 4740 220 140): no map ticks"
+- box: [2695, 3983, 2795, 4023]
+  why: "05-02's box 130 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army boundary, heavy black straight through Wuerzburg (run at 2761,4083, 81 px, unsure, no ticks; --look 2761,4083): on 04-28 its box [2636,4026,2756,4146] ended 5 px west of this run's middle, so it is boxed anew"
+- box: [1606, 4369, 1706, 4449]
+  why: "05-02's box 131 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Saarbruecken-Speyer line in the Pfalz, heavy black with a loop at Waldfischbach (run at 1672,4489, 289 px, unsure, magenta; --look 1672,4489): no map ticks; on 04-28 the shifted boxes lay 27 px south of it"
+- box: [1313, 4465, 1413, 4545]
+  why: "05-02's box 132 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same line west of Pirmasens-Zweibruecken (run at 1379,4585, 923 px from 994,4521 to 1713,4710, unsure, magenta; --look 1379,4585): heavy black, with a dotted line beside it, no map ticks"
+- box: [3746, 4999, 3826, 5079]
+  why: "05-02's box 133 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary's last stretch to the front near Regensburg-Straubing, heavy black diagonal, no map ticks, magenta (run at 3778,5143, 236 px, unsure; looked, --look; the grey ticked lines beside it are railways)"
+- box: [2382, 5840, 2462, 5920]
+  why: "05-02's box 134 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the blue of a lake (the Bodensee, Lake Constance, at the sheet's south edge) with a short heavy mark: lake ink, not a line, no ticks (run at 2414,5984, 52 px, magenta; looked, --look)"
+- box: [1800, 4366, 1880, 4446]
+  why: "05-02's box 135 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the heavy black Saarbruecken-Speyer line (a boundary) in the Pfalz near Neustadt, no map ticks (run at 1832,4510, 419 px, unsure, magenta; looked, --look)"
+- box: [1634, 4525, 1714, 4605]
+  why: "05-02's box 136 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the same line near Bergzabern, heavy black, no map ticks (run at 1666,4669, 459 px, unsure, magenta; looked, --look)"
+- box: [1910, 4085, 1990, 4165]
+  why: "05-02's box 137 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth boundary's heavy black run at Worms, heavy black with no map ticks, the grey ticked lines beside it railways (run at 1942,4229, unsure, magenta; looked, --look)"
+- box: [3004, 1379, 3124, 1499]
+  why: "05-02's box 138 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twenty One / Twelfth army group boundary from Dannenberg-Dömitz south-west to Hannover, one 1035 px stretch cut at the Elbe corner and at Hannover (middle 3056,1471, tool 'ticks'): heavy black, no map ticks (looked, --look 3560,800 3250,1330; overlay crop 2300 300 1800 1500); on 05-01 the same boundary was boxed in pieces and the middle of this day's single run fell between them. The front proper, blue, leaves it at the Elbe at 3470,1100"
+- box: [1590, 4450, 1710, 4570]
+  why: "05-02's box 139 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary, Saarbruecken along the Pfalz to Speyer and up the Rhine to Mainz, one 2026 px stretch (middle 1642,4542, tool 'ticks'): heavy black, no map ticks, the tool's ticks only railways; boxed in many pieces on 05-01 (boxes 18-34, 117-137 here), which this day's single run missed"
+- box: [2383, 3922, 2483, 4022]
+  why: "05-02's box 140 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth army group boundary east of Mainz toward Aschaffenburg (lettered TWELFTH / SIXTH), 132 px, magenta/unsure, heavy black with no map ticks"
+- box: [3349, 4589, 3469, 4709]
+  why: "05-02's box 141 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Twelfth / Sixth (then Third / Seventh) army boundary, the long diagonal from the Main at 2834,4041 past Wuerzburg to the front at Dachau, 1329 px, magenta/unsure: heavy black with no map ticks (overlay crops 700 3900 and 3500 4900); boxed in pieces on 05-01"
+- box: [2417, 4774, 2517, 4874]
+  why: "05-02's box 142 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the Seventh / First French army boundary, heavy black from the Neckar toward Stuttgart/Esslingen, 193 px, magenta/unsure, no map ticks (overlay crop 700 3900 1900 1300)"
+- box: [772, 6066, 852, 6146]
+  why: "05-02's box 143 shifted by the sheets' offset +8,-32 (coordinates in the reason are earlier days'): the legend's lettering, 'FRONT LINE' (the T of NT, 48 px, magenta/unsure), bottom left below the legend's box at 28,5446-831,6000; not a line (overlay crop 500 5700 1500 600)"
+- box: [1369, 4472, 1469, 4552]
+  why: "NEW on 05-03: the heavy black Saarbruecken-Speyer line (the boundary 05-02 boxed in pieces, boxes 125-139): this day its trace is one stretch (run 93, 'ticks' by the tool, middle 1419,4512) that no shifted box catches. looked, --look 1000,4490 1300,4520 1500,4620: plain heavy black 15-20 px wide, no map ticks on either side (the tool's red ticks fall on the grey railways and rivers); the same line 05-02 left out."
+flip: []
+# No Dutch flip: unlike 05-01 and 05-02 (one unticked run, turned by the units either side), this sheet draws its ticks on the Dutch front (IJsselmeer shore, Apeldoorn, Arnhem, Emmerich, the Waal), the tool reads them as ticks in 8 runs, the red ticks fall on the map's black ticks (looked, overlay crop 300 1450 1400 1300), on the east and south, the Allied side: the hatched enemy 361 and 346 stand west of the line, the Canadian 49 and CDN boxes east and south.
+checked:
+- at: [3584, 828]
+  why: "a short link (run 32, 25 px, no ticks) in the Schweriner See - Ludwigslust front, in the gap between the ticked stretches either side of the XVIII symbol; heavy black continuing the front; it runs the same way as its neighbours (run 27 ends 3619,805, run 32 3597,811 to 3573,846, run 37 to 3561,880, run 42 starts 3578,891): looked, overlay crop 2750 250 1300 1100"
+- at: [3568, 866]
+  why: "the second short link (run 37, 5 points, no ticks), same gap, same way as run 32 and run 42; looked, overlay crop 2750 250 1300 1100"
+# Reviewed: 59 of 60 towns on 2 May's side; 12E 52N sits under the Elbe line. The Dutch front carries map ticks today, so no flip. The area widened to the Bavarian wedge's arc; the Saarbrücken-Speyer line boxed whole.

@@ -13,7 +13,7 @@ exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front,
   - {box: [2900, 1000, 3500, 1400], why: "the First Canadian/Second British army boundary south of the Maas toward Turnhout, heavy, no ticks (looked at 3366,1093 3233,1260 2963,1324)"}
   - {box: [3480, 4880, 4100, 5300], why: "the Twelfth/Sixth army group boundary south-west of Dombasle, no ticks (seen on overlay crop 3400,4000)"}
   - {box: [4260, 4580, 4560, 4800], why: "the same boundary along the Marne-Rhine canal from x 4260 to Sarrebourg and north (4500,4600), no ticks; without it unsure at 4502,4617 (overlay crop 3500,4500)"}
-  - {box: [4520, 4280, 4830, 4660], why: "the same boundary from Sarrebourg north-east toward the front near Sarreguemines, no ticks"}
+  - {box: [4520, 4430, 4900, 4660], why: "narrowed on review (7 Nov 2026): the old box [4520,4280,4830,4660] swallowed ticked front on the Saar east of Saarlautern; the same boundary from Sarrebourg north-east toward the front near Sarreguemines, no ticks"}
   - {box: [4540, 4990, 4800, 5300], why: "the Seventh/First French army boundary north-east of St. Die, no ticks"}
   - {box: [5100, 4950, 5260, 5020], why: "the stub where that boundary meets the front on the Rhine, no ticks"}
   - {box: [4650, 3960, 4780, 4050], why: "an enemy division's box (36) with its hatching in the Saar salient, not a line (looked at 4701,4007)"}

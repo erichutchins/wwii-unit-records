@@ -1,0 +1,23 @@
+# 12ag-1944-07-21: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21046
+date: 1944-07-21
+as_of: 1200 HRS 21 JULY 1944
+title: "SECRET (struck through) / Situation 1200 hrs 21 July 1944, Twelfth Army Group (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [900, 330, 3700, 910], why: "the title block lettering, from 07-22's box"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend, bottom left, from 07-22's box"}
+  - {box: [1600, 180, 2300, 345], why: "SECRET (struck through) above the title: two magenta unsure stretches at 2138,328 and 2271,328, no ticks, not the front"}
+checked:
+  - {at: [2306, 2643], why: "hook under the 35 symbol's box; the map's ticks stand on its north side (US side), 4x crop, same as the blue stretches either side"}
+  - {at: [2372, 2645], why: "stretch under the 35 symbol; the map's ticks on its north side (US side), continuous with the blue neighbours"}
+flip: []
+
+# Reviewed: a 1200 hrs sheet (as_of 1200 HRS 21 JULY 1944, no report number), agrees with the catalogue. Excludes copied from 12ag-1944-07-22 and re-tested at radius 3: without the title box 129 stretches (93 unsure), without the legend box 112 (56 unsure); both kept, neither cuts the front. 07-22's third box (91st Division symbol's stroke, 1430-1500 x 2280-2340) catches nothing here (same 32 stretches with and without), dropped. Added one box (1600-2300 x 180-345): the struck-through SECRET above the title traced as two unsure stretches at 2138,328 and 2271,328. With it 30 stretches.
+# Reviewed: two unsure stretches at 2306,2643 and 2372,2645 (the front under the 35th Division symbol, no ticks of their own); on a close crop the map's ticks stand on their north side and the line is continuous with the blue stretches either side, so both are in `checked`, not flipped. Every other stretch's red ticks looked at on 3x crops of the overlay from the west coast (1348,2226) to the Orne mouth (3858,2181): all on the map's hatching, north and west (US and British side). Nothing turned.
+# Reviewed: --sides: 33 of 34 towns agreed with 07-22's rings' matching (median 0.8 px); 1W 49.5N placed through the transform. Towns south of the line enemy, those north of it own; 0E and 0.5W 50N and 0.5W 49.5N (at sea off the Orne mouth, line's east end) read own, 0.5E 50N mixed: the line's open end, not a wrong stretch. No town on the wrong side.
+# Reviewed: gaps over 20 px (approximate, refitted to the towns, rms 1.5 px), between the ends of stretches that continue one another: 24 px (2395,2644 to 2419,2641), 25 px (2024,2394 to 2026,2419), 25 px (2737,2697 to 2762,2698), 28 px (2321,2645 to 2349,2645), 34 px (2456,2627 to 2483,2607), 40 px (2815,2695 to 2855,2697), about 75 px (2882,2672 up to 2926,2599: the heavy vertical corner, ticks present but not traced), 43 px (3834,2419 to 3837,2462), 44 px (1670,2319 to 1712,2305), 44 px (3624,2611 to 3666,2597), 52 px (3302,2646 to 3354,2643), 63 px (3699,2599 to 3762,2591: the thick junction at Caen). Ends: west at the Baie du Derout coast (about 1348,2226); east at the Orne mouth (about 3858,2181), running up to the sea. About 119 km in 30 stretches.
+# Reviewed: none turned, two short links under the 35th Division checked; about 119 km; the largest gaps are the heavy corner at about 2882-2926 (75 px) and the Caen junction (63 px).

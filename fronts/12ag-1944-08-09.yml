@@ -1,0 +1,20 @@
+# 12ag-1944-08-09: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21065
+date: 1944-08-09
+as_of: 1200 HRS 9 AUGUST 1944
+title: "Situation 1200 hrs 9 August 1944, Twelfth Army Group (SECRET struck through; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B02.csv
+radius: 2   # as 7 August
+exclude:
+  - {box: [1050, 680, 3350, 1260], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 9 AUGUST 1944, TWELFTH ARMY GROUP), read with --title 900 600 2600 800; it stands lower on this sheet than on 7 August"}
+  - {box: [100, 4600, 1000, 5300], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE) bottom left, with its sample of the front line; read with the overlay crop 0,4400 (its lettering and symbol frames read as stretches); a sample not a front"}
+  - {box: [4340, 4850, 4960, 5280], why: "the DESTROYED box of enemy divisions (frame and symbols), bottom centre: a list's frame, not front (looked at on the overlay crop 4200,4600)"}
+  - {box: [5200, 4860, 5740, 5080], why: "the UNLOCATED box (frame and its XXX symbol), bottom right: a list's frame, not front (looked at on the overlay crop 4200,4600)"}
+flip: []
+checked:
+  - {at: [6231, 466], why: "the northern end of the line to the coast: a short stretch (about 60 px) of a heavy line the mask reads only in part; looked at 4x at 6230,440 and 6230,520: the map's ticks are on its west, as are the red ticks (British side west)"}
+# Reviewed: (9 August) boxes copied from 8 August and each re-tested by removing it: the 8 August army-group-boundary boxes, the Brecey/St-Hilaire boundary box, the 17 SS, Guingamp, XXXX-corps and Athis symbol boxes and the `area` box each caught nothing today (stretch count unchanged at 14 without them), so are dropped; the title block (same place as 8 August), the legend (moved to the far left, bottom) and the DESTROYED and UNLOCATED list frames (new today) are the boxes that matter. No box covers the Mortain salient or any ticked front. NOT TRACED: the whole east side from the Orne tip (about 5930,915) round the Canadian tongue and up to the coast (about 6180,430) is drawn in lighter ink (grey 75-85 where the tool needs under 70) so the mask never reads it at radius 1, 2 or 4, with or without `area`; the tool has no knob for it. 8 August noted the same gap.
+# Reviewed (8 Aug): the Mortain salient is drawn as ticked front today and traced (runs 17-21, ticks west and south); the Brecey-St-Hilaire boundary box stops west of it (x 4830 against the front at 4900+). None turned. Missing: the reach from about 6265,618 north to the coast near Cabourg (about 210 px), dark and ticked but not taken by the mask at radius 2 or 4; cause unclear.
+# Reviewed: the Mortain salient traced, ticks west and south; none turned. MISSING: the east side from the Orne tip round the Canadian tongue to the coast near Cabourg, printed grey 75-85 above the tool's dark<70 threshold (as 7 August).

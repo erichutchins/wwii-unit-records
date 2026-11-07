@@ -5,11 +5,7 @@ report: 331
 title: '12 Army Group Outline Map 1:1,400,000. Top right, lettered by hand: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 331, SITUATION AS OF 021200 MAY 1945, signed C. T. Schmidt for A. FRANKLIN KIBLER, Brigadier General, G.S.C., A.C. of S., G-3'
 read: the title on the sheet (title.jpg via --title 3900 200 1700 1000), 7 Nov 2026
 gcps_from: 12ag-1945-05-01
-area:
-- 382
-- 1279
-- 3750
-- 6250
+area: [382, 1279, 4300, 6250]   # widened on review to take in the Bavarian wedge's ticked arc (Glonn-Wasserburg-Miesbach) past x 3750, as on 3 May
 exclude:
 - box:
   - 4022
