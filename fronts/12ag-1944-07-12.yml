@@ -1,0 +1,22 @@
+# 12ag-1944-07-12: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21037
+date: 1944-07-12
+as_of: 2400 HRS 12 JULY 1944
+title: "Situation 2400 hrs 12 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-13
+radius: 3
+exclude:
+  - {box: [900, 330, 3850, 910], why: "the title block lettering, SITUATION 2400 HRS 12 JULY 1944 / HQ FUSAG / COPY NO (box from 07-13; re-tested: without it 104 stretches)"}
+  - {box: [4450, 380, 5300, 620], why: "SECRET struck through, top right (box from 07-13; re-tested: without it 58 stretches)"}
+  - {box: [1100, 4100, 2600, 5100], why: "the legend, bottom left, widened from 07-13 to x 2600 to take in the last letter of LINE (2530-2540, 4805-4870), which traced as two unsure stretches (without the box 100 stretches)"}
+checked: []   # none: no stretch came out unsure
+flip: []   # none: the red ticks fall on the map's ticks on the US (north and west) side along the whole line
+
+# Reader: title SITUATION 2400 HRS 12 JULY 1944, HQ FUSAG on the line below, COPY NO. blank, no report number, SECRET struck through at top right. Agrees with the catalogue's day (ict21037). Towns matched to 12ag-1944-07-13's (base B01): 34 of 34 agreed (median 1.2 px, sheet offset +8, +8 px); none placed through the transform.
+# Reader: 35 stretches (25 ticks, 10 line, 0 by hand, 0 unsure), no turns, from the Passage de la Deroute coast (about 1364,2233) to the Orne mouth (arrow tip about 3879,2180). Length about 117 km from the GeoJSON (summed great-circle), against about 137 km on 13 July: the difference is the gaps below, about 20 km.
+# Reader: boxes. 07-13's 21 boxes each tested by removal today. Kept: the title block, SECRET and the legend (without them 104, 58 and 100 stretches). The legend box is widened to x 2600: today's legend sits lower and its FRONT LINE lettering ends in an E at 2530-2540, 4805-4870, which traced as two unsure stretches. Dropped, each catching nothing (35 or 37 stretches with and without): the 17 corps and army boundary boxes and symbol-stroke boxes and the Colombelles boundary box of 07-13. On this sheet the boundaries are thin and do not trace; no new boundary or stroke boxes were needed. No ticked front stretch is boxed.
+# Reader: gaps over 20 px between front stretches, from the GeoJSON by the fit (scan px; about 23.5 px/km): 21 at 1538-1559, 2251; 59 at 1924-1983, 2315-2301 (heavy ink, no tick found); 81 at 2019-2099, 2311-2298 (same); 49 at 2124,2332 to 2135,2380; 34 at 2170,2408 to 2180,2441; 25 at 2239-2264, 2486; 38 at 2495-2533, 2607 (the arc head north of Saint-Lo's south bend); 35 at 2572-2607, 2621-2625; 68 at 2729-2797, 2714-2720; 27 at 3481-3495, 2593-2570; 28 at 3833,2349 to 3828,2322; the tip of the arrow at the Orne mouth (3848,2226 to 3879,2180) is traced (run 1). The front is visibly continuous across every gap on the overlay crops (1250,2000; 2500,2000; 2150,2400). Not repaired: radius is fixed at 3.
+# Reader: --sides on 07-13 (its GeoJSON backed up, unchanged by the run) and today, town by town: all 34 towns on the same side, none changes. 0.5E 49.5N and 1E 49.5N read enemy on both days (right: land north of the Seine, German-held), three runs to one off the open east end. Beyond the open ends the towns read either way: 0.5E, 1E 50N and 0E 50N are in the sea (own/enemy, runs split 1-3 or 3-1; 0E 50N own), 2W 50N and 1.5W 50N (Passage de la Deroute) own. No town on the wrong side.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 12 July. All 34 towns on 13 July's side; 0.5E and 1E 49.5N enemy (right). 35 stretches, 0 unsure, no turns, the red ticks on the map's own on the north and west side throughout; but only about 117 km traced against about 137 on 13 July: eleven gaps of 21-81 px where the heavy line is continuous on the map but no ticks were found (the largest north-west of Saint-Lô near x 1924-2099 and south-east of it near x 2729-2797), the fused-tick fault. Boundaries print thin here and do not trace: 13 July's 18 boundary and stroke boxes caught nothing and are dropped; the legend box widened to this sheet's lettering.
