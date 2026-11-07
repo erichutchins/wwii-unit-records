@@ -1,0 +1,25 @@
+# 12ag-1944-07-06: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21031
+date: 1944-07-06
+as_of: 2400 HRS 6 JULY 1944
+title: "Situation 2400 hrs 6 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-07
+radius: 5
+exclude:
+  - box: [4500, 200, 5500, 520]
+    why: the struck-through SECRET at the top right (five stretches at about 0.2-0.4E 49.95N)
+  - box: [1550, 3950, 2450, 4700]
+    why: the legend's FRONT LINE sample (three stretches at 1.4W 48.4N, no front there)
+checked: []
+flip: []
+
+# Reader: title SITUATION 2400 HRS 6 JULY 1944, HQ FUSAG on the line below, COPY No. blank, no report number. Agrees with the catalogue's day (ict21031).
+# Reader: towns matched to 12ag-1944-07-07's (base B01): 28 of 34 agreed (median 0.7 px, sheet offset -8, +0 px); six placed through the transform: 1.5W 50N (28 px off), 1W 50N (35), 0.5W 50N (51), 0.5W 49N (11), 1.5W 48.5N (10), 0.5W 48.5N (5).
+# Reader: radius, with both boxes below. Radius 5: 10 stretches (10 ticks, 0 unsure), 150.3 km, one continuous line Passage de la Deroute to the Orne mouth. Radius 4: 61 stretches (39 ticks, 22 unsure: the legend's lettering and strokes), 190 km. Radius 3: 123 stretches (36 ticks, 8 line, 79 unsure: title, legend, roads' ink), 293 km. Before the boxes radius 5 gave 18 stretches (14 ticks, 4 line, 0 unsure), radius 4 66 (22 unsure), radius 3 138 (90 unsure). Radius 5 kept: whole line, nothing stray.
+# Reader: boxes, as on 7 July and where they sit today. SECRET [4500,200,5500,520]: without it 15 stretches (five more, at about 0.2-0.4E 49.95N), with it 10. Legend [1550,3950,2450,4700]: the FRONT LINE sample is at about 1600-1760,4600 (1.4W 48.4N, three stretches); without it 13 stretches, with it 10. A first try at the same box moved up (y 3550-3800, 3980-4200) missed the sample and changed nothing: reverted. Neither box touches a ticked front stretch (front at y 2100-2650). Title, units table, unit strokes and boundaries trace nothing at radius 5.
+# Reader: no stretch flipped, checked or left out by hand: 10 of 10 ticks agree. Crops 2900,2000 (Caen end, from the Orne mouth at about 3830,2160) and 1100,2000 (Passage de la Deroute coast at about 1300,2190 to Saint-Lo and the Vire): the red ticks fall on the map's own ticks, on the north and west side.
+# Reader: --sides on 07-07 (its GeoJSON backed up, run left it unchanged) and today, diffed town by town: 34 of 34 the same side, no town changes. 0.5E and 1E 49.5N enemy, right. 0.5E and 1E 50N read own (US) by the weight of runs on both days, beyond the open end (Orne mouth), so either way. 
+# Reader: gaps over 20 px between run ends (23.5 px/km): one, 25 px (1.1 km) between run 3's end at 0.2197W 49.238N and run 8's start at 0.2209W 49.229N, where the line breaks near 3540,2325 under the 21 box. The two ends of the line: west tip 1.671W 49.273N (coast), Orne-mouth end 0.1985W 49.290N.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 6 July. Traced at radius 5, as 7-8 July: 10 stretches, about 150 km, 0 unsure, all turned by their ticks, one continuous line from the Passage de la Déroute round Saint-Lô and Caen's north to the Orne mouth, ticks on the north and west; one 25 px break under the 21 box. Boxes: the SECRET strike-through and the legend's FRONT LINE sample. All 34 towns on 7 July's side; 0.5E and 1E 49.5N enemy (right).
