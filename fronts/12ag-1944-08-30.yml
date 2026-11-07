@@ -1,0 +1,23 @@
+# 12ag-1944-08-30: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). B07.
+item: ict21086
+date: 1944-08-30
+as_of: 1200 HRS 30 AUGUST 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 30 AUGUST 1944 / TWELFTH ARMY GROUP"
+read: the title on the sheet, 7 November 2026
+gcps_from: towns-B07.csv
+exclude:
+  - box: [380, 400, 2650, 1000]
+    why: the title block (SECRET struck through, SITUATION 1200 HRS 30 AUGUST 1944, TWELFTH ARMY GROUP), lettered over the Bay of the Seine at the sheet's top left, as on 29 August; the box runs down to y 1000 to take in the TWELFTH ARMY GROUP line. The Mailleraye bend (scan y about 1090 and below) lies clear of it.
+  - box: [350, 4750, 1400, 5900]
+    why: the legend at bottom left (U.S., BRITISH, ENEMY, FRONT LINE with its ticked sample), as on 29 August; lengthened to y 5900 because today's sheet letters FRONT LINE and its sample lower than the 29 August box reached.
+  - box: [4380, 2230, 4690, 2430]
+    why: the army-group boundary (a heavy black diagonal through Paris's south-east, no ticks either side) seen on the overlay today passing about (4660,2100), (4540,2290), (4400,2390), so the box is moved from 29 August's (which sat at x 4350-4570) to take in that run; left out as a boundary, not front.
+  - box: [4650, 5500, 5300, 5820]
+    why: the Division of Maps stamp's frame at the foot of the sheet, as on 29 August (lettering and a ruled box, not front); not found traced today either way, kept at its 29 August place.
+area: [1600, 850, 6200, 2300]   # widened: the front runs north of the towns' spread (the Mailleraye bend, scan y to about 1090) and east of x 3720 (Paris, the Marne, the Aisne piece)
+flip: []
+checked: []
+# Reviewed: today the sheet draws the lower Seine line from Honfleur by the Mailleraye bend, Elbeuf, Vernon-Mantes and Paris's north (Argenteuil) to the Marne near Meaux, then a NE tongue (to Villers-Cotterets, scan about 4870,1500) and a separate short ticked piece on the Aisne (scan about 5400-5660, y 1190-1210); none turned. 29 August's box at the Meulan army-group boundary (3650,1700,3800,1900) is dropped: today the Seine line's own bend (scan about 3700-3900, y 1710-1790) runs through it; the boundary there is a thin line the mask doesn't trace. The area was widened (29 August's stopped at x 3720 and y 1150), as the front lay north (y to 1090) and east of it.
+# Reviewed: the Seine line, the Paris loop, a tongue north-east to Villers-Cotterets and a short ticked piece on the Aisne (about 430 km); none turned; 13 of 14 margin ticks as on 29 August. 29 August's Meulan box is dropped: the Seine line's own bend runs through it today.
