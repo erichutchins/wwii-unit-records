@@ -1,0 +1,84 @@
+# 12ag-1945-04-23: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). Towns matched to 12ag-1945-04-22 (B14). Boxes copied from 04-22, to be moved to where they sit today.
+item: ict21323
+date: 1945-04-23
+as_of: 231200 APR. 1945          # top right: "SITUATION AS OF 231200 APR. 1945"
+report: 322                      # top right: "TO ACCOMPANY G-3 REPORT NO. 322"
+title: "12 Army Group Outline Map 1:1,400,000. Top right, lettered by hand: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 322, SITUATION AS OF 231200 APR. 1945, signed C. T. Schmidt for A. FRANKLIN KIBLER, Brigadier General, G.S.C., A.C. of S., G-3"
+read: the title on the sheet (title.jpg via --title 3900 200 1700 1000), 7 Nov 2026
+gcps_from: 12ag-1945-04-22
+exclude:
+  - {box: [4070, 330, 5660, 1200], why: "the title block's lettering, top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 318, SITUATION AS OF 191200 APR. 1945, the signature, Brigadier General, A.C. of S., G-3); runs 1-12, 15-39, 53-66 are letters; the front's nearest stretches are below y 1250 (Elbe at Wittenberge, run 78 at 3905,1291)"}
+  - {box: [133, 341, 1335, 755], why: "the stamp top left (Auth: CG, Twelfth Army Group / Initials / Date: 19 APRIL 1945, and its frame); runs 13 and 14 (998,669 and 917,659); the front's first stretches here are at y 900 and below (run 40 at 791,919)"}
+  - {box: [60, 5462, 863, 6016], why: "the legend (U.S., BRITISH, ENEMY and their sample boxes), bottom left, at the sheet's edge, partly cut; no run was found in it, the box keeps it out should one be; the front's own stretches here are east of x 1400"}
+  - {box: [198, 5021, 579, 5339], why: "the list box UNIT / VICINITY (16 Dieppe, 106 Rennes, 66 Lorient-St. Nazaire), bottom left, outside the fit; no run found, kept out"}
+  - {box: [810, 2300, 1230, 2560], why: "the Twenty One / Twelfth army group boundary, Wesel toward Munster: heavy black, no map ticks (looked, overlay crop 300 1100 3100 1900); it runs far behind the Dutch front, which is north of y 1900 here"}
+  - {box: [1230, 2130, 1580, 2250], why: "the same boundary at Munster, no map ticks (looked, overlay crop 300 1100)"}
+  - {box: [1560, 2000, 1910, 2190], why: "the same boundary, lettered TWENTY ONE / XXXXX / TWELFTH, toward Osnabruck, no map ticks (looked, overlay crop 300 1100)"}
+  - {box: [1870, 1860, 2170, 2030], why: "the same boundary, Osnabruck toward Hannover, magenta in the trace, no map ticks (looked, overlay crop 300 1100)"}
+  - {box: [2130, 1740, 2630, 1890], why: "the same boundary toward Hannover, no map ticks (looked, overlay crop 300 1100)"}
+  - {box: [2600, 1670, 2980, 1770], why: "the same boundary at Hannover and the Aller, no map ticks (looked, overlay crop 300 1100)"}
+  - {box: [2930, 1580, 2990, 1690], why: "the same boundary's northward jog beside the Aller (looked, overlay crop 300 1100)"}
+  - {box: [2980, 1520, 3165, 1620], why: "the boundary's last stretch to the front at about 3120,1320; the front's corner (blue, about 3075,1290-1310) is above the box and stays (looked, overlay crop 300 1100)"}
+  - {box: [1120, 2570, 1195, 2640], why: "two short blue stubs of the Rhine/Ruhr's rivers beside the symbol 'AB 17' at Essen, about 1050-1105,2378-2430 and 985-1040,2455-2500 (the lower box): no ticks the map draws, red ticks from the river only (looked, overlay crop 900 2300 400 200); the Ruhr pocket is gone by 20 April, no front here"}
+  - {box: [1065, 2655, 1120, 2700], why: "the second stub of the same (the 'Duisburg' river reach), see above"}
+  - {box: [1210, 2995, 1255, 3035], why: "a tiny blue stub on the Rhine at Cologne beside the 'AB 82' symbol (about 1150,2810): river ink, no map ticks (looked, overlay crop 1000 2700 400 200)"}
+  - {box: [2330, 3640, 2480, 3780], why: "the Twelfth / Sixth army group boundary from Hanau toward the Thuringian Forest, first leg (magenta in the trace, no map ticks; looked, overlay crop 300 3150 3200 1400); the front's own end at Hanau (about 2236,3569) is left of the box"}
+  - {box: [2470, 3530, 2610, 3650], why: "the same boundary, second leg, no map ticks (looked, overlay crop 300 3150 3200 1400)"}
+  - {box: [2600, 3440, 2720, 3550], why: "the same boundary, third leg, to the bend (the existing box at 2609,3198 takes the rest), no map ticks (looked, overlay crop 300 3150 3200 1400)"}
+  - {box: [1020, 4465, 1215, 4545], why: "the Twelfth / Sixth army group boundary west of Saarbrucken and its last stretch down to the sheet's Saar line (run 65 at 1077,4326): heavy black with no map ticks, red ticks only from railways (looked, --look 1030,4290 and overlay crop 950 4200 400 250); on 19 April the same ink was taken in the Saarbrucken-Oberstein boxes; the run's diagonal end meets the boundary box above at about 1220,4205"}
+  - {box: [1550, 3580, 1750, 3920], why: "the Rhine from Koblenz to Bingen (run 53 at 1502,3477): the river drawn heavy, lettered THIRD / FIFTEENTH (army boundary), grey railway ticks only, no map ticks (looked, --look 1500,3500). On 19 April the tool found no run on this reach; the Rhine is wholly behind the front on 20 April"}
+  - {box: [1760, 3820, 2040, 3930], why: "the Rhine and Main at Bingen-Mainz-Biebrich (runs 55 and 56 at 2038,3686 / 1719,3688, the second the 'unsure' one): the river drawn heavy black with blue, no map ticks (looked, --look 1830,3650 and overlay crop 1600 3620)"}
+  - {box: [1970, 3760, 2325, 4045], why: "the Twelfth / Sixth army group boundary along the Main from Oppenheim past Frankfurt to Hanau (run 54 and the short run 57 at 1900,3830): the same heavy black the 04-19 box [2100,3650,2330,3820] took (its run 142, Oppenheim to 2700,3430), no map ticks, grey railway ticks only (looked, overlay crops 300 3150 and 1850 3780)"}
+  - {box: [1550, 3564, 1610, 3634], why: "a short blue stub at Koblenz (run 145 at 1531,3542): the end of the Third / Fifteenth boundary on the Rhine, no map ticks, red ticks from the river (looked, overlay crop 1380 3450)"}
+  - {box: [1203, 4156, 1385, 4535], why: "the Twelfth / Sixth army group boundary from Saarbrucken north to Oberstein (runs 162 and 158 at 1198,4428 and 1279,4159): heavy black, no map ticks, grey railway ticks only (looked, overlay crop 700 3450); the whole boundary Saarbrucken-Oberstein-Frankfurt-Hanau-Meiningen-Bayreuth is left out in the boxes below"}
+  - {box: [1453, 4095, 1853, 4182], why: "the same Twelfth / Sixth boundary east of Oberstein (runs 156, 157, 154, 153 at 1543,4095 / 1436,4095 / 1646,4083 / 1751,4071), no map ticks (looked, overlay crop 700 3450)"}
+  - {box: [2151, 3701, 2382, 3870], why: "the same boundary through Frankfurt-Hanau toward the Thuringian Forest (run 142 at 2209,3732, a long stretch from Oppenheim to 2700,3430), no map ticks (looked, overlay crops 700 3450 and 2350 3200)"}
+  - {box: [2689, 3398, 2850, 3487], why: "the same boundary, bend near Schmalkalden, lettered TWELFTH / XXXXX / SIXTH just east (runs 141 and 140 at 2673,3409 and 2743,3380), no map ticks (looked, overlay crop 2350 3200)"}
+  - {box: [3129, 3396, 3249, 3465], why: "the same boundary at Meiningen (run 139 at 3145,3386), no map ticks (looked, overlay crop 2350 3200)"}
+  - {box: [3250, 3475, 3812, 3912], why: "the same boundary's diagonal Meiningen to the front near Bayreuth (runs 143, 144, 148 at 3266,3485 / 3408,3599 / 3672,3812), no map ticks; it meets the front at about 3830,3900, whose own stretches (runs 150-152) lie east of the box (looked, overlay crop 2350 3200)"}
+  - {box: [811, 1793, 866, 1826], why: "a blunt dead-end spur, about 26 px long, above the front's corner at Deventer (run 107 at 797,1760, unsure): no ticks either side, can't be read (looked, --look 798,1759); the front's own stretches either side of the corner are traced"}
+  - {box: [3140, 1511, 3240, 1561], why: "the Twenty One / Twelfth army group boundary's last stretch to the front, east of Celle (magenta in the trace at about 3125-3180,1555-1568, unsure): heavy black, no map ticks (looked, overlay crop 3000 1450); the front's corner (blue, about 3290,1490) is beyond the box"}
+  - {box: [815, 2571, 865, 2636], why: "the Twenty One / Twelfth boundary at Duisburg-Hamborn, magenta in the trace at about 785-815,2605-2650: heavy black running on north-east, no map ticks (looked, overlay crop 650 2500)"}
+  - {box: [1410, 3406, 1470, 3466], why: "the Third / Fifteenth army boundary drawn heavy beside the Rhine at Andernach, magenta at about 1380-1420,3442-3480: no map ticks (looked, overlay crop 1250 3350); the Rhine is wholly behind the front"}
+  - {box: [1835, 3996, 2005, 4111], why: "the Twelfth / Sixth army group boundary at Oppenheim-Worms, magenta, a diagonal at about 1805-1950,4025-4125: heavy black, railway ticks only, no map ticks (looked, overlay crop 1750 3960)"}
+  - {box: [1066, 2609, 1126, 2659], why: "a short blue stub on the Rhine at Hamborn beside the '94' symbol (run at 1076,2617, magenta, unsure): river ink where the heavy Twenty One / Twelfth boundary meets it, no map ticks (looked, overlay crop 900 2450 400 300); the Rhine is wholly behind the front"}
+  - {box: [1411, 4119, 1481, 4154], why: "the Twelfth / Sixth army group boundary's heavy black beside the XXIII symbol near Oberstein (run at 1430,4114, magenta, unsure): no ticks the map draws (looked, overlay crop 1300 4000 400 250); the same boundary the box to its right takes"}
+# Boxes copied from 04-22 and shifted by the sheets' offset (+16, +24); the why texts keep 04-22's coordinates.
+# The 04-22 flip (2017,5322) and checked (3875,4164) are not carried: to be re-derived on this sheet.
+  - {box: [1380, 690, 1480, 770], why: "the stamp's last lettering ('BDO' after 'Date: 23 APRIL 1945', run at 1428,723, 33 px): outside the stamp box, the front's first stretches are at y 900 and below (looked, --look 1428,723)"}
+  - {box: [1270, 1900, 1350, 1970], why: "the Twenty One / Twelfth boundary's loop near Enschede-Hengelo, heavy black, no map ticks (run at 1318,1933, unsure; looked, --look 1318,1933 and overlay crop 0 1100 1500 1100)"}
+  - {box: [1190, 1930, 1270, 1975], why: "the same boundary, its western leg (run at 1230,1953), no map ticks (overlay crop 0 1100 1500 1100)"}
+  - {box: [830, 2230, 900, 2275], why: "a short blue stub of the Rhine/Waal below Nijmegen (run at 862,2249, unsure): river ink, red ticks from the river only; the Dutch front's own line (Kampen-Deventer-Apeldoorn arc, run at 712,1857) is traced and runs to the Rhine at 540,2100 (looked, overlay crop 500 2100 1100 1200)"}
+  - {box: [925, 2260, 1010, 2320], why: "the same Rhine/Waal stub at Emmerich (run at 966,2291, unsure): river ink, no map ticks (looked, overlay crop 500 2100)"}
+  - {box: [1090, 2700, 1130, 2760], why: "a short blue/magenta stub on the Rhine at Duesseldorf-Neuss (run at 1106,2730, unsure): the Rhine drawn heavy, no map ticks; the Rhine is wholly behind the front (looked, overlay crop 500 2100)"}
+  - {box: [1135, 2795, 1180, 2835], why: "the same Rhine, next stub (run at 1155,2814)"}
+  - {box: [1170, 2885, 1215, 2930], why: "the same Rhine, next stub (run at 1187,2907)"}
+  - {box: [1225, 3030, 1260, 3065], why: "the Cologne stub shifted from 04-22's box, which sits 11 px above this sheet's (run at 1236,3046, blue, 0.12 ticks from the river): the Rhine beside the 'AB 82' symbol (looked, overlay crop 500 2100)"}
+  - {box: [1240, 3095, 1285, 3125], why: "the Rhine south of Cologne (run at 1256,3108, unsure): river ink, no map ticks (overlay crop 500 2100)"}
+  - {box: [1255, 3140, 1295, 3175], why: "the Rhine south of Cologne, the Fifteenth / Ninth boundary's lettering just below (run at 1274,3157, unsure): no map ticks (overlay crop 500 2100)"}
+  - {box: [3230, 2300, 3610, 2390], why: "the First / Ninth army boundary along the Harz's north edge, Blankenburg to Quedlinburg (runs at 3269,2330 unsure, 3348,2339 and 3511,2352): heavy black, no ticks either side (looked, --look 3340,2340 3480,2340 3600,2310). It is a boundary and the Harz isn't a front line here"}
+  - {box: [2700, 2515, 2770, 2580], why: "the Ninth / First boundary at Goettingen (run at 2734,2548, unsure, magenta): heavy black, no map ticks (looked, overlay crop 2550 2150 1300 700)"}
+  - {box: [2750, 2650, 2850, 2695], why: "the same boundary south of Goettingen toward Kassel (run at 2799,2672, unsure, magenta): heavy black, no map ticks (overlay crop 2550 2150)"}
+  - {box: [3900, 3545, 3970, 3580], why: "the First / Third army boundary's end at the front near Hirschberg-Hof (run at 3933,3563, 44 px, unsure): heavy black thin line, no ticks (looked, --look 3933,3563)"}
+  - {box: [2250, 3990, 2470, 4065], why: "the Twelfth / Sixth army group boundary's long straight east of Mainz toward Wuerzburg-Grossumstadt (run at 2359,4026, 716 px, unsure, magenta): heavy black, no map ticks, lettered TWELFTH / SIXTH further on (looked, --look 2359,4026); its east end meets the front's blue stretch at about 2717,4084, which stays"}
+  - {box: [3200, 4465, 3280, 4520], why: "a heavy diagonal boundary meeting the front at Ansbach (run at 3238,4492, 85 px, unsure): no map ticks; the front's own ticked stretch (run at 3425,4572) is right of the box (looked, --look 3238,4492)"}
+  - {box: [1990, 4465, 2060, 4500], why: "the Seventh / First French army boundary near Speyer (run at 2022,4483, unsure): heavy black, no ticks (looked, --look 2022,4483)"}
+  - {box: [2455, 4915, 2495, 4980], why: "a heavy boundary near Pforzheim-Stuttgart (run at 2483,4947, unsure, magenta): no map ticks (looked, --look 2483,4947)"}
+  - {box: [2110, 5240, 2200, 5290], why: "the heavy hook at the I FR symbol, west of the corridor's corner near Lossburg (run at 2156,5261, 65 px, unsure): heavy as the front but no map ticks; it runs on behind the symbol's box and, as an arc from Oberndorf (2100,5400) round to the front at 2270,5560, comes out again; on 22 April the same line is the thin pole/boundary. Judged boundary or division line, left out; UNSURE (looked, --look 2150,5270 2150,5500 2100,5400)"}
+  - {box: [2100, 5480, 2200, 5530], why: "the arc's lower stretch toward Spaichingen (run at 2152,5503, 97 px, unsure): the same line, no map ticks (looked, --look 2150,5500); see the box above"}
+  - {box: [2940, 4150, 3030, 4260], why: "the Twelfth / Sixth army group boundary's diagonal from Wuerzburg past Ochsenfurt and Uffenheim to the front near Ansbach (run at 2985,4203, 363 px, blue in the trace, 0.0/0.01 ticks): heavy black with no map ticks, the blue beside it a river (looked, --look 2900,4130 2985,4203 3080,4300); it meets the front at about 3200,4450, whose ticked stretch (run at 3425,4572) stays"}
+flip: []
+checked: []
+
+# Boxes copied from 04-22 and shifted by the sheets' offset (+16, +24), then 22 added for this sheet's boundary and river
+# stubs, each measured against the unboxed trace (every box's stretches listed; none holds a ticked front stretch: the title and
+# stamp boxes hold lettering, the rest boundary/Rhine ink with no map ticks). 10 of 04-22's boxes hold no stretch today
+# (the Thuringian boundary legs, the Hamborn stubs, the Koblenz-Bingen Rhine): left in as guards. Read 7 Nov 2026.
+# Sides: 58 of 60 towns on 04-22's side. 6E 52N now US (the Deventer-Apeldoorn arc, run 22 at 712,1857, is traced
+# today); 9E 48N now US (only run 57 at 2347,5591, the front's new east-going stretch south of Spaichingen). 11E 53N and
+# 12E 52N sit under the line as before. 8E 49N is own by runs 51, 52 against 53, 54 (the Black Forest's x 2010 line).
+# Not traced, past the towns' spread: the ticked Zuider Zee front west of Kampen (about 480-800,1300-1520), the front
+# from the Apeldoorn arc's foot to the Rhine (415-540,2070-2100), and the heavy lines south of y 5700 at x 1400-1450 and
+# 2020-2470. UNSURE: the hook and arc at the I FR symbol (boxed out: heavy, no ticks).
+# Reviewed: 58 of 60 towns on 22 April's side; 6E 52N (own) is right again with the Apeldoorn arc traced, 9E 48N (own) the French advance south of Spaichingen. Doubtful: the heavy unticked hook and arc by the 1 FR symbol (boxes at 2110,5240 and 2100,5480) are boxed as a boundary; they may be First French Army front drawn without ticks.
