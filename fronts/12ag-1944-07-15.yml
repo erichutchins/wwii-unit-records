@@ -1,0 +1,21 @@
+# 12ag-1944-07-15: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21040
+date: 1944-07-15
+as_of: 2400 HRS 15 JULY 1944
+title: "Situation 2400 hrs 15 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-16
+radius: 3
+exclude:
+  - {box: [900, 330, 3850, 910], why: "the title block lettering, from 07-16's box"}
+  - {box: [4450, 380, 5300, 620], why: "SECRET struck through, top right, from 07-16's box"}
+  - {box: [1100, 4100, 2500, 5100], why: "the legend, bottom left, from 07-16's box"}
+  - {box: [2820, 2010, 2910, 2540], why: "the First US/Second British army boundary from the coast to the front, heavy with no ticks (runs 1 and 4, unsure)"}
+checked: []
+flip: []
+# Reader: title 2400 HRS 15 JULY 1944 (HQ FUSAG, "Copy No." left blank, no report number; SECRET struck through at top right); agrees with the catalogue's day (ict21040). The hour is 2400, as on 16 July. Towns matched to 12ag-1944-07-16's: 31 of 34 agreed (median 1.2 px, sheet offset -16, -8 px); 1.5W 50N, 2W 49.5N and 1E 48N placed through the transform (4-5 px off).
+# Reader: boxes re-tested by tracing with and without each. Title box (16 July's, same place): without it 81 stretches (59 unsure); SECRET box: without it 33 (10 unsure); legend box: without it 69 (46 unsure). All three kept. One new box, the First US/Second British army boundary from the coast to the front (x 2820-2910, y 2010-2540; heavy, no ticks, runs 1 and 4, both unsure): with it 18 stretches, 0 unsure; without it 20, 2 unsure. It ends where it meets the front at about 2890,2572, outside the box; no ticked stretch is boxed. 16 July's yml has no such box (its trace did not pick the boundary up).
+# Reader: 18 stretches (17 ticks, 1 line), about 150 km (from the GeoJSON, summed great-circle), 0 unsure, 0 turned, 0 checked by hand, from the Passage de la Deroute coast (1320,2198) to the Orne mouth (3851,2153). 16 July's was about 142 km (07-16 yml); I did not find why 8 km longer: the line is continuous on the crops (1300 2120; 2200 2420; 3250 2100). The line loops round Saint-Lo as on 16 July (crop 1300,2120: the tongue at x 2050-2100, y 2270-2440, ticks outside it). Gaps over 20 px between stretches (fitted pixels, a few px error): 24 px at about 1550,2249 (run 3 to run 7); 21 px at 1776,2237 (run 4 to 5); 21 px at 1727,2236 (run 5 to 6). On the crop the map's line is continuous at all three and the ticks are on the north/west side; the tracer lost the line briefly. All other joins 18 px or less. The unit table "units believed on the way" lies far south of the front, outside the area. 16 July's gap at 3025,2515 is closed here (run 13 runs through it).
+# Reader: --sides: 34 towns agree with 07-16's, town by town (the side word of every line identical); none on the wrong side. 07-16's GeoJSON backed up and unchanged by the --sides run. Eleven own (US/British), 23 enemy. Towns in the sea off the open ends: 2W 50N and 1.5W 50N (Passage de la Deroute, west end) read own, three runs to one (run 4 enemy at 1780,2210, the loop's small far side); 0.5W, 0E and 0.5E 50N (Bay of the Seine) read own; 1E 50N reads own 'by run 2 enemy at 3815,2363, run 11 enemy at 3536,2455, run 16 own at 3424,2614, run 15 own at 3310,2583', two runs each way, so it reads either way (as on 16 July); 0.5E 50N own three runs to one.
+# Reviewed: titled HQ FUSAG, situation at 2400 hrs 15 July. All 34 towns on 16 July's side; 18 stretches, about 150 km (16 July 142: the trace here closes 16 July's 60 px gap under the 50 symbol and follows the line's wiggles more closely; no new reach), 0 unsure, no turns; the line loops round Saint-Lô, ticks outside. A box added over the First US/Second British army boundary from the coast to the front (heavy, no ticks; it ends short of the front). Three gaps of 21-24 px on the west reach where the map's line is continuous.
