@@ -1,0 +1,34 @@
+# 12ag-1944-08-14: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21070
+date: 1944-08-14
+as_of: 1200 HRS 14 AUGUST 1944
+title: "SECRET (struck through) / Situation 1200 hrs 14 August 1944 / Twelfth Army Group; 1:500,000, Europe (Air) Conical Orthomorphic, Div. of Maps stamp Nov 1 1944"
+read: the title on the sheet (bottom left on this base, read on the region 200,3600 2600x1000), 7 Nov 2026
+gcps_from: towns-B04.csv
+radius: 4    # B04's ticked line is traced whole at the default 4 (one 21-stretch trace at 3 breaks it into 21 pieces, loses the heavy wedge
+             # at the 43/50 salient (2150-2250, 1310-1390) that 4 keeps, and adds the XIX/V corps boundary's stub at Vire (1786,1528) as a
+             # false front; 4 gives 12 stretches, 0 unsure, 137 km against 130 km). Unlike B01, this sheet's front is not finer.
+area: [500, 250, 3300, 3300]   # Normandy's front lies north-west of the towns' spread (the crossings run from 49N at 1E down to 47.5N); this box takes in Carentan-Bayeux-Caen-Falaise-Avranches
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [200, 3700, 2560, 4480], why: "the title block's lettering: SECRET (struck through), SITUATION 1200 HRS 14 AUGUST 1944, TWELFTH ARMY GROUP, bottom left on this base (read on the whole sheet)"}
+  - {box: [5700, 4800, 6686, 5984], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE with its hatched sample), the sheet's reference letters and the Library's stamp, bottom right"}
+  - {box: [4000, 3950, 4800, 4700], why: "the DESTROYED table (enemy divisions' boxes in a ruled frame): the frame's ruling and the symbols read as heavy ink"}
+  # Not boxed, and why: the army/corps boundaries (First/Third, Twelfth/Twenty One, the corps lines west of Vire and Torigny,
+  # the Mayenne 'First/Third temporary' line, the Cotentin lines) are heavy black lines with no ticks; at radius 4 none is traced
+  # (looked at the overlay: all black, none blue). At radius 3 one is (the stub north of Vire at 1786,1528), another reason for 4.
+  # The coastline and the Bay of Mont St-Michel are blue-grey and light: not traced. The two tables' frames are not traced at 3 or 4
+  # either (tried without the boxes: the same stretches); the boxes stay as a precaution. The front is open at both ends, as the
+  # sheet draws it: from the north end near Colombelles/Cabourg (2897, 468) it runs south round Caen's east side, west by
+  # Bretteville/Thury-Harcourt, round the 43/50 salient, south-west past Vire and Mortain and ends at Domfront (2000, 2289).
+  # The sheet draws no ring round Falaise/Argentan and no Loire flank: Argentan and Falaise lie behind the German side of the line.
+flip: []
+checked: []   # none unsure at radius 4; every stretch's red ticks were looked at on 4x crops and fall on the map's own hatching, the Allied (west/north) side: no flip
+# Reviewed: 7 Nov 2026 (copied from 08-13: radius 4, the area box, the title box; the legend box moved to [5700,4800,6686,5984] and the DESTROYED
+# table's to [4000,3950,4800,4700] where they sit today; the UNLOCATED table is not on this sheet, its box dropped). Without the legend box
+# the 'U.S.' lettering at 5968,4943 was traced as a false 10th run. 28 of 28 towns agree (median 0.7 px). 9 stretches, 0 unsure, 128 km.
+# The sheet draws no ring round the Falaise pocket: the line is open at Potigny (3CDN hook, 2950,1140) and the enemy boxes at Argentan stay
+# behind it; nothing traced as a ring. Black boundaries (no ticks) are not traced at radius 4 (none blue on the overlay). Every stretch's red
+# ticks fall on the map's own ticks, the Allied (west/north, inside the 50 salient) side, looked at on crops and 3x looks: no flip.
+# The line is hidden behind symbols at four places (the 272/51 gap, 3CDN, 50 twice); the gaps are in the drawing, not the trace.
+# Reviewed: no ring is drawn yet; the line is open at Potigny, the enemy's 6, 9, 116, Lehr and 2 SS standing behind it at Argentan. None turned; four gaps where the line passes behind symbols.
