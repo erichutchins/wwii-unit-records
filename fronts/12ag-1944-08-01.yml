@@ -1,0 +1,23 @@
+# 12ag-1944-08-01: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21057
+date: 1944-08-01
+as_of: 1200 HRS 1 AUGUST 1944
+title: "Situation 1200 hrs 1 August 1944, HQ Twelfth Army Group (Copy No. blank); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [1400, 380, 3650, 830], why: "the title block's lettering (SITUATION 1200 HRS 1 AUGUST 1944 / HQ TWELFTH ARMY GROUP / COPY NO. and its rule), top middle: x 1440-3600, y 405-795 on the overlay crop"}
+  - {box: [4450, 380, 4950, 520], why: "SECRET, struck through and underlined, top right, boxed whole (x 4486-4875, y 395-500 on the overlay crop); its strike-through and underline trace as short runs"}
+  - {box: [1830, 4150, 2450, 4810], why: "the legend's letters (U.S., BRITISH, ENEMY, FRONT LINE), x 1830-2440, y 4160-4800 on the overlay crop"}
+  - {box: [1680, 4735, 1828, 4785], why: "the legend's sample of the front line (the bar beside FRONT LINE, x 1695-1820, y 4750-4775), a sample not a front"}
+  - {box: [1822, 3478, 1878, 3518], why: "the small arc on the top of the enemy 243 box's symbol above 'la Haye' (x 1830-1865, y 3492-3508): part of the symbol's lettering, not a line; the run was `unsure` with no neighbours; looked at 4x"}
+flip: []   # none: every stretch's red ticks fall on the map's own hatching, checked at 4x-8x along the whole line
+checked:   # stretches whose ticks didn't tell, confirmed on the overlay (4x-6x crops): ticks on the run's right
+  - {at: [2996, 2622], why: "the Caen-Evrecy line at x 2977-3017, y 2620-2630, a plain heavy stretch between ticked neighbours: the map's hatches stand above it (north, British 50 box) and the run's red ticks are above"}
+  - {at: [2250, 2998], why: "the short vertical west of Tessy (x 2245-2255, y 2985-3010) on the line's bend from the St. Lo-Vire road north to the Tessy arc: the map's hatches stand on its west (the US 29 box) and the red tick points west"}
+  - {at: [2145, 3382], why: "the head of the hairpin on the Sienne (x 2130-2150, y 3365-3395), a short heavy arc with no ticks of its own: the line runs down the Sienne (ticks west), round the head and back along the lower arm (ticks inside the loop) and down the left arm (ticks west) to the Folligny leg (ticks north); the red tick on the head points inside the loop, as the map's hatches do on both arms; looked at 4x"}
+# Reviewed: no stretch turned; the red ticks agree with the map's hatching throughout. The sheet ends the line on the
+# coast at St-Pair/Granville (x 1450, y 3395), a day behind 2 August's line at Avranches. Radius 3 leaves gaps (about
+# 124 km traced), listed by the reader: the Sienne hairpin's left arm (x 2040-2065, y 3350-3510) the largest.
