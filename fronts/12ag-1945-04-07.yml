@@ -22,6 +22,7 @@ report: "306"
 title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 306, situation as of 071200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right. The sheet also carries the base map's own heading (12th Army Group Outline Maps 1:1,000,000) and an Auth/Initials/Date box at top left (Date: 7 APRIL 1945)"
 read: the title on the sheet, 6 Nov 2026
 gcps_from: towns-B13.csv
+area: [470, 2320, 760, 2950]   # traces past the towns' spread: the Ruhr pocket's west side along the Rhine
 exclude:
   - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 7 APRIL 1945), heavy lettering and its frame (unsure runs 966,231 / 870,392); no front near"}
   - {box: [4700, 80, 6300, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 306, SITUATION AS OF 071200 APR. 1945, signature and name); the title is hand-lettered here on this sheet, not at top left as on the B11 plate; the front's nearest part (Thuringia) is far below and left of it"}
@@ -55,3 +56,4 @@ checked: []
 # Reviewed: the trace stops at the 7E crossings (x about 590), so the Ruhr pocket's western ring along the Rhine
 # (Duisburg, Oberhausen) is not in it; and a gap of about 10 km is left west of Meiningen at the untraced heavy loop
 # near Fulda (about 2780-2930, 3770-4000), drawn without ticks.
+# Reviewed: the Ruhr pocket's west side along the Rhine is now traced (`area: [470, 2320, 760, 2950]`, eight stretches, about 64 km; ticks checked on overlay crop 380,2300); no town changed side. The gap near Fulda is still open.

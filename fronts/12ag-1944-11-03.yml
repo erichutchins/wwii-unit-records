@@ -26,3 +26,6 @@ checked:   # unsure stretches (short, no tick count told) looked at on enlarged 
 # Reviewed: Arnhem reads US only because its ring is at the sheet's top edge (y -1, a match of score 0), past the
 # front's open end; it was German-held. The front south of about y 5240 (to the neat line near 4460,5640) is past the
 # towns' spread and untraced. Six placed towns (Jülich, Metz, Trier, Zweibrücken, Kleve, Prüm) rest on the fit alone.
+# Reviewed: tried `area: [4600, 5200, 5100, 5700]` for that south end: it adds nothing. The front there (from about 4960,5260
+# to the neat line near 4760,5640) is a thin grey line (darkest 57-59, about 7 px wide), which the heavy-ink mask (grey < 70, opened
+# with a 4 px disk) drops, so no stretch exists to take in; still untraced. It needs the mask's threshold or a run by hand, not an area.

@@ -9,6 +9,7 @@ gcps_from: 12ag-1945-03-25
 # Base B12 (1:1,000,000). Excludes carried over from 12ag-1945-03-23 (same base sheet) and moved to where each stands on
 # this sheet, each looked at on the overlay (scan coordinates). The Saar-Palatinate pocket's outline is gone (overrun), and the
 # Rhine bridgehead at Oppenheim is drawn: traced as front.
+area: [4380, 3780, 4680, 4110]   # traces past the towns' spread: the arc over Hanau to Aschaffenburg
 exclude:
   - {box: [350, 1100, 1500, 1430], why: "the title block's signature (C. T. Schmidt / for A. FRANKLIN KIBLER, G. / Brigadier General, G.S.C. / A.C. of S., G-3), letters at y 1150-1420, x 450-1650, in the same place as on 22 March; looked, overlay crop 300,900; the front is below y 1340 and rises to y 1340 only at x 1730"}
   - {box: [1500, 1230, 1730, 1300], why: "the signature's 'KIBLER, G.' lettering, right end; the front at x 1700 is at y 1345 (crop 300,900)"}
@@ -33,3 +34,4 @@ checked: []
 # Reviewed: Altenkirchen, Limburg and Darmstadt (own) are the bridgeheads' advance. The ticked arc over Hanau to
 # Aschaffenburg (about 4400,3800 to 4650,3940 to 4470,4090) is past the towns' spread and untraced, as the south end
 # on B09 and the Ruhr pocket's west side on B13 are: the trace area is the towns' spread.
+# Reviewed: the arc over Hanau to Aschaffenburg is now traced (`area: [4380, 3780, 4680, 4110]`, two stretches, about 50 km; ticks checked on overlay crop 4250,3650); no town changed side.
