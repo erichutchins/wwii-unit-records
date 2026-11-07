@@ -1,0 +1,24 @@
+# 12ag-1944-07-27: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21052
+date: 1944-07-27
+as_of: 1200 HRS 27 JULY 1944
+title: "Situation 1200 hrs 27 July 1944, HQ Twelfth Army Group (COPY NO. blank; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B01.csv
+radius: 3
+exclude:
+  - {box: [1400, 330, 3700, 830], why: "the title block's lettering (SITUATION 1200 HRS 27 JULY 1944 / HQ TWELFTH ARMY GROUP / COPY NO. and its rule: runs at x 1497-3400, y 406-790), over the Bay of the Seine, far north of the front"}
+  - {box: [4400, 380, 4950, 540], why: "SECRET struck through and underlined (runs x 4493-4843, y 406-486 and (4665,486)), top right; not front"}
+  - {box: [1700, 4150, 2500, 4800], why: "the legend's letters and sample of the front line (runs x 1760-2430, y 4206-4723), bottom left; not front"}
+  - {box: [2780, 2060, 2940, 2260], why: "the First US/Second BR. army boundary's heavy line from the SHAEF flag south to its X's (runs 11?, 4? and one between, x 2790-2915, y 2090-2210, all unsure, red ticks fall on nothing): a heavy line with no map hatching on either side, looked at 4x; the front itself is far south here (y 2590+)"}
+  - {box: [2680, 2400, 2800, 2620], why: "the heavy straight line from Littry south to Caumont (run 11?, x 2690-2790, y 2300-2690, middle 2721,2510): a corps/army boundary, no map hatching either side; the box stops at y 2620 above the front's corner at Caumont; looked at 4x"}
+  - {box: [1770, 2220, 1840, 2270], why: "run at x 1790-1815, y 2235-2260, the stroke of the 90 symbol's box; a symbol, not front"}
+  - {box: [2268, 2588, 2312, 2626], why: "run 19 (x 2270-2305, y 2597-2635), the last stretch of the thin black boundary line that comes down the Vire from the north into the front at St-Lo: it has only sparse short strokes on a grey railway beside it, no front hatching; its red ticks fall on nothing; looked at 4x. The front's own heavy line runs on east of it at y 2635-2650 (run 20 and the St-Lo stretch stay)"}
+  - {box: [1500, 1985, 1600, 2030], why: "run at x 1530-1570, y 2008, the bar of the VIII corps symbol's flag (the XXX box at x 1520-1580, y 1990-2020), far north of the front: a symbol's stroke, no hatching"}
+checked:
+  - {at: [1403, 2314], why: "the coast end of the line (x 1398-1413, y 2300-2330), the tip where it meets the sea: the map's ticks stand round its outer (west and north) side, as the red ticks; looked at 4x"}
+  - {at: [2285, 2678], why: "the Vire arc's west side below St-Lo (x 2278-2290, y 2668-2722): map ticks on its west (inside the Cerisy lobe, with the US 2 and 3 symbols), as the red ticks; looked at 4x"}
+  - {at: [2288, 2707], why: "continuation of the same arc (x 2285-2290, y 2694-2722): map ticks on the west, as the red ticks; looked at 4x"}
+# Reviewed: no stretch turned. Every ticked stretch's red ticks looked at 3-4x against the hatching (west coast to Lessay, the Marigny lobe, the Cerisy lobe, St-Lo, Caumont, Evrecy, Fleury, the Orne to Colombelles): all on the hatching, which stands on the US/British side. The trace is thin (radius 3): about 72 km of heavy ink in 31 runs, with gaps of 130-210 px. Excludes copied from 07-28 where today's sheet has the same line (the army boundary north of Bayeux, the Caumont boundary), moved to where they sit here; 07-28's boxes for the Coutances/Percy corps boundaries, the Cahagnes arm and the 30 symbol's diagonal catch nothing today and were dropped; added today: the VIII corps flag's bar, the 90 symbol's stroke, and run 19 at St-Lo.
+# Reviewed: sides and ticks right (none turned, three checked); thin: about 72 km traced of a line about 155 km long at radius 3, the largest gaps the Marigny lobe's west side (212 px), Caumont east (210 px) and the Cerisy foot (135 px); the Orne end stops about 130 px short of the coast. Radius 2, which traced B02's 1:500,000 sheet whole, is to be tried on the next B01 days.
