@@ -1,0 +1,48 @@
+# 12ag-1945-04-11: the sheet as read on its title; boxes copied from 04-10 (B13), each to be tested against today's runs.
+item: ict21311
+date: 1945-04-11
+as_of: 111200 APR. 1945
+report: "310"
+title: "HQ 12th Army Group Situation Map, to accompany G-3 Report No. 310, situation as of 111200 Apr. 1945 (SECRET; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), at top right"
+read: the title on the sheet (--title 4700 80 1600 930), 7 Nov 2026
+gcps_from: 12ag-1945-04-10
+exclude:
+  - {box: [400, 150, 1520, 480], why: "the Auth / Initials / Date box at top left (SECRET, Auth: CG Twelfth Army Group, C.T.S., Date: 11 APRIL 1945), heavy lettering and frame; same place as 04-08 (looked, crop 0,0); no front near; catches runs of the lettering. The 1st CDN Army sector list below it is not front either"}
+  - {box: [4700, 80, 6400, 1010], why: "the title block at top right (SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 310, SITUATION AS OF 111200 APR. 1945, signature and name), all letters; same place as 04-08 (--title 4700 80 1600 930)"}
+  - {box: [5640, 5000, 6520, 5660], why: "the legend at bottom right (U.S., BRITISH, ENEMY, FRONT LINE sample), lettering and hatching; same place as 04-08 (looked, crop 5000,4300: its symbols run 5650-6460 x 5010-5600)"}
+  - {box: [560, 1690, 1300, 2020], why: "the same boundary's western run, heavy black no ticks, labelled TWENTY ONE; same as 04-08"}
+  - {box: [1230, 3760, 1850, 3930], why: "the FIRST / THIRD boundary on the Lahn (Ehrenbreitstein to Runkel; heavy black, the blue is the river); catches three runs today; no US front on the Lahn on 9 April"}
+  - {box: [2491, 3038, 2691, 3238], why: "the boundary round Treysa (run 70, middle 2591,3138): heavy black with a jog, no ticks; the grey beside it are roads, the blue a stream (looked). 04-08 had none here; it was the only run deciding 9E 51N and left out"}
+  - {box: [1160, 3770, 1290, 3870], why: "the boundary on the Rhine at Ehrenbreitstein (middles 1226,3804 and 1217,3834), plain heavy line beside the blue river (looked)"}
+  - {box: [2680, 2881, 2810, 3011], why: "the boundary jogging at the Schwalm, heavy black, no ticks (looked)"}
+  - {box: [2161, 5269, 2291, 5399], why: "the SEVENTH / FIRST FRENCH boundary diagonal near Speyer, plain heavy line (looked)"}
+  - {box: [1357, 4629, 1487, 4759], why: "the TWELFTH / SIXTH army group boundary west of the Rhine, plain heavy line, no ticks (looked); inside the 04-08 box 1000-1790 x 4640-4780, which catches it again today"}
+  - {box: [1218, 794, 1278, 854], why: "the Twenty One / Twelfth boundary's last stretch to the front at the Lingen hairpin (run 18, 84 px), the thin heavy diagonal inside the hairpin, no ticks (looked, crop 1230,820)"}
+  - {box: [1110, 850, 1240, 980], why: "the same boundary diagonal into Lingen (run 24, 59 px), heavy, no ticks (looked, crop 1230,820)"}
+  - {box: [931, 981, 1061, 1111], why: "the same boundary SW of Lingen toward Nordhorn (run 28, 449 px), heavy black, ticks only the grey railways' (overlay)"}
+  - {box: [703, 1159, 833, 1289], why: "the same boundary west of Hengelo (run 40, 128 px), heavy black, no ticks of its own (overlay)"}
+  - {box: [2088, 1238, 2218, 1368], why: "the TWENTY ONE / TWELFTH boundary Lengerich-Weser, run 31 (2,244 px) whose middle is at Lubbecke; plain heavy line, no ticks (overlay); 04-10's box at 1680-2060 x 1320-1560 catches nothing today"}
+  - {box: [3147, 1876, 3277, 2006], why: "the same boundary's last stretch to the front at Einbeck (run 49, 201 px), heavy black, thin black line continuing east, no ticks (overlay)"}
+  - {box: [2517, 1992, 2647, 2122], why: "the NINTH / FIRST army boundary at Paderborn (run 53, 780 px), heavy black, its red ticks fall on grey railways (overlay)"}
+  - {box: [1963, 2249, 2093, 2379], why: "the NINTH / FIRST boundary N-S, Geseke to Warstein (run 55, 480 px), heavy black labelled FIRST at its top, no ticks of its own (overlay)"}
+  - {box: [2919, 2545, 3049, 2675], why: "the boundary at Kassel (run 73, 564 px), plain heavy line, ticks only the railways' (overlay)"}
+  - {box: [3505, 2638, 3635, 2768], why: "the boundary Heiligenstadt-Muhlhausen (run 74, 510 px), plain heavy line (overlay)"}
+  - {box: [3813, 2748, 3943, 2878], why: "the boundary at Tonna/Unstrut (run 79, 85 px), heavy black running on east as a plain line (overlay)"}
+  - {box: [727, 3220, 817, 3310], why: "the boundary stub going west from the front at Bonn across the Rhine (run 94, 56 px), plain heavy line with a jog, no ticks; west of 7E, untraced (looked, crop 772,3265)"}
+  - {box: [909, 3560, 999, 3650], why: "the boundary along the Ahr to the Rhine at Remagen (run 99, 593 px), plain heavy line, ticks only the railways' (looked, crop 954,3605)"}
+  - {box: [952, 3495, 1042, 3585], why: "the boundary's short link at the Rhine by Remagen/Linz (run 101, 64 px), plain heavy (overlay, crop 954,3605)"}
+  - {box: [2172, 3594, 2302, 3724], why: "the boundary at Giessen (run 100, 491 px), plain heavy line (overlay)"}
+  - {box: [2650, 3810, 2780, 3940], why: "the long Frankfurt-Fulda boundary (run 102, 2,170 px, middle at 2715,3875), plain heavy diagonal, no ticks (overlay)"}
+  - {box: [3758, 3718, 3888, 3848], why: "the boundary's NE leg to the front at Konigshofen (run 103, 517 px), plain heavy line, ticks only the railways' (overlay)"}
+  - {box: [986, 3810, 1116, 3940], why: "the boundary on the Lahn mouth/Rhine at Koblenz (run 107, 462 px), plain heavy line (overlay); just west of the Lahn box"}
+  - {box: [797, 5073, 927, 5203], why: "the TWELFTH / SIXTH boundary toward Saarbrucken (run 126, 1,063 px, middle 862,5138), plain heavy line, no ticks (overlay)"}
+  - {box: [1804, 5162, 1934, 5292], why: "the SEVENTH / FIRST FRENCH boundary at Speyer (run 131, 211 px), plain heavy line (overlay)"}
+  - {box: [1545, 5229, 1675, 5359], why: "the same boundary W of Speyer (run 135, 228 px), heavy line labelled SEVENTH / FIRST FR (overlay)"}
+  - {box: [1171, 5400, 1301, 5530], why: "the same boundary toward Zweibrucken (run 137, 424 px), heavy line, ticks only the railways' (overlay)"}
+  - {box: [1867, 2507, 1927, 2567], why: "the NINTH / FIRST boundary's last stretch to the front at Meschede (run of 150 px, middle 1897,2537), heavy black, no ticks; the pocket's ticked front ends at its corner at 1790,2515 (looked, overlay crop 1550,2380)"}
+  - {box: [2965, 1954, 3025, 2014], why: "the TWENTY ONE / TWELFTH boundary through Dassel toward Einbeck (run 45, 90 px, middle 2995,1984), plain heavy line, no ticks, continuing the run at Einbeck (looked, overlay crop 2750,1800)"}
+flip: []
+checked:
+  - {at: [1298, 2179], why: "the 30 px link across the heavy blob where the Lippe-Datteln canal meets the front at Lunen (between runs 47 and 50); no ticks of its own, the chain runs on through it with the ticks of its neighbours on the same side, the red ticks to the US side (looked, crop 1150,2080); a thin boundary wiggle beside it is not traced"}
+# Boxes: 04-10's, each retested on a bare run (only Auth, title, legend boxed) listing every run's middle; kept those catching a heavy unticked boundary run, dropped the rest (catch nothing today), added boxes for the boundary runs the bare run showed (each looked at on the overlay or --look). Checked entries of 04-10 at (888,3272) and (3856,3788) match no run today and are dropped.
+# Reviewed: every town on 10 April's side; the Lingen-area crossings keep their distance to the front (7E 53N 23 -> 24 km), so the boxed Lingen diagonals are the boundary, not front. The sheet does not yet show the Ninth Army on the Elbe.
