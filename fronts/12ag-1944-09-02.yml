@@ -1,0 +1,24 @@
+# 12ag-1944-09-02: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21089
+date: 1944-09-02
+as_of: 1200 HRS 2 SEPTEMBER 1944
+report:
+title: "SECRET (struck through) / SITUATION 1200 HRS 2 SEPTEMBER 1944 / CENTRAL GROUP OF ARMIES"
+read: the title on the sheet, 7 November 2026
+gcps_from: towns-B08.csv
+radius: 3   # the default 4 was tried first: on the one ticked front (the Le Havre arc) it leaves the arc's lower 5 km (49.44 to 49.49 N) untraced and 3 stretches; at 3 the arc is 4 stretches with one gap of about 65 px, at 2 it is 5 with a gap of about 105 px. (The sheet's boundaries are drawn only about 6 px wide: at 3 they are broken and at 4 nearly absent, so the excludes below, not the radius, keep them out.)
+exclude:
+  # The sheet draws one ticked front line: the arc round Le Havre (scan about x 500-690, y 2240-2725), the enemy inside
+  # (west), ticks on the Allied side (east). Every other heavy black line on it carries no ticks (looked at 4x on the
+  # Arras salient 3560,1290, near Doullens 3200,1450, the Aisne 5420,2630 and the Marne 5650,3330: the grey ticks
+  # beside them are railways), and is an army or army-group boundary, or an unticked phase line. All are left out.
+  - {box: [0, 0, 2700, 1000], why: "the title block: SECRET (struck through), SITUATION 1200 HRS 2 SEPTEMBER 1944, CENTRAL GROUP OF ARMIES (lettering, heavy)"}
+  - {box: [2700, 0, 6600, 2200], why: "north and north-east: First Cdn/Second Br, Northern/Central and other heavy boundaries and lines (unticked), the Arras and Cambrai lines, enemy and British symbols"}
+  - {box: [0, 1000, 2700, 2200], why: "north-west: the Channel coast (heavy dark ink), the First Cdn/Second Br boundary (unticked) and symbols"}
+  - {box: [780, 2200, 6600, 2740], why: "east of the Le Havre arc: unticked boundaries and lines, symbols 711, 272, 346, 48 and the like"}
+  - {box: [0, 2740, 6600, 5900], why: "south of Le Havre: unticked boundaries (Northern/Central, First/Third, 'OOOO' marked lines), the Third Army's and others' unticked lines, every symbol, the legend, and the stamp and margin lettering below the neat line"}
+
+flip: []
+checked: []
+# Reviewed: the Le Havre arc is the only ticked front on the sheet (reviewer's look at overlay-sheet.jpg). The lumpy unticked line from Montreuil east past Arras, winding between British (11, 50) and enemy (6, 49, 18) boxes, may be the British front drawn without ticks; it is not traced, and a page should not treat its absence as no front. DO NOT COPY this day's five broad excludes to other B08 days: they blank nearly the whole sheet and would hide any front drawn there; settle each later day's boxes on its own overlay.
