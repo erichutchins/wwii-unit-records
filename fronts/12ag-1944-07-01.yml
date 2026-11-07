@@ -1,0 +1,64 @@
+# 12ag-1944-07-01: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21026
+date: 1944-07-01
+as_of: 2400 HRS 1 JULY 1944
+title: "Situation 2400 hrs 1 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-02
+radius: 5
+dark: 130
+exclude:
+  - box: [4300, 300, 4950, 680]
+    why: "the struck-through SECRET at the top right (on this sheet at about 4390-4860,460-620; box taller than 07-02's, which cut its lower half)"
+  - box: [1650, 4020, 2550, 4880]
+    why: "the legend (U.S., BRITISH, ENEMY keys and the FRONT LINE sample, on this sheet at about 1760-2480,4080-4820; the sample sits lower than on 07-02, so the box is moved down)"
+  - box: [1300, 400, 3650, 1010]
+    why: "the title block's lettering (SITUATION 2400 HRS 1 JULY 1944, HQ FUSAG, COPY No. and its rule; on this sheet 1360-3540,500-980)"
+  - box: [4650, 1000, 4800, 1110]
+    why: "heavy ink at 4721,1055 (the Seine's north shore near Pte d'Ailly, far from the line); not the front"
+  - box: [2315, 2235, 2395, 2290]
+    why: "the hatching inside the 30 (US 30th Division) box, which traced as a short stretch at 2327,2251; a symbol, not the front"
+  - box: [3540, 2375, 3650, 2450]
+    why: "the ellipse inside the enemy 21 (21st Panzer) box at about 3580,2410, which traced as a stretch (3567,2414); a symbol, not the front"
+  - box: [3830, 2440, 3960, 2510]
+    why: "the top edge of the enemy 346 box at about 3890,2470, which traced as a stretch; a symbol, not the front"
+  - box: [4380, 1680, 4900, 1850]
+    why: "the Seine estuary's blue edge and shoals east of Le Havre trace as stretches (4468-4843,1715-1823); far from the front"
+  - box: [5700, 1780, 5850, 1900]
+    why: "the Seine's dark blue bend at the east edge (5766-5783,1818-1856); not the front"
+  - box: [4100, 5750, 4320, 5870]
+    why: "the printed credit line at the sheet's foot (4204,5807); not the front"
+  - box: [2120, 1900, 2330, 2070]
+    why: "the dark blue shore of the Carentan inlet (2165-2276,1946-2039), well north of the front; not the front"
+  - box: [2430, 2070, 2540, 2130]
+    why: "the top edge of the XIX corps flag (2487,2103); a symbol"
+  - box: [2090, 2225, 2160, 2275]
+    why: "the hatching at the top right of the enemy 266 box (2134,2250); a symbol; the front runs 150 px east of it"
+  - box: [1950, 2270, 2060, 2340]
+    why: "the hatching and bull's-eye of the enemy 1755 box (about 1965-2035,2285-2325); a symbol"
+  - box: [1860, 2500, 1960, 2540]
+    why: "the top edge of the enemy LXXXIV corps flag (about 1870-1950,2510-2525); a symbol"
+  - box: [2880, 2730, 2950, 2765]
+    why: "the hatching at the top of the enemy 2 box south of the front (about 2895-2930,2742); the front there runs at y 2700-2710"
+  - box: [3420, 2470, 3500, 2520]
+    why: "the ellipse's mark inside the enemy 12 SS box (3445-3480,2490-2510); a symbol"
+  - box: [3290, 2745, 3340, 2775]
+    why: "the top edge of the enemy 10 SS box (3310,2763); a symbol"
+  - box: [3520, 2050, 3650, 2130]
+    why: "the top edge of the British I (corps) box, in the sea at 3560-3600,2085 (traced as a blue stretch); the front is at y 2300 and below"
+  - box: [3700, 2140, 3800, 2225]
+    why: "the dashed British 16 box and its number at the Orne mouth (3720-3800,2150-2220: strays at 3724,2181; 3783,2176; 3780,2216); the front's open end, with its flare, is at 3805-3825,2190-2235, outside the box"
+checked: []
+flip: []
+
+
+# Reader: title SITUATION 2400 HRS 1 JULY 1944, HQ FUSAG on the line below, COPY No. blank, no report number. Agrees with the catalogue's day (ict21026).
+# Reader: towns matched to 12ag-1944-07-02's (base B01), sheets offset +0, +8 px: 33 of 34 agreed (median 1.1 px); one placed through the transform: 0.5W 48.5N (14 px off). Not re-run.
+# Reader: this sheet's line is thinner and paler than 07-02's (re-read 7 Nov 2026 with the tool's dark key). Settings tried, boxes as the first reading had them, stretches (ticks, line, unsure) and km from the GeoJSON: radius 4: dark 85 59 (23, 17, 19) 118.8 km; dark 100 82 (26, 16, 40) 134.3; dark 115 107 (26, 9, 72) 167.4. Radius 5: dark 85 24 (19, 2, 3) 50.1; dark 100 39 (25, 11, 3) 95.3; dark 115 46 (26, 12, 8) 122.5; dark 120 52 (25, 18, 9) 127.3; dark 125 57 (25, 17, 15) 131.1; dark 130 90 (26, 22, 42) 171.2; dark 140 118 (27, 25, 66) 288.1. Radius 6: dark 130 42 (18, 3, 21) 85.3; dark 150 75 (20, 5, 50) 239.9. Radius 5 dark 150 125 stretches, 321.9 km.
+# Reader: kept radius 5, dark 130: the ticked line is traced end to end except the two reaches below, and the strays it brings are boxed (dark 140 and up add the coasts and rivers faster than the line: dark 135 at radius 5, 80 stretches with 29 unsure and 174 km, boxes in; dark 140 93 and 44 unsure). With the boxes in: 55 stretches (22 ticks, 22 line, 11 unsure), 123.0 km from the GeoJSON (07-02 146.6 by the same count).
+# Reader: boxes. Kept from the first reading (all still fit; the SECRET, legend and title are as before, the 4721,1055, 30, 21 and 346 boxes still take out strays): SECRET, legend, title, 4721,1055, 30-box, 21-box, 346-box. New, each tested alone at radius 5 dark 130 (all 13 in: 55 stretches, 11 unsure, 123.0 km): the Seine mouth at Le Havre (without: 69 stretches, 141.3 km); the Seine's bend at the east edge (without: 57, 126.0); the printed credit line at the sheet's foot (56, 125.5); the Carentan inlet's dark blue shore (61, 133.1); the XIX flag's top edge (56, 124.0); the 266 box's hatching (56, 124.5); the 1755 box (56, 124.4); the LXXXIV flag (56, 124.0); the 2 box south of the front (56, 124.2); the 12 SS box's ellipse (57, 125.2); the 10 SS box (56, 124.0); the British I box's top edge in the sea (56, 124.1); the dashed British 16 box and its number at the Orne mouth (58, 127.0). Each removes strays only: on the overlay no ticked stretch is cut; the front's open end at the Orne mouth (3805-3825,2190-2235, run 12) stays outside the 16-box.
+# Reader: no stretch flipped, checked or left out by hand beyond the boxes. The map's ticks (short teeth) stand on the north and west (Allied) side on this sheet, as on 07-02, and the tool's red ticks fall on them on crops of the west end, the Vire/St-Lô reach, the Odon salient and Caen/Orne end; nothing to turn. The 11 unsure all lie on the line itself (2113,2113; 2191,2221 at the Vire above the 83 box; 3814,2223 the Orne-mouth end; 3592,2337, 3529,2336, 3560,2343 under the British 3 box; 3359,2342, 3349,2376, 3346,2407, 3332,2425 the Caen-north arc; 3126,2543 at the 7 box).
+# Reader: still untraced of the ticked line, about 16 km of about 147 (and the gaps between runs): (a) the west tip below Carteret, about 8 km: from about 1290,2065 to 1375,2060 and up the arc 1380,2050 to 1425,1940 (only a short run at 1370-1405,2055-2070 is traced); (b) the Vire reach above St-Lo, about 7 km: x 2300-2335, y 2335-2495, where the line is heaviest and its teeth run into it; and short gaps (under 1 km) here and there. Radius 4 or dark 135 and up did not take them in without the coasts and rivers. The Odon salient and the Caen/Orne end are traced whole except the last 30 px of the Orne-mouth arc above 3814,2223.
+# Reader: --sides, 07-02's GeoJSON backed up and byte-identical after, run on 07-02 and today, diffed town by town: all 34 the same side (only the fit line's worst town differs). 0.5E 49.5N and 1E 49.5N enemy as on 07-02 ("0.5E 49.5N enemy by run 12 enemy at 3814,2223, run 15 enemy at 3812,2279, run 18 enemy at 3773,2348, run 16 enemy at 3740,2276"). No town on the wrong side. Towns past the open ends (0E, 0.5E, 1E 50N and 0.5W 50N) read own (US) as on 07-02; the 0.5E and 1E 50N lines weigh three enemy runs against one own and still say own: the test, past the open Orne-mouth end, not a turned stretch.
+# Reviewed: a thin, pale line, held at the default cutoff (about 40 km untraced, 0.5E 49.5N wrong); re-read at radius 5, dark 130 with 20 boxes. Overlay crop 700,1800 looked at: the ticked line is traced from below Carteret round St-Lo and the Odon salient to the Orne mouth, red ticks on the map's own (north and west); still untraced, about 16 km: the west tip below Carteret and the Vire reach above St-Lo, where the teeth run into the heavy line. All 34 towns as 07-02, 0.5E 49.5N enemy again.
