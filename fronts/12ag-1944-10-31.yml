@@ -1,0 +1,29 @@
+# 12ag-1944-10-31: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B09 (6 Sep - 3 Nov 1944). Excludes started from 12ag-1944-11-01 (reviewed), to be moved by this sheet's offset.
+item: ict21148
+date: 1944-10-31
+as_of: 1200 HRS 31 OCTOBER 1944
+title: "Situation 1200 hrs 31 October 1944, Twelfth Army Group (SECRET struck through above; no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-11-01
+exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front, each with why
+  - {box: [158, 165, 2468, 590], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 1 NOVEMBER 1944, TWELFTH ARMY GROUP), read on title.jpg (1600 px for the scan's width, x2.48): lettering runs x about 160-2445, y about 175-560, a little further left than 11-02's; the front's Scheldt reach stands outside it (x about 1785, y 820 and below)"}
+  - {box: [209, 4942, 1079, 5642], why: "the legend, bottom left: 11-02's box moved by the sheets' offset (-11,-2, from the towns); kept so the box stands where the legend does"}
+  - {box: [1879, 1602, 3079, 1882], why: "the Twenty One/Twelfth army group boundary, Tournai to Brussels (heavy, no ticks): 11-01's box moved +8,0 (from --gcps-from)"}
+  - {box: [3929, 4722, 4039, 4782], why: "the Twelfth/Sixth army group boundary's south-west end near Neufchateau: 11-01's box moved +8,0 (from --gcps-from)"}
+  - {box: [4549, 4282, 4729, 4392], why: "the same boundary's last stretch north-east of Toul: 11-01's box moved +8,0 (from --gcps-from)"}
+  - {box: [5569, 3402, 5679, 3462], why: "a bit of the Westwall (Siegfried Line) outline, the wavy double line north of Zweibrucken: 11-01's box moved +8,0 (from --gcps-from)"}
+  - {box: [6059, 3642, 6169, 3712], why: "a bit of the Westwall outline's end near Kandel: 11-01's box moved +8,0 (from --gcps-from)"}
+  - {box: [5337, 3358, 5417, 3418], why: "a short stretch of the Westwall outline's heavy double line between Neunkirchen and Homburg: 11-01's box moved +8,0 (from --gcps-from)"}
+  - {box: [5577, 3523, 5647, 3588], why: "the end of the Westwall outline's loop west of Waldfischbach: 11-01's box moved +8,0 (from --gcps-from)"}
+  - {box: [6215, 3748, 6297, 3818], why: "the Westwall outline's northern end beside the Rhine near Karlsruhe: 11-01's box moved +8,0 (from --gcps-from)"}
+  - {box: [3928, 1195, 4008, 1245], why: "the Twenty One/Twelfth army group boundary's last stretch to the front at Maastricht (run 40 at 3985,1219, unsure): a heavy black line with no ticks, seen on look 3985,1219; 11-02 doesn't trace it. Not the front"}
+  - {box: [3388, 5050, 3478, 5120], why: "the Twelfth/Sixth army group boundary near Chaumont (run 82 at 3420,5085, unsure; 116 km from the front): a heavy black line with no ticks, seen on look 3420,5085, with Chaumont's ring beside it. Not the front"}
+flip: []
+checked:
+  - {at: [3504, 376], why: "Breda reach, short stretch between ticked runs: look 3504,376 and the overlay crop show the map's ticks on the south-west (US) side, the same way as its neighbours"}
+  - {at: [3475, 405], why: "Breda reach, same short stretch: ticks on the US (south-west) side seen on the overlay crop"}
+  - {at: [3406, 463], why: "the bottom of the Breda bend: look 3406,463 shows the map's ticks hanging below the line, the US side (Turnhout, Breda south of it)"}
+  - {at: [4383, 1778], why: "Maastricht reach beside the Geulle/Meuse hatching: look 4383,1778 shows ticks on the west (US) side, same as the runs above and below"}
+# Reviewed: every town on the side it is on 1 November; the German towns east of the Westwall read enemy by the front's own runs.
