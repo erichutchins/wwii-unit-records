@@ -1,0 +1,116 @@
+# 12ag-1944-09-16: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21103
+date: 1944-09-16
+as_of: 1200 HRS 16 SEPTEMBER 1944
+title: "Situation 1200 hrs 16 September 1944, Twelfth Army Group"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-09-15
+exclude:
+  - {box: [200, 100, 2800, 720], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 11 SEPTEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [2150, 4900, 3300, 5650], why: "the legend (U.S., British, Enemy, the front-line sample; at x 2150-3300, y 4900-5650 on this print)"}
+  - {box: [5573, 821, 5693, 941], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5412, 890, 5532, 1010], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5077, 1038, 5197, 1158], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [4808, 1055, 4928, 1175], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [3122, 1452, 3242, 1572], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [2384, 1635, 2504, 1755], why: "Twenty One/Twelfth army group boundary (heavy black, grey railway ticks beside it, no map ticks): not the front"}
+  - {box: [5661, 800, 5781, 920], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [3282, 1364, 3402, 1484], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [1634, 2066, 1754, 2186], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [1357, 2395, 1477, 2515], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [1197, 2483, 1317, 2603], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [1098, 2613, 1218, 2733], why: "Twenty One/Twelfth army group boundary or an army boundary (heavy black, no map ticks; the red ticks are the grey railways'): not the front"}
+  - {box: [4803, 3418, 4923, 3538], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [4863, 3480, 4983, 3600], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [5767, 3564, 5887, 3684], why: "the Siegfried Line (heavy hatched strip, no ticks; the ticks traced are the grey railway's): not the front"}
+  - {box: [3707, 1207, 3827, 1327], why: "Twenty One/Twelfth army group boundary east of Tongeren-Maastricht (plain heavy black, no ticks; looked at: the small strokes beside it are the grey railway's): not the front"}
+  - {box: [3482, 1236, 3602, 1356], why: "Twenty One/Twelfth army group boundary near Maastricht (plain heavy black, no ticks; looked at): not the front"}
+  - {box: [2618, 1570, 2738, 1690], why: "Twenty One/Twelfth army group boundary near Brussels (plain heavy black, no ticks; looked at): not the front"}
+  - {box: [1768, 2762, 1888, 2882], why: "Twenty One/Twelfth army group boundary near Saint-Quentin (plain heavy black, no ticks; looked at): not the front"}
+  - {box: [2341, 3267, 2461, 3387], why: "army group boundary, a fork east of Laon (heavy black, no ticks; looked at): not the front"}
+  - {box: [2334, 3297, 2454, 3417], why: "army group boundary east of Laon (heavy black, no ticks; looked at): not the front"}
+  - {box: [2373, 3400, 2493, 3520], why: "army group boundary near Reims (heavy black, no ticks; looked at): not the front"}
+  - {box: [2453, 3504, 2573, 3624], why: "army group boundary near Reims (heavy black, no ticks; looked at): not the front"}
+  - {box: [5788, 4278, 5908, 4398], why: "army group boundary along the Rhine near Offenburg (heavy black, no ticks; looked at): not the front"}
+  - {box: [2239, 1647, 2359, 1767], why: "army group boundary near Brussels (heavy black, its ticks are the grey railway's): not the front"}
+  - {box: [1901, 1689, 2021, 1809], why: "army group boundary west of Brussels (heavy black, its ticks are the grey railway's): not the front"}
+  - {box: [1531, 2516, 1651, 2636], why: "Twenty One/Twelfth army group boundary near Cambrai (heavy black, its ticks are the grey railway's): not the front"}
+  - {box: [659, 3272, 779, 3392], why: "Twenty One/Twelfth army group boundary near Beauvais (heavy black, its ticks are the grey railway's): not the front"}
+  - {box: [6303, 539, 6423, 659], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [6164, 608, 6284, 728], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [6069, 643, 6189, 763], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [5311, 940, 5431, 1060], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [5015, 1061, 5135, 1181], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [4509, 1067, 4629, 1187], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [2205, 1127, 2325, 1247], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [2274, 1158, 2394, 1278], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [1709, 1257, 1829, 1377], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [1511, 1356, 1631, 1476], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [1227, 1530, 1347, 1650], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [2847, 1563, 2967, 1683], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [2164, 1698, 2284, 1818], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [4229, 3078, 4349, 3198], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [2953, 3233, 3073, 3353], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [3901, 3237, 4021, 3357], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [3803, 3276, 3923, 3396], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [5036, 3440, 5156, 3560], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [6126, 4240, 6246, 4360], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [6185, 4290, 6305, 4410], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [6293, 4302, 6413, 4422], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [6089, 4359, 6209, 4479], why: "a stretch the 09-14 boxes missed on this print (offset -8,+8): plain heavy boundary, no ticks (looked at on the overlay); not the front"}
+  - {box: [4198, 1136, 4318, 1256], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [4375, 1386, 4495, 1506], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [4168, 1495, 4288, 1615], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [4214, 1550, 4334, 1670], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [4878, 2780, 4998, 2900], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [5084, 3036, 5204, 3156], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [5053, 3040, 5173, 3160], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [2541, 3262, 2661, 3382], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [5304, 3240, 5424, 3360], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [5349, 3239, 5469, 3359], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [5379, 3268, 5499, 3388], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [5416, 3298, 5536, 3418], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [6020, 4284, 6140, 4404], why: "a stretch left on this print after the 09-14 boxes: the Siegfried Line's band outlines at Aachen/Eifel/Saar or a plain army boundary or the Rhine outline, no map ticks (the red ticks are the grey railways' or the band's hatching; looked at on overlay crops); not the front"}
+  - {box: [806, 3079, 926, 3199], why: "a stretch on this print (middle 866,3139): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [1511, 2288, 1631, 2408], why: "a stretch on this print (middle 1571,2348): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [1583, 2132, 1703, 2252], why: "a stretch on this print (middle 1643,2192): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [1651, 1976, 1771, 2096], why: "a stretch on this print (middle 1711,2036): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [1792, 5078, 1912, 5198], why: "a stretch on this print (middle 1852,5138): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [1990, 1652, 2110, 1772], why: "a stretch on this print (middle 2050,1712): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [2459, 1571, 2579, 1691], why: "a stretch on this print (middle 2519,1631): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [2799, 1502, 2919, 1622], why: "a stretch on this print (middle 2859,1562): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [3583, 3216, 3703, 3336], why: "a stretch on this print (middle 3643,3276): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [3880, 1142, 4000, 1262], why: "a stretch on this print (middle 3940,1202): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [3931, 3174, 4051, 3294], why: "a stretch on this print (middle 3991,3234): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4033, 1113, 4153, 1233], why: "a stretch on this print (middle 4093,1173): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4037, 3118, 4157, 3238], why: "a stretch on this print (middle 4097,3178): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4226, 1072, 4346, 1192], why: "a stretch on this print (middle 4286,1132): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4408, 2942, 4528, 3062], why: "a stretch on this print (middle 4468,3002): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4492, 2896, 4612, 3016], why: "a stretch on this print (middle 4552,2956): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4560, 4057, 4680, 4177], why: "a stretch on this print (middle 4620,4117): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4689, 994, 4809, 1114], why: "a stretch on this print (middle 4749,1054): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4689, 2789, 4809, 2909], why: "a stretch on this print (middle 4749,2849): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4849, 2715, 4969, 2835], why: "a stretch on this print (middle 4909,2775): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [4933, 2666, 5053, 2786], why: "a stretch on this print (middle 4993,2726): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [5119, 2514, 5239, 2634], why: "a stretch on this print (middle 5179,2574): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [5451, 2101, 5571, 2221], why: "a stretch on this print (middle 5511,2161): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [5497, 2055, 5617, 2175], why: "a stretch on this print (middle 5557,2115): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [5557, 2028, 5677, 2148], why: "a stretch on this print (middle 5617,2088): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [5619, 2002, 5739, 2122], why: "a stretch on this print (middle 5679,2062): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [5811, 1942, 5931, 2062], why: "a stretch on this print (middle 5871,2002): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [5854, 627, 5974, 747], why: "a stretch on this print (middle 5914,687): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [6039, 1795, 6159, 1915], why: "a stretch on this print (middle 6099,1855): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [6062, 4473, 6182, 4593], why: "a stretch on this print (middle 6122,4533): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [6081, 4444, 6201, 4564], why: "a stretch on this print (middle 6141,4504): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [6083, 4492, 6203, 4612], why: "a stretch on this print (middle 6143,4552): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [6125, 4460, 6245, 4580], why: "a stretch on this print (middle 6185,4520): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [6141, 4489, 6261, 4609], why: "a stretch on this print (middle 6201,4549): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+  - {box: [6147, 4451, 6267, 4571], why: "a stretch on this print (middle 6207,4511): the Siegfried Line's band outlines or a plain heavy boundary or the Rhine outline, no map ticks (looked at on the overlay); not the front"}
+flip: []
+checked: []
+
+# Reader: no ticked front is drawn on this sheet: the front is empty, no front drawn, not no front. The overlay before the boxes (35 stretches, 8 'ticks', 7 'line', 20 unsure) was read whole: the heavy wavy line down the Eifel and the Saar is the Siegfried Line's band (outlines and hatching, no ticks), the rest are army/army-group boundaries and the Rhine's outline; the 'ticks' counted are the grey railways'. Not looked at in tiles beyond that sheet view and the 09-15 crops of the same print.
+# Reader: boxes: title and legend and 09-15's boxes copied as they were, plus 35 boxes (120 px) on every remaining stretch's middle (they were placed on the run points the tool printed, not each looked at individually); the trace is then 0 stretches. No box sits on a ticked line (none drawn).
+# Reader: towns: matched to 09-15 (read by eye on the same base): sheets offset +16,-24 px; 57 of 81 agree (median 1.0 px), 24 placed through the transform (worst Metz 73, Prüm 49, Grevenbroich 40, Turnhout 39). Conic fit rms 0.8 km, worst 1.9 km (Sedan). No front, so no sides to test.
+# Reviewed: as on 6-15 September, no ticked front is drawn: the front is empty, no front drawn, not no front. The reader boxed the leftover runs (Siegfried band, boundaries, the Rhine's outline) from the whole-sheet overlay without close crops; the reviewer's crops of the scan at Aachen and Metz on 14 and 20 September show only the band and boundaries on the days either side. 57 of 81 towns matched to 15 September; fit 0.8 km rms.
