@@ -167,8 +167,24 @@ Each map has four files:
   symbol is, where that is certain (the map's US "9" with the oval is the 9th Armored Division, `9ad`), else empty;
   the reviewer withholds a tie the drawing alone would give where another day's sheets show the symbol is another
   unit (`unit:-` on the reading's line; the day's YAML says why: 18 December 1944's oval "9(-)" by Aachen);
-  `list`: `bridgehead` for a symbol in the map's list of the divisions facing the bridgehead (from 11 March: a bracketed
-  column, then a box headed "BRIDGEHEAD N.-S."), listed and not placed, which a page shows as a list; `map`: the sheet.
+  `list`: empty for a symbol drawn where its unit stands; otherwise the marking that says it is listed or noted rather
+  than placed, which a page shows apart from the placed symbols. One word or hyphenated words, lower case, from the
+  sheet's own caption:
+  - `bridgehead`: the map's list of the divisions facing the bridgehead (from 10 March 1945: a bracketed column, then a
+    box headed "BRIDGEHEAD N.-S.");
+  - `unlocated` and `out-of-contact`: the enemy divisions in boxes headed "UNLOCATED" and "OUT OF CONTACT" (28 January
+    1945);
+  - a place off the sheet, for a symbol in a box captioned with it and an arrow pointing off the sheet: `marseilles`
+    ("MARSEILLES"), `le-havre` ("VICINITY LE HAVRE"), `cherbourg` ("CHERBOURG PENINSULA"), `lorient-st-nazaire`
+    ("LORIENT - ST. NAZAIRE SECTORS"), and `quimper-auxerre` for the 94th Division's box with lines drawn to Quimper and
+    Auxerre (December 1944);
+  - `westwall`: a symbol with the note "IN WESTWALL - BASLE TO KARLSRUHE" (the 405th z.b.V. Division, December 1944):
+    a stretch of the Westwall, not the symbol's spot;
+  - `bracket`: symbols braced together with an arrow to a "?" (the 85th and 59th by Rotterdam, 17 December; the 10th SS
+    and 9th Panzer by Prüm, 22-23 December): where they are going is not known;
+  - `arrow`: a symbol drawn with an arrow from it (the 159th by Colmar, 23 December, pointing south toward the sheet's
+    foot): placed, but moving or lying the way the arrow points.
+  A new marking gets a new word here before it is used in a file. `map`: the sheet.
   On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and
   each read on a numbered sheet; the ones the finder missed (about a fifth, a box touching its number or a line) were read
   by eye on the sheet. Labels keep the map's qualifiers: "9(-)" (the division less some of its units), "1(+)" (with

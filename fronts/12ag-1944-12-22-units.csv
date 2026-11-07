@@ -90,7 +90,7 @@ x,y,of,echelon,arm,label,unit,list,map
 3490,2516,us,xx,airborne,82,,,loc-12ag/ict21201
 3693,2518,de,xx,armored,1 SS,,,loc-12ag/ict21201
 4209,2523,de,xxx,,I SS,,,loc-12ag/ict21201
-538,2535,us,xx,infantry,75,,lehavre,loc-12ag/ict21201
+538,2535,us,xx,infantry,75,,le-havre,loc-12ag/ict21201
 3775,2562,de,xx,infantry,85,,,loc-12ag/ict21201
 4559,2568,de,xxxx,,SIXTH,,,loc-12ag/ict21201
 3928,2603,de,xx,infantry,18,,,loc-12ag/ict21201
@@ -169,7 +169,7 @@ x,y,of,echelon,arm,label,unit,list,map
 4985,4556,us,xxxx,,SEVENTH,,,loc-12ag/ict21201
 3934,4662,us,xxxx,,THIRD,third-army,,loc-12ag/ict21201
 5186,4865,us,xx,infantry,36,,,loc-12ag/ict21201
-1673,4893,us,xx,infantry,94,,arrows,loc-12ag/ict21201
+1673,4893,us,xx,infantry,94,,quimper-auxerre,loc-12ag/ict21201
 5515,4983,de,xxx,,LXIV,,,loc-12ag/ict21201
 5575,5153,de,xx,infantry,405,,,loc-12ag/ict21201
 5112,5172,fr,xx,armored,2FR,,,loc-12ag/ict21201
