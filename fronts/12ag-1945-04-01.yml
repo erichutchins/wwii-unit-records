@@ -1,0 +1,52 @@
+# 12ag-1945-04-01: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21301
+date: 1945-04-01
+as_of: 011200 APR. 1945
+report: 300
+title: "HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 300 (figure partly overstruck by road lines), situation as of 01 1200 Apr. 1945"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1945-03-30
+radius: 4
+dark: 45   # this sheet is printed heavy (10.5 per cent of pixels under 70, 3.0 under 50, against 2.2 under 70 on 30 March): the front's black is about 35 grey, roads 85+; dark 45 at the default radius 4 keeps the ticked line whole and drops the roads (dark 40 broke the east flank, 50 let 8 strays in)
+area: [0, 0, 6050, 5900]   # whole sheet: the ticked front north of the towns (Rheine-Muenster) and east of them (Paderborn-Kassel-Eisenach-Aschaffenburg-Wertheim) lies outside the towns spread
+# Base B12 (1:1,000,000). The excludes: of the 18 copied from 12ag-1945-03-30 and the 13 added at radius 8, six remain and one (the 'AB' outline) was dropped as front; the rest catch nothing at dark 45 (tested with every exclude off and the traces compared). Nine more were added at dark 45.
+exclude:
+  - {box: [1820, 4760, 2650, 5030], why: "the TWELFTH / SIXTH army group boundary from Conflans to Saarlautern, heavy black, no map ticks"}
+  - {box: [2720, 4440, 3060, 4900], why: "the same heavy black army boundary's lower leg, from Saarlautern NE to the box above (run 39, middle 2833,4643): a plain heavy black line with no ticks of its own (the strokes the tracer counted are roads crossing it; looked, 2900,4650 and 2780,4800); US divisions (70, 94, 65) stand on both sides, so not the front. Counted as a front on this sheet only because road strokes passed for ticks"}
+  - {box: [2650, 4860, 2830, 4960], why: "the Twelfth/Sixth army group boundary's east end by Saarlautern, runs 189 and 190 (2722,4909): looked (look 2722,4909), heavy black, no ticks of its own; the strokes the tracer counted are road ticks; just east of the 03-30 box, which ends x 2650"}
+  - {box: [2410, 2270, 2460, 2350], why: "the TWENTY ONE / TWELFTH army group boundary's thin heavy black line by Neuss, unsure run 75 (2434,2314): looked (overlay crop 2150,2150): a plain black line from the north bending into the lettering 'TWELFTH', no map ticks of its own; the red ticks are road strokes; not the front, which is the Rhine's west bank 150 px east"}
+  - {box: [2290, 2380, 2390, 2440], why: "the same boundary's end by Rheydt, unsure run 82 (2343,2428), the 'U' hook under the lettering: looked (overlay crop 2150,2150): no map ticks, roads' strokes only; not the front"}
+  - {box: [2140, 2370, 2210, 2415], why: "a road with its railway ticks by Rheinhausen/Rheydt, run 71 (about 2170,2390): looked (overlay crop 2150,2150): no front there, the front is the Rhine 400 px east"}
+  - {box: [4240, 3665, 4510, 3760], why: "the TWELFTH / SIXTH army group boundary's arc from Frankfurt to Hanau, run 108 (mid 4383,3714): a plain heavy black arc under 'Hanau', no ticks of its own (looked, scan crop 4270,3680); the 03-30 box here (4200-4360) is 20 px short of this run's middle on this sheet. Not the front, which runs east of Hanau (run 109)"}
+  - {box: [4165, 3740, 4262, 3860], why: "the same boundary's thin diagonal from Frankfurt toward Hanau, run 110 (mid 4215,3794): plain black, no ticks (looked, scan crop 4130,3790); not the front; counted on this whole-sheet run only because the area now takes the whole sheet, and it read Nastaetten enemy"}
+  - {box: [4130, 3855, 4182, 3925], why: "the same boundary's lower end into Frankfurt-Hoechst, run 112 (mid 4159,3882): plain black, no ticks (crop 4130,3790); not the front"}
+  - {box: [2970, 4395, 3035, 4450], why: "the end of the heavy black army boundary diagonal south-west of Zweibruecken-Saarbruecken, run 122 (mid 3001,4421): a plain heavy line crossing a road, no ticks of its own (looked, scan crop 2930,4360); not the front, and it read Zweibruecken enemy"}
+  - {box: [5130, 290, 5330, 480], why: "the title block's lettering 'Auth: / Initials: / Date:' by Celle at the top right of the scan, run 1 (mid 5266,404): looked (scan crop 4900,150): black lettering, not a line"}
+flip:
+  - {at: [4116, 1699], why: "the Ruhr pocket's east and south-east side (Geseke to Siegen): the map's ticks are on the east and south-east, outside the ring (looked, sheet crops 3930,2480 and 3880,2640, and 4040,1590 on the Geseke-Paderborn arm: ticks on its south-east), the traced red ticks fell inside; so this chain was turned the wrong way, it is the same line as 31 March's runs 37, 27, 38 whose side is outside"}
+  - {at: [4065, 1769], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [4089, 1878], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [4100, 1930], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [4111, 1981], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [4116, 2035], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [4110, 2079], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [4102, 2139], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [4076, 2258], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [3961, 2572], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [3717, 2792], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [3564, 2828], why: "same chain as the first flip: ticks outside the ring"}
+  - {at: [4641, 2089], why: "Kassel flank, Naumburg to Rotenburg: the map's ticks are on the west and south-west (looked, crops 4590,1980 and 4660,2250: short strokes on the left of the vertical and below-left of the diagonal), the US side; the traced red ticks fell on the east, so the stretches were turned the wrong way"}
+  - {at: [4789, 2341], why: "same flank, ticks on the west/south-west"}
+  - {at: [5070, 2536], why: "same flank, ticks on the west/south-west"}
+  - {at: [4590, 3719], why: "the Aschaffenburg-Spessart flank, Hanau to the Main at Woerth: the map's ticks are on the west (looked, crop 4540,3700: strokes on the left of the vertical, the US side), the traced red ticks fell on the east and Darmstadt read enemy; turned the wrong way (31 March's Darmstadt read own only by the boundary arc, which is not front)"}
+  - {at: [4594, 3836], why: "same flank, ticks on the west"}
+  - {at: [4638, 3931], why: "same flank, ticks on the west"}
+  - {at: [4676, 4030], why: "same flank, ticks on the west"}
+  - {at: [4698, 4111], why: "same flank, ticks on the west"}
+checked: []
+# Reader: 7 Nov 2026, redone at radius 4, dark 45 (radius 8 dropped). 128 stretches, about 1460 km, 0 unsure. The area is the whole sheet: the ticked front north of the towns' spread (Rheine, Muenster, the Zutphen bulge) and east of it (Paderborn bulge, Kassel flank, the Hersfeld-Eisenach corridor, Hanau-Aschaffenburg-Wertheim) is real front.
+# Reader: turning. The tool turned three whole reaches wrong, each seen on a crop of the scan's own ticks, and flipped by hand (20 flips, reasons above): the Ruhr ring's east and south-east side (Paderborn-Geseke arm, the Brilon line x about 4080, to Siegen), the Kassel flank (Naumburg to Rotenburg) and the Aschaffenburg flank (Hanau to Woerth). In each the map's ticks are on the US side (outside the ring, west of the flank) and the traced red ticks fell on the other. Nothing confirmed by `checked`.
+# Reader: the 'AB' (airborne) outline at Westerholt/Muenster, boxed out on 30 March and at radius 8, is ticked front (a notch: ticks on the outer sides, the AB box on the US side; looked, crops 3050,1130 and 2920,1320) and is traced. Boxes kept or added are the army group boundaries (Conflans-Saarlautern, Neuss, Rheydt, Frankfurt-Hanau, Zweibruecken end) and the title's lettering; the Rhine gorge, Nahe and other boxes copied from 30 March catch nothing at dark 45.
+# Reader: sides at the end: 13 of the 78 town lines I could read on the enemy side (three of the 81 wrap in the output), all of them where the map puts the enemy (the Ruhr pocket, the Sieg line, across the Rhine). Against 31 March: Strasbourg own to enemy, and Paderborn enemy (its ring at the tip of the bulge, on the line; the US took it 1-2 April) (Strasbourg: its ring is 15 px past the Rhine line's end at the neat line y 5785, the weak test, the line there carries its ticks on the west); Heidelberg enemy to own (its ring sits at the corner of two runs, 121 own and 122 enemy; US took it 30 March); Daaden, Siegen, Marburg, Nastaetten, Zweibruecken and Darmstadt unchanged or restored after the flips and boxes above (31 March's Darmstadt and Nastaetten read own only through the Frankfurt-Hanau boundary arc, which is not front).
+# Reader: untraced or doubtful. The line ends at the neat line at y 5785 (the Rhine at Strasbourg), the map's front south of it is off the sheet. Nothing is traced east of the Hersfeld-Eisenach corridor's head (x 5300) because the map draws none there. Small gaps: between run 55 and 63 on the Kassel flank (about 40 px, a blob), and the Hanau-Gelnhausen hook (run 107, 4655-4714, 3614-3693) is a short heavy hook left as traced. The Rheine-Lingen part of the Rheine bulge was seen on the overview only, not on a close crop. Compared with 02 April the line agrees within 10 km over 92 per cent; they part where 2 April has advanced (Kassel-Fulda-Wuerzburg).
+# Reviewed (7 Nov 2026): held earlier (a heavy print traced at radius 8). Re-read at radius 4 with a lower cutoff, dark 45 (the sheet's ink under 50 matches 30 March's under 70), over the whole sheet (area), which takes in the front past the towns' spread (Rheine, the Zutphen bulge, the Paderborn bulge, the Kassel flank, the Main). Overlay crop 3500,1500 looked at: the Ruhr ring's east side from Geseke by Brilon and Winterberg to Siegen has its red ticks east, toward the US 3rd Armored and the divisions drawn there, and the Kassel flank west, toward the US 7th Armored, with the Germans east: the 20 flips (the tool had turned these reaches the wrong way) stand; Marburg (US since 28 March) reads own only with them. Strasbourg enemy is past the sheet's neat line (weak). About 1458 km.
