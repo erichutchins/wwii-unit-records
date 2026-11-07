@@ -1,0 +1,24 @@
+# 12ag-1944-08-08: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21064
+date: 1944-08-08
+as_of: 1200 HRS 8 AUGUST 1944
+title: "Situation 1200 hrs 8 August 1944, Twelfth Army Group (SECRET struck through; no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: towns-B02.csv
+radius: 2   # as 7 August
+area: [5816, 300, 6366, 900]   # 7 August's box moved with the sheet (+3, -6 px)
+exclude:
+  - {box: [1050, 680, 3350, 1260], why: "the title block's lettering (SECRET struck through, SITUATION 1200 HRS 8 AUGUST 1944, TWELFTH ARMY GROUP), read with --title 900 600 2600 800; it stands lower on this sheet than on 7 August"}
+  - {box: [1130, 4700, 2010, 5420], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE) bottom left on this sheet, with its sample of the front line; a sample not a front"}
+  - {box: [5066, 940, 5166, 1040], why: "7 August's box moved with the sheet (+3, -6): the Twelfth/Twenty-One army group boundary north from the XIX/V junction: heavy black, no ticks (seen at 4x on the overlay crop 4300,800)"}
+  - {box: [5066, 1300, 5130, 1500], why: "the same army group boundary's last reach to the front at Vire, south of the 'TWENTY ONE' lettering: heavy black, no ticks, 200 px; the front's own run begins at about 5079,1517, below the box (7 August's stub box widened up to take in the stretch at 5096,1353 that today's radius reads)"}
+  - {box: [4400, 1300, 4830, 2240], why: "the Third/First army boundary from the THIRD FIRST junction south by Brécey and Beffuveille to St-Hilaire: plain heavy line with no map ticks (looked at on the overlay crop 4300,1700); read as two magenta stretches with the tool's own ticks, which are not the map's. A boundary, not front"}
+  - {box: [5060, 1950, 5130, 2010], why: "hatching of the enemy 17 SS symbol east of Mortain read as a tiny stretch (looked at 4x at 5090,1980); a symbol"}
+  - {box: [900, 2040, 1130, 2160], why: "enemy symbol '265' at Guingamp (Brittany), its hatching and number read as two stretches (looked at 4x)"}
+  - {box: [6480, 1950, 6660, 2060], why: "enemy corps symbol (XXXX, hatched) at 6559,2003, read as a stretch (looked at 4x)"}
+  - {box: [5830, 1590, 5900, 1650], why: "enemy SS symbol at Athis, hatching read as a stretch"}
+flip: []
+checked:
+  - {at: [6231, 466], why: "the northern end of the line to the coast: a short stretch (about 60 px) of a heavy line the mask reads only in part; looked at 4x at 6230,440 and 6230,520: the map's ticks are on its west, as are the red ticks (British side west)"}
+# Reviewed: the Mortain salient is drawn as ticked front today and traced (runs 17-21, ticks west and south); the Brecey-St-Hilaire boundary box stops west of it (x 4830 against the front at 4900+). None turned. Missing: the reach from about 6265,618 north to the coast near Cabourg (about 210 px), dark and ticked but not taken by the mask at radius 2 or 4; cause unclear.
