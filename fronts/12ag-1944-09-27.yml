@@ -1,0 +1,287 @@
+# 12ag-1944-09-27: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21114
+date: 1944-09-27
+as_of: 1200 HRS 27 SEPTEMBER 1944
+title: "Situation 1200 hrs 27 September 1944, Twelfth Army Group (SECRET struck through above; no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-09-28
+exclude:
+  - {box: [198, 199, 2498, 614], why: "09-28 box shifted (-16,-8): title block lettering (SECRET, the situation line)"}
+  - {box: [4282, 1130, 4412, 1230], why: "09-28 box shifted (-16,-8): boundary (Twenty One / Twelfth) at Geilenkirchen, plain heavy line, no ticks, unsure stretch at 4318,1164"}
+  - {box: [6072, 3650, 6172, 3740], why: "09-28 box shifted (-16,-8): Siegfried Line hatched feature near Landau/Kandel, stretch at 6105,3672 traces as ticked from the hatching, so the box c"}
+  - {box: [4524, 1026, 4614, 1116], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps), no ticks of its own (unsure from road ticks beside it or nothing to tell"}
+  - {box: [2141, 1777, 2231, 1867], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps), no ticks of its own (unsure from road ticks beside it or nothing to tell"}
+  - {box: [2501, 3310, 2591, 3400], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps), no ticks of its own (unsure from road ticks beside it or nothing to tell"}
+  - {box: [5603, 3400, 5693, 3490], why: "09-28 box shifted (-16,-8): Siegfried Line double hatched line, no ticks on its edge (--look)"}
+  - {box: [6202, 4845, 6292, 4935], why: "09-28 box shifted (-16,-8): the catalogue stamp 'G5701s' at the sheet's lower right (lettering), not front"}
+  - {box: [6167, 4828, 6257, 4918], why: "09-28 box shifted (-16,-8): the catalogue stamp 'G5701s' at the sheet's lower right (lettering), not front"}
+  - {box: [2525, 1654, 2615, 1744], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [2283, 1717, 2373, 1807], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [1766, 1964, 1856, 2054], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [5014, 1821, 5104, 1911], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [4878, 1897, 4968, 1987], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [4384, 2027, 4474, 2117], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [4782, 2292, 4872, 2382], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [1433, 2472, 1523, 2562], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [4595, 2559, 4685, 2649], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [4210, 3034, 4300, 3124], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [4082, 3118, 4172, 3208], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [4013, 3177, 4103, 3267], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [3877, 3264, 3967, 3354], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [2591, 3235, 2681, 3325], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [5569, 3504, 5659, 3594], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [6216, 3728, 6306, 3818], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [5808, 4578, 5898, 4668], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [3248, 4689, 3338, 4779], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [6312, 4896, 6402, 4986], why: "09-28 box shifted (-16,-8): the catalogue stamp 'G5701s' at the sheet's lower right (lettering), not front"}
+  - {box: [6204, 4897, 6294, 4987], why: "09-28 box shifted (-16,-8): the catalogue stamp 'G5701s' at the sheet's lower right (lettering), not front"}
+  - {box: [874, 5027, 964, 5117], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [5050, 5089, 5140, 5179], why: "09-28 box shifted (-16,-8): heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay"}
+  - {box: [3650, 1178, 3740, 1268], why: "09-28 box shifted (-16,-8): Twenty One / Twelfth army group boundary (long diagonal from Geilenkirchen toward Brussels), plain heavy line, no ticks "}
+  - {box: [4097, 995, 4187, 1085], why: "09-28 box shifted (-16,-8): heavy loop west of the Maas (Venlo), plain heavy line with no ticks (--look 4134,1024"}
+  - {box: [4168, 1326, 4258, 1416], why: "09-28 box shifted (-16,-8): unit symbols and the Siegfried hatched band at Geilenkirchen, heavy ink of symbols, no ticks (--look 4205,1355)"}
+  - {box: [4531, 2659, 4621, 2749], why: "09-28 box shifted (-16,-8): Siegfried Line hatched band crossed by a plain heavy boundary, no ticks (--look)"}
+  - {box: [4435, 2795, 4525, 2885], why: "09-28 box shifted (-16,-8): plain heavy boundary (army/corps) Aachen-Eifel to Moselle, no ticks (--look)"}
+  - {box: [5147, 3116, 5237, 3206], why: "09-28 box shifted (-16,-8): Siegfried Line double hatched band, dashed rungs, no ticks (--look)"}
+  - {box: [5324, 3337, 5414, 3427], why: "09-28 box shifted (-16,-8): Siegfried Line double hatched band, no ticks (--look)"}
+  - {box: [6122, 3436, 6212, 3526], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth army group at the Rhine), no ticks (--look)"}
+  - {box: [5950, 3534, 6040, 3624], why: "09-28 box shifted (-16,-8): same boundary, plain heavy line, no ticks (--look)"}
+  - {box: [5802, 3669, 5892, 3759], why: "09-28 box shifted (-16,-8): Siegfried Line hatching and a boundary crossing, no ticks (--look)"}
+  - {box: [5029, 4234, 5119, 4324], why: "09-28 box shifted (-16,-8): Twelfth / Sixth army group boundary along the Marne-Rhine canal, plain heavy, no ticks (--look)"}
+  - {box: [3794, 4839, 3884, 4929], why: "09-28 box shifted (-16,-8): Twelfth / Sixth army group boundary, plain heavy, no ticks (--look)"}
+  - {box: [6103, 4860, 6193, 4950], why: "09-28 box shifted (-16,-8): catalogue stamp 'G5701' at the sheet's lower right, lettering"}
+  - {box: [6147, 4911, 6237, 5001], why: "09-28 box shifted (-16,-8): catalogue stamp 'G5701' lettering"}
+  - {box: [6098, 4911, 6188, 5001], why: "09-28 box shifted (-16,-8): catalogue stamp 'G5701' lettering"}
+  - {box: [4114, 513, 4204, 603], why: "09-28 box shifted (-16,-8): heavy loop/boundary north of Nijmegen-Venlo, plain heavy, no ticks (--look)"}
+  - {box: [4257, 607, 4347, 697], why: "09-28 box shifted (-16,-8): heavy loop west of the Maas at Venlo, plain heavy, no ticks (--look)"}
+  - {box: [3766, 1077, 3856, 1167], why: "09-28 box shifted (-16,-8): Twenty One / Twelfth army group boundary, plain heavy, no ticks (--look)"}
+  - {box: [4469, 1076, 4559, 1166], why: "09-28 box shifted (-16,-8): heavy plain line east of Aachen toward Cologne (army boundary), no ticks (--look)"}
+  - {box: [4182, 1172, 4272, 1262], why: "09-28 box shifted (-16,-8): Siegfried hatched band crossed by plain heavy line, no ticks (--look)"}
+  - {box: [4123, 1180, 4213, 1270], why: "09-28 box shifted (-16,-8): Siegfried hatched band, no ticks (--look)"}
+  - {box: [4041, 1186, 4131, 1276], why: "09-28 box shifted (-16,-8): Siegfried hatched band, no ticks (--look)"}
+  - {box: [3040, 1564, 3130, 1654], why: "09-28 box shifted (-16,-8): Twenty One / Twelfth army group boundary, plain heavy, no ticks (--look)"}
+  - {box: [2192, 1752, 2282, 1842], why: "09-28 box shifted (-16,-8): Twenty One / Twelfth army group boundary, plain heavy, no ticks (--look)"}
+  - {box: [1580, 2257, 1670, 2347], why: "09-28 box shifted (-16,-8): same boundary, plain heavy, no ticks (--look)"}
+  - {box: [1372, 2573, 1462, 2663], why: "09-28 box shifted (-16,-8): same boundary toward the Somme, plain heavy, no ticks (--look)"}
+  - {box: [2759, 4705, 2849, 4795], why: "09-28 box shifted (-16,-8): army group/army boundary toward Metz-Nancy, plain heavy, no ticks (--look)"}
+  - {box: [6117, 4780, 6207, 4870], why: "09-28 box shifted (-16,-8): Twelfth / Sixth army group boundary or Siegfried hatching at the Rhine, no ticks (--look)"}
+  - {box: [6212, 4771, 6302, 4861], why: "09-28 box shifted (-16,-8): catalogue stamp G5701s lettering (--look)"}
+  - {box: [1985, 4950, 2075, 5040], why: "09-28 box shifted (-16,-8): army boundary in the south-west, plain heavy, no ticks (--look)"}
+  - {box: [1199, 138, 1289, 228], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [1434, 147, 1524, 237], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [1319, 147, 1409, 237], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3312, 860, 3402, 950], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3439, 925, 3529, 1015], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [4695, 963, 4785, 1053], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3217, 1156, 3307, 1246], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [2879, 1214, 2969, 1304], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [2818, 1299, 2908, 1389], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [2154, 1440, 2244, 1530], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [1834, 1595, 1924, 1685], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [4507, 2051, 4597, 2141], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [2372, 2238, 2462, 2328], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [1505, 2380, 1595, 2470], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [2186, 2587, 2276, 2677], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [2254, 2717, 2344, 2807], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [4423, 2865, 4513, 2955], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [4356, 2937, 4446, 3027], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [4278, 3014, 4368, 3104], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3230, 3216, 3320, 3306], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [5193, 3218, 5283, 3308], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3461, 3389, 3551, 3479], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [5029, 3416, 5119, 3506], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3561, 3569, 3651, 3659], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3619, 3654, 3709, 3744], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [5703, 3807, 5793, 3897], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [5522, 3954, 5612, 4044], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [4856, 4340, 4946, 4430], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3481, 4226, 3571, 4316], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [5920, 4224, 6010, 4314], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3724, 4526, 3814, 4616], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3914, 4714, 4004, 4804], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3099, 4764, 3189, 4854], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3008, 4774, 3098, 4864], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [2258, 4904, 2348, 4994], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3412, 5090, 3502, 5180], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3461, 5148, 3551, 5238], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [714, 5179, 804, 5269], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3710, 1153, 3800, 1243], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [4150, 927, 4240, 1017], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [4578, 2616, 4668, 2706], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [5876, 3665, 5966, 3755], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [1980, 1768, 2070, 1858], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3572, 4351, 3662, 4441], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [3589, 4385, 3679, 4475], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [1805, 5076, 1895, 5166], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried hatched band), looked at on the overlay; not fro"}
+  - {box: [4269, 736, 4359, 826], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [2576, 1655, 2666, 1745], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [1825, 1893, 1915, 1983], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [1673, 2117, 1763, 2207], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [6293, 3395, 6383, 3485], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [6184, 3453, 6274, 3543], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [6108, 3501, 6198, 3591], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [6273, 3769, 6363, 3859], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [5407, 4033, 5497, 4123], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [5211, 4184, 5301, 4274], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [4989, 4304, 5079, 4394], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [4370, 4572, 4460, 4662], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [4061, 4724, 4151, 4814], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [3660, 4953, 3750, 5043], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [3490, 5056, 3580, 5146], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [4021, 551, 4111, 641], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [3419, 1371, 3509, 1461], why: "09-28 box shifted (-16,-8): heavy line with no ticks (boundary, loop west of the Maas, or Siegfried band); the overlay red ticks are the tool's, the"}
+  - {box: [3836, 922, 3936, 1022], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3430, 1014, 3530, 1114], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3998, 1061, 4098, 1161], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3994, 1094, 4094, 1194], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3115, 1210, 3215, 1310], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3615, 1243, 3715, 1343], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3534, 1311, 3634, 1411], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2458, 1305, 2558, 1405], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2720, 1362, 2820, 1462], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3306, 1420, 3406, 1520], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [1941, 1491, 2041, 1591], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2060, 1478, 2160, 1578], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [1690, 1478, 1790, 1578], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [1749, 1484, 1849, 1584], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [1358, 1732, 1458, 1832], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [1924, 1755, 2024, 1855], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2031, 1763, 2131, 1863], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [910, 1935, 1010, 2035], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [1061, 1984, 1161, 2084], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2405, 2180, 2505, 2280], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [4626, 2486, 4726, 2586], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3158, 3214, 3258, 3314], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3376, 3209, 3476, 3309], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2738, 3248, 2838, 3348], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2954, 3255, 3054, 3355], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3453, 3304, 3553, 3404], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3815, 3317, 3915, 3417], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3483, 3457, 3583, 3557], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [5723, 3734, 5823, 3834], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [5273, 4064, 5373, 4164], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3707, 4084, 3807, 4184], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3764, 4179, 3864, 4279], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [4731, 4298, 4831, 4398], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [4515, 4374, 4615, 4474], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [4358, 4519, 4458, 4619], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [5705, 4630, 5805, 4730], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2785, 4647, 2885, 4747], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2885, 4701, 2985, 4801], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [5560, 4680, 5660, 4780], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3021, 4719, 3121, 4819], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [5419, 4735, 5519, 4835], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [3820, 4750, 3920, 4850], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [2427, 4785, 2527, 4885], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [1896, 4959, 1996, 5059], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [1751, 4941, 1851, 5041], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [949, 5003, 1049, 5103], why: "09-28 box shifted (-16,-8): plain heavy boundary (army group/army/corps) or Siegfried hatched band; no ticks of its own, the tool's 'ticks' are rive"}
+  - {box: [4224, 550, 4324, 650], why: "09-28 box shifted (-16,-8): heavy loop W of Maas (Venlo), plain, black line with a blue river alongside, no ticks"}
+  - {box: [4245, 664, 4345, 764], why: "09-28 box shifted (-16,-8): heavy loop, plain, no ticks"}
+  - {box: [3913, 706, 4013, 806], why: "09-28 box shifted (-16,-8): loop/boundary, no ticks"}
+  - {box: [3889, 799, 3989, 899], why: "09-28 box shifted (-16,-8): loop stretch, no ticks"}
+  - {box: [3958, 1148, 4058, 1248], why: "09-28 box shifted (-16,-8): plain heavy boundary, no ticks"}
+  - {box: [3149, 1516, 3249, 1616], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth), no ticks"}
+  - {box: [2879, 1624, 2979, 1724], why: "09-28 box shifted (-16,-8): plain heavy boundary, no ticks"}
+  - {box: [6003, 3532, 6103, 3632], why: "09-28 box shifted (-16,-8): heavy Twelfth/Sixth army group boundary near Landau, plain black, no ticks (look at 6037,3566)"}
+  - {box: [5471, 3937, 5571, 4037], why: "09-28 box shifted (-16,-8): same boundary, plain, no ticks"}
+  - {box: [3428, 5039, 3528, 5139], why: "09-28 box shifted (-16,-8): plain heavy boundary, no ticks"}
+  - {box: [3454, 480, 3527, 542], why: "09-28 box shifted (-16,-8): plain heavy loop west of the Maas at Venlo, no ticks (--look 4250,600)"}
+  - {box: [3416, 507, 3489, 604], why: "09-28 box shifted (-16,-8): same plain heavy loop, no ticks"}
+  - {box: [3956, 631, 4013, 719], why: "09-28 box shifted (-16,-8): plain heavy boundary, no ticks"}
+  - {box: [2839, 1442, 3423, 1685], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth Army Group), no ticks"}
+  - {box: [4417, 2215, 4484, 2264], why: "09-28 box shifted (-16,-8): plain heavy boundary crossing the Siegfried hatching, no ticks"}
+  - {box: [1325, 2619, 1399, 2703], why: "09-28 box shifted (-16,-8): plain heavy boundary, no ticks"}
+  - {box: [4839, 3508, 4896, 3563], why: "09-28 box shifted (-16,-8): plain heavy line/Siegfried Line, no ticks"}
+  - {box: [5549, 3853, 5675, 3954], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth Army Group), no ticks (--look 5600,3880)"}
+  - {box: [5037, 4177, 5236, 4310], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks (--look 5100,4220)"}
+  - {box: [4678, 4359, 4779, 4410], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks"}
+  - {box: [4488, 4427, 4558, 4536], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks"}
+  - {box: [4162, 4652, 4255, 4718], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks"}
+  - {box: [3713, 4893, 3791, 4957], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks"}
+  - {box: [1070, 93, 1190, 213], why: "09-28 box shifted (-16,-8): title lettering (SECRET strike-through / 'SE') (--look, none ticked)"}
+  - {box: [1083, 119, 1203, 239], why: "09-28 box shifted (-16,-8): title lettering (SECRET underline) (--look, none ticked)"}
+  - {box: [2453, 267, 2573, 387], why: "09-28 box shifted (-16,-8): title lettering ('44' of the date) (--look, none ticked)"}
+  - {box: [4200, 485, 4320, 605], why: "09-28 box shifted (-16,-8): heavy line beside an enemy division symbol, plain with no ticks (Venlo loop's north edge / boundary) (--look, none ticked)"}
+  - {box: [1239, 1840, 1359, 1960], why: "09-28 box shifted (-16,-8): plain heavy straight boundary line, no ticks (--look, none ticked)"}
+  - {box: [4621, 4420, 4741, 4540], why: "09-28 box shifted (-16,-8): plain heavy straight boundary line, no ticks (--look, none ticked)"}
+  - {box: [5999, 4874, 6119, 4994], why: "09-28 box shifted (-16,-8): stamped lettering at the foot of the sheet (--look, none ticked)"}
+  - {box: [6240, 4870, 6360, 4990], why: "09-28 box shifted (-16,-8): stamped lettering at the foot of the sheet (--look, none ticked)"}
+  - {box: [1806, 4934, 1926, 5054], why: "09-28 box shifted (-16,-8): plain heavy boundary curve, no ticks (--look, none ticked)"}
+  - {box: [2492, 330, 2592, 430], why: "09-28 box shifted (-16,-8): the '44' of the title's year (lettering), traced as a run"}
+  - {box: [2483, 298, 2583, 398], why: "09-28 box shifted (-16,-8): the '44' of the title's year (lettering), traced as a run"}
+  - {box: [2494, 295, 2594, 395], why: "09-28 box shifted (-16,-8): the '44' of the title's year (lettering), traced as a run"}
+  - {box: [2495, 307, 2595, 407], why: "09-28 box shifted (-16,-8): the '44' of the title's year (lettering), traced as a run"}
+  - {box: [4705, 964, 4805, 1064], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4673, 980, 4773, 1080], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4610, 1009, 4710, 1109], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4577, 1023, 4677, 1123], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4545, 1038, 4645, 1138], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4491, 1061, 4591, 1161], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4438, 1086, 4538, 1186], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4428, 1092, 4528, 1192], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4370, 1108, 4470, 1208], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4311, 1122, 4411, 1222], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4253, 1139, 4353, 1239], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4229, 1143, 4329, 1243], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4192, 1150, 4292, 1250], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [4127, 1167, 4227, 1267], why: "09-28 box shifted (-16,-8): plain heavy boundary / Venlo loop cross line west of the Maas, no ticks (--look at 4494,1150 and 4771,1022)"}
+  - {box: [2334, 1712, 2434, 1812], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [2323, 1715, 2423, 1815], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [2265, 1731, 2365, 1831], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [2232, 1743, 2332, 1843], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [2211, 1753, 2311, 1853], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [2145, 1780, 2245, 1880], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [2088, 1796, 2188, 1896], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [2027, 1798, 2127, 1898], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1967, 1789, 2067, 1889], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1907, 1779, 2007, 1879], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1876, 1807, 1976, 1907], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1848, 1846, 1948, 1946], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1833, 1865, 1933, 1965], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1798, 1926, 1898, 2026], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1793, 1936, 1893, 2036], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1765, 1986, 1865, 2086], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1730, 2047, 1830, 2147], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1691, 2108, 1791, 2208], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1667, 2149, 1767, 2249], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1655, 2169, 1755, 2269], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1619, 2229, 1719, 2329], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1612, 2240, 1712, 2340], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1580, 2289, 1680, 2389], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1550, 2338, 1650, 2438], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1543, 2348, 1643, 2448], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1506, 2409, 1606, 2509], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1488, 2439, 1588, 2539], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1471, 2469, 1571, 2569], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1432, 2526, 1532, 2626], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1395, 2584, 1495, 2684], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1369, 2623, 1469, 2723], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1356, 2642, 1456, 2742], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [1309, 2709, 1409, 2809], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twenty One / Twelfth, army boundaries), no ticks (--look at 1825,2070, 1357,2795, 2400,1770)"}
+  - {box: [4199, 4595, 4299, 4695], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks (--look at 4177,4716, 4100,4780)"}
+  - {box: [4188, 4600, 4288, 4700], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks (--look at 4177,4716, 4100,4780)"}
+  - {box: [4139, 4625, 4239, 4725], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks (--look at 4177,4716, 4100,4780)"}
+  - {box: [4130, 4629, 4230, 4729], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks (--look at 4177,4716, 4100,4780)"}
+  - {box: [4071, 4659, 4171, 4759], why: "09-28 box shifted (-16,-8): plain heavy boundary (Twelfth / Sixth), no ticks (--look at 4177,4716, 4100,4780)"}
+  - {box: [819, 5193, 919, 5293], why: "09-28 box shifted (-16,-8): railway/river ink near the ninth/third boundary, false ticks (--look at 885,5251 and 870,5280)"}
+  - {box: [825, 5225, 925, 5325], why: "09-28 box shifted (-16,-8): railway/river ink near the ninth/third boundary, false ticks (--look at 885,5251 and 870,5280)"}
+  - {box: [2464, 272, 2704, 472], why: "09-28 box shifted (-16,-8): the '44' of the title's year (lettering), beyond the shifted title box, traces as a run"}
+  - {box: [764, 5172, 964, 5372], why: "09-28 box shifted (-16,-8): river/railway ink (ninth/third boundary area, lower left), false ticks, no ticked line (--look at 885,5251, 870,5280)"}
+  - {box: [384, 5072, 884, 5372], why: "09-28 box shifted (-16,-8): lettering 'BRITISH' (map margin, lower left), traced as a ticked run; --look at 712,5222"}
+  - {box: [3940, 570, 4070, 700], why: "plain heavy loop west of the Maas at Venlo, no ticks (--look at 4000,640)"}
+  - {box: [3690, 810, 3975, 1260], why: "plain heavy boundary (Twenty One/Twelfth), no ticks (--look at 3830,1040)"}
+  - {box: [2290, 2290, 2410, 2410], why: "plain heavy boundary, west of Luxembourg-Belgium, no ticks (--look at 2350,2350)"}
+  - {box: [2200, 2710, 2300, 2800], why: "plain heavy boundary, no ticks (--look at 2250,2750)"}
+  - {box: [6180, 3370, 6400, 3490], why: "plain heavy line toward the right edge, no ticks (--look at 6290,3430)"}
+  - {box: [4620, 4150, 5280, 5010], why: "plain heavy boundary (Twelfth/Sixth) toward Metz and Nancy, no ticks (--look at 4950,4570)"}
+  - {box: [6340, 4800, 6480, 4910], why: "the catalogue stamp 'G5701s' at the sheet's lower right (lettering), not front (--look at 6380,4860)"}
+  - {box: [4510, 4970, 4660, 5090], why: "plain heavy boundary, no ticks (--look at 4580,5030)"}
+  - {box: [3860, 5030, 4570, 5370], why: "plain heavy boundary at the sheet's foot, no ticks (--look at 4200,5200)"}
+flip: []
+checked: []
+# Reader: title read 1200 HRS 27 SEPTEMBER 1944, no report number (agrees with the catalogue).
+# Reader: gcps matched to 12ag-1944-09-28 (offset -16,-8 px; 68 of 81 agree, median 1.3 px, 13 placed through the transform); conic fit 1.1 km rms over 81, leave-one-out 1.2 km, worst 3.3 km (Beauvais).
+# Reader: NO ticked front is drawn. 09-28's excludes shifted (-16,-8), plus boxes on the plain heavy boundaries, the Venlo loop and the catalogue stamp that still traced, each seen with --look; none carries ticks.
+# Reviewed: no ticked front drawn, as 6-22 and 28 Sep. The Venlo loop checked on the scan (crop 3700,350, 600 px): a plain heavy line with no ticks between the Allied and enemy division boxes, as on 09-28; boxed with the boundaries. Empty front, rightly.
