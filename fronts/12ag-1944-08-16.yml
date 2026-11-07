@@ -1,0 +1,20 @@
+# 12ag-1944-08-16: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21072
+date: 1944-08-16
+as_of: 1200 HRS 16 AUGUST 1944
+title: "SECRET (struck through) / Situation 1200 hrs 16 August 1944 / Twelfth Army Group; 1:500,000 sheet (B04)"
+read: the title on the sheet (bottom left on this base, read on the region 200,4100 2600x1000), 7 Nov 2026
+gcps_from: towns-B04.csv
+radius: 4    # copied from 08-15; radius 3 tried (236.0 km, 30 stretches, more fragments + a stray boundary) against 238.6 km, 15 stretches at 4
+area: [500, 250, 3300, 3300]   # copied from 08-15: Normandy's front lies north-west of the towns' spread
+exclude:
+  - {box: [200, 4560, 2550, 5050], why: "the title block's lettering: SECRET (struck through), SITUATION 1200 HRS 16 AUGUST 1944, TWELFTH ARMY GROUP, bottom left (lower than on 15 Aug)"}
+  - {box: [5600, 4950, 6686, 5984], why: "the legend (U.S., BRITISH, ENEMY, FRONT LINE sample) bottom right; made 19 false unsure runs"}
+flip: []
+checked: []
+# Reviewed: 7 Nov 2026 (q-0816). Copied from 08-15: radius 4, area box; title box moved down to [200,4560,2550,5050]; legend now [5600,4950,6686,5984] (bottom right, 19 false unsure runs without it).
+# 27 of 28 towns agree (median 0.7 px; 1.5E 47.5N placed through the transform). 15 stretches, 0 unsure, no flip, no checked. 238.6 km.
+# The north end's heavy ticked stretch east of Caen (2870,440 to 2965,590) IS traced at radius 4 today (runs 1-3, ticks on the west/Allied side). Radius 3: 30 stretches, 236.0 km, fragmented, plus a stray boundary at the Selune (1333,2225); radius 4 kept.
+# No ring: the line is open between the Falaise hook (about 2915,1440) and the Argentan line (about 3060,1980). Ticks on the outer side of the pockets, enemy inside, as drawn.
+# Reviewed: the Falaise gap still open (about 23 km between the Falaise hook and the Argentan line); the north end east of Caen traces whole at radius 4 (radius 3 fragments it); none turned. The west end stops on a heavy boundary at the Vire, as drawn.
