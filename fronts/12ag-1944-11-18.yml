@@ -1,0 +1,26 @@
+# 12ag-1944-11-18: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+# Base B11.
+item: ict21167
+date: 1944-11-18
+as_of: 1200 HRS 18 NOVEMBER 1944
+title: "Situation 1200 hrs 18 November 1944, Twelfth Army Group (SECRET underlined above)"
+read: the title on the sheet (SECRET; no report number), 7 Nov 2026
+gcps_from: 12ag-1944-11-17
+exclude:
+  - {box: [388,288,2384,776], why: "title"}
+  - {box: [216,4912,1096,5648], why: "legend"}
+  - {box: [2224,1770,3680,2118], why: "the Twenty One/Twelfth army group boundary from its west end beyond Tirlemont (x 2230) to the front near Maastricht (heavy black, no map ticks)"}
+  - {box: [3696,1748,3786,1808], why: "army boundary's last stretch to the front at Geilenkirchen, heavy black, no ticks (crop 3450,1550)"}
+  - {box: [4020,4800,4120,4870], why: "the Twelfth/Sixth army group boundary to the front near Dombasle, heavy black, no map ticks (crop 3850,4650 450x400); on 11-17 the box sat at 3968,4820, here the boundary runs through 4070,4833"}
+  - {box: [3640,1815,3725,1858], why: "the Twenty One/Twelfth boundary (or an army boundary) ending in the 102 box west of the front near Geilenkirchen: heavy black, no ticks of the map, a stub the tool traced as run 20 (middle 3687,1835; crop 3500,1550 600x600), 7 px past the west end of the Twenty One box"}
+flip: []
+checked: []
+
+# Reader: title agrees with the catalogue (1200 HRS 18 NOVEMBER 1944, no report number; SECRET underlined).
+# Reader: towns: --gcps-from 12ag-1944-11-17 accepted on the one run: offset +16,+48 px against 11-17, 65 of 81 agree, median 1.0 px, 16 placed through the transform (Prüm 74 px off, Strasbourg 13, Nijmegen 14, Eindhoven and 's-Hertogenbosch 12, Landau, Karlsruhe 12, Baden-Baden 12, Offenburg 13, Pirmasens 11, Saint-Dié 9, Zweibrücken 8, Ahrweiler 7, Verviers 6, Trier 5, Bitburg 5). Fit over all 81: rms 0.9 km (leave-one-out 0.9, worst Beauvais 2.1 km).
+# Reader: boxes: 11-17's eleven shifted +16,+48 and each left out in turn. Kept: title (without it 100 stretches, 56 unsure; clear of the Scheldt north shore), legend (without: 73, 31 unsure), Twenty One/Twelfth (without: 46, 6 unsure), Geilenkirchen stub (3696,1748,3786,1808; without: 42, adds a stub). Dropped because leaving each out changed nothing: the Dombasle box (3984,4868,4104,4978), the three First Canadian/Second British boxes, both First/Third boxes, the Dombasle south-west box (3396,5108,3696,5278); on this sheet those boundaries are thin or fall off the traced lines. New: a Dombasle box at 4020,4800,4120,4870 (the Twelfth/Sixth boundary's end ran as an unsure stretch, middle 4070,4833, heavy black no ticks, crop 3850,4650) and a box at 3640,1815,3725,1858 (a stub of heavy black boundary ending in the 102 box west of Geilenkirchen, traced as run 20 with enemy side, crop 3500,1550; 39 stretches after it).
+# Reader: flip: none. checked: none; the three 11-17 entries (east of Aachen, Scheldt north shore, near Nancy) were re-centred (+16,+48) and each found nothing to settle (0 by hand), so dropped; the front east of Aachen is continuous with ticks on the US side (crop 3500,1550 600x600), with a gap of about 30 px at 3760-3780,1740-1770 where the boxed boundary stub meets it. Scheldt hook unflipped, red ticks on the map's (crop 1350,780 900x350); Nijmegen island whole, ticks inside (crop 3000,150 700x800); Metz (3850,3850) and Belfort/Vosges (4150,4900) reaches ticks on the US side.
+# Reader: front: 39 stretches (37 ticks, 2 line, 0 by hand, 0 unsure), 927 km (own sum of the GeoJSON legs; 11-17 the same way 829.6 km in 97 runs); southmost 47.98N. The 97 km gain over 11-17 is more than the Queen and Vosges advances alone account for and is not checked stretch by stretch (fewer, longer chained runs, which may bridge small gaps).
+# Reader: sides: 81 of 81 as on 11-17, no town changes side (11-17 GeoJSON byte-identical to its backup after the --sides run). Arnhem enemy; Nijmegen, Epinal and Ostend own; Metz enemy ("Metz             enemy     by run 30 enemy at 4063,3973, run 32 enemy at 3990,4299, run 31 enemy at 3760,4221") the front runs around it on three sides, the city and forts still German-held on the 18th; Saint-Dié enemy ("Saint-Dié        enemy     by run 37 enemy at 4485,5290"), on the line: a weak test.
+# Reviewed: whole-sheet overlay looked at: one continuous ticked front from the Scheldt to the Vosges, no boundary traced. The rise to about 927 km (830 on 11-17) is the line now wrapped round Metz on three sides by Third Army's envelopment, and merged runs bridging 11-17's gaps; not a stray. The dropped boxes caught nothing (the boundaries are thin on this sheet). Metz enemy (still German-held, inside the ring). 81 of 81 towns as 11-17.
