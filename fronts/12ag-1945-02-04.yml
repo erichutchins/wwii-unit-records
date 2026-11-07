@@ -1,0 +1,34 @@
+# 12ag-1945-02-04: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21245
+date: 1945-02-04
+as_of: 041200 FEB. 1945
+report: 244
+title: "12th Army Group Outline Maps 1:1,000,000. HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 244, situation as of 041200 Feb. 1945 (signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1945-02-03
+exclude:
+  - {box: [200, 250, 2000, 830], why: "the title block's lettering (SECRET struck through, HQ TWELFTH ARMY GROUP SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 244, SITUATION AS OF 041200 FEB. 1945); ends above the Walcheren/Tholen arcs, whose tops are at about y 855"}
+  - {box: [200, 850, 1570, 1130], why: "the title block's signature (C. T. Schmidt, for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), left of the Walcheren arc, whose west end is at x 1585"}
+  - {box: [0, 4850, 1100, 5977], why: "the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all)"}
+  - {box: [5070, 200, 6160, 520], why: "the stamp (Auth: CG, Twelfth Army Group / Initials: C.T.S. / Date: 4 February 1945) top right, lettering and its frame, whose left edge is at about x 5410 today (5085 on 02-03; box kept wide, no front east of x 3800 here); unsure run 5170,343 (the U of Auth); looked, overlay crop 4900,150 on 02-03: no front here"}
+  - {box: [3375, 965, 3440, 1055], why: "a boundary end near Helmond, heavy black, no map ticks (on 01-31 a magenta stub, run 3412,1010); looked, overlay crop 3150,800: not traced today, box kept in place from 01-31"}
+  - {box: [3000, 1900, 3420, 2150], why: "the boundary lettered TWENTY ONE / TWELFTH, west of Liege to Seraing, magenta, red ticks only from roads, no map ticks (unsure run 3104,1975; looked, overlay crop 2900,1750); the front is east of x 3880 here. Widened from 01-31, the sheet printed 11 px off its box"}
+  - {box: [3670, 2135, 3930, 2270], why: "a boundary (heavy black line by the V Corps symbol, no map ticks) running east to the front near 3930,2260, magenta (unsure runs 3735,2149 and 3885,2186; looked, overlay crop 3600,1950); the front is blue and unbroken east of x 3960. Not traced on 01-31"}
+  - {box: [3765, 2600, 3835, 2665], why: "a boundary stub to the front near Houffalize, heavy black, no map ticks (on 01-31 run 3804,2628); looked, overlay crop 3700,2450: not traced today, box kept in place from 01-31; the front runs unbroken east of it"}
+  - {box: [3730, 4120, 4150, 4360], why: "the boundary lettered TWELFTH / XXXXX / SIXTH on the map, south-west of Metz toward Courcelles and Pagny (merged with the Pagny box; the sheet prints about 8 px left of 02-03's), magenta, red ticks only from roads, no map ticks (unsure run 3983,4267; looked, overlay crop 3650,4000)"}
+  - {box: [4215, 3935, 4375, 4075], why: "the same TWELFTH / SIXTH boundary's last stretch to the front, blue-drawn, ticks only from roads (looked, overlay crop 3700,3700); the front is at x 4390 and runs unbroken past the box"}
+  - {box: [4030, 2615, 4080, 2660], why: "a short blue hook (run 26 at 4058,2633) on the outline of the enemy's hatched band beside the 246/32 symbols, a dead end with no map ticks, not the front; it put Prum on the US side (looked, overlay crop 3850,2450); the front runs unbroken west of x 3990 here"}
+  - {box: [4540, 1900, 4640, 2000], why: "the Rhine's own dark ink beside Bonn (run 33 at 4584,1953), magenta, not the front: the front is on the Siegfried line west of x 4100 here; looked, overlay crop 4300,1800. Darker sheet than 02-03, where it was not traced"}
+  - {box: [4770, 2270, 4850, 2350], why: "the Rhine's dark ink below Linz (run 41 at 4808,2308), magenta, not the front; looked, overlay crop 4300,1800"}
+  - {box: [5010, 2520, 5080, 2600], why: "the Rhine's dark ink at Koblenz/Lahnstein (run 47 at 5045,2557), magenta, not the front; looked, overlay crop 4300,1800"}
+  - {box: [5340, 2940, 5440, 3020], why: "the Rhine's dark ink at Bingen (run 50 at 5394,2980), magenta, not the front; looked, overlay crop 4300,1800"}
+  - {box: [570, 1930, 680, 2040], why: "the outline of a US division symbol (the 65) at the sheet's left edge (run 34 at 617,1985), not the front; looked, --look 617,1985. It put Amiens, Arras, Cambrai on the enemy side"}
+  - {box: [5100, 3850, 5230, 3900], why: "a short blue hook (run 60 at 5170,3872) where the enemy band's outline meets the XC symbol, a dead end with no map ticks, not the front; looked, --look 5170,3872"}
+flip: []   # the 02-03 flips (Tholen east arc 2059,874; north Beveland arc 1852,872) are not needed: the sheet prints about 8,16 px off 02-03 and both arcs come out ticked to the south (Allied side) on their own; looked, overlay crop 1100,650
+checked:
+  - {at: [5371, 4657], why: "a short piece of the Rhine front north of Strasbourg (run 66), unsure; the map's ticks are the small bumps on the heavy line's west (US) side and the red ticks fall there; Strasbourg own, Baden-Baden and Karlsruhe enemy agree; looked, --look 5371,4657 and overlay crop 4700,3700"}
+  - {at: [5230, 5182], why: "a short piece of the Rhine front south of Erstein at a gap in the blue line, unsure; ticks on the west (US) side as the red ticks; Offenburg enemy, Colmar own agree; looked, --look 5230,5182 and overlay crop 4900,4700"}
+  - {at: [4246, 3718], why: "the front's short piece on the Moselle/Saar bend at the enemy band (run at 4246,3718), unsure; the map's ticks hang on the south-west (US) side, as the red ticks do, and the blue stretches either side run on; looked, --look 4246,3718 and overlay crop 4100,3600"}
+# Reviewed: towns from 02-03 (75 of 81 agree, median 0.6 px; sheet offset -8,-16 px); excludes and the two Walcheren/Tholen flips copied from 02-03 and checked on the overlay; the Rhine (Bonn to Bingen) and the 65 symbol outline are new boxes.
+# Reviewed: the Tholen and Beveland arcs: with no flip, today they are ticked stretches whose red ticks fall on the map ticks south of the arcs (the Allied side); a flip copied at 02-03 coordinates would miss (tool tolerance 8 px) and one placed at today's would turn them wrong.
+# Reviewed: 80 of 81 towns on 3 February's side; Haguenau on the Moder line a weak test. The Scheldt arcs come out ticked south by themselves today, so 3 February's two flips are not carried. This darker scan shows the Rhine's own ink at Bonn, Linz, Koblenz and Bingen: boxed.
