@@ -1,0 +1,35 @@
+# 12ag-1944-06-08: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21003
+date: 1944-06-08
+as_of: 2400 HRS 8 JUNE 1944
+title: "Situation - 2400 hrs 8 June 1944, HQ. FUSAG, Copy No. ___; 12 AG Outline Maps 1:500,000 (no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-06-07
+radius: 4
+dark: 115
+runs:   # the toothed line as waypoints on the scan, enemy on the left, read by eye on overlay crops (1850,1600 1300x900; 2900,2000 1050x500), 7 Nov 2026
+        # run 1: the Utah lodgement: from the Carentan diagonal's NE end down to Carentan, then north up the Ste-Mere-Eglise arc and NE past the 1058 box
+        # run 2: from the Sword end west along Juno and Gold, the Bayeux salient and the Omaha arc to its north tip (walked east to west so the inland enemy is on the left)
+  - [[2190, 1940], [2150, 1990], [2100, 2040], [2065, 2105], [2040, 2100], [1990, 2080], [1950, 2040], [1935, 1990], [1930, 1920], [1940, 1860], [1960, 1810], [2030, 1730], [2090, 1665]]
+  - [[3885, 2440], [3800, 2390], [3740, 2360], [3670, 2365], [3600, 2360], [3590, 2320], [3560, 2290], [3530, 2300], [3500, 2330], [3470, 2380], [3420, 2405], [3330, 2415], [3230, 2405], [3150, 2385], [3100, 2355], [3040, 2290], [3000, 2260], [2960, 2230], [2940, 2200], [2935, 2170], [2945, 2120], [2910, 2070], [2900, 2040], [2880, 2025], [2830, 2050], [2790, 2065], [2720, 2070], [2670, 2090], [2640, 2090], [2640, 2050], [2650, 2000], [2640, 1970], [2610, 1940], [2580, 1910], [2570, 1885]]
+exclude:
+  - box: [900, 250, 3100, 780]
+    why: "the title block's lettering (SITUATION - 2400 HRS 8 JUNE 1944, HQ. FUSAG, COPY No.), scan 960-2970,315-750"
+  - box: [4200, 300, 5000, 560]
+    why: "the struck-through SECRET at the top right (about 4290-4680,330-430 on the scan)"
+  - box: [1100, 3950, 2000, 4950]
+    why: "the legend (U.S., BRITISH, ENEMY, BOMBLINE keys; no FRONT LINE sample)"
+checked: []
+flip: []
+
+
+# Reader: title SITUATION - 2400 HRS 8 JUNE 1944 / HQ. FUSAG / COPY No. ___ (blank); "12 AG OUTLINE MAPS 1:500,000" at the top left margin; SECRET struck through at the top right; no report number. Agrees with the catalogue (ict21003, 1944-06-08).
+# Reader: towns: matched to 12ag-1944-06-07, offset +40,+8 px: 30 of 34 agree (median 0.5 px); four placed through the transform: 1.5W, 1W and 0.5W 49.5N (58-64 px off; at sea or on the bay) and 1.5W 48.5N (66).
+# Reader: legend: U.S., BRITISH, ENEMY keys and a dashed BOMBLINE key; no FRONT LINE sample. The sheet draws a toothed line, much longer than 7 June: the Utah lodgement (an arc from the 1058 box at Ste-Mere-Eglise down past 191 to Carentan, a toothed diagonal from Carentan NE to about 2190,1940, and a continuation NE of the 1058 box to about 2090,1665), and Omaha joined to Gold, from about 2570,1885 round the Omaha arc and the Bayeux salient along Gold and Juno, over a bump at Courseulles-Juno, to the 125 box at about 3885,2440 (Sword). Not toothed: arrows, the 1st US/2nd BR and I Corps boundaries, the bombline, unit boxes, the tank circle, the Orne mouth. The two lodgements are not joined on the sheet between Carentan and the Omaha arc (about 2200-2570, no toothed line).
+# Reader: TEETH DIRECTION: looked at 2750,2070; 3250,2400; 3480,2290; 2620,1950 on the scan: the teeth hang on the seaward (north/east) side at Omaha, Gold and Juno and inside (east) the Utah arc: the July convention, the reverse of 7 June (teeth on the south). Nothing is flipped; the waypoint runs are ordered with the inland enemy on the left, and the tool's red ticks fall on the drawn teeth on the right.
+# Reader: METHOD: the stretch method (radius 5, dark 115, boxes) traced only about 45 of roughly 100 km (23 stretches): the sheet's line is thin and its teeth run into it, so radius 5 opened it away and ticks were found on part only. Kept: hand waypoints (`runs:`), read by eye on overlay crops (scan 1850,1600 1300x900 for run 1; 1850,1600 and 2500,1850 1450x650 for run 2), enemy on the left. Run 1 runs from the Carentan diagonal's NE end down to Carentan and north up the Ste-Mere-Eglise arc and NE past the 1058 box; run 2 is walked from the Sword end west (so the inland enemy is on the left) along Juno and Gold, the Bayeux salient and the Omaha arc to its north tip. Radius 5 failed with runs ("no ink between": the mask held only blobs), so radius 4, dark 115 (min area 2000 px keeps heavy pieces only): r4 d115 117.8 km, r3 d115 118.4 km (same course); radius 4 kept. The old stretch result is backed up in the scratchpad (q-0608/bak.yml, bak.geojson).
+# Reader: result: 2 runs, 117.8 km from the GeoJSON, following the drawn line on the overlay crops from the Utah arc's north end, round Carentan, the whole Omaha arc and Bayeux salient, Gold and Juno to the Sword end. Off the ink or doubtful: at the Juno bump's east foot and the 191 box (about 3600-3660,2340-2400) the path dips onto the box edge for about 50 px, because the line runs behind the box top there; the two ends (2090,1665 and 3885,2440) end where the teeth end by eye. Nothing else is untraced on the toothed line.
+# Reader: boxes: with waypoints the exclude boxes are not used; only the title, SECRET and legend boxes remain (the 17 stray boxes of the stretch trace were dropped).
+# Reader: sides: 50N own except 2W 50N (enemy: sea west of the Utah arc's open end; run 1 enemy at 1933,2004, run 2 own at 3080,2340); 49N and south enemy except 1E 49N, which reads own by run 2 at 3080,2340 (east of the Orne mouth, beyond the line's end at Sword: the open-end artefact, as on 7 June; the town is German-held); 0.5E, 1E 49.5N read own by run 2 (inland on the coast east of the Seine's mouth, German-held, the same artefact, no line between them and the sea). 2W and 1.5W 49.5N read enemy (right: west of Utah); 1W, 0.5W 49.5N own (bay, right).
+# Reviewed: the stretch method traced about 45 of some 100 km (the thin line's teeth run into it); hand waypoints (runs) read on overlay crops at radius 4, dark 115 trace the whole toothed line: the Utah lodgement from north-east of the 1058 box round Ste-Mere-Eglise to Carentan and its diagonal, and from the Omaha arc through the Bayeux salient along Gold and Juno to the Sword end (overlay crop 1800,1550 looked at). Teeth seaward, as in July (7 June's hung inland). WRONG sides, open-end artefacts with no line between them and the sea: 1E 49N and 0.5E, 1E 49.5N read own (German-held).
