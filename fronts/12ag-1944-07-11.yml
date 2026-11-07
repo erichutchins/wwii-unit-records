@@ -1,0 +1,25 @@
+# 12ag-1944-07-11: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21036
+date: 1944-07-11
+as_of: 2400 HRS 11 JULY 1944
+title: "Situation 2400 hrs 11 July 1944, HQ FUSAG, Copy No. blank (no report number); 12 AG outline maps 1:500,000"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-07-12
+radius: 3
+exclude:
+  - {box: [900, 330, 3850, 910], why: "the title block lettering (box from 07-12)"}
+  - {box: [4450, 380, 5300, 620], why: "SECRET struck through, top right (box from 07-12)"}
+  - {box: [1100, 4100, 2600, 5100], why: "the legend, bottom left (box from 07-12)"}
+checked:
+  - {at: [2102, 2338], why: "short stretch by the 266 box (St-Jean-de-Daye bend); the map's ticks (crop 2102,2338) are on the east/north side, the same as the runs either side, and the red ticks fall on them"}
+flip:
+  - {at: [2192, 2481], why: "short heavy stretch west of St-Lo, the arc head by the 352 remnants; the map's ticks are on its north side (--look 2192,2481) and the red ticks fell on the south; --sides had run 24 putting 1.5W 48.5N own"}
+
+# Reader: title SITUATION 2400 HRS 11 JULY 1944, HQ FUSAG on the line below, COPY NO. blank, no report number, SECRET struck through at top right. Agrees with the catalogue's day (ict21036). Towns matched to 12ag-1944-07-12's (base B01): 32 of 34 agreed (median 0.5 px, sheet offset -40, -8 px); 0.5W 49N (12 px off) and 0.5W 48.5N (22 px off) placed through the transform.
+# Reader: 42 stretches (32 ticks, 8 line, 1 by hand, 1 checked, 0 unsure), 133.7 km from the GeoJSON (summed great-circle), against 116.9 km on 12 July and about 137 on 13 July. From the Passage de la Deroute coast (hook about 1299,2230) to the Orne mouth (tip about 3823,2183).
+# Reader: boxes. The three of 07-12 each re-tested by removal: without the title block 52 stretches (10 unsure), without SECRET 57 (14 unsure), without the legend 95 (41 unsure); all kept. The legend box to x 2600 as on 07-12 (nothing past 2448 here). No boundary or symbol-stroke box was needed: the corps boundaries print thin today and trace nothing; no ticked front stretch is boxed.
+# Reader: turns. Two stretches came out unsure. (2102,2338) by the 266 box: map's ticks on the east/north side as the runs either side; checked. (2192,2481) the heavy head west of Saint-Lo above the 352 remnants: map's ticks on its north side, the tool's red ticks on the south, and --sides had run 24 putting 1.5W 48.5N (south, enemy) own; flipped; after it the town reads enemy.
+# Reader: gaps over 20 px between run ends (scan px, by the fit): 79 at 1299-1375, 2230-2210 (the west hook, continuous on the overlay crop 1200,2100; the pairing of two overlapping runs); 24 at 2121,2373 to 2126,2396; 41 at 2210-2250, 2484-2492 (the arc head, heavy, no tick found); 45 at 2443-2488, 2573-2569 (the heavy head by the 2 box, no ticks); 24 at 2724-2748, 2724; 39 at 3172-3208, 2566-2582; 26 at 3248-3274, 2613; 28 at 3444-3467, 2564-2548; 36 at 3511-3538, 2487-2463; 65 at 3793-3823, 2241-2183 (the Orne-mouth tip, continuous on crop 3650,2100). The line is continuous across all of them on the overlay crops (1200,2100; 2150,2420; 3650,2100). The Saint-Lo reach (crop 2150,2420) is traced through the south bend, with only the arc-head gaps. Radius fixed at 3.
+# Reader: --sides on 07-12 (its GeoJSON backed up and unchanged by the run) and today, town by town: all 34 towns on the same side, none changes. 0.5E 49.5N and 1E 49.5N read enemy (right: land north of the Seine, German-held) by three runs to one off the open east end. Beyond the open ends the towns read either way: 0E, 0.5E and 1E 50N are in the sea off the east end (own, runs split 3 enemy to 1 own for 0.5E and 1E; 0E own), 2W and 1.5W 50N in the Passage de la Deroute off the west end (own). No town on the wrong side.
+# Reviewed: headed HQ FUSAG, situation at 2400 hrs 11 July. All 34 towns on 12 July's side; 0.5E and 1E 49.5N enemy (right); sea towns off the open ends read either way. 42 stretches, about 134 km, 0 unsure. One flip: the heavy head west of Saint-Lô at 2192,2481, whose red ticks had fallen south; flipped, they stand north on the map's own (crop 2000,2380, read by the reviewer), and 1.5W 48.5N reads enemy. One stretch by the 266 box checked by eye. Boundaries print thin and trace nothing; title, SECRET and legend boxed. Gaps of 24-79 px, the map's line continuous at each.
