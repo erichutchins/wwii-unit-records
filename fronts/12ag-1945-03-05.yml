@@ -1,0 +1,896 @@
+# Reader: 5 March, report 273 (the 3 is struck over a 2 or similar, read 273); title read on the Library image (051200 MAR. 1945, signed C. T. Schmidt for A. Franklin Kibler); agrees with the catalogue.
+# Reader: gcps_from 12ag-1945-03-04 (sheet offset -24,+8; 78 of 81 agree, median 0.7 px; 3 placed through the transform: Trier, Prum, Zweibruecken). 03-04s 137 boxes copied, each moved by the median offset of its five nearest towns; the 22 dark-90 stray boxes kept (catch nothing at 70 or harmless). Signature box right edge 1595, left of the Walcheren arc (traced whole). Boxes added today: the middle of the Ninth/First boundary at Grevenbroich (4195,1430-4275,1523) and 111 widened up to y 1796 (the boundary ran whole between the 03-04 end boxes and put Julich and Grevenbroich on its road ticks); the Lauterbourg hook (5648,4298); three strays at 4505,1635, 4475,1760 and the Rhine blue above Bonn 4675,2041.
+# Reader: dark: default 70 kept. This is a darker print than 03-04 (the arcs trace whole at 70: Walcheren, Beveland, Tholen, Hollandsch Diep/Volkerak with their own ticks); at 90 the same boxes left 645 stretches and 2570 km (the grey roads and lettering pass as front), at 70 106 stretches, 776 km.
+# Reader: turns: 2 flips, the Tholen arc (2125,868 and 2073,891): the map ticks hang south, the tool red ticks stood north. 03-04 flips on the Siegfried band south of Heimbach not needed at 70 (matched nothing; dropped). Checked (5): Neuss piece 4294,1384 (still needed; its short wiggles at 4260-4310,1290-1380 follow the heavy S-bend and the Rhine blue, ticks hard to read, kept as on 03-04), the Siegfried band piece 4085,2448 (red ticks west, US 69/106 west), and the Wesel bridgehead south side in three pieces 4082,960, 4194,1016, 4238,1030 (map ticks lost in the black mass, hang south; US 35, 84, 53 south, German bridgehead north). The 03-04 checks at 4144,2403 and 4251,3640 matched no unsure stretch and were dropped.
+# Reader: sides against 03-04: 81 of 81 agree. The first run (before the boundary box) had Julich enemy and Landau, Karlsruhe, Heidelberg own (the Lauterbourg hook, run 94); both boxed. Grevenbroich own by runs 45 and 46 (runs 43 and 44, the Neuss wiggles, read it enemy: a weak echo of the unreadable Neuss pieces); Gemund own (under the heavy line, weak); Haguenau enemy, Verviers own (weak tests). Prum, Julich, Bitburg, Grevenbroich, Trier, Strasbourg, Kleve own; Adenau, Offenburg enemy. Length 776 km from the GeoJSON (106 runs, 0 unsure).
+item: ict21274
+date: '1945-03-05'
+as_of: 051200 MAR. 1945
+report: 273
+title: 12th Army Group Outline Maps 1:1,000,000. HQ Twelfth Army Group Situation Map (SECRET struck through), to accompany G-3 Report No. 273, situation as of 051200 Mar. 1945 (signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3)
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1945-03-04
+exclude:
+- box:
+  - 219
+  - 247
+  - 2021
+  - 829
+  why: the title block's lettering (SECRET struck through, HQ TWELFTH ARMY GROUP SITUATION MAP, TO ACCOMPANY G-3 REPORT NO. 244, SITUATION AS OF 041200 FEB. 1945); ends above the Walcheren/Tholen arcs, whose tops are at about y 855 [moved from 03-04 by -28,+6, the median offset of its five nearest towns]
+- box:
+  - 233
+  - 813
+  - 1595
+  - 1174
+  why: the title block's signature (C. T. Schmidt, for A. Franklin Kibler, Brigadier General, G.S.C., A.C. of S., G-3), left of the Walcheren arc, whose west end is at x 1585 [moved from 03-04 by -27,+6, the median offset of its five nearest towns]
+- box:
+  - 12
+  - 4834
+  - 1136
+  - 5975
+  why: the legend (U.S., British, Enemy, FRONT LINE sample, ticks and all) [moved from 03-04 by -26,+6, the median offset of its five nearest towns]
+- box:
+  - 5092
+  - 187
+  - 6197
+  - 518
+  why: 'the stamp (Auth: CG, Twelfth Army Group / Initials: C.T.S. / Date: 4 February 1945) top right, lettering and its frame, whose left edge is at about x 5410 on 02-12 (5085 on 02-03; box kept wide, no front east of x 3800 here); unsure run 5170,343 (the U of Auth); looked, overlay crop 4900,150 on 02-03: no front here [moved from 03-04 by -28,+3, the median offset of its five nearest towns]'
+- box:
+  - 3398
+  - 958
+  - 3481
+  - 1059
+  why: 'a boundary end near Helmond, heavy black, no map ticks (on 01-31 a magenta stub, run 3412,1010); looked, overlay crop 3150,800: not traced today, box kept in place from 01-31 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]'
+- box:
+  - 3021
+  - 1893
+  - 3457
+  - 2151
+  why: the boundary lettered TWENTY ONE / TWELFTH, west of Liege to Seraing, magenta, red ticks only from roads, no map ticks (unsure run 3104,1975; looked, overlay crop 2900,1750); the front is east of x 3880 here. Widened from 01-31, the sheet printed 11 px off its box [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 3689
+  - 2127
+  - 3965
+  - 2272
+  why: a boundary (heavy black line by the V Corps symbol, no map ticks) running east to the front near 3930,2260, magenta (unsure runs 3735,2149 and 3885,2186; looked, overlay crop 3600,1950); the front is blue and unbroken east of x 3960. Not traced on 01-31 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3782
+  - 2591
+  - 3869
+  - 2666
+  why: 'a boundary stub to the front near Houffalize, heavy black, no map ticks (on 01-31 run 3804,2628); looked, overlay crop 3700,2450: not traced today, box kept in place from 01-31; the front runs unbroken east of it [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 3746
+  - 4104
+  - 4186
+  - 4362
+  why: the boundary lettered TWELFTH / XXXXX / SIXTH on the map, south-west of Metz toward Courcelles and Pagny (merged with the Pagny box; the sheet prints about 8 px left of 02-03's), magenta, red ticks only from roads, no map ticks (unsure run 3983,4267; looked, overlay crop 3650,4000) [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 4230
+  - 3923
+  - 4406
+  - 4081
+  why: the same TWELFTH / SIXTH boundary's last stretch to the front, blue-drawn, ticks only from roads (looked, overlay crop 3700,3700); the front is at x 4390 and runs unbroken past the box [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 4049
+  - 2607
+  - 4116
+  - 2662
+  why: a short blue hook (run 26 at 4058,2633) on the outline of the enemy's hatched band beside the 246/32 symbols, a dead end with no map ticks, not the front; it put Prum on the US side (looked, overlay crop 3850,2450); the front runs unbroken west of x 3990 here [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 4563
+  - 1892
+  - 4679
+  - 2002
+  why: 'the Rhine''s own dark ink beside Bonn (run 33 at 4584,1953), magenta, not the front: the front is on the Siegfried line west of x 4100 here; looked, overlay crop 4300,1800. Darker sheet than 02-03, where it was not traced [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 4790
+  - 2261
+  - 4886
+  - 2352
+  why: the Rhine's dark ink below Linz (run 41 at 4808,2308), magenta, not the front; looked, overlay crop 4300,1800 [moved from 03-04 by -28,+4, the median offset of its five nearest towns]
+- box:
+  - 5031
+  - 2510
+  - 5117
+  - 2601
+  why: the Rhine's dark ink at Koblenz/Lahnstein (run 47 at 5045,2557), magenta, not the front; looked, overlay crop 4300,1800 [moved from 03-04 by -28,+4, the median offset of its five nearest towns]
+- box:
+  - 5363
+  - 2931
+  - 5479
+  - 3023
+  why: the Rhine's dark ink at Bingen (run 50 at 5394,2980), magenta, not the front; looked, overlay crop 4300,1800 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 593
+  - 1919
+  - 721
+  - 2039
+  why: the outline of a US division symbol (the 65) at the sheet's left edge (run 34 at 617,1985), not the front; looked, --look 617,1985. It put Amiens, Arras, Cambrai on the enemy side [moved from 03-04 by -27,+6, the median offset of its five nearest towns]
+- box:
+  - 5115
+  - 3834
+  - 5264
+  - 3903
+  why: a short blue hook (run 60 at 5170,3872) where the enemy band's outline meets the XC symbol, a dead end with no map ticks, not the front; looked, --look 5170,3872 [moved from 03-04 by -27,+3, the median offset of its five nearest towns]
+- box:
+  - 4981
+  - 2370
+  - 5097
+  - 2451
+  why: 'the Rhine''s own dark ink at Neuwied (run 42 at 5002,2415), magenta, not the front: the front is on the Siegfried line far west; looked, --look 5002,2415 and overlay crop 4800,2250. On this sheet the Koblenz, Linz, Bonn and Bingen ink boxes copied from 02-04 trace nothing and are kept in place [moved from 03-04 by -28,+4, the median offset of its five nearest towns]'
+- box:
+  - 3949
+  - 2182
+  - 4060
+  - 2252
+  why: a boundary's last stretch to the front east of the V Corps symbol (run 39 at 3992,2220), heavy black, no map ticks, magenta; the blue front runs on east of x 4030; looked, --look 3992,2220 and overlay crop 3750,2050. The sheet prints about 8 px right of 02-04's, whose boundary box [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 693
+  - 2059
+  - 781
+  - 2119
+  why: the outline of a US division symbol (the 89, under the 65) at the sheet's left edge where its base meets the Lys (run 48 at 706,2094), not the front; looked, overlay crop 450,1900. It put Amiens, Arras, Cambrai on the enemy side. The symbol sits about 90 px right of where 02-05's box was (570,1930,680,2040), so that box no longer catches it [moved from 03-04 by -27,+6, the median offset of its five nearest towns]
+- box:
+  - 4757
+  - 2173
+  - 4838
+  - 2254
+  why: the Rhine's own dark ink at Linz/Remagen (run 53 at 4770,2215), magenta, not the front; looked, overlay crop 4600,2100 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 4840
+  - 2311
+  - 5006
+  - 2432
+  why: the Rhine's own dark ink at Andernach/Neuwied (run 57 at 4903,2375), magenta, not the front; looked, overlay crop 4600,2100 [moved from 03-04 by -28,+4, the median offset of its five nearest towns]
+- box:
+  - 5063
+  - 2452
+  - 5113
+  - 2523
+  why: the Rhine's own dark ink below Koblenz (run 61 at 5056,2489), magenta, not the front; looked, overlay crop 4600,2100 [moved from 03-04 by -28,+4, the median offset of its five nearest towns]
+- box:
+  - 5046
+  - 2614
+  - 5177
+  - 2736
+  why: the Rhine's own dark ink at Boppard (run 65 at 5080,2677), magenta, not the front; looked, overlay crop 4600,2100 [moved from 03-04 by -28,+4, the median offset of its five nearest towns]
+- box:
+  - 5392
+  - 954
+  - 5477
+  - 1009
+  why: the Mohne lake's dark ink (run 27 at 5395,990), magenta, not the front; looked, overlay crop 5200,850 [moved from 03-04 by -28,+3, the median offset of its five nearest towns]
+- box:
+  - 5587
+  - 2871
+  - 5688
+  - 2937
+  why: the Rhine's dark ink at Wiesbaden/Mainz (run 76 at 5606,2903), magenta, not the front; looked, overlay crop 5400,2800 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5482
+  - 2891
+  - 5568
+  - 2952
+  why: the Rhine's dark ink at Eltville (run 77 at 5494,2920), magenta, not the front; looked, overlay crop 5400,2800 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5741
+  - 3303
+  - 5829
+  - 3370
+  why: the Rhine's dark ink at Gernsheim (run 81 at 5755,3341), magenta, not the front; looked, overlay crop 5600,3200 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3203
+  - 1172
+  - 3311
+  - 1308
+  why: a boundary loop near Turnhout (runs 33 at 3243,1237 and 35 at 3214,1287), heavy black, no map ticks, magenta, not the front; looked, overlay crop 2850,1100 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 2964
+  - 1184
+  - 3052
+  - 1305
+  why: the same boundary loop's west side at Turnhout (run 34 at 2970,1241), heavy black, no map ticks; looked, overlay crop 2850,1100 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 3647
+  - 2706
+  - 3754
+  - 2776
+  why: a boundary (First/Third army) heavy black running toward Houffalize, no map ticks (run 68 at 3670,2750), magenta; looked, overlay crop 3550,2650 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3395
+  - 2776
+  - 3488
+  - 2837
+  why: the same boundary's piece by the Ourthe (run 71 at 3408,2810), heavy black, no map ticks, magenta; looked, overlay crop 3300,2720 [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 5455
+  - 4565
+  - 5536
+  - 4626
+  why: the outline of an enemy-list symbol's base at the Rhine (run 100 at 5471,4600), a dead end, not the front; looked, overlay crop 5350,4500 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 2653
+  - 268
+  - 2726
+  - 324
+  why: a lake's blue ink near Gouda (run 1 at 2656,296), magenta, not the front; looked, overlay crop 2350,200 [moved from 03-04 by -28,+6, the median offset of its five nearest towns]
+- box:
+  - 2454
+  - 430
+  - 2552
+  - 491
+  why: river ink at Rotterdam (run 3 at 2460,461), magenta, not the front; looked, overlay crop 2350,200 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 2843
+  - 552
+  - 2951
+  - 603
+  why: the Waal's ink at Dordrecht (run 7 at 2865,580), magenta, not the front; looked, overlay crop 2350,200 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 3403
+  - 1043
+  - 3471
+  - 1104
+  why: the same boundary near Helmond/Deurne, lower down than the box above (run 25 at 3399,1073), heavy black, no map ticks, drawn blue by the tool; it put Eindhoven (Allied) on the enemy side; looked, overlay crop 3250,950 and --look 3399,1073 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 5515
+  - 4545
+  - 5596
+  - 4621
+  why: a short dead-end piece (run 95 at 5529,4586) on the outline of the enemy band beside the symbol near Karlsruhe, heavy black with no map ticks, not the front; looked, --look 5529,4586. Not traced on 02-06 (its Rhine boxes sit elsewhere) [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 2958
+  - 1371
+  - 3031
+  - 1442
+  why: a boundary's heavy black arc by Moll/Gheel (CDN/BR lettering, unsure run 2960,1416), no map ticks, not the front; looked, --look 2960,1416 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 3620
+  - 1654
+  - 3943
+  - 1829
+  why: a boundary (heavy black, no map ticks) running south-west from the front near 3915,1680 past the 107 symbol, blue-drawn by the tool with red ticks only from roads; its end at the front was the unsure run 3901,1689; looked, --look 3901,1689 and overlay crop 3800,1620 enlarged [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 6000
+  - 2610
+  - 6096
+  - 2701
+  why: the outline of an enemy-list symbol (the 25, under the 15) at the sheet's right edge (unsure run 57 at 6017,2661), not the front; it put Nastatten, Limburg an der Lahn and Darmstadt on the US side; looked, --look 6017,2661 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3360
+  - 2117
+  - 3476
+  - 2186
+  why: the TWENTY ONE / TWELFTH boundary's end at Seraing (run 44 at 3388,2153), magenta, no map ticks, not the front; the 02-08 box [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 5836
+  - 2775
+  - 5922
+  - 2832
+  why: a tiny blue stub in the outline of an enemy-list symbol (the 21) by Frankfurt at the sheet's right edge (run 60 at 5845,2805), not the front; with it Darmstadt read US and Nastatten, Limburg enemy by it alone; looked, overlay crop 5500,2600 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 1565
+  - 1008
+  - 1659
+  - 1084
+  why: the C of 'G. S. C.' in the title block's signature lines (unsure run 29 at 1575,1049), lettering, not the front; the 02-08 signature box ends at x 1570 and the C stands past it; the Walcheren arc's west end is above, at y 930; looked, overlay crop 1350,850 [moved from 03-04 by -27,+6, the median offset of its five nearest towns]
+- box:
+  - 4927
+  - 4610
+  - 5010
+  - 4673
+  why: the base of the 14 symbol's leader at the Rhine below Saverne (unsure run 84 at 4944,4642), a short stub, no map ticks, not the front; looked, --look 4944,4642 [moved from 03-04 by -28,+3, the median offset of its five nearest towns]
+- box:
+  - 3944
+  - 4778
+  - 4048
+  - 4850
+  why: a boundary (thin heavy black line, no map ticks, running to the junction by Saint-Vincent), blue-drawn, unsure run 90 at 3968,4819; looked, --look 3968,4819 [moved from 03-04 by -26,+5, the median offset of its five nearest towns]
+- box:
+  - 3590
+  - 2129
+  - 3701
+  - 2183
+  why: the TWENTY ONE / TWELFTH boundary's eastern piece beyond the 02-09 Seraing box, heavy black, no map ticks, magenta (unsure run 3609,2156); the boundary runs on east to the front near 3920,2260; looked, overlay crop 3000,1900 [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 3312
+  - 2123
+  - 3383
+  - 2177
+  why: the TWENTY ONE / TWELFTH boundary's west end at Seraing (run 23 at 3310,2146), heavy black, no map ticks, magenta, not the front (it put Verviers on the enemy side and carried Charleroi, Namur, Huy alone); the sheet prints 8 px up from 02-10's, and the 02-10 Seraing box (3340,2125) now sits east of it; looked, overlay crop 2950,1900 [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 1500
+  - 768
+  - 1588
+  - 864
+  why: a stroke of the signature (C. T. Schmidt, the tail of the t at about 1530,860) in the title block, lettering, not the front (run 10 at 1530,876, turned enemy by its own ticks; it read as a stub above the Walcheren arc, whose west end is at y 900+); looked, overlay crop 1400,700 [moved from 03-04 by -27,+6, the median offset of its five nearest towns]
+- box:
+  - 4131
+  - 3138
+  - 4213
+  - 3203
+  why: a short magenta stub (unsure run at 4165,3214) on the outline of the enemy's hatched band beside the 560 symbol, a dead end with no map ticks, not the front; looked, overlay crop 3900,3000 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3971
+  - 3033
+  - 4048
+  - 3088
+  why: a short blue hook (run 34 at 4003,3105) on the outline of the enemy band beside the 9 symbol, a dead end with no map ticks, not the front; it read Bitburg partly own; looked, overlay crop 3900,3000 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3353
+  - 2006
+  - 3674
+  - 2165
+  why: the TWENTY ONE / TWELFTH boundary from Seraing east-north-east past Verviers' north (heavy black, no map ticks, magenta, red ticks only from roads; unsure run 3460,2053); the sheet prints about 15 px up-left of 02-14, so the 02-14 boxes missed it; looked, overlay crop 3300,1800 [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 3698
+  - 1951
+  - 3788
+  - 2003
+  why: the same boundary's last stretch to the front at about 3760,2005 (heavy black, no map ticks, magenta; unsure run 3717,2014); the blue ticked front begins east of x 3758; looked, overlay crop 3300,1800 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3665
+  - 765
+  - 3723
+  - 819
+  why: the last stretch of the Helmond boundary (heavy black, no map ticks) joining the front at about 3710,803, magenta (unsure run 3695,791); the ticked front runs on east of x 3710; looked, --look 3695,791 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 3347
+  - 1074
+  - 3425
+  - 1210
+  why: the Helmond/Deurne boundary's lower piece (heavy black, no map ticks, ticks only from roads), magenta (unsure run 3357,1140); looked, overlay crop 2800,650 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 3128
+  - 1192
+  - 3311
+  - 1328
+  why: the same boundary's loop near Turnhout/Neerpelt, heavy black, no map ticks, drawn blue by the tool; looked, overlay crop 2800,650; no front within 400 px (the front is the Maas, east of x 3640) [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 2964
+  - 1264
+  - 3027
+  - 1405
+  why: the boundary's west side by Turnhout/Moll (heavy black, no map ticks, magenta, unsure run 2977,1329); runs on to the FIRST CDN / SECOND BR lettering; looked, overlay crop 2800,650 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 3521
+  - 1452
+  - 3659
+  - 1566
+  why: the Twenty One/Twelfth boundary's end at the front near Roermond (heavy black, no map ticks, magenta, unsure runs 3578,1486 and 3535,1547); the ticked blue front starts at x 3645; looked, overlay crop 2800,650 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 3280
+  - 1539
+  - 3546
+  - 1738
+  why: the same boundary's middle, SECOND BR / NINTH U.S. lettering to Mechelen (heavy black, no map ticks, red ticks only from roads, magenta, unsure run 3392,1647); looked, overlay crop 2800,650 [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 3043
+  - 1730
+  - 3235
+  - 1809
+  why: the same boundary's west piece at Herck-la-Ville (heavy black, no map ticks, magenta, unsure run 3125,1753); looked, overlay crop 2800,650 [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 4515
+  - 3974
+  - 4612
+  - 4043
+  why: a short magenta stub (unsure run at 4554,3993, a blunt dead end, no map ticks) on the outline of the enemy's hatched band beside the 347 symbol, not the front (the front runs 150 px west, at x 4400 here); looked, overlay crop 4150,3650 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3338
+  - 1173
+  - 3426
+  - 1244
+  why: the Helmond/Deurne boundary's lowest piece (run 29 at 3340,1204), heavy black, no map ticks, magenta, not the front (Eindhoven and Charleroi read by it); looked, overlay crop 3150,1000 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 4210
+  - 877
+  - 4298
+  - 946
+  why: the Rhine's own dark ink at Wesel (run 26 at 4207,909), magenta, not the front; looked, overlay crop 4000,700 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 4224
+  - 1145
+  - 4311
+  - 1219
+  why: the Rhine's own dark ink above Duisburg (run 28 at 4219,1183), magenta, not the front; looked, overlay crop 4000,700 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 4503
+  - 1838
+  - 4599
+  - 1908
+  why: the Rhine's own dark ink above Bonn (run 33 at 4509,1871), magenta, not the front (the front is on the Siegfried line west of x 4100); it put Much, Waldbrol, Siegburg, Bad Godesberg and others enemy alone; looked, overlay crop 4300,1650 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 299
+  - 4220
+  - 436
+  - 4279
+  why: the Seine's blue at Argenteuil (run 56 at 325,4250), not the front; it put Amiens, Saint-Quentin, Laon, Soissons, Beauvais on the enemy side; looked, overlay crop 100,4000 [moved from 03-04 by -26,+6, the median offset of its five nearest towns]
+- box:
+  - 3672
+  - 1980
+  - 3791
+  - 2020
+  why: the Twenty One/Twelfth boundary's last stretch to the front at about 3760,1985 (heavy black, no map ticks, magenta, unsure run 32 at 3698,1994); the 02-19 box [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3862
+  - 2070
+  - 3919
+  - 2115
+  why: a short blue hook (run 34 at 3872,2083) on the outline of the enemy band beside the 82 symbol, a dead end with no map ticks, not the front; looked, overlay crop 3500,1850 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3960
+  - 2142
+  - 4004
+  - 2192
+  why: a short blue stub (run 35 at 3967,2160) where the V Corps boundary meets the front, a dead end, no map ticks, not the front; the front runs on east of x 3980; looked, overlay crop 3500,1850 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3940
+  - 1126
+  - 4016
+  - 1186
+  why: a short blue hook (run 19 at 3950,1147) on the outline of the enemy 190 symbol east of the Maas, a dead end, not the front; looked, overlay crop 3750,1000 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 4029
+  - 2333
+  - 4096
+  - 2383
+  why: a short magenta hook (unsure run 38 at 4038,2341) on the outline of the enemy band beside the 69 symbol, a dead end with no map ticks, not the front (the front runs on at x 4090 here); looked, overlay crop 3500,1850 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5000
+  - 2403
+  - 5066
+  - 2484
+  why: the outline of the enemy's army-group box (CINC) at Neuwied (run 40 at 5019,2439), a hook, not the front; looked, overlay crop 4820,2290 [moved from 03-04 by -28,+4, the median offset of its five nearest towns]
+- box:
+  - 3250
+  - 2675
+  - 3528
+  - 2856
+  why: the First/Third army boundary (FIRST / XXXX / THIRD lettering), heavy black, no map ticks, magenta, red ticks only from roads (unsure run 44 from 3252,2830 to 3485,2684); looked, overlay crop 3160,2600; the front is east of x 3750 here [moved from 03-04 by -27,+5, the median offset of its five nearest towns]
+- box:
+  - 5541
+  - 2881
+  - 5637
+  - 2932
+  why: the Rhine's dark ink under the Wiesbaden symbols' frame (run 48 at 5563,2893), not the front; looked, overlay crop 5360,2740 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3961
+  - 2998
+  - 4019
+  - 3053
+  why: a short blue hook (run 49 at 3974,3011) on the outline of the enemy band beside the 279 symbol, a dead end with no map ticks, not the front; looked, overlay crop 3810,2960 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5170
+  - 3676
+  - 5319
+  - 3765
+  why: the outline of the FIRST army symbol at Kaiserslautern (runs 63, 64 and 66, around 5183-5278,3691-3731), a box, not the front; looked, overlay crop 5030,3560 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5989
+  - 4046
+  - 6064
+  - 4101
+  why: a short blue stub (run 70 at 5997,4069) on the outline of the enemy G symbol at Bruchsal, not the front; looked, overlay crop 5800,3920 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5853
+  - 4285
+  - 5918
+  - 4344
+  why: a short blue hook (run 73 at 5861,4301) on the outline of the enemy 216 symbol at Durlach, not the front; looked, overlay crop 5660,4150 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5230
+  - 4741
+  - 5301
+  - 4797
+  why: a magenta hook (unsure run 79 at 5254,4759) on the outline of the 3 symbol at Vendenheim, a dead end, not the front; looked, overlay crop 5136,4571 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 4594
+  - 4914
+  - 4802
+  - 5019
+  why: the boundary lettered SEVENTH / XXXX / FIRST FR., heavy black, no map ticks, magenta (unsure runs 83 and 84 at 4721,4931 and 4650,4958); looked, overlay crop 4500,4800; the front is east of x 5200 here [moved from 03-04 by -26,+4, the median offset of its five nearest towns]
+- box:
+  - 5286
+  - 5090
+  - 5347
+  - 5146
+  why: a short blue hook (run 86 at 5297,5105) on the outline of the 405 symbol, not the front (the front runs at x 5250 beside it); looked, overlay crop 5120,4980 [moved from 03-04 by -25,+4, the median offset of its five nearest towns]
+- box:
+  - 5341
+  - 5160
+  - 5402
+  - 5211
+  why: a short blue hook (run 88 at 5350,5173) on the outline of the 716 symbol, not the front; looked, overlay crop 5120,4980 [moved from 03-04 by -25,+4, the median offset of its five nearest towns]
+- box:
+  - 6040
+  - 5352
+  - 6096
+  - 5409
+  why: a short blue hook (run 92 at 6053,5371) on the outline of the 189 symbol in the Upper Rhine list box, not the front; looked, overlay crop 5850,5220 [moved from 03-04 by -25,+4, the median offset of its five nearest towns]
+- box:
+  - 3764
+  - 1898
+  - 3901
+  - 2003
+  why: the Twenty One/Twelfth boundary's last stretch to the front, past the 02-20 box's end (heavy black, no map ticks, magenta from 3775,1998 to 3875,1940, red ticks only from roads; unsure run 3825,1975), with the short blue hook at 3794,1928 beside it; it read Verviers enemy; the ticked front runs at x 4000 and east here; looked, overlay crop 3500,1800 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5693
+  - 2770
+  - 5774
+  - 2821
+  why: a short magenta stub (unsure runs 5733,2803 and 5715,2812) on the outline of the enemy 11 symbol at Wiesbaden's list box, a dead end with no map ticks, not the front; it put Braubach, Nastatten, Marburg and Limburg on the US side; looked, overlay crop 5550,2700 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5161
+  - 5551
+  - 5223
+  - 5607
+  why: a short magenta hook (unsure run 5187,5588) at the foot of the 805 symbol's leader at Colmar, a dead end, not the front; looked, overlay crop 5050,5480 [moved from 03-04 by -26,+4, the median offset of its five nearest towns]
+- box:
+  - 3981
+  - 2321
+  - 4043
+  - 2376
+  why: a short blue hook (run 22 at 4001,2355) on the outline of the enemy band beside the 69 symbol, a dead end with no map ticks, not the front (the front runs on at x 4090 here); the 02-20 box moved +16,+24 sits 35 px east of it; it decided Verviers; looked, overlay crop 3850,2250 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3946
+  - 1840
+  - 4083
+  - 1925
+  why: 'the TWENTY ONE / TWELFTH boundary''s last stretch to the front near Aachen (unsure run 3997,1885; heavy black, no map ticks, magenta; the red ticks stand on a road, none on the map); looked, overlay crop 3800,1680 on 02-22: it runs from the VII Corps symbol east-north-east to meet the front at about 3925,1905 to 4065,1865, a boundary, not the front. It puts Verviers enemy when it traces. [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 5200
+  - 3862
+  - 5264
+  - 3951
+  why: a short hook (unsure run 5203,3906) on the outline of the enemy band beside the XC symbol at Waldfischbach, a blunt dead end with no map ticks; looked, overlay crop 4900,3700 on 02-22; the 02-21 box for the same hook (5122,3854,5252,3904) landed above it. It put Pirmasens US-side by run 48. [moved from 03-04 by -27,+3, the median offset of its five nearest towns]
+- box:
+  - 4798
+  - 5624
+  - 5216
+  - 5699
+  why: the top border of the Library of Congress Division of Maps stamp (APR 15 1945) at the sheet's foot below Colmar (unsure runs 5071,5657 and 4840,5664, and blue pieces between), a ruled line, not the front; the front runs at x 5100-5150 above it; looked, overlay crop 4700,5450 on 02-22. [moved from 03-04 by -26,+4, the median offset of its five nearest towns]
+- box:
+  - 3773
+  - 1860
+  - 3850
+  - 1920
+  why: a short magenta hook (unsure run 21 at 3794,1887) in the heavy mass west of the VII corps symbol at Aachen, on the Twenty One/Twelfth boundary's tangle, a dead end with no map ticks on either side, not the front (the front is the Roer line east of it); looked, --look 3794,1887 and overlay crop 3700,1840; new on 02-23, the 02-22 boundary box [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3773
+  - 2013
+  - 3845
+  - 2056
+  why: a short blue stub (run 24 at 3791,2031) at the top-left corner of the III corps symbol beside Aachen, on a river's blue ink and the symbol's outline, a dead end with no map ticks, not the front; looked, --look 3791,2031 and overlay crop 3700,1840 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5876
+  - 2779
+  - 5962
+  - 2836
+  why: a short blue stub (run 33 at 5904,2801) on the outline of the 159 enemy-list symbol by Frankfurt at the sheet's right edge, a dead end, not the front (the 02-22 box [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 2981
+  - 197
+  - 3049
+  - 252
+  why: the outline of the TWENTY FIRST army group symbol near Utrecht (run 1 at about 3010,215), a short blue hook, no map ticks, not the front; looked, overlay crop 2600,100 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 3921
+  - 1882
+  - 3983
+  - 1937
+  why: a short blue stub (run 33 at 3948,1899) at the right edge of the VII Corps symbol beside Aachen, the Twenty One/Twelfth boundary's start; the boundary runs from the symbol east-north-east to the front at about 4100,1840 (heavy black, no map ticks) and stays boxed with the boxes above; looked, overlay crop 3700,1800 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3676
+  - 2567
+  - 3748
+  - 2617
+  why: the First/Third army boundary's piece at Vielsalm (run 41 at 3717,2585), heavy black, no map ticks, a short blue stub with red ticks standing on a road; looked, overlay crop 3600,2480 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3884
+  - 4748
+  - 3973
+  - 4810
+  why: the Twelfth/Sixth army boundary at the junction by Saint-Nicolas-de-Port (run 59 at 3934,4769), heavy black, no map ticks; it put Verdun enemy by that run; looked, overlay crop 3780,4650 [moved from 03-04 by -26,+5, the median offset of its five nearest towns]
+- box:
+  - 4415
+  - 5042
+  - 4548
+  - 5122
+  why: the SEVENTH / XXXX / FIRST FR. boundary near Baccarat (run 66 at 4482,5072), heavy black, no map ticks; it put Epinal and Saint-Die enemy; looked, overlay crop 4380,4980 [moved from 03-04 by -26,+5, the median offset of its five nearest towns]
+- box:
+  - 4883
+  - 4765
+  - 5015
+  - 4851
+  why: the same SEVENTH / FIRST FR. boundary's last stretch toward the Rhine above Strasbourg (unsure runs 62 at 4933,4810 and 60 at 4977,4784), heavy black, no map ticks; looked, overlay crop 4850,4700 [moved from 03-04 by -26,+4, the median offset of its five nearest towns]
+- box:
+  - 4826
+  - 3736
+  - 4888
+  - 3783
+  why: a short blue hook (run 48 at about 4848,3760) at the lower-left corner of the enemy corps symbol (XIII) beside Ottweiler, on the symbol's outline, a dead end with no map ticks, not the front; with it Kaiserslautern (enemy, far east of the front) read own; looked, overlay crop 4300,3450 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 4223
+  - 3472
+  - 4265
+  - 3532
+  why: a short magenta hook (unsure, no chain, run at 4243,3497) inside the enemy band's outline west of the XIII/416 symbols near Remich, a dead end with no map ticks, not the front (the blue ticked front runs unbroken beside it, 30 px east); looked, overlay crop 4000,3350 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5665
+  - 2975
+  - 5755
+  - 3075
+  why: the Rhine's own dark ink at Mainz (unsure run 5695,3008, magenta), not the front; looked, overlay crop 5000,2400 on 02-27 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5709
+  - 3337
+  - 5794
+  - 3432
+  why: the Rhine's own dark ink at Worms (unsure run 5736,3377, magenta), not the front; looked, overlay crop 5000,2400 on 02-27; lower than 02-26's Gernsheim box [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 5801
+  - 3598
+  - 5881
+  - 3708
+  why: the Rhine's own dark ink at Ludwigshafen (unsure run 5837,3642, magenta), not the front; looked, overlay crop 5637,3492 on 02-27 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 4252
+  - 3032
+  - 4327
+  - 3082
+  why: a short magenta hook (unsure run 4288,3050) on the outline of the enemy 9 symbol east of Wittlich, a dead end with no ticks; looked, overlay crop 4088,2900 on 02-27 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3832
+  - 631
+  - 3885
+  - 668
+  why: a short blue stub (run 9 at 3849,644) on the outline of the 4 CDN symbol at Kleve, not the front; looked, --look 3850,645 on 02-27. It alone decided Kleve (enemy), against runs 2 and 5 (own) [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 4112
+  - 1742
+  - 4178
+  - 1799
+  why: 'the first stretch of the army boundary where it leaves the front at about 4145,1745 north-east of Julich (run 38 at 4124,1746): heavy black running down-left to the 104 symbol, no map ticks; the front goes on east along the ticked arc (run 37 at 4173,1734); looked, --look 4120,1745 on 02-27. It alone made Julich enemy [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 381
+  - 4377
+  - 446
+  - 4417
+  why: the outline of the SHAEF symbol in Paris (run 66 at 402,4395), a short blue stub, not the front; looked, overlay crop 202,4245 on 02-27. It alone made Epernay enemy [moved from 03-04 by -26,+6, the median offset of its five nearest towns]
+- box:
+  - 3368
+  - 1033
+  - 3433
+  - 1103
+  why: the Helmond boundary's piece at Helmond/Geldrop (run 30 at 3387,1058), heavy black, no map ticks, not the front (the sheet printed about 14 px from 02-26's boxes); looked, overlay crop 3187,908 on 02-27. It alone made Eindhoven enemy [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 5755
+  - 4120
+  - 5800
+  - 4196
+  why: a short blue stub (run 63 at 5776,4154) on the outline of the enemy band between Landau and Karlsruhe, a dead end with no map ticks, not the front; looked, overlay crop 5576,4004 on 02-27. It alone made Karlsruhe and Heidelberg own [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 3897
+  - 2828
+  - 3962
+  - 2873
+  why: a short blue stub (at about 3930,2847) on the outline of the 6 symbol at Arzfeld, a dead end with no map ticks, not the front (the front runs at x about 4000 here); looked, overlay crop 3600,2450 on 02-27 [moved from 03-04 by -27,+4, the median offset of its five nearest towns]
+- box:
+  - 4050
+  - 1796
+  - 4132
+  - 1891
+  why: 'the Twenty One/Twelfth boundary''s piece between the moved box at its start near Julich (about 4109,1712) and the moved Aachen box: heavy black running down-left from the front, no map ticks, magenta (unsure run 4083,1829); looked, --look 4083,1829 and overlay crop 3850,1650: no map ticks, the blue ticked front is east of x 4130 here. Added by hand, not moved from 02-28 (the front''s offset left a gap) [moved from 03-04 by -27,+4, the median offset of its five nearest towns] [5 March: widened up to y 1796 so that run 47s middle (4084,1809) falls inside]'
+- box:
+  - 3613
+  - 1421
+  - 3683
+  - 1453
+  why: 'a boundary end at the front by Roermond (the SECOND BR. / NINTH U.S. boundary, heavy black, no map ticks), a magenta stub (run 22 at 3679,1428, unsure); looked, overlay crop 3500,1300: the blue ticked front runs on either side of it [moved from 03-04 by -28,+5, the median offset of its five nearest towns]'
+- box:
+  - 3982
+  - 958
+  - 4029
+  - 985
+  why: a short blue stub on the outline of the hatched 15 symbol by Rheinberg (run 14 at 4017,967), a dead end with no map ticks, not the front; looked, --look 3990,967 and overlay crop 3700,450 [moved from 03-04 by -28,+5, the median offset of its five nearest towns]
+- box:
+  - 4176
+  - 1613
+  - 4226
+  - 1708
+  why: 'the Twenty One/Twelfth army boundary''s first stretch where it leaves the front near Grevenbroich/Erkelenz (heavy black, no map ticks; run 23 at 4168,1676, a blue stub that turned Julich enemy); looked, overlay crop 3900,1400: the black line runs south-west from the front at about 4180,1570 past the 99 symbol, with no ticks; boxes 107 and 112 (moved from 03-02) sit further south-west [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 1402
+  - 1302
+  - 1462
+  - 1362
+  why: 'dark 90, 4 March: a stray piece of heavy road/river ink far behind the front near Antwerp (unsure run at 1459,1326), no map ticks, not the front [moved from 03-04 by -27,+6, the median offset of its five nearest towns]'
+- box:
+  - 1453
+  - 1319
+  - 1533
+  - 1399
+  why: 'dark 90, 4 March: a stray piece of heavy ink far behind the front near Antwerp (unsure run at 1520,1353), not the front [moved from 03-04 by -27,+6, the median offset of its five nearest towns]'
+- box:
+  - 2653
+  - 1408
+  - 2723
+  - 1478
+  why: 'dark 90, 4 March: a stray piece of heavy ink in Belgium behind the front (unsure run at 2716,1438), not the front [moved from 03-04 by -28,+5, the median offset of its five nearest towns]'
+- box:
+  - 903
+  - 2236
+  - 963
+  - 2296
+  why: 'dark 90, 4 March: a stray piece of heavy ink in northern France far behind the front (unsure run at 960,2260), not the front [moved from 03-04 by -27,+6, the median offset of its five nearest towns]'
+- box:
+  - 5652
+  - 2719
+  - 5692
+  - 2759
+  why: 'dark 90, 4 March: a stray piece of heavy ink on the German side, far east of the front (run at 5699,2735), not the front [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 5744
+  - 2888
+  - 5804
+  - 2948
+  why: 'dark 90, 4 March: a stray piece of heavy ink on the German side, far east of the front (run at 5801,2914), not the front [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 5716
+  - 2917
+  - 5766
+  - 2967
+  why: 'dark 90, 4 March: a stray piece of heavy ink on the German side, far east of the front (unsure run at 5768,2938), not the front [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 5239
+  - 2908
+  - 5309
+  - 2978
+  why: 'dark 90, 4 March: a stray piece of heavy ink on the Rhine east of Koblenz (unsure run at 5301,2939), not the front [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 317
+  - 4250
+  - 367
+  - 4300
+  why: 'dark 90, 4 March: stray ink of the Paris built-up area, bottom left (unsure run at 368,4269) [moved from 03-04 by -26,+6, the median offset of its five nearest towns]'
+- box:
+  - 323
+  - 4377
+  - 383
+  - 4437
+  why: 'dark 90, 4 March: stray ink of the Paris built-up area, bottom left (unsure run at 379,4401) [moved from 03-04 by -26,+6, the median offset of its five nearest towns]'
+- box:
+  - 453
+  - 4456
+  - 513
+  - 4516
+  why: 'dark 90, 4 March: stray ink of the Paris built-up area, bottom left (unsure run at 509,4480) [moved from 03-04 by -26,+6, the median offset of its five nearest towns]'
+- box:
+  - 513
+  - 4458
+  - 583
+  - 4528
+  why: 'dark 90, 4 March: stray ink of the Paris built-up area, bottom left (unsure run at 574,4487) [moved from 03-04 by -26,+6, the median offset of its five nearest towns]'
+- box:
+  - 637
+  - 4538
+  - 687
+  - 4588
+  why: 'dark 90, 4 March: stray ink of the Paris built-up area, bottom left (unsure run at 688,4557) [moved from 03-04 by -26,+6, the median offset of its five nearest towns]'
+- box:
+  - 5653
+  - 4373
+  - 5723
+  - 4443
+  why: 'dark 90, 4 March: a stray piece of heavy ink on the German side east of the Rhine (run at 5715,4405), not the front [moved from 03-04 by -27,+3, the median offset of its five nearest towns]'
+- box:
+  - 4262
+  - 1086
+  - 4312
+  - 1136
+  why: 'dark 90, 4 March: a short magenta hook (unsure run at 4315,1106) on the outline of the 176 symbol east of the Rhine, a dead end, no map ticks, not the front [moved from 03-04 by -28,+5, the median offset of its five nearest towns]'
+- box:
+  - 3776
+  - 1151
+  - 3856
+  - 1231
+  why: 'dark 90, 4 March: a short magenta hook (unsure run at 3844,1186) on the outline of the enemy symbol east of the Maas, a dead end, not the front (03-03''s box 69 stands 100 px off it) [moved from 03-04 by -28,+5, the median offset of its five nearest towns]'
+- box:
+  - 4049
+  - 997
+  - 4083
+  - 1031
+  why: 'dark 90, 4 March: the Second British/Ninth US boundary''s last stretch to the front at Rheinberg (run at 4094,1009), heavy black, no map ticks; --look 4060,1030: it joins the front''s heavy line from the west; the ticked front runs 25 px east of the box [moved from 03-04 by -28,+5, the median offset of its five nearest towns]'
+- box:
+  - 3916
+  - 1057
+  - 3960
+  - 1101
+  why: 'dark 90, 4 March: the same boundary, a stub west of the 35 symbol (run at 3966,1074), heavy black, no map ticks, not the front [moved from 03-04 by -28,+5, the median offset of its five nearest towns]'
+- box:
+  - 4178
+  - 1524
+  - 4235
+  - 1564
+  why: 'dark 90, 4 March: the Twenty One/Twelfth army boundary''s first stretch where it leaves the Rhine front south-west of Neuss, past Grevenbroich (run with its middle at 4233,1537; heavy black, no map ticks); the ticked Rhine front (the loop at 4290-4330,1430-1515 and east) is outside the box. Tested: without it this stretch''s run read Grevenbroich enemy; a box taking in 4310,1445 and 4271,1489 as well cut the ticked front, 24 km shorter, and was dropped [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 4191
+  - 2397
+  - 4235
+  - 2441
+  why: 'dark 90, 4 March: a short magenta hook (unsure run 4240,2415) on the outline of the enemy 26 symbol, a dead end, no map ticks, not the front [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 4236
+  - 2996
+  - 4280
+  - 3040
+  why: 'dark 90, 4 March: the Wittlich hook (unsure run 4285,3014) on the outline of the enemy 2 symbol, a dead end, no map ticks, not the front (03-03''s box stood at 4228,3050) [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 4472
+  - 3956
+  - 4512
+  - 3996
+  why: 'dark 90, 4 March: a small loop (unsure run 4519,3972) on the outline of the 778 symbol near Perl, a dead end, not the front (the ticked front runs 80 px west) [moved from 03-04 by -27,+4, the median offset of its five nearest towns]'
+- box:
+  - 4195
+  - 1430
+  - 4275
+  - 1523
+  why: '5 March: the middle of the Ninth/First army boundary from the Rhine at Neuss south-west past Grevenbroich (run 46 at 4236,1483), heavy black, no map ticks (looked, overlay crop 4150,1330 and look 4230,1560); on 03-04 only its ends were boxed, here the line ran whole between the boxes and put Julich and Grevenbroich on its own roads ticks'
+- box:
+  - 5648
+  - 4298
+  - 5715
+  - 4352
+  why: '5 March: a short magenta hook (run 94, unsure, middle 5681,4325) at the Rhine by Lauterbourg where the enemy band outline and the Lauter line meet the river, a dead end with no map ticks, not the front; looked, overlay crop 5100,4150: it put Landau, Karlsruhe and Heidelberg on the US side; the front runs along the Moder south of Haguenau, red ticks on the map ticks'
+- box:
+  - 4485
+  - 1605
+  - 4530
+  - 1665
+  why: '5 March: a short blue hook (about 4505,1635) on the 476 z.b.V. symbols outline, a dead end with no map ticks, the Wupper blue beside it; not the front (look 4500,1632; overlay crop 4250,1330); the front runs unbroken west of x 4440'
+- box:
+  - 4445
+  - 1740
+  - 4510
+  - 1780
+  why: '5 March: a short blue hook (about 4475,1760) on the 12 symbols outline and the blue river beside it, east of the front, a dead end with no map ticks, not the front (look 4475,1760); the front is at x 4420 here'
+- box:
+  - 4635
+  - 2010
+  - 4710
+  - 2085
+  why: '5 March: the Rhines own blue above Bonn (magenta, unsure run 4675,2041), not the front: the US hold only the west side of the front and the Rhine is not reached here (look 4660,2040; overlay crop 4250,1330); the front is west of x 4560'
+flip:
+- at:
+  - 2125
+  - 868
+  why: '5 March, dark 70: the Tholen arc (unsure runs 2125,868 and 2073,891, no ticks of its own found, a short arc with a hooked west end): the map ticks hang south of the arc (look 2125,868 and 2073,891; overlay crop 2030,800) and the tool red ticks stood on the north; turned to put the ticked side south, as the Walcheren and Beveland arcs'
+- at:
+  - 2073
+  - 891
+  why: '5 March: the arcs west hook, turned with the Tholen arc (same look)'
+checked:
+- at:
+  - 4294
+  - 1384
+  why: 'dark 90, 4 March: the Rhine front''s heavy line at Neuss, a short piece between the traced front north and south (unsure run 4321,1361-1391; running south, so its right/west side is the US); looked, overlay crop 3800,950: ticks on the west [centre moved from 03-04 by -27,+4] ; 5 March: still needed (unsure at 4304,1372 without it)'
+- at:
+  - 4085
+  - 2448
+  why: '5 March, dark 70: a short piece in the black mass of the Siegfried band south of Heimbach (unsure run 4085,2448; overlay crop 4000,2330 and the Kyll/Eifel crop 4000,2150); red ticks on the west, the US divisions (69, 106) west, so it runs the same way as the traced front north and south of it'
+- at:
+  - 4082
+  - 960
+  why: '5 March, dark 70: unsure run, the west part of the Wesel bridgehead''s south side (Rhine west bank, German bridgehead north, 15 and the Ninth Army divisions 35, 84, 53 south); heavy black mass, tool''s red ticks stand south on the map''s own hanging ticks (looked, look 4020,990 4180,1030; overlay crop 3950,930), runs the way of the traced Rhine front at its two ends'
+- at:
+  - 4194
+  - 1016
+  why: '5 March, dark 70: unsure run, the middle of the Wesel bridgehead''s south side (Rhine west bank, German bridgehead north, 15 and the Ninth Army divisions 35, 84, 53 south); heavy black mass, tool''s red ticks stand south on the map''s own hanging ticks (looked, look 4020,990 4180,1030; overlay crop 3950,930), runs the way of the traced Rhine front at its two ends'
+- at:
+  - 4238
+  - 1030
+  why: '5 March, dark 70: unsure run, the east end of the Wesel bridgehead''s south side (Rhine west bank, German bridgehead north, 15 and the Ninth Army divisions 35, 84, 53 south); heavy black mass, tool''s red ticks stand south on the map''s own hanging ticks (looked, look 4020,990 4180,1030; overlay crop 3950,930), runs the way of the traced Rhine front at its two ends'
+# Reviewed: a darker print than 03-04, so the default cutoff (70) is right (90 drowned in roads and lettering). Overlay crop 4150,1230 looked at: the front follows the Rhine at Neuss with its ticks on the west, one short break and a small hook at the heavy S-bend; Grevenbroich stays own. The Wesel bridgehead's south side is settled by the divisions (US south, the German bridgehead north), the map's ticks lost in the black mass. 81 of 81 towns as 03-04; about 776 km.
