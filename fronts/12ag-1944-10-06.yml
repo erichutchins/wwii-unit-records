@@ -1,0 +1,59 @@
+item: ict21123
+date: 1944-10-06
+as_of: 1200 HRS 6 OCTOBER 1944
+title: "Situation 1200 hrs 6 October 1944, Twelfth Army Group (SECRET struck through above; no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-10-07
+exclude:
+  - {box: [190, 183, 2490, 598], why: "title block lettering (SECRET, the situation line); 10-07's box shifted (+24,-8); catches 30 stretches of lettering, none front (no ticked front is drawn on this sheet)"}
+  - {box: [4274, 1114, 4404, 1214], why: "stretch at 4323,1171: boundary (Twenty One / Twelfth) at Geilenkirchen, plain heavy line, no ticks, unsure stretch at 4318,1164; 10-07's box shifted (+24,-8); not front"}
+  - {box: [6064, 3634, 6164, 3724], why: "stretch at 6104,3669: Siegfried Line hatched feature near Landau/Kandel, stretch at 6105,3672 traces as ticked from the hatching, so the box cuts a ticked stretch; 10-07's box shifted (+24,-8); not front"}
+  - {box: [4516, 1010, 4606, 1100], why: "stretch at 4542,1076: plain heavy boundary (army group/army/corps), no ticks of its own (unsure from road ticks beside it or nothing to tell; looked at on --look or the overlay); not front"}
+  - {box: [2133, 1761, 2223, 1851], why: "stretch at 2173,1797: plain heavy boundary (army group/army/corps), no ticks of its own (unsure from road ticks beside it or nothing to tell; looked at on --look or the overlay); not front"}
+  - {box: [2493, 3294, 2583, 3384], why: "stretch at 2547,3330: plain heavy boundary (army group/army/corps), no ticks of its own (unsure from road ticks beside it or nothing to tell; looked at on --look or the overlay); not front"}
+  - {box: [5595, 3384, 5685, 3474], why: "stretch at 5656,3420: Siegfried Line double hatched line, no ticks on its edge (--look); not front"}
+  - {box: [6194, 4829, 6284, 4919], why: "stretch at 6233,4890: the catalogue stamp 'G5701s' at the sheet's lower right (lettering), not front"}
+  - {box: [6159, 4812, 6249, 4902], why: "stretch at 6233,4890: the catalogue stamp 'G5701s' at the sheet's lower right (lettering), not front"}
+  - {box: [2517, 1638, 2607, 1728], why: "stretch at 2562,1683: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [2275, 1701, 2365, 1791], why: "stretch at 2320,1746: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [1758, 1948, 1848, 2038], why: "stretch at 1803,1993: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [5006, 1805, 5096, 1895], why: "stretch at 5051,1850: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [4870, 1881, 4960, 1971], why: "stretch at 4915,1926: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [4376, 2011, 4466, 2101], why: "stretch at 4421,2056: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [4774, 2276, 4864, 2366], why: "stretch at 4819,2321: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [1425, 2456, 1515, 2546], why: "stretch at 1470,2501: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [4587, 2543, 4677, 2633], why: "stretch at 4632,2588: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [4202, 3018, 4292, 3108], why: "stretch at 4247,3063: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [4074, 3102, 4164, 3192], why: "stretch at 4119,3147: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [4005, 3161, 4095, 3251], why: "stretch at 4050,3206: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [3869, 3248, 3959, 3338], why: "stretch at 3914,3293: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [2583, 3219, 2673, 3309], why: "stretch at 2628,3264: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [5561, 3488, 5651, 3578], why: "stretch at 5606,3533: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [6208, 3712, 6298, 3802], why: "stretch at 6253,3757: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [5800, 4562, 5890, 4652], why: "stretch at 5845,4607: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [3240, 4673, 3330, 4763], why: "stretch at 3285,4718: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [6304, 4880, 6394, 4970], why: "stretch at 6349,4925: the catalogue stamp 'G5701s' at the sheet's lower right (lettering), not front"}
+  - {box: [6196, 4881, 6286, 4971], why: "stretch at 6241,4926: the catalogue stamp 'G5701s' at the sheet's lower right (lettering), not front"}
+  - {box: [866, 5011, 956, 5101], why: "stretch at 911,5056: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [5042, 5073, 5132, 5163], why: "stretch at 5087,5118: heavy line with no ticks (army group/army boundary or Siegfried Line hatched band), looked at on the overlay; not front"}
+  - {box: [3642, 1162, 3732, 1252], why: "run 1 at 3687,1207: Twenty One / Twelfth army group boundary (long diagonal from Geilenkirchen toward Brussels), plain heavy line, no ticks (--look at 3980,720); not front"}
+  - {box: [4089, 979, 4179, 1069], why: "run 2 at 4134,1024: heavy loop west of the Maas (Venlo), plain heavy line with no ticks (--look 4134,1024; 3980,720); not drawn as a ticked front; not front"}
+  - {box: [4160, 1310, 4250, 1400], why: "run 3 at 4205,1355: unit symbols and the Siegfried hatched band at Geilenkirchen, heavy ink of symbols, no ticks (--look 4205,1355); not front"}
+  - {box: [4523, 2643, 4613, 2733], why: "run 4 at 4568,2688: Siegfried Line hatched band crossed by a plain heavy boundary, no ticks (--look); not front"}
+  - {box: [4427, 2779, 4517, 2869], why: "run 5 at 4472,2824: plain heavy boundary (army/corps) Aachen-Eifel to Moselle, no ticks (--look); not front"}
+  - {box: [5139, 3100, 5229, 3190], why: "run 6 at 5184,3145: Siegfried Line double hatched band, dashed rungs, no ticks (--look); not front"}
+  - {box: [5316, 3321, 5406, 3411], why: "run 7 at 5361,3366: Siegfried Line double hatched band, no ticks (--look); not front"}
+  - {box: [6114, 3420, 6204, 3510], why: "run 8 at 6159,3465: plain heavy boundary (Twelfth / Sixth army group at the Rhine), no ticks (--look); not front"}
+  - {box: [5942, 3518, 6032, 3608], why: "run 9 at 5987,3563: same boundary, plain heavy line, no ticks (--look); not front"}
+  - {box: [5794, 3653, 5884, 3743], why: "run 10 at 5839,3698: Siegfried Line hatching and a boundary crossing, no ticks (--look); not front"}
+  - {box: [5021, 4218, 5111, 4308], why: "run 11 at 5066,4263: Twelfth / Sixth army group boundary along the Marne-Rhine canal, plain heavy, no ticks (--look); not front"}
+  - {box: [3786, 4823, 3876, 4913], why: "run 12 at 3831,4868: Twelfth / Sixth army group boundary, plain heavy, no ticks (--look); not front"}
+  - {box: [6095, 4844, 6185, 4934], why: "run 13 at 6140,4889: catalogue stamp 'G5701' at the sheet's lower right, lettering; not front"}
+  - {box: [6139, 4895, 6229, 4985], why: "run 14 at 6184,4940: catalogue stamp 'G5701' lettering; not front"}
+  - {box: [6090, 4895, 6180, 4985], why: "run 15 at 6135,4940: catalogue stamp 'G5701' lettering; not front"}
+flip: []
+checked: []
+
+# Reader: title read 1200 HRS 6 OCTOBER 1944, no report number (agrees with the catalogue, 1944-10-06). gcps matched to 12ag-1944-10-07 (offset +24,-8 px; 45 of 81 agree, median 1.1 px, 36 placed through the transform); conic fit 1.1 km rms over 81, leave-one-out 1.1 km, worst Beauvais 3.4 km. NO ticked front is drawn on this sheet: at Aachen/Geilenkirchen, Monschau, the Moselle near Metz and Nancy, and at Nijmegen/Venlo only plain heavy boundaries and the Siegfried Line's hatched band (looked at with --look: no ticks). Every stretch the trace found is boundary, hatching or lettering and is boxed out; the front is empty.
+# Reader: boxes: 10-07's shifted (+24,-8) kept where they caught a stretch (9), 22 small boxes added on the unsure stretches, and 15 boxes on the 15 ticked/line runs that remained (one per run, at the run's middle; each looked at with --look: boundaries, Siegfried hatching, unit symbols, the G5701 stamp, none with ticks). Final trace: 0 stretches, front empty = none drawn. --sides reads "?" for every town. 10-08's sides not diffed (no front). 10-07's GeoJSON backed up in the scratchpad q-1006/. Not looked at closely: the thin sheet-edge north (Nijmegen/Arnhem) beyond the Venlo loop, where only boundaries and symbols show on the overlay.
+# Reviewed: as on 7 October, no ticked front is drawn: the front is empty, no front drawn, not no front. The sheet does draw heavy plain lines near Aachen, round a loop west of the Maas at Venlo and toward Metz (the reviewer's crop at 3900,1100 against 8 October's shows them without ticks); they are not taken as front, and are boxed with the boundaries and the Siegfried band. 45 of 81 towns matched to 7 October; fit 1.1 km rms.
