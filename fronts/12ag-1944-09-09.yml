@@ -1,0 +1,47 @@
+# 12ag-1944-09-09: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv, the symbols <map>-units.csv; the GeoJSON is generated.
+item: ict21096
+date: 1944-09-09
+as_of: 1200 HRS 9 SEPTEMBER 1944
+title: "Situation 1200 hrs 9 September 1944, Twelfth Army Group"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-09-08
+exclude:
+  - {box: [200, 100, 2800, 720], why: "the title block's lettering (SECRET, SITUATION 1200 HRS 9 SEPTEMBER 1944, TWELFTH ARMY GROUP)"}
+  - {box: [4500, 4900, 5100, 5450], why: "the legend at the bottom right (U.S., British, Enemy)"}
+  - {box: [5050, 3480, 5200, 3600], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+  - {box: [5230, 3500, 5750, 3720], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+  - {box: [5950, 4080, 6150, 4260], why: "the Siegfried Line, a heavy plain hand-drawn line (lettered SIEGFRIED LINE along it) with no ticks on either side: a fortification line, not the front"}
+  - {box: [4300,650,4500,820], why: "the Siegfried Line (dashed heavy stretch at the Dutch border), no ticks: not the front"}
+  - {box: [4250,1050,4500,1350], why: "the Siegfried Line (heavy hatched strip by Heinsberg-Geilenkirchen), no ticks: not the front"}
+  - {box: [4250,1350,4600,1650], why: "the Siegfried Line (hatched strips west of Aachen), no ticks: not the front"}
+  - {box: [4350,1650,4600,1950], why: "the Siegfried Line (Aachen to Monschau), no ticks: not the front"}
+  - {box: [4300,1950,4700,2300], why: "the Siegfried Line (Monschau to Schwarzer Mann), no ticks: not the front"}
+  - {box: [4300,2300,4600,2780], why: "the Siegfried Line (Eifel, to Neuerburg), no ticks: not the front"}
+  - {box: [4500,2780,4900,3100], why: "the Siegfried Line (Echternach to Trier), no ticks: not the front"}
+  - {box: [4900,2830,5080,3000], why: "the Siegfried Line (short detached strip beside First/Third army boundary), no ticks: not the front"}
+  - {box: [5100,2900,5600,3250], why: "the Siegfried Line (Hunsruck strip), no ticks: not the front"}
+  - {box: [4950,1050,5250,1180], why: "army group boundary (Twenty One/Twelfth) end, heavy black no ticks: not the front"}
+  - {box: [4560,3480,4760,3600], why: "outline of an enemy unit's symbol (559) beside the Siegfried Line, no ticks: not the front"}
+  - {box: [6000,3820,6300,4120], why: "army group boundary (Twelfth/Sixth) along the Rhine by Lauterbourg and Baden-Baden, heavy black, no ticks: not the front"}
+  - {box: [5750,4480,5870,4620], why: "army group boundary along the Rhine south of Strasbourg, heavy black, no ticks (traced as a short fragment): not the front"}
+  - {box: [5600,4980,5720,5100], why: "army group boundary along the Rhine near Neuf-Brisach, heavy black, no ticks: not the front"}
+  - {box: [1050,2550,1350,2850], why: "Twenty One/Twelve army group boundary near Amiens, heavy black, no ticks: not the front"}
+  - {box: [800,3980,1000,4080], why: "lettering and outline of the Twenty-First/Twelve army group box (headquarters flag) near Paris: not the front"}
+  - {box: [4900,3250,5400,3520], why: "the Siegfried Line (wedges and strips by Saarbrucken-Zweibrucken), no ticks: not the front"}
+  - {box: [4560,4400,4720,4520], why: "outline of an enemy unit's symbol (3) by Nancy: not the front"}
+  - {box: [5600,4850,5780,5000], why: "army group boundary along the Rhine near Colmar, heavy black, no ticks: not the front"}
+  - {box: [4700,3200,4950,3350], why: "the Siegfried Line (wedge strip at Merzig), no ticks: not the front"}
+flip: []
+checked: []
+# Reader: the sheet draws no ticked front line anywhere (tiles read: Scheldt and Antwerp, Albert Canal, the Meuse at Liege-Huy-Namur and
+# Maastricht, Aachen, the Moselle at Metz and Nancy, the Saar, the Rhine to Strasbourg and Colmar). Only plain black army, army-group and
+# corps boundaries (some dashed along the Rhine), unit symbols and grey ticked railways. The Siegfried Line is drawn as on 8 September, a heavy
+# hand-drawn hatched strip with no ticks (lettered SIEGFRIED LINE, here from the Dutch border by Aachen, the Eifel and Trier to Saarbrucken);
+# the tool traced about 49 stretches from it, from boundaries and from symbol outlines, and each is boxed. Tested by tracing without each box:
+# title 28 stretches, legend 18; the Siegfried boxes 1-5 each, boundary boxes 1-5 each; the four Siegfried boxes copied from 8 September at
+# their old places (x 4450-4780, y 1850-3540) each caught 0 here (the new boxes cover that ground) and were dropped; the copy at 5050-5200,
+# 3480-3600, 5230-5750, 3500-3720 and 5950-6150, 4080-4260 are kept (1, 3, 1). With all boxes the trace is empty: no front drawn. Title
+# is lettered at y 140-200 here too, box from y 100. Towns: 61 of 81 agree with 8 September (median 1.1 px), 20 placed through the
+# transform (Verviers, Trier, Bitburg, Prum, Zweibrucken 53-68 px off, Epinal 46). No sides to test (every town reads '?').
+# Reviewed: as on 6-8 September, no ticked front is drawn: the front is empty, no front drawn, not no front. Boxed: title, legend (lower middle), the Siegfried Line's hatched strip from the Dutch border by Aachen and the Eifel to Trier and Saarbrücken (no ticks; a fortification line), army-group boundary ends, the dashed and heavy boundaries along the Rhine, and three symbol outlines. 61 of 81 towns agree with 8 September.
