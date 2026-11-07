@@ -1,0 +1,30 @@
+# 12ag-1944-06-14: the sheet as read on its title, and the hand decisions its trace needed (tools/trace_front.py;
+# fronts/README.md). The towns are <map>-gcps.csv; the GeoJSON is generated.
+item: ict21009
+date: 1944-06-14
+as_of: 2400 HRS 14 JUNE 1944
+title: "Situation - 2400 hrs 14 June 1944, HQ. FUSAG, Copy No. ___; 12 AG Outline Maps 1:500,000 (no report number)"
+read: the title on the sheet, 7 Nov 2026
+gcps_from: 12ag-1944-06-13
+radius: 4
+dark: 110
+runs:   # the toothed line as waypoints on the scan, enemy on the left, read by eye on gridded 2x crops, 7 Nov 2026
+        # one run: from the top of the Orne pocket's east leg (3825,2190) down the leg, round Colombelles, west along the Caen reach, the dip at (2950,2452), SW down the V's east side to its foot (2815,2715), back NW up the Vire side to the Carentan hook, west along the south of Utah, north up its west side and east along the top to (1990,1583)
+  - [[3825, 2190], [3810, 2205], [3790, 2220], [3780, 2250], [3785, 2280], [3795, 2315], [3805, 2350], [3820, 2385], [3832, 2415], [3820, 2435], [3795, 2445], [3770, 2440], [3760, 2420], [3750, 2385], [3730, 2375], [3700, 2390], [3650, 2392], [3600, 2377], [3550, 2360], [3500, 2355], [3450, 2352], [3400, 2357], [3380, 2370], [3370, 2400], [3355, 2425], [3325, 2435], [3285, 2435], [3265, 2420], [3250, 2397], [3200, 2392], [3175, 2415], [3140, 2450], [3100, 2475], [3050, 2490], [3000, 2482], [2975, 2465], [2950, 2452], [2930, 2485], [2915, 2520], [2890, 2570], [2860, 2640], [2822, 2705], [2810, 2717], [2765, 2715], [2715, 2705], [2675, 2680], [2650, 2655], [2625, 2625], [2600, 2600], [2550, 2592], [2515, 2590], [2507, 2565], [2500, 2525], [2475, 2495], [2425, 2460], [2375, 2420], [2340, 2385], [2310, 2345], [2290, 2315], [2275, 2285], [2265, 2250], [2260, 2215], [2250, 2190], [2235, 2175], [2210, 2170], [2202, 2180], [2195, 2210], [2170, 2215], [2150, 2205], [2135, 2177], [2110, 2167], [2070, 2177], [2035, 2185], [2000, 2175], [1950, 2160], [1900, 2165], [1865, 2155], [1815, 2125], [1780, 2090], [1750, 2050], [1730, 2000], [1720, 1950], [1725, 1900], [1740, 1850], [1750, 1800], [1760, 1740], [1775, 1700], [1805, 1675], [1835, 1650], [1845, 1630], [1847, 1600], [1855, 1587], [1900, 1583], [1950, 1583], [1990, 1583]]
+exclude:
+  - box: [1000, 250, 3450, 950]
+    why: "the title block's lettering (SITUATION - 2400 HRS 14 JUNE 1944, HQ FUSAG, COPY No.)"
+  - box: [4700, 300, 5350, 520]
+    why: "SECRET at the top right"
+  - box: [1300, 4750, 2100, 5300]
+    why: "the legend (U.S., BRITISH, ENEMY keys and the FRONT LINE sample)"
+checked: []
+flip: []
+
+# Reader: title SITUATION - 2400 HRS 14 JUNE 1944 / HQ FUSAG / COPY No. ___ (blank); "12 AG OUTLINE MAPS 1:500,000" top left margin; no report number; SECRET struck through at the top right. Agrees with the catalogue (ict21009, 1944-06-14). Legend (bottom left, read on overview-sheet): U.S., BRITISH and ENEMY boxes and a FRONT LINE sample (a heavy toothed line); the box [1300,4750,2100,5300] is left out.
+# Reader: towns matched to 12ag-1944-06-13, sheets offset -16,+0 px: 32 of 34 agree (median 1.3 px); 1.5W 49.5N (42 px) and 1.5W 48.5N (39 px) are placed through the transform.
+# Reader: drawn as the front: one ticked line, enemy on the left: from the top of the Orne pocket's east leg (3825,2190) down the leg, round Colombelles, west along the Caen reach (Tilly dip at about 3000,2482, a step up to 2950,2452), SW down the V's east side to the foot (2815,2715), NW up the Vire side to the Carentan hook (2250,2190), west along the south of Utah, north up its west side (x about 1720 at y 1950) and east along the top to (1990,1583). Not the front: the heavy untoothed boundaries (x about 2870 down to the foot, 3280, 3500, the diagonal VII/V corps line through Carentan, thin), the dashed British boundaries and arrows, unit boxes, circles and the thin black corps diagonal. No Villers-Bocage withdrawal and no Caumont change is drawn: the V is as on 13 June, its foot a little further east (2815,2715 against 2700,2700); Utah's south reach lies a little lower than on 13 June.
+# Reader: METHOD: hand waypoints (`runs:`), 95 points read by eye on 2x crops with a 50 px grid labelled every 100 (crops from 1700,1550 700x650; 1900,2050 700x600; 2550,2200 700x600; 3200,2150 700x450; 3600,1950 600x500; 1750,1350 700x300 for the Utah top), 7 Nov 2026. RADIUS 4, dark 110 (no "no ink between"). A few waypoints on the Utah south reach (1900,2165 and 1950,2160) sit 15-20 px off the ink; the trace snaps to the ink there.
+# Reader: result: 1 run, 148.8 km from the GeoJSON (13 June 154.4 km by the same sum: shorter by the Utah reach and the shorter V). Overlay crops (1650,1500 1000x700; 1900,2050 1000x700; 2500,2250 1000x550; 3200,2150 750x400) looked at: the trace follows the heavy line end to end, the red ticks fall on the map's teeth (Allied side: north of the Caen reach, east of the pocket leg, inside the V, inside Utah); nothing off the ink or untraced; nothing flipped.
+# Reader: sides: 13 June's GeoJSON backed up (cmp: unchanged after --sides); 34 towns diffed, one changes: 1.5W 50N (13 June `1.5W 50N         own (US)  by run 1 own at 2645,2636`; today `1.5W 50N         enemy     by run 1 enemy at 2558,2597`). Reason: the town (Cotentin, on the west coast north of the sheet's Utah line) lies by the open end of the line at Utah's west; the test's reference point moved with the changed run (2645,2636 to 2558,2597), not any change drawn near it (Cherbourg and the north Cotentin are German-held on 14 June, so enemy is the right answer). 0.5E 49.5N reads own and 1E 49.5N enemy, as on 13 June: open-end artefacts east of the Seine mouth. All other 32 agree.
+# Reviewed: hand waypoints at radius 4, dark 110; overlay crop 1750,1500 looked at: one line from Utah round Carentan, down the Vire side, round the V toward Caumont, past Tilly and along the Caen reach to the Orne pocket, on the ink with ticks on the Allied side. 1.5W 50N enemy is right (German-held north Cotentin; its own on 13 June was the open-end test). WRONG side: 0.5E 49.5N reads own, the open-end artefact east of the Seine mouth. About 149 km.
