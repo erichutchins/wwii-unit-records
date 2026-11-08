@@ -188,6 +188,8 @@ Each map has four files:
     off the sheet (the 65th, 69th and 89th on 28 January 1945, the 65th and 89th on 4 February): divisions in the rear, not where the box stands;
   - `upper-alsace-pocket`: the enemy symbols in a box headed "IN UPPER ALSACE POCKET" (the Colmar pocket, 4 February
     1945): listed, not placed.
+  - `upper-rhine-area`: the enemy symbols in a box headed "UPPER RHINE AREA" in the same place (11 February 1945, after
+    the pocket's end): listed, not placed.
   A new marking gets a new word here before it is used in a file. `map`: the sheet.
   On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and
   each read on a numbered sheet; the ones the finder missed (about a fifth, a box touching its number or a line) were read
