@@ -200,7 +200,7 @@ x,y,of,echelon,arm,label,unit,list,map
 4254,4788,us,xxxx,,SEVENTH,seventh-army,,loc-12ag/ict21235
 5525,4825,de,xxx,,XIV SS,,,loc-12ag/ict21235
 4897,4936,fr,xxx,,II FR,,,loc-12ag/ict21235
-1557,4940,us,xx,infantry,66,,,loc-12ag/ict21235
+1557,4940,us,xx,infantry,66,,lorient-st-nazaire,loc-12ag/ict21235
 5168,4945,fr,xx,armored,5(-) FR,,,loc-12ag/ict21235
 4994,4950,fr,xx,armored,2 FR,fr-2d-armd-div,,loc-12ag/ict21235
 5386,5102,de,xx,infantry,405,,,loc-12ag/ict21235

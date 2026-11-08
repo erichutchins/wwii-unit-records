@@ -186,6 +186,9 @@ Each map has four files:
     foot): placed, but moving or lying the way the arrow points.
   - `dieppe-rouen`: the symbols in an inset box headed "VICINITY DIEPPE - ROUEN" at the sheet's left edge, with an arrow
     off the sheet (the 65th, 69th and 89th on 28 January 1945, the 65th and 89th on 4 February): divisions in the rear, not where the box stands;
+  - `le-havre-rouen`: the symbols in a box at the sheet's left edge headed "VICINITY LE HAVRE - ROUEN" (the 65th, 69th and
+    89th on 26 January 1945; two days later the same box is headed "VICINITY DIEPPE - ROUEN"): divisions in the rear, not
+    where the box stands;
   - `upper-alsace-pocket`: the enemy symbols in a box headed "IN UPPER ALSACE POCKET" (the Colmar pocket, 4 February
     1945): listed, not placed.
   - `upper-rhine-area`: the enemy symbols in a box headed "UPPER RHINE AREA" in the same place (11 February 1945, after
