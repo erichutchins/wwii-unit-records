@@ -1,21 +1,22 @@
-# Fronts: what is left (7 November 2026)
+# Fronts: what is left (8 November 2026)
 
-338 of the catalogue's 415 days (`sitmaps.csv`) are traced, reviewed and committed. This file lists the rest,
+344 of the catalogue's 415 days (`sitmaps.csv`) are traced, reviewed and committed. This file lists the rest,
 in the order worth doing, with what each needs. The method is in `guides/SITUATION-MAPS.md` and the skill
 `trace-situation-map`; the keys a day's YAML takes are in `README.md`. One day is one reader agent; the reviewer
 looks at the overlay before committing it, and adds a `# Reviewed:` line.
 
-## 1. Days not yet traced (77)
+## 1. Days not yet traced (71), and two to redo
 
-### 11-17 March 1945: redo on the whole sheet (7 days, committed but partial)
+### 16-17 March 1945: redo on the whole sheet (2 days, committed but partial)
 
 These were first read for the Remagen engagement only: towns matched to 7 March's 20 hand-read rings, traced only
-within their spread. 7-10 March are redone on the whole sheet; carry on day by day from 10 March.
+within their spread. 7-15 March are redone on the whole sheet (8 Nov 2026); carry on from 15 March.
 
 - Per day: back up the three files; `--gcps-from` the day before (once, never piped); set `gcps_from`; copy the
   day before's boxes (moved by the median offset of the nearest towns) and checks; test the boxes with a run with
   none, and drop any that hold ticked front (Rhine-ink boxes go stale once the front reaches the river).
-- Default cutoff (70) has held on 5-10 March; try `dark: 80`-`90` only if the Scheldt arcs come out in pieces.
+- Default cutoff (70) has held on 5-15 March; try `dark: 80`-`90` only if the Scheldt arcs come out in pieces. 15 March
+  needed `radius: 5`: at 4 the line broke at Linz and Saarlautern and Metz read enemy. Look at flips on 4x-5x crops.
 - Each day has a units file the GeoJSON carries (don't change it; from 10 March some symbols are
   `list: bridgehead`). Check the symbols' count and labels are unchanged and give the largest move.
 - Compare with the old reading in the Remagen window (about 6.6-7.6 E, 50.0-51.0 N).
@@ -28,30 +29,17 @@ within their spread. 7-10 March are redone on the whole sheet; carry on day by d
 
 Never traced. Do them after 17 March's redo, matched to it, the same way.
 
-### 18-23 June 1944 (6 days, B01)
-
-The middle of June. These sheets' front is drawn thin and pale, and its teeth run into the line, so the
-stretch method traces only half of it. Use hand waypoints (`runs:`), as on 6-17 and 24-30 June:
-
-- Read every waypoint afresh on gridded 2x-4x crops of the bare scan (a 50 px grid labelled every 100 px),
-  every 50-150 px and at every bend, enemy on the left. Waypoints shifted from the day before sit 10-30 px off
-  the ink when the line has moved.
-- Radius 4 with `dark: 110` works on most days; use 3, or 2, where the tool says "no ink between" (thin
-  stretches; 17 June needed 2 for the Utah corridor's north face, 24 June 2 with `dark: 170`). The tool bridges
-  about 40-60 px: where a symbol covers the line or its ink breaks into specks, end the run and start another.
-- With runs, keep only the title, SECRET and legend boxes.
-- Neighbours: 17 June (the Utah lodgement a corridor west toward Barneville, the coast reached 18 June) and
-  24 June (the main line from the Orne to the west coast, and a ticked line round Cherbourg from the Hague to
-  the Montebourg marsh). Cherbourg's ring tightens 19-25 June.
-- Check the overlay along every reach on crops no wider than about 800 px.
-
 ### 10 September 1944 (1 day, B10)
 
-A double sheet: two 1:1,000,000 plates pasted on one scan, each with its own graticule (`bases.yml`). The tool
-fits one transform per day, so read each half's crossings as its own base from its own margins
-(`sources/fronts-work/bases/B10-margins.txt`) and trace the halves apart. 6-28 September draw no ticked front
-on the B09 sheets, so check first whether this sheet draws one at all; if not, it is an empty front, like its
-neighbours.
+A double sheet: two plates pasted on one scan, each with its own graticule (`bases.yml`). The left plate (FUSAG
+"SHEET 1", 5W-1E, 46-50N, graticule every 30', the title and legend) covers Brittany; the right (the 12th Army
+Group plate, about 3-8E, 48-51N) covers the Scheldt to the Rhine. Looked at 8 Nov 2026: the right plate draws no
+ticked front, like 6-9 and 11-28 September, but the left one does: a ticked perimeter round Brest (about x 680-1140,
+y 2340-2600, ticks north and east, the US side) and a ticked arc round Lorient (about x 1800-1990, y 3195-3280).
+The tool fits one transform per day, so this day needs a base for the left plate (towns from its own crossings,
+`sources/fronts-work/bases/B10-margins.txt` plus interior crossings read with `tools/sheet_towns.py crops
+--graticule`) and the two perimeters traced on it, with the right plate recorded as drawing no front. Nothing is
+written for it yet.
 
 ### 21 May - 26 July 1945 (67 days, B15)
 
