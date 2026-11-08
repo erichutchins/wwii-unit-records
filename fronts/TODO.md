@@ -1,8 +1,8 @@
 # Fronts: what is left (8 November 2026)
 
-365 of the catalogue's 415 days (`sitmaps.csv`) are traced, reviewed and committed. This file lists the rest,
-in the order worth doing, with what each needs. The method is in `guides/SITUATION-MAPS.md` and the skill
-`trace-situation-map`; the keys a day's YAML takes are in `README.md`. One day is one reader agent; the reviewer
+365 of the catalogue's 415 days (`sitmaps.csv`) are traced, reviewed and committed. This file lists the rest
+(and, in section 3, the days whose unit symbols are not read), in the order worth doing, with what each needs.
+The method is in `guides/SITUATION-MAPS.md` and the skill `trace-situation-map`; the keys a day's YAML takes are in `README.md`. One day is one reader agent; the reviewer
 looks at the overlay before committing it, and adds a `# Reviewed:` line.
 
 ## 1. Days not yet traced (50)
@@ -66,7 +66,52 @@ Each is written in its day's YAML.
 - **check_fronts.py** (`uv run tools/check_fronts.py FIRST LAST`) has not been run across every committed range
   since the last days went in; run it over each month and look at what it flags.
 
-## 3. Tool
+## 3. Unit symbols: 395 days not read, 11 read only in part
+
+The unit symbols are read on 20 of the 415 days (`<map>-units.csv`; columns in `README.md`). Across the whole sheet
+on nine: 16-23 December 1944 and 28 January 1945 (176 to 226 symbols a day). Within the Remagen window only (about
+6.4-7.8 E, 50.0-51.2 N; 39 to 64 symbols) on 7-17 March 1945, whose fronts are now traced on the whole sheet. Every
+other day has its front (or an empty front) and no symbols. Fronts not yet traced (section 1) are marked below.
+
+| Days | Base | Days to read | Front |
+|---|---|---|---|
+| 6 June - 4 August 1944 | B01 | 60 | traced |
+| 5-10 August 1944 | B02 | 6 | traced |
+| 11-12 August 1944 | B03 | 2 | traced |
+| 13-21 August 1944 | B04 | 9 | traced |
+| 22-23 August 1944 | B05 | 2 | traced |
+| 24-25 August 1944 | B06 | 2 | traced |
+| 26 August - 1 September 1944 | B07 | 7 | traced |
+| 2-5 September 1944 | B08 | 4 | traced |
+| 6-9 September 1944 | B09 | 4 | traced (empty fronts) |
+| 10 September 1944 | B10 | 1 | not traced (the double sheet, section 1) |
+| 11 September - 3 November 1944 | B09 | 54 | traced (to 28 September empty fronts) |
+| 4-11 November 1944 | B11 | 8 | traced |
+| 13 November - 15 December 1944 | B11 | 33 | traced |
+| 24 December 1944 - 27 January 1945 | B11 | 35 | traced |
+| 29 January - 6 March 1945 | B11 | 37 | traced |
+| 7-17 March 1945 (whole sheet beyond the Remagen window) | B11 | 11 | traced |
+| 18-20 March 1945 | B11 | 3 | traced |
+| 21 March - 6 April 1945 | B12 | 17 | traced |
+| 7-18 April 1945 | B13 | 12 | traced |
+| 19 April - 19 May 1945 | B14 | 31 | traced |
+| 20 May - 7 June 1945 | B15 | 19 | traced (from 1 June empty fronts) |
+| 8 June - 26 July 1945 | B15 | 49 | not traced (section 1) |
+
+(The catalogue has no sheet for 12 November 1944.)
+
+- One day is one reader agent, reading the symbols as drawn (the skill `trace-situation-map`; the December and
+  January days are the worked examples). Give it the day before's units file to match against, and ask for the
+  whole sheet.
+- The box finder misses a third to half of a whole sheet's symbols (the British boxes, most corps and armies);
+  the readers read those off the overview's tiles. Every US "9" is magnified (the 9th Armored's oval), the enemy's
+  panzer and paratroop marks read, and a map's boxes or lists of unplaced divisions recorded with `list:` (the words
+  in `README.md`; a new marking gets a new word there first).
+- A whole sheet takes a reader far longer than a front. Worth choosing the order: the stretches of the units being
+  followed, or an engagement's days, before a straight run.
+- After 8 May 1945 the symbols are the occupation's, not a battle's: say so in the day's notes.
+
+## 4. Tool
 
 - `dark:` (per-sheet grey cutoff) is in; it works both ways: higher for pale prints (June 1944, 4 March and
   21 and 27 November), lower for a heavy one (1 April 1945, `dark: 45`).
