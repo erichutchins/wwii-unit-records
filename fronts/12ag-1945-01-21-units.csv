@@ -201,7 +201,7 @@ x,y,of,echelon,arm,label,unit,list,map
 4968,4933,fr,xxx,,II FR,,,loc-12ag/ict21231
 1519,4956,us,xx,infantry,66,,quimper-auxerre,loc-12ag/ict21231
 5123,4972,fr,xx,armored,5(-) FR,,,loc-12ag/ict21231
-5526,5121,de,xx,infantry,405,,,loc-12ag/ict21231
+5526,5121,de,xx,infantry,405,,westwall,loc-12ag/ict21231
 5192,5159,de,xx,infantry,?,,,loc-12ag/ict21231
 5497,5199,de,xxxx,,NINETEENTH,,,loc-12ag/ict21231
 4937,5219,fr,xx,infantry,1 FR,,,loc-12ag/ict21231
