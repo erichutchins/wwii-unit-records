@@ -184,6 +184,10 @@ Each map has four files:
     and 9th Panzer by Prüm, 22-23 December): where they are going is not known;
   - `arrow`: a symbol drawn with an arrow from it (the 159th by Colmar, 23 December, pointing south toward the sheet's
     foot): placed, but moving or lying the way the arrow points.
+  - `dieppe-rouen`: the symbols in an inset box headed "VICINITY DIEPPE - ROUEN" at the sheet's left edge, with an arrow
+    off the sheet (the 65th, 69th and 89th on 28 January 1945, the 65th and 89th on 4 February): divisions in the rear, not where the box stands;
+  - `upper-alsace-pocket`: the enemy symbols in a box headed "IN UPPER ALSACE POCKET" (the Colmar pocket, 4 February
+    1945): listed, not placed.
   A new marking gets a new word here before it is used in a file. `map`: the sheet.
   On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and
   each read on a numbered sheet; the ones the finder missed (about a fifth, a box touching its number or a line) were read

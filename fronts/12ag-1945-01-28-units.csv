@@ -51,14 +51,14 @@ x,y,of,echelon,arm,label,unit,list,map
 3521,1909,us,xxxx,,NINTH,ninth-army,,loc-12ag/ict21238
 3983,1932,us,xx,infantry,104,,,loc-12ag/ict21238
 4883,1971,de,xxxxx,,B,,,loc-12ag/ict21238
-595,1986,us,xx,infantry,65,,,loc-12ag/ict21238
+595,1986,us,xx,infantry,65,,dieppe-rouen,loc-12ag/ict21238
 4191,1995,de,xx,infantry,85,,,loc-12ag/ict21238
 3959,2003,us,xxx,,XIX,xix-corps,,loc-12ag/ict21238
-595,2049,us,xx,infantry,69,,,loc-12ag/ict21238
+595,2049,us,xx,infantry,69,,dieppe-rouen,loc-12ag/ict21238
 2986,2059,uk,xx,armored,GDS,,,loc-12ag/ict21238
 3733,2082,us,xx,armored,5(-),,,loc-12ag/ict21238
 4005,2091,us,xx,infantry,8,,,loc-12ag/ict21238
-595,2115,us,xx,infantry,89,,,loc-12ag/ict21238
+595,2115,us,xx,infantry,89,,dieppe-rouen,loc-12ag/ict21238
 4085,2141,de,xx,infantry,272,,,loc-12ag/ict21238
 3873,2157,us,xx,infantry,78(+),,,loc-12ag/ict21238
 3812,2196,us,xxx,,V,v-corps,,loc-12ag/ict21238

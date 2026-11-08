@@ -17,3 +17,4 @@ exclude:
   - {box: [3950, 3965, 4385, 4300], why: "the boundary lettered TWELFTH XXXXX SIXTH, magenta then blue-drawn, ticks only from roads (runs 42 at 4063,4199 and 40 at 4318,4006; crop 3900,3950); it meets the front at about 4400,3950, outside the box"}
 flip: []
 checked: []
+# Reviewed again (8 Nov 2026, the symbols): the 65th, 69th and 89th in the inset "VICINITY DIEPPE - ROUEN" at the sheet's left edge now carry `list: dieppe-rouen` (a new word in the README); they were unlisted.
