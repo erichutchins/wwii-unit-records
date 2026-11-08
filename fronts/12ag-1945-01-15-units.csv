@@ -87,7 +87,7 @@ x,y,of,echelon,arm,label,unit,list,map
 3662,2648,de,xx,infantry,326,,,loc-12ag/ict21225
 5579,2651,de,xx,infantry,49,,unlocated,loc-12ag/ict21225
 3503,2654,us,xx,infantry,83(-),,,loc-12ag/ict21225
-3440,2702,us,xx,armored,2(+),,,loc-12ag/ict21225
+3440,2702,us,xx,armored,2(+),,arrow,loc-12ag/ict21225
 3658,2703,de,xx,infantry,12,,,loc-12ag/ict21225
 3845,2714,de,xx,armored,LEHR,,,loc-12ag/ict21225
 3519,2715,us,xx,armored,3(+),,,loc-12ag/ict21225
