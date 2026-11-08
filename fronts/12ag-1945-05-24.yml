@@ -1,0 +1,110 @@
+# 12ag-1945-05-24: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21354
+date: 1945-05-24
+as_of: 241200 MAY 1945
+report: 353
+title: "HQ 12th Army Group Situation Map (SECRET struck through), to accompany G-3 report no. 353: situation as of 241200 May 1945; signed (for) A. Franklin Kibler, Brigadier General, GSC, A.C. of S., G-3; 1:1,500,000 Albers conical equal-area sheet"
+read: the title on the sheet, 8 Nov 2026
+gcps_from: 12ag-1945-05-23
+radius: 4
+dark: 70
+exclude:
+  - {box: [15, -19, 3125, 6663], why: "everything west of the Elbe start: Rhine, French/Swiss/Dutch borders, legend (bottom left), army boundaries, no front"}
+  - {box: [4233, 192, 5972, 1053], why: "title block lettering: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, report no. 353, date, signature"}
+  - {box: [4332, 1092, 5973, 2992], why: "Saxony-Bohemia border (dark hatched Erzgebirge) and the straight black army-group boundary past Karlsbad (no ticks, looked at 4x at 4330,2950 and 4260,2870), east of the line"}
+  - {box: [3135, 1424, 3851, 2693], why: "heavy black provincial/state outlines in Thuringia/Anhalt, west of the line, no ticks; east edge 3828 so as to leave the Dessau hook's left leg (3.9 km, ticked, about 3835,1430) in the line"}
+  - {box: [3136, 2992, 4231, 3343], why: "Bavarian-Bohemian border west of the line"}
+  - {box: [3136, 3343, 4632, 5309], why: "Bavaria: army boundaries drawn black, Danube, Bavaria-Czech/Austrian borders, west of the line; foot at y 5308 so the ticked Salzach line (St. Johann to Schladming) is outside it"}
+  - {box: [3135, 2693, 3862, 2854], why: "Thuringia-Bavaria/Saxony state border (dark red/black, hatched) west of the line, no ticks"}
+  - {box: [4632, 3912, 4867, 4067], why: "blue fragment on the hatched Bavaria-Bohemia border (Bohemian Forest) west of the line (unsure run near 13.55E 48.98N)"}
+  - {box: [4682, 4273, 4862, 4373], why: "Bavaria-Austria border at the Inn, hatched/red, west of the front (two unsure runs near 13.7E 48.5N)"}
+  - {box: [3336, 5642, 3934, 5793], why: "Austria-Italy border at the Brenner (hatched, red overprint), no ticks, with blue fragments on it (ticked-looking runs near 11.5-11.9E 47N are the border's hatching)"}
+  - {box: [3863, 2853, 3983, 3013], why: "dark-grey hatched Bohemian border and road fragments round the Asch bulge, west of the line, no ticks (two ticked-looking runs near 12.24-12.34E 50.2N)"}
+  - {box: [3875, 5578, 3945, 5633], why: "Gross Venediger: Austria-Italy border (red overprint on grey hatching) west of where the ticked line ends, one short unsure piece near 12.15E 47.1N"}
+  - {box: [4246, 2604, 4296, 2654], why: "Annaberg to Karlsbad (first piece), heavy black straight line from the end of the ticked Chemnitz-Annaberg run's 'x' marks (the 'EAST BOUNDARY TWELFTH A.G.' lettering), no ticks, looked at 4x at 4250,2600/2700/2790 (unsure run mid 4249,2628)"}
+  - {box: [4112, 2681, 4162, 2731], why: "stub of border hatching on the red Bohemian state border west of Karlsbad, no ticks (unsure run mid 4114,2705)"}
+  - {box: [5197, 4224, 5247, 4274], why: "Kaplitz, where the boundary crosses the Czech-Austrian border (red); no ticks (unsure run mid 5201,4249)"}
+  - {box: [4627, 4926, 4677, 4976], why: "Mondsee: stub of heavy ink on the red Salzburg border (left out on 21 May as well); put 13E 48N on the enemy side when kept (unsure run mid 4629,4951)"}
+  - {box: [4740, 5265, 4790, 5315], why: "Radstadt, the same line (unsure run mid 4742,5290)"}
+  - {box: [4756, 5340, 4806, 5390], why: "Radstadt finger: the unticked heavy line beside the ticked one (looked at 4x at 4758,5365) (unsure run mid 4758,5365)"}
+  - {box: [4643, 5574, 4693, 5624], why: "Tauern: 'TWELFTH XXXX FIFTEENTH' army-group boundary lettering and its heavy line, no ticks (unsure run mid 4645,5599)"}
+  - {box: [3935, 834, 3995, 894], why: "Twenty-first Army Group table (Wismar line of its lettering), a ticked-looking run of lettering, not front (unsure run mid 3960,835)"}
+  - {box: [3926, 921, 3986, 951], why: "the table's HARSEFELD line, lettering counted as a ticked run, not front (mid 3956,907)"}
+  - {box: [4189, 884, 4244, 954], why: "Havel lakes west of Berlin (blue water edges, two unsure runs mid 4228,876 and 4212,908)"}
+  - {box: [4627, 1038, 4772, 1113], why: "lake edges near Berlin and Mittenwalde (unsure runs mid 4754,1035 and 4653,1063), east of the line"}
+  - {box: [4226, 2341, 4276, 2401], why: "Chemnitz to Annaberg: the straight heavy line south of the fork at Chemnitz, bare (no ticks, no x marks) looked at 4x at 4235,2290 / 4245,2400; 22 May drew ticks here, 23 May does not; the East Boundary of the Twelfth A.G. (unsure run mid 4251,2344)"}
+  - {box: [4277, 2889, 4337, 2949], why: "Karlsbad to the Pilsen road: the straight heavy diagonal, bare (looked at 4x at 4290,2900, 4340,2960, 4400,3040), the army group boundary; the ticked wavy line is separate, to its west; the ticks begin only below the junction at about 4468,3118 (70 km chain with Annaberg, mid 4305,2893)"}
+  - {box: [3838, 2802, 3903, 2862], why: "Asch: Czech border over red hatching, no ticks (looked at 4x at 3873,2797) (two unsure runs mid 3871,2796 and 3862,2813)"}
+  - {box: [4945, 3629, 5000, 3679], why: "Strakonitz: the bare diagonal continuing past where the ticked line turns south, its x marks to follow (unsure run mid 4965,3627)"}
+  - {box: [5174, 3939, 5239, 3999], why: "Strakonitz to Budweis to Kaplitz: heavy boundary line, bare, wiggling south through Budweis (looked at 4x at 5150,3830, 5215,3950, 5215,4080, 5215,4160) (62 km chain, mid 5207,3945)"}
+  - {box: [5478, 3883, 5538, 3943], why: "red Bohemian-Moravian state border and hatching east of the line (unsure run mid 5509,3888)"}
+  - {box: [5471, 4009, 5531, 4069], why: "the same border (unsure run mid 5503,4016)"}
+  - {box: [5424, 4035, 5484, 4095], why: "the same border (unsure run mid 5456,4042)"}
+  - {box: [5372, 4070, 5432, 4130], why: "the same border (unsure run mid 5404,4077)"}
+  - {box: [4856, 4062, 4916, 4122], why: "Bohemian Forest border hatching, west of the line (unsure run mid 4885,4068)"}
+  - {box: [4911, 4098, 4971, 4158], why: "the same (unsure run mid 4941,4104)"}
+  - {box: [4846, 4137, 4906, 4197], why: "the same (unsure run mid 4875,4143)"}
+  - {box: [4854, 4189, 4914, 4249], why: "the same (unsure run mid 4883,4195)"}
+  - {box: [5049, 4215, 5109, 4275], why: "Czech-Austrian border hatching at Kaplitz west of the line (unsure run mid 5079,4222)"}
+  - {box: [5120, 4225, 5180, 4285], why: "the same (unsure run mid 5150,4232)"}
+  - {box: [5229, 4320, 5289, 4380], why: "Kaplitz to Freistadt: the boundary line, bare (unsure run mid 5261,4327); 22 May's box here moved too far east"}
+  - {box: [4646, 4272, 4706, 4332], why: "Bavaria-Austria border at the Inn, hatched/red (unsure run mid 4674,4278)"}
+  - {box: [4621, 4363, 4681, 4423], why: "the same (unsure run mid 4649,4369)"}
+  - {box: [4991, 4464, 5051, 4524], why: "border hatching (unsure run mid 5020,4471)"}
+  - {box: [5298, 4553, 5358, 4613], why: "the same (unsure run mid 5329,4560)"}
+  - {box: [5296, 4836, 5356, 4896], why: "Waidhofen to Windischgarsten: heavy line over the red Lower Austria border, bare (looked at 4x at 5326,4844) (unsure run mid 5326,4844)"}
+  - {box: [5226, 5038, 5286, 5098], why: "Enns valley east of Liezen: heavy line over the red Styria border, bare (looked at 4x at 5256,5046) (unsure run mid 5256,5046)"}
+  - {box: [3156, 5286, 3216, 5346], why: "Bavaria-Austria/Tyrol red border west of the Salzach (looked at 4x at 3177,5292) (unsure run mid 3177,5292)"}
+  - {box: [3362, 5306, 3422, 5366], why: "the same border (unsure run mid 3383,5312)"}
+  - {box: [3208, 5323, 3268, 5383], why: "the same border (unsure run mid 3229,5329)"}
+  - {box: [3232, 5745, 3292, 5805], why: "Austria-Italy border at the Brenner, red over grey hatching (looked at 4x at 3252,5751) (unsure run mid 3252,5751)"}
+  - {box: [4026, 5548, 4086, 5608], why: "Gross Venediger: the Twelfth/Fifteenth boundary, heavy over the red border, bare (looked at 4x at 4050,5554); the ticked line ends at about 3927,5547 (30 km chain, mid 4049,5554)"}
+  - {box: [4368, 5557, 4428, 5617], why: "Tauern: the Twelfth/Fifteenth boundary west to the Hohe Tauern, bare (unsure run mid 4393,5564)"}
+  - {box: [4858, 5662, 4918, 5722], why: "Tauern: the same boundary east, bare (unsure run mid 4885,5670)"}
+  - {box: [4971, 5540, 5031, 5600], why: "Tauern: heavy line over the red Salzburg-Carinthia border, bare (unsure run mid 4999,5548 and 4969,5536)"}
+  - {box: [4728, 5360, 4803, 5417], why: "Radstadt: the bare heavy line beside the ticked finger (looked at 4x at 4749,5285 and 4754,5256) (unsure run mid 4746,5366)"}
+  - {box: [5205, 3862, 5265, 3922], why: "Strakonitz to Budweis to Kaplitz: the heavy boundary line, bare today as on 23 May (looked at 4x at 5080,3700 / 5190,3840 / 5215,3950 / 5215,4090: no ticks); one 86 km stretch today, its middle at 5235,3892 (23 May it was cut at a junction, mid 5207,3945)"}
+  - {box: [4702, 3879, 4762, 3939], why: "Bohemian Forest: stub on the hatched/blue Bavaria-Bohemia border (23 May's box moved 24 px south of it) (unsure run mid 4732,3909)"}
+  - {box: [4930, 5171, 4984, 5221], why: "Enns valley Liezen to Radstadt: the upper heavy line over the red Salzburg-Styria border, bare (looked at 3x on the raw scan at 4850,5130); the lower line beside it carries the ticks, on its north side, and is kept (54 km, mid 4957,5201)"}
+  - {box: [4913, 5429, 4973, 5489], why: "Tauern: the upper heavy line of the double band over the red Salzburg-Carinthia border, bare, closing the loop (looked at 3x at 4780,5420) (unsure run mid 4943,5459)"}
+  - {box: [4951, 5498, 5011, 5558], why: "Tauern: the loop's lower right end beside the finger's tip, heavy line over the red border, bare (unsure run mid 4981,5528)"}
+  - {box: [4483, 5566, 4543, 5626], why: "Tauern: piece of the bare Twelfth/Fifteenth boundary between the two ticked bands (looked at 4x at 4420,5520) (unsure run mid 4508,5596)"}
+  - {box: [4763, 5581, 4823, 5641], why: "Tauern: the Twelfth/Fifteenth boundary from the bands east to Katschberg, bare (looked at 3x at 4520,5560 and 4780,5560); today's chain of 66 km has its middle at 4793,5611"}
+  - {box: [3670, 5302, 3730, 5362], why: "Bavaria-Austria/Tyrol red border west of the Salzach (unsure run mid 3700,5332)"}
+  - {box: [3296, 5706, 3356, 5766], why: "Austria-Italy border at the Brenner, red over grey hatching (unsure run mid 3326,5736)"}
+  - {box: [3934, 5725, 4034, 5805], why: "Matrei/Defereggen: the Austria-Italy red border with grey hatching, a blue stream edge across it, no ticks (looked at 6x on the raw scan at 3920,5720); two short runs mid 3964,5755 and 4000,5775, not on 23 May's trace"}
+  - {box: [5345, 4886, 5395, 4936], why: "Windischgarsten: the heavy boundary line going up over the red Lower Austria border, bare (looked at 3x on the raw scan at 5150,4900: no ticks); 23 May's box here was left behind by the new chain's cut (stretch mid 5370,4911)"}
+  - {box: [5348, 4931, 5398, 4981], why: "the same line, next piece (stretch mid 5373,4956)"}
+  - {box: [5286, 5023, 5336, 5073], why: "Windischgarsten to Liezen: the heavy line over the red Styria border, bare and smooth (looked at 3x at 5150,4900) (stretch mid 5311,5048); the ticked line goes down the Enns by Weyer and Klaus to Liezen and ends there"}
+  - {box: [5151, 5049, 5201, 5099], why: "Liezen: the same boundary's last piece (stretch mid 5176,5074)"}
+  - {box: [3596, 5600, 3656, 5660], why: "Zillertal: the end of a thin straight black line (a boundary) coming down to the Austria-Italy border, with stream edges beside it, no ticks (looked at the overlay crop 3400,5450: one 8 km run mid 3626,5630, not on 23 May's trace)"}
+flip: []
+checked:
+  - {at: [3837, 1423], why: "Dessau hook: the short tip between the ticked runs either side (looked at 5x on the raw scan at 3770,1370: small barbs on the west side of the heavy line); kept by continuity, as on 23 May"}
+  - {at: [3720, 569], why: "Elbe south of Seehausen: short run of the ticked line between the ticked runs either side, its ticks (small strokes on the west side) seen at 4x at 3721,539; the line continues, the x marks of the boundary begin below it"}
+  - {at: [3700, 868], why: "Elbe at Genthin-Jerichow reach: 3 km piece in the ticked line (looked at 4x at 3699,836: ticks west), by continuity with the ticked runs either side"}
+  - {at: [4116, 1817], why: "Mulde, ticked line (looked at 4x at 4113,1791: ticks on the west side), run too short or too bent to count its ticks"}
+  - {at: [4148, 1887], why: "Mulde, ticked line (looked at 4x at 4145,1856: ticks on the west side)"}
+  - {at: [5215, 4752], why: "Enns near Steyr: the ticked line, its ticks on the west side (looked at 4x at 5215,4729), run unsure only because a bare boundary line runs beside it"}
+  - {at: [5188, 4247], why: "Kaplitz: 3 km piece at the end of the ticked Prachatitz-Haslach arc where it meets the bare vertical boundary (looked at 4x at 5203,4206); kept by continuity with the ticked arc, which it ends"}
+
+# Reader: the sheet draws the line of contact with the Soviet armies as the ticked line (US divisions on the ticked, west, side), as on 23 May:
+# the Elbe, Dessau, the Mulde, Chemnitz, the wavy pocket by Zwickau, Graslitz and Karlsbad, the Pilsen diagonal to the x marks short of Strakonitz,
+# the arc by Prachatitz, Haslach and Linz, the Enns by Steyr, Weyer and Liezen to Radstadt, the Salzach, the Tauern bands and finger, the Gross Venediger.
+# Not drawn as ticks, so not traced: the EAST BOUNDARY TWELFTH A.G. (Chemnitz fork to Annaberg bare again, x marks at Annaberg, bare to Karlsbad and
+# along the diagonal, x marks short of Strakonitz, bare by Budweis, Kaplitz and Freistadt), the Waidhofen-Windischgarsten-Liezen heavy line over the red
+# border, the Twelfth/Fifteenth boundary over the Tauern, and the heavy upper lines of the Tauern bands. Report no. 353, as of 241200 May 1945.
+# Reader: towns matched to 23 May's: 49 of 58 agree, sheet offset +8,+24 px (median 1.7 px), nine placed through the transform (12E/14E/15E 53N,
+# 14E/15E 52N, 6E 50N, 13E 50N, 6E 48N, 14E 47N). The shift is not one offset (an affine fit of 23 May's towns to today's: rms 1.8 px, max 4.2),
+# so the 56 boxes of 23 May were moved by that fit (small boxes by their centre, the big ones by their corners). Coordinates quoted inside the
+# reasons are 23 May's, not today's. Checked against a run with no box at all (stretch middles listed from the unboxed trace): nine boxes added,
+# one dropped, one box cut (below), and a dozen more added for runs whose middles moved off 23 May's boxes (the Strakonitz-Budweis-Kaplitz stretch is
+# one 86 km stretch today, mid 5235,3892; the Windischgarsten-Liezen line, four stretches; the Matrei and Zillertal stubs; the Tauern loop's bare lines).
+# Reader: dropped 23 May's box at the Freistadt-Pregarten move [5261,4532,5321,4592]: its stretch (mid 5285,4538) is the ticked line from Pregarten
+# to Steyr (looked at 3x on the raw scan at 5190,4440: barbs on the west side, the line continuous down the Enns); and 23 May's Tauern box above the
+# finger [4878,5453,4928,5503]: it held a barbed stretch (mid 4895,5503) of the finger. Kept as 23 May had it: the Radstadt boxes holding the second
+# heavy line beside the ticked finger edge (stretches mid 4748,5372 and 4778,5373): one of them has barbs on a 3x look and may be a second ticked edge; unsure.
+# Reader: Bitterfeld is ticked today (barbs on the south-west side at 4x, 3880,1540), not x marks as on 23 May; the Elbe south of Seehausen is
+# ticked and then x-marked (y 560-730) with the line continuous under the x marks, traced as one line (23 May's trace differs from it by 3 km only).
+# Reader: no flips. Checked: the Dessau hook tip (3837,1423) by continuity. Setting: radius 4, dark 70 as on 23 May; 57 runs, about 1231 km (23 May 70 runs, 1265 km). Report 353.
+# Reviewed (8 Nov 2026): the line of contact with the Soviet armies, ticked; report no. 353. Overlay crop 4500,4400 (Linz, the Enns and the Tauern) looked at beside 23 May's: on 23 May the Enns valley from Liezen to Gröbming was drawn as a grey band ticked on both edges, and both were traced; today the upper edge is drawn heavy and bare, running on east to Windischgarsten as the army group's boundary, and only the lower, ticked edge is traced. The Tauern bands are traced as on 23 May. The x-marked stretch of the Pilsen diagonal is left out today. 9E 47N (in Switzerland, by the Gross Venediger corner) and 14E 47N (south of the Tauern band's open end) read enemy: open-end artefacts. About 1231 km.
