@@ -194,7 +194,7 @@ Each map has four files:
   - `upper-rhine-area`: the enemy symbols in a box headed "UPPER RHINE AREA" in the same place (11 February 1945, after
     the pocket's end): listed, not placed.
   A new marking gets a new word here before it is used in a file. `map`: the sheet.
-  What the sheets draw: on the 24 days read (16-23 December 1944, the five Sundays 21 January - 18 February 1945,
+  What the sheets draw: on the 61 days read (16-23 December 1944, 12 January - 22 February 1945,
   7-17 March 1945), the US and British symbols are divisions and above, and the enemy's brigades and above.
   No battalion, battery or combat command has a box of its own, so an anti-aircraft, tank or infantry battalion is
   not on these maps: its division (or, for a battery under an army's or corps' command, nothing) is the nearest they come.
