@@ -40,14 +40,14 @@ x,y,of,echelon,arm,label,unit,list,map
 3640,1560,uk,xx,armored,7,,,loc-12ag/ict21252
 3762,1614,us,xx,infantry,35,,,loc-12ag/ict21252
 4420,1622,de,xx,armored,116,,,loc-12ag/ict21252
-3605,1635,us,xxx,,XVI,,,loc-12ag/ict21252
+3605,1635,us,xxx,,XVI,xvi-corps,,loc-12ag/ict21252
 3951,1636,de,xx,infantry,59,,,loc-12ag/ict21252
 3450,1638,uk,xxx,,XII,,,loc-12ag/ict21252
 3870,1737,us,xx,infantry,102,,,loc-12ag/ict21252
 4375,1770,de,xxx,,LXXXI,,,loc-12ag/ict21252
 2375,1775,uk,xxxxx,,TWENTY ONE,,,loc-12ag/ict21252
 4090,1780,de,xx,infantry,363,,,loc-12ag/ict21252
-3875,1815,us,xxx,,XIII,,,loc-12ag/ict21252
+3875,1815,us,xxx,,XIII,xiii-corps,,loc-12ag/ict21252
 3938,1829,us,xx,infantry,29,,,loc-12ag/ict21252
 3590,1872,us,xx,armored,8,,,loc-12ag/ict21252
 4605,1875,de,xxxx,,FIFTEENTH,,,loc-12ag/ict21252
@@ -116,7 +116,7 @@ x,y,of,echelon,arm,label,unit,list,map
 4145,2720,de,xx,armored,2,,,loc-12ag/ict21252
 6028,2741,de,xx,armored,25,,out-of-contact,loc-12ag/ict21252
 5856,2746,de,xx,armored,12 SS,,out-of-contact,loc-12ag/ict21252
-3870,2762,us,xx,armored,11,,,loc-12ag/ict21252
+3870,2762,us,xx,armored,11,11th-armd-div,,loc-12ag/ict21252
 4086,2769,de,xx,infantry,276,,,loc-12ag/ict21252
 4345,2778,de,xxx,,LXVII,,,loc-12ag/ict21252
 6026,2801,de,xx,airborne,3,,out-of-contact,loc-12ag/ict21252
@@ -167,9 +167,9 @@ x,y,of,echelon,arm,label,unit,list,map
 3932,3976,us,xx,armored,9,9ad,,loc-12ag/ict21252
 4608,4006,de,xx,infantry,19,,,loc-12ag/ict21252
 5431,4022,de,xxx,,LXXXIX,,,loc-12ag/ict21252
-3225,4025,us,xxxxx,,TWELFTH,,,loc-12ag/ict21252
+3225,4025,us,xxxxx,,TWELFTH,12th-army-group,,loc-12ag/ict21252
 5977,4043,de,xxxxx,,G,,,loc-12ag/ict21252
-2525,4068,us,xxxx,,FIFTEENTH,,,loc-12ag/ict21252
+2525,4068,us,xxxx,,FIFTEENTH,fifteenth-army,,loc-12ag/ict21252
 4797,4123,de,xx,armored-infantry,17 SS,,,loc-12ag/ict21252
 4428,4140,us,xx,infantry,70,,,loc-12ag/ict21252
 4572,4215,us,xx,infantry,63(-),,,loc-12ag/ict21252
@@ -180,22 +180,22 @@ x,y,of,echelon,arm,label,unit,list,map
 5884,4301,de,xx,infantry,216?,,,loc-12ag/ict21252
 5012,4365,de,xx,infantry,6 SS (MTN),,,loc-12ag/ict21252
 5441,4386,de,xx,infantry,47,,,loc-12ag/ict21252
-3835,4406,us,xx,infantry,79,,,loc-12ag/ict21252
+3835,4406,us,xx,infantry,79,79th-division,,loc-12ag/ict21252
 405,4425,us,xxxxxx,,SHAEF,,,loc-12ag/ict21252
-4645,4425,us,xxx,,XV,,,loc-12ag/ict21252
+4645,4425,us,xxx,,XV,xv-corps,,loc-12ag/ict21252
 5068,4426,de,xx,infantry,36,,,loc-12ag/ict21252
-4903,4461,us,xx,infantry,45,,,loc-12ag/ict21252
+4903,4461,us,xx,infantry,45,45th-division,,loc-12ag/ict21252
 5277,4495,de,xx,infantry,245,,,loc-12ag/ict21252
 4987,4515,us,xx,infantry,103,,,loc-12ag/ict21252
 5683,4545,de,xxx,armored,XXXIX,,,loc-12ag/ict21252
 5138,4560,us,xx,airborne,AB 101,,,loc-12ag/ict21252
 5460,4562,de,xx,infantry,257,,,loc-12ag/ict21252
-4951,4576,us,xxx,,VI,,,loc-12ag/ict21252
+4951,4576,us,xxx,,VI,vi-corps,,loc-12ag/ict21252
 4141,4581,us,xx,infantry,42,,,loc-12ag/ict21252
 5330,4627,us,xx,infantry,36,,,loc-12ag/ict21252
 4958,4658,us,xx,armored,14,,,loc-12ag/ict21252
 5522,4713,de,xx,infantry,905 zbV,,,loc-12ag/ict21252
-4240,4788,us,xxxx,,SEVENTH,,,loc-12ag/ict21252
+4240,4788,us,xxxx,,SEVENTH,seventh-army,,loc-12ag/ict21252
 5080,4830,fr,xxx,,II FR,,,loc-12ag/ict21252
 5223,4905,fr,xx,unread,ALG 3,,,loc-12ag/ict21252
 4915,4945,fr,xxxx,,FIRST FR,,,loc-12ag/ict21252
@@ -210,14 +210,14 @@ x,y,of,echelon,arm,label,unit,list,map
 6163,5309,de,xx,infantry,2 MTN,,upper-rhine-area,loc-12ag/ict21252
 5374,5310,de,xx,infantry,805 zbV,,,loc-12ag/ict21252
 6053,5310,de,xx,infantry,198,,upper-rhine-area,loc-12ag/ict21252
-3737,5322,us,xxxxx,,SIXTH,,,loc-12ag/ict21252
+3737,5322,us,xxxxx,,SIXTH,6th-army-group,,loc-12ag/ict21252
 5858,5322,de,xxxxx,,UPPER RHINE,,,loc-12ag/ict21252
 6172,5367,de,xx,infantry,716,,upper-rhine-area,loc-12ag/ict21252
 6054,5368,de,xx,infantry,338,,upper-rhine-area,loc-12ag/ict21252
 5370,5397,de,xxx,,LXIII,,,loc-12ag/ict21252
 6164,5425,de,xx,infantry,16,,upper-rhine-area,loc-12ag/ict21252
 6055,5427,de,xx,infantry,708,,upper-rhine-area,loc-12ag/ict21252
-5028,5455,fr,xx,armored,2 FR,,,loc-12ag/ict21252
+5028,5455,fr,xx,armored,2 FR,fr-2d-armd-div,,loc-12ag/ict21252
 6125,5479,de,x,armored,106,,upper-rhine-area,loc-12ag/ict21252
 5203,5508,de,xx,infantry,30 SS,,,loc-12ag/ict21252
 5048,5558,us,xx,infantry,3,,,loc-12ag/ict21252

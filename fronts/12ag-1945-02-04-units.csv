@@ -40,12 +40,12 @@ x,y,of,echelon,arm,label,unit,list,map
 3961,1625,de,xx,infantry,59,,,loc-12ag/ict21245
 3493,1626,uk,xxx,,XII,,,loc-12ag/ict21245
 3724,1631,uk,xx,infantry,52(-),,,loc-12ag/ict21245
-3489,1702,us,xxx,,XVI,,,loc-12ag/ict21245
+3489,1702,us,xxx,,XVI,xvi-corps,,loc-12ag/ict21245
 3876,1744,us,xx,infantry,102,,,loc-12ag/ict21245
 2386,1755,uk,xxxxx,,TWENTY ONE,,,loc-12ag/ict21245
 4376,1765,de,xxx,,LXXXI,,,loc-12ag/ict21245
 4100,1778,de,xx,infantry,363,,,loc-12ag/ict21245
-3859,1821,us,xxx,,XIII,,,loc-12ag/ict21245
+3859,1821,us,xxx,,XIII,xiii-corps,,loc-12ag/ict21245
 3947,1840,us,xx,infantry,29,,,loc-12ag/ict21245
 4630,1868,de,xxxx,,FIFTEENTH,,,loc-12ag/ict21245
 4145,1890,de,xx,infantry,353,,,loc-12ag/ict21245
@@ -128,7 +128,7 @@ x,y,of,echelon,arm,label,unit,list,map
 3702,2960,us,xx,airborne,17,,,loc-12ag/ict21245
 6044,2970,de,xxx,armored,SIXTH,,out-of-contact,loc-12ag/ict21245
 3872,2998,de,xx,infantry,276,,,loc-12ag/ict21245
-3332,3010,us,xx,armored,11,,,loc-12ag/ict21245
+3332,3010,us,xx,armored,11,11th-armd-div,,loc-12ag/ict21245
 4343,3022,de,xxx,,LIII,,,loc-12ag/ict21245
 4613,3025,de,xxxx,,SEVENTH,,,loc-12ag/ict21245
 6050,3041,de,xxx,armored,II SS,,out-of-contact,loc-12ag/ict21245
@@ -163,11 +163,11 @@ x,y,of,echelon,arm,label,unit,list,map
 4489,3917,de,xx,infantry,347,,,loc-12ag/ict21245
 3927,3973,us,xx,armored,9,9ad,,loc-12ag/ict21245
 4608,4005,de,xx,infantry,19,,,loc-12ag/ict21245
-3217,4009,us,xxxxx,,TWELFTH,,,loc-12ag/ict21245
+3217,4009,us,xxxxx,,TWELFTH,12th-army-group,,loc-12ag/ict21245
 5599,4020,de,xx,armored,21,,,loc-12ag/ict21245
 5429,4025,de,xxx,,LXXXIX,,,loc-12ag/ict21245
 5977,4048,de,xxxxx,,G,,,loc-12ag/ict21245
-2517,4063,us,xxxx,,FIFTEENTH,,,loc-12ag/ict21245
+2517,4063,us,xxxx,,FIFTEENTH,fifteenth-army,,loc-12ag/ict21245
 4792,4127,de,xx,armored-infantry,17 SS,,,loc-12ag/ict21245
 4425,4149,us,xx,infantry,70,,,loc-12ag/ict21245
 4572,4221,us,xx,infantry,63(-),,,loc-12ag/ict21245
@@ -180,22 +180,22 @@ x,y,of,echelon,arm,label,unit,list,map
 5008,4366,de,xx,infantry,6 SS (MTN),,,loc-12ag/ict21245
 398,4402,us,xxxxxx,,SHAEF,,,loc-12ag/ict21245
 5060,4423,de,xx,infantry,36,,,loc-12ag/ict21245
-4655,4434,us,xxx,,XV,,,loc-12ag/ict21245
-4900,4463,us,xx,infantry,45(+),,,loc-12ag/ict21245
+4655,4434,us,xxx,,XV,xv-corps,,loc-12ag/ict21245
+4900,4463,us,xx,infantry,45(+),45th-division,,loc-12ag/ict21245
 3654,4466,us,xx,armored,8,,,loc-12ag/ict21245
 5280,4501,de,xx,infantry,245,,,loc-12ag/ict21245
 4979,4515,us,xx,infantry,103,,,loc-12ag/ict21245
 5380,4542,de,xx,infantry,47,,,loc-12ag/ict21245
 5679,4552,de,xxx,armored,XXXIX,,,loc-12ag/ict21245
 5134,4558,us,xx,airborne,101,,,loc-12ag/ict21245
-5252,4578,us,xx,infantry,79(+),,,loc-12ag/ict21245
-4945,4581,us,xxx,,VI,,,loc-12ag/ict21245
+5252,4578,us,xx,infantry,79(+),79th-division,,loc-12ag/ict21245
+4945,4581,us,xxx,,VI,vi-corps,,loc-12ag/ict21245
 4136,4582,us,xx,infantry,42(-),,,loc-12ag/ict21245
 5428,4604,de,xx,armored,10 SS,,,loc-12ag/ict21245
 5294,4643,us,xx,infantry,36(+),,,loc-12ag/ict21245
 4954,4670,us,xx,armored,14(-),,,loc-12ag/ict21245
 5514,4716,de,xx,infantry,553,,,loc-12ag/ict21245
-4231,4787,us,xxxx,,SEVENTH,,,loc-12ag/ict21245
+4231,4787,us,xxxx,,SEVENTH,seventh-army,,loc-12ag/ict21245
 5191,4820,us,xx,armored,12,,,loc-12ag/ict21245
 5063,4839,fr,xxx,,II FR,,,loc-12ag/ict21245
 5223,4910,fr,xx,unread,ALG 3,,,loc-12ag/ict21245
@@ -204,12 +204,12 @@ x,y,of,echelon,arm,label,unit,list,map
 5360,5107,de,xx,infantry,405,,,loc-12ag/ict21245
 5069,5159,fr,xx,infantry,FR(+),,,loc-12ag/ict21245
 5678,5172,de,xxxx,,NINETEENTH,,,loc-12ag/ict21245
-5127,5211,fr,xx,armored,2(-) FR,,,loc-12ag/ict21245
+5127,5211,fr,xx,armored,2(-) FR,fr-2d-armd-div,,loc-12ag/ict21245
 5390,5239,de,xxx,,LXIV,,,loc-12ag/ict21245
 4944,5247,us,xxx,,XXI,,,loc-12ag/ict21245
 6159,5257,de,xx,infantry,159,,upper-alsace-pocket,loc-12ag/ict21245
 6048,5260,de,xx,infantry,189,,upper-alsace-pocket,loc-12ag/ict21245
-3724,5319,us,xxxxx,,SIXTH,,,loc-12ag/ict21245
+3724,5319,us,xxxxx,,SIXTH,6th-army-group,,loc-12ag/ict21245
 6049,5319,de,xx,infantry,198,,upper-alsace-pocket,loc-12ag/ict21245
 6159,5320,de,xx,infantry,2 MTN,,upper-alsace-pocket,loc-12ag/ict21245
 5858,5349,de,xxxxx,,UPPER RHINE,,,loc-12ag/ict21245

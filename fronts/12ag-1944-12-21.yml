@@ -24,3 +24,6 @@ checked: []
 # blob with no ticks that joins two ticked runs; it decides no town (looked at 3967,2185).
 # Marche (3148,2706) reads own (US) because its ring sits at the tip of the Ardennes finger (the line passes at ~3170,2700); looked at the crop 2600,2450.
 
+# Reviewed again (8 Nov 2026): the THIRD box at 3913,4658 carries five x's on the sheet (an army group's mark; looked at
+# 4x), recorded as drawn (xxxxx) and tied to third-army: a drafting slip, since Third Army is drawn with four x's on the
+# other days.

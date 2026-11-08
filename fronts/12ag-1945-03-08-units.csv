@@ -6,7 +6,7 @@ x,y,of,echelon,arm,label,unit,list,map
 4277,1501,us,xx,infantry,99,,,loc-12ag/ict21277
 4850,1503,de,xxxx,,FIFTEENTH,,,loc-12ag/ict21277
 4470,1537,de,xx,infantry,363,,,loc-12ag/ict21277
-3957,1556,us,xx,infantry,79,,,loc-12ag/ict21277
+3957,1556,us,xx,infantry,79,79th-division,,loc-12ag/ict21277
 4820,1598,de,xxx,,LXXXI,,,loc-12ag/ict21277
 4524,1612,de,xx,infantry,476,,,loc-12ag/ict21277
 4401,1658,us,xx,armored,3(+),,,loc-12ag/ict21277
@@ -45,7 +45,7 @@ x,y,of,echelon,arm,label,unit,list,map
 4853,2506,us,xx,armored,4,,,loc-12ag/ict21277
 4199,2534,us,xx,infantry,87,,,loc-12ag/ict21277
 4704,2535,de,xx,infantry,18,,,loc-12ag/ict21277
-4492,2556,us,xx,armored,11,,,loc-12ag/ict21277
+4492,2556,us,xx,armored,11,11th-armd-div,,loc-12ag/ict21277
 4212,2597,us,xx,infantry,4,,,loc-12ag/ict21277
 3941,2611,us,xxx,,VIII,viii-corps,,loc-12ag/ict21277
 4262,2658,us,xx,infantry,90,,,loc-12ag/ict21277
