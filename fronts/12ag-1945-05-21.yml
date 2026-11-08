@@ -1,0 +1,55 @@
+# 12ag-1945-05-21: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21351
+date: 1945-05-21
+as_of: 211200 MAY 1945
+report: 349
+title: "HQ 12th Army Group Situation Map (SECRET struck through), to accompany G-3 report no. 349: situation as of 211200 May 1945; signed for A. Franklin Kibler, Brigadier General, GSC, A.C. of S., G-3; 1:1,500,000 Albers conical equal-area sheet"
+read: the title on the sheet, 8 Nov 2026
+gcps_from: 12ag-1945-05-20
+radius: 4
+dark: 70
+# Reader: 20 May's 23 boxes moved by the sheet offset (-40, -16 px; 21 May is 5935 x 6668), each tested by dropping it alone
+# from a run with all boxes in: ten held nothing today and are left out (British units table, foot stamp, the box east of the
+# line, the Schnackenburg spur, Stassfurt, the Graslitz and Saxony-Bohemia pieces, the XII/V piece, the 26 symbol, Mondsee);
+# thirteen kept; four added. Box coordinates in each "why" (and "unsure run" notes) are 20 May's wording; the box itself is
+# today's. Nothing the sheet draws as a ticked line is inside any box except as noted: box 9's foot, which on 20 May's
+# coordinates (3150, 3350, 4650, 5400) swallowed the ticked line along the Salzach at St. Johann (about 18 km, mid 4586,5335 on
+# today's scan), is cut to y 5300 here (see Reader note at the foot).
+exclude:
+  # first pass: the sheet is full of heavy dark lines that are not the front (national borders drawn dark, the grey-hatched
+  # mountain borders, army and army-group boundaries, provincial lines). Only the Elbe-Mulde-Bohemia-Enns-Tauern line is ticked.
+  - {box: [0, 0, 3110, 6682], why: "everything west of the Elbe start: Rhine, French/Swiss/Dutch borders, legend (bottom left), army boundaries, no front"}
+  - {box: [4210, 184, 5955, 1044], why: "title block lettering: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, report no. 349, date, signature"}
+  - {box: [4310, 1084, 5955, 2984], why: "Saxony-Bohemia border (dark hatched Erzgebirge), east of the line"}
+  - {box: [3110, 1414, 3840, 2684], why: "heavy black provincial/state outlines in Thuringia/Anhalt, west of the line, no ticks"}
+  - {box: [3110, 2984, 4210, 3334], why: "Bavarian-Bohemian border west of the line"}
+  - {box: [3110, 3334, 4610, 5300], why: "Bavaria: army boundaries drawn black, Danube, Bavaria-Czech/Austrian borders, west of the line"}
+  - {box: [3110, 2684, 3840, 2844], why: "Thuringia-Bavaria/Saxony state border (dark red/black, hatched) west of the line, no ticks (unsure runs 3161,2739 3295,2790 3574,2743 3745,2731 3817,2791)"}
+  - {box: [4610, 3904, 4845, 4059], why: "blue fragments on the hatched Bavaria-Bohemia border (Bohemian Forest) west of the line"}
+  - {box: [4660, 4264, 4840, 4364], why: "Bavaria-Austria border at the Inn, hatched/red, west of the front (unsure runs 4747,4309 4787,4328 4819,4349)"}
+  - {box: [3310, 5634, 3910, 5784], why: "Austria-Italy border at the Brenner (hatched, red overprint) with no ticks, and blue fragments on it (unsure runs 3537,5704 3453,5721 3852,5663 3944,5679)"}
+  - {box: [3920, 5684, 4060, 5784], why: "Austria-Italy border south of Gross Venediger (red/hatched), no ticks (unsure run 3970,5764)"}
+  - {box: [4740, 5094, 4800, 5154], why: "Army/army-group boundary drawn as a thin black line with no ticks, near Bad Aussee (unsure run 4809,5141)"}
+  - {box: [3840, 2844, 3960, 3004], why: "dark-grey hatched Bohemian border and road fragments round the Asch bulge, west of the line, no ticks (runs 29-32 near 3930,2896 / 3923,2960 / 3950,2972 / 3978,2997)"}
+  # 21 May additions, found by the no-box run and looked at (look.jpg, 4x overlay crops):
+  - {box: [3945, 2230, 3985, 2285], why: "Meerane: dark overprint on the red Saxony state border (blue river fragment beside it), no ticks, a stub 5 km long west of the line (run 21 of the first pass at 3963,2253); not on 20 May"}
+  - {box: [4745, 4985, 4790, 5045], why: "Bad Ischl: the kink of the thin black army/army-group boundary (no ticks, heavy where it bends), not the line (first-pass run 42 at 4765,5010; 20 May's boundary stub was a little lower, in the box above)"}
+  - {box: [3850, 5570, 3920, 5625], why: "Gross Venediger: Austria-Italy border (red overprint on grey hatching) west of where the ticked line ends, three short unsure pieces with red-border ink (first-pass runs at 3883,5584 3906,5593 3866,5608)"}
+  - {box: [3895, 5700, 3935, 5740], why: "Gross Venediger: short stub on the Austria-Italy border (red/hatched) south of the line's end, no ticks (first-pass run at 3913,5716)"}
+flip: []
+checked:   # unsure runs with no ticks counted, accepted by continuity with the ticked runs either side
+  - {at: [3871, 1393], why: "Dessau, the hook at the Elbe-Mulde corner (arc over the bridge); heavy black, no ticks, between the ticked Elbe (run 10) and the ticked Mulde (run 13), front by continuity as on 20 May's three Rosslau runs; red ticks fall west/outside as they must"}
+  - {at: [3853, 1417], why: "Dessau, the left leg of the same hook; heavy black, front by continuity (as 20 May)"}
+  - {at: [5259, 4575], why: "the Enns by Steyr/Enns town: line drawn heavy over the red Upper/Lower Austria border, no ticks visible on the look (look 5255,4600): ticked runs lie north (Enns town, 65 symbol) and south (run toward Steyr); the sides test puts 14E 48N (west) own and 15E 48N (east) enemy by these runs, so as found is right"}
+  - {at: [5255, 4637], why: "the Enns south of Enns town, same heavy unticked piece, same reason"}
+  - {at: [5228, 4719], why: "the Enns by Steyr (71 symbol west of it), same heavy unticked piece, same reason"}
+# Reader: after 8 May the ticked line is the line of contact with the Soviet armies (the Elbe, the Mulde, the line across
+# Bohemia, the Enns, the Tauern to the Gross Venediger), not a front against the enemy; the legend's "ENEMY" hatched box is the
+# map's own wording. Stretches turned by hand: none (flip is empty). The line ends at the Austria-Italy border at Gross
+# Venediger (about 3920,5650); the Brenner stretch of the Austria-Italy border has no ticks and is not traced. North of the
+# Elbe at 53 N the line runs on to the Baltic side beyond the towns' spread; it is traced to (3260,280), where the heavy
+# black ends at the neat line.
+# Reader: 20 May's box [3150, 3350, 4650, 5400] left a gap of about 18 km in the ticked line along the Salzach (St. Johann,
+# Schladming, about 4490-4660 x 5300-5380 on today's scan); today the box stops at y 5300 and the line is whole there. 20 May
+# probably has the same gap (reviewer: look).
+# Reviewed (8 Nov 2026): the line of contact with the Soviet armies, as on 20 May (the Elbe, Dessau, the Mulde, across Bohemia, the Enns, the Tauern to Gross Venediger), not a front against the enemy. Overlay crop 4250,5050 looked at: the Bavaria box, moved from 20 May, held about 18 km of the ticked line along the Salzach from St. Johann to Schladming; cut to y 5300, the line is whole there, ticks north (20 May had the same gap and is fixed with this). The sheet prints report no. 349, as 20 May's does. The Dessau hook and three heavy unticked runs on the Enns are checked, by continuity with the ticked runs either side. All 58 towns on the same side as 20 May. About 1149 km.

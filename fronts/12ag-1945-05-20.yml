@@ -17,7 +17,7 @@ exclude:
   - {box: [4350, 1100, 5995, 3000], why: "Saxony-Bohemia border (dark hatched Erzgebirge), east of the line"}
   - {box: [3150, 1430, 3880, 2700], why: "heavy black provincial/state outlines in Thuringia/Anhalt, west of the line, no ticks"}
   - {box: [3150, 3000, 4250, 3350], why: "Bavarian-Bohemian border west of the line"}
-  - {box: [3150, 3350, 4650, 5400], why: "Bavaria: army boundaries drawn black, Danube, Bavaria-Czech/Austrian borders, west of the line"}
+  - {box: [3150, 3350, 4650, 5316], why: "cut at its foot from y 5400 to 5316 on 8 Nov 2026: at 5400 it held about 18 km of the ticked line along the Salzach from St. Johann to Schladming (found on 21 May); Bavaria: army boundaries drawn black, Danube, Bavaria-Czech/Austrian borders, west of the line"}
   - {box: [3455, 370, 3490, 400], why: "short spur stub beside the Elbe front at Schnackenburg (the bank's heavy ink), duplicate of the front"}
   - {box: [3560, 1410, 3600, 1440], why: "Stassfurt: black provincial outline (Anhalt/Prussian Saxony) with no ticks, west of the Elbe line"}
   - {box: [3150, 2700, 3880, 2860], why: "Thuringia-Bavaria/Saxony state border (dark red/black, hatched) west of the line, no ticks (unsure runs 3161,2739 3295,2790 3574,2743 3745,2731 3817,2791)"}
@@ -32,6 +32,7 @@ exclude:
   - {box: [4780, 5110, 4840, 5170], why: "Army/army-group boundary drawn as a thin black line with no ticks, near Bad Aussee (unsure run 4809,5141)"}
   - {box: [4620, 4940, 4720, 4990], why: "Mondsee's dark shore outline, a lake edge not a front (blue run at 4651,4959 / 4682,4967 turned the 13E 48N ring)"}
   - {box: [3880, 2860, 4000, 3020], why: "dark-grey hatched Bohemian border and road fragments round the Asch bulge, west of the line, no ticks (runs 29-32 near 3930,2896 / 3923,2960 / 3950,2972 / 3978,2997)"}
+  - {box: [3180, 5310, 3240, 5370], why: "a stub of the Bavaria-Tyrol border hatching by Garmisch, uncovered when the Bavaria box was cut to y 5316 (unsure, no ticks): not the line (8 Nov 2026)"}
 flip: []
 checked:   # runs of the Elbe line at Rosslau/Dessau, no ticks counted; the line is continuous from the ticked Elbe above to the ticked Mulde below
   - {at: [3791, 1416], why: "Rosslau, Elbe line between the ticked reaches; heavy black, front by continuity"}
@@ -41,3 +42,4 @@ checked:   # runs of the Elbe line at Rosslau/Dessau, no ticks counted; the line
 # across Bohemia, the Enns, then the Tauern to the Brenner), not a front against the enemy: the side frontSide calls
 # "enemy" is the Soviets'. A page must say so and not shade it as the enemy's. The three Rosslau runs are accepted by
 # continuity (heavy, unticked, between the ticked Elbe and Mulde). B15's 68 days (20 May to 26 July) are all like this.
+# Reviewed again (8 Nov 2026): the Bavaria box is cut at its foot (y 5400 to 5316): it held about 18 km of the ticked line along the Salzach from St. Johann to Schladming, found on 21 May. A stub of the border hatching by Garmisch that the cut uncovered is boxed. The line is now whole there; all 58 towns on the same side as before. About 1182 km (was 1150).
