@@ -63,6 +63,13 @@ Each is written in its day's YAML.
   where a boundary joins the front.
 - **7 June 1944**: four short bends untraced (about 8-10 km of some 38); its teeth hang inland, the reverse of
   every other sheet, and all six stretches are flipped. Could be redone with waypoints.
+- **The breakout, 25 July - 15 August 1944: redo before its symbols are read** (section 3, row 4). The B01 and B02
+  sheets to 4 August were traced at radius 3 and leave large gaps: about 108 km of some 134 on 30 July, about 112 km
+  on 2 August. Redo them across the whole sheet, trying radius 4 and 5 as on 7-17 March 1945, with hand waypoints
+  where the ticks break the line. Not at a fixed radius: the 1:500,000 sheets from 5 August (B03, B04) draw the line
+  finer and were traced deliberately at 2-4 (each day's YAML says why). The redo is also where the arrows and open
+  ends below (section 4) are first recorded: 2 August boxes the 4th Armored's arrow out as "not front", and its line
+  stops at the bay north of Avranches with Third Army already through.
 - **check_fronts.py** (`uv run tools/check_fronts.py FIRST LAST`) has not been run across every committed range
   since the last days went in; run it over each month and look at what it flags.
 
@@ -73,24 +80,28 @@ on thirteen: 16-23 December 1944, 21 and 28 January and 4, 11 and 18 February 19
 6.4-7.8 E, 50.0-51.2 N; 39 to 64 symbols) on 7-17 March 1945, whose fronts are now traced on the whole sheet. Every
 other day has its front (or an empty front) and no symbols. Fronts not yet traced (section 1) are marked below.
 
-In the order to read them, following four units through the sheets: Company B, 313th Infantry (79th Division);
-HQ Battery, 128th AAA Gun Bn; the 9th Armored Division; Battery D, 106th AAA AW Bn (their stations are in
-`army/stations.csv`). The first four rows are the days two or more of them were close.
+In the order to read them, following five units through the sheets: Company B, 313th Infantry (79th Division);
+HQ Battery, 128th AAA Gun Bn; the 9th Armored Division, and in it the 19th Tank Battalion's Service Company
+(`19tb-serv`; the battalion served under Combat Command A, `9ad-cca`); Battery D, 106th AAA AW Bn (their stations
+are in `army/stations.csv`). The battalions and batteries aren't drawn on these sheets (below), so the division or
+its combat command is as near as the maps come to them. Rows 1-4 finish the stretches where the units were close and
+where an engagement is waiting on the symbols.
 
 | # | Days | Base | Days to read | Front | The units |
 |---|---|---|---|---|---|
-| 1 | 26 June - 11 July 1944 | B01 | 16 | traced | the 313th Infantry in the Cotentin, the 128th AAA at Cherbourg |
-| 2 | 12 January - 22 February 1945 (21 and 28 January, 4, 11 and 18 February read) | B11 | 37 | traced | the 128th AAA and the 9th Armored at Metz; the 106th AAA in northern Alsace |
-| 3 | 7-17 March 1945, the whole sheet beyond the Remagen window | B11 | 11 | traced | the 128th AAA at Metz, the 106th AAA to Sarreguemines |
-| 4 | 18 March - 5 April 1945 | B11, B12 | 19 | traced | the 9th Armored at Koblenz, the 128th AAA to Boppard, the 106th AAA through the Palatinate to the Rhine and the Main |
-| 5 | 24 December 1944 - 11 January 1945 | B11 | 19 | traced | the 9th Armored after the Bulge, the 128th AAA at Nancy, the 106th AAA in northern Alsace |
-| 6 | 18 October - 15 December 1944 | B09, B11 | 58 | traced | the 9th Armored at Mersch, the 128th AAA at Nancy, the 106th AAA at Rambervillers and in northern Alsace |
-| 7 | 6 September - 17 October 1944 | B09, B10 | 42 | traced, but 10 September not (section 1); to 28 September empty fronts | the 128th AAA at Toul and Nancy, the 106th AAA to Épinal |
-| 8 | 6 April - 8 May 1945 | B12, B13, B14 | 33 | traced | the 9th Armored to Leipzig and Bavaria, the 128th AAA at Grafenwöhr and Plattling |
-| 9 | 12 July - 5 September 1944 | B01-B08 | 56 | traced | the 128th AAA across France; the 106th AAA in southern France from 15 August, if the sheets reach it |
-| 10 | 23 February - 6 March 1945 | B11 | 12 | traced | the 128th AAA at Metz, the 9th Armored toward the Rhine |
-| 11 | 6-25 June 1944 | B01 | 20 | traced | none of the four ashore yet |
-| 12 | 9 May - 26 July 1945 | B14, B15 | 79 | traced to 7 June (from 1 June empty fronts); 8 June on not (section 1) | the occupation |
+| 1 | 12 January - 22 February 1945 (21 and 28 January, 4, 11 and 18 February read) | B11 | 37 | traced | the 128th AAA and the 9th Armored between Thionville and Metz; the 106th AAA in northern Alsace |
+| 2 | 24 December 1944 - 11 January 1945 | B11 | 19 | traced | the 9th Armored after the Bulge, the 128th AAA at Nancy, the 106th AAA in northern Alsace; the Bulge engagement's frames show the front alone after 23 December until these are read |
+| 3 | 26 June - 11 July 1944 | B01 | 16 | traced | the 313th Infantry in the Cotentin, the 128th AAA at Cherbourg |
+| 4 | 25 July - 15 August 1944 (the front redone first, below) | B01-B04 | 22 | traced, with gaps | the breakout: the armour's arrows beyond the line, the 128th AAA from Cherbourg into Brittany |
+| 5 | 7-17 March 1945, the whole sheet beyond the Remagen window | B11 | 11 | traced | the 9th Armored's combat commands in the bridgehead, the 128th AAA at Metz, the 106th AAA to Sarreguemines |
+| 6 | 18 March - 5 April 1945 | B11, B12 | 19 | traced | the 9th Armored at Koblenz, the 128th AAA to Boppard, the 106th AAA through the Palatinate to the Rhine and the Main |
+| 7 | 18 October - 15 December 1944 | B09, B11 | 58 | traced | the 9th Armored at Mersch, the 128th AAA at Nancy, the 106th AAA at Rambervillers and in northern Alsace |
+| 8 | 6 September - 17 October 1944 | B09, B10 | 42 | traced, but 10 September not (section 1); to 28 September empty fronts | the 128th AAA at Toul and Nancy, the 106th AAA to Épinal |
+| 9 | 6 April - 8 May 1945 | B12, B13, B14 | 33 | traced | the 9th Armored to Leipzig and Bavaria, the 128th AAA at Grafenwöhr and Plattling |
+| 10 | 12 July - 24 July and 16 August - 5 September 1944 | B01-B08 | 34 | traced | the 128th AAA across France; the 106th AAA in southern France from 15 August, if the sheets reach it |
+| 11 | 23 February - 6 March 1945 | B11 | 12 | traced | the 128th AAA at Metz, the 9th Armored toward the Rhine |
+| 12 | 6-25 June 1944 | B01 | 20 | traced | none of the five ashore yet |
+| 13 | 9 May - 26 July 1945 | B14, B15 | 79 | traced to 7 June (from 1 June empty fronts); 8 June on not (section 1) | the occupation |
 
 (The catalogue has no sheet for 12 November 1944.)
 
@@ -104,9 +115,42 @@ HQ Battery, 128th AAA Gun Bn; the 9th Armored Division; Battery D, 106th AAA AW 
 - A whole sheet takes a reader far longer than a front (150-230 symbols), so the order above matters.
 - After 8 May 1945 the symbols are the occupation's, not a battle's: say so in the day's notes.
 
+### Reading closer (from 8 November 2026)
+
+- **A divided division, part by part.** Where a division is drawn in parts, read each part as drawn ("9(-)", "CCA",
+  "CCB", "CCR", a task force, "(+)" and "(-)"), and tie a combat command to its own key where the kit has one
+  (`9ad-cca`). On the 24 days read so far the US symbols are divisions and above only (no brigade, combat command or
+  battalion box), and the 9th Armored is drawn whole or as "9(-)"/"9(+)"; look for its parts above all on
+  16 December 1944 - 11 January 1945 and 7-17 March 1945.
+- **Fill `unit` wherever a symbol is certainly a unit the kit has** (`army/units.csv`, or a key `army/relations.csv`
+  uses). The read days tie the corps, the armies, the 1st Division and the 9th Armored; they leave the 79th
+  Division's "79" and "79(+)" untied although `79th-division` is in `relations.csv`. Tie it on the days already read
+  and on every new one, and the same for any other division that gets a key.
+- **Keep every reading checkable**: the box's x,y, the label exactly as drawn, and in the notes every symbol that is a
+  list entry rather than placed (`fit_km` is on each point in the GeoJSON). Where a followed division hasn't moved
+  since the day before, say so in the day's YAML ("the 9th Armored's oval where it was on the 20th"), so a quiet
+  stretch reads as a reading, not a gap.
+- **List words** (`README.md`): `marseilles`, `le-havre`, `cherbourg`, `westwall`, `bracket`, `arrow`,
+  `dieppe-rouen`, `upper-alsace-pocket` and `upper-rhine-area` say what each box is on the sheet; not yet how a page
+  should show each one. Add a line to each when a page first draws them.
+
 ## 4. Tool
 
 - `dark:` (per-sheet grey cutoff) is in; it works both ways: higher for pale prints (June 1944, 4 March and
   21 and 27 November), lower for a heavy one (1 April 1945, `dark: 45`).
 - Not done: joining a line where its ticks fuse with it and break it into pieces (the June sheets' trouble). Hand
   waypoints work around it; a fix in the stretch method would save reading them.
+- **Not done: new kinds in the GeoJSON**, each with its key in `README.md` before a day uses it:
+  - `kind: arrow`, an attack arrow, traced tail to head with the unit it is labelled with, instead of boxed out as
+    "not front". On the breakout days the arrows are the only mark of the armoured spearheads beyond the line.
+  - `kind: boundary`, the army group, army and corps boundaries with their labels (TWELFTH/SIXTH and the rest),
+    instead of only boxed out, so a page can say whose ground a unit's area lay in (the 12th/6th Army Group seam in
+    Lorraine and Alsace above all).
+  - `open_ends: [{lon, lat, note}]` in a day's YAML, where the line stops short and the sheet shows its own side
+    beyond it (2 August 1944 at the bay north of Avranches), so a page can draw "line not drawn beyond here". Today
+    these are only comments.
+- **Not done: `as_of_iso`** beside the typed `as_of` (the sheets type "2400 HRS 10 JULY 1944", "1200 HRS 16 DECEMBER
+  1944", "281200 JAN. 1945"), so pages needn't each parse the forms. Write it as a local time with no offset, and keep
+  the zone apart as an assumption to be checked: the sheets type no zone letter, and one offset won't do for the whole
+  run if, as is likely, the armies in France kept British double summer time (UTC+2) in the summer of 1944 and one
+  hour less from the autumn. Not checked: confirm from the army group's own dated records before any offset is written.
