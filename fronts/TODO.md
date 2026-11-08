@@ -66,10 +66,10 @@ Each is written in its day's YAML.
 - **check_fronts.py** (`uv run tools/check_fronts.py FIRST LAST`) has not been run across every committed range
   since the last days went in; run it over each month and look at what it flags.
 
-## 3. Unit symbols: 395 days not read, 11 read only in part
+## 3. Unit symbols: 391 days not read, 11 read only in part
 
-The unit symbols are read on 20 of the 415 days (`<map>-units.csv`; columns in `README.md`). Across the whole sheet
-on nine: 16-23 December 1944 and 28 January 1945 (176 to 226 symbols a day). Within the Remagen window only (about
+The unit symbols are read on 24 of the 415 days (`<map>-units.csv`; columns in `README.md`). Across the whole sheet
+on thirteen: 16-23 December 1944, 21 and 28 January and 4, 11 and 18 February 1945 (176 to 226 symbols a day). Within the Remagen window only (about
 6.4-7.8 E, 50.0-51.2 N; 39 to 64 symbols) on 7-17 March 1945, whose fronts are now traced on the whole sheet. Every
 other day has its front (or an empty front) and no symbols. Fronts not yet traced (section 1) are marked below.
 
@@ -80,7 +80,7 @@ HQ Battery, 128th AAA Gun Bn; the 9th Armored Division; Battery D, 106th AAA AW 
 | # | Days | Base | Days to read | Front | The units |
 |---|---|---|---|---|---|
 | 1 | 26 June - 11 July 1944 | B01 | 16 | traced | the 313th Infantry in the Cotentin, the 128th AAA at Cherbourg |
-| 2 | 12 January - 22 February 1945 (28 January read) | B11 | 41 | traced | the 128th AAA and the 9th Armored at Metz; the 106th AAA in northern Alsace |
+| 2 | 12 January - 22 February 1945 (21 and 28 January, 4, 11 and 18 February read) | B11 | 37 | traced | the 128th AAA and the 9th Armored at Metz; the 106th AAA in northern Alsace |
 | 3 | 7-17 March 1945, the whole sheet beyond the Remagen window | B11 | 11 | traced | the 128th AAA at Metz, the 106th AAA to Sarreguemines |
 | 4 | 18 March - 5 April 1945 | B11, B12 | 19 | traced | the 9th Armored at Koblenz, the 128th AAA to Boppard, the 106th AAA through the Palatinate to the Rhine and the Main |
 | 5 | 24 December 1944 - 11 January 1945 | B11 | 19 | traced | the 9th Armored after the Bulge, the 128th AAA at Nancy, the 106th AAA in northern Alsace |
