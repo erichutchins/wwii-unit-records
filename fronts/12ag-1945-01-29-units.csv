@@ -220,8 +220,8 @@ x,y,of,echelon,arm,label,unit,list,map
 4271,5562,fr,xxxx,,FIRST FR,,,loc-12ag/ict21239
 4786,5562,de,xx,infantry,16,,,loc-12ag/ict21239
 5331,5577,de,xxx,,LXIII,,,loc-12ag/ict21239
-4878,5589,de,xx,infantry,159,,,loc-12ag/ict21239
+4878,5589,de,xx,infantry,159,,arrow,loc-12ag/ict21239
 4521,5592,fr,xx,infantry,10 FR,,,loc-12ag/ict21239
-5049,5593,de,xx,infantry,2 MTN,,,loc-12ag/ict21239
-4951,5647,de,xx,infantry,716,,,loc-12ag/ict21239
+5049,5593,de,xx,infantry,2 MTN,,arrow,loc-12ag/ict21239
+4951,5647,de,xx,infantry,716,,arrow,loc-12ag/ict21239
 4766,5652,de,xx,infantry,338,,,loc-12ag/ict21239
