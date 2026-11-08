@@ -1,0 +1,99 @@
+# 12ag-1945-06-04: the sheet as read on its title, and the hand decisions its trace needed.
+item: ict21365
+date: 1945-06-04
+as_of: 041200 JUNE 1945
+report: 364
+title: "HQ 12th Army Group Situation Map (SECRET struck through), to accompany G-3 report no. 364: situation as of 041200 June 1945; signed C. T. Schmidt for A. Franklin Kibler, Brigadier General, GSC, A.C. of S., G-3; 1:1,500,000 Albers conical equal-area sheet"
+read: the title on the sheet, 8 Nov 2026
+gcps_from: 12ag-1945-06-05
+radius: 4
+dark: 70
+area: [4073, 5678, 4823, 6030]
+exclude:
+  - {box: [4072, 5578, 4823, 6030], why: "5 June's box moved by the towns fit: the two grey-filled double bands with ticks running south from the Twelfth/Fifteenth boundary at Heiligenblut into Carinthia (the Mölltal and the Drau by Lienz): the legend has no front-line or enemy sample on this sheet and does not say what the bands mark; recorded as not front (8 Nov 2026, Eric's decision: from the first sheet with no ticked line of contact, the front is empty)"}
+  - {box: [-2, 51, 3109, 6743], why: "5 June's box moved by the towns fit: everything west of the Elbe start: Rhine, French/Swiss/Dutch borders, legend (bottom left), army boundaries, no front"}
+  - {box: [4207, 235, 5952, 1097], why: "5 June's box moved by the towns fit: title block lettering: SECRET, HQ 12TH ARMY GROUP, SITUATION MAP, report no. 352, date, signature"}
+  - {box: [4300, 1131, 5944, 3034], why: "5 June's box moved by the towns fit: Saxony-Bohemia border (dark hatched Erzgebirge) and the straight black army-group boundary past Karlsbad (no ticks, looked at 4x at 4330,2950 and 4260,2870), east of the line"}
+  - {box: [3099, 1463, 3815, 2735], why: "5 June's box moved by the towns fit: heavy black provincial/state outlines in Thuringia/Anhalt, west of the line, no ticks; east edge 3828 so as to leave the Dessau hook's left leg (3.9 km, ticked, about 3835,1430) in the line"}
+  - {box: [3095, 3031, 4195, 3383], why: "5 June's box moved by the towns fit: Bavarian-Bohemian border west of the line"}
+  - {box: [3096, 3380, 4595, 5352], why: "5 June's box moved by the towns fit: Bavaria: army boundaries drawn black, Danube, Bavaria-Czech/Austrian borders, west of the line; foot at y 5308 so the ticked Salzach line (St. Johann to Schladming) is outside it"}
+  - {box: [3095, 2732, 3826, 2894], why: "5 June's box moved by the towns fit: Thuringia-Bavaria/Saxony state border (dark red/black, hatched) west of the line, no ticks"}
+  - {box: [4595, 3917, 4829, 4106], why: "5 June's box moved by the towns fit: blue fragment on the hatched Bavaria-Bohemia border (Bohemian Forest) west of the line (unsure run near 13.55E 48.98N)"}
+  - {box: [4646, 4312, 4825, 4412], why: "5 June's box moved by the towns fit: Bavaria-Austria border at the Inn, hatched/red, west of the front (two unsure runs near 13.7E 48.5N)"}
+  - {box: [3297, 5683, 3899, 5834], why: "5 June's box moved by the towns fit: Austria-Italy border at the Brenner (hatched, red overprint), no ticks, with blue fragments on it (ticked-looking runs near 11.5-11.9E 47N are the border's hatching)"}
+  - {box: [3825, 2892, 3946, 3052], why: "5 June's box moved by the towns fit: dark-grey hatched Bohemian border and road fragments round the Asch bulge, west of the line, no ticks (two ticked-looking runs near 12.24-12.34E 50.2N)"}
+  - {box: [3836, 5619, 3906, 5674], why: "5 June's box moved by the towns fit: Gross Venediger: Austria-Italy border (red overprint on grey hatching) west of where the ticked line ends, one short unsure piece near 12.15E 47.1N"}
+  - {box: [4210, 2644, 4260, 2694], why: "5 June's box moved by the towns fit: Annaberg to Karlsbad (first piece), heavy black straight line from the end of the ticked Chemnitz-Annaberg run's 'x' marks (the 'EAST BOUNDARY TWELFTH A.G.' lettering), no ticks, looked at 4x at 4250,2600/2700/2790 (unsure run mid 4249,2628)"}
+  - {box: [3801, 2842, 3866, 2902], why: "5 June's box moved by the towns fit: Asch: Czech border over red hatching, no ticks (looked at 4x at 3873,2797) (two unsure runs mid 3871,2796 and 3862,2813)"}
+  - {box: [5390, 4074, 5450, 4134], why: "5 June's box moved by the towns fit: the same border (unsure run mid 5456,4042)"}
+  - {box: [5338, 4109, 5398, 4169], why: "5 June's box moved by the towns fit: the same border (unsure run mid 5404,4077)"}
+  - {box: [4818, 4101, 4878, 4160], why: "5 June's box moved by the towns fit: Bohemian Forest border hatching, west of the line (unsure run mid 4885,4068)"}
+  - {box: [4809, 4176, 4869, 4235], why: "5 June's box moved by the towns fit: the same (unsure run mid 4875,4143)"}
+  - {box: [4817, 4228, 4878, 4287], why: "5 June's box moved by the towns fit: the same (unsure run mid 4883,4195)"}
+  - {box: [5014, 4253, 5074, 4313], why: "5 June's box moved by the towns fit: Czech-Austrian border hatching at Kaplitz west of the line (unsure run mid 5079,4222)"}
+  - {box: [5227, 4569, 5288, 4629], why: "5 June's box moved by the towns fit: Freistadt to Pregarten: the boundary line continued, bare (unsure run mid 5292,4539)"}
+  - {box: [5264, 4590, 5325, 4650], why: "5 June's box moved by the towns fit: the same (unsure run mid 5329,4560)"}
+  - {box: [3119, 5328, 3179, 5388], why: "5 June's box moved by the towns fit: Bavaria-Austria/Tyrol red border west of the Salzach (looked at 4x at 3177,5292) (unsure run mid 3177,5292)"}
+  - {box: [3324, 5346, 3384, 5407], why: "5 June's box moved by the towns fit: the same border (unsure run mid 3383,5312)"}
+  - {box: [3307, 373, 3725, 649], why: "5 June's box moved by the towns fit: Elbe from Schnackenburg to Seehausen: heavy black line, bare, no ticks either side (looked at 4x at 3300,420, 3470,480, 3560,520, 3640,600); eight runs, mids 3312,427 to 3660,633"}
+  - {box: [3465, 717, 4185, 2088], why: "5 June's box moved by the towns fit: Elbe south of Seehausen to Dessau and down the Mulde to Rosslau and Grimma: heavy black line, bare, no ticks (looked at 4x at 3660,680, 3660,780, 3850,1290, 3990,1550, 4040,1750, 4090,2000, 3762,1474; 22/23 May ticked it); runs mids 3658,770 / 3481,1218 / 3762,1474 / 3841,1628 / 4112,2085"}
+  - {box: [3104, 1108, 3195, 1188], why: "5 June's box moved by the towns fit: heavy black provincial outline in the Harz, no ticks (unsure run mid 3120,1169)"}
+  - {box: [3914, 2261, 3979, 2332], why: "5 June's box moved by the towns fit: bare heavy line near Zwickau (unsure run mid 3923,2319), no ticks"}
+  - {box: [4248, 2682, 4309, 2741], why: "5 June's box moved by the towns fit: bare heavy line west of Karlsbad (unsure run mid 4254,2735), no ticks"}
+  - {box: [4114, 2702, 4174, 2762], why: "5 June's box moved by the towns fit: bare heavy line, Graslitz reach (unsure run mid 4117,2756), no ticks"}
+  - {box: [3964, 2777, 4029, 2842], why: "5 June's box moved by the towns fit: bare heavy line and border hatching near Asch (unsure run mid 3972,2834), no ticks"}
+  - {box: [4564, 3326, 4674, 3437], why: "5 June's box moved by the towns fit: the Pilsen diagonal of the EAST BOUNDARY TWELFTH A.G.: heavy line, bare (looked at 4x at 4640,3350, 4540,3450, 4500,3500, 4400,3600); the run (mid 4592,3404) counts no ticks"}
+  - {box: [5084, 3826, 5159, 3896], why: "5 June's box moved by the towns fit: Strakonitz to Budweis to Kaplitz, the boundary line, bare (unsure chain of 806 px, mid 5097,3885)"}
+  - {box: [5464, 3836, 5544, 3917], why: "5 June's box moved by the towns fit: red Bohemian-Moravian border hatching east of the line (unsure run mid 5478,3899)"}
+  - {box: [5448, 3951, 5523, 4027], why: "5 June's box moved by the towns fit: the same border (unsure run mid 5462,4013)"}
+  - {box: [4908, 4162, 4978, 4227], why: "5 June's box moved by the towns fit: Bohemian Forest border hatching (unsure run mid 4919,4218)"}
+  - {box: [5263, 4196, 5328, 4257], why: "5 June's box moved by the towns fit: border hatching near Kaplitz (unsure run mid 5271,4249)"}
+  - {box: [5113, 4216, 5209, 4312], why: "5 June's box moved by the towns fit: Kaplitz: boundary and Czech-Austrian border hatching, bare (two unsure runs mid 5154,4276 and 5122,4303)"}
+  - {box: [5208, 4387, 5283, 4462], why: "5 June's box moved by the towns fit: Kaplitz to Freistadt: the boundary line, bare (unsure run mid 5222,4448, 343 px)"}
+  - {box: [4578, 4428, 4658, 4503], why: "5 June's box moved by the towns fit: Bavaria-Austria border at the Inn (run mid 4594,4487), hatched/red, no ticks"}
+  - {box: [5153, 4807, 5228, 4882], why: "5 June's box moved by the towns fit: Freistadt/Pregarten to the Enns: the line, bare (looked at 4x at 5200,4450 and 5160,4820), unsure chain of 552 px, mid 5166,4866"}
+  - {box: [4613, 4963, 4689, 5034], why: "5 June's box moved by the towns fit: Mondsee: border stub (unsure run mid 4628,5018)"}
+  - {box: [5284, 5113, 5363, 5183], why: "5 June's box moved by the towns fit: Enns valley east of Liezen: heavy line over the red Styria border, bare (looked at 4x at 5260,5100) (chain 395 px, mid 5299,5170)"}
+  - {box: [3208, 5354, 3283, 5419], why: "5 June's box moved by the towns fit: Bavaria-Austria/Tyrol red border west of the Salzach (unsure run mid 3221,5407)"}
+  - {box: [4933, 5509, 5007, 5584], why: "5 June's box moved by the towns fit: Salzach, Radstadt, Tauern: the bare heavy line over the Salzburg border, the whole 1410 px chain ends at the Heiligenblut junction (looked at 4x at 4770,5330, 4870,5530, 4650,5700); no ticks; mid 4946,5567"}
+  - {box: [3933, 5569, 4012, 5640], why: "5 June's box moved by the towns fit: Gross Venediger: the Twelfth/Fifteenth boundary, bare (unsure run mid 3949,5625)"}
+  - {box: [4287, 5574, 4362, 5649], why: "5 June's box moved by the towns fit: Tauern: the Twelfth/Fifteenth boundary east to Heiligenblut, x marks only (looked at 4x at 4350,5640) (unsure run mid 4303,5632)"}
+  - {box: [4422, 5604, 4482, 5664], why: "5 June's box moved by the towns fit: the boundary at its meeting with the ticked bands at Heiligenblut, bare (unsure run mid 4430,5658); kept off the bands, whose mids are at 4465,5800 and 4549,5804"}
+  - {box: [3238, 5739, 3319, 5809], why: "5 June's box moved by the towns fit: Austria-Italy border at the Brenner, red over grey hatching (unsure run mid 3254,5794)"}
+  - {box: [3883, 5764, 3959, 5830], why: "5 June's box moved by the towns fit: red Tyrol-Italy border (unsure run mid 3895,5817)"}
+  - {box: [4053, 5965, 4143, 6030], why: "5 June's box moved by the towns fit: Italian border (red over grey hatching) south of Lienz, bare heavy ink the area box took in (unsure run mid 4074,6016, 408 px)"}
+  - {box: [3190, 483, 3280, 573], why: "5 June's box moved by the towns fit: red state outline, Altmark/Mecklenburg border north of Salzwedel (unsure run mid 3230,536), no ticks (overlay crop 2950,450)"}
+  - {box: [3057, 759, 3147, 849], why: "5 June's box moved by the towns fit: red state outline by Bromberg (unsure run mid 3097,812), no ticks"}
+  - {box: [3090, 882, 3170, 982], why: "5 June's box moved by the towns fit: red state outline, Altmark/Brunswick border (unsure runs mid 3124,907 and 3118,952), no ticks"}
+  - {box: [3098, 993, 3188, 1083], why: "5 June's box moved by the towns fit: red state outline by Helmstedt (unsure run mid 3138,1046), no ticks"}
+  - {box: [4143, 2666, 4234, 2756], why: "5 June's box moved by the towns fit: bare heavy line, Graslitz reach (unsure run mid 4181,2722), no ticks (looked at 4x at 4180,2740)"}
+  - {box: [4178, 2764, 4268, 2853], why: "5 June's box moved by the towns fit: bare boundary line along the Eger to Karlsbad, east boundary of Twelfth A.G. (unsure run mid 4215,2820, looked at 4x at 4260,2780), no ticks"}
+  - {box: [4030, 2701, 4121, 2791], why: "5 June's box moved by the towns fit: bare heavy line and border hatching, Graslitz (unsure run mid 4068,2757), no ticks"}
+  - {box: [3828, 2839, 3988, 2929], why: "5 June's box moved by the towns fit: bare heavy line and border hatching near Asch (unsure runs mid 3860,2888 and 3940,2900; looked at 4x at 4000,2860), no ticks"}
+  - {box: [5411, 4046, 5501, 4136], why: "5 June's box moved by the towns fit: red Bohemian-Moravian border (unsure run mid 5446,4106, looked at 4x), no ticks"}
+  - {box: [5204, 4206, 5295, 4296], why: "5 June's box moved by the towns fit: border hatching near Kaplitz, black boundary and red border (unsure run mid 5239,4266, looked at 4x), no ticks"}
+  - {box: [4951, 4219, 5042, 4310], why: "5 June's box moved by the towns fit: Bohemian Forest border hatching, red (unsure run mid 4986,4279, looked at 4x), no ticks"}
+  - {box: [5193, 4425, 5283, 4515], why: "5 June's box moved by the towns fit: Kaplitz to Freistadt: the boundary line, bare (unsure run mid 5227,4485, looked at 4x), no ticks"}
+  - {box: [5161, 4565, 5352, 4985], why: "5 June's box moved by the towns fit: Freistadt/Pregarten to the Enns: the line, bare (unsure runs mid 5210,4617, 5195,4758, 5248,4883, 5309,4967; looked at 4x at 5230,4800 and overlay crop 4900,4400), no ticks"}
+  - {box: [5133, 5379, 5223, 5469], why: "5 June's box moved by the towns fit: Enns valley east of Liezen: heavy line, bare (unsure run mid 5165,5439; looked at 4x at 5150,5150)"}
+  - {box: [3115, 5350, 3205, 5440], why: "5 June's box moved by the towns fit: Bavaria-Austria/Tyrol red border (unsure run mid 3147,5405, looked at 4x), no ticks"}
+  - {box: [4887, 5583, 4977, 5673], why: "5 June's box moved by the towns fit: Salzach, Radstadt, Tauern: the bare heavy line (unsure run mid 4919,5642; looked at 4x at 4960,5560), no ticks"}
+  - {box: [4786, 5635, 4877, 5725], why: "5 June's box moved by the towns fit: Tauern: the bare Twelfth/Fifteenth boundary (unsure run mid 4818,5694; looked at 4x at 4780,5700), no ticks"}
+  - {box: [4309, 2867, 4589, 3308], why: "5 June's box moved by the towns fit: Karlsbad to Pilsen diagonal, EAST BOUNDARY TWELFTH A.G.: heavy black straight line, bare (run 11 counted ticks, but none on the sheet: looked at 4x at 4330,2960 and 4420,3060; the red ticks were the overlay's own)"}
+  - {box: [5001, 4605, 5122, 4715], why: "5 June's box moved by the towns fit: the blue-looking stub by the DONAU lettering and a division symbol's flag staff, not front (the run mid 5053,4671 counted ticks; no map ticks on it, looked at 4x at 5140,4690 and on overlay crop 4900,4400)"}
+  - {box: [3108, 1178, 3188, 1258], why: "5 June's box moved by the towns fit: heavy black boundary beside the red Brunswick/Anhalt state outline, no ticks (unsure run mid 3141,1233; looked at 4x)"}
+  - {box: [4110, 2143, 4190, 2223], why: "5 June's box moved by the towns fit: the line of contact along the Mulde, Zwickau to Grimma: heavy black, bare (the no-box run 2 counted ticks, but the sheet has none; looked at 4x at 4090,2000)"}
+  - {box: [4204, 2862, 4285, 2942], why: "5 June's box moved by the towns fit: Karlsbad: the bare boundary line, east boundary of Twelfth A.G., no ticks (unsure run mid 4237,2920; looked at 4x)"}
+  - {box: [5122, 3848, 5202, 3928], why: "5 June's box moved by the towns fit: Budweis: the bare boundary line, no ticks (unsure run mid 5154,3907; looked at 4x)"}
+  - {box: [4601, 4286, 4681, 4366], why: "5 June's box moved by the towns fit: Bavaria-Austria border at the Inn by Wegscheid, red hatching with a thin black line, no ticks (unsure run mid 4633,4344; looked at 4x)"}
+  - {box: [4879, 5646, 4959, 5726], why: "5 June's box moved by the towns fit: Tauern: the bare Twelfth/Fifteenth boundary over the red border, no ticks (unsure run mid 4910,5704; looked at 4x)"}
+  - {box: [5362, 5087, 5442, 5167], why: "Enns valley east of Liezen to Admont: the heavy line over the red Styria border, bare (unsure run, 34 points, mid 5402,5127; looked at 4x at 5150,5150 and overlay crop 5000,4950), no ticks; 5 June's box for it did not land on this run's middle once moved"}
+  - {box: [5169, 5123, 5249, 5203], why: "Enns valley by Liezen, the same heavy bare line (unsure run mid 5209,5163; overlay crop 5000,4950), no ticks"}
+  - {box: [4680, 5375, 4745, 5430], why: "Radstadt: a short blue-looking stub at the XV/XIII corps-boundary lettering on the black symbol, not front (the tool's run counted ticks on it; none on the map; overlay crop 4350,5250)"}
+flip: []
+checked: []
+# Reader: report no. 364, situation as of 041200 JUNE 1945 (the catalogue says 1945-06-04: agrees; title read with --title 4100 150 1900 1000). The legend (bottom left, overlay crop 100,5300) draws only the "U.S." and "BRITISH" boxes: no FRONT LINE sample and no ENEMY sample, as on 5 June.
+# Reader: the line of contact with the Soviet armies (the Elbe, the Mulde, Saxony, Graslitz, Karlsbad, the Pilsen diagonal, Budweis, the Enns, the Salzach, the Tauern) is a heavy black line with NO ticks, as on 5-7 June: looked at 4x at 3660,780, 3850,1290, 4090,2000, 4180,2740, 3900,2320, 4420,3060, 4640,3350, 5100,3880, 5230,4800, 5150,5150, 4960,5560, 4780,5700. The only ticks on the sheet are the grey-filled outlines south of the Twelfth/Fifteenth boundary at Heiligenblut into Carinthia (the Moelltal and a loop by Lienz; overlay crop 4050,5550), which the sheet does not explain; boxed (5 June's first box moved, with the area) and not traced. Empty front (owner's decision, 8 Nov 2026).
+# Reader: towns from 12ag-1945-06-05: sheets offset +8,-16 px; 34 of 58 towns agree (median 1.5 px), 24 placed through the transform; conic fit rms 0.9 km, leave-one-out 1.0 km, worst 2.5 km (15E 47N). 5 June's 77 boxes and its area were moved here by a quadratic fit of 5 June's towns to today's (58 towns, rms 1.3 px, worst 3.9 px). A run with no boxes (310 runs, 37 ticked-looking, 257 unsure) was compared: the moved boxes left 3 runs, all non-front, each given a box (two on the bare Enns line east of Liezen, one a stub at the XV/XIII lettering at Radstadt). A run with all the boxes traces 0 runs.
+# Reader: no flips, no checks. Sides not run (no front is traced, every town would read '?'); 5 June's GeoJSON was backed up to q-0604/0605.geojson.bak and not touched. Setting radius 4, dark 70. Length 0 km, 0 runs. I ran --gcps-from twice by mistake (the second to see the summary line; same result).
+# Reviewed (8 Nov 2026): an empty front, as 5-7 June: no front drawn, not no front. The line of contact runs bare from the Elbe to the Tauern, lettered as the Twelfth Army Group's east boundary; the legend has only its U.S. and BRITISH boxes; the only ticks are the outlines south of Heiligenblut into Carinthia, boxed and noted (Eric's decision, 8 Nov 2026). A run traces nothing.
