@@ -12,3 +12,6 @@ exclude:
   - {box: [3500, 4650, 4560, 5300], why: "the Twelfth/Sixth army group boundary from south of Nancy along the Marne-Rhine canal to the front, heavy, no ticks"}
 flip: []
 checked: []
+# Reviewed again (9 Nov 2026), the top strip: the 331, LXXXVIII and TETTAU at the sheet's top edge were not read at
+# first (the reading's tiles began below them); added from an overlay of the strip (2250,60). The 331 stands under
+# "N.W. AMSTERDAM" and TETTAU under "AMSTERDAM", each with an arrow off the sheet: `amsterdam`.

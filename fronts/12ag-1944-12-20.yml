@@ -18,3 +18,6 @@ flip:
   - {at: [4615, 5560], why: "the Colmar pocket's west side, south from above Turckheim to the sheet's edge: the map's ticks are west and north, toward the French (reviewed on the overlay; Epinal and Saint-Die read enemy before)"}
   - {at: [4745, 5480], why: "the hook north of Turckheim, the same line: ticked on its north side"}
 checked: []
+# Reviewed again (9 Nov 2026), the top strip: the 331, LXXXVIII and TETTAU at the sheet's top edge were not read at
+# first (the reading's tiles began below them); added from an overlay of the strip (2250,60). The 331 stands under
+# "N.W. AMSTERDAM" and TETTAU under "AMSTERDAM", each with an arrow off the sheet: `amsterdam`.

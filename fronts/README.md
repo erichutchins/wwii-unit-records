@@ -178,7 +178,8 @@ Each map has four files:
     ("MARSEILLES"), `le-havre` ("VICINITY LE HAVRE"), `cherbourg` ("CHERBOURG PENINSULA"), `lorient-st-nazaire`
     ("LORIENT - ST. NAZAIRE SECTORS"), and `quimper-auxerre` for the 94th Division's box with lines drawn to Quimper and
     Auxerre (December 1944), and `amsterdam` for a symbol at the sheet's top edge under the caption "N.W. AMSTERDAM" or
-    "AMSTERDAM" with an arrow pointing off the sheet (the 331 and TETTAU, January 1945): the symbol stands where the
+    "AMSTERDAM" with an arrow pointing off the sheet (the 331 from 16 December 1944 to 11 February 1945, TETTAU to 23
+    January, the captions not drawn on 12 January): the symbol stands where the
     sheet runs out, not where the unit is;
   - `westwall`: a symbol with the note "IN WESTWALL - BASLE TO KARLSRUHE" (the 405th z.b.V. Division, December 1944):
     a stretch of the Westwall, not the symbol's spot;

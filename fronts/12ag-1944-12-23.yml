@@ -17,3 +17,6 @@ exclude:   # boxes on the scan (x0, y0, x1, y1) whose heavy ink isn't the front,
   - {box: [3000, 1745, 3840, 1900], why: "the Twenty One/Twelfth army group boundary from the sheet's west across Maastricht to the front near Geilenkirchen, heavy and with no ticks (looked at 3400,1830 and 3700,1790)"}
 flip: []
 checked: []
+# Reviewed again (9 Nov 2026), the top strip: the 331, LXXXVIII and TETTAU, H (an army group, five x) at the sheet's top edge were not read at
+# first (the reading's tiles began below them); added from an overlay of the strip (2250,60). The 331 stands under
+# "N.W. AMSTERDAM" and TETTAU under "AMSTERDAM", each with an arrow off the sheet: `amsterdam`.

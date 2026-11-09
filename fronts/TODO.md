@@ -133,10 +133,9 @@ Sprimont on the 24th; three of those moves lag the division's own records: READM
   list entry rather than placed (`fit_km` is on each point in the GeoJSON). Where a followed division hasn't moved
   since the day before, say so in the day's YAML ("the 9th Armored's oval where it was on the 20th"), so a quiet
   stretch reads as a reading, not a gap.
-- **The "N.W. AMSTERDAM" caption** (list word `amsterdam`, from 10 January 1945): symbols at the sheet's top edge under
-  a caption with an arrow off the sheet. The earlier read days were reviewed without the word (31 January - 7 February
-  took the arrows over the 331 and 604 zbV for stubs over their x marks): look at the top strip (about x 2300-3300,
-  y 100-400) on every read day and list what stands under the caption.
+- **The "N.W. AMSTERDAM" caption** (list word `amsterdam`): swept on every read day, 9 November 2026 (an overlay of the
+  top strip, 2250,60, on each). The sweep found 16-23 December 1944 missing the top strip's symbols (331, LXXXVIII,
+  TETTAU, and H from the 21st), now added; a reader's tiles must reach the sheet's top edge (y below 200).
 - **List words** (`README.md`): `marseilles`, `le-havre`, `cherbourg`, `westwall`, `bracket`, `arrow`,
   `out-of-contact`, `unlocated`, `le-havre-rouen`, `dieppe-rouen`, `upper-alsace-pocket` and `upper-rhine-area` say what each box is on the sheet; not yet how a page
   should show each one. Add a line to each when a page first draws them.
