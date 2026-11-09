@@ -1300,7 +1300,7 @@ loc-12ag:
   used_for: >-
     fronts/: the front line traced (tools/trace_front.py) and the unit symbols read, one map a day (12ag-1945-03-07 to
     -17, every day: situations as of 1200, G-3 reports nos. 275-285), drawn on the engagement pages as the army
-    group's picture; army/stations.csv: the 9th Armored Division's symbol on the Sundays of 21 January - 18 February 1945
+    group's picture; army/stations.csv: the 9th Armored Division's symbol, 12 January - 22 February 1945
   note: >-
     1:1,000,000 outline maps ("Europe (Air) Conical Orthomorphic"), one a day, the front line heavy and ticked on the
     map's own side, US and enemy units by the Army's symbols (enemy boxes hatched); from 10 March 1945 a list of the
