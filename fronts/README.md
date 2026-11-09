@@ -205,14 +205,16 @@ Each map has four files:
   - `allied-label`: an open box whose label is a British or Canadian formation's: the XXX Corps south-west of Dinant on
     4-6 February 1945 (drawn dashed, the British way, on the 7th).
   A new doubt gets a new word here first, like a `list` word. `map`: the sheet.
-  What the sheets draw: on the 61 days read (16-23 December 1944, 12 January - 22 February 1945,
+  What the sheets draw: on the 82 days read (16 December 1944 - 24 February 1945,
   7-17 March 1945), the US and British symbols are divisions and above, and the enemy's brigades and above.
   No battalion, battery or combat command has a box of its own, so an anti-aircraft, tank or infantry battalion is
   not on these maps: its division (or, for a battery under an army's or corps' command, nothing) is the nearest they come.
   The sheets can lag a move: a sheet draws a unit where the staff last had it, and a move can reach it a day or more
-  late. Three cases so far:
+  late. Four cases so far:
   - 1 and 2 August 1944: the line still ends at the bay north of Avranches, with Third Army already through it (the
     days' YAML).
+  - 30 December 1944 - 3 January 1945: the 9th Armored's command post opened at Guignicourt-sur-Vence on 30 December
+    (etoob-9AD/p503-504); the sheets still draw its "9(-)" by Gedinne until the 3rd, and by Guignicourt from the 4th.
   - 12 and 13 January 1945: the 9th Armored Division's oval still stands by Guignicourt-sur-Vence (its command post
     from 30 December, `army/stations.csv`, etoob-9AD/p503-504), where Third Army's Provost Marshal has the division
     moving to Thionville on 12 January (aar3/p556); the 14th's sheet draws it by the Moselle.
