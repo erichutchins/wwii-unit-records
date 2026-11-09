@@ -6,7 +6,7 @@ theater: europe
 clock: A
 window: {from: 1944-12-16T05:00Z, to: 1945-01-03T17:00Z}
 # the map's base: today's relief; the front and the units as the 12th Army Group drew them at noon, each day of the
-# window (the symbols are read on the sheets of 16-23 December so far)
+# window (the symbols read on every sheet of the window)
 relief: bulge
 fronts: [12ag-1944-12-16, 12ag-1944-12-17, 12ag-1944-12-18, 12ag-1944-12-19, 12ag-1944-12-20, 12ag-1944-12-21,
   12ag-1944-12-22, 12ag-1944-12-23, 12ag-1944-12-24, 12ag-1944-12-25, 12ag-1944-12-26, 12ag-1944-12-27,
@@ -69,8 +69,11 @@ in winter was also UTC+1. Most entries carry only a day.
 
 Under the entries, the front and the divisions are the 12th Army Group's situation maps for 1200 on each day from 16
 December to 3 January, traced [[cite:loc-12ag/ict21195]]: the army group's own units and its intelligence picture of
-the Germans', each symbol in its unit's area, not at a position (`fronts/README.md`). The symbols are read on the
-sheets of 16 to 23 December so far; the later days show the front alone. The towns are drawn at their centres
+the Germans', each symbol in its unit's area, not at a position (`fronts/README.md`). The symbols are read on every
+sheet of the window. They are divisions and above: the 9th Armored is one "9(-)" that the army group moves between its
+parts (by Beaufort on the 18th, by Bastogne on 20-22 December, by Étalle and Paliseul from the 23rd), and Combat Command
+A, at Sibret and Chenogne from the 27th, has no symbol of its own; the sheets can also run days behind a move
+(`fronts/README.md`). The towns are drawn at their centres
 (OpenStreetMap): the reports name villages, not grid references, except the command post's "9136" on the 19th, which
 names no sheet and is not placed. The 60th's dashed line is its own stations, joined straight, to the day shown. The
 relief is today's; the Sauer and the Our, too small for the river data used, show only as their valleys.
