@@ -173,7 +173,7 @@ Each map has four files:
   - `bridgehead`: the map's list of the divisions facing the bridgehead (from 10 March 1945: a bracketed column, then a
     box headed "BRIDGEHEAD N.-S.");
   - `unlocated` and `out-of-contact`: the enemy divisions in boxes headed "UNLOCATED" and "OUT OF CONTACT" (28 January
-    1945);
+    1945), and a box with "UNLOCATED" written beside it (the enemy's "343 (ELMS)", 29 June 1944);
   - a place off the sheet, for a symbol in a box captioned with it and an arrow pointing off the sheet: `marseilles`
     ("MARSEILLES"), `le-havre` ("VICINITY LE HAVRE"), `cherbourg` ("CHERBOURG PENINSULA"), `lorient-st-nazaire`
     ("LORIENT - ST. NAZAIRE SECTORS"), and `quimper-auxerre` for the 94th Division's box with lines drawn to Quimper and
