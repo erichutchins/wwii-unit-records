@@ -63,7 +63,7 @@ Each is written in its day's YAML.
   where a boundary joins the front.
 - **7 June 1944**: four short bends untraced (about 8-10 km of some 38); its teeth hang inland, the reverse of
   every other sheet, and all six stretches are flipped. Could be redone with waypoints.
-- **The breakout, 25 July - 15 August 1944: redo before its symbols are read** (section 3, row 2). The B01 and B02
+- **The breakout, 25 July - 15 August 1944: redo before its symbols are read** (section 3, row 1). The B01 and B02
   sheets to 4 August were traced at radius 3 and leave large gaps: about 108 km of some 134 on 30 July, about 112 km
   on 2 August. Redo them across the whole sheet, trying radius 4 and 5 as on 7-17 March 1945, with hand waypoints
   where the ticks break the line. Not at a fixed radius: the 1:500,000 sheets from 5 August (B03, B04) draw the line
@@ -73,11 +73,11 @@ Each is written in its day's YAML.
 - **check_fronts.py** (`uv run tools/check_fronts.py FIRST LAST`) has not been run across every committed range
   since the last days went in; run it over each month and look at what it flags.
 
-## 3. Unit symbols: 319 days not read, 11 read only in part
+## 3. Unit symbols: 317 days not read, 11 read only in part
 
-The unit symbols are read on 96 of the 415 days (`<map>-units.csv`; columns in `README.md`). Across the whole sheet
-on eighty-five: every day from 16 December 1944 to 24 February 1945 (176 to 228 symbols a day), and from 26 June
-1944 (row 1, under way: 26 June - 9 July so far, 63 to 76 symbols a day). Within the Remagen window only (about
+The unit symbols are read on 98 of the 415 days (`<map>-units.csv`; columns in `README.md`). Across the whole sheet
+on eighty-seven: every day from 16 December 1944 to 24 February 1945 (176 to 228 symbols a day), and 26 June -
+11 July 1944 (the row then numbered 1, done 9 November 2026: 63 to 77 symbols a day; the 79th's box, day by day, in each day's YAML). Within the Remagen window only (about
 6.4-7.8 E, 50.0-51.2 N; 39 to 64 symbols) on 7-17 March 1945, whose fronts are now traced on the whole sheet. Every
 other day has its front (or an empty front) and no symbols. Fronts not yet traced (section 1) are marked below.
 
@@ -87,28 +87,27 @@ HQ Battery, 128th AAA Gun Bn; the 9th Armored Division, and in it the 19th Tank 
 the 19th Tank Battalion with Combat Command A, `9ad-cca`, or attached from it in December 1944, and does not place the
 Service Company); Battery D, 106th AAA AW Bn (their stations
 are in `army/stations.csv`). The battalions and batteries aren't drawn on these sheets (below), so the division or
-its combat command is as near as the maps come to them. Rows 1 and 2 finish the stretches where the units were close. (Read, 8-9 November 2026: 24 December 1944 - 24 February
+its combat command is as near as the maps come to them. Row 1 (the breakout) finishes the stretches where the units were close; the Cotentin, 26 June - 11 July 1944, is read. (Read, 8-9 November 2026: 24 December 1944 - 24 February
 1945, every day. The 9th Armored's "9(-)" by Paliseul and Sedan at Christmas, by Gedinne to 3 January, by
 Guignicourt-sur-Vence from the 4th to the 13th, by the Moselle north of Metz from the 14th to 23 February, and at
 Sprimont on the 24th; three of those moves lag the division's own records: README.md.)
 
 | # | Days | Base | Days to read | Front | The units |
 |---|---|---|---|---|---|
-| 1 | 26 June - 11 July 1944 | B01 | 16 | traced | the 313th Infantry in the Cotentin, the 128th AAA at Cherbourg |
-| 2 | 25 July - 15 August 1944 (the front redone first, below) | B01-B04 | 22 | traced, with gaps | the breakout: the armour's arrows beyond the line, the 128th AAA from Cherbourg into Brittany |
-| 3 | 7-17 March 1945, the whole sheet beyond the Remagen window | B11 | 11 | traced | the 9th Armored's combat commands in the bridgehead, the 128th AAA at Metz, the 106th AAA to Sarreguemines |
-| 4 | 18 March - 5 April 1945 | B11, B12 | 19 | traced | the 9th Armored at Koblenz, the 128th AAA to Boppard, the 106th AAA through the Palatinate to the Rhine and the Main |
-| 5 | 18 October - 15 December 1944 | B09, B11 | 58 | traced | the 9th Armored at Mersch, the 128th AAA at Nancy, the 106th AAA at Rambervillers and in northern Alsace |
-| 6 | 6 September - 17 October 1944 | B09, B10 | 42 | traced, but 10 September not (section 1); to 28 September empty fronts | the 128th AAA at Toul and Nancy, the 106th AAA to Épinal |
-| 7 | 6 April - 8 May 1945 | B12, B13, B14 | 33 | traced | the 9th Armored to Leipzig and Bavaria, the 128th AAA at Grafenwöhr and Plattling |
-| 8 | 12 July - 24 July and 16 August - 5 September 1944 | B01-B08 | 34 | traced | the 128th AAA across France; not the 106th AAA in southern France: no sheet reaches it (below) |
-| 9 | 25 February - 6 March 1945 (23 and 24 February read) | B11 | 10 | traced | the 128th AAA at Metz, the 9th Armored toward the Rhine |
-| 10 | 6-25 June 1944 | B01 | 20 | traced | none of the five ashore yet |
-| 11 | 9 May - 26 July 1945 | B14, B15 | 79 | traced to 7 June (from 1 June empty fronts); 8 June on not (section 1) | the occupation |
+| 1 | 25 July - 15 August 1944 (the front redone first, below) | B01-B04 | 22 | traced, with gaps | the breakout: the armour's arrows beyond the line, the 128th AAA from Cherbourg into Brittany |
+| 2 | 7-17 March 1945, the whole sheet beyond the Remagen window | B11 | 11 | traced | the 9th Armored's combat commands in the bridgehead, the 128th AAA at Metz, the 106th AAA to Sarreguemines |
+| 3 | 18 March - 5 April 1945 | B11, B12 | 19 | traced | the 9th Armored at Koblenz, the 128th AAA to Boppard, the 106th AAA through the Palatinate to the Rhine and the Main |
+| 4 | 18 October - 15 December 1944 | B09, B11 | 58 | traced | the 9th Armored at Mersch, the 128th AAA at Nancy, the 106th AAA at Rambervillers and in northern Alsace |
+| 5 | 6 September - 17 October 1944 | B09, B10 | 42 | traced, but 10 September not (section 1); to 28 September empty fronts | the 128th AAA at Toul and Nancy, the 106th AAA to Épinal |
+| 6 | 6 April - 8 May 1945 | B12, B13, B14 | 33 | traced | the 9th Armored to Leipzig and Bavaria, the 128th AAA at Grafenwöhr and Plattling |
+| 7 | 12 July - 24 July and 16 August - 5 September 1944 | B01-B08 | 34 | traced | the 128th AAA across France; not the 106th AAA in southern France: no sheet reaches it (below) |
+| 8 | 25 February - 6 March 1945 (23 and 24 February read) | B11 | 10 | traced | the 128th AAA at Metz, the 9th Armored toward the Rhine |
+| 9 | 6-25 June 1944 | B01 | 20 | traced | none of the five ashore yet |
+| 10 | 9 May - 26 July 1945 | B14, B15 | 79 | traced to 7 June (from 1 June empty fronts); 8 June on not (section 1) | the occupation |
 
 (The catalogue has no sheet for 12 November 1944.)
 
-Row 8's reach (checked 9 November 2026, not read): no sheet of B05-B08 takes in the Rhône valley, Grenoble, the Ain or
+Row 7's reach (checked 9 November 2026, not read): no sheet of B05-B08 takes in the Rhône valley, Grenoble, the Ain or
 the Doubs, on any date. Each base's whole scan was put through the fit of its first day (22 August, 24 August,
 26 August and 2 September 1944), and Lyon, Valence, Avignon, Grenoble, Bourg-en-Bresse, Pont-d'Ain, Besançon, Dole,
 Montbéliard and Dijon tested against it: all fall off every sheet, the nearest being Dijon, about 560 px below B08's

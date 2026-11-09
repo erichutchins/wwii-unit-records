@@ -216,8 +216,8 @@ Each map has four files:
   A new doubt gets a new word here first, like a `list` word. `map`: the sheet.
   An `echelon` is left empty where the marks over a box aren't one of these: the three bars of a regiment (the hatched
   airborne "6" by Carentan, June 1944), or no marks at all (a dashed British "6" on 26 June 1944).
-  What the sheets draw: on the days read (16 December 1944 - 24 February 1945, 7-17 March 1945, and from 26 June 1944,
-  `TODO.md` section 3), the US and British symbols are divisions and above, and the enemy's brigades and above (and
+  What the sheets draw: on the days read (16 December 1944 - 24 February 1945, 7-17 March 1945, and 26 June - 11 July
+  1944, `TODO.md` section 3), the US and British symbols are divisions and above, and the enemy's brigades and above (and
   in June 1944 one regiment, the airborne "6" by Carentan).
   No battalion, battery or combat command has a box of its own, so an anti-aircraft, tank or infantry battalion is
   not on these maps: its division (or, for a battery under an army's or corps' command, nothing) is the nearest they come.
