@@ -204,7 +204,7 @@ Each map has four files:
     and so the enemy's 12th, on the 22nd), the "406 zbV" on 10 February, LEHR on 19 and 20 February and the army group
     UPPER RHINE on 17-20 February. A page draws it as the enemy's, or marks it, rather than as an American division.
   - `allied-label`: an open box whose label is a British or Canadian formation's: the XXX Corps south-west of Dinant on
-    4-6 February 1945 (drawn dashed, the British way, on the 7th).
+    4-6 February 1945 (drawn dashed, the British way, on the 7th), and the "53" by Caen on 7 July 1944.
   - `which-unit`: the label and mark fit more than one unit, and neither the drawing nor its place settles which, so
     `unit` is left empty: an enemy "3" that could be the 3d Parachute or the 3d Panzer Grenadier Division, a "GD" that
     could be either Fuehrer brigade, a label with a figure unread ("2?6"). The ties below say which.
