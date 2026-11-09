@@ -215,7 +215,7 @@ Each map has four files:
     from 30 December, `army/stations.csv`, etoob-9AD/p503-504), where Third Army's Provost Marshal has the division
     moving to Thionville on 12 January (aar3/p556); the 14th's sheet draws it by the Moselle.
   - 22 February 1945: the oval still stands north of Metz on the day the division's command post opened at Sprimont,
-    in Belgium (etoob-9AD/p503-504).
+    in Belgium (etoob-9AD/p503-504), and again on the 23rd; the 24th's sheet is the first to draw it at Sprimont.
   A move dated from these maps is dated to the sheet's hour or later, not to the move itself: check it against the
   unit's own records before using it.
   On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and
