@@ -73,11 +73,11 @@ Each is written in its day's YAML.
 - **check_fronts.py** (`uv run tools/check_fronts.py FIRST LAST`) has not been run across every committed range
   since the last days went in; run it over each month and look at what it flags.
 
-## 3. Unit symbols: 321 days not read, 11 read only in part
+## 3. Unit symbols: 320 days not read, 11 read only in part
 
-The unit symbols are read on 94 of the 415 days (`<map>-units.csv`; columns in `README.md`). Across the whole sheet
-on eighty-three: every day from 16 December 1944 to 24 February 1945 (176 to 228 symbols a day), and from 26 June
-1944 (row 1, under way: 26 June - 7 July so far, 63 to 72 symbols a day). Within the Remagen window only (about
+The unit symbols are read on 95 of the 415 days (`<map>-units.csv`; columns in `README.md`). Across the whole sheet
+on eighty-four: every day from 16 December 1944 to 24 February 1945 (176 to 228 symbols a day), and from 26 June
+1944 (row 1, under way: 26 June - 8 July so far, 63 to 74 symbols a day). Within the Remagen window only (about
 6.4-7.8 E, 50.0-51.2 N; 39 to 64 symbols) on 7-17 March 1945, whose fronts are now traced on the whole sheet. Every
 other day has its front (or an empty front) and no symbols. Fronts not yet traced (section 1) are marked below.
 
