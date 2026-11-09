@@ -18,3 +18,6 @@ checked: []
 # sheets first draw it there between the 31st and the 4th. The reader's differences from the 5th were looked at on the 5th's
 # sheet (3262,2496; 3346,2420; the SIXTH at 4531,2560; the 9 by Laroche): the 5th draws "?(-)", 106, a three-x SIXTH and a
 # thin line from the 9's label to a "?", so both days stand as read.
+# Ties (9 Nov 2026, README.md "The divisions tied"): the "100" by the XVIII Corps in the Ardennes (3358,2414), looked
+# at 2.5x: written "100", while the 100th Division's "100(+)" stands in Alsace (4807,4231, tied `100id`). Left untied
+# (`unit:-`), as drawn.

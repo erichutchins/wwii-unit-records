@@ -16848,7 +16848,7 @@
    "unit": "de-fgb",
    "name": "Fuehrer Grenadier Brigade",
    "short": "Fuehrer Grenadier Brigade",
-   "note": "German. \"a younger brother of the elite Grossdeutschland Panzer Division\" (cole/21/p533), it fought the 26th Division at Eschdorf (cole/21/p522) and the 80th at Heiderscheid on 24-25 December 1944 (cole/21/p541) and withdrew \"during the last nights of December\" into the Seventh Army's reserve at Wiltz (cole/24/p641). The map labels it \"GD\", as it does the Fuehrer Begleit Brigade: followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-fgb`), the southern \"GD\" only, `tied-by-place` (records/fronts/README.md, \"The divisions tied\").",
+   "note": "German. \"a younger brother of the elite Grossdeutschland Panzer Division\" (cole/21/p533), it fought the 26th Division at Eschdorf (cole/21/p522) and the 80th at Heiderscheid on 24-25 December 1944 (cole/21/p541) and withdrew \"during the last nights of December\" into the Seventh Army's reserve at Wiltz (cole/24/p641). The map labels it \"GD\", as it does the Fuehrer Begleit Brigade: followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-fgb`), the southern \"GD\" only, `tied-by-place` (records/fronts/README.md, \"The divisions tied\"), and the \"FG\" the maps draw with the armored mark on 10 of the read days, 28 January - 9 February 1945 (first loc-12ag/ict21238), tied by its label.",
    "stations": [],
    "actions": []
   },
@@ -16857,6 +16857,1078 @@
    "name": "Fuehrer Begleit Brigade",
    "short": "Fuehrer Begleit Brigade",
    "note": "German. Like the Fuehrer Grenadier Brigade, raised from the Grossdeutschland (cole/21/p533). Cole has it leave the Ourthe on 26 December 1944 and attack west of Bastogne from the 28th; with the 3d Panzer Grenadier Division it attacked Task Force Collins at Chenogne on 30 December (cole/24/p613, cole/24/p619). No symbol on the 12th Army Group's maps is tied to it yet: the northern \"GD\" by La Roche, 27 December - 5 January, fits neither brigade (fronts/README.md, \"The divisions tied\").",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "13abn",
+   "name": "13th Airborne Division",
+   "short": "13th Airborne",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `13abn`): the map's airborne-marked \"13\", with its qualifiers as drawn, on 8 of the 82 days whose symbols are read, 17 February 1945 to 24 February 1945 (first loc-12ag/ict21258).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "82abn",
+   "name": "82d Airborne Division",
+   "short": "82d Airborne",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). The 9th Armored's 14th Tank Bn was attached to it, 23-24 Dec 44 (etoob-9AD/p501; army/relations.csv). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `82abn`): the map's airborne-marked \"82\", with its qualifiers as drawn, on 66 of the 82 days whose symbols are read, 19 December 1944 to 22 February 1945 (first loc-12ag/ict21198).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "2ad",
+   "name": "2d Armored Division",
+   "short": "2d Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `2ad`): the map's oval \"2\", with its qualifiers as drawn, on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "3ad",
+   "name": "3d Armored Division",
+   "short": "3d Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `3ad`): the map's oval \"3\", with its qualifiers as drawn, on 82 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "5ad",
+   "name": "5th Armored Division",
+   "short": "5th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `5ad`): the map's oval \"5\", with its qualifiers as drawn, on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "6ad",
+   "name": "6th Armored Division",
+   "short": "6th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `6ad`): the map's oval \"6\", with its qualifiers as drawn, on 71 of the 82 days whose symbols are read, 16 December 1944 to 8 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "7ad",
+   "name": "7th Armored Division",
+   "short": "7th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). CC B of the 9th Armored was attached to it, 22 Dec 44 - 7 Jan 45 (etoob-9AD/p501; army/relations.csv). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `7ad`): the map's oval \"7\", with its qualifiers as drawn, on 81 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "8ad",
+   "name": "8th Armored Division",
+   "short": "8th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `8ad`): the map's oval \"8\", with its qualifiers as drawn, on 44 of the 82 days whose symbols are read, 12 January 1945 to 24 February 1945 (first loc-12ag/ict21222).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "10ad",
+   "name": "10th Armored Division",
+   "short": "10th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). CC A of the 9th Armored was attached to it, 20-26 Dec 44 (etoob-9AD/p501; army/relations.csv). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `10ad`): the map's oval \"10\", with its qualifiers as drawn, on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "12ad",
+   "name": "12th Armored Division",
+   "short": "12th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `12ad`): the map's oval \"12\", with its qualifiers as drawn, on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "13ad",
+   "name": "13th Armored Division",
+   "short": "13th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `13ad`): the map's oval \"13\", with its qualifiers as drawn, on 18 of the 82 days whose symbols are read, 7 February 1945 to 24 February 1945 (first loc-12ag/ict21248).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "14ad",
+   "name": "14th Armored Division",
+   "short": "14th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `14ad`): the map's oval \"14\", with its qualifiers as drawn, on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "16ad",
+   "name": "16th Armored Division",
+   "short": "16th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `16ad`): the map's oval \"16\", with its qualifiers as drawn, on 4 of the 82 days whose symbols are read, 21 February 1945 to 24 February 1945 (first loc-12ag/ict21262).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "20ad",
+   "name": "20th Armored Division",
+   "short": "20th Armored",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `20ad`): the map's oval \"20\", with its qualifiers as drawn, on 4 of the 82 days whose symbols are read, 21 February 1945 to 24 February 1945 (first loc-12ag/ict21262).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "2id",
+   "name": "2d Infantry Division",
+   "short": "2d Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `2id`): the map's crossed \"2\", with its qualifiers as drawn, on 81 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "3id",
+   "name": "3d Infantry Division",
+   "short": "3d Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `3id`): the map's crossed \"3\", with its qualifiers as drawn, on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "5id",
+   "name": "5th Infantry Division",
+   "short": "5th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `5id`): the map's crossed \"5\", with its qualifiers as drawn, on 80 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "8id",
+   "name": "8th Infantry Division",
+   "short": "8th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `8id`): the map's crossed \"8\", with its qualifiers as drawn, on 82 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "9id",
+   "name": "9th Infantry Division",
+   "short": "9th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `9id`): the map's crossed \"9\", with its qualifiers as drawn, on 80 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "26id",
+   "name": "26th Infantry Division",
+   "short": "26th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `26id`): the map's crossed \"26\", with its qualifiers as drawn, on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "29id",
+   "name": "29th Infantry Division",
+   "short": "29th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `29id`): the map's crossed \"29\", with its qualifiers as drawn, on 76 of the 82 days whose symbols are read, 16 December 1944 to 16 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "30id",
+   "name": "30th Infantry Division",
+   "short": "30th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `30id`): the map's crossed \"30\", with its qualifiers as drawn, on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "35id",
+   "name": "35th Infantry Division",
+   "short": "35th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `35id`): the map's crossed \"35\", with its qualifiers as drawn, on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "36id",
+   "name": "36th Infantry Division",
+   "short": "36th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `36id`): the map's crossed \"36\", with its qualifiers as drawn, on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "42id",
+   "name": "42d Infantry Division",
+   "short": "42d Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `42id`): the map's crossed \"42\", with its qualifiers as drawn, on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "44id",
+   "name": "44th Infantry Division",
+   "short": "44th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `44id`): the map's crossed \"44\", with its qualifiers as drawn, on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "63id",
+   "name": "63d Infantry Division",
+   "short": "63d Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `63id`): the map's crossed \"63\", with its qualifiers as drawn, on 65 of the 82 days whose symbols are read, 22 December 1944 to 24 February 1945 (first loc-12ag/ict21201).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "65id",
+   "name": "65th Infantry Division",
+   "short": "65th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `65id`): the map's crossed \"65\", with its qualifiers as drawn, on 30 of the 82 days whose symbols are read, 26 January 1945 to 24 February 1945 (first loc-12ag/ict21236).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "66id",
+   "name": "66th Infantry Division",
+   "short": "66th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `66id`): the map's crossed \"66\", with its qualifiers as drawn, on 62 of the 82 days whose symbols are read, 25 December 1944 to 24 February 1945 (first loc-12ag/ict21204).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "69id",
+   "name": "69th Infantry Division",
+   "short": "69th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `69id`): the map's crossed \"69\", with its qualifiers as drawn, on 41 of the 82 days whose symbols are read, 26 January 1945 to 17 March 1945 (first loc-12ag/ict21236).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "70id",
+   "name": "70th Infantry Division",
+   "short": "70th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `70id`): the map's crossed \"70\", with its qualifiers as drawn, on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "71id",
+   "name": "71st Infantry Division",
+   "short": "71st Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `71id`): the map's crossed \"71\", with its qualifiers as drawn, on 15 of the 82 days whose symbols are read, 10 February 1945 to 24 February 1945 (first loc-12ag/ict21251).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "75id",
+   "name": "75th Infantry Division",
+   "short": "75th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `75id`): the map's crossed \"75\", with its qualifiers as drawn, on 65 of the 82 days whose symbols are read, 18 December 1944 to 24 February 1945 (first loc-12ag/ict21197).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "76id",
+   "name": "76th Infantry Division",
+   "short": "76th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `76id`): the map's crossed \"76\", with its qualifiers as drawn, on 36 of the 82 days whose symbols are read, 20 January 1945 to 24 February 1945 (first loc-12ag/ict21230).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "78id",
+   "name": "78th Infantry Division",
+   "short": "78th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `78id`): the map's crossed \"78\", with its qualifiers as drawn, on 81 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "80id",
+   "name": "80th Infantry Division",
+   "short": "80th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `80id`): the map's crossed \"80\", with its qualifiers as drawn, on 75 of the 82 days whose symbols are read, 16 December 1944 to 11 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "83id",
+   "name": "83d Infantry Division",
+   "short": "83d Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `83id`): the map's crossed \"83\", with its qualifiers as drawn, on 73 of the 82 days whose symbols are read, 16 December 1944 to 10 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "84id",
+   "name": "84th Infantry Division",
+   "short": "84th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `84id`): the map's crossed \"84\", with its qualifiers as drawn, on 69 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "89id",
+   "name": "89th Infantry Division",
+   "short": "89th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `89id`): the map's crossed \"89\", with its qualifiers as drawn, on 34 of the 82 days whose symbols are read, 26 January 1945 to 15 March 1945 (first loc-12ag/ict21236).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "90id",
+   "name": "90th Infantry Division",
+   "short": "90th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `90id`): the map's crossed \"90\", with its qualifiers as drawn, on 81 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "94id",
+   "name": "94th Infantry Division",
+   "short": "94th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `94id`): the map's crossed \"94\", with its qualifiers as drawn, on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "95id",
+   "name": "95th Infantry Division",
+   "short": "95th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `95id`): the map's crossed \"95\", with its qualifiers as drawn, on 77 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "99id",
+   "name": "99th Infantry Division",
+   "short": "99th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `99id`): the map's crossed \"99\", with its qualifiers as drawn, on 82 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "100id",
+   "name": "100th Infantry Division",
+   "short": "100th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `100id`): the map's crossed \"100\", with its qualifiers as drawn, on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "102id",
+   "name": "102d Infantry Division",
+   "short": "102d Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `102id`): the map's crossed \"102\", with its qualifiers as drawn, on 68 of the 82 days whose symbols are read, 17 December 1944 to 24 February 1945 (first loc-12ag/ict21196).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "103id",
+   "name": "103d Infantry Division",
+   "short": "103d Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `103id`): the map's crossed \"103\", with its qualifiers as drawn, on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "104id",
+   "name": "104th Infantry Division",
+   "short": "104th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `104id`): the map's crossed \"104\", with its qualifiers as drawn, on 82 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "106id",
+   "name": "106th Infantry Division",
+   "short": "106th Division",
+   "note": "Its entry in the ETO order of battle (etoob) is still to be cited (fronts/TODO.md, \"Order of battle pages\"). CC B of the 9th Armored was attached to it at St. Vith, 16-21 Dec 44 (etoob-9AD/p501; army/relations.csv). Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `106id`): the map's crossed \"106\", with its qualifiers as drawn, on 74 of the 82 days whose symbols are read, 16 December 1944 to 15 March 1945 (first loc-12ag/ict21195).",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "xii-corps",
+   "name": "XII Corps",
+   "short": "XII Corps",
+   "note": "A US corps headquarters: the map's \"XII\" with a corps' three x's. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `xii-corps`), drawn on 72 of the 82 days whose symbols are read, 16 December 1944 to 12 March 1945 (first loc-12ag/ict21195). The divisions under it by date are in each division's entry in the ETO order of battle (etoob); none is cited here yet.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "xviii-corps",
+   "name": "XVIII Corps",
+   "short": "XVIII Corps",
+   "note": "A US corps headquarters: the map's \"XVIII\" with a corps' three x's. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `xviii-corps`), drawn on 60 of the 82 days whose symbols are read, 20 December 1944 to 17 February 1945 (first loc-12ag/ict21199). The divisions under it by date are in each division's entry in the ETO order of battle (etoob); none is cited here yet.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "xx-corps",
+   "name": "XX Corps",
+   "short": "XX Corps",
+   "note": "A US corps headquarters: the map's \"XX\" with a corps' three x's. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `xx-corps`), drawn on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). The divisions under it by date are in each division's entry in the ETO order of battle (etoob); none is cited here yet.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "xxi-corps",
+   "name": "XXI Corps",
+   "short": "XXI Corps",
+   "note": "A US corps headquarters: the map's \"XXI\" with a corps' three x's. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `xxi-corps`), drawn on 58 of the 82 days whose symbols are read, 28 December 1944 to 24 February 1945 (first loc-12ag/ict21207). The divisions under it by date are in each division's entry in the ETO order of battle (etoob); none is cited here yet.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "xxii-corps",
+   "name": "XXII Corps",
+   "short": "XXII Corps",
+   "note": "A US corps headquarters: the map's \"XXII\" with a corps' three x's. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `xxii-corps`), drawn on 38 of the 82 days whose symbols are read, 18 January 1945 to 24 February 1945 (first loc-12ag/ict21228). The divisions under it by date are in each division's entry in the ETO order of battle (etoob); none is cited here yet.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-1ss",
+   "name": "1st SS Division (German)",
+   "short": "German 1st SS",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-1ss`): the map's hatched box, labelled \"1 SS\", \"1SS\", drawn armored, on 55 of the 82 days whose symbols are read, 16 December 1944 to 12 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-2-airborne",
+   "name": "German 2d Division (airborne)",
+   "short": "German 2d (airborne)",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-2-airborne`): the map's hatched box, labelled \"2\", \"2(-)\", drawn airborne, on 65 of the 82 days whose symbols are read, 22 December 1944 to 24 February 1945 (first loc-12ag/ict21201). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-2-armored",
+   "name": "German 2d Division (armored)",
+   "short": "German 2d (armored)",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-2-armored`): the map's hatched box, labelled \"2\", \"2(ELTS)\", \"2(-)\", \"2(?)\", \"2(ELMS)\", drawn armored, on 68 of the 82 days whose symbols are read, 16 December 1944 to 15 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-2mtn",
+   "name": "2d Mountain Division (German)",
+   "short": "German 2d Mountain",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-2mtn`): the map's hatched box, labelled \"2 MTN\", \"2 (MTN)\", drawn infantry (and as read: unread 4), on 33 of the 82 days whose symbols are read, 22 January 1945 to 24 February 1945 (first loc-12ag/ict21232). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-2ss",
+   "name": "2d SS Division (German)",
+   "short": "German 2d SS",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-2ss`): the map's hatched box, labelled \"2 SS\", \"2SS\", drawn armored, on 59 of the 82 days whose symbols are read, 16 December 1944 to 12 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-5",
+   "name": "5th Division (German)",
+   "short": "German 5th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-5`): the map's hatched box, labelled \"5\", \"5(-)\", \"5 ELMS\", drawn airborne (and as read: infantry 3, armored 2, unread 2), on 81 of the 82 days whose symbols are read, 17 December 1944 to 17 March 1945 (first loc-12ag/ict21196). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-6",
+   "name": "6th Division (German)",
+   "short": "German 6th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-6`): the map's hatched box, labelled \"6\", \"6(-)\", \"6(ELMS)\", \"6 ELMS\", drawn airborne (and as read: unread 2), on 64 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-6ss",
+   "name": "6th SS Mountain Division (German)",
+   "short": "German 6th SS Mountain",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-6ss`): the map's hatched box, labelled \"6 SS (MTN)\", \"6 SS\", \"6 SS MTN\", \"6(MTN) SS\", \"6 SS(MTN)\", \"6(-) SS (MTN)\", \"6(-) SS MTN\", drawn infantry (and as read: unread 5, armored infantry 3, armored 1), on 59 of the 82 days whose symbols are read, 3 January 1945 to 17 March 1945 (first loc-12ag/ict21213). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-7",
+   "name": "7th Division (German)",
+   "short": "German 7th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-7`): the map's hatched box, labelled \"7\", drawn airborne (and as read: infantry 7, unread 5), on 64 of the 82 days whose symbols are read, 17 December 1944 to 24 February 1945 (first loc-12ag/ict21196). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-8",
+   "name": "8th Division (German)",
+   "short": "German 8th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-8`): the map's hatched box, labelled \"8\", drawn airborne (and as read: unread 1), on 29 of the 82 days whose symbols are read, 28 December 1944 to 24 February 1945 (first loc-12ag/ict21207). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-9ss",
+   "name": "9th SS Division (German)",
+   "short": "German 9th SS",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-9ss`): the map's hatched box, labelled \"9 SS\", drawn armored, on 52 of the 82 days whose symbols are read, 23 December 1944 to 12 February 1945 (first loc-12ag/ict21202). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-10ss",
+   "name": "10th SS Division (German)",
+   "short": "German 10th SS",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-10ss`): the map's hatched box, labelled \"10 SS\", \"10SS\", drawn armored (and as read: unread 5, armored infantry 4, infantry 1), on 62 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-11",
+   "name": "11th Division (German)",
+   "short": "German 11th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-11`): the map's hatched box, labelled \"11\", drawn armored (and as read: unread 9, infantry 1), on 77 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-12",
+   "name": "12th Division (German)",
+   "short": "German 12th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-12`): the map's hatched box, labelled \"12\", \"12 ELMS\", \"12(-)\", \"12-\", drawn infantry (and as read: armored 5, unread 2), on 80 of the 82 days whose symbols are read, 17 December 1944 to 17 March 1945 (first loc-12ag/ict21196). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-12ss",
+   "name": "12th SS Division (German)",
+   "short": "German 12th SS",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-12ss`): the map's hatched box, labelled \"12 SS\", \"12SS\", drawn armored, on 59 of the 82 days whose symbols are read, 16 December 1944 to 12 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-16",
+   "name": "16th Division (German)",
+   "short": "German 16th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-16`): the map's hatched box, labelled \"16\", drawn infantry (and as read: unread 5), on 62 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-17ss",
+   "name": "17th SS Division (German)",
+   "short": "German 17th SS",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-17ss`): the map's hatched box, labelled \"17 SS\", \"17SS\", drawn armored infantry (and as read: unread 12, infantry 7, armored 3), on 65 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-18",
+   "name": "18th Division (German)",
+   "short": "German 18th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-18`): the map's hatched box, labelled \"18\", drawn infantry (and as read: unread 2), on 77 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-19",
+   "name": "19th Division (German)",
+   "short": "German 19th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-19`): the map's hatched box, labelled \"19\", drawn infantry (and as read: unread 3), on 67 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-21",
+   "name": "21st Division (German)",
+   "short": "German 21st",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-21`): the map's hatched box, labelled \"21\", drawn armored (and as read: infantry 6), on 57 of the 82 days whose symbols are read, 16 December 1944 to 11 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-25",
+   "name": "25th Division (German)",
+   "short": "German 25th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-25`): the map's hatched box, labelled \"25\", drawn armored infantry (and as read: infantry 14, unread 7, armored 5), on 57 of the 82 days whose symbols are read, 16 December 1944 to 11 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-30ss",
+   "name": "30th SS Division (German)",
+   "short": "German 30th SS",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-30ss`): the map's hatched box, labelled \"30 SS\", \"30SS\", drawn infantry (and as read: unread 5), on 68 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-36",
+   "name": "36th Division (German)",
+   "short": "German 36th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-36`): the map's hatched box, labelled \"36\", drawn infantry (and as read: unread 3), on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-47",
+   "name": "47th Division (German)",
+   "short": "German 47th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-47`): the map's hatched box, labelled \"47\", drawn infantry (and as read: unread 2), on 67 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-49",
+   "name": "49th Division (German)",
+   "short": "German 49th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-49`): the map's hatched box, labelled \"49\", drawn infantry (and as read: unread 2), on 50 of the 82 days whose symbols are read, 3 January 1945 to 21 February 1945 (first loc-12ag/ict21213). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-59",
+   "name": "59th Division (German)",
+   "short": "German 59th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-59`): the map's hatched box, labelled \"59\", drawn infantry (and as read: unread 2), on 71 of the 82 days whose symbols are read, 16 December 1944 to 16 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-62",
+   "name": "62d Division (German)",
+   "short": "German 62d",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-62`): the map's hatched box, labelled \"62\", drawn infantry (and as read: unread 2), on 78 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-79",
+   "name": "79th Division (German)",
+   "short": "German 79th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-79`): the map's hatched box, labelled \"79\", drawn infantry (and as read: unread 3), on 48 of the 82 days whose symbols are read, 24 December 1944 to 24 February 1945 (first loc-12ag/ict21203). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-84",
+   "name": "84th Division (German)",
+   "short": "German 84th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-84`): the map's hatched box, labelled \"84\", drawn infantry (and as read: unread 1), on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-85",
+   "name": "85th Division (German)",
+   "short": "German 85th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-85`): the map's hatched box, labelled \"85\", drawn infantry (and as read: unread 2), on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-89",
+   "name": "89th Division (German)",
+   "short": "German 89th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-89`): the map's hatched box, labelled \"89\", drawn infantry (and as read: unread 2), on 81 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-106",
+   "name": "106th Division (German)",
+   "short": "German 106th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-106`): the map's hatched box, labelled \"106\", drawn armored (and as read: unread 2), on 7 of the 82 days whose symbols are read, 18 January 1945 to 23 February 1945 (first loc-12ag/ict21228). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-116",
+   "name": "116th Division (German)",
+   "short": "German 116th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-116`): the map's hatched box, labelled \"116\", \"116(-)\", \"116(ELTS)\", drawn armored (and as read: unread 6, infantry 3), on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-159",
+   "name": "159th Division (German)",
+   "short": "German 159th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-159`): the map's hatched box, labelled \"159\", drawn infantry (and as read: unread 5), on 77 of the 82 days whose symbols are read, 16 December 1944 to 16 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-167",
+   "name": "167th Division (German)",
+   "short": "German 167th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-167`): the map's hatched box, labelled \"167\", drawn infantry (and as read: unread 3), on 67 of the 82 days whose symbols are read, 30 December 1944 to 17 March 1945 (first loc-12ag/ict21209). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-172",
+   "name": "172d Division (German)",
+   "short": "German 172d",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-172`): the map's hatched box, labelled \"172\", drawn infantry, on 28 of the 82 days whose symbols are read, 3 January 1945 to 31 January 1945 (first loc-12ag/ict21213). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-176",
+   "name": "176th Division (German)",
+   "short": "German 176th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-176`): the map's hatched box, labelled \"176\", drawn infantry (and as read: unread 1), on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-180",
+   "name": "180th Division (German)",
+   "short": "German 180th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-180`): the map's hatched box, labelled \"180\", drawn infantry (and as read: unread 2), on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-183",
+   "name": "183d Division (German)",
+   "short": "German 183d",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-183`): the map's hatched box, labelled \"183\", drawn infantry (and as read: unread 1), on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-189",
+   "name": "189th Division (German)",
+   "short": "German 189th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-189`): the map's hatched box, labelled \"189\", drawn infantry (and as read: unread 4), on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-190",
+   "name": "190th Division (German)",
+   "short": "German 190th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-190`): the map's hatched box, labelled \"190\", drawn infantry (and as read: unread 1), on 66 of the 82 days whose symbols are read, 16 December 1944 to 23 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-198",
+   "name": "198th Division (German)",
+   "short": "German 198th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-198`): the map's hatched box, labelled \"198\", drawn infantry (and as read: unread 2), on 69 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-212",
+   "name": "212th Division (German)",
+   "short": "German 212th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-212`): the map's hatched box, labelled \"212\", \"212(-)\", drawn infantry (and as read: unread 2), on 67 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-245",
+   "name": "245th Division (German)",
+   "short": "German 245th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-245`): the map's hatched box, labelled \"245\", drawn infantry (and as read: unread 3), on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-246",
+   "name": "246th Division (German)",
+   "short": "German 246th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-246`): the map's hatched box, labelled \"246\", \"246(-)\", \"246 (ELTS)\", drawn infantry (and as read: unread 2), on 73 of the 82 days whose symbols are read, 16 December 1944 to 13 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-256",
+   "name": "256th Division (German)",
+   "short": "German 256th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-256`): the map's hatched box, labelled \"256\", drawn infantry (and as read: unread 2), on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-257",
+   "name": "257th Division (German)",
+   "short": "German 257th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-257`): the map's hatched box, labelled \"257\", drawn infantry (and as read: unread 2), on 61 of the 82 days whose symbols are read, 21 December 1944 to 24 February 1945 (first loc-12ag/ict21200). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-269",
+   "name": "269th Division (German)",
+   "short": "German 269th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-269`): the map's hatched box, labelled \"269\", drawn infantry, on 39 of the 82 days whose symbols are read, 16 December 1944 to 24 January 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-272",
+   "name": "272d Division (German)",
+   "short": "German 272d",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-272`): the map's hatched box, labelled \"272\", drawn infantry (and as read: unread 2), on 78 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-275",
+   "name": "275th Division (German)",
+   "short": "German 275th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-275`): the map's hatched box, labelled \"275\", drawn infantry, on 8 of the 82 days whose symbols are read, 16 January 1945 to 23 January 1945 (first loc-12ag/ict21226). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-277",
+   "name": "277th Division (German)",
+   "short": "German 277th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-277`): the map's hatched box, labelled \"277\", drawn infantry (and as read: unread 2), on 77 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-326",
+   "name": "326th Division (German)",
+   "short": "German 326th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-326`): the map's hatched box, labelled \"326\", \"326(-)\", \"326(ELMS)\", drawn infantry (and as read: unread 3), on 67 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-331",
+   "name": "331st Division (German)",
+   "short": "German 331st",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-331`): the map's hatched box, labelled \"331\", drawn infantry, on 56 of the 82 days whose symbols are read, 16 December 1944 to 11 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-338",
+   "name": "338th Division (German)",
+   "short": "German 338th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-338`): the map's hatched box, labelled \"338\", drawn infantry (and as read: unread 5), on 68 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-340",
+   "name": "340th Division (German)",
+   "short": "German 340th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-340`): the map's hatched box, labelled \"340\", \"340 (ELMS)\", \"340(-)\", \"340 ELM\", drawn infantry (and as read: unread 1), on 79 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-344",
+   "name": "344th Division (German)",
+   "short": "German 344th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-344`): the map's hatched box, labelled \"344\", drawn infantry, on 24 of the 82 days whose symbols are read, 16 December 1944 to 21 January 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-345",
+   "name": "345th Division (German)",
+   "short": "German 345th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-345`): the map's hatched box, labelled \"345\", drawn infantry, on 3 of the 82 days whose symbols are read, 3 February 1945 to 5 February 1945 (first loc-12ag/ict21244). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-346",
+   "name": "346th Division (German)",
+   "short": "German 346th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-346`): the map's hatched box, labelled \"346\", drawn infantry (and as read: unread 1), on 68 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-347",
+   "name": "347th Division (German)",
+   "short": "German 347th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-347`): the map's hatched box, labelled \"347\", drawn infantry (and as read: unread 5), on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-353",
+   "name": "353d Division (German)",
+   "short": "German 353d",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-353`): the map's hatched box, labelled \"353\", drawn infantry (and as read: unread 2), on 81 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-361",
+   "name": "361st Division (German)",
+   "short": "German 361st",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-361`): the map's hatched box, labelled \"361\", \"361 (REM)\", \"361(REM)\", \"361 (RES)\", drawn infantry (and as read: unread 1), on 66 of the 82 days whose symbols are read, 16 December 1944 to 20 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-363",
+   "name": "363d Division (German)",
+   "short": "German 363d",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-363`): the map's hatched box, labelled \"363\", drawn infantry (and as read: unread 2), on 82 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-405",
+   "name": "405th Division (German)",
+   "short": "German 405th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-405`): the map's hatched box, labelled \"405\", \"405 zbV\", \"405 ZbV\", drawn infantry (and as read: unread 2), on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-406",
+   "name": "406th Division (German)",
+   "short": "German 406th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-406`): the map's hatched box, labelled \"406\", drawn infantry, on 51 of the 82 days whose symbols are read, 16 December 1944 to 4 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-416",
+   "name": "416th Division (German)",
+   "short": "German 416th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-416`): the map's hatched box, labelled \"416\", drawn infantry (and as read: unread 1), on 70 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-476",
+   "name": "476th Division (German)",
+   "short": "German 476th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-476`): the map's hatched box, labelled \"476\", drawn infantry, on 10 of the 82 days whose symbols are read, 8 March 1945 to 17 March 1945 (first loc-12ag/ict21277). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-553",
+   "name": "553d Division (German)",
+   "short": "German 553d",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-553`): the map's hatched box, labelled \"553\", drawn infantry, on 48 of the 82 days whose symbols are read, 21 December 1944 to 9 February 1945 (first loc-12ag/ict21200). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-559",
+   "name": "559th Division (German)",
+   "short": "German 559th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-559`): the map's hatched box, labelled \"559\", drawn infantry (and as read: unread 2), on 55 of the 82 days whose symbols are read, 1 January 1945 to 24 February 1945 (first loc-12ag/ict21211). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-560",
+   "name": "560th Division (German)",
+   "short": "German 560th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-560`): the map's hatched box, labelled \"560\", drawn infantry (and as read: unread 2, armored 1), on 68 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-604zbv",
+   "name": "604th Division z.b.V. (German)",
+   "short": "German 604th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-604zbv`): the map's hatched box, labelled \"604 zbV\", drawn infantry, on 19 of the 82 days whose symbols are read, 19 January 1945 to 6 February 1945 (first loc-12ag/ict21229). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-606zbv",
+   "name": "606th Division z.b.V. (German)",
+   "short": "German 606th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-606zbv`): the map's hatched box, labelled \"606 zbV\", \"606 ZbV\", \"606 z.b.V.\", drawn infantry, on 50 of the 82 days whose symbols are read, 16 December 1944 to 6 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-708",
+   "name": "708th Division (German)",
+   "short": "German 708th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-708`): the map's hatched box, labelled \"708\", drawn infantry (and as read: unread 2), on 64 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-711",
+   "name": "711th Division (German)",
+   "short": "German 711th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-711`): the map's hatched box, labelled \"711\", drawn infantry, on 28 of the 82 days whose symbols are read, 16 December 1944 to 12 January 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-712",
+   "name": "712th Division (German)",
+   "short": "German 712th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-712`): the map's hatched box, labelled \"712\", \"712(-)\", drawn infantry, on 39 of the 82 days whose symbols are read, 16 December 1944 to 23 January 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-716",
+   "name": "716th Division (German)",
+   "short": "German 716th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-716`): the map's hatched box, labelled \"716\", drawn infantry (and as read: unread 2), on 69 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-719",
+   "name": "719th Division (German)",
+   "short": "German 719th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-719`): the map's hatched box, labelled \"719\", drawn infantry (and as read: unread 2), on 71 of the 82 days whose symbols are read, 16 December 1944 to 24 February 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-778",
+   "name": "778th Division (German)",
+   "short": "German 778th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-778`): the map's hatched box, labelled \"778\", drawn infantry (and as read: unread 2), on 19 of the 82 days whose symbols are read, 4 February 1945 to 24 February 1945 (first loc-12ag/ict21245). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-805zbv",
+   "name": "805th Division z.b.V. (German)",
+   "short": "German 805th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-805zbv`): the map's hatched box, labelled \"805 zbV\", \"805 ZbV\", \"805 ZBV\", drawn infantry (and as read: unread 4), on 15 of the 82 days whose symbols are read, 10 February 1945 to 24 February 1945 (first loc-12ag/ict21251). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-905zbv",
+   "name": "905th Division z.b.V. (German)",
+   "short": "German 905th",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-905zbv`): the map's hatched box, labelled \"905 zbV\", \"905 ZbV\", \"905 ZBV\", drawn infantry (and as read: unread 2), on 15 of the 82 days whose symbols are read, 10 February 1945 to 24 February 1945 (first loc-12ag/ict21251). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-lehr",
+   "name": "LEHR Division (German)",
+   "short": "German LEHR",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-lehr`): the map's hatched box, labelled \"LEHR\", \"LEHR(-)\", drawn armored (and as read: unread 2), on 74 of the 82 days whose symbols are read, 16 December 1944 to 17 March 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
+   "stations": [],
+   "actions": []
+  },
+  {
+   "unit": "de-tettau",
+   "name": "TETTAU (German)",
+   "short": "German TETTAU",
+   "note": "German. Followed so far by its symbols on the 12th Army Group's situation maps (records/fronts/, unit `de-tettau`): the map's hatched box, labelled \"TETTAU\", drawn infantry, on 39 of the 82 days whose symbols are read, 16 December 1944 to 23 January 1945 (first loc-12ag/ict21195). Tied by the label, which only this division's track bears on those sheets (records/fronts/README.md, \"The divisions tied\"). Its name and kind beyond the map's label and mark are not yet cited from a record.",
    "stations": [],
    "actions": []
   }

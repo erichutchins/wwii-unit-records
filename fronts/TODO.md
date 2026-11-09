@@ -128,14 +128,24 @@ Sprimont on the 24th; three of those moves lag the division's own records: READM
   uses). Done on every read day (8 November 2026): the US corps and armies, both army groups, the 1st, 45th and 79th
   Divisions, the 9th and 11th Armored and the French 2nd Armored; and (9 November 2026, `README.md` "The divisions
   tied") the 4th, 28th and 87th Divisions, the 4th Armored, the 101st and 17th Airborne, and the enemy's 276th, 352nd
-  and 26th Volks Grenadier, 3d Parachute, 3d and 15th Panzer Grenadier and the Fuehrer Grenadier Brigade. Keep it up on
+  and 26th Volks Grenadier, 3d Parachute, 3d and 15th Panzer Grenadier and the Fuehrer Grenadier Brigade; and (9 November
+  2026, the same section) every US division and corps on the read days and 81 enemy divisions whose label one track
+  alone bears (untied symbols 13,354 of 15,788 before, 5,284 after: the British, Canadian, French and Polish symbols
+  and the enemy's corps, armies and army groups are what is left to key). Keep it up on
   every new day, and the same for any other division that gets a key; leave a symbol untied where its place says it
   is another unit (the "11(-)" among the British by Roermond in February).
-- **Settle the `which-unit` symbols that a look would** (119 on 9 November 2026, after the three by Chenogne were tied by place): above all the enemy's "3" on
+- **Settle the `which-unit` symbols that a look would** (288 on 9 November 2026: 119 before that day's ties, then the
+  enemy's "9"s, the "2"s with no airborne or armored mark, the "406 zbV" and "FE"): above all the enemy's "3" on
   23-25 December 1944 by Faymonville, drawn with the panzer mark where the 3d Parachute stands the days around, and the
   "3"s with no mark read (`--look` on the day's scan; most of these sheets aren't cached, so `--fetch` first). The
   northern "GD" by La Roche (27 December - 5 January) wants a record, not a look: which brigade the 12th Army Group's
   G-2 meant there.
+- **Order of battle pages.** The US division keys made on 9 November 2026 (`army/units.csv`: `2id` to `106id`, `2ad`
+  to `20ad`, `13abn`, `82abn`) cite the maps but not yet their entries in the ETO order of battle (`etoob`), whose
+  web edition is read through the Internet Archive, which the session that made them could not reach. For each, the
+  printed page its entry begins on (`etoob-<division page>/p<page>`, as `4id`'s `etoob-4ID/p38`), put into its note
+  in place of "still to be cited". The enemy's keys want a record that names each division (Cole for the Ardennes
+  ones, as the 276th's cites; the German records on microfilm for the rest), beyond the map's label.
 - **Keep every reading checkable**: the box's x,y, the label exactly as drawn, and in the notes every symbol that is a
   list entry rather than placed (`fit_km` is on each point in the GeoJSON). Where a followed division hasn't moved
   since the day before, say so in the day's YAML ("the 9th Armored's oval where it was on the 20th"), so a quiet

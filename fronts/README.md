@@ -255,6 +255,44 @@ Each map has four files:
     has that division attacking at Chenogne from the 30th (cole/24/p614, cole/24/p619). The Fuehrer Begleit Brigade
     has a key (`de-fbb`, `army/units.csv`) for the records that name it; no symbol is tied to it yet.
   - A label with a figure unread that could be one of these ("2?6", "27?", "1??") is left untied, `which-unit`.
+  Every US division and corps on the read days, and the enemy's divisions whose label one track alone bears (9 November
+  2026), each a key in `army/units.csv` whose note gives the label, the marks as read, the days drawn and the first sheet:
+  - US divisions, by the label and the mark together, at a division's echelon: no two US divisions in the theatre
+    share a number and a mark, so a crossed "2" is the 2d Division (`2id`), an oval "2" the 2d Armored (`2ad`), an
+    airborne "13" the 13th Airborne (`13abn`). Keyed: the 2d, 3d, 5th, 8th, 9th, 26th, 29th, 30th, 35th, 36th, 42d,
+    44th, 63d, 65th, 66th, 69th, 70th, 71st, 75th, 76th, 78th, 80th, 83d, 84th, 89th, 90th, 94th, 95th, 99th, 100th,
+    102d, 103d, 104th and 106th Divisions; the 2d, 3d, 5th, 6th, 7th, 8th, 10th, 12th, 13th, 14th, 16th and 20th
+    Armored; the 13th and 82d Airborne. Each key's ETO order of battle page is still to be cited (`TODO.md`).
+    Not tied: an open box with the enemy's or an ally's label (`enemy-label`, `allied-label`), a figure unread, and
+    a number no US division in the theatre bore (the crossed "92" on 16 December 1944, "19" on 11 January 1945, "12"
+    on 8 February), left as drawn.
+  - US corps, by the label: the XII, XVIII, XX, XXI and XXII (`xii-corps` and so on), beside the nine tied before.
+  - Withheld, where the drawing alone would give the tie but the days around show the symbol is another unit's (the
+    day's YAML says which): the crossed "5(-)" by Aachen on 17 December 1944, where the 16th's and 18th's sheets draw
+    the 5th Armored's oval "5(-)", with the 5th Division's crossed "5" by Saarlautern that day; the second "106" on 20 December, in northern Alsace where the 100th stands on the days around, while
+    the 106th's "106(+)" stands at St. Vith; the "100" on 4 January 1945 by the XVIII Corps in the Ardennes, where the
+    100th's track is in Alsace. These are the sheet's own, read as drawn, and look like a figure miswritten on it.
+  - German divisions, by the label alone where the read days draw it once a day on one track (its parts, "(-)" and
+    "ELMS", and a copy in a box of unplaced divisions, aside), whatever its mark, as for the 15th Panzer Grenadier:
+    81 keys, from the "1 SS" (`de-1ss`) to the "905 zbV" (`de-905zbv`), and LEHR and TETTAU. A key's name is the
+    map's label (the "272d Division (German)"); what the division was beyond its label and mark is not cited yet.
+    "405 zbV" and "405", and "6 SS" and "6 SS MTN", are one track each and one key each. "FG", drawn with the armored
+    mark on 28 January - 9 February 1945, is the Fuehrer Grenadier Brigade (`de-fgb`), by its initials. The "2" is two
+    tracks, split by the mark: the armored (`de-2-armored`, the Ardennes) and the airborne (`de-2-airborne`, the
+    Netherlands, from 22 December); a "2" drawn with the infantry's cross or no mark read is `which-unit`. Twice on
+    a day, both copies tied: the "11" on 18 January, the "716" on 2 January, the "363" on 11 March (each looked at).
+  - German, left `which-unit`: every "9" (an armored and an infantry track that cross, and each drawn twice on some
+    days, as the "3" before 21 December); the "406 zbV" from 5 February, 110 km from where the "406" stood on the
+    4th; "FE"/"F.E." (19-22 January). Left untied: a label drawn on fewer than three days (a misreading can't be
+    told from a short-lived identification), the map's own "?" ("216?", "553?", "9 SS ?"; the "216" without it too,
+    on the "216?" track), and a figure unread.
+  - German, withheld (the day's YAML): the "116" in Alsace on 11 January 1945, the armored "16" in the Ardennes on
+    15 January, the "89" in Alsace on 7 January and the second "84" on 15 February, each far from its own track that
+    day and the days around. The "84" by Goch on 10 February, read as an open box, is hatched like the 9th's and 11th's
+    and is now `de` (the day's YAML).
+  Untied symbols on the 82 read days: 13,354 of 15,788 before these ties, 5,284 after (US divisions 3,050 to 35, US corps
+  302 to 4, German divisions 5,333 to 576; the rest are British, Canadian, French and Polish symbols and the enemy's
+  corps, armies and army groups, not yet keyed).
   On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and
   each read on a numbered sheet; the ones the finder missed (about a fifth, a box touching its number or a line) were read
   by eye on the sheet. Labels keep the map's qualifiers: "9(-)" (the division less some of its units), "1(+)" (with

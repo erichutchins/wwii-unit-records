@@ -117,3 +117,352 @@ de-fgb:
 de-fbb:
   plain: a German armoured brigade, which attacked west of Bastogne at the end of December 1944, at Chenogne among other places
   of: de
+13abn:
+  plain: an airborne division; followed by its symbols on the army group's maps, in February 1945
+82abn:
+  plain: an airborne division; followed by its symbols on the army group's maps, December 1944 to February 1945
+2ad:
+  plain: an armored division; followed by its symbols on the army group's maps, December 1944 to February 1945
+3ad:
+  plain: an armored division; followed by its symbols on the army group's maps, December 1944 to March 1945
+5ad:
+  plain: an armored division; followed by its symbols on the army group's maps, December 1944 to February 1945
+6ad:
+  plain: an armored division; followed by its symbols on the army group's maps, December 1944 to March 1945
+7ad:
+  plain: an armored division; followed by its symbols on the army group's maps, December 1944 to March 1945
+8ad:
+  plain: an armored division; followed by its symbols on the army group's maps, January 1945 to February 1945
+10ad:
+  plain: an armored division; followed by its symbols on the army group's maps, December 1944 to February 1945
+12ad:
+  plain: an armored division; followed by its symbols on the army group's maps, December 1944 to February 1945
+13ad:
+  plain: an armored division; followed by its symbols on the army group's maps, in February 1945
+14ad:
+  plain: an armored division; followed by its symbols on the army group's maps, December 1944 to February 1945
+16ad:
+  plain: an armored division; followed by its symbols on the army group's maps, in February 1945
+20ad:
+  plain: an armored division; followed by its symbols on the army group's maps, in February 1945
+2id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+3id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+5id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+8id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+9id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+26id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+29id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+30id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+35id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+36id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+42id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+44id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+63id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+65id:
+  plain: an infantry division; followed by its symbols on the army group's maps, January 1945 to February 1945
+66id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+69id:
+  plain: an infantry division; followed by its symbols on the army group's maps, January 1945 to March 1945
+70id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+71id:
+  plain: an infantry division; followed by its symbols on the army group's maps, in February 1945
+75id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+76id:
+  plain: an infantry division; followed by its symbols on the army group's maps, January 1945 to February 1945
+78id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+80id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+83id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+84id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+89id:
+  plain: an infantry division; followed by its symbols on the army group's maps, January 1945 to March 1945
+90id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+94id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+95id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+99id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+100id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+102id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+103id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to February 1945
+104id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+106id:
+  plain: an infantry division; followed by its symbols on the army group's maps, December 1944 to March 1945
+xii-corps:
+  plain: a US corps headquarters; followed by its symbols on the army group's maps, December 1944 to March 1945
+xviii-corps:
+  plain: a US corps headquarters; followed by its symbols on the army group's maps, December 1944 to February 1945
+xx-corps:
+  plain: a US corps headquarters; followed by its symbols on the army group's maps, December 1944 to February 1945
+xxi-corps:
+  plain: a US corps headquarters; followed by its symbols on the army group's maps, December 1944 to February 1945
+xxii-corps:
+  plain: a US corps headquarters; followed by its symbols on the army group's maps, January 1945 to February 1945
+de-1ss:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-2-airborne:
+  plain: a German division, drawn airborne on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-2-armored:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-2mtn:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, January 1945 to February 1945
+  of: de
+de-2ss:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-5:
+  plain: a German division, drawn airborne on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-6:
+  plain: a German division, drawn airborne on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-6ss:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, January 1945 to March 1945
+  of: de
+de-7:
+  plain: a German division, drawn airborne on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-8:
+  plain: a German division, drawn airborne on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-9ss:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-10ss:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-11:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-12:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-12ss:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-16:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-17ss:
+  plain: a German division, drawn armored infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-18:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-19:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-21:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-25:
+  plain: a German division, drawn armored infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-30ss:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-36:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-47:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-49:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, January 1945 to February 1945
+  of: de
+de-59:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-62:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-79:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-84:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-85:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-89:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-106:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, January 1945 to February 1945
+  of: de
+de-116:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-159:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-167:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-172:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, in January 1945
+  of: de
+de-176:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-180:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-183:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-189:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-190:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-198:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-212:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-245:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-246:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-256:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-257:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-269:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to January 1945
+  of: de
+de-272:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-275:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, in January 1945
+  of: de
+de-277:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-326:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-331:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-338:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-340:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-344:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to January 1945
+  of: de
+de-345:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, in February 1945
+  of: de
+de-346:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-347:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-353:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-361:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-363:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-405:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-406:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-416:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-476:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, in March 1945
+  of: de
+de-553:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-559:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, January 1945 to February 1945
+  of: de
+de-560:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-604zbv:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, January 1945 to February 1945
+  of: de
+de-606zbv:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-708:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-711:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to January 1945
+  of: de
+de-712:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to January 1945
+  of: de
+de-716:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-719:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to February 1945
+  of: de
+de-778:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, in February 1945
+  of: de
+de-805zbv:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, in February 1945
+  of: de
+de-905zbv:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, in February 1945
+  of: de
+de-lehr:
+  plain: a German division, drawn armored on the American maps; followed by its symbols, December 1944 to March 1945
+  of: de
+de-tettau:
+  plain: a German division, drawn infantry on the American maps; followed by its symbols, December 1944 to January 1945
+  of: de
