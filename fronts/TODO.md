@@ -134,6 +134,10 @@ the 9th Armored's oval stands by Guignicourt-sur-Vence on 12 and 13 January (a l
   list entry rather than placed (`fit_km` is on each point in the GeoJSON). Where a followed division hasn't moved
   since the day before, say so in the day's YAML ("the 9th Armored's oval where it was on the 20th"), so a quiet
   stretch reads as a reading, not a gap.
+- **The "N.W. AMSTERDAM" caption** (list word `amsterdam`, from 10 January 1945): symbols at the sheet's top edge under
+  a caption with an arrow off the sheet. The earlier read days were reviewed without the word (31 January - 7 February
+  took the arrows over the 331 and 604 zbV for stubs over their x marks): look at the top strip (about x 2300-3300,
+  y 100-400) on every read day and list what stands under the caption.
 - **List words** (`README.md`): `marseilles`, `le-havre`, `cherbourg`, `westwall`, `bracket`, `arrow`,
   `out-of-contact`, `unlocated`, `le-havre-rouen`, `dieppe-rouen`, `upper-alsace-pocket` and `upper-rhine-area` say what each box is on the sheet; not yet how a page
   should show each one. Add a line to each when a page first draws them.
