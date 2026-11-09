@@ -211,9 +211,14 @@ Each map has four files:
   - `tied-by-place`: the label fits more than one unit, and the tie in `unit` is the one a cited history puts at that
     place on that day; the reasoning is in "The divisions tied" below. A page may draw it as that unit, but says how
     it is known.
+  - `location-doubtful`: the map writes "LOCATION DOUBTFUL" over the box (the enemy's 245 by Cerisy, 26 June 1944): the
+    sheet's own doubt about where the unit stands, not about which unit it is.
   A new doubt gets a new word here first, like a `list` word. `map`: the sheet.
-  What the sheets draw: on the 82 days read (16 December 1944 - 24 February 1945,
-  7-17 March 1945), the US and British symbols are divisions and above, and the enemy's brigades and above.
+  An `echelon` is left empty where the marks over a box aren't one of these: the three bars of a regiment (the hatched
+  airborne "6" by Carentan, June 1944), or no marks at all (a dashed British "6" on 26 June 1944).
+  What the sheets draw: on the days read (16 December 1944 - 24 February 1945, 7-17 March 1945, and from 26 June 1944,
+  `TODO.md` section 3), the US and British symbols are divisions and above, and the enemy's brigades and above (and
+  in June 1944 one regiment, the airborne "6" by Carentan).
   No battalion, battery or combat command has a box of its own, so an anti-aircraft, tank or infantry battalion is
   not on these maps: its division (or, for a battery under an army's or corps' command, nothing) is the nearest they come.
   The sheets can lag a move: a sheet draws a unit where the staff last had it, and a move can reach it a day or more
@@ -290,6 +295,9 @@ Each map has four files:
     15 January, the "89" in Alsace on 7 January and the second "84" on 15 February, each far from its own track that
     day and the days around. The "84" by Goch on 10 February, read as an open box, is hatched like the 9th's and 11th's
     and is now `de` (the day's YAML).
+  The summer sheets (from 26 June 1944): the US symbols are tied by the label and the mark as above. The enemy's are
+  left untied: the German keys come from the winter sheets' tracks, and the days between July and December 1944 aren't
+  read, so no track joins a June "352" or "275" to the winter's.
   Untied symbols on the 82 read days: 13,354 of 15,788 before these ties, 5,284 after (US divisions 3,050 to 35, US corps
   302 to 4, German divisions 5,333 to 576; the rest are British, Canadian, French and Polish symbols and the enemy's
   corps, armies and army groups, not yet keyed).
