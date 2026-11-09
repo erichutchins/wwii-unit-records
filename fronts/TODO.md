@@ -126,9 +126,16 @@ Sprimont on the 24th; three of those moves lag the division's own records: READM
   16 December 1944 - 11 January 1945 and 7-17 March 1945.
 - **Fill `unit` wherever a symbol is certainly a unit the kit has** (`army/units.csv`, or a key `army/relations.csv`
   uses). Done on every read day (8 November 2026): the US corps and armies, both army groups, the 1st, 45th and 79th
-  Divisions, the 9th and 11th Armored and the French 2nd Armored. Keep it up on every new day, and the same for any
-  other division that gets a key; leave a symbol untied where its place says it is another unit (the "11(-)" among
-  the British by Roermond in February).
+  Divisions, the 9th and 11th Armored and the French 2nd Armored; and (9 November 2026, `README.md` "The divisions
+  tied") the 4th, 28th and 87th Divisions, the 4th Armored, the 101st and 17th Airborne, and the enemy's 276th, 352nd
+  and 26th Volks Grenadier, 3d Parachute, 3d and 15th Panzer Grenadier and the Fuehrer Grenadier Brigade. Keep it up on
+  every new day, and the same for any other division that gets a key; leave a symbol untied where its place says it
+  is another unit (the "11(-)" among the British by Roermond in February).
+- **Settle the `which-unit` symbols that a look would** (119 on 9 November 2026, after the three by Chenogne were tied by place): above all the enemy's "3" on
+  23-25 December 1944 by Faymonville, drawn with the panzer mark where the 3d Parachute stands the days around, and the
+  "3"s with no mark read (`--look` on the day's scan; most of these sheets aren't cached, so `--fetch` first). The
+  northern "GD" by La Roche (27 December - 5 January) wants a record, not a look: which brigade the 12th Army Group's
+  G-2 meant there.
 - **Keep every reading checkable**: the box's x,y, the label exactly as drawn, and in the notes every symbol that is a
   list entry rather than placed (`fit_km` is on each point in the GeoJSON). Where a followed division hasn't moved
   since the day before, say so in the day's YAML ("the 9th Armored's oval where it was on the 20th"), so a quiet

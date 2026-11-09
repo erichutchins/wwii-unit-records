@@ -22,7 +22,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 3606,757,uk,xx,infantry,51,,,,loc-12ag/ict21260
 2816,776,pl,xx,armored,POL,,,,loc-12ag/ict21260
 3657,800,uk,xx,infantry,52,,,,loc-12ag/ict21260
-3914,800,de,xx,unread,15,,,,loc-12ag/ict21260
+3914,800,de,xx,unread,15,de-15pzgr,,,loc-12ag/ict21260
 3811,807,de,xx,unread,7,,,,loc-12ag/ict21260
 2670,830,uk,xxx,,I,,,,loc-12ag/ict21260
 3066,866,uk,xx,armored,GDS(-),,,,loc-12ag/ict21260
@@ -70,7 +70,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 3954,2016,us,xxx,,III,iii-corps,,,loc-12ag/ict21260
 4010,2046,us,xx,infantry,1,1st-division,,,loc-12ag/ict21260
 4152,2047,de,xx,infantry,85,,,,loc-12ag/ict21260
-4275,2072,de,xx,airborne,3(ELMS),,,,loc-12ag/ict21260
+4275,2072,de,xx,airborne,3(ELMS),de-3fj,,,loc-12ag/ict21260
 588,2073,us,xx,infantry,71,,dieppe-rouen,,loc-12ag/ict21260
 3854,2076,us,xx,airborne,82,,,,loc-12ag/ict21260
 3484,2085,us,xx,infantry,83,,,,loc-12ag/ict21260
@@ -79,7 +79,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 3690,2116,us,xxx,,V,v-corps,,,loc-12ag/ict21260
 586,2137,us,xx,infantry,89,,dieppe-rouen,,loc-12ag/ict21260
 3954,2140,us,xx,infantry,78,,,,loc-12ag/ict21260
-4366,2141,de,xx,unread,3,,,,loc-12ag/ict21260
+4366,2141,de,xx,unread,3,,,which-unit,loc-12ag/ict21260
 589,2189,us,xx,armored,13,,dieppe-rouen,,loc-12ag/ict21260
 4274,2197,de,xx,armored,9(ELMS),,,,loc-12ag/ict21260
 3670,2221,us,xx,armored,7,,,,loc-12ag/ict21260
@@ -96,7 +96,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 4002,2336,us,xx,infantry,69,,,,loc-12ag/ict21260
 4180,2370,de,xx,infantry,89,,,,loc-12ag/ict21260
 5060,2437,de,xxxxxx,,C in C ADV,,,,loc-12ag/ict21260
-4178,2441,de,xx,infantry,26,,,,loc-12ag/ict21260
+4178,2441,de,xx,infantry,26,de-26vgd,,,loc-12ag/ict21260
 4276,2475,de,xx,infantry,246,,,,loc-12ag/ict21260
 3960,2477,us,xx,infantry,106(-),,,,loc-12ag/ict21260
 4180,2507,de,xx,airborne,5,,,,loc-12ag/ict21260
@@ -107,22 +107,22 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 4471,2583,de,xxx,,LXVI,,,,loc-12ag/ict21260
 5559,2593,de,xx,infantry,49,,unlocated,,loc-12ag/ict21260
 4178,2614,de,xx,armored,9(-),,,,loc-12ag/ict21260
-3980,2626,us,xx,infantry,87,,,,loc-12ag/ict21260
+3980,2626,us,xx,infantry,87,87id,,,loc-12ag/ict21260
 2953,2644,us,xxxx,,FIFTEENTH,fifteenth-army,,,loc-12ag/ict21260
 4591,2651,de,xxx,,LVII,,,,loc-12ag/ict21260
 5558,2653,de,xx,infantry,361,,unlocated,,loc-12ag/ict21260
 4158,2670,de,xx,infantry,326,,,,loc-12ag/ict21260
-4012,2702,us,xx,infantry,4,,,,loc-12ag/ict21260
+4012,2702,us,xx,infantry,4,4id,,,loc-12ag/ict21260
 4849,2706,de,xxx,,XLVIII,,,,loc-12ag/ict21260
 3904,2713,us,xx,infantry,90,,,,loc-12ag/ict21260
-5557,2716,de,xx,airborne,3(-),,unlocated,,loc-12ag/ict21260
+5557,2716,de,xx,airborne,3(-),,unlocated,which-unit,loc-12ag/ict21260
 4139,2735,de,xx,armored,2(-),,,,loc-12ag/ict21260
 3846,2762,us,xx,armored,11,11th-armd-div,,,loc-12ag/ict21260
 5556,2776,de,xx,armored,10 SS,,unlocated,,loc-12ag/ict21260
 3738,2778,us,xxx,,VIII,viii-corps,,,loc-12ag/ict21260
-4048,2782,de,xx,infantry,352(-),,,,loc-12ag/ict21260
+4048,2782,de,xx,infantry,352(-),de-352vgd,,,loc-12ag/ict21260
 4341,2784,de,xxx,,LXVII,,,,loc-12ag/ict21260
-4021,2840,de,xx,infantry,276,,,,loc-12ag/ict21260
+4021,2840,de,xx,infantry,276,de-276vgd,,,loc-12ag/ict21260
 3958,2898,de,xx,infantry,167,,,,loc-12ag/ict21260
 4341,2951,de,xxx,,LIII,,,,loc-12ag/ict21260
 3898,2954,de,xx,infantry,340,,,,loc-12ag/ict21260
@@ -131,7 +131,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 4593,3037,de,xxxx,,SEVENTH,,,,loc-12ag/ict21260
 3980,3074,de,xx,unread,?,,,,loc-12ag/ict21260
 4340,3110,de,xxx,,LXXX,,,,loc-12ag/ict21260
-4105,3111,de,xx,infantry,352(ELMS),,,,loc-12ag/ict21260
+4105,3111,de,xx,infantry,352(ELMS),de-352vgd,,,loc-12ag/ict21260
 4210,3144,de,xx,armored,2(ELMS),,,,loc-12ag/ict21260
 4160,3188,de,xx,infantry,560,,,,loc-12ag/ict21260
 3886,3204,us,xx,infantry,80,,,,loc-12ag/ict21260
@@ -143,7 +143,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 4558,3451,de,xxx,,LXXXII,,,,loc-12ag/ict21260
 3860,3484,us,xxx,,XII,,,,loc-12ag/ict21260
 4770,3577,de,xxx,,LXXXV,,,,loc-12ag/ict21260
-3836,3583,us,xx,armored,4,,,,loc-12ag/ict21260
+3836,3583,us,xx,armored,4,4ad,,,loc-12ag/ict21260
 4081,3583,de,xx,infantry,256,,,,loc-12ag/ict21260
 4137,3631,de,xx,infantry,416,,,,loc-12ag/ict21260
 4318,3679,de,xx,infantry,719,,,,loc-12ag/ict21260
@@ -184,12 +184,12 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 5334,4534,de,xx,infantry,47,,,,loc-12ag/ict21260
 5662,4554,de,xxx,,XXXIX,,,,loc-12ag/ict21260
 5438,4571,de,xx,infantry,257,,,,loc-12ag/ict21260
-5108,4576,us,xx,airborne,101,,,,loc-12ag/ict21260
+5108,4576,us,xx,airborne,101,101abn,,,loc-12ag/ict21260
 4934,4592,us,xxx,,VI,vi-corps,,,loc-12ag/ict21260
 5290,4661,us,xx,infantry,36,,,,loc-12ag/ict21260
 4974,4672,us,xx,armored,14,,,,loc-12ag/ict21260
 5496,4726,de,xx,infantry,905 ZbV,,,,loc-12ag/ict21260
-3572,4731,us,xx,infantry,28,,,,loc-12ag/ict21260
+3572,4731,us,xx,infantry,28,28id,,,loc-12ag/ict21260
 4227,4807,us,xxxx,,SEVENTH,seventh-army,,,loc-12ag/ict21260
 5231,4827,fr,xx,unread,ALG 3,,,,loc-12ag/ict21260
 5048,4852,fr,xxx,,II FR,,,,loc-12ag/ict21260

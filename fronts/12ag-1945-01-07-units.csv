@@ -81,7 +81,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 2783,2457,uk,xxx,,XXX,,,,loc-12ag/ict21217
 3730,2479,de,xx,infantry,18,,,,loc-12ag/ict21217
 3977,2505,de,xx,infantry,89,,,,loc-12ag/ict21217
-3839,2508,de,xx,airborne,3,,,,loc-12ag/ict21217
+3839,2508,de,xx,airborne,3,de-3fj,,,loc-12ag/ict21217
 3286,2513,us,xx,infantry,75(-),,,,loc-12ag/ict21217
 3660,2528,de,xx,infantry,62,,,,loc-12ag/ict21217
 3526,2533,us,xx,airborne,82(+),,,,loc-12ag/ict21217
@@ -108,31 +108,31 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 3648,2805,de,xxx,armored,LVIII,,,,loc-12ag/ict21217
 3175,2807,de,xx,armored,9,,arrow,,loc-12ag/ict21217
 3452,2851,de,xx,armored,9 SS,,,,loc-12ag/ict21217
-3354,2852,de,xx,infantry,26,,,,loc-12ag/ict21217
+3354,2852,de,xx,infantry,26,de-26vgd,,,loc-12ag/ict21217
 3786,2860,de,xxx,armored,XLVII,,,,loc-12ag/ict21217
 3540,2866,de,xx,armored,12 SS,,,,loc-12ag/ict21217
 3146,2881,de,xx,armored,2,,,,loc-12ag/ict21217
 4481,2888,de,xxxx,armored,FIFTH,,,,loc-12ag/ict21217
 3244,2895,de,x,armored,R,,,,loc-12ag/ict21217
 3607,2902,de,xx,infantry,340,,,,loc-12ag/ict21217
-3388,2906,de,xx,armored-infantry,15,,,,loc-12ag/ict21217
-3313,2927,de,xx,armored-infantry,3,,,,loc-12ag/ict21217
+3388,2906,de,xx,armored-infantry,15,de-15pzgr,,,loc-12ag/ict21217
+3313,2927,de,xx,armored-infantry,3,de-3pzgr,,,loc-12ag/ict21217
 3943,2946,de,xx,infantry,9?,,,,loc-12ag/ict21217
 3587,2950,de,xx,infantry,167,,,,loc-12ag/ict21217
-3454,2966,us,xx,airborne,101,,,,loc-12ag/ict21217
+3454,2966,us,xx,airborne,101,101abn,,,loc-12ag/ict21217
 3714,2980,de,x,armored,FUH,,,,loc-12ag/ict21217
 3590,3009,de,xx,armored,LEHR,,,,loc-12ag/ict21217
 3457,3019,us,xx,armored,6,,,,loc-12ag/ict21217
-3365,3026,us,xx,airborne,17,,,,loc-12ag/ict21217
-3221,3033,us,xx,infantry,87,,,,loc-12ag/ict21217
+3365,3026,us,xx,airborne,17,17abn,,,loc-12ag/ict21217
+3221,3033,us,xx,infantry,87,87id,,,loc-12ag/ict21217
 3693,3043,de,xx,airborne,5,,,,loc-12ag/ict21217
 3584,3064,de,xx,armored,1 SS,,,,loc-12ag/ict21217
 4394,3072,de,xxx,,LXXX,,,,loc-12ag/ict21217
-3419,3093,us,xx,armored,4,,,,loc-12ag/ict21217
-3779,3115,de,xx,infantry,276,,,,loc-12ag/ict21217
+3419,3093,us,xx,armored,4,4ad,,,loc-12ag/ict21217
+3779,3115,de,xx,infantry,276,de-276vgd,,,loc-12ag/ict21217
 3319,3126,us,xx,armored,11,11th-armd-div,,,loc-12ag/ict21217
 3869,3145,de,xx,infantry,79,,,,loc-12ag/ict21217
-3980,3151,de,xx,infantry,352,,,,loc-12ag/ict21217
+3980,3151,de,xx,infantry,352,de-352vgd,,,loc-12ag/ict21217
 3619,3155,us,xx,infantry,26,,,,loc-12ag/ict21217
 3509,3157,us,xx,infantry,35,,,,loc-12ag/ict21217
 3335,3184,us,xxx,,VIII,viii-corps,,,loc-12ag/ict21217
@@ -140,8 +140,8 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 3940,3224,us,xx,infantry,5,,,,loc-12ag/ict21217
 4232,3269,de,xx,infantry,212,,,,loc-12ag/ict21217
 3600,3340,us,xxx,,III,iii-corps,,,loc-12ag/ict21217
-4047,3341,us,xx,infantry,4,,,,loc-12ag/ict21217
-2534,3349,us,xx,infantry,28(-),,,,loc-12ag/ict21217
+4047,3341,us,xx,infantry,4,4id,,,loc-12ag/ict21217
+2534,3349,us,xx,infantry,28(-),28id,,,loc-12ag/ict21217
 3878,3398,us,xxxx,,THIRD,third-army,,,loc-12ag/ict21217
 2534,3415,us,xx,armored,9(-),9ad,,,loc-12ag/ict21217
 4568,3431,de,xxx,,LXXXII,,,,loc-12ag/ict21217

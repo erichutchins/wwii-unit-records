@@ -78,7 +78,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 3813,2420,us,xx,infantry,1(+),1st-division,,,loc-12ag/ict21234
 3941,2456,de,xx,infantry,89,,,,loc-12ag/ict21234
 3738,2474,us,xx,armored,7(+),,,,loc-12ag/ict21234
-3884,2492,de,xx,airborne,3,,,,loc-12ag/ict21234
+3884,2492,de,xx,airborne,3,de-3fj,,,loc-12ag/ict21234
 4315,2509,de,xxx,,LXVI,,,,loc-12ag/ict21234
 3696,2527,us,xx,infantry,30(+),,,,loc-12ag/ict21234
 2971,2538,uk,xxx,,XXX,,,,loc-12ag/ict21234
@@ -104,11 +104,11 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 5857,2675,de,xx,armored,12 SS,,out-of-contact,,loc-12ag/ict21234
 6018,2680,de,xx,armored,116,,out-of-contact,,loc-12ag/ict21234
 3569,2686,us,xx,infantry,84,,,,loc-12ag/ict21234
-3751,2695,de,xx,armored-infantry,15,,,,loc-12ag/ict21234
+3751,2695,de,xx,armored-infantry,15,de-15pzgr,,,loc-12ag/ict21234
 3741,2735,de,xx,infantry,560,,,,loc-12ag/ict21234
 4330,2760,de,xxx,armored,LVIII,,,,loc-12ag/ict21234
-3746,2779,de,xx,infantry,26,,,,loc-12ag/ict21234
-3582,2782,us,x,airborne,17,,,,loc-12ag/ict21234
+3746,2779,de,xx,infantry,26,de-26vgd,,,loc-12ag/ict21234
+3582,2782,us,x,airborne,17,17abn,,,loc-12ag/ict21234
 3974,2786,de,x,armored,FE,,,,loc-12ag/ict21234
 4603,2797,de,xxxx,armored,FIFTH,,,,loc-12ag/ict21234
 3783,2826,de,xx,armored,9,,,,loc-12ag/ict21234
@@ -122,7 +122,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 4330,2930,de,xxx,armored,I SS,,,,loc-12ag/ict21234
 3741,2933,de,xx,infantry,167,,,,loc-12ag/ict21234
 3931,2935,de,xx,airborne,5,,,,loc-12ag/ict21234
-3825,2977,de,xx,infantry,276,,,,loc-12ag/ict21234
+3825,2977,de,xx,infantry,276,de-276vgd,,,loc-12ag/ict21234
 3736,2991,de,xx,infantry,9,,,,loc-12ag/ict21234
 4330,3006,de,xxx,,LIII,,,,loc-12ag/ict21234
 4606,3016,de,xxxx,,SEVENTH,,,,loc-12ag/ict21234
@@ -131,21 +131,21 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 3870,3053,de,xx,infantry,79,,,,loc-12ag/ict21234
 4335,3091,de,xxx,,LXXXV,,,,loc-12ag/ict21234
 3911,3100,de,xx,armored,2(?),,,,loc-12ag/ict21234
-3955,3134,de,xx,unread,3,,,,loc-12ag/ict21234
+3955,3134,de,xx,unread,3,,,which-unit,loc-12ag/ict21234
 3681,3141,us,xx,infantry,80,,,,loc-12ag/ict21234
 3804,3142,us,xx,infantry,5,,,,loc-12ag/ict21234
 3525,3162,us,xxx,,III,iii-corps,,,loc-12ag/ict21234
-4013,3171,de,xx,infantry,352,,,,loc-12ag/ict21234
+4013,3171,de,xx,infantry,352,de-352vgd,,,loc-12ag/ict21234
 4335,3174,de,xxx,,LXXX,,,,loc-12ag/ict21234
-3875,3189,us,xx,infantry,4,,,,loc-12ag/ict21234
+3875,3189,us,xx,infantry,4,4id,,,loc-12ag/ict21234
 4180,3283,de,xx,infantry,212,,,,loc-12ag/ict21234
-4022,3313,us,xx,infantry,87,,,,loc-12ag/ict21234
+4022,3313,us,xx,infantry,87,87id,,,loc-12ag/ict21234
 3859,3399,us,xxxx,,THIRD,third-army,,,loc-12ag/ict21234
 4557,3415,de,xxx,,LXXXII,,,,loc-12ag/ict21234
 3846,3464,us,xxx,,XII,,,,loc-12ag/ict21234
 4065,3569,de,xx,armored,11,,,,loc-12ag/ict21234
 4131,3610,de,xx,infantry,416,,,,loc-12ag/ict21234
-3919,3672,us,xx,armored,4,,,,loc-12ag/ict21234
+3919,3672,us,xx,armored,4,4ad,,,loc-12ag/ict21234
 5226,3689,de,xxxx,,FIRST,,,,loc-12ag/ict21234
 4390,3705,de,xx,infantry,719,,,,loc-12ag/ict21234
 4074,3707,us,xx,infantry,94(+),,,,loc-12ag/ict21234
@@ -185,7 +185,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 5256,4487,de,xx,armored,21,,,,loc-12ag/ict21234
 4974,4501,us,xx,infantry,103,,,,loc-12ag/ict21234
 5340,4516,de,xx,armored-infantry,25,,,,loc-12ag/ict21234
-4720,4527,us,xx,airborne,101,,,,loc-12ag/ict21234
+4720,4527,us,xx,airborne,101,101abn,,,loc-12ag/ict21234
 5145,4532,us,xx,infantry,42(-),,,,loc-12ag/ict21234
 5679,4538,de,xxx,armored,XXXIX,,,,loc-12ag/ict21234
 4251,4549,us,xx,infantry,35(-),,,,loc-12ag/ict21234
@@ -214,7 +214,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 4855,5366,us,xx,infantry,3(+),,,,loc-12ag/ict21234
 5359,5390,de,xxx,,XVIII SS,,,,loc-12ag/ict21234
 5014,5407,de,xx,infantry,708,,,,loc-12ag/ict21234
-4690,5430,us,xx,infantry,28,,,,loc-12ag/ict21234
+4690,5430,us,xx,infantry,28,28id,,,loc-12ag/ict21234
 4949,5488,de,xx,infantry,189,,,,loc-12ag/ict21234
 5205,5506,de,xx,infantry,30 SS,,,,loc-12ag/ict21234
 4287,5533,fr,xxxx,,FIRST FR,,,,loc-12ag/ict21234

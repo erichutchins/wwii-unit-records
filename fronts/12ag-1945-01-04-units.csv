@@ -65,7 +65,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 3989,2276,de,xx,infantry,326,,,,loc-12ag/ict21214
 3770,2283,us,xx,infantry,9,,,,loc-12ag/ict21214
 5996,2294,de,xxxxxx,,C IN C,,,,loc-12ag/ict21214
-4016,2328,de,xx,infantry,27?,,,,loc-12ag/ict21214
+4016,2328,de,xx,infantry,27?,,,which-unit,loc-12ag/ict21214
 3813,2343,us,xx,infantry,99,,,,loc-12ag/ict21214
 3453,2357,us,xxx,,XVIII,,,,loc-12ag/ict21214
 3932,2372,de,xx,infantry,246,,,,loc-12ag/ict21214
@@ -81,7 +81,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 3702,2483,de,xx,infantry,18,,,,loc-12ag/ict21214
 3451,2489,us,xx,airborne,82(±),,,,loc-12ag/ict21214
 3258,2505,us,xx,infantry,83(-),,,,loc-12ag/ict21214
-3807,2508,de,xx,airborne,3,,,,loc-12ag/ict21214
+3807,2508,de,xx,airborne,3,de-3fj,,,loc-12ag/ict21214
 3605,2534,de,xx,infantry,62,,,,loc-12ag/ict21214
 3197,2539,us,xx,infantry,84(±),,,,loc-12ag/ict21214
 4528,2557,de,xxxx,armored,SIXTH,,,,loc-12ag/ict21214
@@ -95,7 +95,7 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 5575,2663,de,xx,infantry,49,,unlocated,,loc-12ag/ict21214
 3364,2665,de,xx,armored,2 SS,,,,loc-12ag/ict21214
 3731,2715,de,xxx,armored,II SS,,,,loc-12ag/ict21214
-3330,2721,de,x,armored,GD,,,,loc-12ag/ict21214
+3330,2721,de,x,armored,GD,,,which-unit,loc-12ag/ict21214
 5575,2741,de,xx,infantry,344,,unlocated,,loc-12ag/ict21214
 4478,2746,de,xxx,,LXVI,,,,loc-12ag/ict21214
 3220,2763,de,xx,armored,116,,,,loc-12ag/ict21214
@@ -105,38 +105,38 @@ x,y,of,echelon,arm,label,unit,list,doubt,map
 5571,2807,de,xx,armored,10 SS,,unlocated,,loc-12ag/ict21214
 3746,2859,de,xxx,armored,XLVII,,,,loc-12ag/ict21214
 3411,2863,de,xx,armored,9 SS,,,,loc-12ag/ict21214
-3328,2864,de,xx,infantry,26,,,,loc-12ag/ict21214
+3328,2864,de,xx,infantry,26,de-26vgd,,,loc-12ag/ict21214
 3497,2866,de,xx,armored,12 SS,,,,loc-12ag/ict21214
 3113,2880,de,xx,armored,2,,,,loc-12ag/ict21214
 4449,2889,de,xxxx,armored,FIFTH,,,,loc-12ag/ict21214
 3568,2900,de,xx,infantry,340,,,,loc-12ag/ict21214
-3358,2917,de,xx,armored-infantry,15,,,,loc-12ag/ict21214
+3358,2917,de,xx,armored-infantry,15,de-15pzgr,,,loc-12ag/ict21214
 3230,2922,de,x,armored,R,,,,loc-12ag/ict21214
 3588,2956,de,xx,infantry,167,,,,loc-12ag/ict21214
-3295,2961,de,xx,armored-infantry,3,,,,loc-12ag/ict21214
-3440,2976,us,xx,airborne,101,,,,loc-12ag/ict21214
+3295,2961,de,xx,armored-infantry,3,de-3pzgr,,,loc-12ag/ict21214
+3440,2976,us,xx,airborne,101,101abn,,,loc-12ag/ict21214
 3558,3009,de,xx,armored,LEHR,,,,loc-12ag/ict21214
 3436,3026,us,xx,armored,6,,,,loc-12ag/ict21214
-3327,3031,us,xx,airborne,17,,,,loc-12ag/ict21214
-3185,3038,us,xx,infantry,87,,,,loc-12ag/ict21214
+3327,3031,us,xx,airborne,17,17abn,,,loc-12ag/ict21214
+3185,3038,us,xx,infantry,87,87id,,,loc-12ag/ict21214
 3661,3050,de,xx,airborne,5,,,,loc-12ag/ict21214
 3546,3068,de,xx,armored,1 SS,,,,loc-12ag/ict21214
 4363,3073,de,xxx,,LXXX,,,,loc-12ag/ict21214
-3413,3077,us,xx,armored,4,,,,loc-12ag/ict21214
+3413,3077,us,xx,armored,4,4ad,,,loc-12ag/ict21214
 3744,3120,de,xx,infantry,9,,,,loc-12ag/ict21214
 3283,3134,us,xx,armored,11,11th-armd-div,,,loc-12ag/ict21214
 3839,3149,de,xx,infantry,79,,,,loc-12ag/ict21214
-3953,3153,de,xx,infantry,352,,,,loc-12ag/ict21214
+3953,3153,de,xx,infantry,352,de-352vgd,,,loc-12ag/ict21214
 3581,3163,us,xx,infantry,26,,,,loc-12ag/ict21214
 3480,3165,us,xx,infantry,35,,,,loc-12ag/ict21214
-4038,3200,de,xx,infantry,27?,,,,loc-12ag/ict21214
+4038,3200,de,xx,infantry,27?,,,which-unit,loc-12ag/ict21214
 3303,3206,us,xxx,,VIII,viii-corps,,,loc-12ag/ict21214
 3707,3220,us,xx,infantry,80,,,,loc-12ag/ict21214
 3899,3228,us,xx,infantry,5,,,,loc-12ag/ict21214
 4201,3279,de,xx,infantry,212,,,,loc-12ag/ict21214
 3565,3343,us,xxx,,III,iii-corps,,,loc-12ag/ict21214
-4019,3343,us,xx,infantry,4,,,,loc-12ag/ict21214
-2492,3351,us,xx,infantry,28(-),,,,loc-12ag/ict21214
+4019,3343,us,xx,infantry,4,4id,,,loc-12ag/ict21214
+2492,3351,us,xx,infantry,28(-),28id,,,loc-12ag/ict21214
 3847,3393,us,xxxx,,THIRD,third-army,,,loc-12ag/ict21214
 2492,3419,us,xx,armored,9(-),9ad,,,loc-12ag/ict21214
 4533,3432,de,xxx,,LXXXII,,,,loc-12ag/ict21214

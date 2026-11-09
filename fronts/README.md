@@ -205,6 +205,12 @@ Each map has four files:
     UPPER RHINE on 17-20 February. A page draws it as the enemy's, or marks it, rather than as an American division.
   - `allied-label`: an open box whose label is a British or Canadian formation's: the XXX Corps south-west of Dinant on
     4-6 February 1945 (drawn dashed, the British way, on the 7th).
+  - `which-unit`: the label and mark fit more than one unit, and neither the drawing nor its place settles which, so
+    `unit` is left empty: an enemy "3" that could be the 3d Parachute or the 3d Panzer Grenadier Division, a "GD" that
+    could be either Fuehrer brigade, a label with a figure unread ("2?6"). The ties below say which.
+  - `tied-by-place`: the label fits more than one unit, and the tie in `unit` is the one a cited history puts at that
+    place on that day; the reasoning is in "The divisions tied" below. A page may draw it as that unit, but says how
+    it is known.
   A new doubt gets a new word here first, like a `list` word. `map`: the sheet.
   What the sheets draw: on the 82 days read (16 December 1944 - 24 February 1945,
   7-17 March 1945), the US and British symbols are divisions and above, and the enemy's brigades and above.
@@ -223,6 +229,32 @@ Each map has four files:
     in Belgium (etoob-9AD/p503-504), and again on the 23rd; the 24th's sheet is the first to draw it at Sprimont.
   A move dated from these maps is dated to the sheet's hour or later, not to the move itself: check it against the
   unit's own records before using it.
+  The divisions tied (`unit`), beyond the corps, armies and army groups and the divisions in "Reading closer"
+  (`TODO.md`): the divisions round the 9th Armored in the Bulge, each a key in `army/units.csv` citing what it is.
+  - US, by the label and the mark together, at a division's echelon: the 4th Division (`4id`, a crossed "4") and the
+    4th Armored (`4ad`, an oval "4"), the 28th and 87th (`28id`, `87id`), the 101st and 17th Airborne (`101abn`,
+    `17abn`; the 17th's two symbols with a brigade's mark on 24 and 25 January, the only "17" those days, tied too).
+  - German, by the label alone where only one division of the enemy's bears it: the 276th, 352nd and 26th Volks
+    Grenadier (`de-276vgd`, `de-352vgd`, `de-26vgd`; "352(-)" and "352 ELMS" both the 352nd's parts) and the 15th
+    Panzer Grenadier (`de-15pzgr`: one "15" a day on one track, whatever its mark).
+  - The enemy's "3", two divisions: the 3d Parachute (`de-3fj`, the airborne mark) and the 3d Panzer Grenadier
+    (`de-3pzgr`, an oval, with or without the cross). From 21 December, when the two tracks part (cole/6/p121: the
+    3d Panzer Grenadier marched west to Elsenborn on the 18th), a mark is tied where it is the day's one symbol of that
+    mark, or the one placed rather than listed. Left `which-unit`: every "3" before the 21st; one drawn with no mark or
+    the infantry's cross; a day with two of one mark; and on 23-25 December a panzer mark standing where the airborne
+    "3" stands the days around (by Faymonville), the tracks crossing, which the scan itself would settle.
+  - "GD", two brigades (the Fuehrer Grenadier and the Fuehrer Begleit, both from the Grossdeutschland, cole/21/p533):
+    the southern track, by Eschdorf on 24-26 December and by Wiltz to 2 January, is the Fuehrer Grenadier Brigade,
+    which fought at Eschdorf and Heiderscheid on the 24th and 25th (cole/21/p541, cole/21/p543) and withdrew into reserve at
+    Wiltz in the last nights of December (cole/24/p641): `de-fgb`, `tied-by-place`. The northern track, by La Roche
+    from 27 December to 5 January, fits neither: Cole has the Fuehrer Begleit leave the Ourthe on the 26th and fight
+    west of Bastogne from the 28th (cole/24/p613, cole/24/p619), so the sheets may carry it where it was last placed, or mean
+    another unit. Left untied, `which-unit`.
+  - By Chenogne on 30 and 31 December and 2 January, the "3" drawn with no mark read or the infantry's cross is tied
+    `de-3pzgr`, `tied-by-place`: it stands where the 3 January sheet draws the 3d Panzer Grenadier's own mark, and Cole
+    has that division attacking at Chenogne from the 30th (cole/24/p614, cole/24/p619). The Fuehrer Begleit Brigade
+    has a key (`de-fbb`, `army/units.csv`) for the records that name it; no symbol is tied to it yet.
+  - A label with a figure unread that could be one of these ("2?6", "27?", "1??") is left untied, `which-unit`.
   On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and
   each read on a numbered sheet; the ones the finder missed (about a fifth, a box touching its number or a line) were read
   by eye on the sheet. Labels keep the map's qualifiers: "9(-)" (the division less some of its units), "1(+)" (with

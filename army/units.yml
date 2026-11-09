@@ -23,6 +23,10 @@
   plain: the command post of the 9th Armored Division, day by day from the order of battle's table
 60aib:
   plain: an armored infantry battalion of the 9th Armored Division, from its own after action reports, October 1944 to March 1945
+9ad-ccb:
+  plain: a command headquarters of the 9th Armored Division that took battalions under it for an operation; at St. Vith in December 1944
+9ad-ccr:
+  plain: the reserve command headquarters of the 9th Armored Division; at Bastogne in December 1944
 9ad-cca:
   plain: one of the 9th Armored Division's three combat commands, a headquarters that led the battalions given it for an operation
 131ord:
@@ -77,3 +81,39 @@
   plain: a 90 mm anti-aircraft gun battery of the 67th Coast Artillery (AA), followed for its winter at Venafro, January–March 1944
 189fa:
   plain: a 155 mm howitzer battalion of the 45th Infantry Division's artillery, followed for four days of April 1945 in Bavaria
+4id:
+  plain: an infantry division, on the Sauer beside the 9th Armored when the Germans attacked in December 1944; followed by its symbols on the army group's maps
+28id:
+  plain: an infantry division, on the Our when the Germans attacked in December 1944, beside the 9th Armored; followed by its symbols on the army group's maps
+87id:
+  plain: an infantry division, in the Bulge from the end of December 1944; followed by its symbols on the army group's maps
+4ad:
+  plain: an armored division, south of Bastogne in December 1944, when the 9th Armored's Combat Command A was attached to it; followed by its symbols on the army group's maps
+101abn:
+  plain: an airborne division, held at Bastogne in December 1944 with the 9th Armored's reserve command; followed by its symbols on the army group's maps
+17abn:
+  plain: an airborne division, in the Bulge from the end of December 1944; followed by its symbols on the army group's maps
+de-276vgd:
+  plain: a German infantry division, which attacked across the Sauer against the 9th Armored in December 1944; followed by its symbols on the American maps
+  of: de
+de-352vgd:
+  plain: a German infantry division, which attacked across the Our against the 28th Division in December 1944; followed by its symbols on the American maps
+  of: de
+de-26vgd:
+  plain: a German infantry division, in the attack on Bastogne in December 1944; followed by its symbols on the American maps
+  of: de
+de-3fj:
+  plain: a German parachute division, on the Bulge's northern side from December 1944; followed by its symbols on the American maps
+  of: de
+de-3pzgr:
+  plain: a German motorized infantry division, at Elsenborn and then Bastogne in December 1944; followed by its symbols on the American maps
+  of: de
+de-15pzgr:
+  plain: a German motorized infantry division, part of it at Bastogne in December 1944; followed by its symbols on the American maps
+  of: de
+de-fgb:
+  plain: a German brigade of infantry and tanks, which fought the 26th and 80th Divisions south of Bastogne in December 1944; followed by its symbols on the American maps
+  of: de
+de-fbb:
+  plain: a German armoured brigade, which attacked west of Bastogne at the end of December 1944, at Chenogne among other places
+  of: de
