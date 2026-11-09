@@ -23,3 +23,7 @@ checked:
 # no hatching: recorded as drawn (`us`), though its label is the enemy's 30th SS, as with 21 January's open "12". The west
 # corps box at 3770,2714 has a heavy, doubled figure, read II SS (the east one at 4005,2835 is a plain I SS): the less sure
 # of the two. LVIII drawn with no x marks (echelon empty, as drawn).
+# Corrected (9 Nov 2026): the 9th Armored's oval stands by Guignicourt-sur-Vence (about 4.64 E, 49.69 N on the fit), between
+# Charleville-Mézières and Poix-Terron, its command post from 30 December (army/stations.csv); "by Charleville-Mézières"
+# above means that place. Third Army's Provost Marshal has the division moving to Thionville on 12 January (aar3/p556): the
+# sheet lags the move (README.md, "The sheets can lag a move").

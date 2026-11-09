@@ -21,3 +21,7 @@ checked: []
 # box re-read II SS; the arrows kept on the 159, 269, 1 SS and LEHR (from their labels), taken off the Eifel 2 and 15
 # (stubs over the x marks). Overlay crop 3150,2400 looked at after: every dot on its box. The 9th Armored's oval stands by
 # Charleville-Mézières (2557,3424), as on the 13th.
+# Corrected (9 Nov 2026): the 9th Armored's oval stands by Guignicourt-sur-Vence (about 4.64 E, 49.69 N on the fit), between
+# Charleville-Mézières and Poix-Terron, its command post from 30 December (army/stations.csv); "by Charleville-Mézières"
+# above means that place. Third Army's Provost Marshal has the division moving to Thionville on 12 January (aar3/p556): the
+# sheet lags the move (README.md, "The sheets can lag a move").

@@ -82,11 +82,13 @@ other day has its front (or an empty front) and no symbols. Fronts not yet trace
 
 In the order to read them, following five units through the sheets: Company B, 313th Infantry (79th Division);
 HQ Battery, 128th AAA Gun Bn; the 9th Armored Division, and in it the 19th Tank Battalion's Service Company
-(`19tb-serv`; the battalion served under Combat Command A, `9ad-cca`); Battery D, 106th AAA AW Bn (their stations
+(`19tb-serv`; Cole, chapters IX and XXIV (cole/9, cole/24; the pages still to be cited), has companies A, B and C of
+the 19th Tank Battalion with Combat Command A, `9ad-cca`, or attached from it in December 1944, and does not place the
+Service Company); Battery D, 106th AAA AW Bn (their stations
 are in `army/stations.csv`). The battalions and batteries aren't drawn on these sheets (below), so the division or
 its combat command is as near as the maps come to them. Rows 1-3 finish the stretches where the units were close and
 where an engagement is waiting on the symbols. (12 January - 22 February 1945, the first row of this order, is read:
-the 9th Armored's oval stands by Charleville-Mézières on 12 and 13 January and by the Moselle north of Metz from the
+the 9th Armored's oval stands by Guignicourt-sur-Vence on 12 and 13 January (a lag: README.md) and by the Moselle north of Metz from the
 14th to the 22nd.)
 
 | # | Days | Base | Days to read | Front | The units |

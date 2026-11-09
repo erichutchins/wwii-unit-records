@@ -193,11 +193,31 @@ Each map has four files:
     1945): listed, not placed.
   - `upper-rhine-area`: the enemy symbols in a box headed "UPPER RHINE AREA" in the same place (11 February 1945, after
     the pocket's end): listed, not placed.
-  A new marking gets a new word here before it is used in a file. `map`: the sheet.
+  A new marking gets a new word here before it is used in a file.
+  `doubt`: empty where the reading raises no question; otherwise a word for why a page should not take the symbol at
+  face value, though it is recorded as drawn:
+  - `enemy-label`: an open box (so `of` `us`, as drawn) whose label is the enemy's: the "30 SS" by the Rhine on 12 and
+    13 January 1945, the "59" by Jülich on 12 January, the open "12" behind the German lines on 21 January (hatched,
+    and so the enemy's 12th, on the 22nd), the "406 zbV" on 10 February, LEHR on 19 and 20 February and the army group
+    UPPER RHINE on 17-20 February. A page draws it as the enemy's, or marks it, rather than as an American division.
+  - `allied-label`: an open box whose label is a British or Canadian formation's: the XXX Corps south-west of Dinant on
+    4-6 February 1945 (drawn dashed, the British way, on the 7th).
+  A new doubt gets a new word here first, like a `list` word. `map`: the sheet.
   What the sheets draw: on the 61 days read (16-23 December 1944, 12 January - 22 February 1945,
   7-17 March 1945), the US and British symbols are divisions and above, and the enemy's brigades and above.
   No battalion, battery or combat command has a box of its own, so an anti-aircraft, tank or infantry battalion is
   not on these maps: its division (or, for a battery under an army's or corps' command, nothing) is the nearest they come.
+  The sheets can lag a move: a sheet draws a unit where the staff last had it, and a move can reach it a day or more
+  late. Three cases so far:
+  - 1 and 2 August 1944: the line still ends at the bay north of Avranches, with Third Army already through it (the
+    days' YAML).
+  - 12 and 13 January 1945: the 9th Armored Division's oval still stands by Guignicourt-sur-Vence (its command post
+    from 30 December, `army/stations.csv`, etoob-9AD/p503-504), where Third Army's Provost Marshal has the division
+    moving to Thionville on 12 January (aar3/p556); the 14th's sheet draws it by the Moselle.
+  - 22 February 1945: the oval still stands north of Metz on the day the division's command post opened at Sprimont,
+    in Belgium (etoob-9AD/p503-504).
+  A move dated from these maps is dated to the sheet's hour or later, not to the move itself: check it against the
+  unit's own records before using it.
   On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and
   each read on a numbered sheet; the ones the finder missed (about a fifth, a box touching its number or a line) were read
   by eye on the sheet. Labels keep the map's qualifiers: "9(-)" (the division less some of its units), "1(+)" (with
