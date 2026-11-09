@@ -27,3 +27,9 @@ flip: []
 # Reader: --sides, 07-03's GeoJSON backed up first and byte for byte unchanged after, run on 07-03 and today, diffed town by town: 34 of 34 the same side, no town changes. 0.5E and 1E 49.5N enemy on both, right. 0E, 0.5E, 1E 50N (beyond the open end, either way): own (US) on 07-03 and today by the tool's own words; 0.5W 50N own too.
 # Reader: length 146.6 km from the GeoJSON (07-03 149.8 by the same count). Gaps over 20 px (23.5 px/km), a run's end to the nearest other run's end: run 1 end/run 2 start 25 px; run 3 start/run 4 end 23; run 7 end/run 8 start 23; run 5 start/run 10 end 45; run 18 end/run 19 start 39 (19 start to run 17 32); run 6 start (0.2224W 49.2753N, the Orne-mouth end) to run 7 198 px (the Caen turn, which the map draws continuous); run 2 end (1.6993W 49.3146N, the coast end) 334 px from any other run.
 # Reviewed: whole-sheet overlay checked: one ticked front from the west coast below Carteret round St-Lo and the Odon salient to the Orne-mouth bridgehead, red ticks on the map's own (north and east). The 198 px break at the Caen turn is between two traced runs where the map draws the line continuous; it decides no town. Radius 5 as 3-8 July. All 34 towns as 07-03.
+# Reviewed (9 Nov 2026), the symbols, set beside 1 July: read as drawn, and the 10 SS given `list:arrow` (the arrow
+# rising from its box toward the front, as on the 1st; none from the 9 SS). Looked at on a crop: the 9 now by Les
+# Pieux (1137,1510; on the Cap de la Hague on the 1st), the VII Corps flag by Ste-Mère-Eglise (1983,1861; north of
+# Valognes on the 1st), the VIII Corps flag north of Picauville, the 82 and the 4 by Picauville. The 79th's "79" by
+# Barneville (1305,1932), where it was on the 1st (1314,1952). US symbols tied by label and mark; the enemy's left
+# untied on the summer sheets.
