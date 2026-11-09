@@ -100,12 +100,24 @@ Sprimont on the 24th; three of those moves lag the division's own records: READM
 | 5 | 18 October - 15 December 1944 | B09, B11 | 58 | traced | the 9th Armored at Mersch, the 128th AAA at Nancy, the 106th AAA at Rambervillers and in northern Alsace |
 | 6 | 6 September - 17 October 1944 | B09, B10 | 42 | traced, but 10 September not (section 1); to 28 September empty fronts | the 128th AAA at Toul and Nancy, the 106th AAA to Épinal |
 | 7 | 6 April - 8 May 1945 | B12, B13, B14 | 33 | traced | the 9th Armored to Leipzig and Bavaria, the 128th AAA at Grafenwöhr and Plattling |
-| 8 | 12 July - 24 July and 16 August - 5 September 1944 | B01-B08 | 34 | traced | the 128th AAA across France; the 106th AAA in southern France from 15 August, if the sheets reach it |
+| 8 | 12 July - 24 July and 16 August - 5 September 1944 | B01-B08 | 34 | traced | the 128th AAA across France; not the 106th AAA in southern France: no sheet reaches it (below) |
 | 9 | 25 February - 6 March 1945 (23 and 24 February read) | B11 | 10 | traced | the 128th AAA at Metz, the 9th Armored toward the Rhine |
 | 10 | 6-25 June 1944 | B01 | 20 | traced | none of the five ashore yet |
 | 11 | 9 May - 26 July 1945 | B14, B15 | 79 | traced to 7 June (from 1 June empty fronts); 8 June on not (section 1) | the occupation |
 
 (The catalogue has no sheet for 12 November 1944.)
+
+Row 8's reach (checked 9 November 2026, not read): no sheet of B05-B08 takes in the Rhône valley, Grenoble, the Ain or
+the Doubs, on any date. Each base's whole scan was put through the fit of its first day (22 August, 24 August,
+26 August and 2 September 1944), and Lyon, Valence, Avignon, Grenoble, Bourg-en-Bresse, Pont-d'Ain, Besançon, Dole,
+Montbéliard and Dijon tested against it: all fall off every sheet, the nearest being Dijon, about 560 px below B08's
+foot. The scans reach east to about 3.7° E (B05, 22-23 August), 3.0° E (B06, 24-25 August), 4.6° E (B07, 26 August -
+1 September) and 5.4° E (B08, 2-5 September), and their feet lie at 46-47.6° N. The later bases don't either: B09
+(6 September - 3 November) runs east to 9° E, but its neat line stops at about 47.65° N, through Lure, Champagney and
+Giromagny (looked at on 6 September's scan; Montbéliard and the Doubs lie below it, in the margin by the Library's
+stamp), and B11 and B12 stop further north. So the 106th AAA's road up from the Mediterranean is off these sheets:
+it wants other maps (Seventh Army's, or the 6th Army Group's, if they can be found). B10 (10 September only) has no
+fit yet and is not checked.
 
 - One day is one reader agent, reading the symbols as drawn (the skill `trace-situation-map`; the December and
   January days are the worked examples). Give it the day before's units file to match against, and ask for the
