@@ -1,0 +1,32 @@
+# The batteries' reach, drawn as rings (records/README.md, "An engagement's reach"). Hand-edited.
+# Battery D's own position on 26 April is not in its records: it was defending the 189th FA Bn that month, and the
+# 189th was at Bergen from 1015, so the rings are drawn round Bergen, assumed. The 106th AAA AW Bn's history has
+# Batteries C and D firing 37 mm and .50 cal at the jets; Battery C's position isn't known and isn't drawn.
+
+- id: d-37mm
+  label: Battery D's 37 mm guns, their reach (round Bergen, assumed)
+  of: us
+  actor: 106aaa-d
+  at: bergen
+  weapon: 37 mm
+  range_yd: 3500
+  basis: assumed
+  source: FM 4-155 (1940), table A, printed p. 8
+  ref: fm-4-155/p8
+  note: >-
+    The 37 mm gun's maximum horizontal range "as limited by fuze or tracer", 3,500 yards (its vertical the same). The
+    battalion fired "10 rounds 37mm and 159 rounds .50 cal." at the jets (its April history, p. 6). Centred on Bergen,
+    where the 189th was from 1015: the battery's own place that day isn't recorded.
+
+- id: d-50cal
+  label: Battery D's .50 caliber machine guns, their reach (round Bergen, assumed)
+  of: us
+  actor: 106aaa-d
+  at: bergen
+  weapon: .50 cal
+  range_yd: 1850
+  basis: assumed
+  source: FM 4-155 (1940), table A, printed p. 8
+  ref: fm-4-155/p8
+  note: >-
+    The .50 caliber machine gun's "tracer range", 1,850 yards. Centred on Bergen, assumed, as the 37 mm ring.

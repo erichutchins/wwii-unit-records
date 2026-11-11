@@ -163,6 +163,41 @@ the other side's record, read against the followed boats' sightings of it, and i
 colour from these: the followed subjects in their colours, the other side in ink, the press in the lighter ink, and
 name the other side as the records name it.
 
+### An engagement's routes (routes.yml)
+
+Paths, mostly through the air: a bomber's course, a formation's line on a squadron's sketch, a sortie from its airfield.
+A list; each entry is one line on the map, in its side's ink, under the marks. Hand-edited; the build resolves the
+points into `engagement.json` (`routes`).
+
+| Field | Meaning |
+|---|---|
+| `id`, `label` | A short key; the label for the tooltip |
+| `of` | Whose path (us, de, ...); required |
+| `by` | What moved: `air` (chevrons along the line, pointing the way it flew), `ground` or `sea`; required |
+| `actor` | A participant id, optional: the path takes that participant's colour (the bombers' group), so its paths read as its own. Without it the path is in its side's ink |
+| `basis` | `reported` (a course or track the record types: solid), `sketched` (a sketch map's line, traced on its grid: long dashes), `inferred` (a straight line between two places where no record gives the path: dotted) |
+| `points` | A run of points, each `{lat, lon}` or a `positions.csv` id |
+| `from`, `to` | Two `positions.csv` ids: a straight line between them (`inferred`) |
+| `to`, `course`, `drawn_km` | A course as typed (degrees), drawn back from position `to` for `drawn_km`; the length is ours, not the record's, and the tooltip says so |
+| `arrow` | `false` where the direction isn't sure (a sketch whose arrowheads disagree); an arrowhead at the end otherwise |
+| `time`, `source`, `ref`, `note` | When, as typed; the source and its citation, as in `events.yml`; what's assumed and how it was drawn |
+
+### An engagement's reach (reach.yml)
+
+A weapon's range, drawn as a ring round where the battery was: what it could reach, not what it hit. A list; each entry is
+one ring in its side's ink, under the marks, labelled with the weapon and the range. Hand-edited; the build writes
+`rings` into `engagement.json`.
+
+| Field | Meaning |
+|---|---|
+| `id`, `label` | A short key; the label for the tooltip |
+| `of` | Whose weapon (us, de, ...); required |
+| `actor` | A participant id, optional: the ring takes the battery's colour |
+| `at` | A `positions.csv` id, placed: the ring's centre |
+| `weapon`, `range_yd` | The weapon as the record or the manual names it, and its range in yards as the manual prints it (horizontal, to the tracer's burn-out or the fuze), never a range worked out by us |
+| `basis` | `reported` (the battery's place and weapon both in its own records: a solid ring), `inferred` (the weapon from another record, a sister battery's or the battalion's: dashed), `assumed` (the place assumed, near the unit it defended: dashed) |
+| `source`, `ref`, `note` | The manual and its page, cited as in `events.yml`; what's assumed |
+
 ### positions.csv columns
 
 | Column | Meaning |

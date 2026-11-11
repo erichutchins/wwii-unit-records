@@ -1,0 +1,143 @@
+# The aircraft's paths, as far as the records give them (records/README.md, "An engagement's routes"). Hand-edited.
+# `by: air` marks an aircraft's path (chevrons on the page); `actor`, a participant, gives it that participant's colour.
+# reported: a course the record types; sketched: a line on a squadron's sketch map; inferred: a straight line between
+# two places where no record gives the path. The bombers' typed courses are drawn back from each one's last known
+# position for a length that is ours, not the record's.
+
+- id: bigred-course
+  label: Big Red (432nd Bomb Sq), its course at the last known position
+  of: us
+  actor: 17bg
+  by: air
+  basis: reported
+  to: bigred
+  course: 155
+  drawn_km: 6
+  time: "1150"
+  source: Missing Air Crew Report 14162, p. 2
+  ref: rg92-91150796/p02
+  note: >-
+    Course typed 155° beside the last known position, 48° 46′ N, 11° 11′ E, at 1150. Probably the crippled plane's own
+    heading, not the formation's: a waist gunner saw it hit on the jets' first pass, nose up and fall "off to the left
+    under partial control", last seen at about 8,000 feet (MACR 14163, p. 4); the 432nd's sketch has it "last seen out
+    of control to south into clouds" (MACR 14162, p. 5).
+
+- id: no25-course
+  label: No. 25 (37th Bomb Sq), its course at the last known position
+  of: us
+  actor: 17bg
+  by: air
+  basis: reported
+  to: neuburg
+  course: 140
+  drawn_km: 6
+  time: "1152"
+  source: Missing Air Crew Report 14164, p. 2
+  ref: rg92-91150835/p02
+  note: >-
+    Course typed 140 degrees, the last known position only "Neuberg, Germany", at 1152; drawn into the town's centre.
+    The squadron's sketch (p. 6) puts the crash in the woods by Rohrenfels.
+
+- id: spotcash-course
+  label: Spot Cash (34th Bomb Sq), its course where last sighted
+  of: us
+  actor: 17bg
+  by: air
+  basis: reported
+  to: spotcash
+  course: 70
+  drawn_km: 6
+  time: "1145"
+  source: Missing Air Crew Report 14163, p. 2
+  ref: rg92-91150810/p02
+  note: >-
+    Course typed "70 Degrees Mag.", last sighted over Neuburg at 1145. Drawn as if true: the magnetic variation, a
+    degree or two here in 1945, is not applied. A bombardier in its flight saw a B-26 "under control, at approximately
+    5,000 feet with a P47 down with him. He was headed East in the area of Neuburg", not sure it was this one (MACR
+    14163, p. 18).
+
+- id: formation-sketch-a
+  label: The formation's course in, on the 432nd's sketch (the western dashed line)
+  of: us
+  actor: 17bg
+  by: air
+  basis: sketched
+  source: Missing Air Crew Report 14162, p. 5 (sketch map)
+  ref: rg92-91150796/p05
+  points:
+    - {lat: 48.9288, lon: 10.9372}
+    - {lat: 48.8906, lon: 10.9781}
+    - {lat: 48.8576, lon: 11.0137}
+    - {lat: 48.8177, lon: 11.0546}
+    - {lat: 48.7934, lon: 11.0792}
+    - {lat: 48.7621, lon: 11.1120}
+    - {lat: 48.7430, lon: 11.1311}
+  note: >-
+    "Course of formation", dashed, on a hand-drawn sketch with a ruled grid (1:500,000, 10′ squares). Traced on the
+    grid; the sketch's own towns sit up to about 3 km from where they are (it draws Neuburg too far south), so the
+    line is good to a few kilometres. Its arrowheads point south-south-east, towards Neuburg: the way in, on the courses
+    the forms type at the attack (155°, 140°). Read with the statements (formation-sketch-b): ours.
+
+- id: formation-sketch-b
+  label: The formation's turn south of Neuburg and its course home, on the 432nd's sketch (the eastern dashed line)
+  of: us
+  actor: 17bg
+  by: air
+  basis: sketched
+  source: Missing Air Crew Report 14162, p. 5 (sketch map)
+  ref: rg92-91150796/p05
+  points:
+    - {lat: 48.7014, lon: 11.1749}
+    - {lat: 48.6927, lon: 11.1940}
+    - {lat: 48.6909, lon: 11.2322}
+    - {lat: 48.7014, lon: 11.2623}
+    - {lat: 48.7309, lon: 11.2486}
+    - {lat: 48.7413, lon: 11.2377}
+    - {lat: 48.7621, lon: 11.2104}
+    - {lat: 48.7899, lon: 11.1831}
+    - {lat: 48.8246, lon: 11.1503}
+    - {lat: 48.8559, lon: 11.1175}
+    - {lat: 48.8871, lon: 11.0820}
+    - {lat: 48.9184, lon: 11.0464}
+  note: >-
+    The second dashed line, east of the first: a loop south of Neuburg, then north-north-west, its arrowheads pointing
+    that way. Read as the turn after the attack and the way home (ours), from a bombardier's statement: "as we started
+    our turn home immediately after the attack, I saw a B-26 under control, at approximately 5,000 feet with a P47 down
+    with him. He was headed East in the area of Neuburg" (MACR 14163, p. 18, Lt. Edgar W. Seefield, 28 April 1945).
+    The sketch's X (Big Red) sits by this line, not the first: a waist gunner saw it hit "on their first pass" and
+    fall "off to the left under partial control" (MACR 14163, p. 4), so the X is where it went, not where the
+    formation was. Traced on the grid as the first line, good to a few kilometres; drawn from the loop's western end.
+
+- id: jv44-sortie
+  label: JV 44's Me 262s, Munich-Riem to Neuburg
+  of: de
+  by: air
+  basis: inferred
+  from: riem
+  to: neuburg
+  time: 1130-1145
+  source: The Aviation Geek Club, drawing on Robert Forsyth's histories of JV 44
+  ref: >-
+    https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/
+  note: >-
+    A straight line from the airfield to the fight: no record here gives the jets' route. The take-off at 1130 is from
+    secondary accounts; the fight is at 1145-1152 by the MACRs and the 106th's history. The line can't show the
+    approach: the 37th Bomb Squadron's witnesses have the jets attacking from behind, "in low from 5 o'clock rear" and
+    "from 6 o'clock level" (MACR 14164, pp. 4-5), which on the formation's course of about 140-155° is from the north-west.
+
+- id: jet-1725
+  label: The single Me 262 at 1725, north-east to south-west at 1,500 feet
+  of: de
+  by: air
+  basis: inferred
+  to: wellheim
+  course: 225
+  drawn_km: 8
+  time: "1725"
+  source: 45th Infantry Division, G-2 Periodic Report No. 219, p. 2
+  ref: ok45th-5343/p06
+  note: >-
+    The course is the report's ("flying NE to SW over Div sector", 1,500 ft), taken as 225°; where it crossed is not
+    given. Drawn through the 106th AAA AW Bn's command post at Wellheim (from 1515), since the battalion engaged it,
+    so the line's place is ours: hence dotted, as inferred.
+

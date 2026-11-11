@@ -69,6 +69,13 @@
   ref: >-
     https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/
   note: JV 44's claims, including Galland's two
+- question: How many bombers were lost?
+  answer: Four, and six damaged
+  weight: secondary
+  source: 'Wikipedia, "Adolf Galland", citing Forsyth, Scutts and Creek, Battle over Bavaria (1999), p. 170'
+  ref: https://en.wikipedia.org/wiki/Adolf_Galland
+  note: >-
+    One more than the three MACRs here. Not checked against the book.
 - question: Was a jet brought down?
   answer: '"One of the German aircraft was downed"'
   weight: record
@@ -87,6 +94,88 @@
   ref: >-
     https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/
   note: One bailed out. Galland, wounded, crash-landed at Riem after a P-47 hit him
+- question: Was a jet brought down?
+  answer: Galland's, hit by return fire and then by a P-47 of the 50th Fighter Group flown by James Finnegan, who claimed a probable
+  weight: secondary
+  source: 'Wikipedia, "Adolf Galland", citing Kaplan, Fighter Aces of the Luftwaffe (2007), pp. 49-50, Baker (1996), pp. 284-88, and Galland, The First and the Last (1954), pp. 356-57'
+  ref: https://en.wikipedia.org/wiki/Adolf_Galland
+  note: >-
+    He landed under fire at Riem; his knee was wounded. Matched in the 1970s by a student reading the escort's combat
+    reports against Galland's memoir; the two men met in 1979 (Kaplan, p. 49).
+- question: Where did the jets meet the bombers?
+  answer: '"In der Gegend von Neuburg an der Donau" (in the district of Neuburg on the Danube)'
+  weight: recollection
+  source: 'Galland, Die Ersten und die Letzten (1953), the Internet Archive''s copy; read on the scan'
+  ref: galland-1953/n386
+  note: >-
+    Six jets, nearly head-on ("fast auf Gegenkurs"); one Marauder of the last flight burning and exploding, a second in
+    the leading formation heavily hit. Written eight years later. His words: The fight in the air, in the story.
+- question: Was a jet brought down?
+  answer: Captain Robert Clark, 50th Fighter Group, shot one down; its pilot parachuted
+  weight: secondary
+  source: Ethell and Price, The German Jets in Combat (1979), p. 55
+  ref: https://archive.org/details/germanjetsincomb0000ethe
+  note: >-
+    Galland says the jet the Americans counted landed at Riem, its pilot unhurt. Clark's claim should be in the 50th
+    Fighter Group's April history.
+- question: Was a jet brought down?
+  answer: Galland says the second jet the Americans counted was Leutnant Neumann's, which landed at Riem
+  weight: recollection
+  source: 'Galland, Die Ersten und die Letzten (1953), the Internet Archive''s copy; read on the scan'
+  ref: galland-1953/n388
+  note: >-
+    It came into Riem with an American fighter firing behind it, "mit seinem Turbo voller Treffer gesund gelandet"
+    (landed unhurt, his jet full of hits). Ethell has the pilot bailing out: the two disagree.
+- question: Which bomber did Galland hit first?
+  answer: One that caught fire, exploded and fell through the formation, colliding with another B-26; probably No. 25
+  weight: inference
+  source: Kaplan, Fighter Aces of the Luftwaffe in World War II (2007), pp. 49-50; the Internet Archive's lending copy, its text
+  ref: https://archive.org/details/fighteracesofluf0000kapl
+  note: >-
+    Kaplan: on fire, it exploded, "falling through the formation and colliding with another B-26". Of the three MACRs
+    only No. 25's describes fire, and Baugher gives No. 25 to Galland. Which B-26 it struck, no record read says. From
+    the book's text.
+- question: Whose bombers and escort?
+  answer: The 17th Bomb Group's B-26s, with P-47s of the 27th and 50th Fighter Groups
+  weight: secondary
+  source: Baker, Adolf Galland, the Authorised Biography (1996), pp. 284-88; the Internet Archive's lending copy, its text
+  ref: https://archive.org/details/adolfgallandauth0000bake
+  note: >-
+    The MACRs agree on the group; the escort is Baker's. Baker has Galland's second bomber going "earthward in flames",
+    Kaplan only "heavily damaging it". From the book's text.
+- question: Who hit Galland?
+  answer: Lt. James Finnegan, 50th Fighter Group, leading the P-47s' top cover flight, about 3,000 feet above the bombers
+  weight: secondary
+  source: Kaplan, Fighter Aces of the Luftwaffe in World War II (2007), pp. 49-50; the Internet Archive's lending copy, its text
+  ref: https://archive.org/details/fighteracesofluf0000kapl
+  note: >-
+    He dived on a jet banking left: Galland was banking steeply left when hit. One three-second burst from within 100
+    yards; claimed a "probable". From the book's text.
+- question: How many bombers were lost?
+  answer: Three that went down at once, and a fourth so badly damaged it crash-landed
+  weight: secondary
+  source: Ethell and Price, The German Jets in Combat (1979), pp. 54-55; the Internet Archive's lending copy, its text
+  ref: https://archive.org/details/germanjetsincomb0000ethe
+  note: >-
+    The three are the MACRs here. The fourth crash-landed, perhaps on our side of the lines, so perhaps with no MACR:
+    still to identify. Ethell's "French-flown" is wrong for these three (17th Bomb Group, American crews). From the
+    book's text.
+- question: How did the jets attack?
+  answer: Head-on first, then over the formation and round to attack from behind
+  weight: secondary
+  source: Ethell and Price, The German Jets in Combat (1979), p. 54
+  ref: https://archive.org/details/germanjetsincomb0000ethe
+  note: >-
+    Six jets from Riem, one turning back. Agrees with Galland ("fast auf Gegenkurs") and with No. 25's gunners, who saw
+    it attacked "from 5 o'clock rear" and "from 6 o'clock level" (MACR 14164, pp. 4-5).
+- question: Whose jet brought No. 25 down?
+  answer: Galland's
+  weight: secondary
+  source: Joe Baugher, USAAF serial numbers 1942, 42-96328 (an archived copy; the site has gone)
+  ref: https://web.archive.org/web/2023/http://www.joebaugher.com/usaf_serials/1942_5.html
+  note: >-
+    Baugher gives no source for the pilot. Fits Galland's first victim (on fire, exploding: Kaplan) and No. 25's gunner,
+    who saw it attacked from behind (MACR 14164, p. 5).
 - question: Whose flak?
   answer: '"We were also being fired upon by a German Anti-Aircraft Battery"'
   weight: recollection

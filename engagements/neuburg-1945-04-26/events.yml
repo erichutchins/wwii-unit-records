@@ -19,6 +19,25 @@
   ref: ok45th-14862/p10
   pos: bergen
   step: s1
+- at: 1945-04-26
+  placed: The day; the forms give no take-off time
+  of: us
+  actor: 17bg
+  kind: order
+  words: >-
+    "Place of Departure Dijon, France ... Target or Intended Destination Lechfeld, Ger.: Type of Mission Bombardment".
+    Big Red's co-pilot, in November: "We were ordered to perform a bombing mission on the German air-field at Lechfele
+    [sic], Germany ... When approximately five minutes before reaching the target, our formation was attacked by German
+    jet propelled fighter planes".
+  source: Missing Air Crew Report 14162, pp. 2, 9
+  ref: rg92-91150796/p02
+  pos: lechfeld
+  step: mission
+  note: >-
+    The other two forms give the same target (MACR 14163, p. 2; MACR 14164, p. 2). Lechfeld is about 65 km south-south-west
+    of Neuburg, bearing about 200°: the courses typed at Neuburg (140°, 155°) point south-south-east, not at it, and five
+    minutes' flying is nearer 30 km than 65. A turn short of the target (an initial point), or a loose recollection;
+    whether the group bombed Lechfeld is not in the records read.
 - at: 1945-04-26 1130
   placed: Secondary accounts; not yet checked against a German record
   of: de
@@ -29,7 +48,7 @@
   ref: >-
     https://theaviationgeekclub.com/the-b-26-was-usaaf-bomber-luftwaffe-me-262-pilots-would-least-enjoy-to-attack-heres-why/
   pos: riem
-  step: s2
+  step: mission
 - at: 1945-04-26 1145
   of: us
   actor: 34th Bomb Sq
@@ -111,6 +130,16 @@
   ref: ok45th-14862/p10
   pos: bergen
   step: s2
+- at: 1945-04-26 1145
+  of: us
+  actor: 45th Inf Div G-2
+  kind: report
+  words: >-
+    "At 1145B, 6 ME 262's, flying from 10000 to 500 feet, attacked a B26 formation. Two B26's crashed SE of T5026."
+  source: 45th Infantry Division, G-2 Periodic Report No. 219 (252400B to 262400B April 1945), p. 2
+  ref: ok45th-5343/p06
+  pos: t5026
+  step: s2
 - at: 1945-04-26 1515
   of: us
   actor: 106th AAA AW Bn
@@ -127,5 +156,95 @@
   words: A single Me 262 is engaged again by Batteries C and D, also without result.
   source: 106th AAA AW Bn, April 1945 history, p. 6
   ref: ok45th-17560/p06
+  pos: bergen
+  step: s3
+- at: 1945-04-26 1725
+  of: us
+  actor: 45th Inf Div G-2
+  kind: report
+  words: >-
+    "At 1725B, 1 ME 262, at 1500 ft, flying NE to SW over Div sector. All hostiles engaged with no result (106 AAA AW
+    Bn)."
+  source: 45th Infantry Division, G-2 Periodic Report No. 219 (252400B to 262400B April 1945), p. 2
+  ref: ok45th-5343/p06
+  pos: wellheim
+  step: s3
+- at: 1945-04-26 1010
+  of: us
+  actor: 45th Inf Div
+  kind: move
+  words: >-
+    "New CP opened at RENNERTSHOFEN GERMANY" (serial 5).
+  source: 45th Infantry Division, G-2 journal, 26 April 1945, p. 1
+  ref: ok45th-10366/p22
+  pos: rennertshofen
+  step: s1
+- at: 1945-04-26 1325
+  of: us
+  actor: 179th Inf
+  kind: sighting
+  words: >-
+    "3 flak wagons reported vic 5220 and 5219 grid squares. Estimated 100 Ey reported moving SE at vic 515200.
+    Report some vehicular traffic on roads S of NEUBURG" (serial 20, logged in at 1325).
+  source: 45th Infantry Division, G-2 journal, 26 April 1945, p. 2
+  ref: ok45th-10366/p23
+  pos: flak
+  step: s3
+- at: 1945-04-26 1415
+  of: us
+  actor: 179th Inf
+  kind: shelled
+  words: >-
+    "At 1415B, I Bn received 40-50 rds est 75mm SP fire at E section of RIED 537225. At 1430B, 10-15 rds est 105mm
+    fire fell in RIED, coming from a great distance. At 1515B, I Bn reports elements across river receiving SA fire"
+    (serial 26, logged in at 1615).
+  source: 45th Infantry Division, G-2 journal, 26 April 1945, p. 2
+  ref: ok45th-10366/p23
+  pos: ried
+  step: s3
+- at: 1945-04-26 1725
+  of: us
+  actor: 157th Inf
+  kind: shelled
+  words: >-
+    "On this crossing, we have been receiving heavy 20mm fire and a great deal of mortar fire ... We have also been
+    getting arty fire, the greatest concentration of which has fallen near the blown bridge at MARKHEIM (358200)"
+    (serial 45).
+  source: 45th Infantry Division, G-2 journal, 26 April 1945, p. 3
+  ref: ok45th-10366/p24
+  pos: marxheim
+  step: s3
+- at: 1945-04-26 1950
+  of: us
+  actor: 179th Inf
+  kind: fight
+  words: >-
+    "Co I in fire fight just short of the first town in their sector. L Co headed for UNTER and OBERHAUSEN. 1st Bn
+    is engaged in S part of NEUBERG. 2nd Bn left the assembly area 30 minutes ago to cross" (serial 50).
+  source: 45th Infantry Division, G-2 journal, 26 April 1945, p. 4
+  ref: ok45th-10366/p25
+  pos: neuburg
+  step: s3
+- at: 1945-04-26 2115
+  of: us
+  actor: 179th Inf
+  kind: report
+  words: >-
+    A prisoner's word: "Co of the 91st Grenadier Repl Bn, combat team Walpert, strength of 100 men, which is
+    defending town of NEUBURG. according to PW, that is all the troops in there" (serial 49).
+  source: 45th Infantry Division, G-2 journal, 26 April 1945, p. 4
+  ref: ok45th-10366/p25
+  pos: neuburg
+  step: s3
+- at: 1945-04-26 2143
+  of: us
+  actor: 45th Div Arty
+  kind: fire
+  words: >-
+    "189th reports at 1430B Ey vehicle at 552183. 2 killed. at 1455B Ey personnel at 523209. at 1645B Ey vehicles at
+    529176. At 1725B Ey guns at 5110-1445. At 1845B Ey vehicles at 529176. At 2055B fired on Ey convoy at 627177"
+    (serial 46, logged in at 2143).
+  source: 45th Infantry Division, G-2 journal, 26 April 1945, p. 3
+  ref: ok45th-10366/p24
   pos: bergen
   step: s3

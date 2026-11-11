@@ -849,11 +849,48 @@ fm-4-155:
   held: Internet Archive
   url: https://archive.org/details/FM_4_155_S_A_A_A_R_D_1940
   rights: Public domain (U.S. government publication)
-  used_for: engagements/algiers-1943/engagement.md (Battery C's reach, inferred from its sister batteries' 90 mm; table A, printed p. 8); FM 4-110 (1942) para 4 gives the same figures
+  cite: fm-4-155/p<printed page>
+  match: '^fm-4-155/p(\d+)$'
+  link: https://archive.org/details/FM_4_155_S_A_A_A_R_D_1940
+  used_for: >-
+    engagements/algiers-1943/ (Battery C's reach, inferred from its sister batteries' 90 mm; table A, printed p. 8;
+    FM 4-110 (1942) para 4 gives the same figures) and engagements/neuburg-1945-04-26/reach.yml (Battery D's 37 mm and
+    .50 cal)
   note: >-
     Table A gives each weapon's maximum horizontal and vertical range "as limited by fuze or tracer": 3-inch AA gun
-    11,100 / 9,800 yd; 90 mm 12,600 / 11,000 yd (read on the page image, 28 Oct 2026). These are the limits, not an
-    "effective" range: the manuals read give none for the guns.
+    11,100 / 9,800 yd; 90 mm 12,600 / 11,000 yd; 37 mm 3,500 / 3,500 yd; the .50 caliber machine gun's "tracer range"
+    1,850 yd (read on the page image, 28 Oct and 10 Nov 2026; printed p. 8 is the PDF's 12th page). These are the
+    limits, not an "effective" range: the manuals read give none for the guns.
+
+usanjor:
+  title: U.S. Army-Navy Journal of Recognition (monthly, 1943-1945)
+  by: War Department and Navy Department
+  kind: reference
+  of: us
+  held: Internet Archive, bound by four months (USANJOR194501 is January, March and April 1945)
+  url: https://archive.org/details/USANJOR194501
+  rights: >-
+    The Internet Archive marks it Public Domain Mark 1.0; a War and Navy Department publication, whose masthead carries
+    a 1944 copyright line for the commercial printer's assistance. Only the silhouette's outline is traced here
+  short: Journal of Recognition
+  cite: usanjor-<item>/n<leaf>     # the Internet Archive item and leaf, e.g. usanjor-194501/n55 (Me-262, January 1945, p. 15)
+  match: '^usanjor-(\d{6})/n(\d+)$'
+  link: https://archive.org/details/USANJOR{1}/page/n{2}/mode/1up
+  used_for: silhouettes/silhouettes.yml (ME-262, January 1945 issue p. 15, leaf n55 of USANJOR194501)
+
+galland-1953:
+  title: Adolf Galland, Die Ersten und die Letzten. Die Jagdflieger im Zweiten Weltkrieg (Franz Schneekluth, Darmstadt, 1953)
+  by: Adolf Galland
+  kind: recollection
+  of: de
+  held: Internet Archive (a re-set text of the 1953 edition; its page numbers may not be the original's)
+  url: https://archive.org/details/die-ersten-und-die-letzten
+  rights: Not public domain; quoted briefly, as evidence
+  short: Galland, Die Ersten und die Letzten
+  cite: galland-1953/n<leaf>      # the Internet Archive's leaf, e.g. galland-1953/n385 (26 April 1945)
+  match: '^galland-1953/n(\d+)$'
+  link: https://archive.org/details/die-ersten-und-die-letzten/page/n{1}/mode/1up
+  used_for: engagements/neuburg-1945-04-26 (his last mission, 26 April 1945, leaves n385-n388)
 
 fm-30-30:
   title: FM 30-30 / BuAer 3, Recognition Pictorial Manual (April 1943)
@@ -867,7 +904,7 @@ fm-30-30:
   cite: fm-30-30/n<leaf>      # the Internet Archive's leaf, e.g. fm-30-30/n92 (Beaufighter I)
   match: '^fm-30-30/n(\d+)$'
   link: https://archive.org/details/Fm30-30/page/n{1}/mode/1up
-  used_for: silhouettes/silhouettes.yml (F4U CORSAIR plate, leaf n62; Ju 88A-6 n118, Beaufighter I n92, F.W. 200K n132, CANT Z-1007 bis n180, He 111K n120, Me 109F n110, F.W. 190A-3 n112, P-47D n26, P-51 n28, P-39E n22, Hurricane IIc n80, A-29 Hudson n34, Spitfire V n78, Wellington IV n84); reference/glossary.yml
+  used_for: silhouettes/silhouettes.yml (F4U CORSAIR plate, leaf n62; B-26 MARAUDER n46; Ju 88A-6 n118, Beaufighter I n92, F.W. 200K n132, CANT Z-1007 bis n180, He 111K n120, Me 109F n110, F.W. 190A-3 n112, P-47D n26, P-51 n28, P-39E n22, Hurricane IIc n80, A-29 Hudson n34, Spitfire V n78, Wellington IV n84); reference/glossary.yml
 
 tm-20-205:
   title: TM 20-205, Dictionary of United States Army Terms (18 January 1944)

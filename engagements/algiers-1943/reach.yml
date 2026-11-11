@@ -1,0 +1,16 @@
+# Battery C's reach, drawn as a ring (records/README.md, "An engagement's reach"). Hand-edited.
+
+- id: c-90mm
+  label: Battery C's 90 mm guns, their reach
+  of: us
+  actor: battery-c
+  at: battery-c
+  weapon: 90 mm
+  range_yd: 12600
+  basis: inferred
+  source: FM 4-155 (1940), table A, printed p. 8
+  ref: fm-4-155/p8
+  note: >-
+    The 90 mm gun's maximum horizontal range "as limited by fuze or tracer", 12,600 yards. The gun is inferred from
+    Battery C's sister batteries (the battery's own reports don't name it), and the battery is placed "4 mi West of
+    Algiers" as its reports give it, to about a mile (the engagement's text, "Where the battery was").
