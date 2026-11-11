@@ -22,7 +22,8 @@
     at a tanker steering 100° at 11.6 knots (ship contact 2, p13), which is along this route towards Truk. The note
     names no ship, and none was found on the route in the view read; the Japanese side of this attack is still not
     found (japanese.yml), so the route's 261615 (perhaps a routing message of 26 September, as F02's 271500) is the
-    lead to the ship
+    lead to the ship. A candidate since: Hoyo Maru, out of Balikpapan on 23 September for Truk, arriving on the 4th
+    (japanese.yml J10, J11); a routing message on the 26th would fit her
 - id: F02
   map: metapth1732841
   map_date: 1943-10-03

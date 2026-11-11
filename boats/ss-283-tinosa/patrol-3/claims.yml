@@ -1,6 +1,5 @@
 # Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
-# Attack 1 (4 October, a tanker "similar to HUZISAN MARU, 9527 tons", claimed damaged) has no Japanese record yet, so
-# it has no entry (what was searched: japanese.yml's header). The evening's single shots the summary table counts as
+# The evening's single shots the summary table counts as
 # misses (3B is paired below only for its time; 3C, 3E) have no record of their own: Kazahaya's log has no telegram
 # between the 1727 engagement (J05) and the summary of her loss (J06).
 - attack: Attack 2
@@ -51,3 +50,13 @@
     The table puts the sinking against this shot ("10000 plus same as 2"), but nothing was heard or seen of it
     (narrative, rg367-74856215/p08); the remarks give the sinking to "one of these last two torpedoes" (3E or 3F,
     p18). At 1913 K, 1813 I, seventeen minutes before the 1830 I of J06. Probable for the same reason as 3A
+- attack: Attack 1
+  record: J10
+  relation: possible
+  note: >-
+    The 4th Fleet's grid has its tanker Hoyo Maru at sea on the 1st-4th and at Truk from the 5th (J10), and
+    combinedfleet has her arriving from Balikpapan with crude oil at 1000 I on the 4th (J11, secondary): a loaded
+    tanker on her way into Truk on the morning TINOSA fired four at one (0355 I, 08-02N 150-19E, about 90 nm
+    west-north-west, target 100° at 11.6 knots; FRUPAC's route 261615 runs that way, frupac.yml F01). No Japanese
+    record read names an attack on her, and TINOSA saw at least two ships with an escort, so the tanker is a
+    candidate, not identified: possible

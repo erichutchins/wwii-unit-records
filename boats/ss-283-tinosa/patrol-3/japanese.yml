@@ -12,6 +12,9 @@
 # jacar:C16120658600, p03) lists nothing near Truk on the 4th, though it lists Kazahaya on the 6th (J08). A tanker
 # damaged, not sunk, may simply not have been reported that far up. Not yet searched: DesDiv 24's own diary (reported missing in
 # the squadron's November diary, jacar:C08030101400 p01), the Combined Fleet's, and the escorts on the Palau-Truk route.
+# 11 Nov 2026: the 4th Fleet's October part does hold, besides tables, a grid of its own ships' whereabouts day by day
+# (麾下艦船ノ行動, pp05-07). Its one tanker coming in from sea at the start of the month is Hoyo Maru (J10), which
+# combinedfleet has arriving at Truk from Balikpapan with crude oil on the morning of the 4th (J11, secondary).
 # combinedfleet.com's record of Kazahaya (Kazahaya_t, read from the Wayback copy, 5 Nov 2026) is secondary and retells
 # TINOSA's report. Where it differs from this log: it has Umikaze rescue "about 154 men" and no other ship (the log has
 # Umikaze 154 and Hatsukaze 98, J09), all sixteen of TINOSA's torpedoes as Mark 14s, and the sinking at 10-50N 148-30E.
@@ -184,3 +187,37 @@
     time are at the head of the column and not read here. The last phrase is read as written; whether the fifty-odd are
     counted in the two ships' figures is not said. A later telegram of the 7th (p29) asks for a tanker at the Haru-shima
     anchorage to take Kazahaya's crew, 風早乗員（海風一五四初風九六）: Umikaze 154 and Hatsukaze 96, two fewer than here
+- id: J10
+  source: jacar:C08030018500
+  page: p05
+  ship: Hoyo Maru
+  event: status
+  date: 1943-10-04
+  zone: I
+  original: （四）麾下艦船ノ行動 … 宝洋丸 一─四 航海 五─ トラック
+  translation: >-
+    (4) Movements of the fleet's ships … Hoyo Maru: days 1-4, at sea; from day 5, Truk
+  note: >-
+    4th Fleet war diary, October 1943 (第四艦隊戦時日誌, its part 4 on JACAR), the grid of its ships' whereabouts by day,
+    days 1-9 (p05; days 10-31 on p06-p07, where the row stays at Truk to about the 21st). Read at 300 dpi: the line
+    closing her 航海 (at sea) stands between the columns for the 4th and 5th, so she reached Truk on the 4th or
+    the 5th, as the grid marks a day. The 4th Fleet's other oilers that week (杵崎, 石廊, 知床) and the tanker 地洋丸
+    (at Saipan) were not coming in from the west. The grid lists only the 4th Fleet's own ships and says nothing of
+    an attack or damage. Not a record of TINOSA's attack: it places a loaded tanker of the fleet at sea, on her way
+    into Truk, on the morning TINOSA fired at one 90 nm west-north-west of it
+- id: J11
+  source: combinedfleet:Hoyo_t
+  ship: Hoyo Maru
+  event: status
+  date: 1943-10-04
+  time: '1000'
+  zone: I
+  translation: >-
+    23 September 1943: at 0830 departs Balikpapan for Truk making 10.5 knots with another load of crude oil. 4
+    October: at 1000 arrives at Truk escorted by destroyer FUKUE, which joined earlier that day. 5 October:
+    transfers fuel oil to the light cruisers NAKA and ISUZU
+  note: >-
+    Secondary (combinedfleet.com's record of Hoyo Maru, read from the Wayback copy of 2 April 2026, 11 Nov 2026); it
+    does not mention an attack. A finding aid for J10: a loaded tanker (TINOSA saw a loaded one, "similar to HUZISAN
+    MARU, 9527 tons"; Hoyo Maru was a Navy oiler of about 8,700 tons) arriving six hours after the attack, 90 nm at
+    11.6 knots being about eight. Her fuelling the cruisers next day fits TINOSA's one hit and one dud doing little

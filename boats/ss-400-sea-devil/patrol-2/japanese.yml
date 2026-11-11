@@ -4,6 +4,11 @@
 # Not yet searched: the convoy of 2 December by name (combinedfleet gives it as MI-29, with Akigawa Maru as a second
 # loss; secondary, a finding aid only), its escorts' diaries, and Junyō's escorts' December diaries. The Sasebo Naval
 # Guard Unit's December diary (jacar:C08030481900) is the air-defence unit's and was not read past its first pages.
+# Searched 11 Nov 2026 for the convoy of 2 December: the 1st Surface Escort Division's diary has no December 1944
+# part on JACAR (C08030141700 is November, C08030141800 January-March 1945); no CD-66 record of December 1944. The
+# requisitioned-ship tables' 秋川丸 (甲 第五回, jacar:C08050106700 pp34-37) is another ship of the name, 5,244 tons,
+# torpedoed on 27 April 1944 bound from Saipan for Yap. Hawaii Maru was army-requisitioned (A傭, J01), so she is not in
+# the Navy's tables.
 - id: J01
   source: jacar:C16120660300
   page: p02
