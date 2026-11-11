@@ -1,0 +1,43 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+bt,BT 1,1944-11-24,1800,Z,28-57N,152-27E,rg367-74843922/p37,"Density layers, No. 1: max depth 440'; isothermal to 140', 8° neg. to 240', 3° neg. to 440' (table times GCT)",yes,,,,,
+bt,BT 2,1944-11-25,2200,Z,29-31N,148-00E,rg367-74843922/p37,"Density layers, No. 2: max depth 300'; isothermal to 280', 1° neg. to 300'",yes,,,,,
+bt,BT 3,1944-11-27,0531,Z,29-35N,141-45E,rg367-74843922/p37,"Density layers, No. 3: max depth 420'; isothermal to 320', 8° neg. to 420' (the same place as aircraft contact 1, 1530 K = 0530 Z)",yes,,,,,
+air,Air 1,1944-11-27,1530,K,29-35N,141-45E,rg367-74843922/p22,"B29 ? 1 or 2, sight-radar, 10 mi; SEA DEVIL surfaced, course 270, 12 kts (the table's submarine position)",yes,,,,,
+ship,Ship 2,1944-11-27,0000,K,29-32N,145-40E,rg367-74843922/p20,U.S. submarine 9300 yds course 090 15 kts; identified as POGY by APR contact on SD and schedule,no,,,,,ship-contact positions; the table does not say whose
+ship,Ship 3,1944-11-29,0845,I,29-26N,135-14E,rg367-74843922/p20,Sampan type patrol boat 20000 yds course 030 8 kts; avoided,no,,,,,ship-contact positions; the table does not say whose
+air,Air 2,1944-11-30,1414,I,29-30N,131-10E,rg367-74843922/p22,"Emily 1, periscope, 10 mi; SEA DEVIL at periscope depth, course 255, 2.2 kts",yes,,,,,
+bt,BT 4,1944-11-30,0930,Z,29-28N,131-59E,rg367-74843922/p37,"Density layers, No. 4: max depth 410'; isothermal to 300', 5° neg. to 410'",yes,,,,,
+ship,Ship 4,1944-12-01,2237,I,30-40N,128-48E,rg367-74843922/p20,U.S. submarine (radar interference); identified as PLAICE by SJ recognition,no,,,,,ship-contact positions; the table does not say whose
+ship,Ship 5,1944-12-01,2351,I,30-51N,128-45E,rg367-74843922/p20,"Convoy 39500 yds course 230 8 kts, SJ radar; developed into Attacks 1, 2, 3",no,,,,,ship-contact positions; the table does not say whose (the same figures as the attack sheets' position)
+attack,Attack 1,1944-12-02,0414,I,30-51N,128-45E,rg367-74843922/p24,"Torpedo attack No. 1: four Mk 18-1 bow tubes (1-4) at a convoy of at least seven ships with four or more escorts, range 1030; all missed",yes,,,,,
+attack,Attack 2,1944-12-02,0424,I,30-51N,128-45E,rg367-74843922/p26,"Torpedo attack No. 2: bow tubes 5-6 at a large tanker, range 620; two timed hits, the target seen listing and sinking rapidly; claims one large tanker of about 10,000 tons sunk",yes,,,,,
+attack,Attack 3,1944-12-02,0429,I,30-51N,128-45E,rg367-74843922/p28,"Torpedo attack No. 3: four Mk 23 stern tubes (7-10), range 1350; one timed hit, very loud, breaking-up noises; claims one large freighter of about 8,000 tons probably sunk",yes,,,,,
+bt,BT 5,1944-12-02,1832,Z,30-55N,128-00E,rg367-74843922/p37,"Density layers, No. 5: max depth 450'; isothermal to 250', 1° neg. to 320', 7° neg. to 450'",yes,,,,,
+ship,Ship 6,1944-12-02,2020,I,31-20N,128-50E,rg367-74843922/p20,U.S. submarine 11400 yds course 070 9 kts; identified as PLAICE by SJ recognition,no,,,,,ship-contact positions; the table does not say whose
+ship,Ship 7,1944-12-05,0643,I,32-58N,126-54E,rg367-74843922/p20,Two trawlers 20000 yds trawling; JP-2; avoided,no,,,,,ship-contact positions; the table does not say whose
+bt,BT 6,1944-12-05,2100,Z,33-02N,127-10E,rg367-74843922/p37,"Density layers, No. 6: max depth 330'; isothermal to 240', 5° neg. to 300', 1° neg. to 330'",yes,,,,,
+ship,Ship 8,1944-12-07,1945,I,32-25N,128-28E,rg367-74843922/p20,U.S. submarine (interference); identified as PLAICE by SJ recognition,no,,,,,ship-contact positions; the table does not say whose
+ship,Ship 9,1944-12-07,2050,I,32-14N,128-37E,rg367-74843922/p20,Sampan or patrol boat 5200 yds course 160 9 kts; avoided,no,,,,,ship-contact positions; the table does not say whose
+ship,Ship 10,1944-12-08,0339,I,31-27N,128-29E,rg367-74843922/p20,U.S. submarine 10650 yds; identified as PLAICE by SJ recognition,no,,,,,ship-contact positions; the table does not say whose
+ship,Ship 11,1944-12-08,0530,I,31-37N,128-00E,rg367-74843922/p20,U.S. submarine 7000 yds; identified as SUNFISH by SJ recognition,no,,,,,ship-contact positions; the table does not say whose
+bt,BT 7,1944-12-08,1012,Z,31-37N,128-01E,rg367-74843922/p37,"Density layers, No. 7: max depth 310'; isothermal to 310'",yes,,,,,
+bt,BT 8,1944-12-08,1528,Z,31-37N,128-14E,rg367-74843922/p37,"Density layers, No. 8: max depth 450'; isothermal to 260', 1° neg. to 390', 2° neg. to 450'",no,,,,,"the table's time (1528 Z = 0028 I on the 9th) is Attack 4's minute, but its position is the 2130 I task-force contact's (Ship 13), 43 nm west of the attack sheet's; the dive it records came after the attack (0035, went deep), so the position is probably carried over from the contact. Left off the track"
+ship,Ship 12,1944-12-08,1846,I,31-40N,127-44E,rg367-74843922/p20,U.S. submarine (interference); identified as REDFISH by SJ recognition,no,,,,,ship-contact positions; the table does not say whose
+ship,Ship 13,1944-12-08,2130,I,31-37N,128-14E,rg367-74843922/p20,"Task force 33000 yds, course 045-120, 19 kts, SJ radar; developed into Attack 4 (narrative p10: one very large pip, two large and four small, probably 1 BB or CV, 2 CLs and 4 DDs)",no,,,,,"ship-contact positions; the table does not say whose (the same figures as BT 8, 1528 Z = 0028 I on the 9th, so probably SEA DEVIL's own)"
+attack,Attack 4,1944-12-09,0028,I,31-43N,129-04E,rg367-74843922/p30,"Torpedo attack No. 4: four Mk 23 stern tubes (7-10) at the task force's largest ship, range 4315, target course 050 at 19 kts; two explosions timed with the run; PLAICE signalled that she saw the hits; claims one large warship, probably BB or CV, damaged. Narrative (p11): fired 0027:45-0028:28, explosions 0031:40 (#8) and 0031:55 (#9), a third at 0033:05 not matching",yes,,,,,
+ship,Ship 14,1944-12-09,0153,I,31-40N,128-56E,rg367-74843922/p20,U.S. submarine (interference); identified as SEA POACHER by SJ recognition,no,,,,,ship-contact positions; the table does not say whose
+ship,Ship 15,1944-12-09,0505,I,31-09N,128-44E,rg367-74843922/p20,U.S. submarine (interference); identified as PIRANHA by SJ recognition,no,,,,,ship-contact positions; the table does not say whose
+ship,Ship 16,1944-12-09,1837,I,30-45N,128-40E,rg367-74843922/p20,U.S. submarine (interference); identified as PLAICE by SJ recognition,no,,,,,ship-contact positions; the table does not say whose
+air,Air 3,1944-12-10,1224,I,29-44N,127-30E,rg367-74843922/p22,"Bomber 1, sight, 8 mi; SEA DEVIL surfaced, course 020, 10 kts",yes,,,,,
+air,Air 4,1944-12-10,1429,I,29-44N,127-30E,rg367-74843922/p22,"Dave 1, sight, 10 mi; surfaced, course 180, 4 kts",yes,,,,,
+bt,BT 9,1944-12-10,0530,Z,29-30N,127-30E,rg367-74843922/p37,"Density layers, No. 9: max depth 260'; isothermal to 180', 3° neg. to 260'",no,,,,,"the same minute as aircraft contact 4 (0530 Z = 1430 I on the 10th; the air table has 1429 I) but 14 nm south of it (29-30N against 29-44N, the same longitude); one of the two latitudes is mistyped and the scan doesn't say which. Left off the track; the air table's agrees with contact 3 two hours earlier"
+air,Air 5,1944-12-11,1224,I,29-32N,128-08E,rg367-74843922/p22,"Emily 1, sight, 8 mi; surfaced, course 230, 5 kts",yes,,,,,
+ship,Ship 17,1944-12-12,2026,I,28-45N,129-15E,rg367-74843922/p21,Patrol boat 14300 yds course 150 4.8 kts; a probable radar patrol boat; avoided,no,,,,,ship-contact positions; the table does not say whose
+air,Air 6,1944-12-21,0813,I,26-30N,127-37E,rg367-74843922/p22,"? 1, sight, 4 mi; periscope depth, course 140, 2 kts",yes,,,,,
+ship,Ship 18,1944-12-21,1227,I,26-28N,127-40E,rg367-74843922/p21,Sampan 5000 yds course 010 5 kts; periscope,no,,,,,ship-contact positions; the table does not say whose
+air,Air 7,1944-12-21,1358,I,26-27N,127-40E,rg367-74843922/p22,"? 8, sight, 3 mi, training; periscope depth, course 150, 2 kts",yes,,,,,
+ship,Ship 19,1944-12-21,1414,I,26-27N,127-40E,rg367-74843922/p21,Sampan 12000 yds course 010 5 kts; JP,no,,,,,ship-contact positions; the table does not say whose
+air,Air 8,1944-12-28,1508,I,27-02N,128-54E,rg367-74843922/p23,"? 2, sight, 12 mi; periscope depth, course 110, 2 kts",yes,,,,,
+air,Air 9,1944-12-28,1542,I,27-02N,128-55E,rg367-74843922/p23,"? 1, sight, 5 mi; periscope depth, course 110, 2 kts",yes,,,,,
+ship,Ship 20,1944-12-28,1930,I,26-55N,129-09E,rg367-74843922/p21,U.S. submarine (interference); identified as KETE by recognition,no,,,,,ship-contact positions; the table does not say whose
+air,Air 10,1944-12-29,1309,I,28-25N,131-13E,rg367-74843922/p23,"? 1, sight, 8 mi; surfaced, course 030, 14 kts",yes,,,,,

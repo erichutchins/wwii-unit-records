@@ -551,6 +551,26 @@
   ]
  },
  {
+  "key": "ss-400-sea-devil",
+  "alias": "sea devil",
+  "name": "SEA DEVIL",
+  "hull": "SS-400",
+  "class": "Balao",
+  "silhouette": "balao",
+  "kind": "submarine",
+  "plain": "a fleet submarine of the Balao class, on her second war patrol, in the East China Sea, who attacked the carrier Junyō the same night as REDFISH",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-400-sea-devil/tracks.geojson",
+  "periods": [
+   {
+    "n": 2,
+    "name": "Second War Patrol",
+    "dates": "24 Nov 1944 – 29 Dec 1944"
+   }
+  ]
+ },
+ {
   "key": "ss-403-atule",
   "alias": "atule",
   "name": "ATULE",

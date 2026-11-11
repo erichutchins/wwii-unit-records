@@ -1,0 +1,101 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# interval in seconds since the torpedo before ("Ten Seconds" or "10 sec." -> 10, "8 sec." -> 8), the first
+# torpedo's left blank where the sheet types the interval once for the salvo. Gyro 182°30' kept as 182-30.
+# power typed "Single Power Torpedoes" (Single Power). The sheets type zone I for every attack.
+
+- attack: Attack 1
+  type_attack: >-
+    Contacted first by SJ radar. Tracked and dived ahead of convoy for normal night periscope submerged approach.
+    Used T.D.C. and spread by "continuous bearing method" with periscope.
+  description: >-
+    At least a seven ship convoy with four or more unknown-type escorts. Contact made by SJ radar at range of
+    39,500 yards. Visibility from poor to very good (dependent on obscurity of moon).
+  sunk: None.
+  damaged: None.
+  determined_by: ''
+  target_line: 'Target Draft: unknown Course: 230°T Speed: 8 knots Range: 1030 yds.'
+  own_ship: 'Speed: 4 knots Course: 320°T Depth: 60 feet Angle: 2° down'
+  spread: Continuous Bearing
+  sea: Force 6
+  overhaul: U.S.S. HOWARD W. GILMORE
+  page: rg367-74843922/p24
+  table_page: rg367-74843922/p25
+  note: The "Damage Determined by" line is blank. Firing interval typed once, "Ten Seconds"
+
+- attack: Attack 2
+  type_attack: >-
+    Contacted first by SJ radar. Tracked and dived ahead of convoy for normal night periscope submerged approach.
+    Used T.D.C. and spread by "continuous bearing method" with periscope.
+  description: >-
+    At least a seven ship convoy with four or more unknown-type escorts. Contact made by SJ radar at range of
+    39,500 yards. Visibility from poor to very good. (dependent on obscurity of moon).
+  sunk: One large tanker, estimated 10,000 tons.
+  damaged: None.
+  determined_by: >-
+    Two timed hits. Observed torpedo hits through periscope and saw water engulfing deck of target, listing and
+    sinking rapidly.
+  target_line: 'Target Draft: Unknown Course: 230°T Speed: 8 knots Range: 620 yds.'
+  own_ship: 'Speed: 4 knots Course: 328°T Depth: 60 feet Angle: 2° down'
+  spread: Continuous Bearing
+  sea: Force 6
+  overhaul: U.S.S. HOWARD W. GILMORE
+  page: rg367-74843922/p26
+  table_page: rg367-74843922/p27
+  note: Firing interval typed per torpedo, 0 and "8 sec."; actuation actual "Contact" for both
+
+- attack: Attack 3
+  type_attack: >-
+    Contacted first by SJ radar. Tracked and dived ahead of convoy for normal night periscope submerged approach.
+    Used T.D.C. and spread by "continuous bearing method" with periscope.
+  description: >-
+    At least a seven ship convoy with four or more unknown type escorts. Contact made by SJ radar at range of
+    39,500 yards. Visibility from poor to very good. (dependent on obscurity of moon).
+  sunk: None.
+  damaged: One large freighter, estimated 8,000 tons (typed under "Ships Probably Sunk").
+  determined_by: >-
+    One timed hit which was very loud. Heard through the hull what sounded like debris falling overhead and on
+    deck. Sound heard breaking up noises on target bearing.
+  target_line: 'Target Draft: Unknown Course: 230°T Speed: 8 knots Range: 1350 yds.'
+  own_ship: 'Speed: 5 knots Course: 053°T Depth: 60 feet Angle: 2° down'
+  spread: Continuous Bearing
+  sea: Force 6
+  overhaul: U.S.S. HOWARD W. GILMORE
+  page: rg367-74843922/p28
+  table_page: rg367-74843922/p29
+  note: >-
+    Stern tubes 7-10, Mk 23s. The typed tracks (97P-104P) are about 50° from what own course 053 and the typed
+    gyros (202-210) give against target course 230 (check_attacks.py: 147-155P); own course is typed clearly as
+    053°T, five minutes after Attack 2's 328°T, so one of the three figures is not what was used. Kept as typed.
+    The hit is tube 10's
+
+- attack: Attack 4
+  type_attack: >-
+    Night radar submerged approach. Dropped to periscope depth to let escorts by and tracked target by sound
+    bearings from JP-2 and JK equipment. Fired by T.D.C. and spread by offset handle with radar bearings and ranges.
+  description: >-
+    Contact was made by radar at range of 33,000 yards. The radar screen showed one very large pip, two large pips
+    and four small pips at 28,000 yards. The night was overcast with poor visibility resulting in the task force
+    never being sighted.
+  sunk: None.
+  damaged: One large warship. Probably BB or CV.
+  determined_by: >-
+    Two explosions timed exactly with the generated torpedo run to be torpedo hits in the target. A third
+    explosion was heard that did not check with torpedo run to this target. Received a message from U.S.S. PLAICE
+    saying they saw our hits.
+  target_line: 'Target Draft: 28 feet Course: 050°T Speed: 19 knots Range: 4315 yds.'
+  own_ship: 'Speed: 4 knots Course: 161°T Depth: 42 feet Angle: 3° down'
+  spread: Offset
+  sea: Force 3
+  overhaul: U.S.S. HOWARD W. GILMORE
+  page: rg367-74843922/p30
+  table_page: rg367-74843922/p31
+  note: >-
+    Tube 10 typed "Miss (?)". The narrative (p10-p11) times the attack to the second: 0005 dived to radar depth;
+    0027 commenced firing four Mk 23s from the stern tubes, range 4300 yards, 115° starboard track, depth set 6
+    feet, gyros 180°, "Although the torpedo runs were around 5000 yards, this was our only shot"; fired #7 0027:45,
+    #8 0028:00, #9 0028:18, #10 0028:28; explosions 0031:40 ("checked exactly with #8 torpedo") and 0031:55 (#9);
+    0033:05 one explosion, unknown; 0035 pinging and screws close aboard, went deep; 0050 screws faded out. The
+    sheet's intervals (10 sec.) round the narrative's 15, 18 and 10 seconds

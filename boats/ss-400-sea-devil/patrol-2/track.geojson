@@ -1,0 +1,1069 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 2,
+    "start": "1944-11-24T18:00Z",
+    "end": "1944-12-29T04:09Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      152.45,
+      28.95
+     ],
+     [
+      148.0,
+      29.5167
+     ],
+     [
+      141.75,
+      29.5833
+     ],
+     [
+      141.75,
+      29.5833
+     ],
+     [
+      131.1667,
+      29.5
+     ],
+     [
+      131.9833,
+      29.4667
+     ],
+     [
+      128.75,
+      30.85
+     ],
+     [
+      128.75,
+      30.85
+     ],
+     [
+      128.75,
+      30.85
+     ],
+     [
+      128.0,
+      30.9167
+     ],
+     [
+      127.1667,
+      33.0333
+     ],
+     [
+      128.0167,
+      31.6167
+     ],
+     [
+      129.0667,
+      31.7167
+     ],
+     [
+      127.5,
+      29.7333
+     ],
+     [
+      127.5,
+      29.7333
+     ],
+     [
+      128.1333,
+      29.5333
+     ],
+     [
+      127.6167,
+      26.5
+     ],
+     [
+      127.6667,
+      26.45
+     ],
+     [
+      128.9,
+      27.0333
+     ],
+     [
+      128.9167,
+      27.0333
+     ],
+     [
+      131.2167,
+      28.4167
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 1",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-11-24T18:00Z",
+    "lat_raw": "28-57N",
+    "lon_raw": "152-27E",
+    "local": "1944-11-24 1800(Z)",
+    "page": "rg367-74843922/p37",
+    "note": "Density layers, No. 1: max depth 440'; isothermal to 140', 8\u00b0 neg. to 240', 3\u00b0 neg. to 440' (table times GCT)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.45,
+     28.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 2",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-11-25T22:00Z",
+    "lat_raw": "29-31N",
+    "lon_raw": "148-00E",
+    "local": "1944-11-25 2200(Z)",
+    "page": "rg367-74843922/p37",
+    "note": "Density layers, No. 2: max depth 300'; isothermal to 280', 1\u00b0 neg. to 300'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.0,
+     29.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 2",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-11-26T14:00Z",
+    "lat_raw": "29-32N",
+    "lon_raw": "145-40E",
+    "local": "1944-11-27 0000(K)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine 9300 yds course 090 15 kts; identified as POGY by APR contact on SD and schedule",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.6667,
+     29.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 1",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-11-27T05:30Z",
+    "lat_raw": "29-35N",
+    "lon_raw": "141-45E",
+    "local": "1944-11-27 1530(K)",
+    "page": "rg367-74843922/p22",
+    "note": "B29 ? 1 or 2, sight-radar, 10 mi; SEA DEVIL surfaced, course 270, 12 kts (the table's submarine position)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.75,
+     29.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 3",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-11-27T05:31Z",
+    "lat_raw": "29-35N",
+    "lon_raw": "141-45E",
+    "local": "1944-11-27 0531(Z)",
+    "page": "rg367-74843922/p37",
+    "note": "Density layers, No. 3: max depth 420'; isothermal to 320', 8\u00b0 neg. to 420' (the same place as aircraft contact 1, 1530 K = 0530 Z)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.75,
+     29.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 3",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-11-28T23:45Z",
+    "lat_raw": "29-26N",
+    "lon_raw": "135-14E",
+    "local": "1944-11-29 0845(I)",
+    "page": "rg367-74843922/p20",
+    "note": "Sampan type patrol boat 20000 yds course 030 8 kts; avoided",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.2333,
+     29.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 2",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-11-30T05:14Z",
+    "lat_raw": "29-30N",
+    "lon_raw": "131-10E",
+    "local": "1944-11-30 1414(I)",
+    "page": "rg367-74843922/p22",
+    "note": "Emily 1, periscope, 10 mi; SEA DEVIL at periscope depth, course 255, 2.2 kts",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.1667,
+     29.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 4",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-11-30T09:30Z",
+    "lat_raw": "29-28N",
+    "lon_raw": "131-59E",
+    "local": "1944-11-30 0930(Z)",
+    "page": "rg367-74843922/p37",
+    "note": "Density layers, No. 4: max depth 410'; isothermal to 300', 5\u00b0 neg. to 410'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.9833,
+     29.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 4",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-01T13:37Z",
+    "lat_raw": "30-40N",
+    "lon_raw": "128-48E",
+    "local": "1944-12-01 2237(I)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine (radar interference); identified as PLAICE by SJ recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.8,
+     30.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 5",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-01T14:51Z",
+    "lat_raw": "30-51N",
+    "lon_raw": "128-45E",
+    "local": "1944-12-01 2351(I)",
+    "page": "rg367-74843922/p20",
+    "note": "Convoy 39500 yds course 230 8 kts, SJ radar; developed into Attacks 1, 2, 3",
+    "fix": "ship-contact positions; the table does not say whose (the same figures as the attack sheets' position)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.75,
+     30.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-01T19:14Z",
+    "lat_raw": "30-51N",
+    "lon_raw": "128-45E",
+    "local": "1944-12-02 0414(I)",
+    "page": "rg367-74843922/p24",
+    "note": "Torpedo attack No. 1: four Mk 18-1 bow tubes (1-4) at a convoy of at least seven ships with four or more escorts, range 1030; all missed",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.75,
+     30.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 2",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-01T19:24Z",
+    "lat_raw": "30-51N",
+    "lon_raw": "128-45E",
+    "local": "1944-12-02 0424(I)",
+    "page": "rg367-74843922/p26",
+    "note": "Torpedo attack No. 2: bow tubes 5-6 at a large tanker, range 620; two timed hits, the target seen listing and sinking rapidly; claims one large tanker of about 10,000 tons sunk",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.75,
+     30.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 3",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-01T19:29Z",
+    "lat_raw": "30-51N",
+    "lon_raw": "128-45E",
+    "local": "1944-12-02 0429(I)",
+    "page": "rg367-74843922/p28",
+    "note": "Torpedo attack No. 3: four Mk 23 stern tubes (7-10), range 1350; one timed hit, very loud, breaking-up noises; claims one large freighter of about 8,000 tons probably sunk",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.75,
+     30.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 6",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-02T11:20Z",
+    "lat_raw": "31-20N",
+    "lon_raw": "128-50E",
+    "local": "1944-12-02 2020(I)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine 11400 yds course 070 9 kts; identified as PLAICE by SJ recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.8333,
+     31.3333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 5",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-02T18:32Z",
+    "lat_raw": "30-55N",
+    "lon_raw": "128-00E",
+    "local": "1944-12-02 1832(Z)",
+    "page": "rg367-74843922/p37",
+    "note": "Density layers, No. 5: max depth 450'; isothermal to 250', 1\u00b0 neg. to 320', 7\u00b0 neg. to 450'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.0,
+     30.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 7",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-04T21:43Z",
+    "lat_raw": "32-58N",
+    "lon_raw": "126-54E",
+    "local": "1944-12-05 0643(I)",
+    "page": "rg367-74843922/p20",
+    "note": "Two trawlers 20000 yds trawling; JP-2; avoided",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9,
+     32.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 6",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-05T21:00Z",
+    "lat_raw": "33-02N",
+    "lon_raw": "127-10E",
+    "local": "1944-12-05 2100(Z)",
+    "page": "rg367-74843922/p37",
+    "note": "Density layers, No. 6: max depth 330'; isothermal to 240', 5\u00b0 neg. to 300', 1\u00b0 neg. to 330'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.1667,
+     33.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 8",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-07T10:45Z",
+    "lat_raw": "32-25N",
+    "lon_raw": "128-28E",
+    "local": "1944-12-07 1945(I)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine (interference); identified as PLAICE by SJ recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.4667,
+     32.4167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 9",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-07T11:50Z",
+    "lat_raw": "32-14N",
+    "lon_raw": "128-37E",
+    "local": "1944-12-07 2050(I)",
+    "page": "rg367-74843922/p20",
+    "note": "Sampan or patrol boat 5200 yds course 160 9 kts; avoided",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.6167,
+     32.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 10",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-07T18:39Z",
+    "lat_raw": "31-27N",
+    "lon_raw": "128-29E",
+    "local": "1944-12-08 0339(I)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine 10650 yds; identified as PLAICE by SJ recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.4833,
+     31.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 11",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-07T20:30Z",
+    "lat_raw": "31-37N",
+    "lon_raw": "128-00E",
+    "local": "1944-12-08 0530(I)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine 7000 yds; identified as SUNFISH by SJ recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.0,
+     31.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 12",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-08T09:46Z",
+    "lat_raw": "31-40N",
+    "lon_raw": "127-44E",
+    "local": "1944-12-08 1846(I)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine (interference); identified as REDFISH by SJ recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.7333,
+     31.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 7",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-08T10:12Z",
+    "lat_raw": "31-37N",
+    "lon_raw": "128-01E",
+    "local": "1944-12-08 1012(Z)",
+    "page": "rg367-74843922/p37",
+    "note": "Density layers, No. 7: max depth 310'; isothermal to 310'",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.0167,
+     31.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 13",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-08T12:30Z",
+    "lat_raw": "31-37N",
+    "lon_raw": "128-14E",
+    "local": "1944-12-08 2130(I)",
+    "page": "rg367-74843922/p20",
+    "note": "Task force 33000 yds, course 045-120, 19 kts, SJ radar; developed into Attack 4 (narrative p10: one very large pip, two large and four small, probably 1 BB or CV, 2 CLs and 4 DDs)",
+    "fix": "ship-contact positions; the table does not say whose (the same figures as BT 8, 1528 Z = 0028 I on the 9th, so probably SEA DEVIL's own)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.2333,
+     31.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 8",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-08T15:28Z",
+    "lat_raw": "31-37N",
+    "lon_raw": "128-14E",
+    "local": "1944-12-08 1528(Z)",
+    "page": "rg367-74843922/p37",
+    "note": "Density layers, No. 8: max depth 450'; isothermal to 260', 1\u00b0 neg. to 390', 2\u00b0 neg. to 450'",
+    "fix": "the table's time (1528 Z = 0028 I on the 9th) is Attack 4's minute, but its position is the 2130 I task-force contact's (Ship 13), 43 nm west of the attack sheet's; the dive it records came after the attack (0035, went deep), so the position is probably carried over from the contact. Left off the track"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.2333,
+     31.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 4",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-08T15:28Z",
+    "lat_raw": "31-43N",
+    "lon_raw": "129-04E",
+    "local": "1944-12-09 0028(I)",
+    "page": "rg367-74843922/p30",
+    "note": "Torpedo attack No. 4: four Mk 23 stern tubes (7-10) at the task force's largest ship, range 4315, target course 050 at 19 kts; two explosions timed with the run; PLAICE signalled that she saw the hits; claims one large warship, probably BB or CV, damaged. Narrative (p11): fired 0027:45-0028:28, explosions 0031:40 (#8) and 0031:55 (#9), a third at 0033:05 not matching",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.0667,
+     31.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 14",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-08T16:53Z",
+    "lat_raw": "31-40N",
+    "lon_raw": "128-56E",
+    "local": "1944-12-09 0153(I)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine (interference); identified as SEA POACHER by SJ recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.9333,
+     31.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 15",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-08T20:05Z",
+    "lat_raw": "31-09N",
+    "lon_raw": "128-44E",
+    "local": "1944-12-09 0505(I)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine (interference); identified as PIRANHA by SJ recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.7333,
+     31.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 16",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-09T09:37Z",
+    "lat_raw": "30-45N",
+    "lon_raw": "128-40E",
+    "local": "1944-12-09 1837(I)",
+    "page": "rg367-74843922/p20",
+    "note": "U.S. submarine (interference); identified as PLAICE by SJ recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.6667,
+     30.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 3",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-10T03:24Z",
+    "lat_raw": "29-44N",
+    "lon_raw": "127-30E",
+    "local": "1944-12-10 1224(I)",
+    "page": "rg367-74843922/p22",
+    "note": "Bomber 1, sight, 8 mi; SEA DEVIL surfaced, course 020, 10 kts",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.5,
+     29.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 4",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-10T05:29Z",
+    "lat_raw": "29-44N",
+    "lon_raw": "127-30E",
+    "local": "1944-12-10 1429(I)",
+    "page": "rg367-74843922/p22",
+    "note": "Dave 1, sight, 10 mi; surfaced, course 180, 4 kts",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.5,
+     29.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "bt",
+    "ref": "BT 9",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-10T05:30Z",
+    "lat_raw": "29-30N",
+    "lon_raw": "127-30E",
+    "local": "1944-12-10 0530(Z)",
+    "page": "rg367-74843922/p37",
+    "note": "Density layers, No. 9: max depth 260'; isothermal to 180', 3\u00b0 neg. to 260'",
+    "fix": "the same minute as aircraft contact 4 (0530 Z = 1430 I on the 10th; the air table has 1429 I) but 14 nm south of it (29-30N against 29-44N, the same longitude); one of the two latitudes is mistyped and the scan doesn't say which. Left off the track; the air table's agrees with contact 3 two hours earlier"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.5,
+     29.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 5",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-11T03:24Z",
+    "lat_raw": "29-32N",
+    "lon_raw": "128-08E",
+    "local": "1944-12-11 1224(I)",
+    "page": "rg367-74843922/p22",
+    "note": "Emily 1, sight, 8 mi; surfaced, course 230, 5 kts",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.1333,
+     29.5333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 17",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-12T11:26Z",
+    "lat_raw": "28-45N",
+    "lon_raw": "129-15E",
+    "local": "1944-12-12 2026(I)",
+    "page": "rg367-74843922/p21",
+    "note": "Patrol boat 14300 yds course 150 4.8 kts; a probable radar patrol boat; avoided",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.25,
+     28.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 6",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-20T23:13Z",
+    "lat_raw": "26-30N",
+    "lon_raw": "127-37E",
+    "local": "1944-12-21 0813(I)",
+    "page": "rg367-74843922/p22",
+    "note": "? 1, sight, 4 mi; periscope depth, course 140, 2 kts",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6167,
+     26.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 18",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-21T03:27Z",
+    "lat_raw": "26-28N",
+    "lon_raw": "127-40E",
+    "local": "1944-12-21 1227(I)",
+    "page": "rg367-74843922/p21",
+    "note": "Sampan 5000 yds course 010 5 kts; periscope",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6667,
+     26.4667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 7",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-21T04:58Z",
+    "lat_raw": "26-27N",
+    "lon_raw": "127-40E",
+    "local": "1944-12-21 1358(I)",
+    "page": "rg367-74843922/p22",
+    "note": "? 8, sight, 3 mi, training; periscope depth, course 150, 2 kts",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6667,
+     26.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 19",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-21T05:14Z",
+    "lat_raw": "26-27N",
+    "lon_raw": "127-40E",
+    "local": "1944-12-21 1414(I)",
+    "page": "rg367-74843922/p21",
+    "note": "Sampan 12000 yds course 010 5 kts; JP",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6667,
+     26.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 8",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-28T06:08Z",
+    "lat_raw": "27-02N",
+    "lon_raw": "128-54E",
+    "local": "1944-12-28 1508(I)",
+    "page": "rg367-74843922/p23",
+    "note": "? 2, sight, 12 mi; periscope depth, course 110, 2 kts",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.9,
+     27.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 9",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-28T06:42Z",
+    "lat_raw": "27-02N",
+    "lon_raw": "128-55E",
+    "local": "1944-12-28 1542(I)",
+    "page": "rg367-74843922/p23",
+    "note": "? 1, sight, 5 mi; periscope depth, course 110, 2 kts",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.9167,
+     27.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "ship",
+    "ref": "Ship 20",
+    "patrol": 2,
+    "on_track": false,
+    "utc": "1944-12-28T10:30Z",
+    "lat_raw": "26-55N",
+    "lon_raw": "129-09E",
+    "local": "1944-12-28 1930(I)",
+    "page": "rg367-74843922/p21",
+    "note": "U.S. submarine (interference); identified as KETE by recognition",
+    "fix": "ship-contact positions; the table does not say whose"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.15,
+     26.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "air",
+    "ref": "Air 10",
+    "patrol": 2,
+    "on_track": true,
+    "utc": "1944-12-29T04:09Z",
+    "lat_raw": "28-25N",
+    "lon_raw": "131-13E",
+    "local": "1944-12-29 1309(I)",
+    "page": "rg367-74843922/p23",
+    "note": "? 1, sight, 8 mi; surfaced, course 030, 14 kts",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.2167,
+     28.4167
+    ]
+   }
+  }
+ ]
+}

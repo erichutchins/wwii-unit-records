@@ -111,6 +111,15 @@ boats:
       3: { status: available, nara: [74847730], note: "Feb - Mar 1945" }
       4: { status: mapped, nara: [74847780, 101729538], first_fix: 1945-04-26, last_fix: 1945-06-21, files: [positions, attacks], note: "26 Apr - 21 Jun 1945: Pearl, Saipan (with JACK and BANG), the Yellow Sea, Midway. Transcribed in full (p03-p43): the narrative, the ship contacts (p28), torpedo attacks 1-5 (14 torpedoes) and gun attacks 1-4 (positions from their sheets, p40-p43). 101729538 is the war diaries' copy" }
       5: { status: available, nara: [74847838, 77493414], note: "Aug - Sep 1945 (77493414 is the war diaries' copy)" }
+  SS-400:   # SEA DEVIL, Balao class
+    folder: boats/ss-400-sea-devil
+    note: "attacked the carrier Junyō on 9 December 1944, the same night as REDFISH (L100 in the family repository)"
+    patrols:
+      1: { status: available, nara: [74843872, 78676077], note: "Sep - Oct 1944 (78676077 is the war diaries' copy)" }
+      2: { status: mapped, nara: [74843922], first_fix: 1944-11-24, last_fix: 1944-12-29, files: [positions, attacks], note: "Nov 1944 - Jan 1945: Majuro to the East China Sea, Midway and Pearl. Transcribed: the ship contacts (p20-p21), the aircraft contacts (p22-p23, own positions), torpedo attacks 1-4 (p24-p31) and the density layers (p37); the narrative's attack 4 times (p10-p11). The narrative's other days (p03-p17) not transcribed" }
+      3: { status: available, nara: [74843970, 139992802], note: "Feb - Apr 1945 (139992802 is the war diaries' copy)" }
+      4: { status: available, nara: [74844026, 101767855], note: "May - Sep 1945 (74844026 may hold the fifth patrol too; 101767855 is the war diaries' copy of the fourth)" }
+      5: { status: available, nara: [77510427], note: "the war diaries' copy of the fifth patrol's report" }
   SS-259:   # JACK, Gato class
     folder: boats/ss-259-jack
     note: "with BANG at Saipan, 8-9 May 1945, outbound on patrol with SEGUNDO: her report has BANG at the rendezvous at 0620(K) on 8 May and parting company at 2030(K) on 9 May (SEGUNDO's: 0530 and 2120)"

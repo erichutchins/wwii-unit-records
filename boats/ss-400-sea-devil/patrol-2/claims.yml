@@ -1,0 +1,27 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Attack 1 (0414 I, 2 December, four torpedoes, all missed) has no entry. Attack 3 (0429 I, one hit, a large
+# freighter claimed probably sunk) has no record of its own: the summary names only Hawaii Maru that night; secondary
+# sources give a second ship of the convoy, Akigawa Maru, which no record read here names.
+- attack: Attack 2
+  record: J01
+  relation: probable
+  note: >-
+    Hawaii Maru torpedoed at 0430 I, six minutes after Attack 2's two timed hits (0424 I), which SEA DEVIL saw
+    through the periscope, the target listing and sinking rapidly; she took her for a tanker of 10,000 tons, and
+    the summary has a 9,500-ton troop transport. Probable rather than hit: Attack 3 (0429 I) also hit, the summary's
+    place is a round bearing and distance some 70 nm off, and it names no convoy
+- attack: Attack 3
+  record: J01
+  relation: possible
+  note: >-
+    One hit at 0429 I, one minute before the summary's time for Hawaii Maru; the summary has only one ship that
+    night, so the second ship SEA DEVIL hit (if any sank) is not in it
+- attack: Attack 4
+  record: J03
+  relation: probable
+  note: >-
+    Junyō torpedoed, two hits. SEA DEVIL's two explosions (0031:40 and 0031:55 I) each checked with a torpedo's run,
+    and PLAICE signalled that she saw the hits; REDFISH's Attack 7 (0156 I) claimed one hit. The summary's two hits
+    fit SEA DEVIL's count and its place (about 50 miles south-west of Nomozaki) fits REDFISH's position better
+    (about 4 nm, against 17 nm); its time (0130 I) falls between the two. Probable, not hit, until a record with
+    Junyō's own times is found (her escorts' or Sasebo's December diaries)

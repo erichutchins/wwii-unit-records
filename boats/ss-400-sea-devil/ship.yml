@@ -1,0 +1,14 @@
+# USS SEA DEVIL (SS-400). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: SEA DEVIL
+hull: SS-400
+class: Balao
+silhouette: balao     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
+kind: submarine
+plain: "a fleet submarine of the Balao class, on her second war patrol, in the East China Sea, who attacked the carrier Junyō the same night as REDFISH"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 2, name: Second War Patrol, dates: 24 Nov 1944 – 29 Dec 1944 }

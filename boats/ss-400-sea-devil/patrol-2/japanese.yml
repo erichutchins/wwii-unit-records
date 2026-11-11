@@ -1,0 +1,58 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# From the Navy's day-by-day summary of escort and anti-submarine events for December 1944 (大東亜戦争経過概要（護衛対潜関係）,
+# jacar:C16120660300), read 11 Nov 2026. J03 is the reading REDFISH's Patrol 2 uses (its J10): one record, counted once.
+# Not yet searched: the convoy of 2 December by name (combinedfleet gives it as MI-29, with Akigawa Maru as a second
+# loss; secondary, a finding aid only), its escorts' diaries, and Junyō's escorts' December diaries. The Sasebo Naval
+# Guard Unit's December diary (jacar:C08030481900) is the air-defence unit's and was not read past its first pages.
+- id: J01
+  source: jacar:C16120660300
+  page: p02
+  ship: Hawaii Maru
+  event: sank
+  date: 1944-12-02
+  time: '0430'
+  zone: I
+  original: 〇四三〇 門司ヨリ高雄ニ向ケ南下中ノはわい丸（A傭客 9,500 部隊3648 車輌50 舟艇60 搭載）ハ奄美大島NW 120′ニ於テ敵潜ノ雷撃ヲ受ク ｜ 沈没
+  translation: >-
+    0430: Hawaii Maru (army-requisitioned passenger ship, type A, 9,500 tons, carrying 3,648 troops, 50 vehicles
+    and 60 landing craft), southbound from Moji for Takao, torpedoed by an enemy submarine 120 miles north-west of
+    Amami-Ōshima | (Result) sunk
+  note: >-
+    The summary's narrative for the 2nd (read at 350 dpi). Six minutes after SEA DEVIL's Attack 2 (0424 I, two
+    timed hits on what she took for a large tanker, seen listing and sinking rapidly) and one minute after Attack 3
+    (0429 I). No position in figures: 120 miles north-west of Amami-Ōshima (about 28-20N 129-30E) puts it near
+    29-45N 128-00E, some 70 nm west-south-west of SEA DEVIL's sheets (30-51N 128-45E); the bearing and distance
+    are round figures. The summary names no convoy and no second ship sunk that night
+- id: J02
+  source: jacar:C16120660300
+  page: p02
+  event: sub_sighted
+  date: 1944-12-02
+  time: '0945'
+  zone: I
+  original: 〇九四五 同船団護衛中ノCD66ハ敵潜探知100m迄近接D.C（21ケ）ヲ加フ ｜ 撃沈確実
+  translation: >-
+    0945: CD-66, escorting the same convoy, detected an enemy submarine, closed to 100 m and dropped 21 depth
+    charges | (Result) sinking certain
+  note: >-
+    Same page. Five hours after the attacks; SEA DEVIL's narrative for the morning of the 2nd (p05-p06) is not
+    transcribed here, so whether she was the submarine charged is not checked. She was not sunk
+- id: J03
+  source: jacar:C16120660300
+  page: p05
+  ship: Junyo
+  event: torpedoed
+  date: 1944-12-09
+  time: '0130'
+  zone: I
+  original: 馬公ヨリ内地ニ向ケ帰投中ノ隼鷹野母崎南西方約50′ニ於テ敵潜ノ雷撃ヲ受ク ｜ 二本命中セルモ13K片舷航行可能 1000頃佐世保ニ入港
+  translation: >-
+    Junyō, returning from Mako to the home islands, was torpedoed by an enemy submarine about 50 miles south-west of
+    Nomozaki | (Result) two hits, but she could steam at 13 knots on one shaft; entered Sasebo about 1000
+  note: >-
+    REDFISH's Patrol 2 J10, the same reading. SEA DEVIL's narrative times two explosions at 0031:40 and 0031:55 I,
+    each matching a torpedo's run (Attack 4), 58 minutes before the summary's 0130; REDFISH's Attack 7 was at 0156
+    I (one hit claimed), 26 minutes after. The summary's two hits match SEA DEVIL's two in number. About 50 miles
+    south-west of Nomozaki (32-35N 129-45E) is near 32-00N 129-05E: about 17 nm north of SEA DEVIL's sheet position
+    (31-43N 129-04E) and about 4 nm from REDFISH's (31-57N 129-01E). The summary's one entry does not separate the
+    attacks, and its time may be when the report was made
