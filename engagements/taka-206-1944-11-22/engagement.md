@@ -60,7 +60,11 @@ Three of the six ships were sunk (Hozan, Amakusa and Sakae Maru); Taiken, Sannin
 (W-15's signal log). BANG claimed four sunk and one damaged; REDFISH two sunk (her Attacks 1 and 3, 0104 and 0141
 K); SHAD's one salvo, fired by mistake at a torpedo boat at 2338 K, missed. The postwar credit gives BANG Sakae and
 Amakusa Maru and REDFISH Hozan Maru, but W-15 logged Hozan Maru torpedoed at 2339 I (0039 K), 25 minutes before
-REDFISH first fired and seven minutes after BANG's Attack 1.
+REDFISH first fired and seven minutes after BANG's Attack 1. Amakusa Maru's own movement sheet has her sunk on the
+22nd (Japanese time) at 24-20N 122-40E, 3½ nm from BANG's Attacks 1–3, the only hits before midnight (probable) (p. 17) [[cite:jacar:C08050106900]].
+Sakae Maru's sheet has her torpedoed and sunk on the 24th at 24-34N 122-3?E, a day after the last attack drawn here
+and 10–15 nm north-west of the night's hits (p. 32) [[cite:jacar:C08050033500]]; which boat's she was, if either's, is
+open.
 
 ## The convoy
 

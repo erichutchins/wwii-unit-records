@@ -5,20 +5,23 @@
 # report matches them (header of japanese.yml). J01-J02 (Hozan Maru, sunk 2337 I = 0037 K, 27 minutes before
 # REDFISH's first attack) and J11 (the Navy's summary, Hozan Maru, same time) are not paired: the postwar credit of Hozan Maru to REDFISH (janac:4/p76) does not fit the
 # times, which give her to BANG's Attacks 1-3 (ss-385-bang/patrol-4/claims.yml).
+# J12 (Amakusa Maru's own sheet: sunk on the 22nd, before REDFISH's first attack at 0004 I on the 23rd) is not paired
+# either; it goes to BANG's Attacks 1-3 as well.
 - attack: Attack 1
   record: J03
   relation: possible
   note: >-
     REDFISH claimed an engine-aft MARU sunk, hits timed at 0106-30 K (0006 I). Two ships besides Hozan Maru were
-    lost, Amakusa Maru and Sakae Maru (J03), with no time or place in W-15's report, in the Navy's November summary
-    (J11 names only Hozan Maru) or in the movement tables (neither ship has one in series 4 or 5). BANG's claimed hits in Attacks
-    2, 3, 6 and 7 fit as well; JANAC gives both ships to BANG (janac:6/p3), "probable agent"
+    lost, Amakusa Maru and Sakae Maru (J03). Their own sheets, found later, put Amakusa Maru's loss on the 22nd,
+    before this attack (J12), and Sakae Maru's on the 24th, 10-15 nm north-west (J13): neither fits. JANAC gives
+    both ships to BANG (janac:6/p3), "probable agent"
 - attack: Attack 3
   record: J03
   relation: possible
   note: >-
     REDFISH claimed a heavily loaded AK sunk, one hit at 0143 K (0043 I). Seven minutes later BANG's Attack 6
-    claimed a medium AK in the same part of the convoy. Amakusa Maru or Sakae Maru (J03) could be either boat's
+    claimed a medium AK in the same part of the convoy. Amakusa Maru's sheet rules her out (the 22nd, J12); Sakae
+    Maru's (J13) has the 24th and a place 10-15 nm north-west, which fits neither boat's attack
 - attack: Attack 4
   record: J04
   relation: possible
@@ -71,3 +74,10 @@
   note: >-
     The summary's entry is timed 1638 and places the loss about 230 miles north-north-west of Miyako-jima; REDFISH's
     sheets give 28-59N 124-03E. Its claim that Hinoki and Shigure certainly sank the submarine is not borne out
+- attack: Attack 3
+  record: J13
+  relation: possible
+  note: >-
+    Sakae Maru's sheet has her sunk on the 24th at 24-34N 122-3?E (J13). Attack 3's hit (0043 I on the 23rd, at
+    24-27N 122-47E, the target seen to blow up and sink by the stern) and BANG's Attack 6 (0050 I) are the night's
+    claimed sinkings not accounted for by Hozan and Amakusa Maru. Possible only: the date and place fit neither

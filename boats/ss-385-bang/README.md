@@ -180,8 +180,10 @@ movement log, or TE-04's escort reports), not yet found.
 
 Not found yet: a log for Takegawa Maru (not in the タ–ワ volume) or Kinrei
 Maru (キ, another volume); TE-04's escort records; convoy No. 3905's records
-(Yokosuka, 9 Sep); anything for BANG's 20 Sep attacks; and a primary record
-of Amakusa and Sakae Maru's sinking.
+(Yokosuka, 9 Sep); and anything for BANG's 20 Sep attacks. Amakusa and Sakae Maru's own sheets were found
+in the requisitioned-ship movement tables (徴傭船舶行動概見表 甲 第五回;
+[C08050106900](https://www.jacar.archives.go.jp/das/image/C08050106900) p14–17,
+[C08050033500](https://www.jacar.archives.go.jp/das/image/C08050033500) p31–32).
 
 ## US radio intelligence
 

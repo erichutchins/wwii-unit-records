@@ -1,11 +1,11 @@
 # Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
 # Attacks 4 and 5 (0147-0148 K, six torpedoes, all missed) have no entry: W-15, the only TAKA-206 escort whose report
 # has been found (jacar:C08030607900), was astern rescuing Hozan Maru's crew until 0120 I and records nothing between
-# 0120 and the depth charges heard at 0450 I (p42). Searched 5 Nov 2026 for Amakusa Maru's and Sakae Maru's losses,
-# without a time or place: the Navy's November 1944 summary (J09, Hozan Maru only); the designated-ship movement
-# tables, series 4 and 5 (indexes jacar:C08050101600, C08050103900: neither ship has a table); a battle report or war
-# diary of Manazuru (none found). Still missing: the 4th Escort Unit's November 1944 diary (its JACAR series
-# C08030143700-C08030144200 jumps from September to December).
+# 0120 and the depth charges heard at 0450 I (p42). Amakusa Maru's and Sakae Maru's own sheets were found on 11 Nov
+# 2026 in the requisitioned-ship movement tables (徴傭船舶行動概見表 甲 第五回: J10, J11), after the Navy's November
+# summary (J09, Hozan Maru only), the designated-ship movement tables series 4 and 5 (indexes jacar:C08050101600,
+# C08050103900) and a search for Manazuru's report had none. Still missing: the 4th Escort Unit's November 1944 diary
+# (its JACAR series C08030143700-C08030144200 jumps from September to December).
 - attack: Attack 1
   record: J03
   relation: probable
@@ -40,8 +40,9 @@
   record: J03
   relation: possible
   note: >-
-    BANG claimed a large AK sunk ("2 Hits") at 0032-50 K, within a minute of Attack 1. The Japanese record has one
-    ship sunk in those minutes, Hozan Maru (J03, J07), not two; Attacks 1, 2 and 3 all fit its time
+    BANG claimed a large AK sunk ("2 Hits") at 0032-50 K, within a minute of Attack 1. W-15's signals name one ship
+    sunk in those minutes, Hozan Maru (J03, J07); Amakusa Maru's own sheet adds a second (J10). Attacks 1, 2 and 3
+    all fit Hozan Maru's time
 - attack: Attack 3
   record: J03
   relation: possible
@@ -52,18 +53,16 @@
   record: J04
   relation: possible
   note: >-
-    Amakusa Maru and Sakae Maru, the other two ships lost, have no time or place in W-15's report: by 1655 I on the
-    23rd Sakae Maru was missing and Amakusa Maru unnamed (J04). Nor in the Navy's November summary (J09 names only
-    Hozan Maru), and neither ship has a movement table in series 4 or 5, so no minutes or miles can be set against
-    any attack. Any of BANG's claimed hits (Attacks 2, 3, 6, 7) or
-    REDFISH's (her Attacks 1 and 3, 0006 and 0043 I) could be theirs; the postwar credit gives both to BANG
-    (janac:6/p3), "probable agent"
+    By 1655 I on the 23rd Sakae Maru was missing and Amakusa Maru unnamed (J04). Their own sheets, found later, put
+    Amakusa Maru's loss on the 22nd by Attacks 1-3 (J10) and Sakae Maru's on the 24th, 10-15 nm north-west of the
+    night's attacks (J11); the postwar credit gives both to BANG (janac:6/p3), "probable agent"
 - attack: Attack 6
   record: J04
   relation: possible
   note: >-
     BANG claimed a medium AK sunk at 0150-40 K (0050 I; "3 Hits"), seven minutes after REDFISH's Attack 3 hit
-    (0143 K) in the same part of the convoy. Amakusa Maru or Sakae Maru may be either boat's (see Attack 2)
+    (0143 K) in the same part of the convoy. Amakusa Maru's sheet puts her loss on the 22nd (J10), so not this
+    attack; Sakae Maru's sheet has the 24th (J11)
 - attack: Attack 7
   record: J04
   relation: no_loss
@@ -71,3 +70,20 @@
     BANG claimed a minesweeper sunk at 0314 K (0214 I). All four escorts were afloat that afternoon: Manazuru sent
     the 1655 I order (J04) to W-15, No. 16 Shonan Maru and Seki Maru (p47). Two hits were claimed; if they struck
     anything it was a merchant ship (Sakae Maru was missing, J04), which the record does not say
+- attack: Attack 2
+  record: J10
+  relation: probable
+  note: >-
+    Amakusa Maru's own sheet has her torpedoed and sunk on the 22nd at 24-20N 122-40E (J10), 3.5 nm from Attacks 1-3
+    (24-23.5N 122-41E, 2332-2335 I, the last minutes of the 22nd in Japanese time). With Hozan Maru (2337 I, J03),
+    two ships went down in that window, and BANG claimed two sunk in it (Attack 1, a medium AK seen to disappear;
+    Attack 2, a large AK, two hits). Which attack sank which ship is open. Probable, not hit: the sheet gives no
+    time, and REDFISH's Attack 1 (0004 I on the 23rd, 24-28N 122-43E) is the next nearest
+- attack: Attack 6
+  record: J11
+  relation: possible
+  note: >-
+    Sakae Maru's own sheet has her torpedoed and sunk on the 24th at 24-34N 122-3?E (J11). No attack in the kit
+    falls on the 24th; BANG's Attack 6 (0050 I on the 23rd, 24-24N 122-45E, "3 Hits", a medium AK claimed sunk) and
+    REDFISH's Attack 3 (0043 I, 24-27N 122-47E, one hit, seen to sink) are the claimed sinkings of that night not
+    accounted for by Hozan and Amakusa Maru. Possible only: the sheet's date and place fit neither

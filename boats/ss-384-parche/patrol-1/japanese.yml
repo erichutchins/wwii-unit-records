@@ -5,6 +5,10 @@
 # (TINOSA's Patrol 6 J06, jacar:C08050105600 p53) has her sunk at 0008 I, an hour before PARCHE's first attack on
 # TE-04. Searched and not found: a log for Daibu Maru (大武丸) in the 4th or 5th series of the designated-ship
 # movement tables (their name indexes, jacar:C08050102800 and C08050105300, don't list her; jacar.py search, no hits).
+# Nor, searched 11 Nov 2026, in the 3rd series (index jacar:C08050054100 p02, タ: 第五多聞丸, 泰来丸, 泰久丸, 大洲丸)
+# or the requisitioned-ship movement tables 甲 第五回の二 (index jacar:C08050033300 pp06-07, タ, read on the images).
+# Not yet read: the requisitioned-ship tables 甲 第四回 (C08050029200) and 第六回 (C08050038800, C08050041900), and
+# the 乙 series (C08050045800-C08050047500).
 - id: J01
   source: jacar:C08030140600
   page: p30

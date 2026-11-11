@@ -10,6 +10,8 @@
 # ア and サ lists; series 5 runs 1 Dec 1943 - 30 Nov 1944); and no battle report or war diary of Manazuru was found
 # (searched 真鶴 戦闘詳報, 真鶴 戦時日誌, 水雷艇真鶴, タカ２０６船団). The 4th Escort Unit's November 1944 diary is still
 # missing (its JACAR series C08030143700-C08030144200 jumps from September to December).
+# Amakusa Maru's and Sakae Maru's own sheets were found on 11 Nov 2026 in another series, the requisitioned-ship
+# movement tables (徴傭船舶行動概見表 甲 第五回): J12 and J13, read as in ss-385-bang/patrol-4/japanese.yml (J10, J11).
 - id: J01
   source: jacar:C08030607900
   page: p47
@@ -192,3 +194,36 @@
   note: >-
     Same summary, 9th, entry timed 0130. The second character of 隼鷹 is written in an abbreviated hand. One time
     and one attack only: the summary does not separate SEA DEVIL's attack from REDFISH's two
+- id: J12
+  source: jacar:C08050106900
+  page: p17
+  ship: Amakusa Maru
+  convoy: TAKA-206
+  event: sank
+  date: 1944-11-22
+  zone: I
+  lat_raw: 24-20N
+  lon_raw: 122-40E
+  original: 一九、一一、二二 北緯二四度二〇分東経一二二度四〇分ノ地点ニ於テ敵潜ノ雷撃ヲ受ケ沈没
+  translation: 22 Nov 1944, torpedoed by an enemy submarine and sunk at N 24°20′ E 122°40′
+  note: >-
+    Amakusa Maru's own sheet (requisitioned-ship movement tables 甲 第五回, ア～オ part (4); header p14). The 22nd in
+    Japanese time is before REDFISH's first attack (0004 I on the 23rd); the place is 3.5 nm from BANG's Attacks 1-3
+    (2332-2335 I). The latitude's minutes are read 二〇 (三〇 possible). Same record as BANG's Patrol 4 J10, counted once
+- id: J13
+  source: jacar:C08050033500
+  page: p32
+  ship: Sakae Maru
+  convoy: TAKA-206
+  event: sank
+  date: 1944-11-24
+  zone: I
+  lat_raw: 24-34N
+  lon_raw: 122-3?E
+  original: 一九、一一、二四、北緯二四度三四分、東経一二二度三?分ノ地点ニ於テ敵潜ノ雷撃ヲ受ケ沈没
+  translation: 24 Nov 1944, torpedoed by an enemy submarine and sunk at N 24°34′ E 122°3?′
+  note: >-
+    Sakae Maru's (榮丸) own sheet (same tables, 第五回の二, サ part (3); header p31: 2,878 tons, as W-15's table). Header
+    and remark both give the 24th; no attack in the kit falls that day, and REDFISH's hits of the 23rd (Attacks 1
+    and 3, 24-27/28N 122-43/47E) were 10-15 nm south-east of this position. Same record as BANG's Patrol 4 J11,
+    counted once

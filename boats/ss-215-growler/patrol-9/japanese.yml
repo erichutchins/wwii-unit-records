@@ -11,6 +11,10 @@
 # series' カ part (jacar:C08050055800: the 快進丸s, 神久丸, the two 神影丸, 第二金山丸). The 1943 series' index lists a
 # 香取丸 under カ (jacar:C08050057800, OCR), but that series' parts run from December 1944, so it is probably the
 # other Katori Maru, the 2,218-ton ship JANAC lists lost on 22 August 1945 (janac:4/p96; inferred, not read).
+# Searched 11 Nov 2026, not listed: the 3rd series' カ index (jacar:C08050052800 p01: 加智山丸, 加能丸, 海龍丸, 第六快進丸,
+# 加利丸) and the requisitioned-ship movement tables 甲 第五回の一's カ index (jacar:C08050107900 p04: 香洋丸 and 香久丸,
+# no 香取丸). The summary's 回航 (J01) may mean she was on a delivery voyage, which would leave no earlier sheet. Not yet
+# read: 甲 第四回 and 第六回, and the 乙 series.
 - id: J01
   source: jacar:C16120659700
   page: p21

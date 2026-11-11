@@ -96,7 +96,7 @@ ships:
     role: merchant
     number: '4'
     from: 1944-11-22
-    fate: sunk 1944-11-22/23 (BANG patrol 4 J05, secondary)
+    fate: torpedoed and sunk 1944-11-22 at 24-20N 122-40E, her own movement sheet (jacar:C08050106900 p17; BANG patrol 4 J10)
     source: jacar:C08030607900
     page: p33
     basis: reported
@@ -120,18 +120,19 @@ ships:
     role: merchant
     number: '6'
     from: 1944-11-22
-    fate: searched for on the 23rd (J04); sunk (J05, secondary)
+    fate: searched for on the 23rd (J04); torpedoed and sunk 1944-11-24 at 24-34N 122-3?E, her own movement sheet (jacar:C08050033500 p32; BANG patrol 4 J11)
     source: jacar:C08030607900
     page: p33
     basis: reported
     note: >-
       No. 6, written 栄丸; 船種 (type) A, top speed 9 kt, displacement 二八七八 (as written) in W-15's convoy table. Type
-      letters A and C are not explained on the page
+      letters A and C are not explained on the page. Her movement sheet (榮丸, 2,878 tons, ship number 28554) gives the
+      24th in both its header and its remark; no attack in the kit falls that day
     sil: cargo
 ---
 
 Keelung to Naha, sailing at 0800 on 22 November 1944 with six ships and four escorts (W-15's battle report,
-p32–33). Three were sunk that night (Hozan, Amakusa and Sakae Maru); the other three sheltered at Funauki
+p32–33). Three were sunk (Hozan and Amakusa Maru that night, Sakae Maru on the 24th by her own sheet); the other three sheltered at Funauki
 (Iriomote) on the 23rd. BANG, REDFISH and SHAD all attacked it (engagement `bang-patrol-4`).
 
 **Cargo: not recorded** in W-15's report. The table gives each ship a type letter (A or C, not explained on the
