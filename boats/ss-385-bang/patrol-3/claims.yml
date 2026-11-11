@@ -14,8 +14,10 @@
 # Strait and off Manila (MATA-27, MI convoys), and its one ship near Keelung, the torpedo boat Sagi (under the China
 # Area Fleet), ran Keelung to Shanghai about the 17th-21st (p20, read at 200 dpi). The 4th Surface Escort
 # Division's table of convoys escorted (J06) has TAKA-909 as the only convoy on the Keelung lanes from the 15th to
-# the 23rd, and its daily summary (J07) no attack or loss on the 20th-23rd. Attacks 5-6 are not paired: no record
-# names the convoy BANG fired at. A lead, not a pairing: TAKA-909 again (her contact at 1555 I at 25-07N 122-57E and
+# the 23rd, and its daily summary (J07) no attack or loss on the 20th-23rd. 11 Nov 2026: the escort W-15's own
+# September diary (J08, J09) settles the question below: TAKA-909 put back to Keelung on the 19th and sailed again on
+# the morning of the 20th, so it was at sea east of Keelung that night; W-15 enters no attack and no loss. Attacks 5-6
+# are paired with it as no_loss (the convoy inferred). What was written before W-15's diary was read: TAKA-909 again (her contact at 1555 I at 25-07N 122-57E and
 # her attack at 2315 I at 25-21N 123-58E both lie about 15 nm south of the Keelung-Naha line, and the 953rd Air
 # Group was escorting a convoy north-east of Keelung at 1630 I, J05), but only if it put back after the 19th's
 # attack (24-54N 122-23E, 39 hours and 90 nm earlier, about 2.3 knots) and sailed again, which no record read says;
@@ -54,3 +56,23 @@
   note: >-
     The summary's entry for No. 2 Tosei Maru (J04), the same report as J02, counted once with it: sunk east of Keelung
     at 0925 I, 70 minutes after BANG's first salvo (0815 I) at 24-56N 122-14.5E, about 30 nm east of Keelung
+- attack: Attack 3
+  record: J08
+  relation: hit
+  note: >-
+    W-15's own account of the 19th (J08): No. 7 ship Tosei Maru torpedoed at 0820 I at 24-52N 122-23E, five minutes
+    after Attacks 3-4 (0815 I) and 8 nm from BANG's position. The same ship as J02 and J04, from a third report
+    (W-15's, not the division's), and the only one with both a time and a place
+- attack: Attack 5
+  record: J09
+  relation: no_loss
+  note: >-
+    TAKA-909 put back to Keelung after the 19th's attack and sailed again on the morning of the 20th for Naha by
+    way of Miyako (W-15's diary, J08, J09): the convoy BANG found that afternoon (1555 I at 25-07N 122-57E) and
+    attacked that night is most likely this one (inferred: the only convoy on the Keelung lanes that week, J06, and
+    W-15's noon positions put it some 25-30 nm from her by straight interpolation). W-15's diary enters no attack
+    and no loss that night, and the convoy reached Miyako the next afternoon. BANG claimed an AK and an AO sunk
+- attack: Attack 6
+  record: J09
+  relation: no_loss
+  note: Fired with Attack 5 (0017 K); same record

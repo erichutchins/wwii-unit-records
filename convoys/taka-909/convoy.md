@@ -96,4 +96,11 @@ The waypoints off Formosa's east coast and Kagoshima Bay are assumed. BANG count
 No other US boat's attack on TAKA-909 has been found: the diary's columns for the 18th–21st have only this
 attack and, on the 20th, an attack on the depot ship Jingei far to the east (N27-12.5 E127-10.0; not BANG's).
 
-To find: TAKA-909's sailing time from Keelung and its ships' names (its escorts' own September diaries).
+**The escort W-15's diary** (jacar:C08030607800, September 1944, read on the images 11 Nov 2026) gives the
+voyage: sailed from Keelung for Naha at 0210 on the 19th; No. 7 ship Tosei Maru torpedoed at 0820 at 24-52N 122-23E
+(p53); W-15 led the convoy back to Keelung, anchoring at 2000. The convoy sailed again at 06?0 on the 20th (noon
+25-01N 122-21E), anchored at Miyako at 1530 on the 21st (noon 24-51.5N 124-45E), sailed again that evening, and
+dispersed off Naha at 1350 on the 23rd, W-15 entering at 1520 (p49-p50). No attack is entered for the night of the
+20th, when BANG fired at a convoy east of Keelung (engagement `bang-east-of-formosa-1944-09-20`). Times I.
+
+To find: TAKA-909's ships' names and cargo (CD-30's or the other escorts' September diaries, not found on JACAR).

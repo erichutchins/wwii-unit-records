@@ -59,7 +59,10 @@ attacked her and claimed "one enemy submarine sunk"; BANG surfaced that night af
 
 Keelung to Kagoshima, with a section from Naha: ten ships of 34,049 tons under six escorts, in the 4th Surface Escort
 Division's table of convoys given air cover (jacar:C08030144100 p05). The same diary names the escorts and only the
-ship sunk; BANG saw 8 merchantmen including an AO, and 5 or more escorts. The convoy's own record: [[convoy:taka-909]].
+ship sunk; BANG saw 8 merchantmen including an AO, and 5 or more escorts. The escort W-15's diary has the convoy
+sailing from Keelung for Naha at 0210 I, No. 7 ship Tosei Maru torpedoed at 0820 I at 24-52N 122-23E, five minutes
+after BANG fired and 8 nm from her, and W-15 leading the convoy back to Keelung; it sailed again the next morning
+(p. 49, 53) [[cite:jacar:C08030607800]]. The convoy's own record: [[convoy:taka-909]].
 
 ## Reading the map
 
@@ -73,18 +76,20 @@ BANG kept zone K (−10) throughout. Japanese records use Tokyo time (I, −9).
 
 ## Records with no time
 
-Neither Japanese record for this patrol gives a time: combinedfleet.com's account of convoy No. 3905 and the 4th
-Surface Escort Division's daily summary for TAKA-909. Each is drawn at the time of the attack it matches, and marked
+Two Japanese records for this patrol give no time: combinedfleet.com's account of convoy No. 3905 and the 4th
+Surface Escort Division's daily summary for TAKA-909 (W-15's diary gives TAKA-909's, 0820 I). Each is drawn at the time of the attack it matches, and marked
 so. FRUPAC's intercept has No. 3905's ships "torp & sunk 1520/09" (1520 I = 1620 K, between Attacks 1 and 2).
 
 ## What is missing
 
-No Japanese record has been found yet for Attacks 5 and 6 (20–21 September); the 4th Escort diary has no attack on
-those days. Where the Japanese record names only the ships that were hit, the rest of the convoy is described as
+No Japanese record has been found for Attacks 5 and 6 (20–21 September): the 4th Escort diary has no attack on
+those days, and W-15's diary has TAKA-909 at sea that night with nothing entered (engagement
+`bang-east-of-formosa-1944-09-20`). Where the Japanese record names only the ships that were hit, the rest of the convoy is described as
 BANG saw it.
 
 ## Sources
 
 BANG's third war patrol report, NARA microfilm M1752 (74802831). The 4th Surface Escort Division / Okinawa Base
-Force war diary, September 1944, via JACAR (C08030144100, National Institute for Defense Studies). Convoy No. 3905
+Force war diary, September 1944, and minesweeper W-15's war diary, September 1944, via JACAR (C08030144100,
+C08030607800, National Institute for Defense Studies). Convoy No. 3905
 from combinedfleet.com, a secondary source, flagged where used. Coastline: Natural Earth.

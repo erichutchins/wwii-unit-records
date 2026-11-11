@@ -128,3 +128,57 @@
     is not read. Column 21 (p13): from now on second alert stations daily 0300-0700; ships in Naha harbour dispersed
     (当分ノ間毎日〇三〇〇ヨリ〇七〇〇間第二警戒配備 那覇在泊艦船疎開実施). Columns 22 and 23: alert stations, and TANA-304 and
     KATA-411 escorted. No attack on a convoy, no loss and no TAKA-909 arrival is entered for the 20th to the 23rd
+- id: J08
+  source: jacar:C08030607800
+  page: p53
+  ship: Tosei Maru
+  convoy: TAKA-909
+  event: torpedoed
+  date: 1944-09-19
+  time: '0820'
+  zone: I
+  lat_raw: 24-52N
+  lon_raw: 122-23E
+  original: >-
+    別紙一 一、〇八二〇 東経一二二度二三分北緯二四度五二分第七番船東勢丸雷撃ヲ受ク 二、〇八三〇 本艇船団ヲ率ヒ基隆ニ避退ス
+    三、一二五六 基隆島沖ニテ船団ト解列現場ニ向フ 四、一六二五 現場ニ到着第三〇號海防艦ト協力敵潜水艦攻撃始ム 五、一六三〇
+    飛行機トノ協力ニ依リ第三〇號海防艦敵潜水艦撃沈確實ノ報ヲ受ク 六、一七〇〇 掃蕩ヲ打切リ基隆ニ向フ 七、二〇〇〇 基隆港ニ仮泊
+  translation: >-
+    Separate sheet 1. (1) 0820: at E 122°23′ N 24°52′, No. 7 ship Tosei Maru torpedoed. (2) 0830: W-15 leads the
+    convoy back to Keelung. (3) 1256: off Keelung island, leaves the convoy for the scene. (4) 1625: arrives;
+    begins attacking the enemy submarine with CD-30. (5) 1630: receives the report that CD-30, working with aircraft,
+    has certainly sunk the enemy submarine. (6) 1700: breaks off the search for Keelung. (7) 2000: anchors at
+    Keelung
+  note: >-
+    Minesweeper W-15's war diary, September 1944 (第十五號掃海艇戦時日誌, cover p42; the ship written 東勢丸, without
+    the 第二 of J02 and J04), the 19th's action written up on a
+    separate sheet as the daily page (p49) says. W-15 was one of TAKA-909's six escorts (J06). Its daily page: 0210
+    sailed escorting TAKA-909 for Naha; 0830 Tosei Maru torpedoed; 2000 anchored at Keelung. Five minutes after
+    BANG's Attacks 3-4 (0915 K = 0815 I), 8 nm east-south-east of her position (24-56N 122-14.5E), and the first
+    record with a time and place for the sinking: J02 has the place but no time, J04's 0925 is 65 minutes later.
+    The convoy put back to Keelung, so the escort's own diary answers the question J06 left open. The 1630 report of
+    a submarine certainly sunk "with aircraft" has the same time and wording (撃沈確實) as the Navy summary's entry
+    for the 953rd Air Group, which the summary puts on the 20th (J05): possibly the same event, dated a day later
+    there. BANG was at 450 ft from 0920 K and came to periscope depth at 1730 K (1630 I) with nothing in sight
+- id: J09
+  source: jacar:C08030607800
+  page: p49
+  convoy: TAKA-909
+  event: status
+  date: 1944-09-20
+  zone: I
+  original: >-
+    二〇日 正午 25-01N 122-21E 〇六?〇出港タカ九〇九船団護衛那覇ニ向フ / 二一日 正午 24-51.5N 124-45E 一五三〇
+    宮古泊地ニ仮泊 二?〇〇出港タカ九〇九船団護衛那覇ニ向フ / 二三日 〇八三〇配置ニ就ク潜望鏡ラシキモノ発見 〇八四〇
+    潜望鏡ハ浮流物ノ誤リ 一三五〇船団解列 一五二〇那覇入港
+  translation: >-
+    20th, noon 25-01N 122-21E: 06?0 sailed escorting TAKA-909 for Naha. / 21st, noon 24-51.5N 124-45E: 1530
+    anchored at Miyako; 2?00 sailed escorting TAKA-909 for Naha. / 23rd: 0830 action stations, something like a
+    periscope sighted; 0840 the periscope was floating wreckage; 1350 the convoy dispersed; 1520 entered Naha
+  note: >-
+    W-15's daily pages for the 20th-23rd (p49-p50; the noon positions are typed in figures at the head of each
+    day's column). TAKA-909 sailed again from Keelung on the morning of the 20th and was at sea east of Keelung
+    that night, on the way to Miyako: by straight interpolation between the two noon positions, about 24-56N
+    123-30E at 2315 I, some 25-30 nm west-south-west of BANG's Attacks 5-6 (2315-2317 I on the 20th, 25-21N
+    123-58E; ours, inferred, and the convoy need not have steamed evenly). Nothing is entered for the night of the
+    20th: no attack, no loss. The hour of the 20th's sailing and of the 21st's has one figure not read (?)
