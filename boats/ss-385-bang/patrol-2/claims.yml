@@ -3,6 +3,12 @@
 # no entry; the Chichijima Area Special Base Force war diary, June 1944 (C08030275400, pp. 03-05), no torpedo attack
 # on the 14th (J06 is its nearest submarine report). Not yet read: the base force's 15 June-5 August diary and
 # action report (C08030274600), the Yokosuka Guard Squadron (C08030363100) and the Central Pacific commands. 5 Nov 2026.
+# 11 Nov 2026: the base force's June signal log (C08030275500 pp17-20, the 14th and 15th) has no tanker torpedoed and
+# no survivors; its GHQ broadcast for the 14th (J07) puts J06's submarine report at 1200 I and 22-30N, four hours
+# before Attack 1 and about 80 nm east, so J06 is no longer paired (context only). The Yokosuka Guard Squadron's June
+# diary (C08030363300 pp14-15, its table of submarine appearances) has no row on the 14th; its waters are the Izu
+# islands, far north. Attack 1 stays without a Japanese record. BANG claimed damage to an empty tanker (one hit, the
+# target settled by the stern and put out boats); none of these records has her.
 - attack: Attack 2
   record: J01
   relation: hit
@@ -23,13 +29,3 @@
     fired (0506 I), at a position about 17 nm from BANG's. SEAHORSE had attacked the same convoy four hours
     earlier (0054 I) and was not firing then. BANG's sheet claimed damage to 1 AK; the Japanese record has no
     ship hit at this time
-- attack: Attack 1
-  record: J06
-  relation: possible
-  note: >-
-    The only row near BANG's attack (1601 I, 23-15N 143-15.6E) in the Chichijima base force's table of enemy
-    submarines for 14 June: presence of a submarine certain, at 1600 or 1700 I, about 70-80 nm east of BANG's
-    position (the latitude is 22-30 or 23-30N). For: the hour and the area. Against: it records no torpedoing and
-    no ship, and the position is far from BANG's; the 1120 I direction-finding fix (23-40N 142-30E, about 50 nm
-    north-west) is the other submarine report that day. BANG's sheet claimed damage to one 7,000-8,000-ton AO, not
-    a sinking; neither this diary nor the Navy's June summary (C16120659700) records a tanker torpedoed that day

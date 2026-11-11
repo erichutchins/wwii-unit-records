@@ -42,7 +42,11 @@ has been found yet.
 
 ## Outcome
 
-No Japanese record of this attack has been found yet.
+BANG saw one hit forward of the stack, the tanker list and settle by the stern, and her crew put out boats; she
+claimed one 7,000–8,000-ton AO damaged. No Japanese record of the attack has been found. The Chichijima base
+force's June signal log has nothing for the 14th or 15th about a tanker torpedoed or her crew landed, only a Navy
+GHQ broadcast of a submarine "certainly present" at 1200 I at 22-30N 144-30E, four hours before BANG fired and some
+80 nm east of her (p. 18) [[cite:jacar:C08030275500]]. The Navy's June summary has no entry for her either.
 
 ## Reading the map
 

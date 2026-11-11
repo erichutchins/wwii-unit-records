@@ -99,4 +99,25 @@
     second digit is 二 or 三. The 14th has two other rows: 1120, N 23°40′ E 142°30′, 測定 精度B (a direction-finding
     fix, accuracy B), and 2259, about N 29° E 141°, 発見 (sighted), 天草 and 能美 suppressing. The table has no
     torpedo attack on the 14th: its 雷撃 rows in June are Akiyama Maru damaged (7th) and Matsukaze sunk (9th).
-    Zone not stated; taken as I (Tokyo), assumed. Time and position left out of the fields (each has a digit unread); they are in `original`
+    Zone not stated; taken as I (Tokyo), assumed. Time and position left out of the fields (each has a digit unread); they are in `original`. The signal the row was entered from (J07) reads 1200 and 22-30N
+- id: J07
+  source: jacar:C08030275500
+  page: p18
+  event: sub_sighted
+  date: 1944-06-14
+  time: '1200'
+  zone: I
+  lat_raw: 22-30N
+  lon_raw: 144-30E
+  original: 大海機密第一四一七三〇番電 十四日一二〇〇 二二─三〇N 一四四─三〇E 其ノ他 敵潜ノ存在確実
+  translation: >-
+    Navy GHQ signal 141730: 14th, 1200, 22-30N 144-30E, other (type of report): presence of an enemy submarine
+    certain
+  note: >-
+    Chichijima Area Special Base Force war diary, June 1944, part 2 (its signal log, 令達報告等): a Navy GHQ
+    broadcast (大海, 一般) sent at 1730 and logged at 1744 on the 14th (read at 400 dpi). It is the signal J06's table
+    row was entered from, and its figures are clear where the table's are not: 1200, not 1600 or 1700, and 22-30N.
+    So the report is from four hours before BANG fired (1601 I) and about 80 nm east of her attack position: not
+    her attack. "Other" is not explained; it is not a torpedoing. The log for the 14th and 15th (pp17-20) has no
+    tanker torpedoed and no survivors landed: its other submarine reports are direction-finding fixes from the
+    Owada station and an attack on the Miho Maru convoy near 29N 141E. Zone not stated; taken as I, assumed
