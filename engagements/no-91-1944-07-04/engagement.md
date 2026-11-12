@@ -1,6 +1,6 @@
 ---
 title: Convoy No. 91, 3–4 July 1944
-short: 4 July 1944
+short: No. 91 · 3–4 July 1944
 eyebrow: Marianas lifeguard and Luzon Strait · BANG's second war patrol, in a pack with SEAHORSE and GROWLER
 theater: pacific
 window: {from: 1944-07-03T12:00Z, to: 1944-07-04T06:00Z}

@@ -1,6 +1,6 @@
 ---
 title: The carrier Junyō, 9 December 1944
-short: 9 December 1944
+short: Junyō · 9 December 1944
 eyebrow: South-west of Nagasaki · SEA DEVIL's, PLAICE's and REDFISH's patrols
 theater: pacific
 window: {from: 1944-12-08T11:00Z, to: 1944-12-08T19:00Z}
@@ -31,13 +31,13 @@ participants:
     of: jp
     kind: carrier
     sil: hayataka
-    note: 'returning from Mako to the home islands (the Navy summary); SEA DEVIL''s radar had one very large pip, two large and four small, the task force never sighted; REDFISH took her for a SHOKAKU or HAYATAKA type carrier'
+    note: 'returning from Mako to the home islands (the Imperial Navy''s summary); SEA DEVIL''s radar had one very large pip, two large and four small, the task force never sighted; REDFISH took her for a SHOKAKU or HAYATAKA type carrier'
   - id: maki
     name: Maki
     of: jp
     kind: destroyer
     sil: destroyer
-    note: 'a destroyer of the screen (Matsu class); the Navy summary has her hit once in the bow, back at Nagasaki at 1000; PLAICE took the screen for TERUTSUKI class; the silhouette is the kit''s generic destroyer'
+    note: 'a destroyer of the screen (Matsu class); the Imperial Navy''s summary has her hit once in the bow, back at Nagasaki at 1000; PLAICE took the screen for TERUTSUKI class; the silhouette is the kit''s generic destroyer'
 places:
   - name: Kyushu
     lon: 130.8
@@ -58,7 +58,7 @@ places:
 
 Three boats on one carrier's force in the night of 8–9 December 1944: SEA DEVIL's four stern torpedoes at 0028 I,
 PLAICE's salvoes at the screen at 0128 and 0131 I, and REDFISH's attacks at 0156 and 0320 I, as typed on their attack
-sheets, beside the Navy's summary, which has Junyō torpedoed once, two hits, at 0130, and the destroyer Maki hit in
+sheets, beside the Imperial Navy's summary, which has Junyō torpedoed once, two hits, at 0130, and the destroyer Maki hit in
 the bow.
 
 ## Outcome
@@ -78,6 +78,7 @@ marked. The summary does not say whose torpedoes. Three boats' records can be se
 - REDFISH claimed one hit at 0156 I and one more at 0320 I nearer Nomozaki.
 
 Every pairing is possible: which boat hit Junyō, and which Maki, is open until a record with their own times is found.
+
 ## Reading the map
 
 Positions are each boat's own; lines between them are straight. Junyō is drawn from the boats' sightings, and no
@@ -85,8 +86,7 @@ Japanese position is given in figures.
 
 ## Clocks
 
-SEA DEVIL's and PLAICE's sheets type zone I; REDFISH's Attack 7 sheet types a J that her positions file reads as I (her
-japanese.yml and claims.yml say why). Japanese records use Tokyo time (I, −9).
+SEA DEVIL's and PLAICE's sheets type zone I; REDFISH's Attack 7 sheet types a J that is read here as I (the reason is given with her attack, under Questions and sources). Japanese records use Tokyo time (I, −9).
 
 ## What is missing
 

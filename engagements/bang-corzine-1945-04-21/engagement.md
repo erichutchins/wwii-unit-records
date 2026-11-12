@@ -1,6 +1,6 @@
 ---
 title: BANG rescues Ensign Donald E. Corzine, 21–22 April 1945
-short: 21–22 April 1945
+short: Corzine's rescue · 21–22 April 1945
 eyebrow: Sakishima Gunto · BANG's sixth war patrol, lifeguard for the Okinawa campaign
 theater: pacific
 window: {from: 1945-04-19T13:00Z, to: 1945-04-23T14:00Z}
@@ -10,7 +10,7 @@ participants:
     of: us
     kind: submarine
     hull: SS-385
-    co: Cdr A. R. Gallaher
+    co: O. W. Bagby
     track: ss-385-bang/6
   - id: chenango
     name: CHENANGO
@@ -46,16 +46,18 @@ places:
     inset: [120.6, 23.0]
 ---
 
-Hit by flak over Ishigaki airfield on the afternoon of 21 April 1945, a CHENANGO Hellcat pilot spent fourteen hours
-in his raft before BANG, sent from her lifeguard station off Formosa, took him aboard. BANG's report, his squadron's
+Hit by flak over Ishigaki airfield on the afternoon of 21 April 1945, a CHENANGO Hellcat pilot spent the night
+in his raft, fourteen hours by BANG's report, before BANG, already sent from her lifeguard station off Formosa to
+search for other airmen, took him aboard. BANG's report, his squadron's
 action report and the Miyako garrison's telegram of the same day, on one GMT clock.
 
 ## Outcome
 
 Shot down by medium flak over Ishigaki airfield and ditched about 20 miles east of the island; the other three
-Hellcats saw him in his raft. BANG, ordered from her station northeast of Formosa at 1415, reached the reported
-position at 2330 and, guided in by carrier planes the next morning, took him aboard at 0737 after fourteen hours in
-the water. "Replacement clothing was no problem except for his size thirteen shoes."
+Hellcats saw him in his raft. BANG had been ordered from her station northeast of Formosa at 1415, before his flight was
+launched, to search near the Sakishima Gunto for other downed aviators; she reached their reported position at 2330
+and, told of him by carrier planes the next morning, took him aboard at 0737. "He had been in the water fourteen
+hours": neither report times his landing, and fourteen hours before 0737 puts it at about 1737 (assumed). "Replacement clothing was no problem except for his size thirteen shoes."
 
 ## The target
 

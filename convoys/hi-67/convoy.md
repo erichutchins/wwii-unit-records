@@ -255,16 +255,16 @@ ships:
 ---
 
 Moji to Singapore by way of Manila, June–July 1944. The escort division's June chart starts the track in the
-22 June column (Kurahashi joined from Sasebo that day: combinedfleet:Kurahashi_t, secondary); the sailing date of 20 June is combinedfleet.com's
-(secondary). The July chart has the convoy leave Manila on the 3rd with 7 ships and reach 昭南 on the 9th.
+22 June column (Kurahashi joined from Sasebo that day, by combinedfleet.com's record of her: secondary); the sailing date of 20 June is combinedfleet.com's
+(secondary). The July chart has the convoy leave Manila on the 3rd with 7 ships and reach 昭南 (Shōnan, the Japanese name for Singapore) on the 9th.
 
 **Cargo: not recorded** in any record read. The southbound HI convoys took oilers to Singapore to load
 (inferred, not from a record of this convoy). Miri Maru's designated-ship log (jacar:C08050103600 p21–25)
-ends on 10 June 1944, when the Navy took her over, so it stops before this voyage. Gokoku, Asahisan, Miri
+ends on 10 June 1944, when the Imperial Navy took her over, so it stops before this voyage. Gokoku, Asahisan, Miri
 and Sarawak Maru left the convoy at Manila (combinedfleet, secondary).
 
 **Why the tankers mattered** (context, secondary: wolborsky, a 1994 Air University thesis drawing on the Strategic
-Bombing Survey). In the fall of 1943 the Navy made tankers its submarines' first target, and early in 1944 it decided
+Bombing Survey). In the fall of 1943 the US Navy made tankers its submarines' first target, and early in 1944 it decided
 to put submarines in the Luzon Strait, "astride the main Japanese oil lifeline" (wolborsky/p20). BANG
 met HI-67 west of Luzon, at 17-13N 118-22E, on that same route south (inference from the convoy's track). Japan's tanker fleet peaked at 834,000 tons in November 1943; once the attacks focused on oil,
 monthly tanker sinkings tripled, and oil imports to the home islands fell from a peak of 1.75 million barrels in

@@ -1,6 +1,6 @@
 ---
 title: A convoy east of Formosa, 20–21 September 1944
-short: 20–21 September 1944
+short: East of Formosa · 20–21 September 1944
 eyebrow: South of Honshu and east of Formosa · BANG's third war patrol
 theater: pacific
 window: {from: 1944-09-20T04:00Z, to: 1944-09-20T20:00Z}

@@ -1,5 +1,5 @@
 ---
-title: 'Shelled on the Winter Line: the 67th CA (AA)''s batteries by Venafro and Acquafondata, February 1944'
+title: 'Shelled on the Cassino front: the 67th CA (AA)''s batteries by Venafro and Acquafondata, February 1944'
 short: Venafro · February 1944
 theater: mediterranean
 participants:
@@ -29,7 +29,7 @@ detached near Sant'Elia from 10 to 23 Feb; it had men wounded on 14 and 16 Feb. 
 
 Context, not identification: no German report of these days names Venafro, Lucenteforte or Acquafondata, or an
 antiaircraft battery, so a German entry is "the same day and nearly the same place" at most. The batteries' stations
-are in `../../army/stations.csv` (units `67ca-e`, `67ca-h`), their casualties in `../../army/actions.csv`. The German
+and casualties are also on their own pages (Batteries E and H, 67th Coast Artillery (AA)). The German
 frames: NARA T-314 roll 544 (XIV Panzer Corps' Taktische Meldungen, Feb 1944) and T-312 roll 90 (the Bezugspunktkarte).
 
 ## Outcome
@@ -44,15 +44,8 @@ days names a battery, Lucenteforte or Acquafondata, so each pairing is the same 
 
 ## Sources
 
-The folder's files, for anyone reading the records themselves:
-
-`events.yml`: the batteries' moves and casualties, and the German reports of the same days, in the record's words.
-`placed` = `seq` when the record gives no time.
-
-`positions.csv`: the batteries' stations as the forms name them (placed at the place name: the gun positions aren't
-given) and the German reports' places. The German reports give places as points of their reference-point map, the
-Bezugspunktkarte (`XXIII 117`); these are decoded with `tools/bezugspunkt.py` (`guides/BEZUGSPUNKTE.md`), `basis`
-`derived`.
-
-`claims.yml`: the questions the records leave open (whether the fire on Vallerotonda was what hit Battery H; where
-Battery E's men were hit).
+The batteries' moves and casualties and the German reports of the same days are given in the records' words; an entry
+whose record gives no time is placed by the order of the account and says so. The batteries' stations are placed at
+the place the forms name; the gun positions aren't given. The German reports give places as points of their
+reference-point map, the Bezugspunktkarte (XXIII 117), and those positions are derived from it. Still open: whether
+the fire on Vallerotonda was what hit Battery H, and where Battery E's men were hit.

@@ -1,6 +1,6 @@
 ---
 title: Convoy TAMA-21C, 16–17 July 1944
-short: 16–17 July 1944
+short: TAMA-21C · 16–17 July 1944
 eyebrow: Luzon Strait · GUARDFISH's pack, Capt. W. V. O'Regan
 theater: pacific
 window: {from: 1944-07-16T00:00Z, to: 1944-07-16T20:00Z}
@@ -75,5 +75,5 @@ PIRANHA kept zone G (−7) on station, THRESHER zone H (−8), GUARDFISH zone I 
 ## Sources
 
 War patrol reports, NARA microfilm M1752 (PIRANHA 74832061, GUARDFISH 74819308, THRESHER 74855459). The 1st Surface
-Escort Division's July 1944 war diary and the Navy's July summary via JACAR (National Institute for Defense
+Escort Division's July 1944 war diary and the Imperial Navy's July summary via JACAR (National Institute for Defense
 Studies). JANAC (1947), a postwar list. Coastline: Natural Earth.

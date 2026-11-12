@@ -1,6 +1,6 @@
 ---
 title: The oiler Kazahaya, 6 October 1943
-short: 6 October 1943
+short: Kazahaya · 6 October 1943
 eyebrow: North-west of Truk · two boats, each alone
 theater: pacific
 window: {from: 1943-10-05T12:00Z, to: 1943-10-06T12:00Z}
@@ -22,7 +22,7 @@ participants:
     of: jp
     kind: tanker
     sil: tanker
-    note: the Navy's fleet oiler, on passage to Truk, sailing alone (jacar:C08030101300); the silhouette is the kit's generic tanker, not her own outline
+    note: the Imperial Navy's fleet oiler, on passage to Truk, sailing alone (jacar:C08030101300); the silhouette is the kit's generic tanker, not her own outline
 places:
   - name: Truk
     lon: 151.8
@@ -50,7 +50,7 @@ at 10-26N 146-29.5E; Kazahaya's first signal puts her torpedoing at 10-30N 146-3
 ## Clocks
 
 STEELHEAD kept zone K (−10) and TINOSA zone K in her narrative (her tables GCT); the Japanese records use Tokyo time
-(I, −9). STEELHEAD fired at 0236 K, 0136 I: the Navy's summary has the first attack at 0140 I and Kazahaya's own
+(I, −9). STEELHEAD fired at 0236 K, 0136 I: the Imperial Navy's summary has the first attack at 0140 I and Kazahaya's own
 summary of her loss counts "from 0100", but the destroyer squadron's log has her torpedoed at 0244 I, 68 minutes
 later, perhaps the time of the signal rather than the hit. Kazahaya's times for TINOSA's attacks match TINOSA's
 narrative an hour apart, the difference between the zones.
@@ -58,5 +58,5 @@ narrative an hour apart, the difference between the zones.
 ## Sources
 
 War patrol reports, NARA microfilm M1752 (STEELHEAD 74851315, TINOSA 74856215). The 2nd Destroyer Squadron's war
-diary and the Navy's October 1943 summary via JACAR (National Institute for Defense Studies). FRUPAC war map,
+diary and the Imperial Navy's October 1943 summary via JACAR (National Institute for Defense Studies). FRUPAC war map,
 October 3-6, 1943 (Portal to Texas History), linked from TINOSA's records. JANAC (1947), a postwar list.

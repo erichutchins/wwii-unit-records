@@ -1,6 +1,6 @@
 ---
 title: A small freighter in the Yellow Sea, 10 February 1945
-short: 10 February 1945
+short: Yellow Sea · 10 February 1945
 eyebrow: East China and Yellow Seas · BANG's fifth war patrol, in Wolfpack 23 with SPADEFISH, ATULE and POMPON
 theater: pacific
 window: {from: 1945-02-10T02:00Z, to: 1945-02-10T10:00Z}

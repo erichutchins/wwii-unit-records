@@ -1,6 +1,6 @@
 ---
 title: Convoy MI-11, 30–31 July 1944
-short: 30–31 July 1944
+short: MI-11 · 30–31 July 1944
 eyebrow: Luzon Strait · Coordinated Attack Group 17.15, Cdr L. S. Parks
 theater: pacific
 window: {from: 1944-07-29T18:00Z, to: 1944-07-31T00:00Z}
@@ -49,7 +49,7 @@ places:
 
 HAMMERHEAD found the convoy before dawn on 30 July, reported it to STEELHEAD and PARCHE at 0420 and attacked it from
 its port side at 0531 and 0537 (Tokyo time); STEELHEAD tracked it south all day and reported it to PARCHE. From 0332 on the 31st (Tokyo time) the two boats attacked it in turn off the north-west corner of
-Luzon; PARCHE made eight attacks in thirty-four minutes. The boats' war patrol reports beside the Navy's summary of
+Luzon; PARCHE made eight attacks in thirty-four minutes. The boats' war patrol reports beside the Imperial Navy's summary of
 the night, on one GMT clock.
 
 ## Outcome

@@ -38,8 +38,7 @@ Allied communiqués, and the attackers' side: the German Naval Staff's war diary
 communiqués.
 
 Context, not participation: the records show the battery firing on these evenings, not what it hit. The German units
-are not yet identified (the war diary gives numbers only). The research behind this is in the family repository's
-leads L39, L40 and L45.
+are not yet identified (the war diary gives numbers only).
 
 ## Outcome
 
@@ -81,7 +80,7 @@ miles away at 12,000 [[cite:tna:AIR 27/1027/37/p2]]. Battery C "fired on hostile
 [[cite:rg64-427182819/p0519]]. The squadron's summary has the enemy aircraft, "taking evasive action from A.A.", turn
 south about two miles west of Algiers; the Beaufighter closed, gave a two-second burst, and the Ju 88 "blew up and
 fell into the sea" [[cite:tna:AIR 27/1027/37/p3]]. The mark is where it turned, not where it fell. The record names
-no battery: whose fire it was evading, and whether the two records' times are on one clock, stay open (the working).
+no battery: whose fire it was evading, and whether the two records' times are on one clock, stay open (see Questions and sources).
 The German war diary has thirty bombers over Algiers that night, hitting the harbour, with no units or losses
 [[cite:skl:45/p152]]. The next day's communiqué claimed at least three destroyed by the anti-aircraft guns and the
 night fighters [[cite:gallica:bpt6k7587045k]]; L'Écho d'Alger called the D.C.A.'s reaction "très violente et
@@ -121,7 +120,7 @@ the harbour, the target the German and Italian reports name.
 ## Clocks
 
 Times are as written. Neither the battery's reports nor the squadron's record book gives a time zone, so a 2050 in
-one and a 2050 in the other may not be the same minute (the working's open questions). Entries whose time isn't
+one and a 2050 in the other may not be the same minute (one of the open questions under Questions and sources). Entries whose time isn't
 recorded are placed by the order of the account and say so. The records show the battery firing on these evenings,
 not what it hit. Every mark on the map and every entry links to the page it was read from; anything placed by
 assumption is hatched or dashed and says so.
@@ -145,15 +144,7 @@ Map Service's [Alger and vicinity, sheet 3 of 7 (1942)](https://maps.princeton.e
 Silhouettes are drawn to show the type, not to scale or at a recorded heading. Data: this folder (every entry,
 position and claim, each citing its page).
 
-The folder's files, for anyone reading the records themselves:
-
-`events.yml`: every dated entry from either side, with the record's words in quotes. `placed` = `seq` when the
-time isn't recorded and the row is placed by the order of the account. An entry's `step` names the step of the
-story below it belongs to; the front matter's `steps` and `views` frame each step on the map.
-
-`positions.csv`: the battery, the airfield, the harbour, and where the night fighters' kills are reported, as
-direction and distance from the city (`from`, `brg`, `nm`), which a page resolves. Statute miles converted to
-nautical; the distances are the records' round figures.
-
-`claims.yml`: the questions the records leave open (whose fire the Ju 88 was evading on 12 May; whether the times
-are on one clock; how many raiders were lost on 4 June; which German units flew).
+The night fighters' kills are placed as the record book gives them, by direction and distance from the city; statute
+miles are converted to nautical, and the distances are the records' round figures. The questions the records leave
+open: whose fire the Ju 88 was evading on 12 May; whether the times are on one clock; how many raiders were lost on
+4 June; which German units flew.

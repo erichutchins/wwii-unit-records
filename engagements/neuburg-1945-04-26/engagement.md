@@ -128,12 +128,13 @@ Three B-26s of the 17th Bomb Group were lost to enemy aircraft over Neuburg betw
 [[cite:rg92-91150796/p02]] [[cite:rg92-91150835/p02]]; a published account adds a fourth that crash-landed. The 106th
 AAA AW Battalion's history has its Batteries C and D engaging six Me 262s from 1145B to 1147B "without result"
 [[cite:ok45th-17560/p06]]; the 189th Field Artillery Battalion's, watching from Bergen, has four jets, three bombers shot
-down and "one of the German aircraft was downed" [[cite:ok45th-14862/p10]]. Galland's jet was hit by a P-47 of the
-escort and crash-landed at Riem, his last mission of the war [[cite:galland-1953/n387]]; whose fire, if any, brought down
+down and "one of the German aircraft was downed" [[cite:ok45th-14862/p10]]. Galland's jet was hit by a fighter of the
+escort (he took it for a Mustang) and he landed it at Riem under attack, his last mission of the war
+[[cite:galland-1953/n387]]; the fighter was a P-47 by Kaplan's account, not yet checked against the fighter
+group's record; whose fire, if any, brought down
 a second, no record read says.
 
 ## Sources
 
-The folder's files, for anyone reading the records themselves:
-
-`claims.yml` uses one more `weight`, `secondary`: a published account, not yet checked against the record it draws on.
+Under Questions and sources, an answer marked *secondary* rests on a published account not yet checked against the
+record it draws on.

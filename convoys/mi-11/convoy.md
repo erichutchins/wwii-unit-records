@@ -8,10 +8,10 @@ via: []
 sailed: 1944-07-29
 arrived: ""
 size: 16
-cargo: "Army units and other transport (陸軍部隊其ノ他輸送), as the Navy's monthly summary puts it"
+cargo: "Army units and other transport (陸軍部隊其ノ他輸送), as the Imperial Navy's monthly summary puts it"
 attacked_by: [ss-364-hammerhead/1, ss-384-parche/2, ss-280-steelhead/6]
 sources:
-  - jacar:C16120659800 p9      # the Navy's July 1944 summary, 31st: the 16-ship convoy (6 escorts) from Takao on the 29th, attacked from about 0330; ships sunk and damaged
+  - jacar:C16120659800 p9      # the Imperial Navy's July 1944 summary, 31st: the 16-ship convoy (6 escorts) from Takao on the 29th, attacked from about 0330; ships sunk and damaged
   - jacar:C08030141100 p15     # 1st Surface Escort war diary, July 1944, chart 麾下艦船部隊ノ行動 (其ノ一): the escorts' row names
   - jacar:C08030141100 p16     # the same chart, days 10-22: (ミ一一) with Shiokaze and Shimushu from the 13th, to Takao on the 21st
   - jacar:C08030141100 p17     # the same chart, days 20-31: Shimushu and Kazan Maru sail from Takao with (ミ一一) at 0500 on the 29th
@@ -101,7 +101,7 @@ ships:
     page: p9
     basis: reported
     note: >-
-      Written 吉野丸, first of the four sunk in the Navy's July summary; no time or position given there. 8990 tons in
+      Written 吉野丸, first of the four sunk in the Imperial Navy's July summary; no time or position given there. 8990 tons in
       the 1st Surface Escort's July loss list (C08030141100 p27)
     sil: cargo
   - ship: Manko Maru
@@ -110,7 +110,7 @@ ships:
     source: jacar:C16120659800
     page: p9
     basis: reported
-    note: Written 萬光丸 in the Navy's July summary; 万光丸 (4471 tons) in the 1st Surface Escort's July loss list (C08030141100 p27)
+    note: Written 萬光丸 in the Imperial Navy's July summary; 万光丸 (4471 tons) in the 1st Surface Escort's July loss list (C08030141100 p27)
     sil: cargo
   - ship: Fuso Maru
     role: merchant
@@ -118,7 +118,7 @@ ships:
     source: jacar:C16120659800
     page: p9
     basis: reported
-    note: Written 扶桑丸 in the Navy's July summary; 81?5 tons (the third figure not certain) in the 1st Surface Escort's July loss list (C08030141100 p27)
+    note: Written 扶桑丸 in the Imperial Navy's July summary; 81?5 tons (the third figure not certain) in the 1st Surface Escort's July loss list (C08030141100 p27)
     sil: cargo
   - ship: Koei Maru
     role: merchant
@@ -139,7 +139,7 @@ ships:
     page: p9
     basis: reported
     note: >-
-      Written 第一小倉丸, under 被雷損傷 (torpedoed, damaged) in the Navy's July summary; 小破 (slightly damaged) in the 1st
+      Written 第一小倉丸, under 被雷損傷 (torpedoed, damaged) in the Imperial Navy's July summary; 小破 (slightly damaged) in the 1st
       Surface Escort's July loss list (C08030141100 p27). Its August chart (C08030141400 p19) has Kazan Maru escorting
       her, "the torpedoed ship", to shelter at Santa Cruz and on to Corregidor, so she stayed afloat
     sil: tanker
@@ -151,7 +151,7 @@ ships:
     page: p9
     basis: reported
     note: >-
-      Written ダカア丸, under 被雷損傷 (torpedoed, damaged) in the Navy's July summary; だかあ丸, 小破 (slightly damaged), in
+      Written ダカア丸, under 被雷損傷 (torpedoed, damaged) in the Imperial Navy's July summary; だかあ丸, 小破 (slightly damaged), in
       the 1st Surface Escort's July loss list (C08030141100 p27). JANAC has her sunk; both Japanese lists have her
       damaged. The 21st Minesweeper Division's August diary (C08030211100 p3) settles it for 2 August: Minesweeper 39
       reached her "drifting position" (漂流位置) at 1320 and saw her, with Fukuju Maru (福寿丸), in to the anchorage at
@@ -161,7 +161,7 @@ ships:
 ---
 
 Takao to Manila, sailing at 0500 on 29 July 1944 with sixteen ships and six escorts. The ships carried Army units
-and other transport (the Navy's monthly summary for July, p9). From about 0330 on the 31st (Tokyo time) submarines
+and other transport (the Imperial Navy's monthly summary for July, p9). From about 0330 on the 31st (Tokyo time) submarines
 attacked one after another; the summary gives no position. Four ships were sunk
 (Yoshino, Manko, Fuso and Koei Maru: the fourth name is cursive on the July page and written plainly 光栄丸 in
 the 2nd Demobilization Bureau's copy of the summary, p33) and two were torpedoed and damaged (No. 1 Ogura
@@ -183,7 +183,7 @@ convoy on from Manila to Miri about 7-12 August (the August chart, pp. 19-20).
 
 **Searched and not found** (5 Nov 2026): the six ships' names in the JACAR catalogue; the 4th Shipping Transport
 Command's Manila branch diaries, which on JACAR end in December 1943; the 31st Special Base Force's diary for July
-(the file holds September 1944 onward); No. 1 Ogura Maru or Dakar Maru in the Navy's August summary (C16120659900,
+(the file holds September 1944 onward); No. 1 Ogura Maru or Dakar Maru in the Imperial Navy's August summary (C16120659900,
 a first read).
 
 The 1st Surface Escort's own tables (July diary p27, August diary p19) add: the convoy met submarines twice in July

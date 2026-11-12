@@ -8,7 +8,7 @@ area: [-10, 30, 20, 47]    # west, south, east, north
 area_precision: region
 ref: [howe-nwa/13/p229, garland-smyth/1/p1]
 note: >-
-  Open end: the theater's war went on to May 1945; entered here so far to July 1944. Starts with the Torch landings
+  Open end: the theatre's war went on to May 1945; entered here so far to July 1944. Starts with the Torch landings
   of 8 November 1942 (p229).
 ---
 

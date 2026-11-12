@@ -1,6 +1,6 @@
 ---
 title: Convoy TE-04, 3–4 May 1944
-short: 3–4 May 1944
+short: TE-04 · 3–4 May 1944
 eyebrow: Luzon Strait · Coordinated attack group, Capt. G. E. Peterson
 theater: pacific
 window: {from: 1944-05-02T21:00Z, to: 1944-05-04T02:00Z}
@@ -77,12 +77,12 @@ reason.
 ## Clocks
 
 BANG kept zone K (−10) and PARCHE zone I (−9); TINOSA kept zone H (−8) on station. Japanese records use Tokyo time
-(I, −9). On 29–30 April the target ship's own log and BANG's attack sheets agree to within one to seven minutes once
-both are in GMT.
+(I, −9).
 
 ## Sources
 
-War patrol reports, NARA microfilm M1752 (BANG 74802746, PARCHE 74828582, TINOSA 74856363). Nittatsu Maru's movement
-log and the 1st Surface Escort Division war diary via JACAR (National Institute for Defense Studies). Convoy lists
-and the 3–4 May sinking times from combinedfleet.com, a secondary source, flagged where used. Coastline: Natural
+War patrol reports, NARA microfilm M1752 (BANG 74802746, PARCHE 74828582, TINOSA 74856363). The sunk ships'
+own movement tables (Shoryu, Taiyoku, Kinrei and Toyohi Maru) and the 1st Surface Escort Division war diary via JACAR
+(National Institute for Defense Studies). Convoy lists and some sinking times from combinedfleet.com, a secondary
+source, flagged where used. Coastline: Natural
 Earth.

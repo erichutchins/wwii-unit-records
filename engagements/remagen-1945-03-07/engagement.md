@@ -1,6 +1,6 @@
 ---
 title: The Remagen bridge, 7-17 March 1945
-short: Remagen · 7-17 March 1945
+short: Remagen · 7–17 March 1945
 eyebrow: III Corps' after action report
 theater: europe
 clock: A
@@ -55,20 +55,20 @@ identifications (Stukas on 8 March, "ME-262s" on 14 March).
 
 ## The clock
 
-The report's times carry the letter A (UTC+1), as in "1550A". The engineer journal's entries (pdf 122) are typed
+The report's times carry the letter A (UTC+1), as in "1550A". The engineer journal's entries (scan p. 122) are typed
 without a letter ("171505 Mar"); they are taken as A, the report's own time, and say so.
 
 ## Reading the map
 
-The bridge is placed at the G-2 report's reference "F6520" (pdf 72), decoded on the Nord de Guerre grid
+The bridge is placed at the G-2 report's reference "F6520" (scan p. 72), decoded on the Nord de Guerre grid
 (`tools/ndg_grid.py`): a four-figure reference names a 1 km square, and the point is its south-west corner;
 OpenStreetMap's bridge lies about 250 m north-east of it, inside the square. Remagen and Erpel are drawn at their
-centres (OpenStreetMap), and the heavy ponton bridge at the narrative's "wF673186" (pdf 38), decoded the same way.
+centres (OpenStreetMap), and the heavy ponton bridge at the narrative's "wF673186" (scan p. 38), decoded the same way.
 
 Under them, the front and the divisions are the 12th Army Group's situation maps for 1200 on each day from 7 to 17
 March, traced [[cite:loc-12ag/ict21276]]: the army group's own units and its intelligence picture of the Germans',
-each symbol in its unit's area, not at a position (`fronts/README.md`); the account shows the first, and the records
-depth steps through them. At noon on the 7th the map draws the front's point about 8 km short of the Rhine, near
+each symbol in its unit's area, not at a position (`fronts/README.md`); the page opens on the first, and the steps of the
+story move through them. At noon on the 7th the map draws the front's point about 8 km short of the Rhine, near
 Lantershofen, where the 60th Armored Infantry Battalion's task force had closed in at 0205
 [[cite:eucmh60aib/1945-03]]; the bridge was taken that afternoon, so that map shows the morning, not the crossing.
 From the 9th the maps draw the bridgehead, and from the 11th they list the German divisions facing it, which the page
@@ -77,14 +77,12 @@ day shown.
 
 ## Sources and what's missing
 
-The narrative's pages for 17-19 March are not in the scan (printed -41- onward; pdf 48 is a map and 49 a photograph),
+The narrative's pages for 17-19 March are not in the scan (printed -41- onward; p. 48 of the scan is a map and p. 49 a photograph),
 so 17 March here is the G-2 section's and the engineer journal's. Still to find: the 9th Armored Division's, CC B's,
 the 27th Armored Infantry Battalion's and the 14th Tank Battalion's own reports, and the antiaircraft battalions' and
 groups' reports (claims by unit), all in NARA RG 407 and not online; and the German side: the Luftwaffe's loss
 returns, the Wehrmachtbericht for these days, and the V-2 battery's firings. The German units on the ground are so far
-only as the US records identified them from prisoners: the Corps' G-2 report (pdf 74, 77) and the 60th Armored Infantry
+only as the US records identified them from prisoners: the Corps' G-2 report (scan pp. 74, 77) and the 60th Armored Infantry
 Battalion's report for 14 March. No German record is entered yet.
 
-The folder's files, for anyone reading the records themselves:
-
-Every entry cites its PDF page in `ref`, with the printed page in its note.
+Every entry cites the page of the scan (the PDF's page), with the printed page number in its note.

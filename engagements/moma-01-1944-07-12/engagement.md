@@ -1,6 +1,6 @@
 ---
 title: Convoy MOMA-01, 12 July 1944
-short: 12 July 1944
+short: MOMA-01 · 12 July 1944
 eyebrow: East of Luzon · GUARDFISH's pack, Capt. W. V. O'Regan in GUARDFISH
 theater: pacific
 window: {from: 1944-07-11T12:00Z, to: 1944-07-12T01:00Z}
@@ -42,7 +42,7 @@ its escort. The boats' war patrol reports beside the escort division's record, o
 ## Outcome
 
 One ship sunk, Nichiran Maru, an Army transport of 6,503 tons: the escort division's chart marks her at 0745 on the
-12th at N18-?9 E122-?0, the Navy's summary at 0935 (or 0735). No damage is recorded for APOGON's hour or for the ship
+12th at N18-?9 E122-?0, the Imperial Navy's summary at 0935 (or 0735). No damage is recorded for APOGON's hour or for the ship
 that rammed her. PIRANHA's attack is paired as a hit, APOGON's as no loss.
 
 ## The convoy
@@ -64,5 +64,5 @@ APOGON kept zone I (−9), the same as the Japanese records; PIRANHA zone G (−
 ## Sources
 
 War patrol reports, NARA microfilm M1752 (APOGON 74801303, PIRANHA 74832061, GUARDFISH 74819308, THRESHER
-74855459). The 1st Surface Escort Division's July 1944 war diary and the Navy's July summary via JACAR (National
+74855459). The 1st Surface Escort Division's July 1944 war diary and the Imperial Navy's July summary via JACAR (National
 Institute for Defense Studies). JANAC (1947), a postwar list. Coastline: Natural Earth.

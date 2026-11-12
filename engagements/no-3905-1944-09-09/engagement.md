@@ -1,6 +1,6 @@
 ---
 title: Convoy No. 3905, 9 September 1944
-short: 9 September 1944
+short: No. 3905 · 9 September 1944
 eyebrow: South of Honshu and east of Formosa · BANG's third war patrol
 theater: pacific
 window: {from: 1944-09-09T01:00Z, to: 1944-09-09T12:00Z}

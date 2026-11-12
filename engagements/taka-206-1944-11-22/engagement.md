@@ -1,6 +1,6 @@
 ---
 title: Convoy TAKA-206, 22–23 November 1944
-short: 22–23 November 1944
+short: TAKA-206 · 22–23 November 1944
 eyebrow: East of Formosa · Coordinated attack group "Sandy's Sluggers", Cdr L. D. McGregor in REDFISH
 theater: pacific
 window: {from: 1944-11-22T10:00Z, to: 1944-11-23T00:00Z}

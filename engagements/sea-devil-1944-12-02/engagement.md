@@ -1,6 +1,6 @@
 ---
 title: A convoy north-west of Amami-Ōshima, 2 December 1944
-short: 2 December 1944
+short: Amami-Ōshima · 2 December 1944
 eyebrow: The East China Sea · SEA DEVIL's second war patrol
 theater: pacific
 window: {from: 1944-12-01T14:00Z, to: 1944-12-02T01:00Z}
@@ -17,7 +17,7 @@ participants:
     of: jp
     kind: convoy
     basis: inferred
-    note: 'as SEA DEVIL saw it, at least seven ships with four or more escorts, course 230 at 8 knots; the Navy summary names one ship of it, Hawaii Maru, bound from Moji for Takao, and CD-66 as an escort. Secondary sources call it MI-29, which no record read here names'
+    note: 'as SEA DEVIL saw it, at least seven ships with four or more escorts, course 230 at 8 knots; the Imperial Navy''s summary names one ship of it, Hawaii Maru, bound from Moji for Takao, and CD-66 as an escort. Secondary sources call it MI-29, which no record read here names'
 places:
   - name: Kyushu
     lon: 130.8
@@ -37,7 +37,7 @@ places:
 ---
 
 SEA DEVIL's three attacks on a southbound convoy in the early hours of 2 December 1944, as typed on her attack
-sheets, beside the Navy's summary of the night: the army transport Hawaii Maru, with 3,648 troops aboard, torpedoed
+sheets, beside the Imperial Navy's summary of the night: the army transport Hawaii Maru, with 3,648 troops aboard, torpedoed
 and sunk at 0430.
 
 ## Outcome
@@ -66,7 +66,7 @@ typed.
 ## What is missing
 
 The convoy's own record: the 1st Surface Escort Division's diary has no December 1944 part on JACAR, and no CD-66
-record of December was found. Hawaii Maru was army-requisitioned, so she is not in the Navy's ship tables.
+record of December was found. Hawaii Maru was army-requisitioned, so she is not in the Imperial Navy's ship tables.
 
 ## Sources
 

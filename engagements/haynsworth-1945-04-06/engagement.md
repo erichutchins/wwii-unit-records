@@ -52,9 +52,8 @@ The kamikaze hit on USS Haynsworth, on picket station 12 miles from Task Group 5
 first day of Japan's mass kamikaze offensive. Her own reports beside the other ships of the group and
 the Japanese records of the planes sent against them.
 
-The ship's track for April 1945 is in [`ships/dd-700-haynsworth/`](../../ships/dd-700-haynsworth/README.md). The crew
-lists stay out of these records (see the kit's rules on people); the casualty count and the Report of Casualties page
-are cited instead.
+The ship's track for April 1945 is on [her own page](subject.html?s=haynsworth). No crew list is given here; the
+casualty count and the Report of Casualties page are cited instead.
 
 ## Outcome
 
@@ -130,7 +129,7 @@ steps is where she was ordered to be, 12 miles 060° from the formation's centre
 of the water, and the Judy flattened out and headed away. Haynsworth opened fire at 1,500 yards; the Judy turned to
 starboard, winged over and came back. Its bomb fell 1,000 yards abeam. The plane struck at the twin 40 mm mount 41,
 abaft the bridge, at 1250 ([action report, p. 3](https://catalog.archives.gov/id/140065945?objectPage=3); [war diary,
-p. 3](https://catalog.archives.gov/id/633422068?objectPage=3)). The working's panels follow the report step by step,
+p. 3](https://catalog.archives.gov/id/633422068?objectPage=3)). The panels beside the map follow the report step by step,
 and draw the plane beside the ship to scale.
 
 ## Fire
@@ -224,20 +223,14 @@ operations record [[cite:jacar:C16120697000]]; the 210th Air Group's action repo
 and results table [[cite:jacar:C13120384700]]. Told later: Irons, *Phalanx Against the Divine Wind* (Merriam Press,
 2017) [[cite:irons]], for the crew's accounts and the burial.
 
-Recognition plates, for the silhouettes and the working's drawings: ONI 54-D, 54-CV, 54-R and 54-C (via
+Recognition plates, for the silhouettes and the drawings: ONI 54-D, 54-CV, 54-R and 54-C (via
 coatneyhistory.com); JUDY 33 from TAIC's plate, CINCPAC-CINCPOA Bulletin 105-45, July 1945 (HyperWar; NHHC); the F4U
 from FM 30-30, April 1943 (Internet Archive); each cited on its shape in `silhouettes/silhouettes.yml`. The frames
 of the damage profile: the Sumner class booklet of general plans (1968) and the DD 692 class general arrangement
 (1947), BuShips plans DD692-S-01030-1 and DD692-S0101-601245. Data: this folder (every entry, position and claim,
 each citing its page) and the ship's April 1945 track in `ships/dd-700-haynsworth/`.
 
-The folder's files, for anyone reading the records themselves:
-
-`events.yml`: every timed entry, US and Japanese, in Item time. An entry's `step` names the step of the story
-below it belongs to; the front matter's `steps` and `views` frame each step on the map.
-
-`positions.csv`: fixes, and positions given as bearing and distance from another (`from`, `brg`, `nm`).
-`hand-placed` rows are reference points placed on a modern map.
-
-`claims.yml`: the evidence board. Each disputed question (when was she hit, what hit her, who flew it), each answer,
-and what kind of evidence it is.
+Every timed entry, US and Japanese, is given in Item time. Positions are the records' fixes, or a bearing and
+distance from another position where that is what the record gives; reference points are placed on a modern map and
+say so. The disputed questions (when she was hit, what hit her, who flew it) are under Questions and sources, each
+answer with the kind of evidence it rests on.

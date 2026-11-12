@@ -1,6 +1,6 @@
 ---
 title: Convoy HI-67, 29 June 1944
-short: 29 June 1944
+short: HI-67 · 29 June 1944
 eyebrow: Marianas lifeguard and Luzon Strait · BANG's second war patrol, in a pack with SEAHORSE and GROWLER
 theater: pacific
 window: {from: 1944-06-28T18:00Z, to: 1944-06-29T12:00Z}

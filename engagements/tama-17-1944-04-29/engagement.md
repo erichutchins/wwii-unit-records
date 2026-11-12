@@ -1,6 +1,6 @@
 ---
 title: Convoy TAMA-17, 29–30 April 1944
-short: 29–30 April 1944
+short: TAMA-17 · 29–30 April 1944
 eyebrow: Luzon Strait · Coordinated attack group, Capt. G. E. Peterson
 theater: pacific
 window: {from: 1944-04-29T06:00Z, to: 1944-04-30T08:00Z}
@@ -85,5 +85,5 @@ both are in GMT.
 
 War patrol reports, NARA microfilm M1752 (BANG 74802746, PARCHE 74828582, TINOSA 74856363). Nittatsu Maru's movement
 log and the 1st Surface Escort Division war diary via JACAR (National Institute for Defense Studies). Convoy lists
-and the 3–4 May sinking times from combinedfleet.com, a secondary source, flagged where used. Coastline: Natural
+from combinedfleet.com, a secondary source, flagged where used. Coastline: Natural
 Earth.

@@ -77,8 +77,7 @@ Kai-17 was sent to them from astern of the convoy. She ran straight at high spee
 The chart marks her at 1055, at 21-36N 119-58E (the narrative, p10).
 
 GUARDFISH attacked a fast southbound convoy with two carriers at 1822 I that evening, at 20-27N 119-11E. That is
-where a 15-knot convoy bound for Manila would have been. This record has no loss or damage at that hour (Attack 5;
-claims.yml).
+where a 15-knot convoy bound for Manila would have been. This record has no loss or damage at that hour (her Attack 5).
 
 **Not yet found**: the date HI-69 left Moji, its ships' names, whose attack the morning's was, and Shinyo's or
 Kashii's own record of the 18th.

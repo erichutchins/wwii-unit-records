@@ -113,10 +113,10 @@ drawn into (基隆) Keelung for supplies (補給) and on to Moji. Six ships less
 
 The chart's time and position beside the marks are faint: read 「4日 22?9」 N2?-46 E118-?4, low confidence; not
 paired with any one boat's attack. BANG, PARCHE and TINOSA attacked between the evening of the 3rd and the early
-hours of the 4th (engagement `luzon-strait-1944`, which weighs who sank which).
+hours of the 4th (the engagement of 3–4 May, which weighs who sank which).
 
 **Cargo: iron ore for Yawata** per combinedfleet.com (secondary); not in the escort division's record. The escorts
 are combinedfleet's; the April chart's escort cell can't be read with confidence.
 
-The retired battle page listed a sixth ship, "Yulin", from combinedfleet.com; that is the port of departure, not a
+Some lists drawn from combinedfleet.com give a sixth ship, "Yulin"; that is the port of departure, not a
 ship, and is left out. The sixth ship (the survivor) is not named in the record.

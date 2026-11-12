@@ -1,6 +1,6 @@
 ---
 title: A lone tanker, 14 June 1944
-short: 14 June 1944
+short: A lone tanker · 14 June 1944
 eyebrow: Marianas lifeguard and Luzon Strait · BANG's second war patrol, in a pack with SEAHORSE and GROWLER
 theater: pacific
 window: {from: 1944-06-13T17:00Z, to: 1944-06-14T13:00Z}

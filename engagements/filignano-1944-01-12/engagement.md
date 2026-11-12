@@ -23,8 +23,8 @@ Battery G at Filignano, "12 FW 190's, dive bombing ... Two destroyed". Beside th
 of the same day.
 
 Context, not identification: the German army reports don't report the Luftwaffe's sorties or losses, and the Luftwaffe's
-own loss returns have not been seen. The batteries' stations and engagements are also in `../../army/stations.csv` and
-`../../army/actions.csv` (units `67ca-f`, `67ca-g`).
+own loss returns have not been seen. The batteries' stations and engagements are also on their own pages (Batteries F and G,
+67th Coast Artillery (AA)).
 
 ## Outcome
 
@@ -37,13 +37,9 @@ lost [[cite:t314-0543/f0699]]; the Luftwaffe's own loss returns have not been se
 
 ## Sources
 
-The folder's files, for anyone reading the records themselves:
-
-`events.yml`: the batteries' engagements and the German reports of the day, in the records' words.
-
-`positions.csv`: the two batteries' stations (placed at the villages; the gun positions aren't given). The German
-reports' places are points of the January 1944 Bezugspunktkarte, decoded with `tools/bezugspunkt.py` (`basis`
-`derived`; `guides/BEZUGSPUNKTE.md`): the French attack's front from M 46 to C 11, the points lost at noon, Acquafondata
-occupied, and the Allied fighter-bombers' target M 28 (Vallerotonda).
-
-`claims.yml`: whether the batteries' claims are matched by a German loss (none found so far), and which unit flew.
+The batteries' engagements and the German reports of the day are given in the records' words. The two batteries'
+stations are placed at the villages; the gun positions aren't given. The German reports' places are points of the
+January 1944 Bezugspunktkarte, the German Army's reference-point map, and are derived from it, not typed as
+coordinates: the French attack's front from M 46 to C 11, the points lost at noon, Acquafondata occupied, and the
+Allied fighter-bombers' target M 28 (Vallerotonda). Still open: whether the batteries' claims are matched by a German
+loss (none found so far), and which unit flew.

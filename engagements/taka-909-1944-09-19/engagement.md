@@ -1,6 +1,6 @@
 ---
 title: Convoy TAKA-909, 19 September 1944
-short: 19 September 1944
+short: TAKA-909 · 19 September 1944
 eyebrow: South of Honshu and east of Formosa · BANG's third war patrol
 theater: pacific
 window: {from: 1944-09-18T18:00Z, to: 1944-09-19T05:00Z}

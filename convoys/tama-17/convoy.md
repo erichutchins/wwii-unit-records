@@ -53,7 +53,7 @@ ships:
     basis: reported
     note: >-
       救助擔任船トシテ武豊丸ト共ニ指定 (designated rescue ship together with Taketoyo Maru), Nittatsu Maru's log. Not in
-      combinedfleet.com's list of the convoy (engagement luzon-strait-1944)
+      combinedfleet.com's list of the convoy
     sil: cargo
   - ship: Harukaze
     role: escort
@@ -154,11 +154,11 @@ ships:
 Takao to Manila, sailed 1300 on 28 April 1944 (the escort division's table). Only one ship's cargo is
 recorded: Nittatsu Maru loaded 250 t of coal at Takao to be landed at Manila (her master's log, p23). The
 other ships' cargoes and the convoy's arrival are not in the records read.
-BANG attacked it on 29–30 April; PARCHE and TINOSA were in the same fight against two convoys (engagement `luzon-strait-1944`, which says which boat attacked which).
+BANG attacked it on 29–30 April; PARCHE and TINOSA were in the same action (the engagement of 29–30 April, which says which boat attacked which).
 
-The retired battle page listed thirteen merchant ships from combinedfleet.com. Ten are on combinedfleet's page for
+Lists of the convoy drawn from combinedfleet.com give thirteen merchant ships. Eleven are on combinedfleet's page for
 Nittatsu Maru (28 April: Kennichi, Kurogane, Belgium, Peking, Shiroganesan, Takegawa, Tsushima, San Luis, Wales,
 Yamahagi and Shirotae Maru, escorted by Harukaze, W-17 and the auxiliary gunboat Chohakusan Maru; Asakaze joined on
-the 29th), and are in `ships:` as secondary. Its Nissan Maru, and the Yashima and Hakka Maru that "other lists add",
-are on no page found, so they are left out. combinedfleet's Chohakusan Maru is the escort division table's Chojusan
+the 29th). Takegawa Maru is also in the Japanese record; the other ten are listed here as secondary. Nissan Maru, and
+the Yashima and Hakka Maru that "other lists add", are on no page found, so they are left out. combinedfleet's Chohakusan Maru is the escort division table's Chojusan
 Maru (as read).

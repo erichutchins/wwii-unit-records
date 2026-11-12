@@ -14,7 +14,7 @@ sources:
   - jacar:C08030141100 p33     # 1st Surface Escort war diary, July 1944, chart 別表第七 (Philippines north route): タマ21C, 20 ships, escorts, the attack span and the six sunk
   - jacar:C08030141100 p10     # the same diary's narrative (ハ): Seattle Maru sunk the morning of the 16th; five more before dawn on the 17th
   - jacar:C08030141100 p27     # the same diary's July loss list, with gross tons
-  - jacar:C16120659800 p5      # the Navy's July 1944 summary, the 16th: the Takao-Manila convoy (8 escorts, 21 transports), Seattle Maru at 1030, one more at midnight
+  - jacar:C16120659800 p5      # the Imperial Navy's July 1944 summary, the 16th: the Takao-Manila convoy (8 escorts, 21 transports), Seattle Maru at 1030, one more at midnight
 route: [takao, w-bashi, w-luzw, w-bataan, w-corr, manila]   # through reference/lanes/lanes.yml; assumed waypoints are drawn dotted
 voyage:                     # stops and known points, Tokyo time (I), each cited
   - {at: 1944-07-14, place: takao, event: sailed, words: "the chart: タマ21C's line leaves 高雄 on the 14th (read from the day columns)", source: jacar:C08030141100 p33, basis: reported, approx: true}

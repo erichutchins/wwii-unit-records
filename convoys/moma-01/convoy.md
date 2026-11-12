@@ -12,7 +12,7 @@ cargo: "Nichiran Maru carried Army troops (陸軍部隊輸送); the rest not rec
 attacked_by: [ss-308-apogon/4, ss-389-piranha/1]
 sources:
   - jacar:C08030141100 p33     # 1st Surface Escort war diary, July 1944, chart 別表第七 (Philippines north route): the line headed モマ01, Takao the 9th to Manila about the 15th; Nichiran Maru sunk 12th 0745
-  - jacar:C16120659800 p5      # the Navy's July 1944 summary, the 12th: Nichiran Maru (Army-requisitioned, 6503 t, Army troops) torpedoed and sunk, 0935
+  - jacar:C16120659800 p5      # the Imperial Navy's July 1944 summary, the 12th: Nichiran Maru (Army-requisitioned, 6503 t, Army troops) torpedoed and sunk, 0935
 route: []   # the chart draws no track; the attacks were east of northern Luzon (APOGON 19-11N 122-38E, PIRANHA 18-33N 122-53E), off the lanes in reference/lanes/lanes.yml
 voyage:                     # stops and known points, Tokyo time (I), each cited
   - {at: 1944-07-09, place: takao, event: sailed, words: "the chart: the line headed モマ01 leaves 高雄 on the 9th (read from the day columns)", source: jacar:C08030141100 p33, basis: reported, approx: true}
@@ -35,7 +35,7 @@ MOMA-01 is a line on the 1st Surface Escort Division's July 1944 chart of the Ph
 headed モマ01: it leaves Takao on the 9th and reaches Manila about the 15th. Its escort and ship-count cells are
 blank. ("モマ" reads as Moji–Manila by the division's naming, モ for 門司 and マ for マニラ (inferred); the chart shows
 only its Takao–Manila leg.) Its one mark is Nichiran Maru, an Army transport carrying troops, sunk at 0745 on the 12th
-at 18-?9N 122-?0E (the second figures of the minutes are lost in the binding); the Navy's summary times her loss at
+at 18-?9N 122-?0E (the second figures of the minutes are lost in the binding); the Imperial Navy's summary times her loss at
 0935, north-west of Luzon as written ("N西方"), though the boats' positions put the convoy east of northern Luzon.
 
 APOGON attacked it at 0304 I on the 12th at 19-11N 122-38E (three hits heard, then rammed by one of the convoy), and

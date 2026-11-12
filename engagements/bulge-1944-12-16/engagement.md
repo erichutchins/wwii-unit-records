@@ -1,6 +1,6 @@
 ---
 title: The Bulge, the Sauer and Sibret, 16 December 1944 - 3 January 1945
-short: The Bulge · 16 Dec 1944 - 3 Jan 1945
+short: The Bulge · 16 Dec 1944 – 3 Jan 1945
 eyebrow: The 60th Armored Infantry Battalion's after action reports
 theater: europe
 clock: A
