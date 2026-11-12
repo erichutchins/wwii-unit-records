@@ -1,0 +1,64 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed: courses degrees (T), speeds kts, ranges yds, drafts ft; interval in seconds since the
+# torpedo before, as typed (0, 10). Power typed "- - -" (Attack 1) and "- -" (Attack 2), kept. Attack 2's own speed
+# and depth are typed as ranges ("12 to 6", "38 to 130"): she fired them diving.
+
+- attack: Attack 1
+  type_attack: >-
+    Night surface attack against task force. Density of the screen effectively prevented penetration. Visibility
+    ruled out a submerged attack. Fired 3 bow tubes on radar ranges and bearings for two correctly timed hits. The
+    next destroyer astern turned toward, spoiling the set-up for the remainder of the bow nest. See Attack No. 2 for
+    continuation with the stern tubes.
+  description: >-
+    Task Force of 2 large ships and 6 small ones by radar. Sighted one large aircraft carrier (SHOKAKU Class (EU))
+    and 2 destroyers (TERUTSUKI Class 1 (EC) and 1 (EU)). The two large ships were in line abreast with an
+    estimated 3 destroyers in column 3,000 yards on each flank. The last quarter moon was obscured by clouds and
+    intermittent rain squalls. Target not seen until just before firing.
+  sunk: None.
+  damaged: One fleet type destroyer, TERUTSUKI Class (EC).
+  determined_by: Heard two correctly timed hits. Heard loud and definite breaking up noises for four minutes.
+  target_line: 'Target Draft 9'' Course 020 Speed 18 Range 3,700 (at firing)'
+  own_ship: 'Speed 10 Course 280 Depth Surface Angle 0° (at firing).'
+  spread: 3/4° divergent from aft forward
+  sea: 4 across
+  overhaul: PHTH
+  remarks: 'Torpedo speed corrected for: Temperature. Length of run. Depth. All tubes fired with 150 lb.s impulse.'
+  page: rg367-74832413/p26
+  table_page: rg367-74832413/p27
+  note: >-
+    The narrative (p11-p12): 0125 "It is now evident that the screen has the big targets boxed in too tightly for
+    us to squeeze through ... Decided our best chance lies in a divided bow nest salvo at the two leading destroyers
+    and a stern nest salvo at the big boy during the ensuing confusion"; 0128 fired #1, #2 and #3 at the leading
+    destroyer; 0129 "The big boy popped out of the rain squall. He was a large carrier with island superstructure";
+    0131 "Heard two hits in the leading destroyer while diving". At 0030 she had "Heard three explosions below
+    decks, which sounded like torpedo hits. Later information established these as hits from the SEA DEVIL's
+    attack" (p11)
+- attack: Attack 2
+  type_attack: >-
+    This attack was actually a continuation of Torpedo Attack Number One. When the second destroyer turned toward
+    us, shifted the set-up from that one with bow tubes to the third one in line with stern tubes. Commenced firing
+    about 30 seconds after the diving alarm sounded while avoiding what looked like an attempt to ram. The first
+    shot went out on a radar range and bearing. The next three were fired on generated bearings.
+  description: See Torpedo Attack Number One, Patrol Number Three.
+  sunk: None.
+  damaged: >-
+    One fleet type destroyer (UN). Gave the same strength radar echo as two TERUTSUKI class destroyers directly
+    ahead of him.
+  determined_by: >-
+    Heard two correctly timed hits. Heard breaking up noises after the breaking up noises from attack number one had
+    ceased, and on a different bearing.
+  target_line: 'Target Draft 9'' Course 010 Speed 18 Range 2,000 (at firing)'
+  own_ship: 'Speed 12 to 6 Course 280 Depth 38 to 130 Angle 0 to 5° down (at firing)'
+  spread: 3/4° divergent aft to forward
+  sea: 4 across
+  overhaul: PHTH
+  remarks: 'Torpedo speed corrected for: Temperature. Length of run. Depth. All tubes fired with 250 lbs. impulse.'
+  page: rg367-74832413/p28
+  table_page: rg367-74832413/p29
+  note: >-
+    The narrative (p12-p13): 0131 fired #7-#10 at the third destroyer, "still hidden in the rain squall", the first
+    at keel depth 38 ft and the fourth at 130 ft; 0133 "Heard two hits"; 0135-0202 depth charges; 0205 breaking up
+    noises "loud enough to come through the hull" for three minutes; 0211 a depth charge at 2,000-3,000 yards and a
+    new set of breaking up noises on a different bearing, "definitely further away"; 0229 one distant explosion

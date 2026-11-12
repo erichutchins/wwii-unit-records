@@ -491,6 +491,26 @@
   ]
  },
  {
+  "key": "ss-390-plaice",
+  "alias": "plaice",
+  "name": "PLAICE",
+  "hull": "SS-390",
+  "class": "Balao",
+  "silhouette": "balao",
+  "kind": "submarine",
+  "plain": "a fleet submarine of the Balao class, on her third war patrol, in the East China Sea, who attacked the screen of the carrier Junyō the same night as SEA DEVIL and REDFISH",
+  "max_kts": 20.5,
+  "dives": false,
+  "geojson": "boats/ss-390-plaice/tracks.geojson",
+  "periods": [
+   {
+    "n": 3,
+    "name": "Third War Patrol",
+    "dates": "9 Nov 1944 – 20 Dec 1944"
+   }
+  ]
+ },
+ {
   "key": "ss-393-queenfish",
   "alias": "queenfish",
   "name": "QUEENFISH",

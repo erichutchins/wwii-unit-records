@@ -1,0 +1,24 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# The night of 8-9 December 1944: three boats on the carrier Junyō's force (SEA DEVIL at 0028 I, PLAICE at 0128 and
+# 0131 I, REDFISH at 0156 and 0320 I). The summary has Junyō two hits at 0130 I and Maki one hit in the bow at 0200
+# (the day inferred). Which boat made which hits it does not say; the pairings are possible, with the reasons.
+- attack: Attack 1
+  record: J02
+  relation: possible
+  note: >-
+    PLAICE heard two hits in the leading destroyer at 0131 I and breaking-up noises for four minutes. The summary
+    has Maki hit once in the bow at 0200 (J02, its day inferred), about 20 nm from PLAICE's position; Maki reached
+    Nagasaki, so did not sink. The time is half an hour after the hits and the count one against two
+- attack: Attack 1
+  record: J01
+  relation: possible
+  note: >-
+    Junyō's two hits are timed 0130 I (J01), between PLAICE's firing at 0128 and the hits she heard at 0131; she saw
+    the carrier at 0129, just after firing at the leading destroyer. SEA DEVIL's two hits (0031:40 and 0031:55 I,
+    which PLAICE heard at 0030) came an hour before the summary's time; REDFISH's (0156 I) 26 minutes after
+- attack: Attack 2
+  record: J01
+  relation: possible
+  note: >-
+    Two hits heard at 0133 I, on what PLAICE took for the third destroyer, hidden in a rain squall: Junyō was in the
+    same formation (J01, two hits at 0130). Possible only: PLAICE's target was not seen

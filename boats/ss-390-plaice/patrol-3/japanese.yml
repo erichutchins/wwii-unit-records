@@ -1,0 +1,38 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# From the Navy's day-by-day summary of escort and anti-submarine events for December 1944 (jacar:C16120660300),
+# read 11 Nov 2026. J01 is the reading SEA DEVIL's Patrol 2 (J03) and REDFISH's Patrol 2 (J10) use: one record,
+# counted once. Not yet searched: Maki's and Junyō's own records (none found on JACAR by name), the 21st Destroyer
+# Division's December diary.
+- id: J01
+  source: jacar:C16120660300
+  page: p05
+  ship: Junyo
+  event: torpedoed
+  date: 1944-12-09
+  time: '0130'
+  zone: I
+  original: 馬公ヨリ内地ニ向ケ帰投中ノ隼鷹野母崎南西方約50′ニ於テ敵潜ノ雷撃ヲ受ク ｜ 二本命中セルモ13K片舷航行可能 1000頃佐世保ニ入港
+  translation: >-
+    Junyō, returning from Mako to the home islands, was torpedoed by an enemy submarine about 50 miles south-west of
+    Nomozaki | (Result) two hits, but she could steam at 13 knots on one shaft; entered Sasebo about 1000
+  note: >-
+    Same reading as SEA DEVIL's J03. The time, 0130 I, falls between PLAICE's firing (0128, 0131) and her heard hits
+    (0131 and 0133), which were on what she took for destroyers; she saw the carrier at 0129
+- id: J02
+  source: jacar:C16120660300
+  page: p05
+  ship: Maki
+  event: torpedoed
+  date: 1944-12-09
+  time: '0200'
+  zone: I
+  original: 〇二〇〇 d槇 女島ノ60° 30′ニ於テ艦首ニ1本被雷 ｜ 1000 長崎ニ帰着
+  translation: >-
+    0200: the destroyer Maki, at 60°, 30 miles from Meshima, one torpedo hit in the bow | (Result) back at Nagasaki
+    at 1000
+  note: >-
+    Same page, read at 350 dpi. The day is inferred: the entry follows the block of the 9th (Junyō's 0130 above it)
+    and precedes the block marked 10, in a block of its own with the 1st Escort Fleet's formation, which secondary
+    sources date to 10 December; the summary files some losses by the day they were reported. 60° 30 miles from
+    Meshima (女島, about 32-00N 128-21E) is near 32-15N 128-55E, about 20 nm north-west of PLAICE's sheets
+    (31-57N 129-01E). Maki was a destroyer of the Matsu class, where PLAICE took her targets for TERUTSUKI class

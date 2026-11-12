@@ -111,6 +111,16 @@ boats:
       3: { status: available, nara: [74847730], note: "Feb - Mar 1945" }
       4: { status: mapped, nara: [74847780, 101729538], first_fix: 1945-04-26, last_fix: 1945-06-21, files: [positions, attacks], note: "26 Apr - 21 Jun 1945: Pearl, Saipan (with JACK and BANG), the Yellow Sea, Midway. Transcribed in full (p03-p43): the narrative, the ship contacts (p28), torpedo attacks 1-5 (14 torpedoes) and gun attacks 1-4 (positions from their sheets, p40-p43). 101729538 is the war diaries' copy" }
       5: { status: available, nara: [74847838, 77493414], note: "Aug - Sep 1945 (77493414 is the war diaries' copy)" }
+  SS-390:   # PLAICE, Balao class
+    folder: boats/ss-390-plaice
+    note: "attacked the carrier Junyō's screen on 9 December 1944, the same night as SEA DEVIL and REDFISH, and heard SEA DEVIL's hits"
+    patrols:
+      1: { status: available, nara: [74832293, 78585980], note: "Jun - Jul 1944 (78585980 is the war diaries' copy)" }
+      2: { status: available, nara: [74832357, 139760580], note: "Aug - Oct 1944 (139760580 is the war diaries' copy)" }
+      3: { status: mapped, nara: [74832413, 139799924], first_fix: 1944-11-09, last_fix: 1944-12-20, files: [positions, attacks], note: "9 Nov - 20 Dec 1944: Pearl, the Nagasaki-Sasebo and Kyushu-Shikoku areas, Guam. Transcribed: the ship contacts (p21-p23), the aircraft contacts (p24-p25, own positions), torpedo attacks 1-2 (p26-p29) and the narrative of 8-9 December (p12-p15). The narrative's other days not transcribed; 139799924 is the war diaries' copy" }
+      4: { status: available, nara: [74832453], note: "Jan - Mar 1945" }
+      5: { status: available, nara: [74832522, 140071545], note: "Apr - Jun 1945 (140071545 is the war diaries' copy)" }
+      6: { status: available, nara: [74832582, 83564894], note: "Jul - Aug 1945 (83564894 is the war diaries' copy)" }
   SS-400:   # SEA DEVIL, Balao class
     folder: boats/ss-400-sea-devil
     note: "attacked the carrier Junyō on 9 December 1944, the same night as REDFISH (L100 in the family repository)"

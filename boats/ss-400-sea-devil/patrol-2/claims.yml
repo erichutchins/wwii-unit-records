@@ -1,4 +1,5 @@
 # Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Attack 4 was probable until PLAICE's report was read (11 Nov 2026): her hits fit the summary's time better.
 # Attack 1 (0414 I, 2 December, four torpedoes, all missed) has no entry. Attack 3 (0429 I, one hit, a large
 # freighter claimed probably sunk) has no record of its own: the summary names only Hawaii Maru that night; secondary
 # sources give a second ship of the convoy, Akigawa Maru, which no record read here names.
@@ -18,10 +19,11 @@
     night, so the second ship SEA DEVIL hit (if any sank) is not in it
 - attack: Attack 4
   record: J03
-  relation: probable
+  relation: possible
   note: >-
-    Junyō torpedoed, two hits. SEA DEVIL's two explosions (0031:40 and 0031:55 I) each checked with a torpedo's run,
-    and PLAICE signalled that she saw the hits; REDFISH's Attack 7 (0156 I) claimed one hit. The summary's two hits
-    fit SEA DEVIL's count and its place (about 50 miles south-west of Nomozaki) fits REDFISH's position better
-    (about 4 nm, against 17 nm); its time (0130 I) falls between the two. Probable, not hit, until a record with
-    Junyō's own times is found (her escorts' or Sasebo's December diaries)
+    Junyō torpedoed, two hits, at 0130 I. SEA DEVIL's two explosions (0031:40 and 0031:55 I) each checked with a
+    torpedo's run, and PLAICE heard them at 0030 I by her own clock and signalled that she saw the hits
+    (ss-390-plaice/3, Attack 1's note): two hits, as the summary has, but an hour before its time. PLAICE's own
+    hits, heard at 0131 and 0133 I on what she took for destroyers of the screen, fit the summary's time, and the
+    summary has the destroyer Maki hit in the bow as well (PLAICE's J02). REDFISH's Attack 7 (0156 I) claimed one
+    hit. Possible, until a record with Junyō's own times is found (her escorts' or Sasebo's December diaries)

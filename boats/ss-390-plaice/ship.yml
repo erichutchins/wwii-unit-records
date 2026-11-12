@@ -1,0 +1,14 @@
+# USS PLAICE (SS-390). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: PLAICE
+hull: SS-390
+class: Balao
+silhouette: balao     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
+kind: submarine
+plain: "a fleet submarine of the Balao class, on her third war patrol, in the East China Sea, who attacked the screen of the carrier Junyō the same night as SEA DEVIL and REDFISH"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao) / 21 (Gato); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 3, name: Third War Patrol, dates: 9 Nov 1944 – 20 Dec 1944 }
