@@ -746,8 +746,10 @@ wdr58:
     HyperWar (ibiblio), a transcription by section, with the report's paragraph numbers (3-10, 15-12); the Navy
     Department Library holds the scan
   url: https://www.ibiblio.org/hyperwar/USN/rep/WDR/WDR58/index.html
-  cite: wdr58:<section>/<paragraph> (wdr58:3/3-10, section III, paragraph 3-10)
-  match: '^wdr58:(\d+)/[\d-]+$'
+  cite: >-
+    wdr58:<section>/<paragraph> (wdr58:3/3-10, section III, paragraph 3-10), wdr58:15/fig15-2 (a figure), or
+    wdr58:I/p<page> (Appendix I, the brief of each damage case, by the report's printed page)
+  match: '^wdr58:(\d+|I|II|III)/(?:[\d-]+|fig[\d-]+|p\d+)$'
   link: https://www.ibiblio.org/hyperwar/USN/rep/WDR/WDR58/WDR58-{1}.html
   short: War Damage Report 58
   used_for: >-
@@ -773,6 +775,28 @@ ntmj-o08:
   short: NavTechJap O-08
   used_for: the Japanese depth charges as the mission examined them; not yet read page by page
   note: Found 12 Nov 2026; the depth figure and the explainer use War Damage Report 58 until this is read
+
+ntmj-s24:
+  title: Japanese Anti-Submarine Warfare (Report S-24)
+  by: US Naval Technical Mission to Japan (Capt. A. Jackson, Jr., USNR, and Lt. Comdr. J. E. Miller), February 1946
+  kind: assessment
+  of: us
+  held: >-
+    fischer-tropsch.org (reel JM-200-I, frames 0244-0309), a scan with no text layer; the printed page is the PDF's
+    page less 3
+  url: https://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200I-0244-0309%20Report%20S-24.pdf
+  cite: ntmj-s24:p<printed page>
+  match: '^ntmj-s24:p(\d+)$'
+  link: https://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200I-0244-0309%20Report%20S-24.pdf
+  short: NavTechJap S-24
+  used_for: >-
+    the Japanese escorts' attack doctrine as their officers described it after the war: the approach, the patterns
+    by depth (figures 4 and 5, p13), the deepest setting usually carried (120 m, p12), lost-contact searches,
+    coordinated runs, and how claimed kills were assessed (p45); for site/depthcharge.html and the counter-attack
+    engagements
+  note: >-
+    From interrogations of Japanese officers (p4 lists them), not from their records: the doctrine as they gave it.
+    Read 12 Nov 2026: pp. 1-16 (contents, summary, part II's attack procedure), 43-50 (parts IV-VI, Enclosure A)
 
 cole-1948:
   title: Underwater Explosions

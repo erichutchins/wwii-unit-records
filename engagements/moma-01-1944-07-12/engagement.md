@@ -45,6 +45,17 @@ One ship sunk, Nichiran Maru, an Army transport of 6,503 tons: the escort divisi
 12th at N18-?9 E122-?0, the Navy's summary at 0935 (or 0735). No damage is recorded for APOGON's hour or for the ship
 that rammed her. PIRANHA's attack is paired as a hit, APOGON's as no loss.
 
+## APOGON's damage, as the Bureau of Ships summarised it
+
+The Bureau's postwar brief of the ramming: "While conducting night periscope attack on Japanese convoy, Apogon was
+rammed from starboard by an enemy AK which passed directly overhead. Depth at time of collision was about 70 feet to
+keel. Boat was heeled 15° to port. Top of shears, both periscopes and SD and SJ radar masts were bent about 45° to
+port." Water came into the conning tower at about 30 gallons a minute; "Several depth charges were dropped as Apogon
+went deep but did no damage. Boat was then caught at 430 foot depth"; the patrol was ended (War Damage Report 58,
+Appendix I, p. 280) [[cite:wdr58:I/p280]]. It places her at 19-51N 123-04E, about 47 nm north-north-east (031°) of the attack
+position on her own sheet (19-11N 122-38E); where the Bureau's position came from is not said, and the sheet's is the
+one drawn.
+
 ## The convoy
 
 From Takao on the 9th for Manila, by the chart; its size and escorts are blank there. The name MOMA-01 heads the

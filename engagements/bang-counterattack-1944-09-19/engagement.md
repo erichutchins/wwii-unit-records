@@ -58,13 +58,29 @@ the order came an hour after the escorts had begun. W-15 left the convoy off Kee
 and broke off at 1700 (p. 53). BANG came to periscope depth at 1730 K, the same minute as that report (1630 I), with
 nothing in sight, and surfaced at 2050 K.
 
+## The escorts' doctrine, as their officers gave it after the war
+
+What the Japanese officers told the Naval Technical Mission in 1945 (report S-24) fits what BANG heard. An escort
+ran in on the echo at 12 knots, went to 16 knots at 800 meters and dropped on the time its chemical recorder gave;
+"The Japanese had no means of determining the depth of enemy submarines, and their depth charge patterns were
+designed to cover all depths"; small patterns went on doubtful contacts, the largest on sure ones (p. 11). The
+deepest setting usually carried was 120 meters, about 394 ft, "and a proportionate number of charges with this setting
+was included in each pattern" (p. 12) [[cite:ntmj-s24:p12]]: at 450 ft BANG was below the deepest of them. Having
+lost contact, an escort ran on about 1,000 meters, reversed to the right, skirted the turbulent water at about 500
+meters, came back through the point of contact, stopped and listened; several escorts took successive runs, each
+stopping to listen while the next attacked (pp. 13-15). That is "very deliberate depth charging" over four and a half
+hours. A claimed kill was judged first by "Oil and the length of time it continued to come up" (p. 45)
+[[cite:ntmj-s24:p45]], which is what CD-30 and the aircraft reported.
+
 ## Reading the figure
 
 The water column is drawn to scale: BANG's silhouette at her logged depth, the Japanese pistols' depth settings as
 War Damage Report 58 gives them, the layer from her bathythermograph card of that evening (isothermal to 120 ft, a
-gradient to 450 ft), and the seafloor under her track. Where any charge burst is not recorded: the rings round each
-setting are the Bureau's damage distances for 300 lb of TNT against the older, lighter-hulled boats, an illustration
-of the scale, not a placement [[cite:wdr58:15/15-12]]. The deepest setting the Type 95 could take was 292 ft and the
+gradient to 450 ft), and the seafloor under her track. Where any charge burst is not recorded. The inner ring round
+each setting is the Bureau's distance for pressure hull rupture of a boat of her class (SS-285 on: a 7/8-inch high
+tensile steel hull) at the Type 2's 357 lb, about 23 ft, read off its figure 15-2, which holds "for shallow
+submergence condition only" [[cite:wdr58:15/fig15-2]]; the outer rings are its bands of serious and of moderate
+damage, 50 and 100 ft [[cite:wdr58:15/15-12]]. An illustration of the scale, not a placement. The deepest setting the Type 95 could take was 292 ft and the
 deepest normally used on the Type 2 was 390 ft (paragraph 3-12) [[cite:wdr58:3/3-12]]: at 450 ft BANG was below both.
 The explainer, *Depth charges*, works through the rest.
 
