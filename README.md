@@ -28,7 +28,7 @@ each is.
 | <!--n:army_units-->33<!--/n--> Army units | 1940 – 1945 | Morning reports, unit histories and journals | Changes of station only; anti-aircraft batteries and a medical detachment from North Africa to Germany, an armored division and three of its battalions, and others for shorter spans ([`army/`](army/README.md)) |
 | 2 Naval Construction Battalions | 1942 – 1945 | Muster rolls, history sheets, war diaries | Stations of each battalion and each part of it ([`seabees/`](seabees/README.md)) |
 | <!--n:convoys-->11<!--/n--> Japanese convoys | 1944 | Movement tables, escort diaries | Each convoy a followed submarine met: route, ships, cargo |
-| <!--n:engagements-->24<!--/n--> engagements | 1943 – 1945 | Both sides' records | <!--n:engagements_pacific-->18<!--/n--> Pacific, <!--n:engagements_mediterranean-->3<!--/n--> Mediterranean, <!--n:engagements_europe-->3<!--/n--> European. The other side's record is entered for some and still to find for others; each `engagement.md` says which |
+| <!--n:engagements-->25<!--/n--> engagements | 1943 – 1945 | Both sides' records | <!--n:engagements_pacific-->19<!--/n--> Pacific, <!--n:engagements_mediterranean-->3<!--/n--> Mediterranean, <!--n:engagements_europe-->3<!--/n--> European. The other side's record is entered for some and still to find for others; each `engagement.md` says which |
 | Twelfth Army Group's front | 6 Jun 1944 – 7 Jun 1945 | Daily situation maps | The front line on <!--n:front_days-->365<!--/n--> days; the unit symbols on <!--n:symbol_days-->98<!--/n--> ([`fronts/`](fronts/README.md)) |
 
 ## Sources and citations

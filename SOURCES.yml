@@ -725,6 +725,84 @@ janac:
     boats/*/patrol-N/claims.yml (the postwar credit for each sinking); secondary, a postwar
     assessment from US and Japanese records
 
+wdr58:
+  title: >-
+    Submarine Report: Depth Charge, Bomb, Mine, Torpedo and Gunfire Damage Including Losses in Action, 7 December 1941
+    to 15 August 1945 (War Damage Report No. 58)
+  by: Preliminary Design Branch, Bureau of Ships, US Navy, 1 January 1949
+  kind: assessment
+  of: us
+  held: >-
+    HyperWar (ibiblio), a transcription by section, with the report's paragraph numbers (3-10, 15-12); the Navy
+    Department Library holds the scan
+  url: https://www.ibiblio.org/hyperwar/USN/rep/WDR/WDR58/index.html
+  cite: >-
+    wdr58:<section>/<paragraph> (wdr58:3/3-10, section III, paragraph 3-10), wdr58:15/fig15-2 (a figure), or
+    wdr58:I/p<page> (Appendix I, the brief of each damage case, by the report's printed page)
+  match: '^wdr58:(\d+|I|II|III)/(?:[\d-]+|fig[\d-]+|p\d+)$'
+  link: https://www.ibiblio.org/hyperwar/USN/rep/WDR/WDR58/WDR58-{1}.html
+  short: War Damage Report 58
+  used_for: >-
+    the Japanese depth charges, their pistols' settings and their damage at distance (section III), and what damage
+    says of distance (section XV), for the depth figure and site/depthcharge.html; an assessment, the Bureau's
+    reckoning after the war from the boats' reports
+  note: >-
+    It says itself that "present experimental and theoretical knowledge is still not sufficient to compute accurate
+    damage versus distance relationships" (15-11): its distances are the Bureau's estimate, for 300 lb of TNT against
+    the light-hulled boats (SS-284 and earlier), not a measurement
+
+ntmj-o08:
+  title: Japanese Depth Charges (Report O-08)
+  by: US Naval Technical Mission to Japan, 16 December 1945
+  kind: assessment
+  of: us
+  held: >-
+    fischer-tropsch.org (reel JM-200-E, frames 0023-0034), also on Wikimedia Commons; a scan with no text layer
+  url: https://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200E-0023-0034%20Report%200-08.pdf
+  cite: ntmj-o08:p<page>
+  match: '^ntmj-o08:p(\d+)$'
+  link: https://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200E-0023-0034%20Report%200-08.pdf#page={1}
+  short: NavTechJap O-08
+  used_for: the Japanese depth charges as the mission examined them; not yet read page by page
+  note: Found 12 Nov 2026; the depth figure and the explainer use War Damage Report 58 until this is read
+
+ntmj-s24:
+  title: Japanese Anti-Submarine Warfare (Report S-24)
+  by: US Naval Technical Mission to Japan (Capt. A. Jackson, Jr., USNR, and Lt. Comdr. J. E. Miller), February 1946
+  kind: assessment
+  of: us
+  held: >-
+    fischer-tropsch.org (reel JM-200-I, frames 0244-0309), a scan with no text layer; the printed page is the PDF's
+    page less 3
+  url: https://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200I-0244-0309%20Report%20S-24.pdf
+  cite: ntmj-s24:p<printed page>
+  match: '^ntmj-s24:p(\d+)$'
+  link: https://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200I-0244-0309%20Report%20S-24.pdf
+  short: NavTechJap S-24
+  used_for: >-
+    the Japanese escorts' attack doctrine as their officers described it after the war: the approach, the patterns
+    by depth (figures 4 and 5, p13), the deepest setting usually carried (120 m, p12), lost-contact searches,
+    coordinated runs, and how claimed kills were assessed (p45); for site/depthcharge.html and the counter-attack
+    engagements
+  note: >-
+    From interrogations of Japanese officers (p4 lists them), not from their records: the doctrine as they gave it.
+    Read 12 Nov 2026: pp. 1-16 (contents, summary, part II's attack procedure), 43-50 (parts IV-VI, Enclosure A)
+
+cole-1948:
+  title: Underwater Explosions
+  by: Robert H. Cole, Princeton University Press, 1948
+  kind: reference
+  url: https://archive.org/search?query=cole+underwater+explosions+1948
+  cite: cole-1948
+  match: '^cole-1948$'
+  short: Cole 1948
+  used_for: >-
+    the similitude for the shock wave's peak pressure from a TNT charge (site/engage.js peakPressure), in his units
+    21,600 psi x (W^(1/3)/R)^1.13, W in pounds and R in feet; physics, not a witness
+  note: >-
+    The constants as they are generally quoted from Cole for TNT; the page they are on is not yet checked against the
+    book (not read here, 12 Nov 2026)
+
 combinedfleet:
   title: Imperial Japanese Navy Page (combinedfleet.com), Tabular Records of Movement
   by: Bob Hackett, Sander Kingsepp and others

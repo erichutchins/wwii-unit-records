@@ -95,6 +95,13 @@ position given as bearing and distance from another (`from`, `brg`, `nm`) is res
 Japanese kana grid square whose key is established), `probable` (one whose key rests on an assumption, said in `note`),
 `assumed`, `approx`. `hand-placed` (a reference point placed on a modern map) is defined and not yet used.
 
+**Read from the participants' records** into `engagement.json` (never copied into the engagement's folder): each
+boat's `tracks` (its fixes inside the window, one either side), `dives` (its `depths.csv` as states, `surfaced` or
+`submerged` with the depth where logged and, where the row counts them, the `charges` and their `proximity`, from the
+last state before the window) and `water` (the seafloor under its track from `seafloor.csv`, and its `layers.csv`
+readings of the window's days and the day either side), its attack `sheets`, its depth charges as entries (a depth
+order's row that counts charges is an entry too).
+
 **Derived, never stored** (`tools/build_engagement.py` writes them into `engagement.json`; its docstring has the
 reasons): on each participant `followed` (it has a track or a unit: a subject that is followed; a convoy is
 the other side's record, read against the followed boats' sightings of it, and isn't) and `opposed`; on the engagement
