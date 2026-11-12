@@ -12,7 +12,7 @@ cargo: ""
 attacked_by: [ss-385-bang/3]
 sources:
   - combinedfleet:yasojima_t        # secondary: route, escorts Yasojima, Hachijo, CD-4, CD-12; Shoryu and Tokiwasan Maru
-  - rg367-74802831/p10              # BANG's contact at 1305 K on 9 Sept: 1 AO, 2 AK, 2 escorts
+  - rg38-74802831/p10              # BANG's contact at 1305 K on 9 Sept: 1 AO, 2 AK, 2 escorts
   - jacar:C08030363600 p3           # Yokosuka Guard Squadron, Sept 1944: 昌隆丸 常盤山丸 sunk 9th 1520, 265° 10 nm from Sumisu-jima
   - jacar:C08030363600 p5           # the same diary's escort grid (read with low confidence)
 route: [yokosuka, tateyama, w-izu, w-bonin, haha-jima]   # through reference/lanes/lanes.yml; assumed waypoints are drawn dotted

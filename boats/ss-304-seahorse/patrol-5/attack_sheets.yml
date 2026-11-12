@@ -31,8 +31,8 @@
   remarks: >-
     Both torpedoes were fired at one AK that had AK's in other column overlapping. One missed and struck an AK
     in far column.
-  page: rg367-74845019/p25
-  table_page: rg367-74845019/p26
+  page: rg38-74845019/p25
+  table_page: rg38-74845019/p26
   note: >-
     attacks.csv gives the range to the 1st AK (2450), the ship both torpedoes were fired at (remarks). Both
     torpedoes are typed Hit, though the remarks say one missed its target and struck an AK in the far column:
@@ -57,8 +57,8 @@
   spread: Divergent point of aim spread
   sea: SW 1
   overhaul: Submarine Repair Unit, Navy No. 134.
-  page: rg367-74845019/p27
-  table_page: rg367-74845019/p28
+  page: rg38-74845019/p27
+  table_page: rg38-74845019/p28
 
 - attack: Attack 3
   type_attack: >-
@@ -79,8 +79,8 @@
   spread: Divergent point of aim spread.
   sea: SW 1
   overhaul: Submarine Repair Unit, Navy No. 134.
-  page: rg367-74845019/p29
-  table_page: rg367-74845019/p30
+  page: rg38-74845019/p29
+  table_page: rg38-74845019/p30
 
 - attack: Attack 4
   type_attack: >-
@@ -102,8 +102,8 @@
   sea: SW 1
   overhaul: Submarine Repair Unit, Navy No. 134.
   remarks: Two three torpedo salvos were fired at the same target
-  page: rg367-74845019/p31
-  table_page: rg367-74845019/p32
+  page: rg38-74845019/p31
+  table_page: rg38-74845019/p32
   note: >-
     The sheet gives one set of target and own-ship data for both salvos; the second salvo (tubes 3, 2, 1,
     47 seconds after the first) has its own track and gyro angles. Own course is typed as a range, 050-069,
@@ -129,8 +129,8 @@
   spread: Divergent, point of aim.
   sea: SW 2
   overhaul: Submarine Repair Unit, Navy No. 134.
-  page: rg367-74845019/p33
-  table_page: rg367-74845019/p34
+  page: rg38-74845019/p33
+  table_page: rg38-74845019/p34
 
 - attack: Attack 6
   type_attack: >-
@@ -149,5 +149,5 @@
   spread: Divergent, point of aim.
   sea: SW 2
   overhaul: Submarine Repair Unit, Navy No. 134.
-  page: rg367-74845019/p35
-  table_page: rg367-74845019/p36
+  page: rg38-74845019/p35
+  table_page: rg38-74845019/p36

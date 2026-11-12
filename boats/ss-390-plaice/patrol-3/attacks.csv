@@ -1,8 +1,8 @@
 attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
-Attack 1,1944-12-09,0128,I,1,280,10,Surface,020,18,3700,9,75S,353,5 Ft.,---,Hit,No,18-1,0,,3/4° divergent from aft forward,,rg367-74832413/p26
-Attack 1,1944-12-09,0128,I,2,280,10,Surface,020,18,3700,9,76S,355,5 Ft.,---,Hit,No,18-1,10,,3/4° divergent from aft forward,,rg367-74832413/p26
-Attack 1,1944-12-09,0128,I,3,280,10,Surface,020,18,3700,9,77S,357,5 Ft.,---,Miss,No,18-1,10,,3/4° divergent from aft forward,,rg367-74832413/p26
-Attack 2,1944-12-09,0131,I,7,280,12 to 6,38 to 130,010,18,2000,9,65P,205,5 Ft.,--,Miss,No,18-1,0,,3/4° divergent aft to forward,,rg367-74832413/p28
-Attack 2,1944-12-09,0131,I,8,280,12 to 6,38 to 130,010,18,2000,9,70P,200,5 Ft.,--,Miss,No,18-1,10,,3/4° divergent aft to forward,,rg367-74832413/p28
-Attack 2,1944-12-09,0131,I,9,280,12 to 6,38 to 130,010,18,2000,9,74.5P,195.5,5 Ft.,--,Hit,No,18-1,10,,3/4° divergent aft to forward,,rg367-74832413/p28
-Attack 2,1944-12-09,0131,I,10,280,12 to 6,38 to 130,010,18,2000,9,80P,190,5 Ft.,--,Hit,No,18-1,10,,3/4° divergent aft to forward,,rg367-74832413/p28
+Attack 1,1944-12-09,0128,I,1,280,10,Surface,020,18,3700,9,75S,353,5 Ft.,---,Hit,No,18-1,0,,3/4° divergent from aft forward,,rg38-74832413/p26
+Attack 1,1944-12-09,0128,I,2,280,10,Surface,020,18,3700,9,76S,355,5 Ft.,---,Hit,No,18-1,10,,3/4° divergent from aft forward,,rg38-74832413/p26
+Attack 1,1944-12-09,0128,I,3,280,10,Surface,020,18,3700,9,77S,357,5 Ft.,---,Miss,No,18-1,10,,3/4° divergent from aft forward,,rg38-74832413/p26
+Attack 2,1944-12-09,0131,I,7,280,12 to 6,38 to 130,010,18,2000,9,65P,205,5 Ft.,--,Miss,No,18-1,0,,3/4° divergent aft to forward,,rg38-74832413/p28
+Attack 2,1944-12-09,0131,I,8,280,12 to 6,38 to 130,010,18,2000,9,70P,200,5 Ft.,--,Miss,No,18-1,10,,3/4° divergent aft to forward,,rg38-74832413/p28
+Attack 2,1944-12-09,0131,I,9,280,12 to 6,38 to 130,010,18,2000,9,74.5P,195.5,5 Ft.,--,Hit,No,18-1,10,,3/4° divergent aft to forward,,rg38-74832413/p28
+Attack 2,1944-12-09,0131,I,10,280,12 to 6,38 to 130,010,18,2000,9,80P,190,5 Ft.,--,Hit,No,18-1,10,,3/4° divergent aft to forward,,rg38-74832413/p28

@@ -110,7 +110,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1943-09-23 1119(VW)",
-    "page": "rg367-74856215/p02",
+    "page": "rg38-74856215/p02",
     "note": "Departed Pearl under surface escort until dark for assigned area via Johnston (port position)",
     "fix": ""
    },
@@ -133,7 +133,7 @@
     "lat_raw": "16-44N",
     "lon_raw": "169-31W",
     "local": "1943-09-25 0930(W)",
-    "page": "rg367-74856215/p02",
+    "page": "rg38-74856215/p02",
     "note": "Moored to dock Johnston's Island and fueled to capacity (port position)",
     "fix": ""
    },
@@ -156,7 +156,7 @@
     "lat_raw": "16-44N",
     "lon_raw": "169-31W",
     "local": "1943-09-25 1852(W)",
-    "page": "rg367-74856215/p02",
+    "page": "rg38-74856215/p02",
     "note": "Underway, having waited while new set of gears for Bendix Log were manufactured. Departed with air escort (port position)",
     "fix": ""
    },
@@ -179,7 +179,7 @@
     "lat_raw": "14-25N",
     "lon_raw": "174-42E",
     "local": "1943-09-29 1249(M)",
-    "page": "rg367-74856215/p15",
+    "page": "rg38-74856215/p15",
     "note": "Radar contact 10 miles. Not sighted (aircraft contacts table)",
     "fix": ""
    },
@@ -203,7 +203,7 @@
     "lon_raw": "174-42E",
     "typed": "14-25N 174-42W",
     "local": "1943-09-29 1249(M)",
-    "page": "rg367-74856215/p03",
+    "page": "rg38-74856215/p03",
     "note": "Radar contact, airplane 10 miles. Submerged. Not sighted",
     "fix": "narrative types W; the aircraft table (p15) has 174-42E, and 28 September was omitted for crossing the date line (p02), so east of 180. Same fix as Air 1, kept off the track to avoid a duplicate"
    },
@@ -226,7 +226,7 @@
     "lat_raw": "08-01N",
     "lon_raw": "150-19.5E",
     "local": "1943-10-04 0310(K)",
-    "page": "rg367-74856215/p13",
+    "page": "rg38-74856215/p13",
     "note": "Radar contact 119T 8800 yards; course N, speed 12K; not sighted, from radar identified as patrol vessel. The narrative (p03) gives 0330",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -249,7 +249,7 @@
     "lat_raw": "08-01N",
     "lon_raw": "150-19.5E",
     "local": "1943-10-04 0330(K)",
-    "page": "rg367-74856215/p03",
+    "page": "rg38-74856215/p03",
     "note": "Radar contact bearing 119T, range 8800 yards; tracked target on course north, probable patrol vessel. Avoided",
     "fix": ""
    },
@@ -272,7 +272,7 @@
     "lat_raw": "08-00-30N",
     "lon_raw": "150-19E",
     "local": "1943-10-04 0420(K)",
-    "page": "rg367-74856215/p13",
+    "page": "rg38-74856215/p13",
     "note": "Tanker similar to HUZISAN MARU 9527 tons; course 100, speed 11.6K; loaded",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -295,7 +295,7 @@
     "lat_raw": "08-02N",
     "lon_raw": "150-19E",
     "local": "1943-10-03 1855(Z)",
-    "page": "rg367-74856215/p19",
+    "page": "rg38-74856215/p19",
     "note": "Summary of attacks: 4 Torpex Mk XVIII fired, 2 hits; AO, damaged 9525 tons; range 1950. The narrative (p03) fires at 0455 K on 4 October at 08-02N 150-19E",
     "fix": ""
    },
@@ -318,7 +318,7 @@
     "lat_raw": "8-01N",
     "lon_raw": "150-16E",
     "local": "1943-10-04 0616(K)",
-    "page": "rg367-74856215/p15",
+    "page": "rg38-74856215/p15",
     "note": "Single float seaplane, bearing 230T, dist. 2 mi.; picked up by Captain on periscope",
     "fix": ""
    },
@@ -341,7 +341,7 @@
     "lat_raw": "10-24N",
     "lon_raw": "146-52E",
     "local": "1943-10-06 0520(K)",
-    "page": "rg367-74856215/p13",
+    "page": "rg38-74856215/p13",
     "note": "Tanker, 10000 (plus) tons; course 85, speed 16K; loaded. The narrative (p05) picks her up by sight at 0524 K",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -364,7 +364,7 @@
     "lat_raw": "10-35N",
     "lon_raw": "148-30E",
     "local": "1943-10-06 0204(Z)",
-    "page": "rg367-74856215/p19",
+    "page": "rg38-74856215/p19",
     "note": "Summary of attacks: 6 Torpex Mk XVIII fired, 4 hits; AO, damaged 10000 plus; range 1540. The narrative (p06) fires six bow tubes at 1201 K",
     "fix": ""
    },
@@ -387,7 +387,7 @@
     "lat_raw": "10-00N",
     "lon_raw": "148-36E",
     "local": "1943-10-06 1644(K)",
-    "page": "rg367-74856215/p13",
+    "page": "rg38-74856215/p13",
     "note": "Same tanker (contact 3, second line)",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -410,7 +410,7 @@
     "lat_raw": "10-01N",
     "lon_raw": "148-31E",
     "local": "1943-10-06 0818(Z)",
-    "page": "rg367-74856215/p19",
+    "page": "rg38-74856215/p19",
     "note": "Summary of attacks: 4 Torpex Mk XIV fired, 2 hits; range 1630 (narrative p07: four stern tubes at 1818 K, two hits)",
     "fix": ""
    },
@@ -433,7 +433,7 @@
     "lat_raw": "10-01N",
     "lon_raw": "148-31E",
     "local": "1943-10-06 0824(Z)",
-    "page": "rg367-74856215/p19",
+    "page": "rg38-74856215/p19",
     "note": "Summary of attacks: 2 Torpex Mk XVIII fired, 0 hits; range 1350 (narrative p07: two bow tubes at 1825 K)",
     "fix": ""
    },
@@ -456,7 +456,7 @@
     "lat_raw": "10-01N",
     "lon_raw": "148-31E",
     "local": "1943-10-06 0833(Z)",
-    "page": "rg367-74856215/p20",
+    "page": "rg38-74856215/p20",
     "note": "Summary of attacks: 1 Torpex Mk XIV fired, 0 hits; range 800 (narrative p07: one stern tube at 1834 K)",
     "fix": ""
    },
@@ -479,7 +479,7 @@
     "lat_raw": "10-01N",
     "lon_raw": "148-31E",
     "local": "1943-10-06 0859(Z)",
-    "page": "rg367-74856215/p20",
+    "page": "rg38-74856215/p20",
     "note": "Summary of attacks: 1 Torpex Mk XIV fired, 1 hit; range 1680 (narrative p07: stern tube at 1859 K)",
     "fix": ""
    },
@@ -502,7 +502,7 @@
     "lat_raw": "10-01N",
     "lon_raw": "148-31E",
     "local": "1943-10-06 0909(Z)",
-    "page": "rg367-74856215/p20",
+    "page": "rg38-74856215/p20",
     "note": "Summary of attacks: 1 Torpex Mk XVIII fired, 0 hits; range 1200 (narrative p07: bow tube at 1910 K)",
     "fix": ""
    },
@@ -525,7 +525,7 @@
     "lat_raw": "10-01N",
     "lon_raw": "148-31E",
     "local": "1943-10-06 0913(Z)",
-    "page": "rg367-74856215/p20",
+    "page": "rg38-74856215/p20",
     "note": "Summary of attacks: 1 Torpex Mk XVIII fired, 1 hit; sunk 10000 plus, same as 2; range 800 (narrative p08: second bow tube at 1913 K; target disappeared, sinking by the stern, at 1933 K)",
     "fix": ""
    },
@@ -548,7 +548,7 @@
     "lat_raw": "07-44N",
     "lon_raw": "149-15E",
     "local": "1943-10-07 0725(K)",
-    "page": "rg367-74856215/p15",
+    "page": "rg38-74856215/p15",
     "note": "Heavy bomber, course 110T, 6 deg., dist. 6 mi.; sighted by lookout (narrative p08 the same)",
     "fix": ""
    },
@@ -571,7 +571,7 @@
     "lat_raw": "09-42N",
     "lon_raw": "150-13.1E",
     "local": "1943-10-08 1528(K)",
-    "page": "rg367-74856215/p15",
+    "page": "rg38-74856215/p15",
     "note": "Single wing monoplane, course 142T, 4 deg., dist. 6 mi.; sighted by lookout (narrative p09: 150-13E)",
     "fix": ""
    },
@@ -594,7 +594,7 @@
     "lat_raw": "16-31.5N",
     "lon_raw": "161-21.3E",
     "local": "1943-10-12 0729(L)",
-    "page": "rg367-74856215/p15",
+    "page": "rg38-74856215/p15",
     "note": "MITSUBISHI 98 Reconnaissance Bomber, bearing 170 rel., 10 deg.; sighted by lookout",
     "fix": ""
    },
@@ -617,7 +617,7 @@
     "lat_raw": "17-56.40N",
     "lon_raw": "161-03.45E",
     "local": "1943-10-12 1721(L)",
-    "page": "rg367-74856215/p15",
+    "page": "rg38-74856215/p15",
     "note": "MITSUBISHI 98 Reconnaissance Bomber, 040T, 6 deg., dist. 4 1/2 mi.; sighted by lookout",
     "fix": ""
    },
@@ -640,7 +640,7 @@
     "lat_raw": "19-32.2N",
     "lon_raw": "165-31.2E",
     "local": "1943-10-13 1705(L)",
-    "page": "rg367-74856215/p15",
+    "page": "rg38-74856215/p15",
     "note": "Type 97 Light Bomber, bearing 355 rel., 4 deg., dist. 4 1/2 mi.; sighted by lookout",
     "fix": ""
    },
@@ -663,7 +663,7 @@
     "lat_raw": "19-16.1N",
     "lon_raw": "167-52.4E",
     "local": "1943-10-14 0600(L)",
-    "page": "rg367-74856215/p15",
+    "page": "rg38-74856215/p15",
     "note": "Single wing monoplane, bearing 147T, 4 deg., dist. 6 mi.; sighted by lookout",
     "fix": ""
    },
@@ -686,7 +686,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1943-10-16 1200(Y)",
-    "page": "rg367-74856215/p11",
+    "page": "rg38-74856215/p11",
     "note": "Arrived Midway Island (port position; time not given, set to noon)",
     "fix": ""
    },

@@ -13,7 +13,7 @@ from the ship's war diaries for November 1944 ([NARA 78694496](https://catalog.a
 ([NARA 83577147](https://catalog.archives.gov/id/83577147), 7 pages), September 1945
 ([NARA 77516593](https://catalog.archives.gov/id/77516593), 6 pages) and October 1945
 ([NARA 77558379](https://catalog.archives.gov/id/77558379), 5 pages), RG 38;
-scans download to the kit's cache as `nara/rg367-<id>/`. October 1945 is the last war diary in the catalog (`../../inventory.yml`). Her deck logs are
+scans download to the kit's cache as `nara/rg38-<id>/`. October 1945 is the last war diary in the catalog (`../../inventory.yml`). Her deck logs are
 online only from 1957.
 
 - `source` is `diary` (a 0800 / 1200 / 2000 position from the diary's daily table) or
@@ -41,7 +41,7 @@ online only from 1957.
 
 ## 16 February 1945: the picket boats, against the other accounts
 
-The war diary (`rg367-139903592/p04`-`p05`, read on the scan) has two actions on the first day of the Tokyo strikes, while she
+The war diary (`rg38-139903592/p04`-`p05`, read on the scan) has two actions on the first day of the Tokyo strikes, while she
 was on picket station #2, 12 miles from the guide in Essex: a "fishing or picket boat" left sinking at 0713 (one prisoner), and
 at 1352 two pickets already strafed by the carriers' planes, sunk with 86 rounds of 5"/38 (one prisoner from the first, ten
 from the second). At 1700 the three seriously wounded and two others went to C.T.F. 58 in Bunker Hill, which leaves seven
@@ -55,7 +55,7 @@ aboard. The diary says nothing more of them. The other accounts:
 | Herder, The Naval Siege of Japan 1945, p. 26 | captions to NARA 80-G-308577 (the smoke, seen from Essex) and 80-G-308465 (six prisoners aboard Essex) | | three boats "on the afternoon"; "A total of nine Japanese survivors" |
 
 The diary's times and rounds are kept. The transfer to Essex is not in the diary; the only time she was alongside Essex after
-the 16th is the fuelling from 1253 to 1432 on **18 February** (`rg367-139903592/p05`), two days after the action, while on
+the 16th is the fuelling from 1253 to 1432 on **18 February** (`rg38-139903592/p05`), two days after the action, while on
 the 19th (D-day) she fuelled from nobody. So the `Fuel from Essex` event row puts the transfer there as an assumption.
 The website's other photos (the attack, survivors in the water, the prisoners aboard Essex) were not captured by the Archive,
 so they can't be matched to the 80-G numbers.

@@ -33,8 +33,8 @@
   remarks: >-
     Nine foot depth set because of rough sea conditions. Believe a shallower depth would have caused more damage
     on empty tanker.
-  page: rg367-74802784/p23
-  table_page: rg367-74802784/p24
+  page: rg38-74802784/p23
+  table_page: rg38-74802784/p24
   note: >-
     Gyro angles are typed relative to the bow (10R, 8R, 6R), not as true gyro angles as on the other sheets; with
     own course 080 and target course 044 they give the typed tracks (134P, 136P, 138P). Tube 1 (Mark 23) has power
@@ -62,8 +62,8 @@
   sea: Flat calm
   overhaul: U.S.S. PROTEUS
   remarks: See attack 2(c).
-  page: rg367-74802784/p25
-  table_page: rg367-74802784/p26
+  page: rg38-74802784/p25
+  table_page: rg38-74802784/p26
   note: >-
     The Hit or Miss row is typed "3 Hits" across the four columns, not per torpedo, so attacks.csv's `hit` is
     blank for tubes 1-4. Tube 4's Mark 14-3A is circled by hand on the scan.
@@ -90,8 +90,8 @@
   sea: Flat calm
   overhaul: U.S.S. PROTEUS
   remarks: See attack 2(c).
-  page: rg367-74802784/p27
-  table_page: rg367-74802784/p28
+  page: rg38-74802784/p27
+  table_page: rg38-74802784/p28
   note: >-
     Typed at 1508 (I), the same minute as 2(a); 2(c)'s remarks put 17 seconds between 2(a) and 2(b). Its sheet
     starts at p27, not the p25 positions.csv cites for Attack 2. The Mark 14-3A entries are circled by hand.
@@ -130,8 +130,8 @@
     since the approach party has been instructed that I will always give over-all spread.
     A stern tube spread of 1L, 0, 0, 1R was set, whereas 3L, 1L, 1R, 3R was intended. Fortunately the spread
     coverage was not needed. Steps have been taken to prevent a recurrence of the above mistake.
-  page: rg367-74802784/p29
-  table_page: rg367-74802784/p30
+  page: rg38-74802784/p29
+  table_page: rg38-74802784/p30
   note: >-
     Typed at 1509 (I); positions.csv's Attack 2 is 1508 (2(a)'s time). The sheet starts at p29, not the p25
     positions.csv cites. Tube 7 has its track typed "*" and gyro "060*" (the footnote: solution not generated),
@@ -160,8 +160,8 @@
   remarks: >-
     The wakes were seen heading directly for the target. Due to the limited time that the target had to maneuver
     it is believed that the torpedoes might have run under.
-  page: rg367-74802784/p32
-  table_page: rg367-74802784/p33
+  page: rg38-74802784/p32
+  table_page: rg38-74802784/p33
   note: >-
     Target draft typed 8'3" (8 ft 3 in), left blank in attacks.csv (a CSV cell can't hold the inch mark; the typed value is in target_line).
     Tracks are typed 0 with no side (a down the throat shot, own course 155 against target course 335).

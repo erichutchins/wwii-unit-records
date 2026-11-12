@@ -49,8 +49,8 @@
     between time of firing, 8 seconds, is due to different running speeds of the two torpedoes; and that the third
     hit was in the AO. ... Only one degree spread between torpedoes was used when firing at the DD to enhance the
     poasibility of hits on the Marus in line with her.
-  page: rg367-74802746/p16
-  table_page: rg367-74802746/p17
+  page: rg38-74802746/p16
+  table_page: rg38-74802746/p17
   note: >-
     Two targets on one sheet. Tubes 1-4 (FIRST TARGET) were fired on the TDC solution for the DD at 1800 yards, in
     line with an AK at 3000 and a second AK at 4000 (type attack; remarks, p18), so attacks.csv gives the DD's draft
@@ -82,8 +82,8 @@
     Target zigged right immediately after firing. Spread was offset one degree to right realizing that a zig to the
     right would give the target the greatest chance to avoid. If the spread had been applied from aft forward I do not
     believe the target could have avoided since the first torpedo reached the track 40 seconds before the last one did.
-  page: rg367-74802746/p19
-  table_page: rg367-74802746/p20
+  page: rg38-74802746/p19
+  table_page: rg38-74802746/p20
   note: >-
     One track angle, 160P, is typed for all six torpedoes, though the gyros step from 354 to 359; computed from own
     course 150 and target course 130 the tracks run 166P to 161P. Kept as typed (check_attacks.py flags tubes 3, 4
@@ -106,8 +106,8 @@
   remarks: >-
     *Check of TDC after firing showed that the after angle solver was not solving. Correct gyro angle should have been
     184. Did not see wakes in time to check fire.
-  page: rg367-74802746/p21
-  table_page: rg367-74802746/p22
+  page: rg38-74802746/p21
+  table_page: rg38-74802746/p22
   note: >-
     The gyro is typed *195 for all four stern tubes, the asterisk pointing to the remarks: the TDC's after angle solver
     was not solving and the gyro should have been 184. attacks.csv keeps 195 as typed. From own course 340 and target
@@ -139,8 +139,8 @@
     torpedo miss, whereas I thought a zig away would bring the other torpedoes on better. The second and third
     torpedoes hit at 1m 15s, and 1m 23s after firing - there was very little left of the target when the fourth
     torpedo got there.
-  page: rg367-74802746/p23
-  table_page: rg367-74802746/p24
+  page: rg38-74802746/p23
+  table_page: rg38-74802746/p24
   note: >-
     One track angle, 60S, is typed for all four. The fourth torpedo (tube 2, gyro 000) was fired 1-05 (65 seconds)
     after the first, after the boat "came right"; the sheet gives only the one own course, 320, so its computed track
@@ -179,8 +179,8 @@
     Target group was lined up as shown in below sketch at time of firing. ... The time of hits were recorded as 2m 15s,
     2m 21s, and 2m 45s after first torpedo was fired. The time of run, and plot of data, indicates that the first
     torpedo fired hit the DD, and the second and third torpedoes hit the AP.
-  page: rg367-74802746/p25
-  table_page: rg367-74802746/p26
+  page: rg38-74802746/p25
+  table_page: rg38-74802746/p26
   note: >-
     The sheet types two targets, the Maru at 3400 yards and a DD at 4200, on one course and speed; attacks.csv gives
     the Maru's draft and range, the target the description names and the point of aim. The remarks conclude from the

@@ -278,7 +278,7 @@
     "lat_raw": "13-27N",
     "lon_raw": "144-38E",
     "local": "1945-03-25 1500(K)",
-    "page": "rg367-74809762/p03",
+    "page": "rg38-74809762/p03",
     "note": "Departed GUAM with SNOOK, BURRFISH and BANG (coordinated attack group; C.O. SNOOK OTC); escorted by P.C. 1?2. 1600(K) changed to zone I. 2328 SNOOK left formation to return to port; BURRFISH assumed command of pack (port position)",
     "fix": ""
    },
@@ -301,7 +301,7 @@
     "lat_raw": "16-09N",
     "lon_raw": "140-29E",
     "local": "1945-03-26 1200(I)",
-    "page": "rg367-74809762/p04",
+    "page": "rg38-74809762/p04",
     "note": "Enroute patrol area",
     "fix": ""
    },
@@ -324,7 +324,7 @@
     "lat_raw": "18-52N",
     "lon_raw": "136-31E",
     "local": "1945-03-27 1200(I)",
-    "page": "rg367-74809762/p04",
+    "page": "rg38-74809762/p04",
     "note": "",
     "fix": ""
    },
@@ -347,7 +347,7 @@
     "lat_raw": "20-48.5N",
     "lon_raw": "131-34E",
     "local": "1945-03-28 1200(I)",
-    "page": "rg367-74809762/p04",
+    "page": "rg38-74809762/p04",
     "note": "",
     "fix": ""
    },
@@ -370,7 +370,7 @@
     "lat_raw": "20-47N",
     "lon_raw": "126-14E",
     "local": "1945-03-29 1200(I)",
-    "page": "rg367-74809762/p04",
+    "page": "rg38-74809762/p04",
     "note": "2200 ordered to relieve BULLHEAD south of Formosa; 2300 BANG left formation to head for Luzon Straits",
     "fix": ""
    },
@@ -393,7 +393,7 @@
     "lat_raw": "20-30N",
     "lon_raw": "120-21E",
     "local": "1945-03-30 0038(I)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 97 mc, weak, land based, Southern Formosa (table gives no zone; narrative was in zone I until 1400)",
     "fix": "contradicts the narrative: at 0320 BURRFISH made radar contact on the Batan Islands from the east and at 0610 was 7 mi from Y'Ami Is. (about 122E); 120-21E is 90 nm west. Error (date?) not identified"
    },
@@ -416,7 +416,7 @@
     "lat_raw": "21-17.5N",
     "lon_raw": "121-50E",
     "local": "1945-03-30 1200(I)",
-    "page": "rg367-74809762/p04",
+    "page": "rg38-74809762/p04",
     "note": "Submerged transit of Bashi Channel (0610 submerged 7 mi 075T from Y'Ami Is.); 1400 changed to zone H (-8)",
     "fix": ""
    },
@@ -439,7 +439,7 @@
     "lat_raw": "21-44N",
     "lon_raw": "120-09E",
     "local": "1945-03-31 0130(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 99 mc, weak, land based, Southern Formosa (zone not given; narrative zone H)",
     "fix": ""
    },
@@ -462,7 +462,7 @@
     "lat_raw": "21-56N",
     "lon_raw": "120-01E",
     "local": "1945-03-31 0255(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 159 mc, strong, land based, Southern Formosa (date faint, read 3-31; zone not given)",
     "fix": ""
    },
@@ -485,7 +485,7 @@
     "lat_raw": "22-15N",
     "lon_raw": "121-48E",
     "local": "1945-03-31 1200(H)",
-    "page": "rg367-74809762/p05",
+    "page": "rg38-74809762/p05",
     "note": "Surfaced on lifeguard station (first lifeguard day); fighter cover not sighted",
     "fix": "contradicts the APR table (22-11N 119-54E at 1205 and 1500, 21-56N 120-01E at 0255) and the narrative of the night after (at 0100 1 Apr she broke off a chase to be back on the lifeguard station west of KOSHUN by 0530; 121-48E is 110 nm away, east of Formosa). Possibly 119-48E; not fixed"
    },
@@ -508,7 +508,7 @@
     "lat_raw": "22-11N",
     "lon_raw": "119-54E",
     "local": "1945-03-31 1205(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 161 mc, strong, land based, Southern Formosa (date faint, read 3-31; zone not given)",
     "fix": ""
    },
@@ -531,7 +531,7 @@
     "lat_raw": "22-11N",
     "lon_raw": "119-54E",
     "local": "1945-03-31 1500(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 300 mc, weak, source unknown (out of time order in the table; zone not given)",
     "fix": ""
    },
@@ -554,7 +554,7 @@
     "lat_raw": "22-11N",
     "lon_raw": "119-54E",
     "local": "1945-03-31 1852(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 152 mc, strong, land based, Southern Formosa (date faint, read 3-31; zone not given)",
     "fix": ""
    },
@@ -577,7 +577,7 @@
     "lat_raw": "22-16N",
     "lon_raw": "119-16E",
     "local": "1945-03-31 2215(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 195 mc, medium, source unknown (date faint, read 3-31; zone not given). Narrative 2209: 10 cm interference on SJ, went ahead at 15 kts toward it",
     "fix": ""
    },
@@ -600,7 +600,7 @@
     "lat_raw": "22-06N",
     "lon_raw": "118-31E",
     "local": "1945-04-01 0100(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 77 mc, weak, Southern Formosa (date and first digits of longitude faint, read 4-1 and 118; zone not given). Narrative 0100: abandoned chase to return to lifeguard station",
     "fix": ""
    },
@@ -623,7 +623,7 @@
     "lat_raw": "22-13N",
     "lon_raw": "119-37E",
     "local": "1945-04-01 1200(H)",
-    "page": "rg367-74809762/p05",
+    "page": "rg38-74809762/p05",
     "note": "0530 submerged on lifeguard station; 1846 station patrol west of KOSHUN",
     "fix": ""
    },
@@ -646,7 +646,7 @@
     "lat_raw": "22-16N",
     "lon_raw": "119-16E",
     "local": "1945-04-01 2215(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 158 mc, medium, double pulsing, Southern Formosa (same time and position as APR 6 the night before; zone not given)",
     "fix": ""
    },
@@ -669,7 +669,7 @@
     "lat_raw": "22-00N",
     "lon_raw": "119-58E",
     "local": "1945-04-02 1200(H)",
-    "page": "rg367-74809762/p06",
+    "page": "rg38-74809762/p06",
     "note": "1230 PBM notified us that our duties were completed",
     "fix": ""
    },
@@ -692,7 +692,7 @@
     "lat_raw": "22-00N",
     "lon_raw": "119-36E",
     "local": "1945-04-02 1527(H)",
-    "page": "rg367-74809762/p06",
+    "page": "rg38-74809762/p06",
     "note": "Sighted floating mine (and a second at 1535); exploded both by 40 mm fire 1618-1628 (mines table p21: 2 exploded); position given for the mines",
     "fix": ""
    },
@@ -715,7 +715,7 @@
     "lat_raw": "22-14N",
     "lon_raw": "119-28E",
     "local": "1945-04-03 1200(H)",
-    "page": "rg367-74809762/p06",
+    "page": "rg38-74809762/p06",
     "note": "On lifeguard station 1050",
     "fix": ""
    },
@@ -738,7 +738,7 @@
     "lat_raw": "22-08N",
     "lon_raw": "119-28E",
     "local": "1945-04-03 1320(H)",
-    "page": "rg367-74809762/p06",
+    "page": "rg38-74809762/p06",
     "note": "Sighted floating mine; sank it with 20 mm fire 1330 (mines table p21); position given for the mine",
     "fix": ""
    },
@@ -761,7 +761,7 @@
     "lat_raw": "21-51N",
     "lon_raw": "119-52E",
     "local": "1945-04-04 1200(H)",
-    "page": "rg367-74809762/p06",
+    "page": "rg38-74809762/p06",
     "note": "Surfaced on lifeguard station 1105; fighter cover and B-17",
     "fix": ""
    },
@@ -784,7 +784,7 @@
     "lat_raw": "22-17N",
     "lon_raw": "119-31E",
     "local": "1945-04-05 1200(H)",
-    "page": "rg367-74809762/p07",
+    "page": "rg38-74809762/p07",
     "note": "Surfaced on lifeguard station 0925; 2000 patrolling northern boundary at 119E",
     "fix": ""
    },
@@ -807,7 +807,7 @@
     "lat_raw": "22-03N",
     "lon_raw": "119-50E",
     "local": "1945-04-06 1200(H)",
-    "page": "rg367-74809762/p07",
+    "page": "rg38-74809762/p07",
     "note": "Surfaced on lifeguard station 1140",
     "fix": ""
    },
@@ -830,7 +830,7 @@
     "lat_raw": "22-17N",
     "lon_raw": "119-37E",
     "local": "1945-04-07 1200(H)",
-    "page": "rg367-74809762/p07",
+    "page": "rg38-74809762/p07",
     "note": "Surfaced on lifeguard station 1030; PBY as cover; six P-38s returning from Hongkong raid",
     "fix": ""
    },
@@ -853,7 +853,7 @@
     "lat_raw": "22-15N",
     "lon_raw": "119-20E",
     "local": "1945-04-08 0315(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 152 mc, medium, source aircraft (zone not given). Narrative 0320: had tried to close RYUKYU SHO for a radar fix but position too uncertain; 0500 first star sights in three days",
     "fix": ""
    },
@@ -876,7 +876,7 @@
     "lat_raw": "22-06N",
     "lon_raw": "119-54E",
     "local": "1945-04-08 1200(H)",
-    "page": "rg367-74809762/p08",
+    "page": "rg38-74809762/p08",
     "note": "Sighted Formosa through periscope 1050; PBY as cover 1108",
     "fix": ""
    },
@@ -899,7 +899,7 @@
     "lat_raw": "21-47N",
     "lon_raw": "120-03E",
     "local": "1945-04-09 1200(H)",
-    "page": "rg367-74809762/p08",
+    "page": "rg38-74809762/p08",
     "note": "On lifeguard station 1045 (noon position typed after the 1400 entry)",
     "fix": ""
    },
@@ -922,7 +922,7 @@
     "lat_raw": "21-46N",
     "lon_raw": "120-00E",
     "local": "1945-04-10 1200(H)",
-    "page": "rg367-74809762/p08",
+    "page": "rg38-74809762/p08",
     "note": "0124 battery explosion in No. 1 torpedo in tube; 0146 fired it with propeller lock on. 0950 on lifeguard station",
     "fix": ""
    },
@@ -945,7 +945,7 @@
     "lat_raw": "22-01N",
     "lon_raw": "119-46E",
     "local": "1945-04-11 1200(H)",
-    "page": "rg367-74809762/p09",
+    "page": "rg38-74809762/p09",
     "note": "Surfaced on lifeguard station 1028; PBM and B-17 cover",
     "fix": ""
    },
@@ -968,7 +968,7 @@
     "lat_raw": "22-12N",
     "lon_raw": "119-27E",
     "local": "1945-04-11 1850(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 159 mc, strong, Southern Formosa (zone not given). Narrative 1830: commenced closing land for a radar fix",
     "fix": ""
    },
@@ -991,7 +991,7 @@
     "lat_raw": "22-20N",
     "lon_raw": "119-23E",
     "local": "1945-04-12 1200(H)",
-    "page": "rg367-74809762/p09",
+    "page": "rg38-74809762/p09",
     "note": "Lifeguard station; B-17 cover; 1330 set course to close coast of Formosa",
     "fix": ""
    },
@@ -1014,7 +1014,7 @@
     "lat_raw": "22-30N",
     "lon_raw": "120-17E",
     "local": "1945-04-12 2130(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 155 mc, weak, Southern Formosa (zone not given). Narrative 2030: patrol 8 mi off Formosa coast SE of RYUKYU SHO",
     "fix": ""
    },
@@ -1037,7 +1037,7 @@
     "lat_raw": "21-50N",
     "lon_raw": "120-02E",
     "local": "1945-04-13 1200(H)",
-    "page": "rg367-74809762/p10",
+    "page": "rg38-74809762/p10",
     "note": "Surfaced on lifeguard station 1105; four P-38s as air cover",
     "fix": ""
    },
@@ -1060,7 +1060,7 @@
     "lat_raw": "22-19N",
     "lon_raw": "120-06E",
     "local": "1945-04-13 2130(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 160 mc, medium, Southern Formosa (date faint, read 4-13; zone not given). Narrative 2003: patrol SE of RYUKYU SHO 8 mi off Formosa",
     "fix": ""
    },
@@ -1083,7 +1083,7 @@
     "lat_raw": "22-00N",
     "lon_raw": "119-53E",
     "local": "1945-04-14 1200(H)",
-    "page": "rg367-74809762/p10",
+    "page": "rg38-74809762/p10",
     "note": "On lifeguard station 1035; four P-38s as cover; three B-24s reported in distress but made it home",
     "fix": ""
    },
@@ -1106,7 +1106,7 @@
     "lat_raw": "21-57N",
     "lon_raw": "119-55E",
     "local": "1945-04-14 1436(H)",
-    "page": "rg367-74809762/p10",
+    "page": "rg38-74809762/p10",
     "note": "Sighted green dye marker by high periscope at 5 mi; closed and investigated but found nothing",
     "fix": ""
    },
@@ -1129,7 +1129,7 @@
     "lat_raw": "22-13N",
     "lon_raw": "119-21E",
     "local": "1945-04-15 1200(H)",
-    "page": "rg367-74809762/p11",
+    "page": "rg38-74809762/p11",
     "note": "Lifeguard station; 1235 B-17 reported convoy 80 mi 135T; 1344 went ahead at 16 kts to intercept on Hainan route; failed",
     "fix": ""
    },
@@ -1152,7 +1152,7 @@
     "lat_raw": "21-48N",
     "lon_raw": "119-56E",
     "local": "1945-04-16 1200(H)",
-    "page": "rg367-74809762/p12",
+    "page": "rg38-74809762/p12",
     "note": "Circling on lifeguard station 0903; B-17 and PBM; four P-38s",
     "fix": ""
    },
@@ -1175,7 +1175,7 @@
     "lat_raw": "21-48N",
     "lon_raw": "119-53E",
     "local": "1945-04-16 1820(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 157 mc, medium, Southern Formosa (zone not given)",
     "fix": ""
    },
@@ -1198,7 +1198,7 @@
     "lat_raw": "22-47N",
     "lon_raw": "119-49E",
     "local": "1945-04-16 1900(H)",
-    "page": "rg367-74809762/p32",
+    "page": "rg38-74809762/p32",
     "note": "APR contacts table: 166 mc, medium, Southern Formosa (date faint, read 4-16; zone not given)",
     "fix": "59 nm from APR 14 forty minutes earlier and from the noon fix; the narrative has BURRFISH on station all afternoon. Date probably misread or mistyped; error not identified"
    },
@@ -1221,7 +1221,7 @@
     "lat_raw": "22-04N",
     "lon_raw": "119-54E",
     "local": "1945-04-17 1200(H)",
-    "page": "rg367-74809762/p12",
+    "page": "rg38-74809762/p12",
     "note": "Surfaced on lifeguard station 0830; B-24s and P-38s",
     "fix": ""
    },
@@ -1244,7 +1244,7 @@
     "lat_raw": "22-17N",
     "lon_raw": "119-39E",
     "local": "1945-04-18 1200(H)",
-    "page": "rg367-74809762/p13",
+    "page": "rg38-74809762/p13",
     "note": "On station 0830; PBM and P-38 cover; 2027 lying to repairing No. 1 main motor",
     "fix": ""
    },
@@ -1267,7 +1267,7 @@
     "lat_raw": "21-46N",
     "lon_raw": "120-03E",
     "local": "1945-04-19 1200(H)",
-    "page": "rg367-74809762/p13",
+    "page": "rg38-74809762/p13",
     "note": "Surfaced on lifeguard station 0955; boarded abandoned motor sampan; demolished it with 4in/50 and 40 mm 1300",
     "fix": ""
    },
@@ -1290,7 +1290,7 @@
     "lat_raw": "22-19N",
     "lon_raw": "119-29E",
     "local": "1945-04-20 1200(H)",
-    "page": "rg367-74809762/p13",
+    "page": "rg38-74809762/p13",
     "note": "Circling on lifeguard station 1055; four P-51s; 2050 patrol 8 mi off SW coast Formosa",
     "fix": ""
    },
@@ -1313,7 +1313,7 @@
     "lat_raw": "22-09N",
     "lon_raw": "119-52E",
     "local": "1945-04-21 1200(H)",
-    "page": "rg367-74809762/p13",
+    "page": "rg38-74809762/p13",
     "note": "Circling on station 0658; PBY cover",
     "fix": ""
    },
@@ -1336,7 +1336,7 @@
     "lat_raw": "22-15N",
     "lon_raw": "120-01E",
     "local": "1945-04-22 1200(H)",
-    "page": "rg367-74809762/p14",
+    "page": "rg38-74809762/p14",
     "note": "Surfaced on lifeguard station 1005; PBM and four P-51s. 2040 strafed by aircraft as stern went under (three 20 mm hits found next morning)",
     "fix": ""
    },
@@ -1359,7 +1359,7 @@
     "lat_raw": "21-44N",
     "lon_raw": "120-11E",
     "local": "1945-04-23 1200(H)",
-    "page": "rg367-74809762/p14",
+    "page": "rg38-74809762/p14",
     "note": "0456 submerged 6 mi off KAIKO WAN and closed to 3 mi of beach; on station 1055",
     "fix": ""
    },
@@ -1382,7 +1382,7 @@
     "lat_raw": "21-51N",
     "lon_raw": "119-58E",
     "local": "1945-04-24 1200(H)",
-    "page": "rg367-74809762/p14",
+    "page": "rg38-74809762/p14",
     "note": "Circling on station 1050; air cover could not find us. 1340 set course SW at 15 kts to investigate aircraft contact report",
     "fix": ""
    },
@@ -1405,7 +1405,7 @@
     "lat_raw": "21-55N",
     "lon_raw": "119-08E",
     "local": "1945-04-25 0836(H)",
-    "page": "rg367-74809762/p15",
+    "page": "rg38-74809762/p15",
     "note": "Sank floating mine by 20 mm fire (mines table p21); position given for the mine",
     "fix": ""
    },
@@ -1428,7 +1428,7 @@
     "lat_raw": "22-12N",
     "lon_raw": "119-30E",
     "local": "1945-04-25 1200(H)",
-    "page": "rg367-74809762/p15",
+    "page": "rg38-74809762/p15",
     "note": "Circling on lifeguard station 1030; departed station 1158 patrolling westward (last digit of longitude faint)",
     "fix": ""
    },
@@ -1451,7 +1451,7 @@
     "lat_raw": "22-13N",
     "lon_raw": "119-16E",
     "local": "1945-04-25 1457(H)",
-    "page": "rg367-74809762/p15",
+    "page": "rg38-74809762/p15",
     "note": "Exploded floating mine with 40 mm fire (mines table p21); position given for the mine",
     "fix": ""
    },
@@ -1474,7 +1474,7 @@
     "lat_raw": "22-16N",
     "lon_raw": "119-05E",
     "local": "1945-04-25 1708(H)",
-    "page": "rg367-74809762/p15",
+    "page": "rg38-74809762/p15",
     "note": "Exploded floating mine with 40 mm fire (mines table p21); position given for the mine",
     "fix": ""
    },
@@ -1497,7 +1497,7 @@
     "lat_raw": "21-57N",
     "lon_raw": "120-00E",
     "local": "1945-04-26 1200(H)",
-    "page": "rg367-74809762/p15",
+    "page": "rg38-74809762/p15",
     "note": "Surfaced on lifeguard station 0930; PBM; PBY; two P-51s",
     "fix": ""
    },
@@ -1520,7 +1520,7 @@
     "lat_raw": "21-55N",
     "lon_raw": "120-24E",
     "local": "1945-04-27 1200(H)",
-    "page": "rg367-74809762/p15",
+    "page": "rg38-74809762/p15",
     "note": "Circling on lifeguard station 0700; weather very bad; 1156 submerged 18 mi off coast",
     "fix": ""
    },
@@ -1543,7 +1543,7 @@
     "lat_raw": "21-59N",
     "lon_raw": "120-25E",
     "local": "1945-04-27 1825(H)",
-    "page": "rg367-74809762/p15",
+    "page": "rg38-74809762/p15",
     "note": "Sighted floating mine; not destroyed (close to land) (mines table p21); position given for the mine",
     "fix": ""
    },
@@ -1566,7 +1566,7 @@
     "lat_raw": "22-04N",
     "lon_raw": "120-01E",
     "local": "1945-04-28 1200(H)",
-    "page": "rg367-74809762/p16",
+    "page": "rg38-74809762/p16",
     "note": "Circling on lifeguard station 0935; B-24s bombing S tip Formosa",
     "fix": ""
    },
@@ -1589,7 +1589,7 @@
     "lat_raw": "21-28N",
     "lon_raw": "120-42E",
     "local": "1945-04-29 1200(H)",
-    "page": "rg367-74809762/p16",
+    "page": "rg38-74809762/p16",
     "note": "0515 no lifeguard job received (CHARR given our reference point); 0900 strike cancelled; 0915 set course for BATAN ISLAND",
     "fix": ""
    },
@@ -1612,7 +1612,7 @@
     "lat_raw": "20-27.5N",
     "lon_raw": "121-55E",
     "local": "1945-04-30 0450(H)",
-    "page": "rg367-74809762/p20",
+    "page": "rg38-74809762/p20",
     "note": "Gun attack report: 4in gun, 1 common + 24 HC rounds at the radio station on NW shore of BATAN ISLAND, range 5000 yds; several small buildings damaged. Narrative (p17) has fire opened at 0507 and ceased 0512, 26 rounds, range 4500 yds; radio towers already down",
     "fix": ""
    },
@@ -1635,7 +1635,7 @@
     "lat_raw": "20-39.5N",
     "lon_raw": "123-41E",
     "local": "1945-04-30 1200(H)",
-    "page": "rg367-74809762/p17",
+    "page": "rg38-74809762/p17",
     "note": "0555 took course east at full speed enroute Saipan; 1000 departed area",
     "fix": ""
    },
@@ -1658,7 +1658,7 @@
     "lat_raw": "20-32.5N",
     "lon_raw": "130-03E",
     "local": "1945-05-01 1200(H)",
-    "page": "rg367-74809762/p17",
+    "page": "rg38-74809762/p17",
     "note": "Enroute Saipan (noon typed without zone; next entry 1945(I))",
     "fix": ""
    },
@@ -1681,7 +1681,7 @@
     "lat_raw": "18-53N",
     "lon_raw": "136-09E",
     "local": "1945-05-02 1200(I)",
-    "page": "rg367-74809762/p17",
+    "page": "rg38-74809762/p17",
     "note": "",
     "fix": ""
    },
@@ -1704,7 +1704,7 @@
     "lat_raw": "15-34N",
     "lon_raw": "141-30E",
     "local": "1945-05-03 1200(K)",
-    "page": "rg367-74809762/p17",
+    "page": "rg38-74809762/p17",
     "note": "0656 sighted TRUTTA; 2100 passed SPIKEFISH SHAD DRAGONET and BALAO",
     "fix": ""
    },
@@ -1727,7 +1727,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-05-04 1059(K)",
-    "page": "rg367-74809762/p17",
+    "page": "rg38-74809762/p17",
     "note": "Moored alongside ORION in TANAPAG HARBOR SAIPAN; 35000 gals diesel (port position)",
     "fix": ""
    },
@@ -1750,7 +1750,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-05-05 1151(K)",
-    "page": "rg367-74809762/p18",
+    "page": "rg38-74809762/p18",
     "note": "Underway enroute Pearl with BUMPER and LCI 1062 (port position)",
     "fix": ""
    },
@@ -1773,7 +1773,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1945-05-13 1000(VW)",
-    "page": "rg367-74809762/p18",
+    "page": "rg38-74809762/p18",
     "note": "Moored Submarine Base Pearl Harbor completing sixth war patrol (port position)",
     "fix": ""
    },

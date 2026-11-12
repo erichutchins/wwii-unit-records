@@ -1,36 +1,36 @@
 source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
-narrative,depart Majuro,1944-06-19,0545,L,07-06N,171-22E,rg367-74801303/p24,Underway for Fourth War Patrol to rendezvous with GUARDFISH (O.T.C. Capt. W.V. O'REGAN) THRESHER and PIRANHA at 25 N 165 E at dawn 23 June; CLOUES (DE265) escort (port position as other boats' Majuro rows),yes,,,,,
-air,Aircraft 1,1944-06-27,0718,K,21-26N,145-04E,rg367-74801303/p38,Aircraft Contacts (Revised) No. 1: Betty; 15 mi.; course 283 speed 15 surfaced,yes,,,,,
-air,Aircraft 2,1944-06-27,0925,K,21-15N,145-54E,rg367-74801303/p38,Aircraft Contacts No. 2: Coronado or Emily; course 193 speed 14,yes,,,,,
-air,Aircraft 3,1944-06-28,0646,K,21-16N,141-44E,rg367-74801303/p38,Aircraft Contacts No. 3: Betty; course 245 speed 13,yes,,,,,
-air,Aircraft 4,1944-06-28,0905,K,21-15N,141-31E,rg367-74801303/p38,Aircraft Contacts No. 4: Unk.; course 270 speed 15,yes,,,,,
-ship,Ship 1,1944-07-01,0301,I,21-45N,126-56E,rg367-74801303/p37,Ship Contacts No. 1: Unknown; radar 11900 yds; 000 T 17 kts; from pip size a submarine or patrol craft,no,,,,,ship-contact positions are the target not APOGON
-air,Aircraft 5,1944-07-03,0522,I,21-32N,122-22E,rg367-74801303/p38,Aircraft Contacts No. 5: Unk.; course 180 speed 10 surfaced,yes,,,,,
-air,Aircraft 6,1944-07-04,0954,I,21-08N,121-23E,rg367-74801303/p38,Aircraft Contacts No. 6: Emily; periscope depth,yes,,,,,
-ship,Ship 2,1944-07-04,0836,I,21-07N,121-23E,rg367-74801303/p37,Ship Contacts No. 2: 10 Type A landing barges; periscope 6000 yds; 180 T 8 kts; Navy type barges,no,,,,,ship-contact positions are the target not APOGON
-ship,Ship 3,1944-07-04,0925,I,21-08N,121-23E,rg367-74801303/p37,Ship Contacts No. 3: 4 patrol trawlers; 8000 yds; patrolling BASHI CHANNEL; 1 echo ranging,no,,,,,ship-contact positions are the target not APOGON
-air,Aircraft 7,1944-07-05,1007,I,21-22N,120-23E,rg367-74801303/p38,Aircraft Contacts No. 7: Unk.; periscope depth,yes,,,,,
-air,Aircraft 8,1944-07-05,1157,I,21-15N,120-25E,rg367-74801303/p39,Aircraft Contacts No. 8: Betty,yes,,,,,
-air,Aircraft 9,1944-07-05,1346,I,21-12N,120-26E,rg367-74801303/p39,Aircraft Contacts No. 9: Pete,yes,,,,,
-air,Aircraft 10,1944-07-05,1440,I,21-10N,120-25E,rg367-74801303/p39,Aircraft Contacts No. 10: Pete,yes,,,,,
-air,Aircraft 11,1944-07-05,1548,I,21-08N,120-24E,rg367-74801303/p39,Aircraft Contacts No. 11: Pete,yes,,,,,
-ship,sampan,1944-07-06,0205,I,21-15N,119-21E,rg367-74801303/p30,Sighted lighted sampan (narrative types no zone letter; I from the contact tables),no,,,,,a sighted craft's position; not APOGON's
-air,Aircraft 12,1944-07-08,0236,I,21-13N,120-05E,rg367-74801303/p39,Aircraft Contacts No. 12: Unk.; SJ radar 9 mi. (narrative p30: 0236 SJ contact on plane 21-13N 120-05E Air Con No. 12),yes,,,,,
-air,Aircraft 13,1944-07-09,0648,I,21-34N,122-17E,rg367-74801303/p39,Aircraft Contacts No. 13: Emily; course 015 (narrative p30 types 21-34N 122-19E),yes,,,,,
-air,Aircraft 14,1944-07-09,1307,I,21-38N,122-21E,rg367-74801303/p39,Aircraft Contacts No. 14: Emily; course 165 (narrative p30 types 21-42N 122-20E),yes,,,,,
-ship,Ship 4,1944-07-09,1336,I,21-40N,122-10E,rg367-74801303/p37,Ship Contacts No. 4: Smoke; periscope 20000 yds; patrolling across BASHI CHANNEL,no,,,,,ship-contact positions are the target not APOGON
-air,Aircraft 15,1944-07-09,1400,I,21-37N,122-21E,rg367-74801303/p40,Aircraft Contacts No. 15: Emily; periscope,yes,,,,,
-air,Aircraft 16,1944-07-09,1513,I,21-41N,122-20E,rg367-74801303/p40,Aircraft Contacts No. 16: Emily,yes,,,,,
-air,Aircraft 17,1944-07-09,1631,I,21-44N,122-19E,rg367-74801303/p40,Aircraft Contacts No. 17: Emily; course 340 (narrative p31 1631 Sighted EMILY again),yes,,,,,
-narrative,SJ contact convoy,1944-07-11,2314,I,19-51N,123-04E,rg367-74801303/p31,Made SJ contact 273 T 29800 yards. Posit 19-51N 123-04 E. Several targets ... base course 180-185 T 14 knots making zigs about every seven minutes (narrative types no zone letter; I from the ship-contact table),yes,,,,,
-ship,Ship 5,1944-07-11,2314,I,19-51N,122-49E,rg367-74801303/p37,Ship Contacts No. 5: Convoy; radar 29800 yds; 180 T 14 kts; at least 8 AKs and 6 escorts including DDs,no,,,,,ship-contact positions are the target not APOGON
-attack,Attack 1,1944-07-12,0301,I,19-11N,122-38E,rg367-74801303/p41,Torpedo Attack No. 1: six Mk 23 bow tubes at center column (large passenger freighter and two overlapping AKs); 3 hits heard in far port column; then rammed by large AK of center column (narrative p32 types 0304 commenced firing),yes,,,,,
-air,Aircraft 18,1944-07-13,0921,I,20-04N,126-34E,rg367-74801303/p40,Aircraft Contacts No. 18: 2 eng bomber; course 100 speed 16 surfaced (narrative p33: BETTY 280 T 7 miles),yes,,,,,
-air,Aircraft 19,1944-07-15,1131,I,21-50N,138-00E,rg367-74801303/p40,Aircraft Contacts No. 19: 2 eng bomber; course 95 speed 14.5 (narrative p33 types 21-50N 137-52E),yes,,,,,
-air,Aircraft 20,1944-07-16,0708,I,21-57N,141-43E,rg367-74801303/p40,Aircraft Contacts No. 20: 2 eng bomber; course 070 speed 14.5 (narrative p34 types 21-53N 141-43E),yes,,,,,
-narrative,stars,1944-07-17,0306,K,21-55N,144-18E,rg367-74801303/p34,Sighted two yellow recognition stars 080 T about 5 miles. Posit 21-55N 144-18E. Believe this a friendly submarine,yes,,,,,
-air,Aircraft 21,1944-07-17,0934,K,21-57N,145-52E,rg367-74801303/p40,Aircraft Contacts No. 21: 2 eng bomber; course 110 speed 15,yes,,,,,
-narrative,periscope report,1944-07-19,1846,L,22-57N,160-29E,rg367-74801303/p34,Lookout reported sighting periscope - not verified. Posit 22-57N 160-29E,yes,,,,,
-narrative,arrive Midway,1944-07-22,0759,Y,28-12N,177-23W,rg367-74801303/p35,Moored alongside dock at Submarine Base MIDWAY (second 22 July after the date line) (port position),yes,,,,,
-narrative,depart Midway,1944-07-22,1504,Y,28-12N,177-23W,rg367-74801303/p35,Underway from MIDWAY (port position),yes,,,,,
-narrative,arrive Pearl,1944-07-26,0605,VW,21-21N,157-58W,rg367-74801303/p35,Sighted OAHU ISLAND 060 T; moored Submarine Base PEARL HARBOR (no zone typed; VW assumed for Pearl; time of the Oahu sighting; port position),yes,,,,,
+narrative,depart Majuro,1944-06-19,0545,L,07-06N,171-22E,rg38-74801303/p24,Underway for Fourth War Patrol to rendezvous with GUARDFISH (O.T.C. Capt. W.V. O'REGAN) THRESHER and PIRANHA at 25 N 165 E at dawn 23 June; CLOUES (DE265) escort (port position as other boats' Majuro rows),yes,,,,,
+air,Aircraft 1,1944-06-27,0718,K,21-26N,145-04E,rg38-74801303/p38,Aircraft Contacts (Revised) No. 1: Betty; 15 mi.; course 283 speed 15 surfaced,yes,,,,,
+air,Aircraft 2,1944-06-27,0925,K,21-15N,145-54E,rg38-74801303/p38,Aircraft Contacts No. 2: Coronado or Emily; course 193 speed 14,yes,,,,,
+air,Aircraft 3,1944-06-28,0646,K,21-16N,141-44E,rg38-74801303/p38,Aircraft Contacts No. 3: Betty; course 245 speed 13,yes,,,,,
+air,Aircraft 4,1944-06-28,0905,K,21-15N,141-31E,rg38-74801303/p38,Aircraft Contacts No. 4: Unk.; course 270 speed 15,yes,,,,,
+ship,Ship 1,1944-07-01,0301,I,21-45N,126-56E,rg38-74801303/p37,Ship Contacts No. 1: Unknown; radar 11900 yds; 000 T 17 kts; from pip size a submarine or patrol craft,no,,,,,ship-contact positions are the target not APOGON
+air,Aircraft 5,1944-07-03,0522,I,21-32N,122-22E,rg38-74801303/p38,Aircraft Contacts No. 5: Unk.; course 180 speed 10 surfaced,yes,,,,,
+air,Aircraft 6,1944-07-04,0954,I,21-08N,121-23E,rg38-74801303/p38,Aircraft Contacts No. 6: Emily; periscope depth,yes,,,,,
+ship,Ship 2,1944-07-04,0836,I,21-07N,121-23E,rg38-74801303/p37,Ship Contacts No. 2: 10 Type A landing barges; periscope 6000 yds; 180 T 8 kts; Navy type barges,no,,,,,ship-contact positions are the target not APOGON
+ship,Ship 3,1944-07-04,0925,I,21-08N,121-23E,rg38-74801303/p37,Ship Contacts No. 3: 4 patrol trawlers; 8000 yds; patrolling BASHI CHANNEL; 1 echo ranging,no,,,,,ship-contact positions are the target not APOGON
+air,Aircraft 7,1944-07-05,1007,I,21-22N,120-23E,rg38-74801303/p38,Aircraft Contacts No. 7: Unk.; periscope depth,yes,,,,,
+air,Aircraft 8,1944-07-05,1157,I,21-15N,120-25E,rg38-74801303/p39,Aircraft Contacts No. 8: Betty,yes,,,,,
+air,Aircraft 9,1944-07-05,1346,I,21-12N,120-26E,rg38-74801303/p39,Aircraft Contacts No. 9: Pete,yes,,,,,
+air,Aircraft 10,1944-07-05,1440,I,21-10N,120-25E,rg38-74801303/p39,Aircraft Contacts No. 10: Pete,yes,,,,,
+air,Aircraft 11,1944-07-05,1548,I,21-08N,120-24E,rg38-74801303/p39,Aircraft Contacts No. 11: Pete,yes,,,,,
+ship,sampan,1944-07-06,0205,I,21-15N,119-21E,rg38-74801303/p30,Sighted lighted sampan (narrative types no zone letter; I from the contact tables),no,,,,,a sighted craft's position; not APOGON's
+air,Aircraft 12,1944-07-08,0236,I,21-13N,120-05E,rg38-74801303/p39,Aircraft Contacts No. 12: Unk.; SJ radar 9 mi. (narrative p30: 0236 SJ contact on plane 21-13N 120-05E Air Con No. 12),yes,,,,,
+air,Aircraft 13,1944-07-09,0648,I,21-34N,122-17E,rg38-74801303/p39,Aircraft Contacts No. 13: Emily; course 015 (narrative p30 types 21-34N 122-19E),yes,,,,,
+air,Aircraft 14,1944-07-09,1307,I,21-38N,122-21E,rg38-74801303/p39,Aircraft Contacts No. 14: Emily; course 165 (narrative p30 types 21-42N 122-20E),yes,,,,,
+ship,Ship 4,1944-07-09,1336,I,21-40N,122-10E,rg38-74801303/p37,Ship Contacts No. 4: Smoke; periscope 20000 yds; patrolling across BASHI CHANNEL,no,,,,,ship-contact positions are the target not APOGON
+air,Aircraft 15,1944-07-09,1400,I,21-37N,122-21E,rg38-74801303/p40,Aircraft Contacts No. 15: Emily; periscope,yes,,,,,
+air,Aircraft 16,1944-07-09,1513,I,21-41N,122-20E,rg38-74801303/p40,Aircraft Contacts No. 16: Emily,yes,,,,,
+air,Aircraft 17,1944-07-09,1631,I,21-44N,122-19E,rg38-74801303/p40,Aircraft Contacts No. 17: Emily; course 340 (narrative p31 1631 Sighted EMILY again),yes,,,,,
+narrative,SJ contact convoy,1944-07-11,2314,I,19-51N,123-04E,rg38-74801303/p31,Made SJ contact 273 T 29800 yards. Posit 19-51N 123-04 E. Several targets ... base course 180-185 T 14 knots making zigs about every seven minutes (narrative types no zone letter; I from the ship-contact table),yes,,,,,
+ship,Ship 5,1944-07-11,2314,I,19-51N,122-49E,rg38-74801303/p37,Ship Contacts No. 5: Convoy; radar 29800 yds; 180 T 14 kts; at least 8 AKs and 6 escorts including DDs,no,,,,,ship-contact positions are the target not APOGON
+attack,Attack 1,1944-07-12,0301,I,19-11N,122-38E,rg38-74801303/p41,Torpedo Attack No. 1: six Mk 23 bow tubes at center column (large passenger freighter and two overlapping AKs); 3 hits heard in far port column; then rammed by large AK of center column (narrative p32 types 0304 commenced firing),yes,,,,,
+air,Aircraft 18,1944-07-13,0921,I,20-04N,126-34E,rg38-74801303/p40,Aircraft Contacts No. 18: 2 eng bomber; course 100 speed 16 surfaced (narrative p33: BETTY 280 T 7 miles),yes,,,,,
+air,Aircraft 19,1944-07-15,1131,I,21-50N,138-00E,rg38-74801303/p40,Aircraft Contacts No. 19: 2 eng bomber; course 95 speed 14.5 (narrative p33 types 21-50N 137-52E),yes,,,,,
+air,Aircraft 20,1944-07-16,0708,I,21-57N,141-43E,rg38-74801303/p40,Aircraft Contacts No. 20: 2 eng bomber; course 070 speed 14.5 (narrative p34 types 21-53N 141-43E),yes,,,,,
+narrative,stars,1944-07-17,0306,K,21-55N,144-18E,rg38-74801303/p34,Sighted two yellow recognition stars 080 T about 5 miles. Posit 21-55N 144-18E. Believe this a friendly submarine,yes,,,,,
+air,Aircraft 21,1944-07-17,0934,K,21-57N,145-52E,rg38-74801303/p40,Aircraft Contacts No. 21: 2 eng bomber; course 110 speed 15,yes,,,,,
+narrative,periscope report,1944-07-19,1846,L,22-57N,160-29E,rg38-74801303/p34,Lookout reported sighting periscope - not verified. Posit 22-57N 160-29E,yes,,,,,
+narrative,arrive Midway,1944-07-22,0759,Y,28-12N,177-23W,rg38-74801303/p35,Moored alongside dock at Submarine Base MIDWAY (second 22 July after the date line) (port position),yes,,,,,
+narrative,depart Midway,1944-07-22,1504,Y,28-12N,177-23W,rg38-74801303/p35,Underway from MIDWAY (port position),yes,,,,,
+narrative,arrive Pearl,1944-07-26,0605,VW,21-21N,157-58W,rg38-74801303/p35,Sighted OAHU ISLAND 060 T; moored Submarine Base PEARL HARBOR (no zone typed; VW assumed for Pearl; time of the Oahu sighting; port position),yes,,,,,

@@ -9,7 +9,7 @@
 # kept as typed) and as a three-figure angle on attacks 3 to 6; "Hit or Miss" is typed once across the columns
 # ("2 Hits"), not per torpedo, so `hit` is blank in attacks.csv and the count is `hits` here. Times on attacks 2, 4
 # and 6 are typed with seconds after a dash (1616-32 is 32 seconds after 1616: the narrative's "1616 Commenced
-# firing ... At 1616-32 Commenced firing three torpedoes at AO", rg367-74802831/p04); kept as typed.
+# firing ... At 1616-32 Commenced firing three torpedoes at AO", rg38-74802831/p04); kept as typed.
 # target_line and own_ship are the sheet's lines as typed.
 
 - attack: Attack 1
@@ -32,8 +32,8 @@
   sea: Slight swell
   overhaul: U.S. Submarine Base, Pearl Harbor.
   remarks: The miss was due to spread used.
-  page: rg367-74802831/p13
-  table_page: rg367-74802831/p14
+  page: rg38-74802831/p13
+  table_page: rg38-74802831/p14
   note: >-
     Two specks after "245°" in the own-ship course line are marks on the paper, not typed characters (zoomed);
     the course is 245, and the tracks typed agree with 245 + gyro against target course 180.
@@ -56,10 +56,10 @@
   sea: Slight swell
   overhaul: U.S. Submarine Base, Pearl Harbor.
   remarks: The miss was due to spread used.
-  page: rg367-74802831/p15
-  table_page: rg367-74802831/p16
+  page: rg38-74802831/p15
+  table_page: rg38-74802831/p16
   note: >-
-    The sheet's time is typed "1616-32(K)", and the narrative (rg367-74802831/p04) has "At 1616-32 Commenced
+    The sheet's time is typed "1616-32(K)", and the narrative (rg38-74802831/p04) has "At 1616-32 Commenced
     firing three torpedoes at AO" straight after firing at the AK at 1616: 32 seconds after 1616. positions.csv
     has the minute, 1616 (it had 1632 until 31 Oct 2026, the seconds read as minutes); attacks.csv keeps 1616-32.
 
@@ -86,8 +86,8 @@
   overhaul: U.S. Submarine Base, Pearl Harbor
   remarks: >-
     One miss due to spread, the other probably due to target maneuver during torpedo run or to control errors.
-  page: rg367-74802831/p17
-  table_page: rg367-74802831/p18
+  page: rg38-74802831/p17
+  table_page: rg38-74802831/p18
   note: >-
     The damage heading is typed "Ships Damaged or Probably Sunk" (kept as `damaged`).
 
@@ -109,8 +109,8 @@
   overhaul: U.S. Submarine Base, Pearl Harbor.
   remarks: >-
     One miss due to spread, the other probably due to target maneuver during torpedo run or to control errors.
-  page: rg367-74802831/p19
-  table_page: rg367-74802831/p20
+  page: rg38-74802831/p19
+  table_page: rg38-74802831/p20
   note: >-
     The sheet's time is typed "0915-55(K)": 55 seconds after 0915, the stern tubes fired "immediately after firing
     bow tubes" (type attack). positions.csv has the minute, 0915 (it had 0955 until
@@ -149,8 +149,8 @@
     maneuvers of the escort led me to believe that I had been detected (possibly by radar interference, in which
     my exact position was not known) and that I would soon have the escort on me; and I wanted to inflict as much
     damage as possible before this occurred.
-  page: rg367-74802831/p21
-  table_page: rg367-74802831/p22
+  page: rg38-74802831/p21
+  table_page: rg38-74802831/p22
   note: >-
     Three ranges are typed, one to each overlapping target; attacks.csv gives the first (2200), the sheet not
     saying which torpedoes went to which target. The gyro angles of tubes 3, 2 and 1 are typed with an asterisk
@@ -182,8 +182,8 @@
   remarks: >-
     Misses due to target continuing to swing during torpedo run. On attacks 5 and 6 fired lower tubes first
     because I believe they afford less chance of detection on launching.
-  page: rg367-74802831/p23
-  table_page: rg367-74802831/p24
+  page: rg38-74802831/p23
+  table_page: rg38-74802831/p24
   note: >-
     The sheet's time is typed "0017-15(K)" (15 seconds after 0017); positions.csv has 0017. attacks.csv keeps
     0017-15. The type-attack paragraph gives the spread as 1½, ½, ½, 1½ (1° between torpedoes), as does the

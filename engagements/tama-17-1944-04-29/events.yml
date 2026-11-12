@@ -5,28 +5,28 @@
   kind: received
   from: bang
   words: Received contact report from BANG; increased speed to 17 knots on course 180°T.
-  ref: rg367-74856363/p08
+  ref: rg38-74856363/p08
 - at: 1944-04-29 2330 H
   of: us
   actor: tinosa
   kind: received
   from: parche
   words: Contact report from PARCHE.
-  ref: rg367-74856363/p08
+  ref: rg38-74856363/p08
 - at: 1944-04-30 0255 H
   of: us
   actor: tinosa
   kind: received
   from: bang
   words: Contact report from BANG; came to course to intercept at 20 knots.
-  ref: rg367-74856363/p09
+  ref: rg38-74856363/p09
 - at: 1944-04-30 0735 H
   of: us
   actor: tinosa
   kind: log
   words: >-
     PARCHE dove … after having informed us that she would make first attack on the port flank of the convoy.
-  ref: rg367-74856363/p09
+  ref: rg38-74856363/p09
 - at: 1944-04-30 0828 H
   of: us
   actor: tinosa
@@ -34,13 +34,13 @@
   words: >-
     Sighted a patrol plane covering the convoy. With plane coverage, a bright sky and a glassy sea, I could only
     use about 6 inches of periscope.
-  ref: rg367-74856363/p09
+  ref: rg38-74856363/p09
 - at: 1944-04-30 0901 H
   of: us
   actor: tinosa
   kind: log
   words: First of a series of 42 depth charges from the vicinity of the PARCHE.
-  ref: rg367-74856363/p10
+  ref: rg38-74856363/p10
 - at: 1944-04-30 0923 H
   of: us
   actor: tinosa
@@ -48,7 +48,7 @@
   words: >-
     Two depth charges, not close … followed shortly thereafter by a series of 21 more depth charges within the
     next 14 minutes.
-  ref: rg367-74856363/p11
+  ref: rg38-74856363/p11
 - at: 1944-04-30 1046 H
   of: us
   actor: tinosa
@@ -56,4 +56,4 @@
   words: >-
     One AK was observed before firing to have a port list and was heavy aft. She must have been damaged by BANG
     or PARCHE.
-  ref: rg367-74856363/p11
+  ref: rg38-74856363/p11

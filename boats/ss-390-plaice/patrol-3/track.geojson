@@ -78,7 +78,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1944-11-09 1445(VW)",
-    "page": "rg367-74832413/p03",
+    "page": "rg38-74832413/p03",
     "note": "Underway from U.S. Submarine Base, Pearl Harbor, T.H. in accordance with Comsubpac Operation Order No. 373-44 enroute to MIDWAY ISLANDS, T.H. (port position; the report gives no coordinates)",
     "fix": ""
    },
@@ -101,7 +101,7 @@
     "lat_raw": "33-09N",
     "lon_raw": "144-08E",
     "local": "1944-11-21 0528(K)",
-    "page": "rg367-74832413/p24",
+    "page": "rg38-74832413/p24",
     "note": "3 unknown, sight, 2 miles; sighted formation of three planes by exhaust flames (the table's position)",
     "fix": ""
    },
@@ -124,7 +124,7 @@
     "lat_raw": "33-17N",
     "lon_raw": "146-33E",
     "local": "1944-11-21 1821(K)",
-    "page": "rg367-74832413/p24",
+    "page": "rg38-74832413/p24",
     "note": "1 unknown, SD, 25 miles; closed to twenty-two miles, then opened",
     "fix": ""
    },
@@ -147,7 +147,7 @@
     "lat_raw": "32-35N",
     "lon_raw": "140-15E",
     "local": "1944-11-23 0305(K)",
-    "page": "rg367-74832413/p24",
+    "page": "rg38-74832413/p24",
     "note": "1 unknown, sight, 5 miles; sighted burning running lights",
     "fix": ""
    },
@@ -170,7 +170,7 @@
     "lat_raw": "31-05N",
     "lon_raw": "136-54E",
     "local": "1944-11-24 0750(K)",
-    "page": "rg367-74832413/p21",
+    "page": "rg38-74832413/p21",
     "note": "Sampan 8000 yds, course 087 7.5 kts, periscope; small catcher type",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -193,7 +193,7 @@
     "lat_raw": "31-02N",
     "lon_raw": "136-48E",
     "local": "1944-11-24 1238(K)",
-    "page": "rg367-74832413/p21",
+    "page": "rg38-74832413/p21",
     "note": "Sampan 7000 yds, course 090 9 kts, periscope; small catcher type",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -216,7 +216,7 @@
     "lat_raw": "31-00N",
     "lon_raw": "136-42E",
     "local": "1944-11-24 1514(K)",
-    "page": "rg367-74832413/p21",
+    "page": "rg38-74832413/p21",
     "note": "Sampan 8000 yds, course 180, periscope; small catcher type",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -239,7 +239,7 @@
     "lat_raw": "30-29N",
     "lon_raw": "130-20E",
     "local": "1944-11-26 0322(I)",
-    "page": "rg367-74832413/p24",
+    "page": "rg38-74832413/p24",
     "note": "1 unknown, sight, 5 miles; sighted burning running lights",
     "fix": ""
    },
@@ -262,7 +262,7 @@
     "lat_raw": "30-15N",
     "lon_raw": "130-35E",
     "local": "1944-11-27 1216(I)",
-    "page": "rg367-74832413/p24",
+    "page": "rg38-74832413/p24",
     "note": "1 BETTY, periscope (submerged), 10 miles, course 190; flying at 1500 feet, straight course",
     "fix": ""
    },
@@ -285,7 +285,7 @@
     "lat_raw": "30-48N",
     "lon_raw": "131-40E",
     "local": "1944-11-29 2055(I)",
-    "page": "rg367-74832413/p21",
+    "page": "rg38-74832413/p21",
     "note": "Hospital ship 23000 yds, course 045 14 kts, SJ radar",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -308,7 +308,7 @@
     "lat_raw": "31-10N",
     "lon_raw": "132-36E",
     "local": "1944-11-30 1922(I)",
-    "page": "rg367-74832413/p21",
+    "page": "rg38-74832413/p21",
     "note": "Midget submarine 3500 yds, sight",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -331,7 +331,7 @@
     "lat_raw": "29-52N",
     "lon_raw": "130-43E",
     "local": "1944-12-01 0617(I)",
-    "page": "rg367-74832413/p24",
+    "page": "rg38-74832413/p24",
     "note": "1 unknown, sight, 6 miles, course 050",
     "fix": ""
    },
@@ -354,7 +354,7 @@
     "lat_raw": "30-03N",
     "lon_raw": "129-52E",
     "local": "1944-12-01 2010(I)",
-    "page": "rg367-74832413/p21",
+    "page": "rg38-74832413/p21",
     "note": "Friendly submarine, SJ interference (the row types the position before the time)",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -377,7 +377,7 @@
     "lat_raw": "30-19N",
     "lon_raw": "129-45E",
     "local": "1944-12-01 2249(I)",
-    "page": "rg367-74832413/p21",
+    "page": "rg38-74832413/p21",
     "note": "U.S.S. SEA DEVIL, SJ interference",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -400,7 +400,7 @@
     "lat_raw": "31-45N",
     "lon_raw": "129-30E",
     "local": "1944-12-03 2145(I)",
-    "page": "rg367-74832413/p22",
+    "page": "rg38-74832413/p22",
     "note": "Unknown 31700 yds, course 170 14 kts, SJ radar; attack frustrated by air cover",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -423,7 +423,7 @@
     "lat_raw": "31-48N",
     "lon_raw": "129-43E",
     "local": "1944-12-03 2227(I)",
-    "page": "rg367-74832413/p22",
+    "page": "rg38-74832413/p22",
     "note": "P.C. 6000 yds, sight; probably wooden hulled P.C.",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -446,7 +446,7 @@
     "lat_raw": "31-49N",
     "lon_raw": "129-07E",
     "local": "1944-12-04 2225(I)",
-    "page": "rg367-74832413/p22",
+    "page": "rg38-74832413/p22",
     "note": "Probable P.C. 3500 yds, sight; probably wooden hulled P.C.",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -469,7 +469,7 @@
     "lat_raw": "31-58N",
     "lon_raw": "129-14E",
     "local": "1944-12-05 0047(I)",
-    "page": "rg367-74832413/p22",
+    "page": "rg38-74832413/p22",
     "note": "Small patrol 2500 yds, course 040 7 kts, sight; probably small patrol craft or sampan",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -492,7 +492,7 @@
     "lat_raw": "32-27N",
     "lon_raw": "129-14E",
     "local": "1944-12-05 1235(I)",
-    "page": "rg367-74832413/p22",
+    "page": "rg38-74832413/p22",
     "note": "Patrol craft 16000 yds, course 280, sight; small trawler or catcher type patrolling",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -515,7 +515,7 @@
     "lat_raw": "32-21N",
     "lon_raw": "129-14E",
     "local": "1944-12-05 1553(I)",
-    "page": "rg367-74832413/p25",
+    "page": "rg38-74832413/p25",
     "note": "MAVIS, periscope (submerged), 6 miles, course 350; apparently on routine patrol flight",
     "fix": ""
    },
@@ -538,7 +538,7 @@
     "lat_raw": "32-16N",
     "lon_raw": "128-32E",
     "local": "1944-12-05 2123(I)",
-    "page": "rg367-74832413/p22",
+    "page": "rg38-74832413/p22",
     "note": "Patrol craft 2000 yds, SJ radar; probably small patrol craft",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -561,7 +561,7 @@
     "lat_raw": "31-43N",
     "lon_raw": "128-13E",
     "local": "1944-12-08 0852(I)",
-    "page": "rg367-74832413/p22",
+    "page": "rg38-74832413/p22",
     "note": "Patrol craft 10000 yds, periscope (submerged); lost in mist before identifying (the row types the position before the time)",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -584,7 +584,7 @@
     "lat_raw": "31-42N",
     "lon_raw": "128-14E",
     "local": "1944-12-08 0932(I)",
-    "page": "rg367-74832413/p25",
+    "page": "rg38-74832413/p25",
     "note": "BETTY, periscope (submerged), 2 miles; on A/S patrol",
     "fix": ""
    },
@@ -607,7 +607,7 @@
     "lat_raw": "31-35N",
     "lon_raw": "128-58E",
     "local": "1944-12-09 0000(I)",
-    "page": "rg367-74832413/p22",
+    "page": "rg38-74832413/p22",
     "note": "Task force 24000 yds, course 090 18 kts, SJ radar; radar showed two large ships and six small ones. A large CV and 2 DD's were seen. Attacks #1 & 2",
     "fix": "ship-contact positions; the table does not say whose (the narrative has the contact 24000 yds due west of PLAICE)"
    },
@@ -630,7 +630,7 @@
     "lat_raw": "31-57N",
     "lon_raw": "129-01E",
     "local": "1944-12-09 0128(I)",
-    "page": "rg367-74832413/p26",
+    "page": "rg38-74832413/p26",
     "note": "Torpedo attack No. 1: three bow tubes (1-3) at the leading destroyer of the screen, range 3700, two correctly timed hits; claims one fleet type destroyer, TERUTSUKI class, damaged or probably sunk. Narrative (p11-p12): fired at 0128; at 0129 the carrier came out of the rain squall, 'a large carrier with island superstructure'; 0131 heard two hits in the leading destroyer while diving. At 0030 the narrative heard three explosions, 'hits from the SEA DEVIL's attack'",
     "fix": ""
    },
@@ -653,7 +653,7 @@
     "lat_raw": "31-57N",
     "lon_raw": "129-01E",
     "local": "1944-12-09 0131(I)",
-    "page": "rg367-74832413/p28",
+    "page": "rg38-74832413/p28",
     "note": "Torpedo attack No. 2: four stern tubes (7-10) at the third destroyer, range 2000, fired diving; two correctly timed hits (narrative: 0133); claims one fleet type destroyer damaged or probably sunk. Breaking-up noises 0205-0208 and, on another bearing, from 0211",
     "fix": ""
    },
@@ -676,7 +676,7 @@
     "lat_raw": "31-00N",
     "lon_raw": "132-16E",
     "local": "1944-12-10 1815(I)",
-    "page": "rg367-74832413/p25",
+    "page": "rg38-74832413/p25",
     "note": "1 unknown, APR; apparently on routine patrol flight",
     "fix": ""
    },
@@ -699,7 +699,7 @@
     "lat_raw": "32-35N",
     "lon_raw": "135-15E",
     "local": "1944-12-12 2020(I)",
-    "page": "rg367-74832413/p22",
+    "page": "rg38-74832413/p22",
     "note": "Sampan or P.C. 2000 yds, sight; running darkened",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -722,7 +722,7 @@
     "lat_raw": "32-36N",
     "lon_raw": "135-15E",
     "local": "1944-12-14 1908(I)",
-    "page": "rg367-74832413/p23",
+    "page": "rg38-74832413/p23",
     "note": "Sampan probable 1900 yds, SJ radar; night very dark, not sighted",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -745,7 +745,7 @@
     "lat_raw": "32-30N",
     "lon_raw": "133-43E",
     "local": "1944-12-14 1938(I)",
-    "page": "rg367-74832413/p23",
+    "page": "rg38-74832413/p23",
     "note": "Probable sampan 2500 yds, SJ radar; night very dark, not sighted",
     "fix": "ship-contact positions; the table does not say whose"
    },
@@ -768,7 +768,7 @@
     "lat_raw": "13-27N",
     "lon_raw": "144-38E",
     "local": "1944-12-20 1715(K)",
-    "page": "rg367-74832413/p19",
+    "page": "rg38-74832413/p19",
     "note": "Moored starboard side to U.S.S. SCABBARDFISH alongside U.S.S. SPERRY at GUAM ISLAND (port position; the report gives no coordinates)",
     "fix": ""
    },

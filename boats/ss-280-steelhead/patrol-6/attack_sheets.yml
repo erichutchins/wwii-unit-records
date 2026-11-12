@@ -43,8 +43,8 @@
     left hand two torpedoes in the spread, hit the tanker.
   sea: Rough
   overhaul: Submarine Base, Midway.
-  page: rg367-74851415/p34
-  table_page: rg367-74851415/p35
+  page: rg38-74851415/p34
+  table_page: rg38-74851415/p35
   note: >-
     The sheet types one target course (200 by TDC, about 160 actual) and one range (3000) for both ships;
     attacks.csv gives the TDC course, 200. Draft per torpedo is inferred from the Hit column: tube 5, typed
@@ -75,8 +75,8 @@
     Officer believes all torpedoes missed ahead, but two may have hit.
   sea: Rough.
   overhaul: Submarine Base, Midway.
-  page: rg367-74851415/p35
-  table_page: rg367-74851415/p36
+  page: rg38-74851415/p35
+  table_page: rg38-74851415/p36
   note: >-
     The sheet's position types "Long. 120°50'N." (N for E); positions.csv keeps it as 120-50E with this note. The
     remarks give a 1700-yard run against the 1800 range at firing; the narrative (p23, 0336) says 1700 yards, 80
@@ -105,8 +105,8 @@
     damaged condition in which she was last seen she could never reach port.
   sea: Rough.
   overhaul: Submarine Base, Midway.
-  page: rg367-74851415/p37
-  table_page: rg367-74851415/p37
+  page: rg38-74851415/p37
+  table_page: rg38-74851415/p37
   note: >-
     "Dearings" and "ONY 208-J" as typed (ONI 208-J). The sheet's position repeats Attack 1's (18-57N, 120-50E),
     though the attack came 77 minutes later. The narrative (p24, 0449) gives "a range of 2000 yards, 100 port
@@ -140,8 +140,8 @@
     (page 221 of O.N.I. 208-J).
   sea: Rough.
   overhaul: Submarine Base, Midway.
-  page: rg367-74851415/p38
-  table_page: rg367-74851415/p39
+  page: rg38-74851415/p38
+  table_page: rg38-74851415/p39
   note: >-
     "two times explosions" as typed (timed). The sheet's position repeats Attack 1's. The narrative (p24, 0459)
     gives "a torpedo run of 1750 yards, 80 port track"; the sheet types 1900 range and 75P-79P.

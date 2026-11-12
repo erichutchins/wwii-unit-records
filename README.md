@@ -11,7 +11,7 @@ these files, and its pages draw them. The data stands on its own: CSV and YAML, 
 ## The rule: cite every source
 
 Every transcribed row carries a citation (`page`, `ref`, `source` or `map`) in one of the short
-forms listed in [`SOURCES.yml`](SOURCES.yml): `rg367-74802746/p05` is page 5 of National Archives
+forms listed in [`SOURCES.yml`](SOURCES.yml): `rg38-74802746/p05` is page 5 of National Archives
 catalog item 74802746; `jacar:C08030140600` a JACAR record; `ok45th-17552/p06` a museum PDF's page.
 `tools/check_sources.py` fails if any citation doesn't resolve or any row has none, and writes
 [`citations.json`](citations.json): every cited National Archives item's own catalog title and series.
@@ -206,7 +206,7 @@ one ring in its side's ink, under the marks, labelled with the weapon and the ra
 | `ref` | Contact or attack number as the report numbers it |
 | `date`, `time`, `zone` | Exactly as typed. Zones: Z = GCT, K = −10, I = −9, M = −12, Y = +12, X = +11, W = +10, VW = +9½ (US Navy letters; "−10" means local = GCT + 10) |
 | `lat_raw`, `lon_raw` | Exactly as typed, in deg-min (`19-26N`). `?` marks a digit that is illegible in the scan |
-| `page` | The cited page, e.g. `rg367-74802746/p16`: catalog item 74802746, object page 16 (`nara/rg367-74802746/p16.jpg` in the kit's cache after `tools/nara.py fetch`) |
+| `page` | The cited page, e.g. `rg38-74802746/p16`: catalog item 74802746, object page 16 (`nara/rg38-74802746/p16.jpg` in the kit's cache after `tools/nara.py fetch`) |
 | `on_track` | `yes` = used for the track line. `no` = ship contacts, pre-departure readings, and fixes that contradict their neighbours |
 | `lat_fix`, `lon_fix`, `date_fix`, `time_fix` | Corrections of evident typing errors in the 1944–45 originals. Raw values are never overwritten |
 | `fix_note` | Why a correction was made, or why a fix is off the track |

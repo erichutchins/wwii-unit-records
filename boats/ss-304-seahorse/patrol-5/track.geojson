@@ -174,7 +174,7 @@
     "lat_raw": "27-28S",
     "lon_raw": "153-02E",
     "local": "1944-06-03 1400(K)",
-    "page": "rg367-74845019/p03",
+    "page": "rg38-74845019/p03",
     "note": "Departed BRISBANE, AUSTRALIA enroute patrol area (port position)",
     "fix": ""
    },
@@ -197,7 +197,7 @@
     "lat_raw": "02-02S",
     "lon_raw": "147-20E",
     "local": "1944-06-10 1400(K)",
-    "page": "rg367-74845019/p03",
+    "page": "rg38-74845019/p03",
     "note": "Arrived SEEADLER HARBOR, ADMIRALTY ISLANDS for fuel and post-refit repairs (port position)",
     "fix": ""
    },
@@ -220,7 +220,7 @@
     "lat_raw": "02-02S",
     "lon_raw": "147-20E",
     "local": "1944-06-11 1500(K)",
-    "page": "rg367-74845019/p03",
+    "page": "rg38-74845019/p03",
     "note": "Departed SEEADLER HARBOR (port position)",
     "fix": ""
    },
@@ -243,7 +243,7 @@
     "lat_raw": "7-04N",
     "lon_raw": "129-03E",
     "local": "1944-06-15 0935(I)",
-    "page": "rg367-74845019/p20",
+    "page": "rg38-74845019/p20",
     "note": "TESS 15 mi; in transit; SEAHORSE surfaced 10 kts course 000",
     "fix": ""
    },
@@ -266,7 +266,7 @@
     "lat_raw": "7-39N",
     "lon_raw": "128-57E",
     "local": "1944-06-15 1125(I)",
-    "page": "rg367-74845019/p20",
+    "page": "rg38-74845019/p20",
     "note": "KATE 11 mi; patrol; SEAHORSE surfaced 16.5 kts course 341",
     "fix": ""
    },
@@ -289,7 +289,7 @@
     "lat_raw": "9-30N",
     "lon_raw": "128-49E",
     "local": "1944-06-15 1845(I)",
-    "page": "rg367-74845019/p19",
+    "page": "rg38-74845019/p19",
     "note": "4 unidentified large men-of-war and 6 other sources of smoke, 19 mi, course 045 16.5 kts; trailed but lost contact (motor failure)",
     "fix": "ship-contact positions are the target, not SEAHORSE"
    },
@@ -312,7 +312,7 @@
     "lat_raw": "11-57N",
     "lon_raw": "129-19E",
     "local": "1944-06-16 0802(I)",
-    "page": "rg367-74845019/p20",
+    "page": "rg38-74845019/p20",
     "note": "Unknown 10 mi; periscope; SEAHORSE at radar depth 2.7 kts",
     "fix": ""
    },
@@ -335,7 +335,7 @@
     "lat_raw": "12-04N",
     "lon_raw": "129-19E",
     "local": "1944-06-16 1044(I)",
-    "page": "rg367-74845019/p20",
+    "page": "rg38-74845019/p20",
     "note": "Unknown 13 mi; SD radar; SEAHORSE at radar depth 2.7 kts",
     "fix": ""
    },
@@ -358,7 +358,7 @@
     "lat_raw": "15-33N",
     "lon_raw": "127-56E",
     "local": "1944-06-22 1319(I)",
-    "page": "rg367-74845019/p20",
+    "page": "rg38-74845019/p20",
     "note": "Unknown 22 mi; SD radar; did not dive (narrative: on way to rendezvous with BANG and GROWLER)",
     "fix": ""
    },
@@ -381,7 +381,7 @@
     "lat_raw": "17-52N",
     "lon_raw": "124-35E",
     "local": "1944-06-23 0800(H)",
-    "page": "rg367-74845019/p20",
+    "page": "rg38-74845019/p20",
     "note": "Unknown 8 mi; lookout; dived (first entry in zone H)",
     "fix": ""
    },
@@ -404,7 +404,7 @@
     "lat_raw": "20-47N",
     "lon_raw": "123-06E",
     "local": "1944-06-24 0701(H)",
-    "page": "rg367-74845019/p21",
+    "page": "rg38-74845019/p21",
     "note": "Unknown 10 mi; lookout; dived (narrative: in company with GROWLER since 0255)",
     "fix": ""
    },
@@ -427,7 +427,7 @@
     "lat_raw": "21-22N",
     "lon_raw": "122-23E",
     "local": "1944-06-24 1140(H)",
-    "page": "rg367-74845019/p21",
+    "page": "rg38-74845019/p21",
     "note": "Unknown 9 mi; SD radar; dived",
     "fix": ""
    },
@@ -450,7 +450,7 @@
     "lat_raw": "21-26N",
     "lon_raw": "122-23E",
     "local": "1944-06-24 1445(H)",
-    "page": "rg367-74845019/p21",
+    "page": "rg38-74845019/p21",
     "note": "MAVIS 15 mi; periscope",
     "fix": ""
    },
@@ -473,7 +473,7 @@
     "lat_raw": "21-37N",
     "lon_raw": "122-28E",
     "local": "1944-06-24 1647(H)",
-    "page": "rg367-74845019/p19",
+    "page": "rg38-74845019/p19",
     "note": "2 unidentified patrol craft, 28000 yds, westerly; lost in rain squall",
     "fix": "ship-contact positions are the target, not SEAHORSE"
    },
@@ -496,7 +496,7 @@
     "lat_raw": "21-40N",
     "lon_raw": "121-09E",
     "local": "1944-06-26 0638(H)",
-    "page": "rg367-74845019/p19",
+    "page": "rg38-74845019/p19",
     "note": "2 sampans and 7 trawlers, 10000 yds; avoided",
     "fix": "ship-contact positions are the target, not SEAHORSE"
    },
@@ -519,7 +519,7 @@
     "lat_raw": "21-37N",
     "lon_raw": "121-15E",
     "local": "1944-06-26 1222(H)",
-    "page": "rg367-74845019/p21",
+    "page": "rg38-74845019/p21",
     "note": "BETTY 12 mi; periscope (narrative: met BANG 2008 H 25 Jun; CO went aboard for patrol instructions)",
     "fix": ""
    },
@@ -542,7 +542,7 @@
     "lat_raw": "20-55N",
     "lon_raw": "120-21E",
     "local": "1944-06-27 0050(H)",
-    "page": "rg367-74845019/p19",
+    "page": "rg38-74845019/p19",
     "note": "1 AO, several AKs and 3 escorts; SJ radar 29000 yds; course 340 8.4 kts (attacks 1 and 2)",
     "fix": "ship-contact positions are the target, not SEAHORSE"
    },
@@ -565,7 +565,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "120-18E",
     "local": "1944-06-27 0412(H)",
-    "page": "rg367-74845019/p25",
+    "page": "rg38-74845019/p25",
     "note": "Torpedo attack No. 1: medium AK in ten-ship convoy; claims 1 medium AK (EU) 4,000 tons sunk and 1 medium AK 4,000 tons damaged (narrative p07: commenced firing at middle freighter 04-12-00 H)",
     "fix": ""
    },
@@ -588,7 +588,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "120-18E",
     "local": "1944-06-27 0412(H)",
-    "page": "rg367-74845019/p27",
+    "page": "rg38-74845019/p27",
     "note": "Torpedo attack No. 2: large AO in convoy of Attack 1; claims 1 large AO (EU) 10,000 tons sunk; \"Fire seen by USS BANG from a distance of 50 to 60 miles\" (narrative p07: commenced firing at tanker 04-12-30 H)",
     "fix": ""
    },
@@ -611,7 +611,7 @@
     "lat_raw": "21-19N",
     "lon_raw": "120-18E",
     "local": "1944-06-27 0601(H)",
-    "page": "rg367-74845019/p21",
+    "page": "rg38-74845019/p21",
     "note": "2 PETES 3 mi; periscope; hunting for submarine (narrative: air cover over the damaged convoy)",
     "fix": ""
    },
@@ -634,7 +634,7 @@
     "lat_raw": "21-08N",
     "lon_raw": "120-06E",
     "local": "1944-06-27 1550(H)",
-    "page": "rg367-74845019/p21",
+    "page": "rg38-74845019/p21",
     "note": "RUFE 15 mi; periscope; hunting for submarine",
     "fix": ""
    },
@@ -657,7 +657,7 @@
     "lat_raw": "19-26N",
     "lon_raw": "116-20E",
     "local": "1944-07-03 1837(H)",
-    "page": "rg367-74845019/p19",
+    "page": "rg38-74845019/p19",
     "note": "5 AKs and 5 escorts; smoke 15 mi by periscope; course 270 then 335, 7.5 and 8 kts (attacks 3-6); narrative: smoke bearing 045; first contact report sent 1900 H",
     "fix": "ship-contact positions are the target, not SEAHORSE"
    },
@@ -680,7 +680,7 @@
     "lat_raw": "19-28N",
     "lon_raw": "115-41E",
     "local": "1944-07-03 2354(H)",
-    "page": "rg367-74845019/p29",
+    "page": "rg38-74845019/p29",
     "note": "Torpedo attack No. 3: 1 large AK in five-ship convoy escorted by two DDs; claims 1 large AK (EU) 7,500 tons sunk; target course 320, 7.5 kts, range 595 yds (narrative p09: two stern tubes 23-54-00 to 23-54-10 H, first hit 23-54-36)",
     "fix": ""
    },
@@ -703,7 +703,7 @@
     "lat_raw": "19-28N",
     "lon_raw": "115-41E",
     "local": "1944-07-03 2355(H)",
-    "page": "rg367-74845019/p31",
+    "page": "rg38-74845019/p31",
     "note": "Torpedo attack No. 4: 1 medium AK in convoy of Attack 3; claims 1 medium AK (EU) 4,000 tons sunk; range 2600 yds (narrative p09: bow tubes at leading ship in starboard column 23-55-05 H, three more 23-56-08)",
     "fix": ""
    },
@@ -726,7 +726,7 @@
     "lat_raw": "19-43N",
     "lon_raw": "115-27E",
     "local": "1944-07-04 0535(H)",
-    "page": "rg367-74845019/p22",
+    "page": "rg38-74845019/p22",
     "note": "Unknown 9 mi; SJ radar; SEAHORSE surfaced 15 kts course 235 (narrative: setting out to intercept BANG's contact report)",
     "fix": ""
    },
@@ -749,7 +749,7 @@
     "lat_raw": "20-02N",
     "lon_raw": "115-21E",
     "local": "1944-07-04 0837(H)",
-    "page": "rg367-74845019/p22",
+    "page": "rg38-74845019/p22",
     "note": "NELL 8 mi; lookout; convoy escort (narrative p13 calls the 0837 plane a JAKE)",
     "fix": ""
    },
@@ -772,7 +772,7 @@
     "lat_raw": "20-04N",
     "lon_raw": "115-20E",
     "local": "1944-07-04 0857(H)",
-    "page": "rg367-74845019/p22",
+    "page": "rg38-74845019/p22",
     "note": "JAKE 10 mi; periscope; convoy escort",
     "fix": ""
    },
@@ -795,7 +795,7 @@
     "lat_raw": "20-20N",
     "lon_raw": "114-54E",
     "local": "1944-07-04 1238(H)",
-    "page": "rg367-74845019/p33",
+    "page": "rg38-74845019/p33",
     "note": "Torpedo attack No. 5: 1 medium passenger freighter (with 1 large passenger freighter and 1 small AK, one MOMO class DD; part of convoy of attacks 3 and 4); claims 1 medium passenger freighter (EU) 4,000 tons sunk (narrative p14: three bow tubes 12-37-45 H)",
     "fix": ""
    },
@@ -818,7 +818,7 @@
     "lat_raw": "20-20N",
     "lon_raw": "114-54E",
     "local": "1944-07-04 1239(H)",
-    "page": "rg367-74845019/p35",
+    "page": "rg38-74845019/p35",
     "note": "Torpedo attack No. 6: 1 large passenger freighter of convoy of Attack 5; claims 1 large passenger freighter (EU) 7,500 tons sunk (narrative p14-15: stern tubes 45 seconds after the last bow torpedo, 12-38-47 H)",
     "fix": ""
    },
@@ -841,7 +841,7 @@
     "lat_raw": "20-17N",
     "lon_raw": "115-03E",
     "local": "1944-07-04 1528(H)",
-    "page": "rg367-74845019/p22",
+    "page": "rg38-74845019/p22",
     "note": "JAKE 10 mi; periscope; hunting for submarine (narrative: another destroyer had joined; survivors being recovered)",
     "fix": ""
    },
@@ -864,7 +864,7 @@
     "lat_raw": "20-38N",
     "lon_raw": "119-55E",
     "local": "1944-07-06 0925(H)",
-    "page": "rg367-74845019/p22",
+    "page": "rg38-74845019/p22",
     "note": "Unknown 7 1/2 mi; SD radar; SEAHORSE 16 kts course 093 (homeward)",
     "fix": ""
    },
@@ -887,7 +887,7 @@
     "lat_raw": "20-38N",
     "lon_raw": "119-59E",
     "local": "1944-07-06 1023(H)",
-    "page": "rg367-74845019/p22",
+    "page": "rg38-74845019/p22",
     "note": "Unknown 7 1/2 mi; SD radar",
     "fix": ""
    },
@@ -910,7 +910,7 @@
     "lat_raw": "20-35N",
     "lon_raw": "120-20E",
     "local": "1944-07-06 1153(H)",
-    "page": "rg367-74845019/p23",
+    "page": "rg38-74845019/p23",
     "note": "Unknown 11 mi; SD radar",
     "fix": ""
    },
@@ -933,7 +933,7 @@
     "lat_raw": "20-26N",
     "lon_raw": "121-18E",
     "local": "1944-07-06 1720(H)",
-    "page": "rg367-74845019/p23",
+    "page": "rg38-74845019/p23",
     "note": "Unknown 11 mi; SD radar",
     "fix": ""
    },
@@ -956,7 +956,7 @@
     "lat_raw": "20-21N",
     "lon_raw": "121-23E",
     "local": "1944-07-06 1735(H)",
-    "page": "rg367-74845019/p23",
+    "page": "rg38-74845019/p23",
     "note": "Unknown 15 mi; lookout",
     "fix": ""
    },
@@ -979,7 +979,7 @@
     "lat_raw": "20-27N",
     "lon_raw": "121-39E",
     "local": "1944-07-06 1951(H)",
-    "page": "rg367-74845019/p19",
+    "page": "rg38-74845019/p19",
     "note": "4 patrol vessels, SJ radar 18000 yds; avoided",
     "fix": "ship-contact positions are the target, not SEAHORSE"
    },
@@ -1002,7 +1002,7 @@
     "lat_raw": "21-00N",
     "lon_raw": "121-42E",
     "local": "1944-07-06 2147(H)",
-    "page": "rg367-74845019/p19",
+    "page": "rg38-74845019/p19",
     "note": "15 barges and 1 PC type escort, 8 mi, course 180; avoided",
     "fix": "ship-contact positions are the target, not SEAHORSE"
    },
@@ -1025,7 +1025,7 @@
     "lat_raw": "21-05N",
     "lon_raw": "123-57E",
     "local": "1944-07-07 0703(H)",
-    "page": "rg367-74845019/p23",
+    "page": "rg38-74845019/p23",
     "note": "NELL 12 mi; lookout",
     "fix": ""
    },
@@ -1048,7 +1048,7 @@
     "lat_raw": "20-54N",
     "lon_raw": "124-24E",
     "local": "1944-07-07 1048(H)",
-    "page": "rg367-74845019/p23",
+    "page": "rg38-74845019/p23",
     "note": "BETTY 12 mi; lookout",
     "fix": ""
    },
@@ -1071,7 +1071,7 @@
     "lat_raw": "22-00N",
     "lon_raw": "145-15E",
     "local": "1944-07-10 1131(K)",
-    "page": "rg367-74845019/p23",
+    "page": "rg38-74845019/p23",
     "note": "CORONADO 20 mi; lookout",
     "fix": ""
    },
@@ -1094,7 +1094,7 @@
     "lat_raw": "21-58N",
     "lon_raw": "145-26E",
     "local": "1944-07-10 1211(K)",
-    "page": "rg367-74845019/p24",
+    "page": "rg38-74845019/p24",
     "note": "Unknown 15 mi; OOD",
     "fix": ""
    },
@@ -1117,7 +1117,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-07-14 1500(X)",
-    "page": "rg367-74845019/p18",
+    "page": "rg38-74845019/p18",
     "note": "Arrived MIDWAY (rendezvous with TANG at 1000) (port position)",
     "fix": ""
    },
@@ -1140,7 +1140,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-07-15 1530(X)",
-    "page": "rg367-74845019/p18",
+    "page": "rg38-74845019/p18",
     "note": "Departed MIDWAY for PEARL (port position)",
     "fix": ""
    },
@@ -1163,7 +1163,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1944-07-19 0930(VW)",
-    "page": "rg367-74845019/p18",
+    "page": "rg38-74845019/p18",
     "note": "Arrived PEARL (port position)",
     "fix": ""
    },

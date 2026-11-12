@@ -13,7 +13,7 @@ attacked_by: [ss-385-bang/3]
 sources:
   - jacar:C08030144100 p05   # 4th Surface Escort Division / Okinawa Base Force, Sept 1944, table of convoys given air cover: 19th, タカ九〇九, 10 ships, 34,049 t, six escorts, 基隆─鹿児島 / 那覇─鹿児島
   - jacar:C08030144100 p12   # 4th Surface Escort Division / Okinawa Base Force, Sept 1944, column 19: escorts, attack at N24-54 E122-23, 第二東勢丸 sunk
-  - rg367-74802831/p10       # BANG's contact at 0615 K on 19 Sept: 8 merchantmen incl. an AO, 5+ escorts
+  - rg38-74802831/p10       # BANG's contact at 0615 K on 19 Sept: 8 merchantmen incl. an AO, 5+ escorts
 route: [keelung, w-etw, w-kbay, kagoshima]   # through reference/lanes/lanes.yml; assumed waypoints are drawn dotted
 ships:
   - ship: CD-30

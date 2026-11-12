@@ -122,7 +122,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1944-06-14 1330(VW)",
-    "page": "rg367-74832061/p03",
+    "page": "rg38-74832061/p03",
     "note": "Underway in accordance with ComSubsPac Operation Order 204-44 in company with USS GUARDFISH and USS THRESHER; task unit 17.16.3 (port position as PARCHE Patrol 1)",
     "fix": ""
    },
@@ -145,7 +145,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-06-18 1530(Y)",
-    "page": "rg367-74832061/p03",
+    "page": "rg38-74832061/p03",
     "note": "Arrived Midway. Topped off with fuel and departed at 1530 Y (port position as PARCHE Patrol 1)",
     "fix": ""
    },
@@ -168,7 +168,7 @@
     "lat_raw": "21-08N",
     "lon_raw": "145-10E",
     "local": "1944-06-25 2223(K)",
-    "page": "rg367-74832061/p03",
+    "page": "rg38-74832061/p03",
     "note": "Set course for position ... to search for downed aviator (an ordered point and not a fix)",
     "fix": ""
    },
@@ -191,7 +191,7 @@
     "lat_raw": "21-10N",
     "lon_raw": "145-20E",
     "local": "1944-06-27 0715(K)",
-    "page": "rg367-74832061/p23",
+    "page": "rg38-74832061/p23",
     "note": "1 Unk. plane; Unk. mission; own speed 15 kn course 283 Surf (zone typed -10)",
     "fix": ""
    },
@@ -214,7 +214,7 @@
     "lat_raw": "21-08N",
     "lon_raw": "145-15E",
     "local": "1944-06-27 0942(K)",
-    "page": "rg367-74832061/p23",
+    "page": "rg38-74832061/p23",
     "note": "1 Unk. plane; own speed 15 kn course 193 Surf (zone typed -10)",
     "fix": ""
    },
@@ -237,7 +237,7 @@
     "lat_raw": "21-20N",
     "lon_raw": "142-00E",
     "local": "1944-06-28 0634(K)",
-    "page": "rg367-74832061/p23",
+    "page": "rg38-74832061/p23",
     "note": "1 Mavis; search; own speed 15kn course 240 Surf (zone typed -10; time typed over a struck digit; narrative p04 0634 K)",
     "fix": ""
    },
@@ -260,7 +260,7 @@
     "lat_raw": "21-30N",
     "lon_raw": "123-35E",
     "local": "1944-07-02 0646(I)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "SS 10000 yds course 310; USS GUARDFISH",
     "fix": ""
    },
@@ -283,7 +283,7 @@
     "lat_raw": "21-30N",
     "lon_raw": "123-37E",
     "local": "1944-07-02 1345(I)",
-    "page": "rg367-74832061/p23",
+    "page": "rg38-74832061/p23",
     "note": "1 Mavis; search; own speed 2 kn course 180 Sub (zone typed -9)",
     "fix": ""
    },
@@ -306,7 +306,7 @@
     "lat_raw": "21-50N",
     "lon_raw": "122-10E",
     "local": "1944-07-04 0938(H)",
-    "page": "rg367-74832061/p23",
+    "page": "rg38-74832061/p23",
     "note": "1 Mavis; search; own speed 2 kn course 180 Sub (zone typed -8)",
     "fix": ""
    },
@@ -329,7 +329,7 @@
     "lat_raw": "21-49N",
     "lon_raw": "122-11E",
     "local": "1944-07-04 1050(H)",
-    "page": "rg367-74832061/p23",
+    "page": "rg38-74832061/p23",
     "note": "1 Mavis; search; own speed 2 kn course 180 Sub (zone typed -8)",
     "fix": ""
    },
@@ -353,7 +353,7 @@
     "lon_raw": "122-13E",
     "typed": "21-47N 121-13E",
     "local": "1944-07-04 1118(H)",
-    "page": "rg367-74832061/p24",
+    "page": "rg38-74832061/p24",
     "note": "1 Mavis; search; own speed 2 kn course 180 Sub (zone typed -8)",
     "fix": "typed 121-13E: 28 minutes after Air 6 at 122-11E and submerged at 2 kn all day (p05 0436-1919); one typed digit (121 for 122) is the smaller correction than two for Air 5 and Air 6; re-read on the scan"
    },
@@ -376,7 +376,7 @@
     "lat_raw": "21-20N",
     "lon_raw": "121-26E",
     "local": "1944-07-05 0249(H)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Pat. Craft 10500 yds course 180 9 kt; too small to bother with",
     "fix": ""
    },
@@ -399,7 +399,7 @@
     "lat_raw": "21-20N",
     "lon_raw": "121-16E",
     "local": "1944-07-05 0628(H)",
-    "page": "rg367-74832061/p24",
+    "page": "rg38-74832061/p24",
     "note": "1 Mavis; search; own speed 2 kn course 270 Sub (zone typed -8)",
     "fix": ""
    },
@@ -422,7 +422,7 @@
     "lat_raw": "21-31N",
     "lon_raw": "121-15E",
     "local": "1944-07-05 0700(H)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Pat. Craft 12000 yds course 150; avoided",
     "fix": ""
    },
@@ -445,7 +445,7 @@
     "lat_raw": "21-33N",
     "lon_raw": "121-13E",
     "local": "1944-07-05 0906(H)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Small Craft 10000 yds course 160; avoided",
     "fix": ""
    },
@@ -468,7 +468,7 @@
     "lat_raw": "21-34N",
     "lon_raw": "121-10E",
     "local": "1944-07-05 1034(H)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Sail. Vessel 8000 yds; avoided",
     "fix": ""
    },
@@ -491,7 +491,7 @@
     "lat_raw": "21-24N",
     "lon_raw": "121-02E",
     "local": "1944-07-05 1618(G)",
-    "page": "rg367-74832061/p24",
+    "page": "rg38-74832061/p24",
     "note": "1 Unk; search; own speed 2 kn course 180 Sub (zone typed -7; clocks set back to ZT (-)7 at 1600 p05)",
     "fix": ""
    },
@@ -514,7 +514,7 @@
     "lat_raw": "21-20N",
     "lon_raw": "121-00E",
     "local": "1944-07-05 2017(G)",
-    "page": "rg367-74832061/p24",
+    "page": "rg38-74832061/p24",
     "note": "1 Unk; running lights; own speed 10 kn course 250 Surf (zone typed -7)",
     "fix": ""
    },
@@ -537,7 +537,7 @@
     "lat_raw": "21-29N",
     "lon_raw": "120-40E",
     "local": "1944-07-05 2210(H)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Unk. 14600 yds course 080 9 kt; avoided; probably USS SEAHORSE",
     "fix": ""
    },
@@ -560,7 +560,7 @@
     "lat_raw": "21-26N",
     "lon_raw": "119-55E",
     "local": "1944-07-07 0507(G)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Sailboat 7000 yds; avoided",
     "fix": ""
    },
@@ -583,7 +583,7 @@
     "lat_raw": "21-17N",
     "lon_raw": "119-56E",
     "local": "1944-07-07 1940(G)",
-    "page": "rg367-74832061/p24",
+    "page": "rg38-74832061/p24",
     "note": "1 Unk; running lights; own speed 10 kn course 090 Surf (zone typed -7)",
     "fix": ""
    },
@@ -606,7 +606,7 @@
     "lat_raw": "21-20N",
     "lon_raw": "120-52E",
     "local": "1944-07-08 1205(G)",
-    "page": "rg367-74832061/p24",
+    "page": "rg38-74832061/p24",
     "note": "1 Mavis; search; own speed 2 kn course 180 Sub (zone typed -7)",
     "fix": ""
    },
@@ -629,7 +629,7 @@
     "lat_raw": "19-46-00N",
     "lon_raw": "122-45-00E",
     "local": "1944-07-11 2139(G)",
-    "page": "rg367-74832061/p07",
+    "page": "rg38-74832061/p07",
     "note": "From THRESHER enemy position ... course 175 speed 14 (the convoy's position as received; zone G from the narrative's ZT (-)7 on p06)",
     "fix": ""
    },
@@ -652,7 +652,7 @@
     "lat_raw": "19-32-00N",
     "lon_raw": "122-38-00E",
     "local": "1944-07-11 2345(G)",
-    "page": "rg367-74832061/p07",
+    "page": "rg38-74832061/p07",
     "note": "From GUARDFISH convoy position ... Changed course to intercept from new position (the convoy's position as received)",
     "fix": ""
    },
@@ -675,7 +675,7 @@
     "lat_raw": "18-55N",
     "lon_raw": "122-46E",
     "local": "1944-07-12 0250(G)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Convoy 25000 yds course 170 11 kt; sank one AP",
     "fix": ""
    },
@@ -698,7 +698,7 @@
     "lat_raw": "18-34N",
     "lon_raw": "122-54E",
     "local": "1944-07-12 0455(G)",
-    "page": "rg367-74832061/p25",
+    "page": "rg38-74832061/p25",
     "note": "1 Mavis; search; own speed 15 kn course 005 Surf as typed (zone typed -7; one minute before Attack 1 which was fired submerged)",
     "fix": ""
    },
@@ -721,7 +721,7 @@
     "lat_raw": "18-33N",
     "lon_raw": "122-53E",
     "local": "1944-07-12 0456(G)",
-    "page": "rg367-74832061/p26",
+    "page": "rg38-74832061/p26",
     "note": "Torpedo Attack No. ONE: 3 Mk 18 from stern tubes at a large passenger freighter (AP) leading the center column",
     "fix": ""
    },
@@ -744,7 +744,7 @@
     "lat_raw": "19-54N",
     "lon_raw": "118-43E",
     "local": "1944-07-14 1950(G)",
-    "page": "rg367-74832061/p10",
+    "page": "rg38-74832061/p10",
     "note": "Received GUARDFISH dispatch to rendezvous at Lat. 19-54 Long. 118-43 (an ordered point and not a fix)",
     "fix": ""
    },
@@ -767,7 +767,7 @@
     "lat_raw": "20-06N",
     "lon_raw": "120-18E",
     "local": "1944-07-16 0132(G)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Convoy 10 ships 21000 yds course 215 7 kt; sank one AO (narrative: sent contact report)",
     "fix": ""
    },
@@ -790,7 +790,7 @@
     "lat_raw": "19-28N",
     "lon_raw": "120-13E",
     "local": "1944-07-16 0456(G)",
-    "page": "rg367-74832061/p25",
+    "page": "rg38-74832061/p25",
     "note": "1 Mavis; search; own speed 17 kn course 090 Surf (zone typed -7; narrative p11 has A/C contact 14 at 0446)",
     "fix": ""
    },
@@ -813,7 +813,7 @@
     "lat_raw": "19-26N",
     "lon_raw": "120-18E",
     "local": "1944-07-16 0744(G)",
-    "page": "rg367-74832061/p28",
+    "page": "rg38-74832061/p28",
     "note": "Torpedo Attack No. TWO: 3 Mk 23 at a large AO and 3 at a large AK (narrative 07-44-15 and 07-44-42)",
     "fix": ""
    },
@@ -836,7 +836,7 @@
     "lat_raw": "19-35N",
     "lon_raw": "120-20E",
     "local": "1944-07-16 1418(G)",
-    "page": "rg367-74832061/p25",
+    "page": "rg38-74832061/p25",
     "note": "1 Mavis; search; own speed 10 kn course 270 Surf (zone typed -7)",
     "fix": ""
    },
@@ -860,7 +860,7 @@
     "lon_raw": "120-15E",
     "typed": "19-32E 120-15N",
     "local": "1944-07-16 2055(G)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "DD 9000 yds course 170 9 kt; evaded (hemisphere letters typed swapped)",
     "fix": "typed 19-32E 120-15N: the N and E are swapped on the sheet"
    },
@@ -883,7 +883,7 @@
     "lat_raw": "18-55N",
     "lon_raw": "119-52E",
     "local": "1944-07-16 2348(G)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Convoy 19000 yds course 270 9 kt; none (THRESHER's target exploded at 0145 G on 17 July)",
     "fix": ""
    },
@@ -906,7 +906,7 @@
     "lat_raw": "19-23N",
     "lon_raw": "120-00E",
     "local": "1944-07-17 0440(G)",
-    "page": "rg367-74832061/p25",
+    "page": "rg38-74832061/p25",
     "note": "1 Mavis; search; own speed 18 kn course 090 Surf; Luzon Island in sight (zone typed -7)",
     "fix": ""
    },
@@ -929,7 +929,7 @@
     "lat_raw": "20-27N",
     "lon_raw": "118-33E",
     "local": "1944-07-19 0658(G)",
-    "page": "rg367-74832061/p21",
+    "page": "rg38-74832061/p21",
     "note": "Convoy 19000 yds course 140 7 kt; sighted smoke; none",
     "fix": ""
    },
@@ -952,7 +952,7 @@
     "lat_raw": "20-26N",
     "lon_raw": "118-56E",
     "local": "1944-07-19 1513(G)",
-    "page": "rg367-74832061/p25",
+    "page": "rg38-74832061/p25",
     "note": "1 Mavis; search (Esc? pencilled); own speed 2 kn course 010 Sub (zone typed -7)",
     "fix": ""
    },
@@ -975,7 +975,7 @@
     "lat_raw": "20-47N",
     "lon_raw": "118-36E",
     "local": "1944-07-19 1920(G)",
-    "page": "rg367-74832061/p22",
+    "page": "rg38-74832061/p22",
     "note": "Unid. AK 22500 yds course 015 11 kt; attacked - missed",
     "fix": ""
    },
@@ -998,7 +998,7 @@
     "lat_raw": "20-53N",
     "lon_raw": "118-44E",
     "local": "1944-07-19 2040(G)",
-    "page": "rg367-74832061/p30",
+    "page": "rg38-74832061/p30",
     "note": "Torpedo Attack No. THREE: night surface attack; 4 Mk 23 at an unidentified AK; all missed",
     "fix": ""
    },
@@ -1021,7 +1021,7 @@
     "lat_raw": "20-10N",
     "lon_raw": "118-14E",
     "local": "1944-07-20 1230(G)",
-    "page": "rg367-74832061/p22",
+    "page": "rg38-74832061/p22",
     "note": "DD 11000 yds course 197 10 kt; unable to close",
     "fix": ""
    },
@@ -1044,7 +1044,7 @@
     "lat_raw": "20-44N",
     "lon_raw": "121-23E",
     "local": "1944-07-27 1915(G)",
-    "page": "rg367-74832061/p25",
+    "page": "rg38-74832061/p25",
     "note": "1 Unk; own speed 17 kn course 090 Surf (zone typed -7)",
     "fix": ""
    },
@@ -1067,7 +1067,7 @@
     "lat_raw": "20-43N",
     "lon_raw": "121-30E",
     "local": "1944-07-27 2022(G)",
-    "page": "rg367-74832061/p22",
+    "page": "rg38-74832061/p22",
     "note": "Pat. Craft 10000 yds course 170 9 kt; avoided",
     "fix": ""
    },
@@ -1090,7 +1090,7 @@
     "lat_raw": "07-06N",
     "lon_raw": "171-22E",
     "local": "1944-08-08 1400(K)",
-    "page": "rg367-74832061/p19",
+    "page": "rg38-74832061/p19",
     "note": "Arrived Majuro (port position as other boats' Majuro rows)",
     "fix": ""
    },

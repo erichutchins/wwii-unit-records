@@ -1,45 +1,45 @@
 source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
-ship,Ship 1,1944-06-24,0543,K,30-14N,152-33E,rg367-74828617/p19,Patrol Vessel 300 tons 10 mil[es]; course 090T 11 kts; SD; Sunk by Gunfire,no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 2,1944-07-04,0024,I,19-56N,120-33E,rg367-74828617/p19,"2 CA's, 1 DD 10.6 miles; 215T 24 kts; R; Forced down by gunfire at 16,000 yds.",no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 3,1944-07-07,0855,I,18-50N,120-19E,rg367-74828617/p19,1 DD (WAKATAKE) 7 miles; 340T 12 kts; Sound; Patrolling.,no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 4,1944-07-08,0702,I,20-04N,120-35E,rg367-74828617/p19,Sampan 3 miles; 140T 5 kts; P; Fishing.,no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 5,1944-07-08,0827,I,20-04N,120-38E,rg367-74828617/p19,Fishing Trawler 6 miles; 155T 5 kts; P; Fishing.,no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 6,1944-07-19,1303,I,18-36N,118-02E,rg367-74828617/p19,CV 8 miles; 150T 18 kts; P; OTAKA Class.,no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 7,1944-07-23,0300,I,21-57N,119-14E,rg367-74828617/p19,Patrol Boat 6½ miles; 030T 15 kts; R; Patrolling,no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 8,1944-07-25,0500,I,20-42N,120-21E,rg367-74828617/p19,Patrol Boat 6½ miles; 330T 12 kts; R; Patrolling,no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 9,1944-07-30,0811,I,20-48N,120-38E,rg367-74828617/p19,Unidentified Patrol Craft 5 miles; 150T 5 kts; P; Heard 7 distant depth charges - Patrolling. (narrative p11: 0811 I masts of patrol boat bearing 327 T),no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 10,1944-07-30,1752,I,20-42N,120-53E,rg367-74828617/p19,Patrol Craft 5 miles; 315T 20 kts; P; Patrolling. (narrative p11: 1752 I mast bearing 293 T moving south rapidly),no,,,,,"ship-contact positions are the target, not PARCHE"
-ship,Ship 11,1944-07-31,0240,I,19-14N,121-03E,rg367-74828617/p19,"Convoy 17 mi[les]; 195T 8 kts; R; Mixed convoy of large [&] small ship[s]. (narrative p12: 0240 I SJ contact bearing 150 T, 34,000 yards)",no,,,,,"ship-contact positions are the target, not PARCHE"
-attack,Attack 1,1944-07-31,0359,I,19-10N,120-58E,rg367-74828617/p23,"Torpedo attack No. 1 (sheet shared with No. 2, time typed 0359-0402I): tubes 1-2 at a medium AK, both missed",yes,,,,,
-attack,Attack 2,1944-07-31,0402,I,19-10N,120-58E,rg367-74828617/p23,"Torpedo attack No. 2 (sheet shared with No. 1; time from the narrative p15, 0402 I): tube 7 at the same AK, probable hit",yes,,,,,
-attack,Attack 3,1944-07-31,0407,I,19-10N,120-58E,rg367-74828617/p25,Torpedo attack No. 3 (4 bow tubes at large AO; 4 hits; claimed sunk),yes,,,,,
-attack,Attack 4,1944-07-31,0410,I,19-10N,120-58E,rg367-74828617/p27,Torpedo attack No. 4 (3 stern tubes at second large AO; 2 hits; claimed damaged),yes,,,,,
-attack,Attack 5,1944-07-31,0416,I,19-10N,120-58E,rg367-74828617/p29,Torpedo attack No. 5 (2 bow tubes at medium AP or AK; 2 hits; claimed sunk),yes,,,,,
-attack,Attack 6,1944-07-31,0421,I,19-10N,120-58E,rg367-74828617/p31,Torpedo attack No. 6 (3 stern tubes at the AO of attack 4; 3 hits; claimed sunk),yes,,,,,
-attack,Attack 7,1944-07-31,0420,I,19-10N,120-58E,rg367-74828617/p33,"Torpedo attack No. 7, time typed 0420-1433 I (narrative p16: 0429 I); 3 bow tubes down the throat of a large AP; 2 hits",yes,,,,0429,the sheet types 0420-1433 I; the narrative (p16) fires attack 7 at 0429 I
-attack,Attack 8,1944-07-31,1433,I,19-10N,120-58E,rg367-74828617/p33,"Torpedo attack No. 8, time typed 0420-1433 I (narrative p16: 0433 I); 1 stern tube at the same AP; hit; claimed sunk",yes,,,,0433,1433 is read as a typo for 0433: the narrative (p16) fires the stern shot at 0433 I and has the AP sink at 0442 I
-air,Air 1,1944-06-25,0956,K,29-58N,146-33E,rg367-74828617/p20,1 type - (Patrol); SD 22 mi.; Surf. 15 kts 265,yes,,,,,
-air,Air 2,1944-06-25,1403,K,2947N,145-40E,rg367-74828617/p20,1 BETTY (Patrol); Lookout 6 mi.; Surf. 15 kts 265,yes,29-47N,,,,latitude typed without its hyphen
-air,Air 3,1944-07-03,08??,I,19-59N,121-03E,rg367-74828617/p20,1 MAVIS (Patrol); P 5 mi.; Per. 2.0 kts 225; time faded after 08,yes,,,,0807,time faded after 08; the narrative (p05) has the MAVIS sighted at 0807 I
-air,Air 4,1944-07-04,1726,I,20-32N,120-56E,rg367-74828617/p20,1 MAVIS (Patrol); P 4 mi.; Per. 2.5 kts 045,yes,,,,,
-air,Air 5,1944-07-07,0643,I,19-02N,120-20E,rg367-74828617/p20,1 SALLY (Patrol); Lookout 10 mi.; Surf. 16.8 kts 156,yes,,,,,
-air,Air 6,1944-07-07,0910,I,18-58N,120-21E,rg367-74828617/p20,1 MAVIS (Patrol); P 12 mi.; Per. 2.0 kts 220,yes,,,,,
-air,Air 7,1944-07-08,0852,I,20-04N,120-36E,rg367-74828617/p20,1 MAVIS (Patrol); P 6 mi.; Per. 2.0 kts 090,yes,,,,,
-air,Air 8,1944-07-09,0656,I,20-03N,120-49E,rg367-74828617/p21,1 SALLY (Patrol); P 4 mi.; Per. 2.0 kts 240,yes,,,,,
-air,Air 9,1944-07-19,1240,I,18-36N,117-59E,rg367-74828617/p21,1 ZEKE (Escort); P 5 mi.; Per. 2.0 kts 035,yes,,,,,
-air,Air 10,1944-07-19,1358,I,18-36N,117-60E,rg367-74828617/p21,1 NATE (Escort); P 7 mi.; Per. 2.5 kts 160; longitude typed 117-60,yes,,,,,
-air,Air 11,1944-07-19,1718,I,18-05N,118-03E,rg367-74828617/p21,1 ZEKE (Patrol); SJ Radar Lookout 7 mi.; Surf. 14 kts 180,yes,,,,,
-air,Air 12,1944-07-21,1556,I,18-50N,118-51E,rg367-74828617/p21,1 MAVIS (Patrol); SJ Radar Lookout 10 mi.; Surf. 5 kts 150,yes,,,,,
-air,Air 13,1944-07-23,1342,I,20-47N,119-14E,rg367-74828617/p21,1 EMILY (Patrol); P 5½ mi.; Per. 2.0 kts 090,yes,,,,,
-air,Air 14,1944-07-23,1519,I,20-47N,119-13E,rg367-74828617/p21,1 type - (Patrol); P 12 mi.; Per. 2.0 kts 315,yes,,,,,
-air,Air 15,1944-07-26,1420,I,20-08N,122-06E,rg367-74828617/p22,1 NATE (Patrol); P 5 mi.; Per. 3.0 kts 060 (narrative p11: fighter (NATE) patrolling channel),yes,,,,,
-air,Air 16,1944-07-26,1722,I,20-04N,122-29E,rg367-74828617/p22,1 NATE (Patrol); P 3 mi.; Per. 2.5 kts 140,yes,,,,,"22 nm from Air 15 in 3 h 2 min (7.2 kt) while dived all day (narrative p11: dived 0540 I, surfaced 1959 I) at 2.5-3.0 kts typed: one of the two longitudes is probably off. Not resolved"
-air,Air 17,1944-07-29,1238,I,20-21N,120-4?E,rg367-74828617/p22,1 MAVIS (Patrol); P 6 mi.; Per. 2.5 kts 215; second figure of longitude minutes faded,no,,,,,second figure of the longitude minutes faded (120-4?); not placed
-air,Air 18,1944-07-30,0929,I,20-48N,120-38E,rg367-74828617/p22,2 MAVIS (H); P 9 mi.; Per. 2.5 kts 215,yes,,,,,
-air,Air 19,1944-07-30,1025,I,20-42N,120-57E,rg367-74828617/p22,2 MAVIS or NELL (H); P 12 mi.; Per. 2.5 kts 270 (narrative p13: 1025 I sighted smoke bearing 197 T),yes,,,,,"19 nm from Air 18 in 56 minutes at periscope depth (2.5 kts typed) is not possible submerged; Air 18 (120-38E) has the same longitude as the patrol craft of Ship 9 (p19, 0811 I), so Air 18 may carry the target position or a typo. Not resolved; both kept as typed"
-air,Air 20,1944-07-30,1115,I,20-42N,120-54E,rg367-74828617/p22,1 NELL (H); P 8 mi.; Per. 2.5 kts 270,yes,,,,,
-air,Air 21,1944-07-30,1145,I,20-42N,120-54E,rg367-74828617/p22,1 PETE (H); P 8 mi.; Per. 2.5 kts 215,yes,,,,,
-air,Air 22,1944-07-31,2040,I,19-38N,120-38E,rg367-74828617/p22,"1 MAVIS (H); SJ Radar Lookout 5½ mi.; Surf. 16 kts 070 (narrative p16: 2040 I SJ contact 348 T 11,000 yds; 2041 dived)",yes,,,,,
-gun,Gun Attack 1,1944-06-24,0543,K,30-14N,152-33E,rg367-74828617/p35,"Gun attack No. 1: patrol vessel 170 x 20 x 6 ft, 300 tons, sunk by 4""/50 and 20mm (40 HC + 21 common 4""/50, 1240 20mm); opened fire at 3600 yds; six survivors swimming",yes,,,,,"same position as Ship 1 (the target, p19); PARCHE was within 3600 yards"
-narrative,arrive Saipan,1944-08-05,1530,I,15-13N,145-44E,rg367-74828617/p17,"Moored alongside HOLLAND in TANAPAG HARBOR (port position, not typed)",yes,,,,,
-narrative,depart Saipan,1944-08-06,0725,K,15-13N,145-44E,rg367-74828617/p17,"Underway from alongside HOLLAND for PEARL (port position, not typed)",yes,,,,,
+ship,Ship 1,1944-06-24,0543,K,30-14N,152-33E,rg38-74828617/p19,Patrol Vessel 300 tons 10 mil[es]; course 090T 11 kts; SD; Sunk by Gunfire,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 2,1944-07-04,0024,I,19-56N,120-33E,rg38-74828617/p19,"2 CA's, 1 DD 10.6 miles; 215T 24 kts; R; Forced down by gunfire at 16,000 yds.",no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 3,1944-07-07,0855,I,18-50N,120-19E,rg38-74828617/p19,1 DD (WAKATAKE) 7 miles; 340T 12 kts; Sound; Patrolling.,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 4,1944-07-08,0702,I,20-04N,120-35E,rg38-74828617/p19,Sampan 3 miles; 140T 5 kts; P; Fishing.,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 5,1944-07-08,0827,I,20-04N,120-38E,rg38-74828617/p19,Fishing Trawler 6 miles; 155T 5 kts; P; Fishing.,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 6,1944-07-19,1303,I,18-36N,118-02E,rg38-74828617/p19,CV 8 miles; 150T 18 kts; P; OTAKA Class.,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 7,1944-07-23,0300,I,21-57N,119-14E,rg38-74828617/p19,Patrol Boat 6½ miles; 030T 15 kts; R; Patrolling,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 8,1944-07-25,0500,I,20-42N,120-21E,rg38-74828617/p19,Patrol Boat 6½ miles; 330T 12 kts; R; Patrolling,no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 9,1944-07-30,0811,I,20-48N,120-38E,rg38-74828617/p19,Unidentified Patrol Craft 5 miles; 150T 5 kts; P; Heard 7 distant depth charges - Patrolling. (narrative p11: 0811 I masts of patrol boat bearing 327 T),no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 10,1944-07-30,1752,I,20-42N,120-53E,rg38-74828617/p19,Patrol Craft 5 miles; 315T 20 kts; P; Patrolling. (narrative p11: 1752 I mast bearing 293 T moving south rapidly),no,,,,,"ship-contact positions are the target, not PARCHE"
+ship,Ship 11,1944-07-31,0240,I,19-14N,121-03E,rg38-74828617/p19,"Convoy 17 mi[les]; 195T 8 kts; R; Mixed convoy of large [&] small ship[s]. (narrative p12: 0240 I SJ contact bearing 150 T, 34,000 yards)",no,,,,,"ship-contact positions are the target, not PARCHE"
+attack,Attack 1,1944-07-31,0359,I,19-10N,120-58E,rg38-74828617/p23,"Torpedo attack No. 1 (sheet shared with No. 2, time typed 0359-0402I): tubes 1-2 at a medium AK, both missed",yes,,,,,
+attack,Attack 2,1944-07-31,0402,I,19-10N,120-58E,rg38-74828617/p23,"Torpedo attack No. 2 (sheet shared with No. 1; time from the narrative p15, 0402 I): tube 7 at the same AK, probable hit",yes,,,,,
+attack,Attack 3,1944-07-31,0407,I,19-10N,120-58E,rg38-74828617/p25,Torpedo attack No. 3 (4 bow tubes at large AO; 4 hits; claimed sunk),yes,,,,,
+attack,Attack 4,1944-07-31,0410,I,19-10N,120-58E,rg38-74828617/p27,Torpedo attack No. 4 (3 stern tubes at second large AO; 2 hits; claimed damaged),yes,,,,,
+attack,Attack 5,1944-07-31,0416,I,19-10N,120-58E,rg38-74828617/p29,Torpedo attack No. 5 (2 bow tubes at medium AP or AK; 2 hits; claimed sunk),yes,,,,,
+attack,Attack 6,1944-07-31,0421,I,19-10N,120-58E,rg38-74828617/p31,Torpedo attack No. 6 (3 stern tubes at the AO of attack 4; 3 hits; claimed sunk),yes,,,,,
+attack,Attack 7,1944-07-31,0420,I,19-10N,120-58E,rg38-74828617/p33,"Torpedo attack No. 7, time typed 0420-1433 I (narrative p16: 0429 I); 3 bow tubes down the throat of a large AP; 2 hits",yes,,,,0429,the sheet types 0420-1433 I; the narrative (p16) fires attack 7 at 0429 I
+attack,Attack 8,1944-07-31,1433,I,19-10N,120-58E,rg38-74828617/p33,"Torpedo attack No. 8, time typed 0420-1433 I (narrative p16: 0433 I); 1 stern tube at the same AP; hit; claimed sunk",yes,,,,0433,1433 is read as a typo for 0433: the narrative (p16) fires the stern shot at 0433 I and has the AP sink at 0442 I
+air,Air 1,1944-06-25,0956,K,29-58N,146-33E,rg38-74828617/p20,1 type - (Patrol); SD 22 mi.; Surf. 15 kts 265,yes,,,,,
+air,Air 2,1944-06-25,1403,K,2947N,145-40E,rg38-74828617/p20,1 BETTY (Patrol); Lookout 6 mi.; Surf. 15 kts 265,yes,29-47N,,,,latitude typed without its hyphen
+air,Air 3,1944-07-03,08??,I,19-59N,121-03E,rg38-74828617/p20,1 MAVIS (Patrol); P 5 mi.; Per. 2.0 kts 225; time faded after 08,yes,,,,0807,time faded after 08; the narrative (p05) has the MAVIS sighted at 0807 I
+air,Air 4,1944-07-04,1726,I,20-32N,120-56E,rg38-74828617/p20,1 MAVIS (Patrol); P 4 mi.; Per. 2.5 kts 045,yes,,,,,
+air,Air 5,1944-07-07,0643,I,19-02N,120-20E,rg38-74828617/p20,1 SALLY (Patrol); Lookout 10 mi.; Surf. 16.8 kts 156,yes,,,,,
+air,Air 6,1944-07-07,0910,I,18-58N,120-21E,rg38-74828617/p20,1 MAVIS (Patrol); P 12 mi.; Per. 2.0 kts 220,yes,,,,,
+air,Air 7,1944-07-08,0852,I,20-04N,120-36E,rg38-74828617/p20,1 MAVIS (Patrol); P 6 mi.; Per. 2.0 kts 090,yes,,,,,
+air,Air 8,1944-07-09,0656,I,20-03N,120-49E,rg38-74828617/p21,1 SALLY (Patrol); P 4 mi.; Per. 2.0 kts 240,yes,,,,,
+air,Air 9,1944-07-19,1240,I,18-36N,117-59E,rg38-74828617/p21,1 ZEKE (Escort); P 5 mi.; Per. 2.0 kts 035,yes,,,,,
+air,Air 10,1944-07-19,1358,I,18-36N,117-60E,rg38-74828617/p21,1 NATE (Escort); P 7 mi.; Per. 2.5 kts 160; longitude typed 117-60,yes,,,,,
+air,Air 11,1944-07-19,1718,I,18-05N,118-03E,rg38-74828617/p21,1 ZEKE (Patrol); SJ Radar Lookout 7 mi.; Surf. 14 kts 180,yes,,,,,
+air,Air 12,1944-07-21,1556,I,18-50N,118-51E,rg38-74828617/p21,1 MAVIS (Patrol); SJ Radar Lookout 10 mi.; Surf. 5 kts 150,yes,,,,,
+air,Air 13,1944-07-23,1342,I,20-47N,119-14E,rg38-74828617/p21,1 EMILY (Patrol); P 5½ mi.; Per. 2.0 kts 090,yes,,,,,
+air,Air 14,1944-07-23,1519,I,20-47N,119-13E,rg38-74828617/p21,1 type - (Patrol); P 12 mi.; Per. 2.0 kts 315,yes,,,,,
+air,Air 15,1944-07-26,1420,I,20-08N,122-06E,rg38-74828617/p22,1 NATE (Patrol); P 5 mi.; Per. 3.0 kts 060 (narrative p11: fighter (NATE) patrolling channel),yes,,,,,
+air,Air 16,1944-07-26,1722,I,20-04N,122-29E,rg38-74828617/p22,1 NATE (Patrol); P 3 mi.; Per. 2.5 kts 140,yes,,,,,"22 nm from Air 15 in 3 h 2 min (7.2 kt) while dived all day (narrative p11: dived 0540 I, surfaced 1959 I) at 2.5-3.0 kts typed: one of the two longitudes is probably off. Not resolved"
+air,Air 17,1944-07-29,1238,I,20-21N,120-4?E,rg38-74828617/p22,1 MAVIS (Patrol); P 6 mi.; Per. 2.5 kts 215; second figure of longitude minutes faded,no,,,,,second figure of the longitude minutes faded (120-4?); not placed
+air,Air 18,1944-07-30,0929,I,20-48N,120-38E,rg38-74828617/p22,2 MAVIS (H); P 9 mi.; Per. 2.5 kts 215,yes,,,,,
+air,Air 19,1944-07-30,1025,I,20-42N,120-57E,rg38-74828617/p22,2 MAVIS or NELL (H); P 12 mi.; Per. 2.5 kts 270 (narrative p13: 1025 I sighted smoke bearing 197 T),yes,,,,,"19 nm from Air 18 in 56 minutes at periscope depth (2.5 kts typed) is not possible submerged; Air 18 (120-38E) has the same longitude as the patrol craft of Ship 9 (p19, 0811 I), so Air 18 may carry the target position or a typo. Not resolved; both kept as typed"
+air,Air 20,1944-07-30,1115,I,20-42N,120-54E,rg38-74828617/p22,1 NELL (H); P 8 mi.; Per. 2.5 kts 270,yes,,,,,
+air,Air 21,1944-07-30,1145,I,20-42N,120-54E,rg38-74828617/p22,1 PETE (H); P 8 mi.; Per. 2.5 kts 215,yes,,,,,
+air,Air 22,1944-07-31,2040,I,19-38N,120-38E,rg38-74828617/p22,"1 MAVIS (H); SJ Radar Lookout 5½ mi.; Surf. 16 kts 070 (narrative p16: 2040 I SJ contact 348 T 11,000 yds; 2041 dived)",yes,,,,,
+gun,Gun Attack 1,1944-06-24,0543,K,30-14N,152-33E,rg38-74828617/p35,"Gun attack No. 1: patrol vessel 170 x 20 x 6 ft, 300 tons, sunk by 4""/50 and 20mm (40 HC + 21 common 4""/50, 1240 20mm); opened fire at 3600 yds; six survivors swimming",yes,,,,,"same position as Ship 1 (the target, p19); PARCHE was within 3600 yards"
+narrative,arrive Saipan,1944-08-05,1530,I,15-13N,145-44E,rg38-74828617/p17,"Moored alongside HOLLAND in TANAPAG HARBOR (port position, not typed)",yes,,,,,
+narrative,depart Saipan,1944-08-06,0725,K,15-13N,145-44E,rg38-74828617/p17,"Underway from alongside HOLLAND for PEARL (port position, not typed)",yes,,,,,

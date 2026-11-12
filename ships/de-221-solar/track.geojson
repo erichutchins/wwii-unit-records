@@ -2182,7 +2182,7 @@
     "lat_raw": "35-44N",
     "lon_raw": "00-41W",
     "local": "1944-09-01 0000(Z)",
-    "page": "rg367-78684020/p01",
+    "page": "rg38-78684020/p01",
     "note": "Moored at Mers-el-Kebir, French Algeria awaiting GUS 50",
     "fix": "Mers-el-Kebir coordinates are not in the diary; standard harbour position used"
    },
@@ -2205,7 +2205,7 @@
     "lat_raw": "36-04N",
     "lon_raw": "00-58W",
     "local": "1944-09-01 0800(Z)",
-    "page": "rg367-78684020/p01",
+    "page": "rg38-78684020/p01",
     "note": "",
     "fix": ""
    },
@@ -2228,7 +2228,7 @@
     "lat_raw": "36-04N",
     "lon_raw": "01-27.5W",
     "local": "1944-09-01 1200(Z)",
-    "page": "rg367-78684020/p01",
+    "page": "rg38-78684020/p01",
     "note": "",
     "fix": ""
    },
@@ -2251,7 +2251,7 @@
     "lat_raw": "36-11N",
     "lon_raw": "02-51W",
     "local": "1944-09-01 2000(Z)",
-    "page": "rg367-78684020/p01",
+    "page": "rg38-78684020/p01",
     "note": "",
     "fix": ""
    },
@@ -2274,7 +2274,7 @@
     "lat_raw": "36-03N",
     "lon_raw": "04-47W",
     "local": "1944-09-02 0800(Z)",
-    "page": "rg367-78684020/p01",
+    "page": "rg38-78684020/p01",
     "note": "",
     "fix": ""
    },
@@ -2297,7 +2297,7 @@
     "lat_raw": "36-02N",
     "lon_raw": "05-15.5W",
     "local": "1944-09-02 1200(Z)",
-    "page": "rg367-78684020/p01",
+    "page": "rg38-78684020/p01",
     "note": "",
     "fix": ""
    },
@@ -2320,7 +2320,7 @@
     "lat_raw": "35-38N",
     "lon_raw": "07-02.5W",
     "local": "1944-09-02 2000(Z)",
-    "page": "rg367-78684020/p01",
+    "page": "rg38-78684020/p01",
     "note": "",
     "fix": ""
    },
@@ -2343,7 +2343,7 @@
     "lat_raw": "34-47N",
     "lon_raw": "09-03.5W",
     "local": "1944-09-03 0800(N)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2366,7 +2366,7 @@
     "lat_raw": "34-51N",
     "lon_raw": "09-53W",
     "local": "1944-09-03 1200(N)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2389,7 +2389,7 @@
     "lat_raw": "35-00N",
     "lon_raw": "11-08W",
     "local": "1944-09-03 2000(N)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2412,7 +2412,7 @@
     "lat_raw": "35-14N",
     "lon_raw": "13-40W",
     "local": "1944-09-04 0800(N)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2435,7 +2435,7 @@
     "lat_raw": "35-16.5N",
     "lon_raw": "14-23W",
     "local": "1944-09-04 1200(N)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2458,7 +2458,7 @@
     "lat_raw": "35-27N",
     "lon_raw": "15-56W",
     "local": "1944-09-04 2000(N)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2481,7 +2481,7 @@
     "lat_raw": "35-41N",
     "lon_raw": "18-13W",
     "local": "1944-09-05 0800(N)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2504,7 +2504,7 @@
     "lat_raw": "35-39N",
     "lon_raw": "19-06W",
     "local": "1944-09-05 1200(N)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2527,7 +2527,7 @@
     "lat_raw": "35-49N",
     "lon_raw": "20-53W",
     "local": "1944-09-05 2000(N)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2550,7 +2550,7 @@
     "lat_raw": "36-03N",
     "lon_raw": "23-15W",
     "local": "1944-09-06 0800(O)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2573,7 +2573,7 @@
     "lat_raw": "36-01N",
     "lon_raw": "24-04W",
     "local": "1944-09-06 1200(O)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2596,7 +2596,7 @@
     "lat_raw": "36-14N",
     "lon_raw": "25-36W",
     "local": "1944-09-06 2000(O)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2619,7 +2619,7 @@
     "lat_raw": "36-37N",
     "lon_raw": "27-50W",
     "local": "1944-09-07 0800(O)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2642,7 +2642,7 @@
     "lat_raw": "36-47N",
     "lon_raw": "28-35W",
     "local": "1944-09-07 1200(O)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2665,7 +2665,7 @@
     "lat_raw": "37-04N",
     "lon_raw": "30-13W",
     "local": "1944-09-07 2000(O)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2688,7 +2688,7 @@
     "lat_raw": "37-15N",
     "lon_raw": "32-39W",
     "local": "1944-09-08 0800(O)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2711,7 +2711,7 @@
     "lat_raw": "37-14N",
     "lon_raw": "33-29W",
     "local": "1944-09-08 1200(O)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2734,7 +2734,7 @@
     "lat_raw": "37-30N",
     "lon_raw": "34-36W",
     "local": "1944-09-08 2000(O)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2757,7 +2757,7 @@
     "lat_raw": "37-24N",
     "lon_raw": "37-48W",
     "local": "1944-09-09 0800(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2780,7 +2780,7 @@
     "lat_raw": "37-24N",
     "lon_raw": "38-37W",
     "local": "1944-09-09 1200(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2803,7 +2803,7 @@
     "lat_raw": "37-17N",
     "lon_raw": "39-49W",
     "local": "1944-09-09 2000(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2826,7 +2826,7 @@
     "lat_raw": "37-12N",
     "lon_raw": "42-07W",
     "local": "1944-09-10 0800(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2849,7 +2849,7 @@
     "lat_raw": "37-06.5N",
     "lon_raw": "42-55W",
     "local": "1944-09-10 1200(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2872,7 +2872,7 @@
     "lat_raw": "37-04N",
     "lon_raw": "44-31W",
     "local": "1944-09-10 2000(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2895,7 +2895,7 @@
     "lat_raw": "37-03N",
     "lon_raw": "46-54W",
     "local": "1944-09-11 0800(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2918,7 +2918,7 @@
     "lat_raw": "36-57N",
     "lon_raw": "47-32W",
     "local": "1944-09-11 1200(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2941,7 +2941,7 @@
     "lat_raw": "36-46N",
     "lon_raw": "49-10W",
     "local": "1944-09-11 2000(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2964,7 +2964,7 @@
     "lat_raw": "36-34N",
     "lon_raw": "51-32W",
     "local": "1944-09-12 0800(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -2987,7 +2987,7 @@
     "lat_raw": "36-29N",
     "lon_raw": "52-14W",
     "local": "1944-09-12 1200(P)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3010,7 +3010,7 @@
     "lat_raw": "36-16N",
     "lon_raw": "53-50W",
     "local": "1944-09-12 2000(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3033,7 +3033,7 @@
     "lat_raw": "35-50N",
     "lon_raw": "55-52W",
     "local": "1944-09-13 0800(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3056,7 +3056,7 @@
     "lat_raw": "35-41N",
     "lon_raw": "57-04W",
     "local": "1944-09-13 1200(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3079,7 +3079,7 @@
     "lat_raw": "35-32N",
     "lon_raw": "58-27W",
     "local": "1944-09-13 2000(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3102,7 +3102,7 @@
     "lat_raw": "35-08N",
     "lon_raw": "60-46W",
     "local": "1944-09-14 0800(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3125,7 +3125,7 @@
     "lat_raw": "34-58N",
     "lon_raw": "61-33W",
     "local": "1944-09-14 1200(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3148,7 +3148,7 @@
     "lat_raw": "34-34N",
     "lon_raw": "62-42W",
     "local": "1944-09-14 2000(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3171,7 +3171,7 @@
     "lat_raw": "34-12N",
     "lon_raw": "64-50W",
     "local": "1944-09-15 0800(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3194,7 +3194,7 @@
     "lat_raw": "34-21N",
     "lon_raw": "65-19W",
     "local": "1944-09-15 1200(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3217,7 +3217,7 @@
     "lat_raw": "34-50N",
     "lon_raw": "66-43W",
     "local": "1944-09-15 2000(Q)",
-    "page": "rg367-78684020/p02",
+    "page": "rg38-78684020/p02",
     "note": "",
     "fix": ""
    },
@@ -3240,7 +3240,7 @@
     "lat_raw": "35-20N",
     "lon_raw": "69-39W",
     "local": "1944-09-16 0800(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": ""
    },
@@ -3263,7 +3263,7 @@
     "lat_raw": "35-24N",
     "lon_raw": "69-27W",
     "local": "1944-09-16 1200(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": ""
    },
@@ -3286,7 +3286,7 @@
     "lat_raw": "~35-43N",
     "lon_raw": "~70-42W",
     "local": "1944-09-16 1810(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "Proceeding with Hampton Roads section of GUS 50",
     "fix": "position assumed: interpolated between the 16 Sep 1700Z and 17 Sep 0100Z fixes",
     "assumed": true
@@ -3310,7 +3310,7 @@
     "lat_raw": "35-48.5N",
     "lon_raw": "71-05W",
     "local": "1944-09-16 2000(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": ""
    },
@@ -3333,7 +3333,7 @@
     "lat_raw": "35-58N",
     "lon_raw": "73-24W",
     "local": "1944-09-17 0800(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": ""
    },
@@ -3356,7 +3356,7 @@
     "lat_raw": "36-28N",
     "lon_raw": "73-58W",
     "local": "1944-09-17 1200(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": ""
    },
@@ -3379,7 +3379,7 @@
     "lat_raw": "36-51N",
     "lon_raw": "74-21W",
     "local": "1944-09-17 2000(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": ""
    },
@@ -3402,7 +3402,7 @@
     "lat_raw": "~36-53N",
     "lon_raw": "~74-19W",
     "local": "1944-09-17 2012(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "Detached from convoy at buoy S-11 in Chesapeake Bay Channel. 2020 proceeding out Swept Channel enroute to Boston",
     "fix": "position assumed: interpolated between the 18 Sep 0100Z and 18 Sep 1300Z fixes",
     "assumed": true
@@ -3426,7 +3426,7 @@
     "lat_raw": "38-26N",
     "lon_raw": "72-17W",
     "local": "1944-09-18 0800(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": ""
    },
@@ -3449,7 +3449,7 @@
     "lat_raw": "39-06N",
     "lon_raw": "71-17W",
     "local": "1944-09-18 1200(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": ""
    },
@@ -3472,7 +3472,7 @@
     "lat_raw": "40-14N",
     "lon_raw": "69-22W",
     "local": "1944-09-18 2000(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": ""
    },
@@ -3496,7 +3496,7 @@
     "lon_raw": "70-53.4W",
     "typed": "42-23-30N 70-53-26W",
     "local": "1944-09-19 0800(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "",
     "fix": "typed in degrees-minutes-seconds (42-23-30N, 70-53-26W); converted"
    },
@@ -3519,7 +3519,7 @@
     "lat_raw": "42-21N",
     "lon_raw": "71-02W",
     "local": "1944-09-19 1620(R)",
-    "page": "rg367-78684020/p03",
+    "page": "rg38-78684020/p03",
     "note": "0922 anchored in Boston Harbor. 1620 moored at Pier 1E, South Boston Annex, Navy Yard, Boston, Mass.",
     "fix": "South Boston coordinates are not in the diary; standard harbour position used"
    },
@@ -3542,7 +3542,7 @@
     "lat_raw": "42-21N",
     "lon_raw": "71-02W",
     "local": "1944-09-20 0000(R)",
-    "page": "rg367-78684020/p04",
+    "page": "rg38-78684020/p04",
     "note": "20-30 Sep moored at various berths, South Boston Annex, Navy Yard, Boston, Mass. (1629 23 Sep entered drydock; 1645 26 Sep left drydock). Signed H. A. Hull",
     "fix": "South Boston coordinates are not in the diary; standard harbour position used"
    },
@@ -3565,7 +3565,7 @@
     "lat_raw": "~42-21N",
     "lon_raw": "~71-02W",
     "local": "1944-09-23 1629(R)",
-    "page": "rg367-78684020/p04",
+    "page": "rg38-78684020/p04",
     "note": "Entered drydock, South Boston",
     "fix": "position assumed: interpolated between the 20 Sep 0500Z and 01 Oct 1300Z fixes",
     "assumed": true
@@ -3589,7 +3589,7 @@
     "lat_raw": "~42-22N",
     "lon_raw": "~71-03W",
     "local": "1944-09-26 1645(R)",
-    "page": "rg367-78684020/p04",
+    "page": "rg38-78684020/p04",
     "note": "Left drydock, South Boston",
     "fix": "position assumed: interpolated between the 20 Sep 0500Z and 01 Oct 1300Z fixes",
     "assumed": true
@@ -3613,7 +3613,7 @@
     "lat_raw": "42-22N",
     "lon_raw": "71-03W",
     "local": "1944-10-01 0800(R)",
-    "page": "rg367-78684020/p05",
+    "page": "rg38-78684020/p05",
     "note": "",
     "fix": ""
    },
@@ -3636,7 +3636,7 @@
     "lat_raw": "42-45N",
     "lon_raw": "70-00W",
     "local": "1944-10-01 1200(R)",
-    "page": "rg367-78684020/p05",
+    "page": "rg38-78684020/p05",
     "note": "",
     "fix": ""
    },
@@ -3659,7 +3659,7 @@
     "lat_raw": "43-37N",
     "lon_raw": "70-12W",
     "local": "1944-10-01 2000(R)",
-    "page": "rg367-78684020/p05",
+    "page": "rg38-78684020/p05",
     "note": "Enroute Boston Navy Yard to Casco Bay, Maine",
     "fix": ""
    },
@@ -3682,7 +3682,7 @@
     "lat_raw": "43-41N",
     "lon_raw": "70-13W",
     "local": "1944-10-02 0000(R)",
-    "page": "rg367-78684020/p05",
+    "page": "rg38-78684020/p05",
     "note": "2-6 Oct at Casco Bay, operating in accordance with ComDesLant daily schedule",
     "fix": "Casco Bay coordinates are not in the diary; standard harbour position used"
    },
@@ -3705,7 +3705,7 @@
     "lat_raw": "41-59N",
     "lon_raw": "69-26W",
     "local": "1944-10-07 2000(R)",
-    "page": "rg367-78684020/p05",
+    "page": "rg38-78684020/p05",
     "note": "",
     "fix": ""
    },
@@ -3728,7 +3728,7 @@
     "lat_raw": "40-10N",
     "lon_raw": "72-00W",
     "local": "1944-10-08 0800(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "",
     "fix": ""
    },
@@ -3751,7 +3751,7 @@
     "lat_raw": "40-23N",
     "lon_raw": "73-32W",
     "local": "1944-10-08 1200(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "",
     "fix": ""
    },
@@ -3774,7 +3774,7 @@
     "lat_raw": "40-26N",
     "lon_raw": "74-04W",
     "local": "1944-10-08 1403(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "Moored at NAD, Earle, New Jersey to take on ammunition. 1740 underway enroute Staten Island",
     "fix": "NAD Earle, Leonardo, N.J. coordinates are not in the diary; standard harbour position used"
    },
@@ -3797,7 +3797,7 @@
     "lat_raw": "40-38N",
     "lon_raw": "74-04W",
     "local": "1944-10-08 1846(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "Moored at Pier 8, U. S. Naval Frontier Base, Tompkinsville, New York (9-10 Oct there)",
     "fix": "Tompkinsville, Staten Island coordinates are not in the diary; standard harbour position used"
    },
@@ -3820,7 +3820,7 @@
     "lat_raw": "40-36N",
     "lon_raw": "74-01W",
     "local": "1944-10-10 1906(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "Moved to anchorage in Gravesend Bay, New York",
     "fix": "Gravesend Bay coordinates are not in the diary; standard harbour position used"
    },
@@ -3843,7 +3843,7 @@
     "lat_raw": "~40-15N",
     "lon_raw": "~73-43W",
     "local": "1944-10-11 0412(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "Sortied ahead of New York section, UGS 57, enroute rendezvous with Norfolk section of UGS 57",
     "fix": "position assumed: interpolated between the 11 Oct 0006Z and 11 Oct 1300Z fixes",
     "assumed": true
@@ -3867,7 +3867,7 @@
     "lat_raw": "40-06N",
     "lon_raw": "73-36W",
     "local": "1944-10-11 0800(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "",
     "fix": ""
    },
@@ -3890,7 +3890,7 @@
     "lat_raw": "39-52N",
     "lon_raw": "73-36W",
     "local": "1944-10-11 1200(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "",
     "fix": ""
    },
@@ -3913,7 +3913,7 @@
     "lat_raw": "39-02N",
     "lon_raw": "73-56W",
     "local": "1944-10-11 2000(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "",
     "fix": ""
    },
@@ -3936,7 +3936,7 @@
     "lat_raw": "37-41N",
     "lon_raw": "74-25W",
     "local": "1944-10-12 0800(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "",
     "fix": ""
    },
@@ -3959,7 +3959,7 @@
     "lat_raw": "37-06.5N",
     "lon_raw": "74-32W",
     "local": "1944-10-12 1200(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "",
     "fix": ""
    },
@@ -3982,7 +3982,7 @@
     "lat_raw": "~37-03N",
     "lon_raw": "~74-26W",
     "local": "1944-10-12 1300(R)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "Rendezvoused with Norfolk section of UGS57",
     "fix": "position assumed: interpolated between the 12 Oct 1700Z and 13 Oct 0100Z fixes",
     "assumed": true
@@ -4006,7 +4006,7 @@
     "lat_raw": "36-37N",
     "lon_raw": "73-48W",
     "local": "1944-10-12 2000(R)",
-    "page": "rg367-78684020/p06",
+    "page": "rg38-78684020/p06",
     "note": "",
     "fix": ""
    },
@@ -4029,7 +4029,7 @@
     "lat_raw": "35-57N",
     "lon_raw": "71-51W",
     "local": "1944-10-13 0800(R)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4052,7 +4052,7 @@
     "lat_raw": "35-42N",
     "lon_raw": "71-11W",
     "local": "1944-10-13 1200(R)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4075,7 +4075,7 @@
     "lat_raw": "35-09N",
     "lon_raw": "69-50W",
     "local": "1944-10-13 2000(R)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4098,7 +4098,7 @@
     "lat_raw": "34-28N",
     "lon_raw": "68-04.5W",
     "local": "1944-10-14 0800(R)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4121,7 +4121,7 @@
     "lat_raw": "34-11N",
     "lon_raw": "67-23W",
     "local": "1944-10-14 1200(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4144,7 +4144,7 @@
     "lat_raw": "33-55N",
     "lon_raw": "65-58W",
     "local": "1944-10-14 2000(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4167,7 +4167,7 @@
     "lat_raw": "32-55N",
     "lon_raw": "64-13W",
     "local": "1944-10-15 0800(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4190,7 +4190,7 @@
     "lat_raw": "32-35N",
     "lon_raw": "63-25W",
     "local": "1944-10-15 1200(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4213,7 +4213,7 @@
     "lat_raw": "32-34.5N",
     "lon_raw": "61-53W",
     "local": "1944-10-15 2000(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4236,7 +4236,7 @@
     "lat_raw": "32-46N",
     "lon_raw": "59-41W",
     "local": "1944-10-16 0800(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4259,7 +4259,7 @@
     "lat_raw": "32-52N",
     "lon_raw": "58-52W",
     "local": "1944-10-16 1200(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4282,7 +4282,7 @@
     "lat_raw": "33-02N",
     "lon_raw": "57-22W",
     "local": "1944-10-16 2000(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4305,7 +4305,7 @@
     "lat_raw": "33-16N",
     "lon_raw": "55-01W",
     "local": "1944-10-17 0800(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4328,7 +4328,7 @@
     "lat_raw": "33-15N",
     "lon_raw": "54-32W",
     "local": "1944-10-17 1200(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4351,7 +4351,7 @@
     "lat_raw": "33-14N",
     "lon_raw": "53-00W",
     "local": "1944-10-17 2000(Q)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4374,7 +4374,7 @@
     "lat_raw": "33-13N",
     "lon_raw": "50-43W",
     "local": "1944-10-18 0800(P)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4397,7 +4397,7 @@
     "lat_raw": "33-12N",
     "lon_raw": "50-03W",
     "local": "1944-10-18 1200(P)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4420,7 +4420,7 @@
     "lat_raw": "33-11N",
     "lon_raw": "48-33W",
     "local": "1944-10-18 2000(P)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4443,7 +4443,7 @@
     "lat_raw": "33-09N",
     "lon_raw": "46-15W",
     "local": "1944-10-19 0800(P)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4466,7 +4466,7 @@
     "lat_raw": "33-09N",
     "lon_raw": "45-30W",
     "local": "1944-10-19 1200(P)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4489,7 +4489,7 @@
     "lat_raw": "33-09N",
     "lon_raw": "43-58W",
     "local": "1944-10-19 2000(P)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4512,7 +4512,7 @@
     "lat_raw": "33-06N",
     "lon_raw": "41-40W",
     "local": "1944-10-20 0800(P)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4535,7 +4535,7 @@
     "lat_raw": "33-08N",
     "lon_raw": "41-10W",
     "local": "1944-10-20 1200(P)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4558,7 +4558,7 @@
     "lat_raw": "33-08N",
     "lon_raw": "39-39W",
     "local": "1944-10-20 2000(P)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4581,7 +4581,7 @@
     "lat_raw": "33-11N",
     "lon_raw": "37-21W",
     "local": "1944-10-21 0800(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4604,7 +4604,7 @@
     "lat_raw": "33-21N",
     "lon_raw": "36-36W",
     "local": "1944-10-21 1200(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4627,7 +4627,7 @@
     "lat_raw": "33-22N",
     "lon_raw": "35-13W",
     "local": "1944-10-21 2000(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4650,7 +4650,7 @@
     "lat_raw": "33-27N",
     "lon_raw": "33-15W",
     "local": "1944-10-22 0800(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4673,7 +4673,7 @@
     "lat_raw": "33-32N",
     "lon_raw": "32-04W",
     "local": "1944-10-22 1200(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4696,7 +4696,7 @@
     "lat_raw": "33-32.5N",
     "lon_raw": "30-47.5W",
     "local": "1944-10-22 2000(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4719,7 +4719,7 @@
     "lat_raw": "33-42N",
     "lon_raw": "28-18W",
     "local": "1944-10-23 0800(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4742,7 +4742,7 @@
     "lat_raw": "33-45N",
     "lon_raw": "27-32W",
     "local": "1944-10-23 1200(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4765,7 +4765,7 @@
     "lat_raw": "33-48N",
     "lon_raw": "26-02W",
     "local": "1944-10-23 2000(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4788,7 +4788,7 @@
     "lat_raw": "33-50N",
     "lon_raw": "24-00W",
     "local": "1944-10-24 0800(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4811,7 +4811,7 @@
     "lat_raw": "33-53N",
     "lon_raw": "23-12W",
     "local": "1944-10-24 1200(O)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4834,7 +4834,7 @@
     "lat_raw": "33-54N",
     "lon_raw": "21-47W",
     "local": "1944-10-24 2000(N)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4857,7 +4857,7 @@
     "lat_raw": "33-59N",
     "lon_raw": "19-30W",
     "local": "1944-10-25 0800(N)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4880,7 +4880,7 @@
     "lat_raw": "33-56.5N",
     "lon_raw": "18-44W",
     "local": "1944-10-25 1200(N)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4903,7 +4903,7 @@
     "lat_raw": "34-03N",
     "lon_raw": "17-13W",
     "local": "1944-10-25 2000(N)",
-    "page": "rg367-78684020/p07",
+    "page": "rg38-78684020/p07",
     "note": "",
     "fix": ""
    },
@@ -4926,7 +4926,7 @@
     "lat_raw": "33-50N",
     "lon_raw": "24-00W",
     "local": "1944-10-26 0800(O)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": "same as 24 Oct row (retyped); off track"
    },
@@ -4949,7 +4949,7 @@
     "lat_raw": "33-53N",
     "lon_raw": "23-12W",
     "local": "1944-10-26 1200(O)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": "same as 24 Oct row (retyped); off track"
    },
@@ -4972,7 +4972,7 @@
     "lat_raw": "33-54N",
     "lon_raw": "21-47W",
     "local": "1944-10-26 2000(N)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": "same as 24 Oct row (retyped); off track"
    },
@@ -4995,7 +4995,7 @@
     "lat_raw": "34-18N",
     "lon_raw": "11-58W",
     "local": "1944-10-27 0800(N)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5018,7 +5018,7 @@
     "lat_raw": "34-12N",
     "lon_raw": "11-20W",
     "local": "1944-10-27 1200(N)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5041,7 +5041,7 @@
     "lat_raw": "34-14N",
     "lon_raw": "10-05W",
     "local": "1944-10-27 2000(N)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5064,7 +5064,7 @@
     "lat_raw": "34-51N",
     "lon_raw": "07-39W",
     "local": "1944-10-28 0800(N)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5087,7 +5087,7 @@
     "lat_raw": "35-14N",
     "lon_raw": "07-14W",
     "local": "1944-10-28 1200(Z)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5110,7 +5110,7 @@
     "lat_raw": "35-54N",
     "lon_raw": "05-47W",
     "local": "1944-10-28 2000(Z)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5133,7 +5133,7 @@
     "lat_raw": "35-47N",
     "lon_raw": "03-55W",
     "local": "1944-10-29 0800(Z)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5156,7 +5156,7 @@
     "lat_raw": "35-42N",
     "lon_raw": "03-18W",
     "local": "1944-10-29 1200(Z)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5179,7 +5179,7 @@
     "lat_raw": "35-45N",
     "lon_raw": "02-17W",
     "local": "1944-10-29 2000(Z)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5202,7 +5202,7 @@
     "lat_raw": "35-49N",
     "lon_raw": "00-50W",
     "local": "1944-10-30 0800(Z)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5225,7 +5225,7 @@
     "lat_raw": "36-01N",
     "lon_raw": "00-11W",
     "local": "1944-10-30 1200(Z)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5248,7 +5248,7 @@
     "lat_raw": "36-32N",
     "lon_raw": "00-57E",
     "local": "1944-10-30 2000(Z)",
-    "page": "rg367-78684020/p08",
+    "page": "rg38-78684020/p08",
     "note": "",
     "fix": ""
    },
@@ -5271,7 +5271,7 @@
     "lat_raw": "37-07N",
     "lon_raw": "06-01E",
     "local": "1944-11-01 0800(Z)",
-    "page": "rg367-78709413/p01",
+    "page": "rg38-78709413/p01",
     "note": "",
     "fix": ""
    },
@@ -5294,7 +5294,7 @@
     "lat_raw": "37-10N",
     "lon_raw": "06-32E",
     "local": "1944-11-01 1200(Z)",
-    "page": "rg367-78709413/p01",
+    "page": "rg38-78709413/p01",
     "note": "",
     "fix": ""
    },
@@ -5317,7 +5317,7 @@
     "lat_raw": "37-09N",
     "lon_raw": "08-03E",
     "local": "1944-11-01 2000(A)",
-    "page": "rg367-78709413/p01",
+    "page": "rg38-78709413/p01",
     "note": "",
     "fix": ""
    },
@@ -5340,7 +5340,7 @@
     "lat_raw": "~37-12N",
     "lon_raw": "~08-50E",
     "local": "1944-11-02 0130(A)",
-    "page": "rg367-78709413/p01",
+    "page": "rg38-78709413/p01",
     "note": "Underway ahead of convoy escorting SS TATRA and SS ZACAPA to debark Convoy Commodore and Vice-Commodore at Bizerte",
     "fix": "position assumed: interpolated between the 01 Nov 1900Z and 02 Nov 0750Z fixes",
     "assumed": true
@@ -5364,7 +5364,7 @@
     "lat_raw": "37-16N",
     "lon_raw": "09-52E",
     "local": "1944-11-02 0850(A)",
-    "page": "rg367-78709413/p01",
+    "page": "rg38-78709413/p01",
     "note": "Moored alongside U.S.S. BALCH in outer harbor (Bizerte). 1430 moved to anchorage in Lake Bizerte, Tunisia",
     "fix": "Bizerte coordinates are not in the diary; standard harbour position used"
    },
@@ -5387,7 +5387,7 @@
     "lat_raw": "~37-19N",
     "lon_raw": "~10-23E",
     "local": "1944-11-03 0620(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "Commander Task Force 64 shifted his flag from U.S.S. BALCH to U.S.S. SOLAR. 0625 underway enroute Palermo",
     "fix": "position assumed: interpolated between the 02 Nov 0750Z and 03 Nov 0700Z fixes",
     "assumed": true
@@ -5411,7 +5411,7 @@
     "lat_raw": "37-19N",
     "lon_raw": "10-25E",
     "local": "1944-11-03 0800(A)",
-    "page": "rg367-78709413/p01",
+    "page": "rg38-78709413/p01",
     "note": "",
     "fix": ""
    },
@@ -5434,7 +5434,7 @@
     "lat_raw": "37-54N",
     "lon_raw": "11-32.5E",
     "local": "1944-11-03 1200(A)",
-    "page": "rg367-78709413/p01",
+    "page": "rg38-78709413/p01",
     "note": "",
     "fix": ""
    },
@@ -5457,7 +5457,7 @@
     "lat_raw": "38-08N",
     "lon_raw": "13-22E",
     "local": "1944-11-03 1739(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "Moored at berth 6, breakwater, Palermo, Sicily (the 0800-1200-2000 line on p01 says 2000 moored at Palermo). 4-5 Nov moored at Palermo",
     "fix": "Palermo coordinates are not in the diary; standard harbour position used"
    },
@@ -5480,7 +5480,7 @@
     "lat_raw": "38-08N",
     "lon_raw": "13-22E",
     "local": "1944-11-06 0800(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "At Palermo, Sicily (0800 and 1200)",
     "fix": "Palermo coordinates are not in the diary; standard harbour position used"
    },
@@ -5503,7 +5503,7 @@
     "lat_raw": "~38-16N",
     "lon_raw": "~13-08E",
     "local": "1944-11-06 1722(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "Underway en route rendezvous with GUS 57 at Bizerte",
     "fix": "position assumed: interpolated between the 06 Nov 0700Z and 06 Nov 1900Z fixes",
     "assumed": true
@@ -5527,7 +5527,7 @@
     "lat_raw": "38-17.8N",
     "lon_raw": "13-03.6E",
     "local": "1944-11-06 2000(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5550,7 +5550,7 @@
     "lat_raw": "37-39N",
     "lon_raw": "11-05E",
     "local": "1944-11-07 0800(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5573,7 +5573,7 @@
     "lat_raw": "37-14.7N",
     "lon_raw": "10-24.5E",
     "local": "1944-11-07 1200(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5596,7 +5596,7 @@
     "lat_raw": "~37-19N",
     "lon_raw": "~09-56E",
     "local": "1944-11-07 1620(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "Rendezvoused with GUS 57",
     "fix": "position assumed: interpolated between the 07 Nov 1100Z and 07 Nov 1900Z fixes",
     "assumed": true
@@ -5620,7 +5620,7 @@
     "lat_raw": "37-23N",
     "lon_raw": "09-32E",
     "local": "1944-11-07 2000(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5643,7 +5643,7 @@
     "lat_raw": "37-20N",
     "lon_raw": "07-34E",
     "local": "1944-11-08 0800(A)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5666,7 +5666,7 @@
     "lat_raw": "37-19N",
     "lon_raw": "06-55E",
     "local": "1944-11-08 1200(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5689,7 +5689,7 @@
     "lat_raw": "37-04N",
     "lon_raw": "05-17E",
     "local": "1944-11-08 2000(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5712,7 +5712,7 @@
     "lat_raw": "36-53N",
     "lon_raw": "03-11E",
     "local": "1944-11-09 0800(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5735,7 +5735,7 @@
     "lat_raw": "36-56N",
     "lon_raw": "02-35E",
     "local": "1944-11-09 1200(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5758,7 +5758,7 @@
     "lat_raw": "36-49N",
     "lon_raw": "01-08E",
     "local": "1944-11-09 2000(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5781,7 +5781,7 @@
     "lat_raw": "35-58N",
     "lon_raw": "00-46W",
     "local": "1944-11-10 0800(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5804,7 +5804,7 @@
     "lat_raw": "35-59N",
     "lon_raw": "01-13.5W",
     "local": "1944-11-10 1200(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5827,7 +5827,7 @@
     "lat_raw": "36-06N",
     "lon_raw": "02-43W",
     "local": "1944-11-10 2000(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5850,7 +5850,7 @@
     "lat_raw": "36-06N",
     "lon_raw": "05-12W",
     "local": "1944-11-11 0800(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5873,7 +5873,7 @@
     "lat_raw": "35-57.5N",
     "lon_raw": "05-36W",
     "local": "1944-11-11 1200(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5896,7 +5896,7 @@
     "lat_raw": "35-30N",
     "lon_raw": "06-44W",
     "local": "1944-11-11 2000(Z)",
-    "page": "rg367-78709413/p02",
+    "page": "rg38-78709413/p02",
     "note": "",
     "fix": ""
    },
@@ -5919,7 +5919,7 @@
     "lat_raw": "34-25N",
     "lon_raw": "08-33W",
     "local": "1944-11-12 0800(N)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -5942,7 +5942,7 @@
     "lat_raw": "34-11N",
     "lon_raw": "09-20W",
     "local": "1944-11-12 1200(N)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -5965,7 +5965,7 @@
     "lat_raw": "34-07N",
     "lon_raw": "11-18W",
     "local": "1944-11-12 2000(N)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "Commander Task Force 64 shifted his flag from U.S.S. SOLAR to U.S.S. BALCH",
     "fix": ""
    },
@@ -5988,7 +5988,7 @@
     "lat_raw": "34-00N",
     "lon_raw": "14-02W",
     "local": "1944-11-13 0800(N)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6011,7 +6011,7 @@
     "lat_raw": "33-54N",
     "lon_raw": "15-02W",
     "local": "1944-11-13 1200(N)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6034,7 +6034,7 @@
     "lat_raw": "33-52N",
     "lon_raw": "16-21W",
     "local": "1944-11-13 2000(N)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6057,7 +6057,7 @@
     "lat_raw": "33-51N",
     "lon_raw": "18-39W",
     "local": "1944-11-14 0800(N)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6080,7 +6080,7 @@
     "lat_raw": "33-46N",
     "lon_raw": "19-54W",
     "local": "1944-11-14 1200(N)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6103,7 +6103,7 @@
     "lat_raw": "33-47N",
     "lon_raw": "21-31W",
     "local": "1944-11-14 2000(N)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6126,7 +6126,7 @@
     "lat_raw": "33-47N",
     "lon_raw": "23-51W",
     "local": "1944-11-15 0800(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6149,7 +6149,7 @@
     "lat_raw": "33-51N",
     "lon_raw": "24-40W",
     "local": "1944-11-15 1200(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6172,7 +6172,7 @@
     "lat_raw": "33-50N",
     "lon_raw": "26-16W",
     "local": "1944-11-15 2000(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6195,7 +6195,7 @@
     "lat_raw": "33-45N",
     "lon_raw": "28-40W",
     "local": "1944-11-16 0800(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6218,7 +6218,7 @@
     "lat_raw": "33-42N",
     "lon_raw": "29-20W",
     "local": "1944-11-16 1200(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6241,7 +6241,7 @@
     "lat_raw": "33-46N",
     "lon_raw": "30-15W",
     "local": "1944-11-16 2000(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6264,7 +6264,7 @@
     "lat_raw": "33-30N",
     "lon_raw": "32-17W",
     "local": "1944-11-17 0800(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6287,7 +6287,7 @@
     "lat_raw": "33-24N",
     "lon_raw": "33-00W",
     "local": "1944-11-17 1200(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6310,7 +6310,7 @@
     "lat_raw": "33-12N",
     "lon_raw": "34-09W",
     "local": "1944-11-17 2000(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6333,7 +6333,7 @@
     "lat_raw": "33-11N",
     "lon_raw": "35-57W",
     "local": "1944-11-18 0800(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6356,7 +6356,7 @@
     "lat_raw": "33-12N",
     "lon_raw": "36-49W",
     "local": "1944-11-18 1200(O)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6379,7 +6379,7 @@
     "lat_raw": "33-10N",
     "lon_raw": "37-54W",
     "local": "1944-11-18 2000(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6402,7 +6402,7 @@
     "lat_raw": "33-12N",
     "lon_raw": "39-47W",
     "local": "1944-11-19 0800(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6425,7 +6425,7 @@
     "lat_raw": "33-22N",
     "lon_raw": "40-15W",
     "local": "1944-11-19 1200(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6448,7 +6448,7 @@
     "lat_raw": "33-21N",
     "lon_raw": "41-32W",
     "local": "1944-11-19 2000(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6471,7 +6471,7 @@
     "lat_raw": "33-18N",
     "lon_raw": "43-20W",
     "local": "1944-11-20 0800(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6494,7 +6494,7 @@
     "lat_raw": "33-30N",
     "lon_raw": "43-47W",
     "local": "1944-11-20 1200(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6517,7 +6517,7 @@
     "lat_raw": "33-36N",
     "lon_raw": "44-06W",
     "local": "1944-11-20 2000(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6540,7 +6540,7 @@
     "lat_raw": "33-23N",
     "lon_raw": "46-05W",
     "local": "1944-11-21 0800(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6563,7 +6563,7 @@
     "lat_raw": "33-15N",
     "lon_raw": "46-23W",
     "local": "1944-11-21 1200(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6586,7 +6586,7 @@
     "lat_raw": "33-16N",
     "lon_raw": "47-20W",
     "local": "1944-11-21 2000(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6609,7 +6609,7 @@
     "lat_raw": "33-19N",
     "lon_raw": "48-41W",
     "local": "1944-11-22 0800(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6632,7 +6632,7 @@
     "lat_raw": "33-13N",
     "lon_raw": "49-06W",
     "local": "1944-11-22 1200(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6655,7 +6655,7 @@
     "lat_raw": "33-17N",
     "lon_raw": "50-53W",
     "local": "1944-11-22 2000(P)",
-    "page": "rg367-78709413/p03",
+    "page": "rg38-78709413/p03",
     "note": "",
     "fix": ""
    },
@@ -6678,7 +6678,7 @@
     "lat_raw": "33-18N",
     "lon_raw": "52-21W",
     "local": "1944-11-23 0800(P)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6701,7 +6701,7 @@
     "lat_raw": "33-17N",
     "lon_raw": "52-55W",
     "local": "1944-11-23 1200(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6724,7 +6724,7 @@
     "lat_raw": "33-21N",
     "lon_raw": "53-47W",
     "local": "1944-11-23 2000(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6747,7 +6747,7 @@
     "lat_raw": "33-15N",
     "lon_raw": "55-24W",
     "local": "1944-11-24 0800(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6770,7 +6770,7 @@
     "lat_raw": "33-15N",
     "lon_raw": "55-56W",
     "local": "1944-11-24 1200(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6793,7 +6793,7 @@
     "lat_raw": "33-12N",
     "lon_raw": "57-05W",
     "local": "1944-11-24 2000(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6816,7 +6816,7 @@
     "lat_raw": "33-09N",
     "lon_raw": "58-40W",
     "local": "1944-11-25 0800(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6839,7 +6839,7 @@
     "lat_raw": "33-10N",
     "lon_raw": "59-22W",
     "local": "1944-11-25 1200(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6862,7 +6862,7 @@
     "lat_raw": "33-08N",
     "lon_raw": "60-20W",
     "local": "1944-11-25 2000(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6885,7 +6885,7 @@
     "lat_raw": "33-08N",
     "lon_raw": "60-33W",
     "local": "1944-11-26 0800(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6908,7 +6908,7 @@
     "lat_raw": "33-08N",
     "lon_raw": "61-03W",
     "local": "1944-11-26 1200(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6931,7 +6931,7 @@
     "lat_raw": "33-11N",
     "lon_raw": "62-11W",
     "local": "1944-11-26 2000(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6954,7 +6954,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "64-28W",
     "local": "1944-11-27 0800(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -6977,7 +6977,7 @@
     "lat_raw": "33-42N",
     "lon_raw": "65-15W",
     "local": "1944-11-27 1200(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7000,7 +7000,7 @@
     "lat_raw": "34-08N",
     "lon_raw": "66-24W",
     "local": "1944-11-27 2000(Q)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7023,7 +7023,7 @@
     "lat_raw": "34-48N",
     "lon_raw": "68-33W",
     "local": "1944-11-28 0800(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7046,7 +7046,7 @@
     "lat_raw": "35-19N",
     "lon_raw": "69-22W",
     "local": "1944-11-28 1200(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "Convoy split. Continued with New York section",
     "fix": ""
    },
@@ -7069,7 +7069,7 @@
     "lat_raw": "36-17N",
     "lon_raw": "70-15W",
     "local": "1944-11-28 2000(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7092,7 +7092,7 @@
     "lat_raw": "38-04N",
     "lon_raw": "71-24W",
     "local": "1944-11-29 0800(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7115,7 +7115,7 @@
     "lat_raw": "~38-05N",
     "lon_raw": "~71-37W",
     "local": "1944-11-29 0900(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "Detached from GUS 57, proceeding with Delaware Capes section",
     "fix": "position assumed: interpolated between the 29 Nov 1300Z and 29 Nov 1700Z fixes",
     "assumed": true
@@ -7139,7 +7139,7 @@
     "lat_raw": "38-08N",
     "lon_raw": "72-15W",
     "local": "1944-11-29 1200(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7162,7 +7162,7 @@
     "lat_raw": "38-22N",
     "lon_raw": "74-32W",
     "local": "1944-11-29 2000(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7185,7 +7185,7 @@
     "lat_raw": "~38-35N",
     "lon_raw": "~74-29W",
     "local": "1944-11-29 2115(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "Left merchant ships at Buoy 4, Delaware Capes South Channel; proceeding independently to New York",
     "fix": "position assumed: interpolated between the 30 Nov 0100Z and 30 Nov 1300Z fixes",
     "assumed": true
@@ -7209,7 +7209,7 @@
     "lat_raw": "40-24N",
     "lon_raw": "74-03W",
     "local": "1944-11-30 0800(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7232,7 +7232,7 @@
     "lat_raw": "40-26N",
     "lon_raw": "74-04W",
     "local": "1944-11-30 0838(R)",
-    "page": "rg367-78709413/p05",
+    "page": "rg38-78709413/p05",
     "note": "Moored at NAD, Earle, New Jersey to discharge ammunition. 1058 underway en-route New York Navy Yard, Brooklyn",
     "fix": "NAD Earle, Leonardo, N.J. coordinates are not in the diary; standard harbour position used"
    },
@@ -7255,7 +7255,7 @@
     "lat_raw": "40-42N",
     "lon_raw": "73-58W",
     "local": "1944-11-30 1200(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7278,7 +7278,7 @@
     "lat_raw": "40-42N",
     "lon_raw": "73-58W",
     "local": "1944-11-30 1332(R)",
-    "page": "rg367-78709413/p05",
+    "page": "rg38-78709413/p05",
     "note": "Moored alongside U.S.S. EDSALL (DE 129), Pier D, Berth 4, New York Navy Yard, Brooklyn, New York. Signed H. A. Hull",
     "fix": "New York Navy Yard, Brooklyn coordinates are not in the diary; standard harbour position used"
    },
@@ -7301,7 +7301,7 @@
     "lat_raw": "40-42N",
     "lon_raw": "73-58W",
     "local": "1944-11-30 2000(R)",
-    "page": "rg367-78709413/p04",
+    "page": "rg38-78709413/p04",
     "note": "",
     "fix": ""
    },
@@ -7324,7 +7324,7 @@
     "lat_raw": "40-42N",
     "lon_raw": "73-58W",
     "local": "1944-12-01 0000(R)",
-    "page": "rg367-139825595/p01",
+    "page": "rg38-139825595/p01",
     "note": "Moored at New York Navy Yard, Brooklyn, New York for assigned availability (1-12 Dec). Attached to TF 63",
     "fix": "New York Navy Yard, Brooklyn coordinates are not in the diary; standard harbour position used"
    },
@@ -7347,7 +7347,7 @@
     "lat_raw": "~40-42N",
     "lon_raw": "~73-58W",
     "local": "1944-12-07 0715(R)",
-    "page": "rg367-139825595/p01",
+    "page": "rg38-139825595/p01",
     "note": "Bearings of number one and number two main propulsion units discovered to be wiped",
     "fix": "position assumed: interpolated between the 01 Dec 0500Z and 13 Dec 1300Z fixes",
     "assumed": true
@@ -7371,7 +7371,7 @@
     "lat_raw": "40-42N",
     "lon_raw": "73-58W",
     "local": "1944-12-13 0800(R)",
-    "page": "rg367-139825595/p01",
+    "page": "rg38-139825595/p01",
     "note": "Moored at New York Navy Yard, Brooklyn",
     "fix": "New York Navy Yard, Brooklyn coordinates are not in the diary; standard harbour position used"
    },
@@ -7394,7 +7394,7 @@
     "lat_raw": "~40-43N",
     "lon_raw": "~73-56W",
     "local": "1944-12-13 0808(R)",
-    "page": "rg367-139825595/p02",
+    "page": "rg38-139825595/p02",
     "note": "Underway enroute Long Island Sound for trial run",
     "fix": "position assumed: interpolated between the 13 Dec 1300Z and 13 Dec 1700Z fixes",
     "assumed": true
@@ -7418,7 +7418,7 @@
     "lat_raw": "41-02N",
     "lon_raw": "72-53W",
     "local": "1944-12-13 1200(R)",
-    "page": "rg367-139825595/p01",
+    "page": "rg38-139825595/p01",
     "note": "",
     "fix": ""
    },
@@ -7441,7 +7441,7 @@
     "lat_raw": "40-42N",
     "lon_raw": "73-58W",
     "local": "1944-12-13 1530(R)",
-    "page": "rg367-139825595/p02",
+    "page": "rg38-139825595/p02",
     "note": "Moored at Pier C, New York Navy Yard, Brooklyn (14 Dec moored there)",
     "fix": "New York Navy Yard, Brooklyn coordinates are not in the diary; standard harbour position used"
    },
@@ -7464,7 +7464,7 @@
     "lat_raw": "40-42N",
     "lon_raw": "73-58W",
     "local": "1944-12-13 2000(R)",
-    "page": "rg367-139825595/p01",
+    "page": "rg38-139825595/p01",
     "note": "Moored at New York Navy Yard, Brooklyn",
     "fix": "New York Navy Yard, Brooklyn coordinates are not in the diary; standard harbour position used"
    },
@@ -7487,7 +7487,7 @@
     "lat_raw": "~40-28N",
     "lon_raw": "~74-03W",
     "local": "1944-12-15 0830(R)",
-    "page": "rg367-139825595/p02",
+    "page": "rg38-139825595/p02",
     "note": "Underway enroute U. S. Naval Ammunition Pier, Leonardo, New Jersey. 1003 anchored in Sandy Hook Bay for direction finder calibration",
     "fix": "position assumed: interpolated between the 14 Dec 0100Z and 15 Dec 1739Z fixes",
     "assumed": true
@@ -7511,7 +7511,7 @@
     "lat_raw": "40-26N",
     "lon_raw": "74-04W",
     "local": "1944-12-15 1239(R)",
-    "page": "rg367-139825595/p02",
+    "page": "rg38-139825595/p02",
     "note": "Moored at berth 12 NB, Naval Barge Pier, Leonardo, New Jersey. 1654 underway enroute Norfolk, Virginia",
     "fix": "NAD Earle, Leonardo, N.J. coordinates are not in the diary; standard harbour position used"
    },
@@ -7534,7 +7534,7 @@
     "lat_raw": "39-42N",
     "lon_raw": "73-35W",
     "local": "1944-12-15 2000(R)",
-    "page": "rg367-139825595/p02",
+    "page": "rg38-139825595/p02",
     "note": "",
     "fix": ""
    },
@@ -7557,7 +7557,7 @@
     "lat_raw": "37-25N",
     "lon_raw": "74-35W",
     "local": "1944-12-16 0800(R)",
-    "page": "rg367-139825595/p02",
+    "page": "rg38-139825595/p02",
     "note": "Attached to CotCLant as per CinCLant dispatch 082156 of December 1944",
     "fix": ""
    },
@@ -7580,7 +7580,7 @@
     "lat_raw": "36-56N",
     "lon_raw": "76-02W",
     "local": "1944-12-16 1200(R)",
-    "page": "rg367-139825595/p02",
+    "page": "rg38-139825595/p02",
     "note": "",
     "fix": ""
    },
@@ -7603,7 +7603,7 @@
     "lat_raw": "36-57N",
     "lon_raw": "76-20W",
     "local": "1944-12-16 1431(R)",
-    "page": "rg367-139825595/p02",
+    "page": "rg38-139825595/p02",
     "note": "Moored to pier 22, Convoy Escort Piers, NOB, Norfolk, Va. 17-31 Dec conducted various daily operations in accordance with verbal orders of CotCLant. Signed W. F. Grubbs",
     "fix": "NOB Norfolk coordinates are not in the diary; standard harbour position used"
    },
@@ -7626,7 +7626,7 @@
     "lat_raw": "36-57N",
     "lon_raw": "76-20W",
     "local": "1945-01-01 0000(R)",
-    "page": "rg367-139825595/p03",
+    "page": "rg38-139825595/p03",
     "note": "1-31 Jan Chesapeake Bay area: afloat and alongside training of student officers and enlisted men, U. S. Naval Training Station, NOB, Norfolk; refresher training of ship's company",
     "fix": "NOB Norfolk coordinates are not in the diary; standard harbour position used"
    },
@@ -7649,7 +7649,7 @@
     "lat_raw": "~36-57N",
     "lon_raw": "~76-18W",
     "local": "1945-01-06 0000(R)",
-    "page": "rg367-139825595/p03",
+    "page": "rg38-139825595/p03",
     "note": "Shore bombardment practice with the Amphibious Forces in the vicinity of Bloodsworth Island, Chesapeake Bay (3\"/50 98 rounds, 40 MM 336, 1.10 560). Signed W. F. Grubbs",
     "fix": "position assumed: interpolated between the 01 Jan 0500Z and 01 Feb 2335Z fixes",
     "assumed": true
@@ -7673,7 +7673,7 @@
     "lat_raw": "36-56N",
     "lon_raw": "76-05W",
     "local": "1945-02-01 1835(R)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "Anchored Lynnhaven Roads in company with USS KEARNY (DD-432) and USS F. M. ROBINSON (DE-220). Attached to Task Group 60.9 (1707 underway proceeding Lynnhaven Roads)",
     "fix": "Lynnhaven Roads coordinates are not in the diary; standard harbour position used"
    },
@@ -7696,7 +7696,7 @@
     "lat_raw": "~36-37N",
     "lon_raw": "~75-36W",
     "local": "1945-02-02 0505(R)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "Underway from Lynnhaven Roads escorting convoy UGS 72 enroute North African ports",
     "fix": "position assumed: interpolated between the 01 Feb 2335Z and 02 Feb 1300Z fixes",
     "assumed": true
@@ -7720,7 +7720,7 @@
     "lat_raw": "36-32N",
     "lon_raw": "75-28W",
     "local": "1945-02-02 0800(R)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7743,7 +7743,7 @@
     "lat_raw": "36-50N",
     "lon_raw": "74-37W",
     "local": "1945-02-02 1200(R)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7766,7 +7766,7 @@
     "lat_raw": "36-43N",
     "lon_raw": "73-22W",
     "local": "1945-02-02 2000(R)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7789,7 +7789,7 @@
     "lat_raw": "36-16N",
     "lon_raw": "71-28W",
     "local": "1945-02-03 0800(R)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7812,7 +7812,7 @@
     "lat_raw": "36-09N",
     "lon_raw": "70-45W",
     "local": "1945-02-03 1200(R)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7835,7 +7835,7 @@
     "lat_raw": "35-56N",
     "lon_raw": "69-21W",
     "local": "1945-02-03 2000(R)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7858,7 +7858,7 @@
     "lat_raw": "35-22N",
     "lon_raw": "67-17W",
     "local": "1945-02-04 0800(Q)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7881,7 +7881,7 @@
     "lat_raw": "35-14N",
     "lon_raw": "66-36W",
     "local": "1945-02-04 1200(Q)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7904,7 +7904,7 @@
     "lat_raw": "34-57N",
     "lon_raw": "64-50W",
     "local": "1945-02-04 2000(Q)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7927,7 +7927,7 @@
     "lat_raw": "34-48N",
     "lon_raw": "62-45W",
     "local": "1945-02-05 0800(Q)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7950,7 +7950,7 @@
     "lat_raw": "35-00N",
     "lon_raw": "61-56W",
     "local": "1945-02-05 1200(Q)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7973,7 +7973,7 @@
     "lat_raw": "35-13N",
     "lon_raw": "60-23W",
     "local": "1945-02-05 2000(Q)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -7996,7 +7996,7 @@
     "lat_raw": "35-32N",
     "lon_raw": "58-04W",
     "local": "1945-02-06 0800(Q)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -8019,7 +8019,7 @@
     "lat_raw": "35-40N",
     "lon_raw": "57-01W",
     "local": "1945-02-06 1200(Q)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -8042,7 +8042,7 @@
     "lat_raw": "35-53N",
     "lon_raw": "55-27W",
     "local": "1945-02-06 2000(Q)",
-    "page": "rg367-139905513/p01",
+    "page": "rg38-139905513/p01",
     "note": "",
     "fix": ""
    },
@@ -8065,7 +8065,7 @@
     "lat_raw": "36-13N",
     "lon_raw": "53-09W",
     "local": "1945-02-07 0800(Q)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8088,7 +8088,7 @@
     "lat_raw": "36-20N",
     "lon_raw": "52-21W",
     "local": "1945-02-07 1200(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8111,7 +8111,7 @@
     "lat_raw": "36-31N",
     "lon_raw": "50-47W",
     "local": "1945-02-07 2000(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8134,7 +8134,7 @@
     "lat_raw": "36-54N",
     "lon_raw": "48-44W",
     "local": "1945-02-08 0800(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8157,7 +8157,7 @@
     "lat_raw": "36-57N",
     "lon_raw": "47-57W",
     "local": "1945-02-08 1200(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8180,7 +8180,7 @@
     "lat_raw": "37-04N",
     "lon_raw": "46-14W",
     "local": "1945-02-08 2000(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8203,7 +8203,7 @@
     "lat_raw": "37-13N",
     "lon_raw": "43-58W",
     "local": "1945-02-09 0800(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8226,7 +8226,7 @@
     "lat_raw": "37-11N",
     "lon_raw": "43-13W",
     "local": "1945-02-09 1200(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8249,7 +8249,7 @@
     "lat_raw": "37-12N",
     "lon_raw": "41-32W",
     "local": "1945-02-09 2000(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8272,7 +8272,7 @@
     "lat_raw": "37-13N",
     "lon_raw": "39-09W",
     "local": "1945-02-10 0800(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8295,7 +8295,7 @@
     "lat_raw": "37-31N",
     "lon_raw": "38-21W",
     "local": "1945-02-10 1200(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8318,7 +8318,7 @@
     "lat_raw": "~37-31N",
     "lon_raw": "~38-17W",
     "local": "1945-02-10 1216(P)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "Rescued man overboard from SS Joseph Holt (ship 111). 1822 transferred man back to SS Joseph Holt by breeches buoy",
     "fix": "position assumed: interpolated between the 10 Feb 1500Z and 10 Feb 2200Z fixes",
     "assumed": true
@@ -8342,7 +8342,7 @@
     "lat_raw": "37-20N",
     "lon_raw": "36-29W",
     "local": "1945-02-10 2000(O)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8365,7 +8365,7 @@
     "lat_raw": "37-10N",
     "lon_raw": "34-17W",
     "local": "1945-02-11 0800(O)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8388,7 +8388,7 @@
     "lat_raw": "37-09N",
     "lon_raw": "33-21W",
     "local": "1945-02-11 1200(O)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8411,7 +8411,7 @@
     "lat_raw": "37-02N",
     "lon_raw": "31-46W",
     "local": "1945-02-11 2000(O)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8434,7 +8434,7 @@
     "lat_raw": "36-46N",
     "lon_raw": "29-06W",
     "local": "1945-02-12 0800(O)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8457,7 +8457,7 @@
     "lat_raw": "36-40N",
     "lon_raw": "28-33W",
     "local": "1945-02-12 1200(O)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8480,7 +8480,7 @@
     "lat_raw": "36-21N",
     "lon_raw": "27-05W",
     "local": "1945-02-12 2000(O)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8503,7 +8503,7 @@
     "lat_raw": "36-03N",
     "lon_raw": "24-50W",
     "local": "1945-02-13 0800(O)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8526,7 +8526,7 @@
     "lat_raw": "35-56N",
     "lon_raw": "24-01W",
     "local": "1945-02-13 1200(O)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8549,7 +8549,7 @@
     "lat_raw": "35-46N",
     "lon_raw": "22-22W",
     "local": "1945-02-13 2000(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8572,7 +8572,7 @@
     "lat_raw": "35-38N",
     "lon_raw": "20-15W",
     "local": "1945-02-14 0800(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8595,7 +8595,7 @@
     "lat_raw": "35-35N",
     "lon_raw": "19-27W",
     "local": "1945-02-14 1200(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8618,7 +8618,7 @@
     "lat_raw": "35-30N",
     "lon_raw": "17-41W",
     "local": "1945-02-14 2000(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8641,7 +8641,7 @@
     "lat_raw": "35-20N",
     "lon_raw": "15-21W",
     "local": "1945-02-15 0800(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8665,7 +8665,7 @@
     "lon_raw": "14-58W",
     "typed": "35\u00b0-17'N 14\u00b0-58'W",
     "local": "1945-02-15 0905(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "Sighted and sank floating mine (the mine's position)",
     "fix": "typed in degrees and minutes (\u00b0-'); the same position in the table's notation. Not SOLAR's own position"
    },
@@ -8688,7 +8688,7 @@
     "lat_raw": "35-16N",
     "lon_raw": "14-34W",
     "local": "1945-02-15 1200(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8711,7 +8711,7 @@
     "lat_raw": "35-11N",
     "lon_raw": "13-03W",
     "local": "1945-02-15 2000(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8734,7 +8734,7 @@
     "lat_raw": "35-06N",
     "lon_raw": "10-35W",
     "local": "1945-02-16 0800(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8757,7 +8757,7 @@
     "lat_raw": "35-06.5N",
     "lon_raw": "09-53W",
     "local": "1945-02-16 1200(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8780,7 +8780,7 @@
     "lat_raw": "35-16N",
     "lon_raw": "08-17W",
     "local": "1945-02-16 2000(N)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8803,7 +8803,7 @@
     "lat_raw": "35-43N",
     "lon_raw": "06-23W",
     "local": "1945-02-17 0800(Z)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8826,7 +8826,7 @@
     "lat_raw": "~35-49N",
     "lon_raw": "~06-06W",
     "local": "1945-02-17 0955(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "Entering Straits of Gibraltar. Convoy in four columns",
     "fix": "position assumed: interpolated between the 17 Feb 0800Z and 17 Feb 1200Z fixes",
     "assumed": true
@@ -8851,7 +8851,7 @@
     "lon_raw": "05-50W",
     "typed": "35\u00b0-57'N 5\u00b0-50'W",
     "local": "1945-02-17 1055(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "SS Regent Lion in column one struck by torpedo or mine, settling by the stern but not sinking. 1105 SS Michael J. Stone in column one struck by torpedo or mine, settling by the stern but not sinking",
     "fix": "typed in degrees and minutes (\u00b0-'); the same position in the table's notation. Not SOLAR's own position"
    },
@@ -8874,7 +8874,7 @@
     "lat_raw": "~35-54N",
     "lon_raw": "~05-54W",
     "local": "1945-02-17 1121(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "Ordered to leave station on port side of convoy to conduct search under direction of CCD30 in USS KNOXVILLE (PF-64). 1304 ordered by CTG 60.9 to relieve USS KEARNY (DD-432) and escort SS Michael J. Stone to Gibraltar",
     "fix": "position assumed: interpolated between the 17 Feb 0800Z and 17 Feb 1200Z fixes",
     "assumed": true
@@ -8898,7 +8898,7 @@
     "lat_raw": "35-56N",
     "lon_raw": "05-48W",
     "local": "1945-02-17 1200(Z)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8921,7 +8921,7 @@
     "lat_raw": "36-08N",
     "lon_raw": "05-22W",
     "local": "1945-02-17 1545(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "Arrived Gibraltar Bay. 1700 departed Gibraltar Bay to overtake USS KEARNY escorting Southern France section of UGS 72",
     "fix": "Gibraltar Bay coordinates are not in the diary; standard harbour position used"
    },
@@ -8944,7 +8944,7 @@
     "lat_raw": "36-02N",
     "lon_raw": "04-58W",
     "local": "1945-02-17 2000(Z)",
-    "page": "rg367-139905513/p02",
+    "page": "rg38-139905513/p02",
     "note": "",
     "fix": ""
    },
@@ -8967,7 +8967,7 @@
     "lat_raw": "~35-56N",
     "lon_raw": "~04-00W",
     "local": "1945-02-17 2348(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "Rejoined KEARNY",
     "fix": "position assumed: interpolated between the 17 Feb 2000Z and 18 Feb 0800Z fixes",
     "assumed": true
@@ -8991,7 +8991,7 @@
     "lat_raw": "35-43N",
     "lon_raw": "01-56W",
     "local": "1945-02-18 0800(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "",
     "fix": ""
    },
@@ -9014,7 +9014,7 @@
     "lat_raw": "~35-46N",
     "lon_raw": "~01-26W",
     "local": "1945-02-18 1016(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "Relieved by USS FOWLER, proceeding in column astern of USS ROBINSON, guide is USS KEARNY, enroute Mers-el-Kebir",
     "fix": "position assumed: interpolated between the 18 Feb 0800Z and 18 Feb 1200Z fixes",
     "assumed": true
@@ -9038,7 +9038,7 @@
     "lat_raw": "35-49N",
     "lon_raw": "01-03W",
     "local": "1945-02-18 1200(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "",
     "fix": ""
    },
@@ -9061,7 +9061,7 @@
     "lat_raw": "35-44N",
     "lon_raw": "00-41W",
     "local": "1945-02-18 1444(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "Moored at Mers-el-Kebir, Oran, Algeria (19-24 Feb at Mers-el-Kebir)",
     "fix": "Mers-el-Kebir coordinates are not in the diary; standard harbour position used"
    },
@@ -9084,7 +9084,7 @@
     "lat_raw": "~35-44N",
     "lon_raw": "~00-41W",
     "local": "1945-02-23 0816(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "Underway for practice area for gunnery exercises; 1018-1500 exercises; 1825 moored at Mers-el-Kebir",
     "fix": "position assumed: interpolated between the 18 Feb 1444Z and 25 Feb 1802Z fixes",
     "assumed": true
@@ -9108,7 +9108,7 @@
     "lat_raw": "~35-44N",
     "lon_raw": "~00-41W",
     "local": "1945-02-24 0859(Z)",
-    "page": "rg367-139905513/p03",
+    "page": "rg38-139905513/p03",
     "note": "Underway for practice area for ASW exercises with French submarine ARCHIMEDE; 1000-1400 exercises; 1636 moored at Mers-el-Kebir",
     "fix": "position assumed: interpolated between the 18 Feb 1444Z and 25 Feb 1802Z fixes",
     "assumed": true
@@ -9132,7 +9132,7 @@
     "lat_raw": "35-44N",
     "lon_raw": "00-41W",
     "local": "1945-02-25 1802(Z)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "Anchored off Pt. de Canastel, Bay of Oran, in company with USS KNOXVILLE (PF-64) and USS ROBINSON (DE-220) (1717 underway from Mers-el-Kebir)",
     "fix": "Mers-el-Kebir coordinates are not in the diary; standard harbour position used"
    },
@@ -9155,7 +9155,7 @@
     "lat_raw": "~35-50N",
     "lon_raw": "~00-40W",
     "local": "1945-02-26 0651(Z)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "Underway with GUS 74 enroute United States ports. 1001 patrolling on station",
     "fix": "position assumed: interpolated between the 25 Feb 1802Z and 26 Feb 0800Z fixes",
     "assumed": true
@@ -9179,7 +9179,7 @@
     "lat_raw": "35-50N",
     "lon_raw": "00-40W",
     "local": "1945-02-26 0800(Z)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "",
     "fix": ""
    },
@@ -9202,7 +9202,7 @@
     "lat_raw": "36-02N",
     "lon_raw": "01-05W",
     "local": "1945-02-26 1200(Z)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "",
     "fix": ""
    },
@@ -9225,7 +9225,7 @@
     "lat_raw": "36-10N",
     "lon_raw": "02-44W",
     "local": "1945-02-26 2000(Z)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "",
     "fix": ""
    },
@@ -9248,7 +9248,7 @@
     "lat_raw": "36-06N",
     "lon_raw": "04-38W",
     "local": "1945-02-27 0800(Z)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "",
     "fix": ""
    },
@@ -9271,7 +9271,7 @@
     "lat_raw": "36-05N",
     "lon_raw": "04-14W",
     "local": "1945-02-27 1200(Z)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "",
     "fix": ""
    },
@@ -9294,7 +9294,7 @@
     "lat_raw": "35-49N",
     "lon_raw": "06-31W",
     "local": "1945-02-27 2000(Z)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "",
     "fix": ""
    },
@@ -9317,7 +9317,7 @@
     "lat_raw": "34-30N",
     "lon_raw": "08-37W",
     "local": "1945-02-28 0800(N)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "",
     "fix": ""
    },
@@ -9340,7 +9340,7 @@
     "lat_raw": "34-15N",
     "lon_raw": "09-18W",
     "local": "1945-02-28 1200(N)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "",
     "fix": ""
    },
@@ -9363,7 +9363,7 @@
     "lat_raw": "34-15N",
     "lon_raw": "10-48W",
     "local": "1945-02-28 2000(N)",
-    "page": "rg367-139905513/p04",
+    "page": "rg38-139905513/p04",
     "note": "",
     "fix": ""
    },
@@ -9386,7 +9386,7 @@
     "lat_raw": "34-10N",
     "lon_raw": "13-19W",
     "local": "1945-03-01 0800(N)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9409,7 +9409,7 @@
     "lat_raw": "34-12N",
     "lon_raw": "13-58W",
     "local": "1945-03-01 1200(N)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9432,7 +9432,7 @@
     "lat_raw": "34-09N",
     "lon_raw": "15-31W",
     "local": "1945-03-01 2000(N)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9455,7 +9455,7 @@
     "lat_raw": "34-05N",
     "lon_raw": "17-49W",
     "local": "1945-03-02 0800(N)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9478,7 +9478,7 @@
     "lat_raw": "34-12N",
     "lon_raw": "19-03W",
     "local": "1945-03-02 1200(N)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9501,7 +9501,7 @@
     "lat_raw": "34-07N",
     "lon_raw": "20-40W",
     "local": "1945-03-02 2000(N)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9524,7 +9524,7 @@
     "lat_raw": "34-08N",
     "lon_raw": "22-56W",
     "local": "1945-03-03 0800(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9547,7 +9547,7 @@
     "lat_raw": "34-05N",
     "lon_raw": "23-28W",
     "local": "1945-03-03 1200(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9570,7 +9570,7 @@
     "lat_raw": "33-57N",
     "lon_raw": "24-55W",
     "local": "1945-03-03 2000(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9593,7 +9593,7 @@
     "lat_raw": "33-44N",
     "lon_raw": "27-21W",
     "local": "1945-03-04 0800(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9616,7 +9616,7 @@
     "lat_raw": "33-48N",
     "lon_raw": "28-05W",
     "local": "1945-03-04 1200(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9639,7 +9639,7 @@
     "lat_raw": "33-48N",
     "lon_raw": "29-32W",
     "local": "1945-03-04 2000(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9662,7 +9662,7 @@
     "lat_raw": "33-37N",
     "lon_raw": "31-49W",
     "local": "1945-03-05 0800(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9685,7 +9685,7 @@
     "lat_raw": "33-40N",
     "lon_raw": "32-47W",
     "local": "1945-03-05 1200(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9708,7 +9708,7 @@
     "lat_raw": "33-42N",
     "lon_raw": "34-19W",
     "local": "1945-03-05 2000(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9731,7 +9731,7 @@
     "lat_raw": "33-28N",
     "lon_raw": "36-28W",
     "local": "1945-03-06 0800(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9754,7 +9754,7 @@
     "lat_raw": "33-18N",
     "lon_raw": "37-14W",
     "local": "1945-03-06 1200(O)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9777,7 +9777,7 @@
     "lat_raw": "33-19N",
     "lon_raw": "38-43W",
     "local": "1945-03-06 2000(P)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9800,7 +9800,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "41-15W",
     "local": "1945-03-07 0800(P)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9823,7 +9823,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "42-02W",
     "local": "1945-03-07 1200(P)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9846,7 +9846,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "43-23W",
     "local": "1945-03-07 2000(P)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9869,7 +9869,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "45-51W",
     "local": "1945-03-08 0800(P)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9892,7 +9892,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "46-36W",
     "local": "1945-03-08 1200(P)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9915,7 +9915,7 @@
     "lat_raw": "33-15N",
     "lon_raw": "46-56W",
     "local": "1945-03-08 2000(P)",
-    "page": "rg367-633401458/p01",
+    "page": "rg38-633401458/p01",
     "note": "",
     "fix": ""
    },
@@ -9938,7 +9938,7 @@
     "lat_raw": "33-15N",
     "lon_raw": "48-56W",
     "local": "1945-03-09 0800(P)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -9961,7 +9961,7 @@
     "lat_raw": "33-09N",
     "lon_raw": "49-33W",
     "local": "1945-03-09 1200(P)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -9984,7 +9984,7 @@
     "lat_raw": "33-14N",
     "lon_raw": "50-50W",
     "local": "1945-03-09 2000(P)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10007,7 +10007,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "52-42W",
     "local": "1945-03-10 0800(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10030,7 +10030,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "53-36W",
     "local": "1945-03-10 1200(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10053,7 +10053,7 @@
     "lat_raw": "33-21N",
     "lon_raw": "54-40W",
     "local": "1945-03-10 2000(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10076,7 +10076,7 @@
     "lat_raw": "33-34N",
     "lon_raw": "56-09W",
     "local": "1945-03-11 0800(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10099,7 +10099,7 @@
     "lat_raw": "33-18N",
     "lon_raw": "56-51W",
     "local": "1945-03-11 1200(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10122,7 +10122,7 @@
     "lat_raw": "33-17N",
     "lon_raw": "58-03W",
     "local": "1945-03-11 2000(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10145,7 +10145,7 @@
     "lat_raw": "33-15N",
     "lon_raw": "60-00W",
     "local": "1945-03-12 0800(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10168,7 +10168,7 @@
     "lat_raw": "33-17N",
     "lon_raw": "60-36W",
     "local": "1945-03-12 1200(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10191,7 +10191,7 @@
     "lat_raw": "33-11N",
     "lon_raw": "61-21W",
     "local": "1945-03-12 2000(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10214,7 +10214,7 @@
     "lat_raw": "33-24N",
     "lon_raw": "63-45W",
     "local": "1945-03-13 0800(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10237,7 +10237,7 @@
     "lat_raw": "33-28N",
     "lon_raw": "64-34W",
     "local": "1945-03-13 1200(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10260,7 +10260,7 @@
     "lat_raw": "33-54N",
     "lon_raw": "65-59W",
     "local": "1945-03-13 2000(Q)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10283,7 +10283,7 @@
     "lat_raw": "34-55N",
     "lon_raw": "68-15W",
     "local": "1945-03-14 0800(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10306,7 +10306,7 @@
     "lat_raw": "35-02N",
     "lon_raw": "68-57W",
     "local": "1945-03-14 1200(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10329,7 +10329,7 @@
     "lat_raw": "35-33N",
     "lon_raw": "70-34W",
     "local": "1945-03-14 2000(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10352,7 +10352,7 @@
     "lat_raw": "36-19N",
     "lon_raw": "72-46W",
     "local": "1945-03-15 0800(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10375,7 +10375,7 @@
     "lat_raw": "37-19N",
     "lon_raw": "72-20W",
     "local": "1945-03-15 1200(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10398,7 +10398,7 @@
     "lat_raw": "38-55N",
     "lon_raw": "72-20W",
     "local": "1945-03-15 2000(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10421,7 +10421,7 @@
     "lat_raw": "40-09N",
     "lon_raw": "73-35W",
     "local": "1945-03-16 0800(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "",
     "fix": ""
    },
@@ -10444,7 +10444,7 @@
     "lat_raw": "~40-15N",
     "lon_raw": "~73-39W",
     "local": "1945-03-16 0945(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "Proceeding independently to NAD, Leonardo, N. J. to unload ammunition (1200 at Leonardo, N.J., NAD)",
     "fix": "position assumed: interpolated between the 16 Mar 1300Z and 16 Mar 2155Z fixes",
     "assumed": true
@@ -10468,7 +10468,7 @@
     "lat_raw": "~40-35N",
     "lon_raw": "~73-53W",
     "local": "1945-03-16 1505(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "Underway enroute Navy Yard, Brooklyn",
     "fix": "position assumed: interpolated between the 16 Mar 1300Z and 16 Mar 2155Z fixes",
     "assumed": true
@@ -10492,7 +10492,7 @@
     "lat_raw": "40-42N",
     "lon_raw": "73-58W",
     "local": "1945-03-16 1655(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "Moored at Navy Yard, Brooklyn, New York. 17-26 Mar at Navy Yard for assigned availability",
     "fix": "New York Navy Yard, Brooklyn coordinates are not in the diary; standard harbour position used"
    },
@@ -10515,7 +10515,7 @@
     "lat_raw": "~40-39N",
     "lon_raw": "~73-59W",
     "local": "1945-03-18 1437(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "Entered drydock",
     "fix": "position assumed: interpolated between the 16 Mar 2155Z and 27 Mar 1740Z fixes",
     "assumed": true
@@ -10539,7 +10539,7 @@
     "lat_raw": "~40-32N",
     "lon_raw": "~74-02W",
     "local": "1945-03-23 1245(R)",
-    "page": "rg367-633401458/p02",
+    "page": "rg38-633401458/p02",
     "note": "Left drydock",
     "fix": "position assumed: interpolated between the 16 Mar 2155Z and 27 Mar 1740Z fixes",
     "assumed": true
@@ -10563,7 +10563,7 @@
     "lat_raw": "~40-26N",
     "lon_raw": "~74-04W",
     "local": "1945-03-27 1000(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "Underway enroute NAD, Leonardo (0800 at Navy Yard, Brooklyn)",
     "fix": "position assumed: interpolated between the 16 Mar 2155Z and 27 Mar 1740Z fixes",
     "assumed": true
@@ -10587,7 +10587,7 @@
     "lat_raw": "40-26N",
     "lon_raw": "74-04W",
     "local": "1945-03-27 1240(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "Moored at NAD, Leonardo, N.J. to take on ammunition. 1645 underway enroute New London, Connecticut",
     "fix": "NAD Earle, Leonardo, N.J. coordinates are not in the diary; standard harbour position used"
    },
@@ -10610,7 +10610,7 @@
     "lat_raw": "40-11N",
     "lon_raw": "73-43W",
     "local": "1945-03-27 2000(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "",
     "fix": ""
    },
@@ -10633,7 +10633,7 @@
     "lat_raw": "41-21N",
     "lon_raw": "72-05W",
     "local": "1945-03-28 1902(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "Moored at New London, Connecticut (28-30 Mar New London area for training exercises per ComSubRon I; diary: moored 1902 28 Mar - 0616 29 Mar)",
     "fix": "New London coordinates are not in the diary; standard harbour position used"
    },
@@ -10656,7 +10656,7 @@
     "lat_raw": "41-03N",
     "lon_raw": "72-02W",
     "local": "1945-03-29 2351(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "Anchored in Fort Pond Bay, Long Island (diary types 2351 28 March - 0752 30 March, overlapping its own New London mooring; taken as 29 March)",
     "fix": "the diary types 2351 28 March - 0752 30 March, overlapping its own New London mooring (1902 28 March - 0616 29 March); read as 29 March. Fort Pond Bay, Long Island coordinates are not in the diary; standard harbour position used"
    },
@@ -10679,7 +10679,7 @@
     "lat_raw": "41-21N",
     "lon_raw": "72-05W",
     "local": "1945-03-30 1816(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "Moored at New London, Connecticut",
     "fix": "New London coordinates are not in the diary; standard harbour position used"
    },
@@ -10702,7 +10702,7 @@
     "lat_raw": "~41-03N",
     "lon_raw": "~71-57W",
     "local": "1945-03-31 0616(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "Underway for exercise area. 0855 commenced scheduled exercises. 1010 underway enroute Tompkinsville",
     "fix": "position assumed: interpolated between the 30 Mar 2316Z and 31 Mar 1300Z fixes",
     "assumed": true
@@ -10726,7 +10726,7 @@
     "lat_raw": "41-00N",
     "lon_raw": "71-56W",
     "local": "1945-03-31 0800(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "",
     "fix": ""
    },
@@ -10749,7 +10749,7 @@
     "lat_raw": "40-26N",
     "lon_raw": "72-50W",
     "local": "1945-03-31 1200(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "",
     "fix": ""
    },
@@ -10772,7 +10772,7 @@
     "lat_raw": "40-38N",
     "lon_raw": "74-04W",
     "local": "1945-03-31 1755(R)",
-    "page": "rg367-633401458/p03",
+    "page": "rg38-633401458/p03",
     "note": "Moored at U.S. Naval Frontier Base, Tompkinsville, S.I., New York. Signed W. F. Grubbs",
     "fix": "Tompkinsville, Staten Island coordinates are not in the diary; standard harbour position used"
    },
@@ -10795,7 +10795,7 @@
     "lat_raw": "40-38N",
     "lon_raw": "74-04W",
     "local": "1945-04-01 0000(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "At U.S. Naval Frontier Base, Tompkinsville, S.I., N.Y.",
     "fix": "Tompkinsville, Staten Island coordinates are not in the diary; standard harbour position used"
    },
@@ -10818,7 +10818,7 @@
     "lat_raw": "40-28.5N",
     "lon_raw": "73-53.5W",
     "local": "1945-04-02 0800(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "",
     "fix": ""
    },
@@ -10841,7 +10841,7 @@
     "lat_raw": "~40-03N",
     "lon_raw": "~73-43W",
     "local": "1945-04-02 1030(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "Sortied in advance of New York Section of UGS 84. 1635 patrolling in vicinity of buoy Able. 1720 patrolling in station #2, escorting New York Section of UGS 84",
     "fix": "position assumed: interpolated between the 02 Apr 1300Z and 02 Apr 1700Z fixes",
     "assumed": true
@@ -10865,7 +10865,7 @@
     "lat_raw": "39-47N",
     "lon_raw": "73-37W",
     "local": "1945-04-02 1200(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "",
     "fix": ""
    },
@@ -10888,7 +10888,7 @@
     "lat_raw": "39-47N",
     "lon_raw": "73-37W",
     "local": "1945-04-02 2000(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "1200 and 2000 typed identical",
     "fix": ""
    },
@@ -10911,7 +10911,7 @@
     "lat_raw": "38-26N",
     "lon_raw": "74-11W",
     "local": "1945-04-03 0800(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "",
     "fix": ""
    },
@@ -10934,7 +10934,7 @@
     "lat_raw": "~38-16N",
     "lon_raw": "~74-09W",
     "local": "1945-04-03 0953(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "Investigating sonar contact. 1257 underway to rejoin New York Section of UGS 84",
     "fix": "position assumed: interpolated between the 03 Apr 1300Z and 03 Apr 1700Z fixes",
     "assumed": true
@@ -10958,7 +10958,7 @@
     "lat_raw": "38-04N",
     "lon_raw": "74-06W",
     "local": "1945-04-03 1200(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "",
     "fix": ""
    },
@@ -10981,7 +10981,7 @@
     "lat_raw": "36-56N",
     "lon_raw": "74-08W",
     "local": "1945-04-03 2000(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "",
     "fix": ""
    },
@@ -11004,7 +11004,7 @@
     "lat_raw": "36-18N",
     "lon_raw": "71-38W",
     "local": "1945-04-04 0800(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "",
     "fix": ""
    },
@@ -11027,7 +11027,7 @@
     "lat_raw": "36-24.5N",
     "lon_raw": "70-57W",
     "local": "1945-04-04 1200(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "",
     "fix": ""
    },
@@ -11050,7 +11050,7 @@
     "lat_raw": "36-08.5N",
     "lon_raw": "69-26.5W",
     "local": "1945-04-04 2000(R)",
-    "page": "rg367-139992648/p01",
+    "page": "rg38-139992648/p01",
     "note": "",
     "fix": ""
    },
@@ -11073,7 +11073,7 @@
     "lat_raw": "~36-02N",
     "lon_raw": "~68-57W",
     "local": "1945-04-04 2210(R)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "Rendezvous with Hampton Roads Section of UGS 84, patrolling astern of convoy",
     "fix": "position assumed: interpolated between the 05 Apr 0100Z and 05 Apr 1200Z fixes",
     "assumed": true
@@ -11097,7 +11097,7 @@
     "lat_raw": "35-35N",
     "lon_raw": "66-56W",
     "local": "1945-04-05 0800(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11120,7 +11120,7 @@
     "lat_raw": "35-27N",
     "lon_raw": "66-00W",
     "local": "1945-04-05 1200(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11143,7 +11143,7 @@
     "lat_raw": "35-07N",
     "lon_raw": "65-38W",
     "local": "1945-04-05 2000(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11166,7 +11166,7 @@
     "lat_raw": "34-45N",
     "lon_raw": "63-37W",
     "local": "1945-04-06 0800(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11189,7 +11189,7 @@
     "lat_raw": "34-45N",
     "lon_raw": "62-16W",
     "local": "1945-04-06 1200(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11212,7 +11212,7 @@
     "lat_raw": "34-58N",
     "lon_raw": "60-49W",
     "local": "1945-04-06 2000(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11235,7 +11235,7 @@
     "lat_raw": "35-04N",
     "lon_raw": "58-46W",
     "local": "1945-04-07 0800(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11258,7 +11258,7 @@
     "lat_raw": "35-10N",
     "lon_raw": "58-14W",
     "local": "1945-04-07 1200(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11281,7 +11281,7 @@
     "lat_raw": "35-23N",
     "lon_raw": "57-16W",
     "local": "1945-04-07 2000(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11304,7 +11304,7 @@
     "lat_raw": "35-41N",
     "lon_raw": "55-57W",
     "local": "1945-04-08 0800(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11327,7 +11327,7 @@
     "lat_raw": "35-37N",
     "lon_raw": "55-49W",
     "local": "1945-04-08 1200(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11350,7 +11350,7 @@
     "lat_raw": "35-47N",
     "lon_raw": "54-46W",
     "local": "1945-04-08 2000(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11373,7 +11373,7 @@
     "lat_raw": "36-06N",
     "lon_raw": "52-44W",
     "local": "1945-04-09 0800(Q)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11396,7 +11396,7 @@
     "lat_raw": "36-15N",
     "lon_raw": "52-02W",
     "local": "1945-04-09 1200(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11419,7 +11419,7 @@
     "lat_raw": "36-34N",
     "lon_raw": "50-29W",
     "local": "1945-04-09 2000(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11442,7 +11442,7 @@
     "lat_raw": "36-37N",
     "lon_raw": "50-30W",
     "local": "1945-04-10 0800(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11465,7 +11465,7 @@
     "lat_raw": "36-48N",
     "lon_raw": "48-55W",
     "local": "1945-04-10 1200(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11488,7 +11488,7 @@
     "lat_raw": "36-57N",
     "lon_raw": "46-03W",
     "local": "1945-04-10 2000(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11511,7 +11511,7 @@
     "lat_raw": "37-06N",
     "lon_raw": "43-28W",
     "local": "1945-04-11 0800(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11534,7 +11534,7 @@
     "lat_raw": "37-09N",
     "lon_raw": "42-38W",
     "local": "1945-04-11 1200(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11557,7 +11557,7 @@
     "lat_raw": "36-58N",
     "lon_raw": "41-07W",
     "local": "1945-04-11 2000(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11580,7 +11580,7 @@
     "lat_raw": "37-17N",
     "lon_raw": "39-00W",
     "local": "1945-04-12 0800(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11603,7 +11603,7 @@
     "lat_raw": "37-09N",
     "lon_raw": "38-07W",
     "local": "1945-04-12 1200(P)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11626,7 +11626,7 @@
     "lat_raw": "37-05N",
     "lon_raw": "36-32W",
     "local": "1945-04-12 2000(O)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11649,7 +11649,7 @@
     "lat_raw": "36-58N",
     "lon_raw": "34-09W",
     "local": "1945-04-13 0800(O)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11672,7 +11672,7 @@
     "lat_raw": "36-53N",
     "lon_raw": "32-52W",
     "local": "1945-04-13 1200(O)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11695,7 +11695,7 @@
     "lat_raw": "36-58N",
     "lon_raw": "31-20W",
     "local": "1945-04-13 2000(O)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11718,7 +11718,7 @@
     "lat_raw": "36-47N",
     "lon_raw": "28-50W",
     "local": "1945-04-14 0800(O)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11741,7 +11741,7 @@
     "lat_raw": "36-41N",
     "lon_raw": "28-02W",
     "local": "1945-04-14 1200(O)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11764,7 +11764,7 @@
     "lat_raw": "36-21N",
     "lon_raw": "26-21W",
     "local": "1945-04-14 2000(O)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11787,7 +11787,7 @@
     "lat_raw": "36-01N",
     "lon_raw": "24-04W",
     "local": "1945-04-15 0800(O)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11810,7 +11810,7 @@
     "lat_raw": "35-52N",
     "lon_raw": "23-23W",
     "local": "1945-04-15 1200(O)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11833,7 +11833,7 @@
     "lat_raw": "35-40N",
     "lon_raw": "21-37W",
     "local": "1945-04-15 2000(N)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11856,7 +11856,7 @@
     "lat_raw": "35-25N",
     "lon_raw": "19-15W",
     "local": "1945-04-16 0800(N)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11879,7 +11879,7 @@
     "lat_raw": "35-31N",
     "lon_raw": "18-17W",
     "local": "1945-04-16 1200(N)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11902,7 +11902,7 @@
     "lat_raw": "35-19N",
     "lon_raw": "16-24W",
     "local": "1945-04-16 2000(N)",
-    "page": "rg367-139992648/p02",
+    "page": "rg38-139992648/p02",
     "note": "",
     "fix": ""
    },
@@ -11925,7 +11925,7 @@
     "lat_raw": "35-11N",
     "lon_raw": "14-01W",
     "local": "1945-04-17 0800(N)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -11948,7 +11948,7 @@
     "lat_raw": "35-05N",
     "lon_raw": "12-53W",
     "local": "1945-04-17 1200(N)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -11971,7 +11971,7 @@
     "lat_raw": "34-48N",
     "lon_raw": "11-52W",
     "local": "1945-04-17 2000(N)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -11994,7 +11994,7 @@
     "lat_raw": "35-05N",
     "lon_raw": "09-09W",
     "local": "1945-04-18 0800(N)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -12017,7 +12017,7 @@
     "lat_raw": "35-18N",
     "lon_raw": "08-23W",
     "local": "1945-04-18 1200(N)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -12040,7 +12040,7 @@
     "lat_raw": "35-38N",
     "lon_raw": "06-57W",
     "local": "1945-04-18 2000(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -12063,7 +12063,7 @@
     "lat_raw": "~35-53N",
     "lon_raw": "~04-44W",
     "local": "1945-04-19 0620(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "Detached from UGS 84, proceeding to Oran",
     "fix": "position assumed: interpolated between the 18 Apr 2000Z and 19 Apr 0800Z fixes",
     "assumed": true
@@ -12087,7 +12087,7 @@
     "lat_raw": "35-55N",
     "lon_raw": "04-22W",
     "local": "1945-04-19 0800(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -12110,7 +12110,7 @@
     "lat_raw": "35-42N",
     "lon_raw": "02-53W",
     "local": "1945-04-19 1200(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -12133,7 +12133,7 @@
     "lat_raw": "35-44N",
     "lon_raw": "00-41W",
     "local": "1945-04-19 1905(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "Moored at Mers-el-Kebir, Algeria, North Africa (20-26 Apr at Mers-el-Kebir)",
     "fix": "Mers-el-Kebir coordinates are not in the diary; standard harbour position used"
    },
@@ -12156,7 +12156,7 @@
     "lat_raw": "~35-44N",
     "lon_raw": "~00-41W",
     "local": "1945-04-21 0000(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "Commander M.E. DENNETT, Commander, Escort Division 54, and his staff commenced Annual Material Inspection of U.S.S. SOLAR",
     "fix": "position assumed: interpolated between the 19 Apr 1905Z and 27 Apr 0800Z fixes",
     "assumed": true
@@ -12180,7 +12180,7 @@
     "lat_raw": "~35-44N",
     "lon_raw": "~00-41W",
     "local": "1945-04-23 0000(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "23 and 25 Apr exercises with F/S ARETHUSE; 24 Apr gunnery exercises",
     "fix": "position assumed: interpolated between the 19 Apr 1905Z and 27 Apr 0800Z fixes",
     "assumed": true
@@ -12204,7 +12204,7 @@
     "lat_raw": "~35-45N",
     "lon_raw": "~00-40W",
     "local": "1945-04-27 0740(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "Underway as escort of GUS 86. Patrolling in assigned station",
     "fix": "position assumed: interpolated between the 19 Apr 1905Z and 27 Apr 0800Z fixes",
     "assumed": true
@@ -12228,7 +12228,7 @@
     "lat_raw": "35-45N",
     "lon_raw": "0-40W",
     "local": "1945-04-27 0800(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -12251,7 +12251,7 @@
     "lat_raw": "36-01N",
     "lon_raw": "0-50W",
     "local": "1945-04-27 1200(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -12274,7 +12274,7 @@
     "lat_raw": "36-07N",
     "lon_raw": "02-25W",
     "local": "1945-04-27 2000(Z)",
-    "page": "rg367-139992648/p03",
+    "page": "rg38-139992648/p03",
     "note": "",
     "fix": ""
    },
@@ -12297,7 +12297,7 @@
     "lat_raw": "36-06N",
     "lon_raw": "04-26W",
     "local": "1945-04-28 0800(Z)",
-    "page": "rg367-139992648/p04",
+    "page": "rg38-139992648/p04",
     "note": "",
     "fix": ""
    },
@@ -12320,7 +12320,7 @@
     "lat_raw": "36-12N",
     "lon_raw": "04-59W",
     "local": "1945-04-28 1200(Z)",
-    "page": "rg367-139992648/p04",
+    "page": "rg38-139992648/p04",
     "note": "",
     "fix": ""
    },
@@ -12343,7 +12343,7 @@
     "lat_raw": "35-46N",
     "lon_raw": "06-15W",
     "local": "1945-04-28 2000(Z)",
-    "page": "rg367-139992648/p04",
+    "page": "rg38-139992648/p04",
     "note": "",
     "fix": ""
    },
@@ -12366,7 +12366,7 @@
     "lat_raw": "34-56N",
     "lon_raw": "07-58W",
     "local": "1945-04-29 0800(N)",
-    "page": "rg367-139992648/p04",
+    "page": "rg38-139992648/p04",
     "note": "",
     "fix": ""
    },
@@ -12389,7 +12389,7 @@
     "lat_raw": "34-35N",
     "lon_raw": "08-37W",
     "local": "1945-04-29 1200(N)",
-    "page": "rg367-139992648/p04",
+    "page": "rg38-139992648/p04",
     "note": "",
     "fix": ""
    },
@@ -12412,7 +12412,7 @@
     "lat_raw": "34-18N",
     "lon_raw": "10-15W",
     "local": "1945-04-29 2000(N)",
-    "page": "rg367-139992648/p04",
+    "page": "rg38-139992648/p04",
     "note": "",
     "fix": ""
    },
@@ -12435,7 +12435,7 @@
     "lat_raw": "34-20N",
     "lon_raw": "12-26W",
     "local": "1945-04-30 0800(N)",
-    "page": "rg367-139992648/p04",
+    "page": "rg38-139992648/p04",
     "note": "",
     "fix": ""
    },
@@ -12458,7 +12458,7 @@
     "lat_raw": "34-13N",
     "lon_raw": "13-14W",
     "local": "1945-04-30 1200(N)",
-    "page": "rg367-139992648/p04",
+    "page": "rg38-139992648/p04",
     "note": "",
     "fix": ""
    },
@@ -12481,7 +12481,7 @@
     "lat_raw": "34-10N",
     "lon_raw": "15-04W",
     "local": "1945-04-30 2000(N)",
-    "page": "rg367-139992648/p04",
+    "page": "rg38-139992648/p04",
     "note": "",
     "fix": ""
    },
@@ -12504,7 +12504,7 @@
     "lat_raw": "34-05N",
     "lon_raw": "17-26W",
     "local": "1945-05-01 0800(N)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12527,7 +12527,7 @@
     "lat_raw": "33-57.5N",
     "lon_raw": "18-20W",
     "local": "1945-05-01 1200(N)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12550,7 +12550,7 @@
     "lat_raw": "34-02N",
     "lon_raw": "20-11W",
     "local": "1945-05-01 2000(N)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12573,7 +12573,7 @@
     "lat_raw": "34-02N",
     "lon_raw": "22-48W",
     "local": "1945-05-02 0800(O)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12596,7 +12596,7 @@
     "lat_raw": "34-01N",
     "lon_raw": "23-36W",
     "local": "1945-05-02 1200(O)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12619,7 +12619,7 @@
     "lat_raw": "33-53N",
     "lon_raw": "25-20W",
     "local": "1945-05-02 2000(O)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12642,7 +12642,7 @@
     "lat_raw": "33-46N",
     "lon_raw": "27-53W",
     "local": "1945-05-03 0800(O)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12665,7 +12665,7 @@
     "lat_raw": "33-41N",
     "lon_raw": "28-45W",
     "local": "1945-05-03 1200(O)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12688,7 +12688,7 @@
     "lat_raw": "33-34N",
     "lon_raw": "30-34W",
     "local": "1945-05-03 2000(O)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12711,7 +12711,7 @@
     "lat_raw": "33-26N",
     "lon_raw": "32-57W",
     "local": "1945-05-04 0800(O)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12734,7 +12734,7 @@
     "lat_raw": "33-22N",
     "lon_raw": "33-58W",
     "local": "1945-05-04 1200(O)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12757,7 +12757,7 @@
     "lat_raw": "33-31N",
     "lon_raw": "35-33W",
     "local": "1945-05-04 2000(O)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12780,7 +12780,7 @@
     "lat_raw": "33-29N",
     "lon_raw": "38-00W",
     "local": "1945-05-05 0800(P)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12803,7 +12803,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "38-50W",
     "local": "1945-05-05 1200(P)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12826,7 +12826,7 @@
     "lat_raw": "33-15N",
     "lon_raw": "40-15W",
     "local": "1945-05-05 2000(P)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12849,7 +12849,7 @@
     "lat_raw": "33-24N",
     "lon_raw": "42-39W",
     "local": "1945-05-06 0800(P)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12872,7 +12872,7 @@
     "lat_raw": "33-15.5N",
     "lon_raw": "43-27W",
     "local": "1945-05-06 1200(P)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12895,7 +12895,7 @@
     "lat_raw": "33-16N",
     "lon_raw": "44-58W",
     "local": "1945-05-06 2000(P)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12918,7 +12918,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "46-47W",
     "local": "1945-05-07 0800(P)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12941,7 +12941,7 @@
     "lat_raw": "33-26N",
     "lon_raw": "48-24W",
     "local": "1945-05-07 1200(P)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12964,7 +12964,7 @@
     "lat_raw": "33-25N",
     "lon_raw": "49-45W",
     "local": "1945-05-07 2000(P)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -12987,7 +12987,7 @@
     "lat_raw": "33-27N",
     "lon_raw": "52-33W",
     "local": "1945-05-08 0800(Q)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -13010,7 +13010,7 @@
     "lat_raw": "33-35N",
     "lon_raw": "53-28W",
     "local": "1945-05-08 1200(Q)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -13033,7 +13033,7 @@
     "lat_raw": "33-22N",
     "lon_raw": "55-03W",
     "local": "1945-05-08 2000(Q)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -13056,7 +13056,7 @@
     "lat_raw": "33-24N",
     "lon_raw": "57-13W",
     "local": "1945-05-09 0800(Q)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -13079,7 +13079,7 @@
     "lat_raw": "33-13N",
     "lon_raw": "58-15W",
     "local": "1945-05-09 1200(Q)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -13102,7 +13102,7 @@
     "lat_raw": "33-00N",
     "lon_raw": "59-50W",
     "local": "1945-05-09 2000(Q)",
-    "page": "rg367-633449597/p01",
+    "page": "rg38-633449597/p01",
     "note": "",
     "fix": ""
    },
@@ -13125,7 +13125,7 @@
     "lat_raw": "32-41N",
     "lon_raw": "62-08W",
     "local": "1945-05-10 0800(Q)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13148,7 +13148,7 @@
     "lat_raw": "32-42N",
     "lon_raw": "62-47W",
     "local": "1945-05-10 1200(Q)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13171,7 +13171,7 @@
     "lat_raw": "33-03N",
     "lon_raw": "64-14W",
     "local": "1945-05-10 2000(Q)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13194,7 +13194,7 @@
     "lat_raw": "33-58N",
     "lon_raw": "66-30W",
     "local": "1945-05-11 0800(Q)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13217,7 +13217,7 @@
     "lat_raw": "34-13N",
     "lon_raw": "66-58W",
     "local": "1945-05-11 1200(Q)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13240,7 +13240,7 @@
     "lat_raw": "34-32N",
     "lon_raw": "68-07W",
     "local": "1945-05-11 2000(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13263,7 +13263,7 @@
     "lat_raw": "34-57N",
     "lon_raw": "69-05W",
     "local": "1945-05-12 0800(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13286,7 +13286,7 @@
     "lat_raw": "35-07N",
     "lon_raw": "70-18W",
     "local": "1945-05-12 1200(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13309,7 +13309,7 @@
     "lat_raw": "36-02N",
     "lon_raw": "72-03W",
     "local": "1945-05-12 2000(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13332,7 +13332,7 @@
     "lat_raw": "37-05N",
     "lon_raw": "73-48W",
     "local": "1945-05-13 0800(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13355,7 +13355,7 @@
     "lat_raw": "37-34N",
     "lon_raw": "74-12W",
     "local": "1945-05-13 1200(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13378,7 +13378,7 @@
     "lat_raw": "38-57.5N",
     "lon_raw": "73-42W",
     "local": "1945-05-13 2000(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13401,7 +13401,7 @@
     "lat_raw": "~40-13N",
     "lon_raw": "~73-47W",
     "local": "1945-05-14 0720(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "Detached, proceeding to Gravesend Bay awaiting docking instructions. 1224 anchored Gravesend Bay. 1500 proceeding Boston as per CinCLant secret dispatch 141526 of May 1945",
     "fix": "position assumed: interpolated between the 14 May 0100Z and 14 May 1300Z fixes",
     "assumed": true
@@ -13425,7 +13425,7 @@
     "lat_raw": "40-17N",
     "lon_raw": "73-47W",
     "local": "1945-05-14 0800(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13448,7 +13448,7 @@
     "lat_raw": "40-35N",
     "lon_raw": "74-02W",
     "local": "1945-05-14 1200(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13471,7 +13471,7 @@
     "lat_raw": "40-28N",
     "lon_raw": "73-00W",
     "local": "1945-05-14 2000(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13494,7 +13494,7 @@
     "lat_raw": "42-05N",
     "lon_raw": "70-30W",
     "local": "1945-05-15 0800(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13517,7 +13517,7 @@
     "lat_raw": "42-21N",
     "lon_raw": "71-02W",
     "local": "1945-05-15 1035(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "Moored at Pier 1, U.S. Naval Dry Dock, South Boston, Mass. (1200 and 2000 typed 42-21N 71-02W)",
     "fix": "South Boston coordinates are not in the diary; standard harbour position used"
    },
@@ -13540,7 +13540,7 @@
     "lat_raw": "42-21N",
     "lon_raw": "71-02W",
     "local": "1945-05-15 1200(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13563,7 +13563,7 @@
     "lat_raw": "42-21N",
     "lon_raw": "71-02W",
     "local": "1945-05-15 2000(R)",
-    "page": "rg367-633449597/p02",
+    "page": "rg38-633449597/p02",
     "note": "",
     "fix": ""
    },
@@ -13586,7 +13586,7 @@
     "lat_raw": "42-21N",
     "lon_raw": "71-02W",
     "local": "1945-05-16 0000(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "16-25 May at U.S. Naval Dry Dock, South Boston, for assigned upkeep period (25 May 0807-1700 to calibration area and back)",
     "fix": "South Boston coordinates are not in the diary; standard harbour position used"
    },
@@ -13609,7 +13609,7 @@
     "lat_raw": "~42-51N",
     "lon_raw": "~70-05W",
     "local": "1945-05-26 0740(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "Underway enroute Casco Bay, Maine (0800 at U.S. Naval Dry Dock, South Boston)",
     "fix": "position assumed: interpolated between the 16 May 0500Z and 26 May 1700Z fixes",
     "assumed": true
@@ -13633,7 +13633,7 @@
     "lat_raw": "42-51.4N",
     "lon_raw": "70-03.5W",
     "local": "1945-05-26 1200(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "",
     "fix": ""
    },
@@ -13656,7 +13656,7 @@
     "lat_raw": "43-41N",
     "lon_raw": "70-13W",
     "local": "1945-05-26 1603(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "Moored at berth Easy, Casco Bay, Maine",
     "fix": "Casco Bay coordinates are not in the diary; standard harbour position used"
    },
@@ -13679,7 +13679,7 @@
     "lat_raw": "43-41.3N",
     "lon_raw": "70-12.6W",
     "local": "1945-05-27 0800(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "27-28 May training schedule CTG 23.9; all three 27 May positions typed alike (berth)",
     "fix": ""
    },
@@ -13702,7 +13702,7 @@
     "lat_raw": "43-41.3N",
     "lon_raw": "70-12.6W",
     "local": "1945-05-27 1200(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "",
     "fix": ""
    },
@@ -13725,7 +13725,7 @@
     "lat_raw": "43-41.3N",
     "lon_raw": "70-12.6W",
     "local": "1945-05-27 2000(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "",
     "fix": ""
    },
@@ -13748,7 +13748,7 @@
     "lat_raw": "43-36N",
     "lon_raw": "70-11.1W",
     "local": "1945-05-28 0800(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "",
     "fix": ""
    },
@@ -13771,7 +13771,7 @@
     "lat_raw": "42-51N",
     "lon_raw": "69-21W",
     "local": "1945-05-28 1200(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "",
     "fix": ""
    },
@@ -13794,7 +13794,7 @@
     "lat_raw": "42-51N",
     "lon_raw": "69-21W",
     "local": "1945-05-28 2000(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "",
     "fix": ""
    },
@@ -13817,7 +13817,7 @@
     "lat_raw": "43-21N",
     "lon_raw": "69-34W",
     "local": "1945-05-29 0800(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "",
     "fix": ""
    },
@@ -13840,7 +13840,7 @@
     "lat_raw": "43-29N",
     "lon_raw": "69-49W",
     "local": "1945-05-29 1200(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "",
     "fix": ""
    },
@@ -13863,7 +13863,7 @@
     "lat_raw": "~43-29N",
     "lon_raw": "~70-03W",
     "local": "1945-05-29 1905(R)",
-    "page": "rg367-633449597/p04",
+    "page": "rg38-633449597/p04",
     "note": "Enroute Portsmouth, N.H.",
     "fix": "position assumed: interpolated between the 29 May 1700Z and 30 May 0100Z fixes",
     "assumed": true
@@ -13887,7 +13887,7 @@
     "lat_raw": "43-29N",
     "lon_raw": "70-05W",
     "local": "1945-05-29 2000(R)",
-    "page": "rg367-633449597/p03",
+    "page": "rg38-633449597/p03",
     "note": "",
     "fix": ""
    },
@@ -13910,7 +13910,7 @@
     "lat_raw": "43-04N",
     "lon_raw": "70-43W",
     "local": "1945-05-30 0000(R)",
-    "page": "rg367-633449597/p04",
+    "page": "rg38-633449597/p04",
     "note": "30-31 May Submarine Exercise Areas, Portsmouth, N.H.: scheduled training exercises with USS REQUIN",
     "fix": "Portsmouth, N.H. coordinates are not in the diary; standard harbour position used"
    },
@@ -13933,7 +13933,7 @@
     "lat_raw": "~43-38N",
     "lon_raw": "~70-16W",
     "local": "1945-05-31 1536(R)",
-    "page": "rg367-633449597/p04",
+    "page": "rg38-633449597/p04",
     "note": "Detached, proceeding to Casco Bay",
     "fix": "position assumed: interpolated between the 30 May 0500Z and 01 Jun 0021Z fixes",
     "assumed": true
@@ -13957,7 +13957,7 @@
     "lat_raw": "43-41N",
     "lon_raw": "70-13W",
     "local": "1945-05-31 1921(R)",
-    "page": "rg367-633449597/p04",
+    "page": "rg38-633449597/p04",
     "note": "Moored at Pier F, Long Island, Casco Bay, Maine. Signed W. F. Grubbs",
     "fix": "Casco Bay coordinates are not in the diary; standard harbour position used"
    },
@@ -13980,7 +13980,7 @@
     "lat_raw": "43-02N",
     "lon_raw": "69-43W",
     "local": "1945-06-01 0800(R)",
-    "page": "rg367-77464063/p01",
+    "page": "rg38-77464063/p01",
     "note": "Conducting scheduled exercises enroute Philadelphia Navy Yard",
     "fix": ""
    },
@@ -14003,7 +14003,7 @@
     "lat_raw": "41-56N",
     "lon_raw": "69-30W",
     "local": "1945-06-01 1200(R)",
-    "page": "rg367-77464063/p01",
+    "page": "rg38-77464063/p01",
     "note": "",
     "fix": ""
    },
@@ -14026,7 +14026,7 @@
     "lat_raw": "~40-55N",
     "lon_raw": "~69-56W",
     "local": "1945-06-01 1652(R)",
-    "page": "rg367-77464063/p01",
+    "page": "rg38-77464063/p01",
     "note": "Rescued Ensign R.W. KEHREN, USNR of VTF 152, survivor of crashed plane",
     "fix": "position assumed: interpolated between the 01 Jun 1700Z and 02 Jun 0100Z fixes",
     "assumed": true
@@ -14050,7 +14050,7 @@
     "lat_raw": "40-15N",
     "lon_raw": "70-12W",
     "local": "1945-06-01 2000(R)",
-    "page": "rg367-77464063/p01",
+    "page": "rg38-77464063/p01",
     "note": "",
     "fix": ""
    },
@@ -14073,7 +14073,7 @@
     "lat_raw": "38-15N",
     "lon_raw": "73-59W",
     "local": "1945-06-02 0800(R)",
-    "page": "rg367-77464063/p01",
+    "page": "rg38-77464063/p01",
     "note": "",
     "fix": ""
    },
@@ -14096,7 +14096,7 @@
     "lat_raw": "~38-56N",
     "lon_raw": "~74-29W",
     "local": "1945-06-02 1202(R)",
-    "page": "rg367-77464063/p01",
+    "page": "rg38-77464063/p01",
     "note": "Proceeding up Delaware Bay",
     "fix": "position assumed: interpolated between the 02 Jun 1300Z and 02 Jun 2235Z fixes",
     "assumed": true
@@ -14120,7 +14120,7 @@
     "lat_raw": "39-53N",
     "lon_raw": "75-11W",
     "local": "1945-06-02 1735(R)",
-    "page": "rg367-77464063/p01",
+    "page": "rg38-77464063/p01",
     "note": "Moored at Navy Yard, Philadelphia, Pa. (3-7 Jun there for scheduled upkeep)",
     "fix": "Philadelphia Navy Yard coordinates are not in the diary; standard harbour position used"
    },
@@ -14143,7 +14143,7 @@
     "lat_raw": "~39-17N",
     "lon_raw": "~74-00W",
     "local": "1945-06-08 0953(R)",
-    "page": "rg367-77464063/p02",
+    "page": "rg38-77464063/p02",
     "note": "Underway enroute New London, Connecticut. 1631 proceeding from Overfalls Light Vessel",
     "fix": "position assumed: interpolated between the 02 Jun 2235Z and 09 Jun 0100Z fixes",
     "assumed": true
@@ -14167,7 +14167,7 @@
     "lat_raw": "39-14N",
     "lon_raw": "73-55W",
     "local": "1945-06-08 2000(R)",
-    "page": "rg367-77464063/p02",
+    "page": "rg38-77464063/p02",
     "note": "",
     "fix": ""
    },
@@ -14190,7 +14190,7 @@
     "lat_raw": "41-21N",
     "lon_raw": "72-05W",
     "local": "1945-06-09 1040(R)",
-    "page": "rg367-77464063/p02",
+    "page": "rg38-77464063/p02",
     "note": "Moored at State Pier, New London, Connecticut. 10-30 Jun attached to ComSubsLant, New London area, assisting as directed in submarine training exercises. Signed W. F. Grubbs",
     "fix": "New London coordinates are not in the diary; standard harbour position used"
    },
@@ -14213,7 +14213,7 @@
     "lat_raw": "41-21N",
     "lon_raw": "72-05W",
     "local": "1945-07-01 0000(R)",
-    "page": "rg367-77498013/p01",
+    "page": "rg38-77498013/p01",
     "note": "1-17 Jul New London area, attached to ComSubsLant, assisting as directed in submarine training exercises (the letterhead's \"c/o Fleet Post Office, San Francisco, California\" is struck out and New York typed)",
     "fix": "New London coordinates are not in the diary; standard harbour position used"
    },
@@ -14236,7 +14236,7 @@
     "lat_raw": "~42-19N",
     "lon_raw": "~71-04W",
     "local": "1945-07-18 0746(R)",
-    "page": "rg367-77498013/p01",
+    "page": "rg38-77498013/p01",
     "note": "Underway enroute Boston via Cape Cod Canal. Attached to CortDiv54",
     "fix": "position assumed: interpolated between the 01 Jul 0500Z and 19 Jul 0004Z fixes",
     "assumed": true
@@ -14260,7 +14260,7 @@
     "lat_raw": "42-21N",
     "lon_raw": "71-02W",
     "local": "1945-07-18 1904(R)",
-    "page": "rg367-77498013/p01",
+    "page": "rg38-77498013/p01",
     "note": "Moored at U.S. Naval Drydock, South Boston, Massachusetts. 19-31 Jul there for availability",
     "fix": "South Boston coordinates are not in the diary; standard harbour position used"
    },
@@ -14283,7 +14283,7 @@
     "lat_raw": "~42-21N",
     "lon_raw": "~71-02W",
     "local": "1945-07-23 1140(R)",
-    "page": "rg367-77498013/p01",
+    "page": "rg38-77498013/p01",
     "note": "Entered drydock",
     "fix": "position assumed: interpolated between the 19 Jul 0004Z and 01 Aug 0500Z fixes",
     "assumed": true
@@ -14307,7 +14307,7 @@
     "lat_raw": "~42-21N",
     "lon_raw": "~71-02W",
     "local": "1945-07-28 1650(R)",
-    "page": "rg367-77498013/p01",
+    "page": "rg38-77498013/p01",
     "note": "Left drydock. Signed W. F. Grubbs",
     "fix": "position assumed: interpolated between the 19 Jul 0004Z and 01 Aug 0500Z fixes",
     "assumed": true
@@ -14331,7 +14331,7 @@
     "lat_raw": "42-21N",
     "lon_raw": "71-02W",
     "local": "1945-08-01 0000(R)",
-    "page": "rg367-77513304/p01",
+    "page": "rg38-77513304/p01",
     "note": "1-31 Aug at Pier 2, U.S. Naval Drydock, South Boston (availability extended)",
     "fix": "South Boston coordinates are not in the diary; standard harbour position used"
    },
@@ -14354,7 +14354,7 @@
     "lat_raw": "~42-21N",
     "lon_raw": "~71-02W",
     "local": "1945-08-11 0952(R)",
-    "page": "rg367-77513304/p01",
+    "page": "rg38-77513304/p01",
     "note": "Underway for compass calibration. 1920 moored U.S. Naval Drydock, So. Boston",
     "fix": "position assumed: interpolated between the 01 Aug 0500Z and 01 Sep 0500Z fixes",
     "assumed": true
@@ -14378,7 +14378,7 @@
     "lat_raw": "~42-21N",
     "lon_raw": "~71-02W",
     "local": "1945-08-13 1331(R)",
-    "page": "rg367-77513304/p01",
+    "page": "rg38-77513304/p01",
     "note": "Underway for full power run. 2001 moored U.S. Naval Drydock, So. Boston",
     "fix": "position assumed: interpolated between the 01 Aug 0500Z and 01 Sep 0500Z fixes",
     "assumed": true
@@ -14402,7 +14402,7 @@
     "lat_raw": "~42-21N",
     "lon_raw": "~71-02W",
     "local": "1945-08-14 1211(R)",
-    "page": "rg367-77513304/p01",
+    "page": "rg38-77513304/p01",
     "note": "Underway for full power run. 1937 moored U.S. Naval Drydock, So. Boston. Signed Donough PRINCE, Lieutenant, USNR, Acting",
     "fix": "position assumed: interpolated between the 01 Aug 0500Z and 01 Sep 0500Z fixes",
     "assumed": true
@@ -14426,7 +14426,7 @@
     "lat_raw": "42-21N",
     "lon_raw": "71-02W",
     "local": "1945-09-01 0000(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "1-6 Sep moored at Pier Two, U.S. Naval Drydocks, South Boston (5 Sep 0846-1512 full power run)",
     "fix": "South Boston coordinates are not in the diary; standard harbour position used"
    },
@@ -14449,7 +14449,7 @@
     "lat_raw": "~42-14N",
     "lon_raw": "~70-26W",
     "local": "1945-09-07 1006(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "Underway enroute Guantanamo Bay, Cuba",
     "fix": "position assumed: interpolated between the 01 Sep 0500Z and 07 Sep 1700Z fixes",
     "assumed": true
@@ -14473,7 +14473,7 @@
     "lat_raw": "42-14N",
     "lon_raw": "70-26W",
     "local": "1945-09-07 1200(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14496,7 +14496,7 @@
     "lat_raw": "40-37N",
     "lon_raw": "69-03W",
     "local": "1945-09-07 2000(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14519,7 +14519,7 @@
     "lat_raw": "37-39.5N",
     "lon_raw": "68-37.5W",
     "local": "1945-09-08 0800(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14542,7 +14542,7 @@
     "lat_raw": "36-39N",
     "lon_raw": "68-49W",
     "local": "1945-09-08 1200(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14565,7 +14565,7 @@
     "lat_raw": "34-41N",
     "lon_raw": "68-52W",
     "local": "1945-09-08 2000(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14588,7 +14588,7 @@
     "lat_raw": "31-57.5N",
     "lon_raw": "69-06W",
     "local": "1945-09-09 0800(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14611,7 +14611,7 @@
     "lat_raw": "31-01N",
     "lon_raw": "69-08W",
     "local": "1945-09-09 1200(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14634,7 +14634,7 @@
     "lat_raw": "29-04N",
     "lon_raw": "69-05W",
     "local": "1945-09-09 2000(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14657,7 +14657,7 @@
     "lat_raw": "26-05N",
     "lon_raw": "69-10W",
     "local": "1945-09-10 0800(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14680,7 +14680,7 @@
     "lat_raw": "25-23N",
     "lon_raw": "69-35W",
     "local": "1945-09-10 1200(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14703,7 +14703,7 @@
     "lat_raw": "23-48.5N",
     "lon_raw": "70-58W",
     "local": "1945-09-10 2000(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14726,7 +14726,7 @@
     "lat_raw": "21-34N",
     "lon_raw": "20-29N",
     "local": "1945-09-11 0800(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": "longitude typed as 20-29N (the next row's latitude); unresolvable, off track"
    },
@@ -14749,7 +14749,7 @@
     "lat_raw": "20-29N",
     "lon_raw": "74-03W",
     "local": "1945-09-11 1200(R)",
-    "page": "rg367-77526853/p01",
+    "page": "rg38-77526853/p01",
     "note": "",
     "fix": ""
    },
@@ -14772,7 +14772,7 @@
     "lat_raw": "19-54N",
     "lon_raw": "75-09W",
     "local": "1945-09-11 1652(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "Moored at Pier A, NOB, Guantanamo Bay, Cuba. 12-22 Sep Guantanamo Bay area, conducting refresher training (CTG 23.1)",
     "fix": "Guantanamo Bay coordinates are not in the diary; standard harbour position used"
    },
@@ -14795,7 +14795,7 @@
     "lat_raw": "~18-34N",
     "lon_raw": "~66-40W",
     "local": "1945-09-20 1830(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "Underway for Culebra Island",
     "fix": "position assumed: interpolated between the 11 Sep 2152Z and 22 Sep 1050Z fixes",
     "assumed": true
@@ -14819,7 +14819,7 @@
     "lat_raw": "18-19N",
     "lon_raw": "65-18W",
     "local": "1945-09-22 0650(Q)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "Arrived Culebra Island for shore bombardment",
     "fix": "Culebra coordinates are not in the diary; standard harbour position used"
    },
@@ -14842,7 +14842,7 @@
     "lat_raw": "~19-49N",
     "lon_raw": "~65-38W",
     "local": "1945-09-22 2142(Q)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "Underway enroute Casco Bay, Maine",
     "fix": "position assumed: interpolated between the 22 Sep 1050Z and 23 Sep 1200Z fixes",
     "assumed": true
@@ -14866,7 +14866,7 @@
     "lat_raw": "20-52N",
     "lon_raw": "65-52W",
     "local": "1945-09-23 0800(Q)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "",
     "fix": ""
    },
@@ -14889,7 +14889,7 @@
     "lat_raw": "~21-15N",
     "lon_raw": "~66-05W",
     "local": "1945-09-23 1035(Q)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "Changed course to proceed to Miami, Florida",
     "fix": "position assumed: interpolated between the 23 Sep 1200Z and 23 Sep 1600Z fixes",
     "assumed": true
@@ -14913,7 +14913,7 @@
     "lat_raw": "21-28N",
     "lon_raw": "66-12W",
     "local": "1945-09-23 1200(Q)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "",
     "fix": ""
    },
@@ -14936,7 +14936,7 @@
     "lat_raw": "22-27N",
     "lon_raw": "68-12W",
     "local": "1945-09-23 2000(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "",
     "fix": ""
    },
@@ -14959,7 +14959,7 @@
     "lat_raw": "23-39.5N",
     "lon_raw": "70-59W",
     "local": "1945-09-24 0800(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "",
     "fix": ""
    },
@@ -14982,7 +14982,7 @@
     "lat_raw": "24-01.5N",
     "lon_raw": "71-58W",
     "local": "1945-09-24 1200(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "",
     "fix": ""
    },
@@ -15005,7 +15005,7 @@
     "lat_raw": "24-42N",
     "lon_raw": "73-54W",
     "local": "1945-09-24 2000(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "",
     "fix": ""
    },
@@ -15028,7 +15028,7 @@
     "lat_raw": "25-44N",
     "lon_raw": "77-15W",
     "local": "1945-09-25 0800(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "",
     "fix": ""
    },
@@ -15051,7 +15051,7 @@
     "lat_raw": "26-10N",
     "lon_raw": "78-35W",
     "local": "1945-09-25 1200(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "",
     "fix": ""
    },
@@ -15074,7 +15074,7 @@
     "lat_raw": "25-46N",
     "lon_raw": "80-11W",
     "local": "1945-09-25 1643(R)",
-    "page": "rg367-77526853/p02",
+    "page": "rg38-77526853/p02",
     "note": "Moored at Pier One, NTC, Miami, Fla.",
     "fix": "Miami coordinates are not in the diary; standard harbour position used"
    },
@@ -15097,7 +15097,7 @@
     "lat_raw": "25-46N",
     "lon_raw": "80-11W",
     "local": "1945-09-26 0000(R)",
-    "page": "rg367-77526853/p03",
+    "page": "rg38-77526853/p03",
     "note": "26-30 Sep Miami area, acting as schoolship at NTC, Miami, Florida (CTG 23.2). Signed Donough PRINCE",
     "fix": "Miami coordinates are not in the diary; standard harbour position used"
    },
@@ -15120,7 +15120,7 @@
     "lat_raw": "25-46N",
     "lon_raw": "80-11W",
     "local": "1945-10-01 0800(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "Moored at Pier One, Miami (0800 and 1200). Operating under Squadron Commander of Ships Attached, U.S. Naval Training Center, Miami (CTG 23.32)",
     "fix": "Miami coordinates are not in the diary; standard harbour position used"
    },
@@ -15143,7 +15143,7 @@
     "lat_raw": "~25-32N",
     "lon_raw": "~80-07W",
     "local": "1945-10-01 1215(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "Underway on a five-day training cruise for student officers, to exercise at formation steaming, gunnery, and submarine detection",
     "fix": "position assumed: interpolated between the 01 Oct 1300Z and 02 Oct 0100Z fixes",
     "assumed": true
@@ -15167,7 +15167,7 @@
     "lat_raw": "25-07N",
     "lon_raw": "80-00W",
     "local": "1945-10-01 2000(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15190,7 +15190,7 @@
     "lat_raw": "24-21N",
     "lon_raw": "80-51W",
     "local": "1945-10-02 0800(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15213,7 +15213,7 @@
     "lat_raw": "24-23N",
     "lon_raw": "81-37W",
     "local": "1945-10-02 1200(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15236,7 +15236,7 @@
     "lat_raw": "24-46N",
     "lon_raw": "83-12W",
     "local": "1945-10-02 2000(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15259,7 +15259,7 @@
     "lat_raw": "24-45N",
     "lon_raw": "83-21W",
     "local": "1945-10-03 0800(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15282,7 +15282,7 @@
     "lat_raw": "24-45N",
     "lon_raw": "83-01W",
     "local": "1945-10-03 1200(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15305,7 +15305,7 @@
     "lat_raw": "24-58N",
     "lon_raw": "83-01W",
     "local": "1945-10-03 2000(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15328,7 +15328,7 @@
     "lat_raw": "24-57N",
     "lon_raw": "83-05W",
     "local": "1945-10-04 0800(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15351,7 +15351,7 @@
     "lat_raw": "24-42N",
     "lon_raw": "83-03W",
     "local": "1945-10-04 1200(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15374,7 +15374,7 @@
     "lat_raw": "24-25N",
     "lon_raw": "83-02W",
     "local": "1945-10-04 2000(R)",
-    "page": "rg367-77595243/p01",
+    "page": "rg38-77595243/p01",
     "note": "",
     "fix": ""
    },
@@ -15397,7 +15397,7 @@
     "lat_raw": "24-05N",
     "lon_raw": "81-53W",
     "local": "1945-10-05 0800(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "",
     "fix": ""
    },
@@ -15420,7 +15420,7 @@
     "lat_raw": "24-10N",
     "lon_raw": "81-40W",
     "local": "1945-10-05 1200(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "",
     "fix": ""
    },
@@ -15443,7 +15443,7 @@
     "lat_raw": "24-19N",
     "lon_raw": "81-34W",
     "local": "1945-10-05 2000(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "",
     "fix": ""
    },
@@ -15466,7 +15466,7 @@
     "lat_raw": "25-49N",
     "lon_raw": "79-46W",
     "local": "1945-10-06 0800(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "",
     "fix": ""
    },
@@ -15489,7 +15489,7 @@
     "lat_raw": "25-46N",
     "lon_raw": "80-11W",
     "local": "1945-10-06 1200(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "In Miami Channel. 2000 moored at Pier One, Miami. 7-14 Oct moored at Pier One, Miami, upkeep",
     "fix": "Miami coordinates are not in the diary; standard harbour position used"
    },
@@ -15512,7 +15512,7 @@
     "lat_raw": "25-46N",
     "lon_raw": "80-11W",
     "local": "1945-10-15 1200(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "Moored at Pier One, Miami (0800 and 1200); underway as on 1 October (training cruise)",
     "fix": "Miami coordinates are not in the diary; standard harbour position used"
    },
@@ -15535,7 +15535,7 @@
     "lat_raw": "24-50N",
     "lon_raw": "80-18W",
     "local": "1945-10-15 2000(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "",
     "fix": ""
    },
@@ -15558,7 +15558,7 @@
     "lat_raw": "24-15N",
     "lon_raw": "81-57W",
     "local": "1945-10-16 0800(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "",
     "fix": ""
    },
@@ -15581,7 +15581,7 @@
     "lat_raw": "24-28N",
     "lon_raw": "82-30W",
     "local": "1945-10-16 1200(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "",
     "fix": ""
    },
@@ -15604,7 +15604,7 @@
     "lat_raw": "24-57N",
     "lon_raw": "83-07W",
     "local": "1945-10-16 2000(R)",
-    "page": "rg367-77595243/p02",
+    "page": "rg38-77595243/p02",
     "note": "",
     "fix": ""
    },
@@ -15627,7 +15627,7 @@
     "lat_raw": "24-42N",
     "lon_raw": "83-07W",
     "local": "1945-10-17 0800(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "",
     "fix": ""
    },
@@ -15650,7 +15650,7 @@
     "lat_raw": "24-54N",
     "lon_raw": "83-07W",
     "local": "1945-10-17 1200(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "",
     "fix": ""
    },
@@ -15673,7 +15673,7 @@
     "lat_raw": "24-59N",
     "lon_raw": "82-57W",
     "local": "1945-10-17 2000(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "",
     "fix": ""
    },
@@ -15696,7 +15696,7 @@
     "lat_raw": "23-47N",
     "lon_raw": "83-41W",
     "local": "1945-10-18 0800(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "",
     "fix": ""
    },
@@ -15719,7 +15719,7 @@
     "lat_raw": "23-08N",
     "lon_raw": "82-21W",
     "local": "1945-10-18 1200(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "Moored at San Francisco Dock, Havana (1200 and 2000). To Havana for shore leave and liberty",
     "fix": "Havana coordinates are not in the diary; standard harbour position used"
    },
@@ -15742,7 +15742,7 @@
     "lat_raw": "23-29N",
     "lon_raw": "82-16W",
     "local": "1945-10-19 0800(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "Left Havana. Fired shore bombardment exercise at Woman Key, Fla.",
     "fix": ""
    },
@@ -15765,7 +15765,7 @@
     "lat_raw": "24-23N",
     "lon_raw": "82-03W",
     "local": "1945-10-19 1200(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "",
     "fix": ""
    },
@@ -15788,7 +15788,7 @@
     "lat_raw": "24-17N",
     "lon_raw": "81-23W",
     "local": "1945-10-19 2000(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "",
     "fix": ""
    },
@@ -15812,7 +15812,7 @@
     "lon_raw": "79-41W",
     "typed": "23-37N 79-41W",
     "local": "1945-10-20 0800(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "",
     "fix": "typed 23-37N, which puts the ship 135 nm from Miami four hours before she moored there; read as 25-37N, which fits the legs either side"
    },
@@ -15835,7 +15835,7 @@
     "lat_raw": "25-46N",
     "lon_raw": "80-11W",
     "local": "1945-10-20 1200(R)",
-    "page": "rg367-77595243/p03",
+    "page": "rg38-77595243/p03",
     "note": "Moored at Pier One, Miami (1200 and 2000; 21 Oct moored at Pier One)",
     "fix": "Miami coordinates are not in the diary; standard harbour position used"
    },
@@ -15858,7 +15858,7 @@
     "lat_raw": "25-46N",
     "lon_raw": "80-11W",
     "local": "1945-10-22 0800(R)",
-    "page": "rg367-77595243/p04",
+    "page": "rg38-77595243/p04",
     "note": "Moored at Pier One, Miami. Departed for Baltimore, Maryland for Navy Day (CTG 23.32 dispatch 171511 ordered SOLAR to Baltimore). Operating under Commander, Escort Division 54",
     "fix": "Miami coordinates are not in the diary; standard harbour position used"
    },
@@ -15881,7 +15881,7 @@
     "lat_raw": "26-01N",
     "lon_raw": "80-02W",
     "local": "1945-10-22 1200(R)",
-    "page": "rg367-77595243/p04",
+    "page": "rg38-77595243/p04",
     "note": "",
     "fix": ""
    },
@@ -15904,7 +15904,7 @@
     "lat_raw": "28-30N",
     "lon_raw": "79-40W",
     "local": "1945-10-22 2000(R)",
-    "page": "rg367-77595243/p04",
+    "page": "rg38-77595243/p04",
     "note": "",
     "fix": ""
    },
@@ -15927,7 +15927,7 @@
     "lat_raw": "31-47N",
     "lon_raw": "78-19W",
     "local": "1945-10-23 0800(R)",
-    "page": "rg367-77595243/p04",
+    "page": "rg38-77595243/p04",
     "note": "",
     "fix": ""
    },
@@ -15950,7 +15950,7 @@
     "lat_raw": "32-44N",
     "lon_raw": "77-06W",
     "local": "1945-10-23 1200(R)",
-    "page": "rg367-77595243/p04",
+    "page": "rg38-77595243/p04",
     "note": "",
     "fix": ""
    },
@@ -15973,7 +15973,7 @@
     "lat_raw": "34-38N",
     "lon_raw": "74-55W",
     "local": "1945-10-23 2000(R)",
-    "page": "rg367-77595243/p04",
+    "page": "rg38-77595243/p04",
     "note": "",
     "fix": ""
    },
@@ -15996,7 +15996,7 @@
     "lat_raw": "37-23N",
     "lon_raw": "76-11W",
     "local": "1945-10-24 0800(R)",
-    "page": "rg367-77595243/p04",
+    "page": "rg38-77595243/p04",
     "note": "At Wolf Trap Light, Chesapeake Bay",
     "fix": "Wolf Trap Light, Chesapeake Bay coordinates are not in the diary; standard harbour position used"
    },
@@ -16019,7 +16019,7 @@
     "lat_raw": "38-23N",
     "lon_raw": "76-23W",
     "local": "1945-10-24 1200(R)",
-    "page": "rg367-77595243/p04",
+    "page": "rg38-77595243/p04",
     "note": "At Cove Point, Chesapeake Bay",
     "fix": "Cove Point, Chesapeake Bay coordinates are not in the diary; standard harbour position used"
    },
@@ -16042,7 +16042,7 @@
     "lat_raw": "39-17N",
     "lon_raw": "76-36W",
     "local": "1945-10-24 2000(R)",
-    "page": "rg367-77595243/p04",
+    "page": "rg38-77595243/p04",
     "note": "Moored at Pier Four, Pratt Street, Baltimore, Maryland (25-31 Oct moored there). Signed George R. BRINES",
     "fix": "Baltimore coordinates are not in the diary; standard harbour position used"
    },

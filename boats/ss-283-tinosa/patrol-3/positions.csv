@@ -1,31 +1,31 @@
 source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
-narrative,depart Pearl,1943-09-23,1119,VW,21-21N,157-58W,rg367-74856215/p02,Departed Pearl under surface escort until dark for assigned area via Johnston (port position),yes,,,,,
-narrative,arrive Johnston,1943-09-25,0930,W,16-44N,169-31W,rg367-74856215/p02,Moored to dock Johnston's Island and fueled to capacity (port position),yes,,,,,
-narrative,depart Johnston,1943-09-25,1852,W,16-44N,169-31W,rg367-74856215/p02,"Underway, having waited while new set of gears for Bendix Log were manufactured. Departed with air escort (port position)",yes,,,,,
-air,Air 1,1943-09-29,1249,M,14-25N,174-42E,rg367-74856215/p15,Radar contact 10 miles. Not sighted (aircraft contacts table),yes,,,,,
-narrative,airplane,1943-09-29,1249,M,14-25N,174-42W,rg367-74856215/p03,"Radar contact, airplane 10 miles. Submerged. Not sighted",no,,174-42E,,,"narrative types W; the aircraft table (p15) has 174-42E, and 28 September was omitted for crossing the date line (p02), so east of 180. Same fix as Air 1, kept off the track to avoid a duplicate"
-ship,Ship 1,1943-10-04,0310,K,08-01N,150-19.5E,rg367-74856215/p13,"Radar contact 119T 8800 yards; course N, speed 12K; not sighted, from radar identified as patrol vessel. The narrative (p03) gives 0330",no,,,,,"ship-contact positions are the target, not TINOSA"
-narrative,patrol vessel avoided,1943-10-04,0330,K,08-01N,150-19.5E,rg367-74856215/p03,"Radar contact bearing 119T, range 8800 yards; tracked target on course north, probable patrol vessel. Avoided",yes,,,,,
-ship,Ship 2,1943-10-04,0420,K,08-00-30N,150-19E,rg367-74856215/p13,"Tanker similar to HUZISAN MARU 9527 tons; course 100, speed 11.6K; loaded",no,,,,,"ship-contact positions are the target, not TINOSA"
-attack,Attack 1,1943-10-03,1855,Z,08-02N,150-19E,rg367-74856215/p19,"Summary of attacks: 4 Torpex Mk XVIII fired, 2 hits; AO, damaged 9525 tons; range 1950. The narrative (p03) fires at 0455 K on 4 October at 08-02N 150-19E",yes,,,,,
-air,Air 2,1943-10-04,0616,K,8-01N,150-16E,rg367-74856215/p15,"Single float seaplane, bearing 230T, dist. 2 mi.; picked up by Captain on periscope",yes,,,,,
-narrative,enter area,1943-10-05,0608,K,,,rg367-74856215/p05,Entered assigned area. Course 282°T & pgc,no,,,,,no position typed
-ship,Ship 3,1943-10-06,0520,K,10-24N,146-52E,rg367-74856215/p13,"Tanker, 10000 (plus) tons; course 85, speed 16K; loaded. The narrative (p05) picks her up by sight at 0524 K",no,,,,,"ship-contact positions are the target, not TINOSA"
-attack,Attack 2,1943-10-06,0204,Z,10-35N,148-30E,rg367-74856215/p19,"Summary of attacks: 6 Torpex Mk XVIII fired, 4 hits; AO, damaged 10000 plus; range 1540. The narrative (p06) fires six bow tubes at 1201 K",yes,,,,,
-ship,Ship 3 (later),1943-10-06,1644,K,10-00N,148-36E,rg367-74856215/p13,"Same tanker (contact 3, second line)",no,,,,,"ship-contact positions are the target, not TINOSA"
-attack,Attack 3A,1943-10-06,0818,Z,10-01N,148-31E,rg367-74856215/p19,"Summary of attacks: 4 Torpex Mk XIV fired, 2 hits; range 1630 (narrative p07: four stern tubes at 1818 K, two hits)",yes,,,,,
-attack,Attack 3B,1943-10-06,0824,Z,10-01N,148-31E,rg367-74856215/p19,"Summary of attacks: 2 Torpex Mk XVIII fired, 0 hits; range 1350 (narrative p07: two bow tubes at 1825 K)",yes,,,,,
-attack,Attack 3C,1943-10-06,0833,Z,10-01N,148-31E,rg367-74856215/p20,"Summary of attacks: 1 Torpex Mk XIV fired, 0 hits; range 800 (narrative p07: one stern tube at 1834 K)",yes,,,,,
-attack,Attack 3D,1943-10-06,0859,Z,10-01N,148-31E,rg367-74856215/p20,"Summary of attacks: 1 Torpex Mk XIV fired, 1 hit; range 1680 (narrative p07: stern tube at 1859 K)",yes,,,,,
-attack,Attack 3E,1943-10-06,0909,Z,10-01N,148-31E,rg367-74856215/p20,"Summary of attacks: 1 Torpex Mk XVIII fired, 0 hits; range 1200 (narrative p07: bow tube at 1910 K)",yes,,,,,
-attack,Attack 3F,1943-10-06,0913,Z,10-01N,148-31E,rg367-74856215/p20,"Summary of attacks: 1 Torpex Mk XVIII fired, 1 hit; sunk 10000 plus, same as 2; range 800 (narrative p08: second bow tube at 1913 K; target disappeared, sinking by the stern, at 1933 K)",yes,,,,,
-air,Air 3,1943-10-07,0725,K,07-44N,149-15E,rg367-74856215/p15,"Heavy bomber, course 110T, 6 deg., dist. 6 mi.; sighted by lookout (narrative p08 the same)",yes,,,,,
-narrative,bombardment,1943-10-07,1803,K,,,rg367-74856215/p09,"Surfaced. Fired 41 rounds at target, range 3000 yards. Dust clouds as evidence of hits visible ... No opposition (the installation on Alet Island of the Paluwat group: primary target radio station, secondary barracks, p08)",no,,,,,no position typed; Alet Island not placed
-air,Air 4,1943-10-08,1528,K,09-42N,150-13.1E,rg367-74856215/p15,"Single wing monoplane, course 142T, 4 deg., dist. 6 mi.; sighted by lookout (narrative p09: 150-13E)",yes,,,,,
-air,Air 5,1943-10-12,0729,L,16-31.5N,161-21.3E,rg367-74856215/p15,"MITSUBISHI 98 Reconnaissance Bomber, bearing 170 rel., 10 deg.; sighted by lookout",yes,,,,,
-air,Air 6,1943-10-12,1721,L,17-56.40N,161-03.45E,rg367-74856215/p15,"MITSUBISHI 98 Reconnaissance Bomber, 040T, 6 deg., dist. 4 1/2 mi.; sighted by lookout",yes,,,,,
-narrative,SKATE,1943-10-13,0005,L,,,rg367-74856215/p10,"Exchanged signals with SKATE. Opened to west to patrol west side of track (radar contact and sighting at 2345 L on the 12th, range 7000 yards)",no,,,,,no position typed
-air,Air 7,1943-10-13,1705,L,19-32.2N,165-31.2E,rg367-74856215/p15,"Type 97 Light Bomber, bearing 355 rel., 4 deg., dist. 4 1/2 mi.; sighted by lookout",yes,,,,,
-air,Air 8,1943-10-14,0600,L,19-16.1N,167-52.4E,rg367-74856215/p15,"Single wing monoplane, bearing 147T, 4 deg., dist. 6 mi.; sighted by lookout",yes,,,,,
-narrative,TAUTOG,1943-10-15,0015,M,,,rg367-74856215/p11,Range 5000 yards. Exchanged signals with TAUTOG. Resumed course and speed,no,,,,,no position typed
-narrative,arrive Midway,1943-10-16,1200,Y,28-12N,177-23W,rg367-74856215/p11,"Arrived Midway Island (port position; time not given, set to noon)",yes,,,,,
+narrative,depart Pearl,1943-09-23,1119,VW,21-21N,157-58W,rg38-74856215/p02,Departed Pearl under surface escort until dark for assigned area via Johnston (port position),yes,,,,,
+narrative,arrive Johnston,1943-09-25,0930,W,16-44N,169-31W,rg38-74856215/p02,Moored to dock Johnston's Island and fueled to capacity (port position),yes,,,,,
+narrative,depart Johnston,1943-09-25,1852,W,16-44N,169-31W,rg38-74856215/p02,"Underway, having waited while new set of gears for Bendix Log were manufactured. Departed with air escort (port position)",yes,,,,,
+air,Air 1,1943-09-29,1249,M,14-25N,174-42E,rg38-74856215/p15,Radar contact 10 miles. Not sighted (aircraft contacts table),yes,,,,,
+narrative,airplane,1943-09-29,1249,M,14-25N,174-42W,rg38-74856215/p03,"Radar contact, airplane 10 miles. Submerged. Not sighted",no,,174-42E,,,"narrative types W; the aircraft table (p15) has 174-42E, and 28 September was omitted for crossing the date line (p02), so east of 180. Same fix as Air 1, kept off the track to avoid a duplicate"
+ship,Ship 1,1943-10-04,0310,K,08-01N,150-19.5E,rg38-74856215/p13,"Radar contact 119T 8800 yards; course N, speed 12K; not sighted, from radar identified as patrol vessel. The narrative (p03) gives 0330",no,,,,,"ship-contact positions are the target, not TINOSA"
+narrative,patrol vessel avoided,1943-10-04,0330,K,08-01N,150-19.5E,rg38-74856215/p03,"Radar contact bearing 119T, range 8800 yards; tracked target on course north, probable patrol vessel. Avoided",yes,,,,,
+ship,Ship 2,1943-10-04,0420,K,08-00-30N,150-19E,rg38-74856215/p13,"Tanker similar to HUZISAN MARU 9527 tons; course 100, speed 11.6K; loaded",no,,,,,"ship-contact positions are the target, not TINOSA"
+attack,Attack 1,1943-10-03,1855,Z,08-02N,150-19E,rg38-74856215/p19,"Summary of attacks: 4 Torpex Mk XVIII fired, 2 hits; AO, damaged 9525 tons; range 1950. The narrative (p03) fires at 0455 K on 4 October at 08-02N 150-19E",yes,,,,,
+air,Air 2,1943-10-04,0616,K,8-01N,150-16E,rg38-74856215/p15,"Single float seaplane, bearing 230T, dist. 2 mi.; picked up by Captain on periscope",yes,,,,,
+narrative,enter area,1943-10-05,0608,K,,,rg38-74856215/p05,Entered assigned area. Course 282°T & pgc,no,,,,,no position typed
+ship,Ship 3,1943-10-06,0520,K,10-24N,146-52E,rg38-74856215/p13,"Tanker, 10000 (plus) tons; course 85, speed 16K; loaded. The narrative (p05) picks her up by sight at 0524 K",no,,,,,"ship-contact positions are the target, not TINOSA"
+attack,Attack 2,1943-10-06,0204,Z,10-35N,148-30E,rg38-74856215/p19,"Summary of attacks: 6 Torpex Mk XVIII fired, 4 hits; AO, damaged 10000 plus; range 1540. The narrative (p06) fires six bow tubes at 1201 K",yes,,,,,
+ship,Ship 3 (later),1943-10-06,1644,K,10-00N,148-36E,rg38-74856215/p13,"Same tanker (contact 3, second line)",no,,,,,"ship-contact positions are the target, not TINOSA"
+attack,Attack 3A,1943-10-06,0818,Z,10-01N,148-31E,rg38-74856215/p19,"Summary of attacks: 4 Torpex Mk XIV fired, 2 hits; range 1630 (narrative p07: four stern tubes at 1818 K, two hits)",yes,,,,,
+attack,Attack 3B,1943-10-06,0824,Z,10-01N,148-31E,rg38-74856215/p19,"Summary of attacks: 2 Torpex Mk XVIII fired, 0 hits; range 1350 (narrative p07: two bow tubes at 1825 K)",yes,,,,,
+attack,Attack 3C,1943-10-06,0833,Z,10-01N,148-31E,rg38-74856215/p20,"Summary of attacks: 1 Torpex Mk XIV fired, 0 hits; range 800 (narrative p07: one stern tube at 1834 K)",yes,,,,,
+attack,Attack 3D,1943-10-06,0859,Z,10-01N,148-31E,rg38-74856215/p20,"Summary of attacks: 1 Torpex Mk XIV fired, 1 hit; range 1680 (narrative p07: stern tube at 1859 K)",yes,,,,,
+attack,Attack 3E,1943-10-06,0909,Z,10-01N,148-31E,rg38-74856215/p20,"Summary of attacks: 1 Torpex Mk XVIII fired, 0 hits; range 1200 (narrative p07: bow tube at 1910 K)",yes,,,,,
+attack,Attack 3F,1943-10-06,0913,Z,10-01N,148-31E,rg38-74856215/p20,"Summary of attacks: 1 Torpex Mk XVIII fired, 1 hit; sunk 10000 plus, same as 2; range 800 (narrative p08: second bow tube at 1913 K; target disappeared, sinking by the stern, at 1933 K)",yes,,,,,
+air,Air 3,1943-10-07,0725,K,07-44N,149-15E,rg38-74856215/p15,"Heavy bomber, course 110T, 6 deg., dist. 6 mi.; sighted by lookout (narrative p08 the same)",yes,,,,,
+narrative,bombardment,1943-10-07,1803,K,,,rg38-74856215/p09,"Surfaced. Fired 41 rounds at target, range 3000 yards. Dust clouds as evidence of hits visible ... No opposition (the installation on Alet Island of the Paluwat group: primary target radio station, secondary barracks, p08)",no,,,,,no position typed; Alet Island not placed
+air,Air 4,1943-10-08,1528,K,09-42N,150-13.1E,rg38-74856215/p15,"Single wing monoplane, course 142T, 4 deg., dist. 6 mi.; sighted by lookout (narrative p09: 150-13E)",yes,,,,,
+air,Air 5,1943-10-12,0729,L,16-31.5N,161-21.3E,rg38-74856215/p15,"MITSUBISHI 98 Reconnaissance Bomber, bearing 170 rel., 10 deg.; sighted by lookout",yes,,,,,
+air,Air 6,1943-10-12,1721,L,17-56.40N,161-03.45E,rg38-74856215/p15,"MITSUBISHI 98 Reconnaissance Bomber, 040T, 6 deg., dist. 4 1/2 mi.; sighted by lookout",yes,,,,,
+narrative,SKATE,1943-10-13,0005,L,,,rg38-74856215/p10,"Exchanged signals with SKATE. Opened to west to patrol west side of track (radar contact and sighting at 2345 L on the 12th, range 7000 yards)",no,,,,,no position typed
+air,Air 7,1943-10-13,1705,L,19-32.2N,165-31.2E,rg38-74856215/p15,"Type 97 Light Bomber, bearing 355 rel., 4 deg., dist. 4 1/2 mi.; sighted by lookout",yes,,,,,
+air,Air 8,1943-10-14,0600,L,19-16.1N,167-52.4E,rg38-74856215/p15,"Single wing monoplane, bearing 147T, 4 deg., dist. 6 mi.; sighted by lookout",yes,,,,,
+narrative,TAUTOG,1943-10-15,0015,M,,,rg38-74856215/p11,Range 5000 yards. Exchanged signals with TAUTOG. Resumed course and speed,no,,,,,no position typed
+narrative,arrive Midway,1943-10-16,1200,Y,28-12N,177-23W,rg38-74856215/p11,"Arrived Midway Island (port position; time not given, set to noon)",yes,,,,,

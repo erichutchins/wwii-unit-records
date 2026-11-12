@@ -1,4 +1,4 @@
 attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
-Attack 1,1945-02-10,1326,I,7,333,3.0,64,185,7,1250,4,146S,182,4,High,Miss,No,14-3A,,0,,1.5L,rg367-74802868/p46
-Attack 1,1945-02-10,1326,I,8,333,3.0,64,185,7,1250,4,148S,184,4,High,Miss,No,14-3A,,8,,0,rg367-74802868/p46
-Attack 1,1945-02-10,1326,I,10,333,3.0,64,185,7,1250,4,152S,187,4,High,Miss,No,14-3A,,16,,1R,rg367-74802868/p46
+Attack 1,1945-02-10,1326,I,7,333,3.0,64,185,7,1250,4,146S,182,4,High,Miss,No,14-3A,,0,,1.5L,rg38-74802868/p46
+Attack 1,1945-02-10,1326,I,8,333,3.0,64,185,7,1250,4,148S,184,4,High,Miss,No,14-3A,,8,,0,rg38-74802868/p46
+Attack 1,1945-02-10,1326,I,10,333,3.0,64,185,7,1250,4,152S,187,4,High,Miss,No,14-3A,,16,,1R,rg38-74802868/p46

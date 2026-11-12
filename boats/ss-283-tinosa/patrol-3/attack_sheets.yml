@@ -33,7 +33,7 @@
   spread: 10.5° Total
   performance_satisfactory: No 1 dud
   location: 08-02N 150-19E
-  page: rg367-74856215/p19
+  page: rg38-74856215/p19
   narrative: >-
     0449(K) Submerged to radar depth. One target, tanker similar to HUZISAN MARU, 9527 tons, picked up by
     periscope. Sound reported two sets of reciprocating engine screws. 0455(K) Fired four torpedoes from bow
@@ -48,7 +48,7 @@
     first was a metallic thud, heard by sound, apparently a dud. The second was a loud explosion clearly heard
     throughout the ship.
   basis: >-
-    Everything from the summary table, rg367-74856215/p19. hit is blank: the remarks (p16) give the hits to "the
+    Everything from the summary table, rg38-74856215/p19. hit is blank: the remarks (p16) give the hits to "the
     inner torpedoes of the spread" but not their place in the order of firing.
   note: >-
     The table's 1855 GCT on 3 October is the narrative's 0455 K on 4 October (p03), and the positions agree. The
@@ -71,7 +71,7 @@
   spread: 9° Total
   performance_satisfactory: No 1 dud
   location: 10-35N 148-30E
-  page: rg367-74856215/p19
+  page: rg38-74856215/p19
   narrative: >-
     1155(K) Sound reported target slowing down. We had been tracking her at 16 knots. 1201(K) Fired six torpedoes
     from bow tubes. 1202(K) Momentarily ducked. Heard three loud explosions plus a metallic click as of a dud
@@ -83,7 +83,7 @@
     four torpedoes fired, the inner ones of the spread, were heard to hit, the second being a dud. ... The target was
     not stopped and attempts to bring the stern tubes to bear were not successful in time to fire them.
   basis: >-
-    hit (Hit on the first four rows, Miss on the last two) from the remarks, rg367-74856215/p16, with the table's
+    hit (Hit on the first four rows, Miss on the last two) from the remarks, rg38-74856215/p16, with the table's
     count of 4; the rest from the summary table, p19.
   note: >-
     The second row's hit was a dud (remarks, p16; the narrative's "metallic click", p06): the table counts it among
@@ -104,7 +104,7 @@
   spread: 6° Total
   performance_satisfactory: "#*"
   location: 10-01N 148-31E
-  page: rg367-74856215/p19
+  page: rg38-74856215/p19
   narrative: >-
     1644(K) Submerged for approach. ... She started off at about nine knots zigzagging and decreased to about six
     knots, not zigzagging, when we fired. 1818(K) Fired four torpedoes, stern tubes. Two hits.
@@ -117,7 +117,7 @@
     conning tower as previous ones had been. In fact, I did not hear them at all, but saw flames from the after hit
     and a very large splash from the one about amidships.
   basis: >-
-    Everything from the summary table, rg367-74856215/p19. hit is blank: the remarks (p17) say "the left-hand two"
+    Everything from the summary table, rg38-74856215/p19. hit is blank: the remarks (p17) say "the left-hand two"
     hit, which is their place in the spread, not in the order of firing.
   note: >-
     The table types the track as 110P; the remarks say the change of the target's course forced "a starboard track".
@@ -137,7 +137,7 @@
   spread: 2° Total
   performance_satisfactory: "*"
   location: 10-01N 148-31E
-  page: rg367-74856215/p19
+  page: rg38-74856215/p19
   narrative: >-
     1821(K) Target began dropping and throwing depth charges and firing with both guns. Eight depth charges in all
     were used. Target began turn to her right as if to ram as she had done during morning attack. ... Target swung
@@ -150,7 +150,7 @@
     aft disabling the starboard screw. I believe these mark XVIII may have hit because shortly thereafter the ship
     stopped dead in the water, whereas she ran for at least six minutes after attack #3a.
   basis: >-
-    hit (Miss on both rows) from the table's 0 hits, rg367-74856215/p19; the rest from the same table.
+    hit (Miss on both rows) from the table's 0 hits, rg38-74856215/p19; the rest from the same table.
   note: >-
     The table's 0 hits stands in the CSV; the commanding officer believed "these mark XVIII may have hit" (remarks,
     p17). The narrative fires at 1825 K, a minute after the table's 0824 GCT.
@@ -168,7 +168,7 @@
   spread: "0"
   performance_satisfactory: "*"
   location: 10-01N 148-31E
-  page: rg367-74856215/p20
+  page: rg38-74856215/p20
   narrative: >-
     1834(K) After maneuvering to obtain position desired fired one stern tube using 180 gyro angle, spindle
     disengaged and 180 periscope angle. Mark XIV torpedo ran straight at target but no splash was seen. Target opened
@@ -177,7 +177,7 @@
     Ship was dead in water but giving no evidence of sinking. Rapidly growing darker. Obtained position and fired one
     mark XIV which was seen and heard to run straight to target. Used 180 gyro angle and periscope angle, spindle
     disengaged. No evidence of explosion or hit.
-  basis: hit (Miss) from the table's 0 hits for its one torpedo, rg367-74856215/p20; the rest from the same table.
+  basis: hit (Miss) from the table's 0 hits for its one torpedo, rg38-74856215/p20; the rest from the same table.
   note: The narrative fires at 1834 K, a minute after the table's 0833 GCT.
 
 - attack: Attack 3D
@@ -193,7 +193,7 @@
   spread: "0"
   performance_satisfactory: "Yes"
   location: 10-01N 148-31E
-  page: rg367-74856215/p20
+  page: rg38-74856215/p20
   narrative: >-
     1859(K) Boats had been lowered by target and were heard in water but occasional gun fire continued. After
     maneuvering for position fired stern tube, using 180 gyro, spindle disengaged. Torpedo ran straight to target and
@@ -201,7 +201,7 @@
   remarks: >-
     Same as #3c except that sound and people in control room reported an explosion. I saw torpedo wake but no
     evidence of explosion.
-  basis: hit (Hit) from the table's 1 hit for its one torpedo, rg367-74856215/p20; the rest from the same table.
+  basis: hit (Hit) from the table's 1 hit for its one torpedo, rg38-74856215/p20; the rest from the same table.
   note: >-
     The table's hit rests on sound and the control room; the officer at the periscope saw none (narrative, p07). The
     narrative's 1859 K is the table's 0859 GCT.
@@ -219,12 +219,12 @@
   spread: "0"
   performance_satisfactory: "*"
   location: 10-01N 148-31E
-  page: rg367-74856215/p20
+  page: rg38-74856215/p20
   narrative: >-
     1910(K) With gun fire still occasionally occurring and no evidence of sinking maneuvered and fired bow tube, zero
     gyro, spindle disengaged. Sound tracked torpedo running straight for target but heard no explosion. None seen.
   remarks: Maneuvered for bow shot. Fired zero gyro and periscope angle, spindles disengaged. No evidence of hit, visual or aural.
-  basis: hit (Miss) from the table's 0 hits for its one torpedo, rg367-74856215/p20; the rest from the same table.
+  basis: hit (Miss) from the table's 0 hits for its one torpedo, rg38-74856215/p20; the rest from the same table.
   note: The narrative fires at 1910 K, a minute after the table's 0909 GCT.
 
 - attack: Attack 3F
@@ -240,7 +240,7 @@
   spread: "0"
   performance_satisfactory: "Yes"
   location: 10-01N 148-31E
-  page: rg367-74856215/p20
+  page: rg38-74856215/p20
   narrative: >-
     1913(K) Fired second bow tube, same conditions. Heard to run straight for target but no explosion and none seen.
     These two torpedoes were not even heard to hit. Target still seemed to have lots of buoyancy. 1923(K) ... Target
@@ -251,7 +251,7 @@
     Same as 3e. One of these last two torpedoes must have been effective because shortly thereafter the ship began
     sinking rapidly. This might possibly have been caused by the collapse of bulkheads but there was no evidence of
     sinking prior to attacks 3e and 3f.
-  basis: hit (Hit) from the table's 1 hit for its one torpedo, rg367-74856215/p20; the rest from the same table.
+  basis: hit (Hit) from the table's 1 hit for its one torpedo, rg38-74856215/p20; the rest from the same table.
   note: >-
     The table types a hit and the sinking against this torpedo, but the narrative heard and saw no explosion from it
     ("These two torpedoes were not even heard to hit", p08), and the remarks give the sinking to "one of these last

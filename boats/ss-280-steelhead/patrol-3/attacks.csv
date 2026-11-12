@@ -1,5 +1,5 @@
 attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
-Attack 1,1943-10-06,0236,K,7,148,10,surface,035,15,1100,22,112S,179.5,12,High,Hit,No,14-3A,--,,,1R,rg367-74851315/p22
-Attack 1,1943-10-06,0236,K,8,148,10,surface,035,15,1100,22,112S,180,12,High,Hit,No,14-3A,10s,,,1L,rg367-74851315/p22
-Attack 1,1943-10-06,0236,K,9,148,10,surface,035,15,1100,22,117S,183,12,High,Dud,No,14-3A,11s,,,4R,rg367-74851315/p22
-Attack 1,1943-10-06,0236,K,10,148,10,surface,035,15,1100,22,122S,189,12,High,Miss,No,14-3A,9s,,,4L,rg367-74851315/p22
+Attack 1,1943-10-06,0236,K,7,148,10,surface,035,15,1100,22,112S,179.5,12,High,Hit,No,14-3A,--,,,1R,rg38-74851315/p22
+Attack 1,1943-10-06,0236,K,8,148,10,surface,035,15,1100,22,112S,180,12,High,Hit,No,14-3A,10s,,,1L,rg38-74851315/p22
+Attack 1,1943-10-06,0236,K,9,148,10,surface,035,15,1100,22,117S,183,12,High,Dud,No,14-3A,11s,,,4R,rg38-74851315/p22
+Attack 1,1943-10-06,0236,K,10,148,10,surface,035,15,1100,22,122S,189,12,High,Miss,No,14-3A,9s,,,4L,rg38-74851315/p22

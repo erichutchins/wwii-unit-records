@@ -42,8 +42,8 @@
     Tube #2 did not fire upon first attempt either electrically or by hand. Tube #1 was then fired after which #2
     was again fired. This time it fired normally. Failure to fire was due to stop bolt not lifting. In accordance
     with instructions for rubber gasket buffers, none of the buffers had been backed off.
-  page: rg367-74818866/p37
-  table_page: rg367-74818866/p38
+  page: rg38-74818866/p37
+  table_page: rg38-74818866/p38
   note: >-
     attacks.csv gives the tanker's draft, course, speed and range (the target); the escort's (7', 250°, 9.5,
     4040 yds) are in target_line. The table types tubes 6, 5, 4 and 3 Hit and 1 and 2 Miss; the damage paragraph

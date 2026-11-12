@@ -47,8 +47,8 @@
   sea: Long Swells, phosphorescent.
   overhaul: Submarine Base, Pearl Harbor, T.H.
   remarks: "(1) Shifted targets between firing #3 and #4 tubes. (2) Started swinging right after fourth torpedo was fired."
-  page: rg367-74819308/p20
-  table_page: rg367-74819308/p23
+  page: rg38-74819308/p20
+  table_page: rg38-74819308/p23
   note: >-
     Tubes 1-3 agree with own course 300 + gyro against target course 220 to half a degree; tubes 4-6 do not
     (typed 94P, 95½P, 97½P; computed 104, 108.5, 117.5). Re-read on the scan: kept as typed. The sheet's own
@@ -81,8 +81,8 @@
   sea: Phosphorescent sea, long swells.
   overhaul: Submarine Base, Pearl Harbor, T.H.
   remarks: "* TBT reader made 5° error in reading off bearing. This incorrect bearing was used in TDC for this shot."
-  page: rg367-74819308/p24
-  table_page: rg367-74819308/p25
+  page: rg38-74819308/p24
+  table_page: rg38-74819308/p25
   note: >-
     Tube 8's Erratic cell is typed "No *", the asterisk pointing to the remark; kept as typed in attacks.csv.
 
@@ -109,8 +109,8 @@
   sea: Phosphorescent Sea, long swells.
   overhaul: Submarine Base, Pearl Harbor, T.H.
   remarks: Target zigged toward just after firing. Torpedoes missed ahead.
-  page: rg367-74819308/p26
-  table_page: rg367-74819308/p27
+  page: rg38-74819308/p26
+  table_page: rg38-74819308/p27
   note: The spread is typed as fractions, 7/8°R and 7/8°L; attacks.csv writes 0.875R and 0.875L.
 
 - attack: Attack 4
@@ -138,8 +138,8 @@
   torpedo_detail: Mark 18-1 torpedoes, Mark 8-5 exploders, actuation set and actual Contact, Mark 18-1 warheads, Torpex.
   sea: Phosphoresent sea, long swells.
   overhaul: Submarine Base, Pearl Harbor, T.H.
-  page: rg367-74819308/p28
-  table_page: rg367-74819308/p29
+  page: rg38-74819308/p28
+  table_page: rg38-74819308/p29
   note: >-
     The longitude's minutes are faint: 119-40.0E or 119-49.0E (Attack 3, six minutes earlier at the same
     latitude, is typed 119-49.0E). Gyro typed 000 for both torpedoes. Spread typed NONE; attacks.csv writes 0.
@@ -184,8 +184,8 @@
   sea: Thirty feet seas.
   overhaul: Submarine Base, Pearl Harbor, T.H.
   remarks: Miss due to normal spread. Used speed 15.5 knots. Recheck shows best speed 15 knots.
-  page: rg367-74819308/p30
-  table_page: rg367-74819308/p32
+  page: rg38-74819308/p30
+  table_page: rg38-74819308/p32
   note: >-
     The sheet types the convoy's base course 215°T and the target's course at firing 180°T (the narrative has
     the target making three successive zigs toward). The narrative (p13) calls it "one of many of a large fast
@@ -229,8 +229,8 @@
   remarks: >-
     The third torpedo made a circular run passing over the maneuvering room. The fourth torpedo made timed hit
     on a target 1500 yards farther away.
-  page: rg367-74819308/p33
-  table_page: rg367-74819308/p35
+  page: rg38-74819308/p33
+  table_page: rg38-74819308/p35
   note: >-
     Tube 6's gyro is typed "351°P", the P apparently carried over from the track row; attacks.csv writes 351.
     Tube 5 (the third fired) is typed Miss, Erratic Yes: the circular run of the remarks.

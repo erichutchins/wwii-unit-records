@@ -33,8 +33,8 @@
     TORPEDO BATTERY TEMP. - 55° F. SPEED REDUCTION USED FOR SHALLOW DEPTH.- 1.1 knots. TORPEDO #99504 left tube with
     an unknown gyro, because at moment of firing the gyro regulator was slewing left as a result of the breakage of a
     snap spring on the slewing relay. These torpedoes had a depth spring adjusting screw stop installed.
-  page: rg367-74847780/p29
-  table_page: rg367-74847780/p30
+  page: rg38-74847780/p29
+  table_page: rg38-74847780/p30
   note: >-
     The sheet's "Type Spread" gives each torpedo's aim, typed "25' fwd MOT" and "25' aft. MOT" (attacks.csv's
     offset, 25'fwd and 25'aft). The contact range is 21,000 yards
@@ -63,8 +63,8 @@
     BATTERY TEMPERATURE - 60° F. THIS TORPEDO HAD A DEPTH SPRING ADJUSTING SCREW STOP INSTALLED. REDUCTION OF TORPEDO
     SPEED OF 1.7 KNOTS WAS USED FOR 3 FEET DEPTH SETTING. THE ONLY EXPLANATION OF THE MISS IS THE ASSUMPTION THAT
     TORPEDO HOOKED AS IT LEFT THE TUBE.
-  page: rg367-74847780/p31
-  table_page: rg367-74847780/p32
+  page: rg38-74847780/p31
+  table_page: rg38-74847780/p32
   note: >-
     The narrative (p16) types the run as 620 yards and the gyro as "nine right"; the sheet types range 600 yds at
     firing and gyro 009.5. check_attacks.py computes a 114.5° starboard track from own course 065, gyro 009.5 and
@@ -96,8 +96,8 @@
   remarks: >-
     BATTERY TEMP. - 60° F. SPEED REDUCTION OF 1.7 knots USED FOR RUNNING DEPTH OF 3 FEET. DEPTH SPRING ADJUSTING SCREW
     STOP WAS INSTALLED ON THESE TORPEDOES. AT LEAST ONE TORPEDO MADE A SURFACE RUN.
-  page: rg367-74847780/p33
-  table_page: rg367-74847780/p34
+  page: rg38-74847780/p33
+  table_page: rg38-74847780/p34
   note: >-
     The own-ship and target data are typed once, for the first two torpedoes. Tube 10 was fired 3 min. 16 sec. later,
     after the target turned to ram and the submarine turned away (narrative p20: brought him bearing 180° relative,
@@ -141,8 +141,8 @@
   remarks: >-
     BATTERY TEMP. 60° F. REDUCTION OF 1.1 KNOTS IN TORPEDO SPEED WAS USED FOR 6 FEET DEPTH SETTING. DEPTH SPRING
     ADJUSTING SCREW STOPS WERE INSTALLED ON THESE TORPEDOES.
-  page: rg367-74847780/p35
-  table_page: rg367-74847780/p37
+  page: rg38-74847780/p35
+  table_page: rg38-74847780/p37
   note: >-
     The sheet's first page (p35) is the description; the damage, target and own-ship data and type attack follow on
     p36. Gyros typed 001°, 005°, 008°-40', 014-40' (degrees and minutes; attacks.csv 001, 005, 008-40, 014-40).
@@ -175,8 +175,8 @@
   remarks: >-
     BATTERY TEMP. 60° F. REDUCTION OF 1.3 KNOTS IN TORPEDO SPEED WAS USED FOR 5 FEET DEPTH SETTINGS. DEPTH SPRING
     ADJUSTING SCREW STOPS WERE INSTALLED ON THESE TORPEDOS.
-  page: rg367-74847780/p38
-  table_page: rg367-74847780/p39
+  page: rg38-74847780/p38
+  table_page: rg38-74847780/p39
   note: >-
     The narrative (p24) types track angles 70° starboard, gyro angles 10° left and torpedo runs 1250 yards; the sheet
     types 60 S, gyros 348°-30 to 350° and range 1500 yds at firing. Kept as typed.

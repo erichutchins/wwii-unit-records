@@ -158,7 +158,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1945-01-02 1345(VW)",
-    "page": "rg367-74802868/p39",
+    "page": "rg38-74802868/p39",
     "note": "Departed Pearl Harbor enroute Saipan (port position)",
     "fix": ""
    },
@@ -181,7 +181,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-01-13 1251(K)",
-    "page": "rg367-74802868/p39",
+    "page": "rg38-74802868/p39",
     "note": "Arrived Saipan; moored to USS FULTON (port position)",
     "fix": ""
    },
@@ -204,7 +204,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-01-15 1014(K)",
-    "page": "rg367-74802868/p39",
+    "page": "rg38-74802868/p39",
     "note": "Underway enroute area with Wolfpack 23 (SPADEFISH ATULE POMPON) (port position)",
     "fix": ""
    },
@@ -227,7 +227,7 @@
     "lat_raw": "23-08N",
     "lon_raw": "138-53E",
     "local": "1945-01-17 1900(I)",
-    "page": "rg367-74802868/p56",
+    "page": "rg38-74802868/p56",
     "note": "Radar intercept 66 MC (zone not stated; Item per narrative)",
     "fix": ""
    },
@@ -250,7 +250,7 @@
     "lat_raw": "27-15N",
     "lon_raw": "135-00E",
     "local": "1945-01-19 0200(I)",
-    "page": "rg367-74802868/p43",
+    "page": "rg38-74802868/p43",
     "note": "Small trawler 6300 yds",
     "fix": "ship-contact positions are the target not BANG"
    },
@@ -273,7 +273,7 @@
     "lat_raw": "29-46N",
     "lon_raw": "130-33E",
     "local": "1945-01-20 1845(I)",
-    "page": "rg367-74802868/p56",
+    "page": "rg38-74802868/p56",
     "note": "Radar intercepts 148 and 155 MC",
     "fix": ""
    },
@@ -296,7 +296,7 @@
     "lat_raw": "30-48N",
     "lon_raw": "128-35E",
     "local": "1945-01-21 1410(I)",
-    "page": "rg367-74802868/p44",
+    "page": "rg38-74802868/p44",
     "note": "zone not stated; Item per narrative",
     "fix": ""
    },
@@ -319,7 +319,7 @@
     "lat_raw": "31-17N",
     "lon_raw": "128-28E",
     "local": "1945-01-21 2215(I)",
-    "page": "rg367-74802868/p57",
+    "page": "rg38-74802868/p57",
     "note": "Radar intercept 99 MC",
     "fix": ""
    },
@@ -342,7 +342,7 @@
     "lat_raw": "32-38N",
     "lon_raw": "127-24E",
     "local": "1945-01-27 1900(I)",
-    "page": "rg367-74802868/p57",
+    "page": "rg38-74802868/p57",
     "note": "Radar intercept 75 MC",
     "fix": ""
    },
@@ -365,7 +365,7 @@
     "lat_raw": "32-28N",
     "lon_raw": "126-06E",
     "local": "1945-01-29 2359(I)",
-    "page": "rg367-74802868/p57",
+    "page": "rg38-74802868/p57",
     "note": "Radar intercept 75 MC (typed 2400)",
     "fix": ""
    },
@@ -388,7 +388,7 @@
     "lat_raw": "33-49N",
     "lon_raw": "124-02E",
     "local": "1945-01-31 0300(I)",
-    "page": "rg367-74802868/p57",
+    "page": "rg38-74802868/p57",
     "note": "Radar intercepts 70 and 160 MC",
     "fix": ""
    },
@@ -411,7 +411,7 @@
     "lat_raw": "34-34N",
     "lon_raw": "124-12E",
     "local": "1945-02-04 2100(I)",
-    "page": "rg367-74802868/p58",
+    "page": "rg38-74802868/p58",
     "note": "",
     "fix": ""
    },
@@ -434,7 +434,7 @@
     "lat_raw": "33-58N",
     "lon_raw": "123-59E",
     "local": "1945-02-06 0755(I)",
-    "page": "rg367-74802868/p44",
+    "page": "rg38-74802868/p44",
     "note": "",
     "fix": ""
    },
@@ -457,7 +457,7 @@
     "lat_raw": "33-36N",
     "lon_raw": "124-17E",
     "local": "1945-02-07 2145(I)",
-    "page": "rg367-74802868/p58",
+    "page": "rg38-74802868/p58",
     "note": "Radar intercept 160 MC",
     "fix": ""
    },
@@ -480,7 +480,7 @@
     "lat_raw": "34-41N",
     "lon_raw": "123-36E",
     "local": "1945-02-09 1508(I)",
-    "page": "rg367-74802868/p44",
+    "page": "rg38-74802868/p44",
     "note": "",
     "fix": ""
    },
@@ -503,7 +503,7 @@
     "lat_raw": "36-52N",
     "lon_raw": "124-01E",
     "local": "1945-02-10 1318(I)",
-    "page": "rg367-74802868/p43",
+    "page": "rg38-74802868/p43",
     "note": "Small steamship 2400 yds (sound)",
     "fix": "ship-contact positions are the target not BANG"
    },
@@ -526,7 +526,7 @@
     "lat_raw": "36-55N",
     "lon_raw": "124-01E",
     "local": "1945-02-10 1326(I)",
-    "page": "rg367-74802868/p46",
+    "page": "rg38-74802868/p46",
     "note": "Torpedo attack No. 1 (small freighter)",
     "fix": ""
    },
@@ -549,7 +549,7 @@
     "lat_raw": "38-02N",
     "lon_raw": "123-52E",
     "local": "1945-02-11 0150(I)",
-    "page": "rg367-74802868/p58",
+    "page": "rg38-74802868/p58",
     "note": "Radar intercept 69 MC",
     "fix": ""
    },
@@ -572,7 +572,7 @@
     "lat_raw": "37-41N",
     "lon_raw": "123-59E",
     "local": "1945-02-12 0835(I)",
-    "page": "rg367-74802868/p43",
+    "page": "rg38-74802868/p43",
     "note": "Two destroyers 14000 yds",
     "fix": "ship-contact positions are the target not BANG"
    },
@@ -595,7 +595,7 @@
     "lat_raw": "37-44N",
     "lon_raw": "123-59E",
     "local": "1945-02-12 0950(I)",
-    "page": "rg367-74802868/p44",
+    "page": "rg38-74802868/p44",
     "note": "",
     "fix": ""
    },
@@ -618,7 +618,7 @@
     "lat_raw": "37-43N",
     "lon_raw": "123-59E",
     "local": "1945-02-12 0958(I)",
-    "page": "rg367-74802868/p43",
+    "page": "rg38-74802868/p43",
     "note": "Subchaser & patrol boat 10000 yds",
     "fix": "ship-contact positions are the target not BANG"
    },
@@ -641,7 +641,7 @@
     "lat_raw": "37-43N",
     "lon_raw": "123-59E",
     "local": "1945-02-12 0300(Z)",
-    "page": "rg367-74802868/p54",
+    "page": "rg38-74802868/p54",
     "note": "water 38 deg F",
     "fix": ""
    },
@@ -664,7 +664,7 @@
     "lat_raw": "34-18N",
     "lon_raw": "124-09E",
     "local": "1945-02-15 1000(I)",
-    "page": "rg367-74802868/p58",
+    "page": "rg38-74802868/p58",
     "note": "",
     "fix": "off track: 70 nm from Air 5 five minutes later; Air 5-7 agree with each other (34-18N possibly a typo for 33-18N)"
    },
@@ -687,7 +687,7 @@
     "lat_raw": "33-08N",
     "lon_raw": "124-20E",
     "local": "1945-02-15 1005(I)",
-    "page": "rg367-74802868/p44",
+    "page": "rg38-74802868/p44",
     "note": "",
     "fix": ""
    },
@@ -710,7 +710,7 @@
     "lat_raw": "33-05N",
     "lon_raw": "124-26E",
     "local": "1945-02-15 1317(I)",
-    "page": "rg367-74802868/p44",
+    "page": "rg38-74802868/p44",
     "note": "",
     "fix": ""
    },
@@ -733,7 +733,7 @@
     "lat_raw": "32-58N",
     "lon_raw": "124-23E",
     "local": "1945-02-15 1555(I)",
-    "page": "rg367-74802868/p45",
+    "page": "rg38-74802868/p45",
     "note": "",
     "fix": ""
    },
@@ -756,7 +756,7 @@
     "lat_raw": "32-15N",
     "lon_raw": "125-55E",
     "local": "1945-02-17 0845(I)",
-    "page": "rg367-74802868/p45",
+    "page": "rg38-74802868/p45",
     "note": "",
     "fix": ""
    },
@@ -779,7 +779,7 @@
     "lat_raw": "34-09N",
     "lon_raw": "124-05E",
     "local": "1945-02-18 0200(I)",
-    "page": "rg367-74802868/p58",
+    "page": "rg38-74802868/p58",
     "note": "",
     "fix": ""
    },
@@ -802,7 +802,7 @@
     "lat_raw": "33-48N",
     "lon_raw": "124-12E",
     "local": "1945-02-18 2030(I)",
-    "page": "rg367-74802868/p58",
+    "page": "rg38-74802868/p58",
     "note": "",
     "fix": ""
    },
@@ -825,7 +825,7 @@
     "lat_raw": "31-01N",
     "lon_raw": "128-48E",
     "local": "1945-02-20 0000(I)",
-    "page": "rg367-74802868/p59",
+    "page": "rg38-74802868/p59",
     "note": "Radar intercept 75 MC",
     "fix": ""
    },
@@ -848,7 +848,7 @@
     "lat_raw": "30-21N",
     "lon_raw": "129-28E",
     "local": "1945-02-20 0600(Z)",
-    "page": "rg367-74802868/p54",
+    "page": "rg38-74802868/p54",
     "note": "",
     "fix": ""
    },
@@ -871,7 +871,7 @@
     "lat_raw": "30-13N",
     "lon_raw": "129-59E",
     "local": "1945-02-20 1930(I)",
-    "page": "rg367-74802868/p59",
+    "page": "rg38-74802868/p59",
     "note": "Radar intercepts 155 and 75 MC",
     "fix": ""
    },
@@ -894,7 +894,7 @@
     "lat_raw": "30-04N",
     "lon_raw": "130-13E",
     "local": "1945-02-20 2030(I)",
-    "page": "rg367-74802868/p60",
+    "page": "rg38-74802868/p60",
     "note": "Radar intercepts 390 145 92 MC",
     "fix": ""
    },
@@ -917,7 +917,7 @@
     "lat_raw": "29-59N",
     "lon_raw": "130-18E",
     "local": "1945-02-20 2100(I)",
-    "page": "rg367-74802868/p60",
+    "page": "rg38-74802868/p60",
     "note": "Radar intercepts 143 and 150 MC",
     "fix": ""
    },
@@ -940,7 +940,7 @@
     "lat_raw": "29-12N",
     "lon_raw": "131-15E",
     "local": "1945-02-21 0300(I)",
-    "page": "rg367-74802868/p61",
+    "page": "rg38-74802868/p61",
     "note": "Radar intercept 160 MC",
     "fix": ""
    },
@@ -963,7 +963,7 @@
     "lat_raw": "25-55N",
     "lon_raw": "132-42E",
     "local": "1945-02-21 1403(I)",
-    "page": "rg367-74802868/p45",
+    "page": "rg38-74802868/p45",
     "note": "",
     "fix": ""
    },
@@ -986,7 +986,7 @@
     "lat_raw": "20-00N",
     "lon_raw": "134-32E",
     "local": "1945-02-22 1240(I)",
-    "page": "rg367-74802868/p45",
+    "page": "rg38-74802868/p45",
     "note": "",
     "fix": ""
    },
@@ -1009,7 +1009,7 @@
     "lat_raw": "13-27N",
     "lon_raw": "144-38E",
     "local": "1945-02-24 1200(K)",
-    "page": "rg367-74802868/p42",
+    "page": "rg38-74802868/p42",
     "note": "Moored Guam (time not given; noon assumed; Apra Harbor)",
     "fix": ""
    },

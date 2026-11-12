@@ -6,7 +6,7 @@ from: 1944-09-01
 to: 1945-10-24
 area: [-85, 17, 15, 45]    # west, south, east, north
 area_precision: region
-ref: [rg367-78684020/p01, rg367-77595243/p04]
+ref: [rg38-78684020/p01, rg38-77595243/p04]
 note: >-
   The span is the one the records here cover, not the theater's war: USS Solar's war diaries, from her first entry
   (moored at Mers-el-Kebir, 1 September 1944, p01) to her last dated position (Baltimore, 24 October 1945, p04; the

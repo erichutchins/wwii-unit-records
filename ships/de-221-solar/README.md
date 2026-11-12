@@ -2,7 +2,7 @@
 
 `positions.csv` has the same columns as `patrol-N/positions.csv`, transcribed from the ship's monthly war
 diaries (NARA RG 38, "World War II War Diaries, Other Operational Records and Histories"; scans download to the
-kit's cache as `nara/rg367-<id>/`):
+kit's cache as `nara/rg38-<id>/`):
 
 | Months | Catalog item | Pages |
 |---|---|---|

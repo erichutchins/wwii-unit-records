@@ -20,7 +20,7 @@ map:
   introLink: National Archives scans
   introEnd: . Click any point to see the page it came from.
   # fixes are three a day, so all the diaries are one record; open on Okinawa, where she was hit
-  # (co: the change of command at 1840 on 14 Dec 1944, rg367-139832917/p02)
+  # (co: the change of command at 1840 on 14 Dec 1944, rg38-139832917/p02)
   periods:
     - { n: 1, name: War diaries, area: Pearl Harbor · Formosa · South China Sea · Tokyo · Iwo Jima · Okinawa · Mare Island · San Diego · San Francisco,
         co: Cdr. Robert Brodie Jr.; Cdr. S. N. Tackney; Cdr. J. E. Smith }

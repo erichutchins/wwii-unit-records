@@ -1,68 +1,68 @@
 source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
-narrative,depart Pearl,1944-06-14,1330,VW,21-21N,157-58W,rg367-74855459/p29,"Underway for THIRTEENTH WAR PATROL as a member of the coordinated attack group ""Mickey Finns"", Captain W.V. O'Regan C.T.G. in GUARDFISH; enroute MIDWAY in company with GUARDFISH and PIRANHA; escorted by PC 486 until dark (port position)",yes,,,,,
-bt,BT 1,1944-06-15,1600,Z,24-07N,160-37.5W,rg367-74855459/p59,"Density layers (C) 1: greatest depth 300', layer 100', gradient -4 deg",yes,,,,,
-bt,BT 2,1944-06-16,0200,Z,25-34.5N,162-41.5W,rg367-74855459/p59,"Density layers (C) 2: 200', layer 60', -3 deg",yes,,,,,
-bt,BT 3,1944-06-16,1600,Z,26-37.5N,16?-09.5W,rg367-74855459/p59,"Density layers (C) 3: 300', layer 200', -4 deg",yes,,166-09.5W,,,third digit faint; 166 fits BT 2 and BT 4
-bt,BT 4,1944-06-16,2100,Z,27-01N,167-24W,rg367-74855459/p59,"Density layers (C) 4: 300', layer 60', -11 deg",yes,,,,,
-bt,BT 5,1944-06-17,1600,Z,28-26.5N,171-33W,rg367-74855459/p59,"Density layers (C) 5: 300', layer 80', -10 deg",yes,,,,,
-bt,BT 6,1944-06-17,2100,Z,28-49N,172-43W,rg367-74855459/p59,"Density layers (C) 6: 315', layer 100', -10 deg",yes,,,,,
-narrative,arrive Midway,1944-06-18,0940,Y,28-12N,177-23W,rg367-74855459/p29,"Moored Submarine Base, MIDWAY ISLAND. Received 21,000 gallons fuel oil and 600 gallons lube oil (port position; day typed 1? , read as 18)",yes,,,,,
-narrative,depart Midway,1944-06-18,1925,Y,28-12N,177-23W,rg367-74855459/p29,"Underway for rendezvous with GUARDFISH, PIRANHA, and APOGON (port position; left at 1525 with GUARDFISH and PIRANHA, returned for a PPI transformer, received it at the entrance buoys 1845)",yes,,,,,
-bt,BT 7,1944-06-19,1700,Z,27-53.5N,179-57.5E,rg367-74855459/p59,"Density layers (C) 7: 300', layer 140', -6.5 deg (19 June dropped from the ship's calendar on crossing the 180th meridian, p29)",yes,,,,,
-bt,BT 8,1944-06-20,0200,Z,27-34.7N,178-00E,rg367-74855459/p59,"Density layers (C) 8: 300', layer 80', -6 deg",yes,,,,,
-bt,BT 9,1944-06-20,1700,Z,26-59N,175-42.2E,rg367-74855459/p59,"Density layers (C) 9: 300', layer 160', -5 deg",yes,,,,,
-bt,BT 10,1944-06-21,0300,Z,26-22.5N,172-77E,rg367-74855459/p59,"Density layers (C) 10: 300', layer 70', -12 deg",no,,,,,minutes typed 77 (impossible); left off the track
-bt,BT 11,1944-06-21,1900,Z,25-55N,169-33E,rg367-74855459/p59,"Density layers (C) 11: 300', layer 10', -12 deg",yes,,,,,
-bt,BT 12,1944-06-22,1930,Z,24-54N,164-40E,rg367-74855459/p59,"Density layers (C) 12: 300', layer 55', -12 deg",yes,,,,,
-bt,BT 13,1944-06-22,2300,Z,24-35.5N,163-56E,rg367-74855459/p59,"Density layers (C) 13: 300', layer 30', -16 deg",yes,,,,,
-narrative,rendezvous,1944-06-23,0330,L,25-00N,165-00E,rg367-74855459/p30,"Rendezvoused with GUARDFISH, PIRANHA and APOGON. Took station as southern ship in line of bearing 000-180 T, distance 15 miles and set course for patrol area",yes,,,,,
-bt,BT 14,1944-06-23,1900,Z,25-16.5N,160-35E,rg367-74855459/p59,"Density layers (C) 14: 300', layer 70', -12 deg",yes,,,,,
-bt,BT 15,1944-06-23,2300,Z,25-25N,159-20E,rg367-74855459/p59,"Density layers (C) 15: 300', layer 100', -11 deg",yes,,,,,
-bt,BT 16,1944-06-24,2000,Z,25-43N,155-12E,rg367-74855459/p59,"Density layers (C) 16: 300', layer 20', -17 deg",yes,,,,,
-bt,BT 17,1944-06-24,0509,Z,25-51N,153-19E,rg367-74855459/p59,"Density layers (C) 17: 330', layer 35', -20 deg",yes,,,1944-06-25,,"typed 6/24 0509, after BT 16 (6/24 2000) and 2 deg further west: the 25th by its place in the table and the track"
-bt,BT 18,1944-06-25,2018,Z,24-28N,150-10E,rg367-74855459/p59,"Density layers (C) 18: 300', layer 35', -14 deg (longitude's third digit faint, read as 150)",yes,,,,,
-bt,BT 19,1944-06-27,2018,Z,20-49.5N,142-42E,rg367-74855459/p59,"Density layers (C) 19: 300', layer 50', -9 deg (search for the downed aviators north of PAJAROS, 27-28 June, p30)",yes,,,,,
-bt,BT 20,1944-06-28,0625,Z,20-46N,141-05E,rg367-74855459/p59,"Density layers (C) 20: 290', layer 100', -6 deg",yes,,,,,
-bt,BT 21,1944-06-29,0000,Z,21-04N,137-20.2E,rg367-74855459/p59,"Density layers (C) 21: 300', layer 30', -9 deg",yes,,,,,
-bt,BT 22,1944-06-29,0700,Z,21-01N,135-59.5E,rg367-74855459/p59,"Density layers (C) 22: 250', layer 110', -7 deg",yes,,,,,
-bt,BT 23,1944-06-29,2030,Z,21-05.5N,133-09E,rg367-74855459/p59,"Density layers (C) 23: 300', layer 115', -6 deg",yes,,,,,
-bt,BT 24,1944-06-30,0200,Z,21-07.1N,132-02.5E,rg367-74855459/p59,"Density layers (C) 24: 300', layer 50', -7 deg",yes,,,,,
-bt,BT 25,1944-06-30,2030,Z,21-17.3N,1?7-53.8E,rg367-74855459/p59,"Density layers (C) 25: 300', layer 140', -5 deg",yes,,127-53.8E,,,second digit faint; 137 would put her back east of BT 21; 127 fits BT 24 and BT 26
-bt,BT 26,1944-07-01,0100,Z,21-19N,126-00E,rg367-74855459/p60,"Density layers (C) 26: 300', layer 100', -7 deg",yes,,,,,
-bt,BT 27,1944-07-01,2030,Z,21-15.7N,123-09E,rg367-74855459/p60,"Density layers (C) 27: 300', layer 80', -4 deg",yes,,,,,
-bt,BT 28,1944-07-02,2030,Z,21-32.5N,122-13.5E,rg367-74855459/p60,"Density layers (C) 28: 300', layer 60', -4 deg",yes,,,,,
-bt,BT 29,1944-07-03,0200,Z,21-24.7N,122-06.5E,rg367-74855459/p60,"Density layers (C) 29: 300', layer 140', -3 deg",yes,,,,,
-ship,Ship 1,1944-07-03,1130,H,21-15N,122-10E,rg367-74855459/p41,"PC 4000 yds, est. course 150 T 10 kn; avoided",no,,,,,"ship-contact positions are the target, not THRESHER"
-bt,BT 30,1944-07-03,2?30,Z,21-15.5N,121-05E,rg367-74855459/p60,"Density layers (C) 30: 300', layer 60, -4 deg (hour's second digit faint)",no,,,,2030,"time illegible (2?30); 2030 assumed (the table's evening cards are mostly 2030), so the row is kept off the track; BT 31 at 2300 is 7 mi away"
-bt,BT 31,1944-07-03,2300,Z,21-22.2N,121-03.2E,rg367-74855459/p60,"Density layers (C) 31: 200', layer - -, -2 deg",yes,,,,,
-bt,BT 32,1944-07-04,0200,Z,21-32.2N,121-05.5E,rg367-74855459/p60,"Density layers (C) 32: 300', layer 190', -2 deg",yes,,,,,
-ship,Ship 2,1944-07-04,,H,21-31.2N,121-10.5E,rg367-74855459/p41,"Trawlers and small fishing boats 4000 - 15000 yds, various; about 50 small fishing boats & trawlers contacted during the day",no,,,,1200,"ship-contact positions are the target, not THRESHER; no time typed (contacts during the day), noon assumed"
-ship,Ship 3,1944-07-04,0805,H,21-31.2N,121-10.5E,rg367-74855459/p41,"PC 12000 yds, est. course 130 T 10 kn; avoided",no,,,,,"ship-contact positions are the target, not THRESHER"
-bt,BT 33,1944-07-04,2045,Z,20-55N,120-02E,rg367-74855459/p60,"Density layers (C) 33: 315', layer 100', -10 deg",yes,,,,,
-bt,BT 34,1944-07-05,0525,Z,21-12.5N,119-52.5E,rg367-74855459/p60,"Density layers (C) 34: 300', layer - -, -5 deg",yes,,,,,
-bt,BT 35,1944-07-05,2016,Z,21-05.5N,119-09.5E,rg367-74855459/p60,"Density layers (C) 35: 315', layer 90', -12 deg",yes,,,,,
-bt,BT 36,1944-07-06,0514,Z,21-06N,119-14.3E,rg367-74855459/p60,"Density layers (C) 36: 300', layer 110', -14 deg",yes,,,,,
-bt,BT 37,1944-07-06,2135,Z,21-05.8N,119-55.7E,rg367-74855459/p60,"Density layers (C) 37: 300', layer 90', -17 deg",yes,,,,,
-bt,BT 38,1944-07-07,0520,Z,21-10.6N,119-02E,rg367-74855459/p60,"Density layers (C) 38: 300', layer 140', -12 deg",yes,,,,,
-bt,BT 39,1944-07-07,2200,Z,21-09.2N,119-57E,rg367-74855459/p60,"Density layers (C) 39: 320', layer 140', gradient faint",yes,,,,,
-bt,BT 40,1944-07-08,2100,Z,20-58N,122-21.5E,rg367-74855459/p60,"Density layers (C) 40: 300', layer 60', -5 deg",yes,,,,,
-bt,BT 41,1944-07-09,0440,Z,21-12.7N,121-43.3E,rg367-74855459/p60,"Density layers (C) 41: 300', layer 40', -11 deg (evening of 9 July closed Y'AMI ISLAND for an SJ radar check, p31)",yes,,,,,
-bt,BT 42,1944-07-09,2104,Z,21-33N,123-09E,rg367-74855459/p60,"Density layers (C) 42: 310', layer 60', -7 deg",yes,,,,,
-bt,BT 43,1944-07-10,0420,Z,21-31N,123-08.5E,rg367-74855459/p60,"Density layers (C) 43: 300', layer 120', -8 deg",yes,,,,,
-bt,BT 44,1944-07-10,2124,Z,19-59.1N,123-03.5E,rg367-74855459/p60,"Density layers (C) 44: 300', layer 80', -12 deg",yes,,,,,
-bt,BT 45,1944-07-11,0440,Z,20-05.3N,123-03.5E,rg367-74855459/p60,"Density layers (C) 45: 310', layer 130', -5 deg (0000 H 11 July commenced patrol in next assigned area, p31)",yes,,,,,
-ship,Ship 4,1944-07-11,2130,H,14-38N,1?3-08E,rg367-74855459/p41,"3 AP, 4 DD(EU) (the 4 overtyped, perhaps on a 2) 24000 yds, est. course 175 T 11 kn; no attack possible. Narrative p31: SJ radar contact on a group of at least six (6) ships, bearing 275 T, range 24,000 yards; contact report receipted by GUARDFISH and APOGON, not PIRANHA; 2145 enemy course 275, speed 14; p32: zig-zag 30 deg either side of base course 175, speed 11, ten-minute legs",no,19-38N,123-08E,,,"ship-contact positions are the target, not THRESHER. Latitude circled in pencil on the scan, with the note ""Probably 1938N. See Guardfish and Apogon""; 14-38N is east of Samar. Longitude's second digit is struck (1?3), 123 fitting BT 45 (123-03.5E)"
-bt,BT 46,1944-07-11,2204,Z,19-16.5N,12?-24E,rg367-74855459/p60,"Density layers (C) 46: 300', layer 140', -4 deg (0604 H 12 July: after losing the convoy to the near escort, 0455 H submerged)",yes,,122-24E,,,second or third digit faint (12?); 122 fits BT 47 (122-25E)
-ship,Ship 5,1944-07-12,1500,H,14-45.3N,121-52E,rg367-74855459/p41,"PC 9000 yds; evaded (narrative p34: 1500 H sighted patrol boat, closest range 4,000 yards)",no,19-45.3N,,,,"ship-contact positions are the target, not THRESHER. Latitude circled in pencil on the scan like Ship 4's; 14-45N is inside Luzon. 19- assumed from the pencil note on Ship 4 and BT 46-47"
-bt,BT 47,1944-07-12,2100,Z,19-??.2N,122-25E,rg367-74855459/p60,"Density layers (C) 47: 300', layer 160', -6 deg",no,,,,,latitude minutes illegible (19-??.2N)
-ship,Ship 6,1944-07-13,1701,H,19-28N,122-14E,rg367-74855459/p41,"PC 10000 yds; evaded (narrative p34: sighted and avoided small patrol boat, closest range 8,000 yards)",no,,,,,"ship-contact positions are the target, not THRESHER"
-bt,BT 48,1944-07-13,2100,Z,19-35.5N,12?-1?.2E,rg367-74855459/p60,"Density layers (C) 48: 300', layer 140', -4 deg",yes,,122-15.2E,,,"faint; read 122-15.2 on the half-page crop, the second and fifth digits not certain on the zoom"
-bt,BT 49,1944-07-14,2100,Z,19-43N,119-5?.2E,rg367-74855459/p60,"Density layers (C) 49: 300', layer 200', -12 deg (0500 H 15 July, enroute the rendezvous)",yes,,119-53.2E,,,minutes' second digit 3 or 8
-narrative,rendezvous,1944-07-15,1130,H,19-54N,11?-43E,rg367-74855459/p35,"In rendezvous position; took up scouting line on line of bearing 090 T, distance 18 miles, THRESHER western ship, speed 8 knots, course 180 T. The position is the one ordered at 2054 H 14 July: ""rendezvous in position 19-54N, 11?-43E at 150300Z"" (p34)",yes,,118-43E,,,"third digit of the longitude broken (11?), read as 8: 113-43E is 360 mi west of BT 49"
-bt,BT 50,1944-07-15,2300,Z,19-45.3N,119-08.9E,rg367-74855459/p60,"Density layers (C) 50: 300', layer 160', -11 deg (0700 H 16 July: 0307 H had set course 090 T to intercept PIRANHA's convoy, 108 miles away)",yes,,,,,
-ship,Ship 7,1944-07-16,1600,H,19-45N,119-48E,rg367-74855459/p41,"Smoke of 1 AO, 3 AK, 2 DD 35000 yds, est. course 230 T 9 kn; tracked; attacked, sunk 1 DD, 3 AK, 1 AO, probably sunk 1 DD. Narrative p36: smoke to the southeast, range about 35,000 yards; tracked on course 257 speed 8; 1710 large unidentified plane over convoy; 2300 radar contact, course 195 speed 8, column with an escort on each beam about 1,000 yards out",no,,,,,"ship-contact positions are the target, not THRESHER"
-attack,Attack 1,1944-07-16,2330,H,18-55N,119-44E,rg367-74855459/p45,"Torpedo attack No. 1: 6 bow (3 at the DD escort, 3 at the leading AK) and 4 stern (at the 2nd AK); 6 hits typed; claims 1 DD and 2 AKs sunk. Narrative p37: fired 2329 H, sighted four and heard six explosions 2332",yes,,,,,
-attack,Attack 2,1944-07-16,0119,H,18-56N,119-35E,rg367-74855459/p48,"Torpedo attack No. 2: 5 bow (at the DD and the AK), 3 stern (at the AO); 6 hits typed; claims DD, AK and AO damaged or probably sunk. Narrative p37-38: fired 0118 H 17 July",yes,,,1944-07-17,,"sheet types July 16; the narrative (p37-38) fires it at 0118 H on 17 July, after attack No. 1 at 2329 H on the 16th"
-attack,Attack 3,1944-07-16,0224,H,19-04N,119-26E,rg367-74855459/p51,"Torpedo attack No. 3: 4 bow (2 at the AK, 2 at the AO), 1 stern (at the escort); 4 hits typed; claims the AK and the AO sunk. Narrative p38: commenced firing 0244 H 17 July; AK hit 0246, AO hit 0247 and sank within 15 seconds; escort's pip lost 0258",yes,,,1944-07-17,,sheet types July 16 0224 H; the narrative fires it at 0244 H on 17 July
-bt,BT 51,1944-07-21,2130,Z,22-03.4N,133-32E,rg367-74855459/p60,"Density layers (C) 51: 150', layer - -, 0 deg (enroute MIDWAY; 1900 H 17 July set course for MIDWAY, p39)",yes,,,,,
-narrative,arrive Midway,1944-07-27,1500,Y,28-12N,177-23W,rg367-74855459/p40,Arrived MIDWAY (port position),yes,,,,,
+narrative,depart Pearl,1944-06-14,1330,VW,21-21N,157-58W,rg38-74855459/p29,"Underway for THIRTEENTH WAR PATROL as a member of the coordinated attack group ""Mickey Finns"", Captain W.V. O'Regan C.T.G. in GUARDFISH; enroute MIDWAY in company with GUARDFISH and PIRANHA; escorted by PC 486 until dark (port position)",yes,,,,,
+bt,BT 1,1944-06-15,1600,Z,24-07N,160-37.5W,rg38-74855459/p59,"Density layers (C) 1: greatest depth 300', layer 100', gradient -4 deg",yes,,,,,
+bt,BT 2,1944-06-16,0200,Z,25-34.5N,162-41.5W,rg38-74855459/p59,"Density layers (C) 2: 200', layer 60', -3 deg",yes,,,,,
+bt,BT 3,1944-06-16,1600,Z,26-37.5N,16?-09.5W,rg38-74855459/p59,"Density layers (C) 3: 300', layer 200', -4 deg",yes,,166-09.5W,,,third digit faint; 166 fits BT 2 and BT 4
+bt,BT 4,1944-06-16,2100,Z,27-01N,167-24W,rg38-74855459/p59,"Density layers (C) 4: 300', layer 60', -11 deg",yes,,,,,
+bt,BT 5,1944-06-17,1600,Z,28-26.5N,171-33W,rg38-74855459/p59,"Density layers (C) 5: 300', layer 80', -10 deg",yes,,,,,
+bt,BT 6,1944-06-17,2100,Z,28-49N,172-43W,rg38-74855459/p59,"Density layers (C) 6: 315', layer 100', -10 deg",yes,,,,,
+narrative,arrive Midway,1944-06-18,0940,Y,28-12N,177-23W,rg38-74855459/p29,"Moored Submarine Base, MIDWAY ISLAND. Received 21,000 gallons fuel oil and 600 gallons lube oil (port position; day typed 1? , read as 18)",yes,,,,,
+narrative,depart Midway,1944-06-18,1925,Y,28-12N,177-23W,rg38-74855459/p29,"Underway for rendezvous with GUARDFISH, PIRANHA, and APOGON (port position; left at 1525 with GUARDFISH and PIRANHA, returned for a PPI transformer, received it at the entrance buoys 1845)",yes,,,,,
+bt,BT 7,1944-06-19,1700,Z,27-53.5N,179-57.5E,rg38-74855459/p59,"Density layers (C) 7: 300', layer 140', -6.5 deg (19 June dropped from the ship's calendar on crossing the 180th meridian, p29)",yes,,,,,
+bt,BT 8,1944-06-20,0200,Z,27-34.7N,178-00E,rg38-74855459/p59,"Density layers (C) 8: 300', layer 80', -6 deg",yes,,,,,
+bt,BT 9,1944-06-20,1700,Z,26-59N,175-42.2E,rg38-74855459/p59,"Density layers (C) 9: 300', layer 160', -5 deg",yes,,,,,
+bt,BT 10,1944-06-21,0300,Z,26-22.5N,172-77E,rg38-74855459/p59,"Density layers (C) 10: 300', layer 70', -12 deg",no,,,,,minutes typed 77 (impossible); left off the track
+bt,BT 11,1944-06-21,1900,Z,25-55N,169-33E,rg38-74855459/p59,"Density layers (C) 11: 300', layer 10', -12 deg",yes,,,,,
+bt,BT 12,1944-06-22,1930,Z,24-54N,164-40E,rg38-74855459/p59,"Density layers (C) 12: 300', layer 55', -12 deg",yes,,,,,
+bt,BT 13,1944-06-22,2300,Z,24-35.5N,163-56E,rg38-74855459/p59,"Density layers (C) 13: 300', layer 30', -16 deg",yes,,,,,
+narrative,rendezvous,1944-06-23,0330,L,25-00N,165-00E,rg38-74855459/p30,"Rendezvoused with GUARDFISH, PIRANHA and APOGON. Took station as southern ship in line of bearing 000-180 T, distance 15 miles and set course for patrol area",yes,,,,,
+bt,BT 14,1944-06-23,1900,Z,25-16.5N,160-35E,rg38-74855459/p59,"Density layers (C) 14: 300', layer 70', -12 deg",yes,,,,,
+bt,BT 15,1944-06-23,2300,Z,25-25N,159-20E,rg38-74855459/p59,"Density layers (C) 15: 300', layer 100', -11 deg",yes,,,,,
+bt,BT 16,1944-06-24,2000,Z,25-43N,155-12E,rg38-74855459/p59,"Density layers (C) 16: 300', layer 20', -17 deg",yes,,,,,
+bt,BT 17,1944-06-24,0509,Z,25-51N,153-19E,rg38-74855459/p59,"Density layers (C) 17: 330', layer 35', -20 deg",yes,,,1944-06-25,,"typed 6/24 0509, after BT 16 (6/24 2000) and 2 deg further west: the 25th by its place in the table and the track"
+bt,BT 18,1944-06-25,2018,Z,24-28N,150-10E,rg38-74855459/p59,"Density layers (C) 18: 300', layer 35', -14 deg (longitude's third digit faint, read as 150)",yes,,,,,
+bt,BT 19,1944-06-27,2018,Z,20-49.5N,142-42E,rg38-74855459/p59,"Density layers (C) 19: 300', layer 50', -9 deg (search for the downed aviators north of PAJAROS, 27-28 June, p30)",yes,,,,,
+bt,BT 20,1944-06-28,0625,Z,20-46N,141-05E,rg38-74855459/p59,"Density layers (C) 20: 290', layer 100', -6 deg",yes,,,,,
+bt,BT 21,1944-06-29,0000,Z,21-04N,137-20.2E,rg38-74855459/p59,"Density layers (C) 21: 300', layer 30', -9 deg",yes,,,,,
+bt,BT 22,1944-06-29,0700,Z,21-01N,135-59.5E,rg38-74855459/p59,"Density layers (C) 22: 250', layer 110', -7 deg",yes,,,,,
+bt,BT 23,1944-06-29,2030,Z,21-05.5N,133-09E,rg38-74855459/p59,"Density layers (C) 23: 300', layer 115', -6 deg",yes,,,,,
+bt,BT 24,1944-06-30,0200,Z,21-07.1N,132-02.5E,rg38-74855459/p59,"Density layers (C) 24: 300', layer 50', -7 deg",yes,,,,,
+bt,BT 25,1944-06-30,2030,Z,21-17.3N,1?7-53.8E,rg38-74855459/p59,"Density layers (C) 25: 300', layer 140', -5 deg",yes,,127-53.8E,,,second digit faint; 137 would put her back east of BT 21; 127 fits BT 24 and BT 26
+bt,BT 26,1944-07-01,0100,Z,21-19N,126-00E,rg38-74855459/p60,"Density layers (C) 26: 300', layer 100', -7 deg",yes,,,,,
+bt,BT 27,1944-07-01,2030,Z,21-15.7N,123-09E,rg38-74855459/p60,"Density layers (C) 27: 300', layer 80', -4 deg",yes,,,,,
+bt,BT 28,1944-07-02,2030,Z,21-32.5N,122-13.5E,rg38-74855459/p60,"Density layers (C) 28: 300', layer 60', -4 deg",yes,,,,,
+bt,BT 29,1944-07-03,0200,Z,21-24.7N,122-06.5E,rg38-74855459/p60,"Density layers (C) 29: 300', layer 140', -3 deg",yes,,,,,
+ship,Ship 1,1944-07-03,1130,H,21-15N,122-10E,rg38-74855459/p41,"PC 4000 yds, est. course 150 T 10 kn; avoided",no,,,,,"ship-contact positions are the target, not THRESHER"
+bt,BT 30,1944-07-03,2?30,Z,21-15.5N,121-05E,rg38-74855459/p60,"Density layers (C) 30: 300', layer 60, -4 deg (hour's second digit faint)",no,,,,2030,"time illegible (2?30); 2030 assumed (the table's evening cards are mostly 2030), so the row is kept off the track; BT 31 at 2300 is 7 mi away"
+bt,BT 31,1944-07-03,2300,Z,21-22.2N,121-03.2E,rg38-74855459/p60,"Density layers (C) 31: 200', layer - -, -2 deg",yes,,,,,
+bt,BT 32,1944-07-04,0200,Z,21-32.2N,121-05.5E,rg38-74855459/p60,"Density layers (C) 32: 300', layer 190', -2 deg",yes,,,,,
+ship,Ship 2,1944-07-04,,H,21-31.2N,121-10.5E,rg38-74855459/p41,"Trawlers and small fishing boats 4000 - 15000 yds, various; about 50 small fishing boats & trawlers contacted during the day",no,,,,1200,"ship-contact positions are the target, not THRESHER; no time typed (contacts during the day), noon assumed"
+ship,Ship 3,1944-07-04,0805,H,21-31.2N,121-10.5E,rg38-74855459/p41,"PC 12000 yds, est. course 130 T 10 kn; avoided",no,,,,,"ship-contact positions are the target, not THRESHER"
+bt,BT 33,1944-07-04,2045,Z,20-55N,120-02E,rg38-74855459/p60,"Density layers (C) 33: 315', layer 100', -10 deg",yes,,,,,
+bt,BT 34,1944-07-05,0525,Z,21-12.5N,119-52.5E,rg38-74855459/p60,"Density layers (C) 34: 300', layer - -, -5 deg",yes,,,,,
+bt,BT 35,1944-07-05,2016,Z,21-05.5N,119-09.5E,rg38-74855459/p60,"Density layers (C) 35: 315', layer 90', -12 deg",yes,,,,,
+bt,BT 36,1944-07-06,0514,Z,21-06N,119-14.3E,rg38-74855459/p60,"Density layers (C) 36: 300', layer 110', -14 deg",yes,,,,,
+bt,BT 37,1944-07-06,2135,Z,21-05.8N,119-55.7E,rg38-74855459/p60,"Density layers (C) 37: 300', layer 90', -17 deg",yes,,,,,
+bt,BT 38,1944-07-07,0520,Z,21-10.6N,119-02E,rg38-74855459/p60,"Density layers (C) 38: 300', layer 140', -12 deg",yes,,,,,
+bt,BT 39,1944-07-07,2200,Z,21-09.2N,119-57E,rg38-74855459/p60,"Density layers (C) 39: 320', layer 140', gradient faint",yes,,,,,
+bt,BT 40,1944-07-08,2100,Z,20-58N,122-21.5E,rg38-74855459/p60,"Density layers (C) 40: 300', layer 60', -5 deg",yes,,,,,
+bt,BT 41,1944-07-09,0440,Z,21-12.7N,121-43.3E,rg38-74855459/p60,"Density layers (C) 41: 300', layer 40', -11 deg (evening of 9 July closed Y'AMI ISLAND for an SJ radar check, p31)",yes,,,,,
+bt,BT 42,1944-07-09,2104,Z,21-33N,123-09E,rg38-74855459/p60,"Density layers (C) 42: 310', layer 60', -7 deg",yes,,,,,
+bt,BT 43,1944-07-10,0420,Z,21-31N,123-08.5E,rg38-74855459/p60,"Density layers (C) 43: 300', layer 120', -8 deg",yes,,,,,
+bt,BT 44,1944-07-10,2124,Z,19-59.1N,123-03.5E,rg38-74855459/p60,"Density layers (C) 44: 300', layer 80', -12 deg",yes,,,,,
+bt,BT 45,1944-07-11,0440,Z,20-05.3N,123-03.5E,rg38-74855459/p60,"Density layers (C) 45: 310', layer 130', -5 deg (0000 H 11 July commenced patrol in next assigned area, p31)",yes,,,,,
+ship,Ship 4,1944-07-11,2130,H,14-38N,1?3-08E,rg38-74855459/p41,"3 AP, 4 DD(EU) (the 4 overtyped, perhaps on a 2) 24000 yds, est. course 175 T 11 kn; no attack possible. Narrative p31: SJ radar contact on a group of at least six (6) ships, bearing 275 T, range 24,000 yards; contact report receipted by GUARDFISH and APOGON, not PIRANHA; 2145 enemy course 275, speed 14; p32: zig-zag 30 deg either side of base course 175, speed 11, ten-minute legs",no,19-38N,123-08E,,,"ship-contact positions are the target, not THRESHER. Latitude circled in pencil on the scan, with the note ""Probably 1938N. See Guardfish and Apogon""; 14-38N is east of Samar. Longitude's second digit is struck (1?3), 123 fitting BT 45 (123-03.5E)"
+bt,BT 46,1944-07-11,2204,Z,19-16.5N,12?-24E,rg38-74855459/p60,"Density layers (C) 46: 300', layer 140', -4 deg (0604 H 12 July: after losing the convoy to the near escort, 0455 H submerged)",yes,,122-24E,,,second or third digit faint (12?); 122 fits BT 47 (122-25E)
+ship,Ship 5,1944-07-12,1500,H,14-45.3N,121-52E,rg38-74855459/p41,"PC 9000 yds; evaded (narrative p34: 1500 H sighted patrol boat, closest range 4,000 yards)",no,19-45.3N,,,,"ship-contact positions are the target, not THRESHER. Latitude circled in pencil on the scan like Ship 4's; 14-45N is inside Luzon. 19- assumed from the pencil note on Ship 4 and BT 46-47"
+bt,BT 47,1944-07-12,2100,Z,19-??.2N,122-25E,rg38-74855459/p60,"Density layers (C) 47: 300', layer 160', -6 deg",no,,,,,latitude minutes illegible (19-??.2N)
+ship,Ship 6,1944-07-13,1701,H,19-28N,122-14E,rg38-74855459/p41,"PC 10000 yds; evaded (narrative p34: sighted and avoided small patrol boat, closest range 8,000 yards)",no,,,,,"ship-contact positions are the target, not THRESHER"
+bt,BT 48,1944-07-13,2100,Z,19-35.5N,12?-1?.2E,rg38-74855459/p60,"Density layers (C) 48: 300', layer 140', -4 deg",yes,,122-15.2E,,,"faint; read 122-15.2 on the half-page crop, the second and fifth digits not certain on the zoom"
+bt,BT 49,1944-07-14,2100,Z,19-43N,119-5?.2E,rg38-74855459/p60,"Density layers (C) 49: 300', layer 200', -12 deg (0500 H 15 July, enroute the rendezvous)",yes,,119-53.2E,,,minutes' second digit 3 or 8
+narrative,rendezvous,1944-07-15,1130,H,19-54N,11?-43E,rg38-74855459/p35,"In rendezvous position; took up scouting line on line of bearing 090 T, distance 18 miles, THRESHER western ship, speed 8 knots, course 180 T. The position is the one ordered at 2054 H 14 July: ""rendezvous in position 19-54N, 11?-43E at 150300Z"" (p34)",yes,,118-43E,,,"third digit of the longitude broken (11?), read as 8: 113-43E is 360 mi west of BT 49"
+bt,BT 50,1944-07-15,2300,Z,19-45.3N,119-08.9E,rg38-74855459/p60,"Density layers (C) 50: 300', layer 160', -11 deg (0700 H 16 July: 0307 H had set course 090 T to intercept PIRANHA's convoy, 108 miles away)",yes,,,,,
+ship,Ship 7,1944-07-16,1600,H,19-45N,119-48E,rg38-74855459/p41,"Smoke of 1 AO, 3 AK, 2 DD 35000 yds, est. course 230 T 9 kn; tracked; attacked, sunk 1 DD, 3 AK, 1 AO, probably sunk 1 DD. Narrative p36: smoke to the southeast, range about 35,000 yards; tracked on course 257 speed 8; 1710 large unidentified plane over convoy; 2300 radar contact, course 195 speed 8, column with an escort on each beam about 1,000 yards out",no,,,,,"ship-contact positions are the target, not THRESHER"
+attack,Attack 1,1944-07-16,2330,H,18-55N,119-44E,rg38-74855459/p45,"Torpedo attack No. 1: 6 bow (3 at the DD escort, 3 at the leading AK) and 4 stern (at the 2nd AK); 6 hits typed; claims 1 DD and 2 AKs sunk. Narrative p37: fired 2329 H, sighted four and heard six explosions 2332",yes,,,,,
+attack,Attack 2,1944-07-16,0119,H,18-56N,119-35E,rg38-74855459/p48,"Torpedo attack No. 2: 5 bow (at the DD and the AK), 3 stern (at the AO); 6 hits typed; claims DD, AK and AO damaged or probably sunk. Narrative p37-38: fired 0118 H 17 July",yes,,,1944-07-17,,"sheet types July 16; the narrative (p37-38) fires it at 0118 H on 17 July, after attack No. 1 at 2329 H on the 16th"
+attack,Attack 3,1944-07-16,0224,H,19-04N,119-26E,rg38-74855459/p51,"Torpedo attack No. 3: 4 bow (2 at the AK, 2 at the AO), 1 stern (at the escort); 4 hits typed; claims the AK and the AO sunk. Narrative p38: commenced firing 0244 H 17 July; AK hit 0246, AO hit 0247 and sank within 15 seconds; escort's pip lost 0258",yes,,,1944-07-17,,sheet types July 16 0224 H; the narrative fires it at 0244 H on 17 July
+bt,BT 51,1944-07-21,2130,Z,22-03.4N,133-32E,rg38-74855459/p60,"Density layers (C) 51: 150', layer - -, 0 deg (enroute MIDWAY; 1900 H 17 July set course for MIDWAY, p39)",yes,,,,,
+narrative,arrive Midway,1944-07-27,1500,Y,28-12N,177-23W,rg38-74855459/p40,Arrived MIDWAY (port position),yes,,,,,

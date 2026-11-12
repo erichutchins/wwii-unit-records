@@ -146,7 +146,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1944-06-14 1330(VW)",
-    "page": "rg367-74819308/p04",
+    "page": "rg38-74819308/p04",
     "note": "Departed Pearl in Company with THRESHER and PIRANHA as part of Coordinated Attack Group (GUARDFISH THRESHER PIRANHA and APOGON) known as Micky Finns with Captain W. V. O'Regan in GUARDFISH (port position as PARCHE Patrol 1)",
     "fix": ""
    },
@@ -169,7 +169,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-06-18 0815(Y)",
-    "page": "rg367-74819308/p04",
+    "page": "rg38-74819308/p04",
     "note": "Moored to GABILAN alongside HOLLAND at Midway. Replenished fuel and fresh water (port position as PARCHE Patrol 1)",
     "fix": ""
    },
@@ -192,7 +192,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-06-18 1500(Y)",
-    "page": "rg367-74819308/p04",
+    "page": "rg38-74819308/p04",
     "note": "Departed Midway with plane escort; 1735 Thresher returned to Midway for repairs (port position as PARCHE Patrol 1)",
     "fix": ""
    },
@@ -215,7 +215,7 @@
     "lat_raw": "21-00N",
     "lon_raw": "144-51E",
     "local": "1944-06-27 0939(K)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "1-PBM (?) 140\u00b0 12 Mi; Sight only; Est. course 270\u00b0 P.A. 5\u00b0; Surface. Revised table p47: 15k 193\u00b0 Surf.; Pat.; 5\u00b0; sea 2 vis 50mi",
     "fix": ""
    },
@@ -238,7 +238,7 @@
     "lat_raw": "21-27N",
     "lon_raw": "142-10E",
     "local": "1944-06-28 0646(K)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "1-Large land Type 270\u00b0 15 Mi; Sight only; 180\u00b0 1\u00b0; Surface. Revised table p47: 11k 271\u00b0 Surf.; Unk.; 1\u00b0",
     "fix": ""
    },
@@ -261,7 +261,7 @@
     "lat_raw": "21-27N",
     "lon_raw": "141-38E",
     "local": "1944-06-28 1036(K)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "1-Betty 210\u00b0 5 Mi; Sight only; 000\u00b0 2\u00b0; Surface. Revised table p47: 11k 271\u00b0 Surf.; Unk.; range 5+mi",
     "fix": ""
    },
@@ -284,7 +284,7 @@
     "lat_raw": "21-30N",
     "lon_raw": "137-20E",
     "local": "1944-06-29 0829(K)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "1-PBY(?) 050\u00b0 12 Mi; Sight only; 250\u00b0 2\u00b0; Surface. Revised table p47: 11k 271\u00b0 Surf.; Unk.",
     "fix": ""
    },
@@ -307,7 +307,7 @@
     "lat_raw": "21-35N",
     "lon_raw": "123-30E",
     "local": "1944-07-02 0030(Z)",
-    "page": "rg367-74819308/p41",
+    "page": "rg38-74819308/p41",
     "note": "Density layers (O) 1: bathythermograph card obtained and forwarded; no readings typed (the report notes isothermal to 100-200 ft and a 10-15 deg negative gradient to 300 ft in the Luzon Strait)",
     "fix": ""
    },
@@ -330,7 +330,7 @@
     "lat_raw": "21-26N",
     "lon_raw": "120-40E",
     "local": "1944-07-05 0302(I)",
-    "page": "rg367-74819308/p17",
+    "page": "rg38-74819308/p17",
     "note": "1-A/S Patrol (PC Size) 7\u00bd Mi; Patrolling; Pinging QB first SJ at 11500 Yds. Closed to identify then avoided",
     "fix": "ship-contact positions are the target's"
    },
@@ -353,7 +353,7 @@
     "lat_raw": "21-25N",
     "lon_raw": "120-37E",
     "local": "1944-07-05 0909(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "Not Sighted; Dropped 3 bombs close; Submerged at 60'. Revised table p47: 2.6k 355\u00b0 Per.; type Unk., mission H., contacted Bombed, range o",
     "fix": ""
    },
@@ -376,7 +376,7 @@
     "lat_raw": "21-37N",
     "lon_raw": "120-47E",
     "local": "1944-07-08 0344(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "Not Sighted 8 Mi; SD Radar. Revised table p47: 11k 200\u00b0 Surf. L.T.; type Unk.; moon 70% illum.",
     "fix": ""
    },
@@ -399,7 +399,7 @@
     "lat_raw": "21-42N",
     "lon_raw": "122-31E",
     "local": "1944-07-09 0701(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "2-Sally 138\u00b0 7 Mi; Sighted through periscope; 050\u00b0 4\u00b0; Submerged at 60'. Revised table p48: 2.6k 000\u00b0 Per.; Trans.",
     "fix": ""
    },
@@ -422,7 +422,7 @@
     "lat_raw": "21-29N",
     "lon_raw": "122-32E",
     "local": "1944-07-09 0900(Z)",
-    "page": "rg367-74819308/p41",
+    "page": "rg38-74819308/p41",
     "note": "Density layers (O) 2: bathythermograph card obtained and forwarded; no readings typed (the report notes isothermal to 100-200 ft and a 10-15 deg negative gradient to 300 ft in the Luzon Strait)",
     "fix": ""
    },
@@ -445,7 +445,7 @@
     "lat_raw": "19-53N",
     "lon_raw": "122-45E",
     "local": "1944-07-11 2255(I)",
-    "page": "rg367-74819308/p17",
+    "page": "rg38-74819308/p17",
     "note": "Convoy-9 targets & 5 escorts 15 Mi; 197\u00b0 10.6 (Advance); SJ Radar Surface; 12 knots through water",
     "fix": "ship-contact positions are the target's"
    },
@@ -468,7 +468,7 @@
     "lat_raw": "18-58N",
     "lon_raw": "122-36E",
     "local": "1944-07-12 0521(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "Not Sighted 260\u00b0 3\u00bd Mi; SJ Radar; Surface just prior dawn (third figure of longitude faint). Revised table p48: 15k 090\u00b0 Surf.; type Unk., Esc.; LATITUDE TYPED 18-59N (first table 18-58N); longitude 122-36E confirms the faint figure",
     "fix": ""
    },
@@ -491,7 +491,7 @@
     "lat_raw": "18-58N",
     "lon_raw": "122-44E",
     "local": "1944-07-12 0613(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "1-Emily 265\u00b0 10 Mi; Sight Only; 090\u00b0 2\u00b0; Surface. Revised table p48: 16k 130\u00b0 Surf.; Esc.",
     "fix": ""
    },
@@ -514,7 +514,7 @@
     "lat_raw": "19-19N",
     "lon_raw": "120-18E",
     "local": "1944-07-16 0950(I)",
-    "page": "rg367-74819308/p17",
+    "page": "rg38-74819308/p17",
     "note": "Convoy-10 target & 4 escorts 20 Mi; 195\u00b0 6.8 (ADvance); Sighted smoke from bridge; 7.5 kts through water",
     "fix": "ship-contact positions are the target's"
    },
@@ -537,7 +537,7 @@
     "lat_raw": "19-26N",
     "lon_raw": "119-55E",
     "local": "1944-07-16 0954(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "1-Hap 115\u00b0 12 Mi; Sight only; 290\u00b0 2\u00b0; Convoy escort. Revised table p48: 15k 170\u00b0 Surf.; Esc.",
     "fix": ""
    },
@@ -560,7 +560,7 @@
     "lat_raw": "19-24N",
     "lon_raw": "119-55E",
     "local": "1944-07-16 1005(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "1-Mavis ? 115\u00b0 6\u00bd Mi; SD Radar; Contact #10 in sight at 12mi at time. Revised table p48: 15k 170\u00b0 Surf.; Mavis?; Esc.",
     "fix": ""
    },
@@ -583,7 +583,7 @@
     "lat_raw": "18-20.5N",
     "lon_raw": "119-42.5E",
     "local": "1944-07-16 2342(I)",
-    "page": "rg367-74819308/p20",
+    "page": "rg38-74819308/p20",
     "note": "Torpedo attack No. 1: night surface attack on ten ship convoy; six torpedoes from bow tubes",
     "fix": ""
    },
@@ -606,7 +606,7 @@
     "lat_raw": "18-17.5N",
     "lon_raw": "119-50.0E",
     "local": "1944-07-17 0042(I)",
-    "page": "rg367-74819308/p24",
+    "page": "rg38-74819308/p24",
     "note": "Torpedo attack No. 2: one of the ships of the convoy that scattered after attack #1; three torpedoes from stern tubes",
     "fix": ""
    },
@@ -629,7 +629,7 @@
     "lat_raw": "18-09.7N",
     "lon_raw": "119-49.0E",
     "local": "1944-07-17 0257(I)",
-    "page": "rg367-74819308/p26",
+    "page": "rg38-74819308/p26",
     "note": "Torpedo attack No. 3: single ship from convoy of attack No. 1 on a southwesterly course with one escort; two stern torpedoes missed",
     "fix": ""
    },
@@ -652,7 +652,7 @@
     "lat_raw": "18-47N",
     "lon_raw": "119-57E",
     "local": "1944-07-17 0606(I)",
-    "page": "rg367-74819308/p17",
+    "page": "rg38-74819308/p17",
     "note": "1-A/S Patrol Boat 1\u00bd Mi by sight; Patrolling; Pinging QB first Periscope 14 Min. later; May have sighted us prior diving",
     "fix": "ship-contact positions are the target's"
    },
@@ -675,7 +675,7 @@
     "lat_raw": "18-53N",
     "lon_raw": "119-59E",
     "local": "1944-07-16 2230(Z)",
-    "page": "rg367-74819308/p41",
+    "page": "rg38-74819308/p41",
     "note": "Density layers (O) 3: bathythermograph card obtained and forwarded; no readings typed (the report notes isothermal to 100-200 ft and a 10-15 deg negative gradient to 300 ft in the Luzon Strait)",
     "fix": ""
    },
@@ -698,7 +698,7 @@
     "lat_raw": "20-32N",
     "lon_raw": "119-15E",
     "local": "1944-07-18 1800(I)",
-    "page": "rg367-74819308/p17",
+    "page": "rg38-74819308/p17",
     "note": "Convoy-Naval-2 CV 2AO 1AP 1AUX. others. 6 Mi; 215\u00b0 15 Knots; Periscope Submerged; Composition not fully observed (longitude typed 119'-15E with a stray mark)",
     "fix": "ship-contact positions are the target's"
    },
@@ -721,7 +721,7 @@
     "lat_raw": "20-28N",
     "lon_raw": "119-12E",
     "local": "1944-07-18 0900(Z)",
-    "page": "rg367-74819308/p41",
+    "page": "rg38-74819308/p41",
     "note": "Density layers (O) 4: bathythermograph card obtained and forwarded; no readings typed (the report notes isothermal to 100-200 ft and a 10-15 deg negative gradient to 300 ft in the Luzon Strait)",
     "fix": ""
    },
@@ -744,7 +744,7 @@
     "lat_raw": "20-27N",
     "lon_raw": "119-11E",
     "local": "1944-07-18 1822(I)",
-    "page": "rg367-74819308/p30",
+    "page": "rg38-74819308/p30",
     "note": "Torpedo attack No. 5: large convoy with 2 aircraft carriers; naval auxiliary similar to Ayatosan Maru claimed sunk",
     "fix": ""
    },
@@ -767,7 +767,7 @@
     "lat_raw": "19-58N",
     "lon_raw": "118-14E",
     "local": "1944-07-19 0532(I)",
-    "page": "rg367-74819308/p17",
+    "page": "rg38-74819308/p17",
     "note": "Convoy - 1 9000 ton ship others smaller 11 Mi; 050\u00b0 7\u00bd kts.; SJ Radar Surface; About 4 escorts and 5 targets",
     "fix": "ship-contact positions are the target's"
    },
@@ -790,7 +790,7 @@
     "lat_raw": "20-07N",
     "lon_raw": "118-20E",
     "local": "1944-07-19 0743(I)",
-    "page": "rg367-74819308/p33",
+    "page": "rg38-74819308/p33",
     "note": "Torpedo attack No. 6: six AK convoy on base course 050 T; ship similar to Hoeisan Maru claimed sunk and a medium AK damaged",
     "fix": ""
    },
@@ -813,7 +813,7 @@
     "lat_raw": "20-05N",
     "lon_raw": "118-19E",
     "local": "1944-07-18 2300(Z)",
-    "page": "rg367-74819308/p41",
+    "page": "rg38-74819308/p41",
     "note": "Density layers (O) 5: bathythermograph card obtained and forwarded; no readings typed (the report notes isothermal to 100-200 ft and a 10-15 deg negative gradient to 300 ft in the Luzon Strait)",
     "fix": ""
    },
@@ -836,7 +836,7 @@
     "lat_raw": "20-06N",
     "lon_raw": "118-27E",
     "local": "1944-07-19 0920(I)",
-    "page": "rg367-74819308/p17",
+    "page": "rg38-74819308/p17",
     "note": "Convoy-masts of 2 ship & 1 escort 9 Mi; 180\u00b0 ?; Periscope Submerged; At extreme range - Composition ?",
     "fix": "ship-contact positions are the target's"
    },
@@ -859,7 +859,7 @@
     "lat_raw": "20-12N",
     "lon_raw": "118-16E",
     "local": "1944-07-19 1653(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "1-Wakatake Class DD 4 Mi By sight; Patroling; Pinging QB for 3 hours then periscope submerged; Had heard his pinging for 3 hours",
     "fix": "ship-contact positions are the target's"
    },
@@ -882,7 +882,7 @@
     "lat_raw": "20-44N",
     "lon_raw": "118-28E",
     "local": "1944-07-19 2243(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "Unknown 11 Mi; 350\u00b0 8 knots; SJ Radar Surface; Could not see him at 6000 Yd",
     "fix": "ship-contact positions are the target's"
    },
@@ -905,7 +905,7 @@
     "lat_raw": "22-01N",
     "lon_raw": "139-17E",
     "local": "1944-07-24 0908(I)",
-    "page": "rg367-74819308/p18",
+    "page": "rg38-74819308/p18",
     "note": "1-2 engine land type. 250\u00b0 11 Mi; Sight & SD Radar simult.; 070\u00b0 5\u00b0. Revised table p48: 14k 090\u00b0 Surf.; Unk.",
     "fix": ""
    },
@@ -928,7 +928,7 @@
     "lat_raw": "22-01N",
     "lon_raw": "139-21E",
     "local": "1944-07-24 0949(I)",
-    "page": "rg367-74819308/p19",
+    "page": "rg38-74819308/p19",
     "note": "Assumed to be same as #12. 9 Mi; Only SD Radar; Not Sighted (table headed Ship's Lat. Long.). Revised table p49: 14k 090\u00b0 Surf.; number ? type ?",
     "fix": ""
    },
@@ -951,7 +951,7 @@
     "lat_raw": "22-07N",
     "lon_raw": "144-26E",
     "local": "1944-07-25 0853(K)",
-    "page": "rg367-74819308/p19",
+    "page": "rg38-74819308/p19",
     "note": "? 12 Mi; SD Radar Only; Not Sighted surfaced. Revised table p49: 14k 090\u00b0 Surf.; number ? type ?",
     "fix": ""
    },
@@ -974,7 +974,7 @@
     "lat_raw": "22-07N",
     "lon_raw": "145-10E",
     "local": "1944-07-25 1203(K)",
-    "page": "rg367-74819308/p19",
+    "page": "rg38-74819308/p19",
     "note": "Assumed to be friendly 21 Mi; SD Radar Only; Blip on IFF. Revised table p49: 14k 090\u00b0 Surf.; type Unk.; Blip on IFF",
     "fix": ""
    },
@@ -997,7 +997,7 @@
     "lat_raw": "22-09N",
     "lon_raw": "150-36E",
     "local": "1944-07-26 1039(K)",
-    "page": "rg367-74819308/p16",
+    "page": "rg38-74819308/p16",
     "note": "Sighted spherical object probably a mine... Circled and sank it with 20 MM fire (the object's position)",
     "fix": ""
    },
@@ -1020,7 +1020,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-07-31 0715(Y)",
-    "page": "rg367-74819308/p16",
+    "page": "rg38-74819308/p16",
     "note": "Moored at Midway (port position as PARCHE Patrol 1)",
     "fix": ""
    },

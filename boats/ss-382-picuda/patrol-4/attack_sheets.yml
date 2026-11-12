@@ -34,8 +34,8 @@
   spread: Periscope spread.
   sea: E - State 2.
   overhaul: U.S.S. BUSHNELL.
-  page: rg367-74830887/p20
-  table_page: rg367-74830887/p21
+  page: rg38-74830887/p20
+  table_page: rg38-74830887/p21
   note: >-
     Own course 030°30' written 030.5. Tube 4's gyro is typed "325-30" (kept as typed; perhaps 325°30'); tube 4 is
     the one marked erratic, which the sheet believes ran 90° right of its set course. Ship Contact 1 (p15) types the
@@ -65,8 +65,8 @@
   spread: Divergent - 1°.
   sea: E - State 2.
   overhaul: U.S.S. BUSHNELL.
-  page: rg367-74830887/p22
-  table_page: rg367-74830887/p23
+  page: rg38-74830887/p22
+  table_page: rg38-74830887/p23
   note: >-
     Tubes 1 and 2 are typed "Miss (Broached)" (hit written Miss). The range's first digit is faint (read 3; Attack 2A
     types 3,100). The "1° spread" in type_attack: the "1" is faint. Ship Contact 4 (p15) gives first contact at
@@ -86,8 +86,8 @@
   spread: Divergent - 1°.
   sea: E- State 2.
   overhaul: U.S.S. BUCHNELL.
-  page: rg367-74830887/p24
-  table_page: rg367-74830887/p25
+  page: rg38-74830887/p24
+  table_page: rg38-74830887/p25
   note: >-
     The stern nest of Attack 2, same time and position. Tube 7 is Mark 18-1 with an 8-5 exploder; tubes 8-10 are
     typed Mark "18" with 4-7 exploders and Mark 18 warheads. The overhaul line types "BUCHNELL" (BUSHNELL on the other
@@ -113,8 +113,8 @@
   spread: Periscope.
   sea: E - State 2.
   overhaul: U.S.S. BUSHNELL.
-  page: rg367-74830887/p26
-  table_page: rg367-74830887/p27
+  page: rg38-74830887/p26
+  table_page: rg38-74830887/p27
   note: >-
     The target speed's first digit is faint (8.5 or 6.5): written ?.5. The table types the tubes "#1 #2 #2 #4" (the
     third column "#2", kept; presumably tube 3). Tube 4's track angle is under a blot on the scan (?) and its gyro's
@@ -136,8 +136,8 @@
   spread: Periscope.
   sea: W - State 3.
   overhaul: U. S. S. BUSHNELL.
-  page: rg367-74830887/p28
-  table_page: rg367-74830887/p29
+  page: rg38-74830887/p28
+  table_page: rg38-74830887/p29
   note: >-
     The sheet types the position 33-30N 128-26E; Ship Contact 13 (p16), the same coastal tanker at 1400, is at
     33-30N 129-26E, and positions.csv corrects the longitude to 129-26E (lon_fix). Torpedoes Mark 18, exploders 4-7.

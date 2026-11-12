@@ -28,20 +28,22 @@ nara-catalog:
   held: U.S. National Archives and Records Administration (NARA)
   url: https://catalog.archives.gov/
   rights: Public domain (records of the U.S. government)
-  cite: rg<record group>-<catalog ID>/p<page>      # e.g. rg367-74802746/p05
+  cite: rg<record group>-<catalog ID>/p<page>      # e.g. rg38-74802746/p05
   match: '^rg(\d+)-(\d+)/p(\d+)$'
   link: https://catalog.archives.gov/id/{2}?objectPage={3}
   note: >-
     The page is the catalog's object page (the scan's position in the item). The number after
-    "rg" is the record group the item was filed under when it was transcribed; the catalog's own
-    title and series for each item are in citations.json. The series are listed below.
+    "rg" is the item's record group as the catalog gives it (38 for the Navy's war patrol reports and
+    war diaries, 64 for the Army's morning reports on microfilm, 24 for muster rolls, 92 for Missing
+    Air Crew Reports); the catalog's own title, series and record group for each item are in
+    citations.json, and check_sources.py fails a citation whose prefix disagrees with them. The series are listed below.
 
 nara-war-patrol-reports:
   title: U.S. Submarine War Patrol Reports, 1941–1945
   by: Office of the Chief of Naval Operations
   kind: record
   of: us
-  held: NARA, series 305243; microfilm publication M1752 (scans by Fold3)
+  held: NARA, Record Group 38, series 305243; microfiche publication M1752 (scans by Fold3)
   id: NAID 305243
   url: https://catalog.archives.gov/id/305243
   rights: Public domain

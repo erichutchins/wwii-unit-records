@@ -80,7 +80,7 @@ boats:
       6: { status: mapped, nara: [74802934], first_fix: 1945-03-25, last_fix: 1945-05-18, files: [positions, depths, layers, japanese], note: "full report: tables, narrative, attack sheets" }
   SS-393:   # QUEENFISH, Balao class
     folder: boats/ss-393-queenfish
-    note: "group commander of 17.21 with PICUDA and BARB, Oct - Dec 1944 (rg367-74835166/p03). Other folders: 74835103 (Aug - Oct 1944), 74835203 (Dec 1944 - Jan 1945), 74835243 (Feb - Apr 1945), 74835280 (Jun - Jul 1945); war diaries' copies 139759087 (first), 139783484 (second), 633435562 (fourth), 101781465 (fifth)"
+    note: "group commander of 17.21 with PICUDA and BARB, Oct - Dec 1944 (rg38-74835166/p03). Other folders: 74835103 (Aug - Oct 1944), 74835203 (Dec 1944 - Jan 1945), 74835243 (Feb - Apr 1945), 74835280 (Jun - Jul 1945); war diaries' copies 139759087 (first), 139783484 (second), 633435562 (fourth), 101781465 (fifth)"
     patrols:
       2: { status: mapped, nara: [74835166, 139783484], first_fix: 1944-11-04, last_fix: 1944-11-28, files: [positions, japanese, claims, attacks], note: "27 Oct - 2 Dec 1944 (the report's 'Second War Patrol', p01, p03), Area 9 (East China Sea) with PICUDA and BARB; the narrative (p03-p09) types no positions: the track is the aircraft contacts (p12) and the four attack sheets (p13-p20, attacks 1-4, 20 torpedoes), with the ship contacts (p11) as targets. Pack summary p28. 139783484 is the war diaries' copy" }
   SS-395:   # REDFISH, Balao class
@@ -98,13 +98,13 @@ boats:
   # BANG's other pack-mates (guides/FLEET.md)
   SS-279:   # SNOOK, Gato class
     folder: boats/ss-279-snook
-    note: "sailed from Guam with BANG and BURRFISH on 25 Mar 1945; BURRFISH's report: \"2328 SNOOK left formation to return to port; BURRFISH assumed command of pack\" (rg367-74809762/p03)"
+    note: "sailed from Guam with BANG and BURRFISH on 25 Mar 1945; BURRFISH's report: \"2328 SNOOK left formation to return to port; BURRFISH assumed command of pack\" (rg38-74809762/p03)"
     patrols:
       8: { status: mapped, nara: [74850126, 139895817], first_fix: 1945-01-10, last_fix: 1945-02-08, files: [positions], note: "31 Dec 1944 - 17 Feb 1945; the catalog title is blank, the pages are headed EIGHTH (139895817 is a second copy). The Kurils and the Okhotsk Sea, with THREADFIN to Midway; no attacks, no position table: positions from the contact tables, the radar countermeasures log and the narrative" }
       9: { status: missing, note: "searched 2026-10-22: no ninth-patrol folder in the war patrol reports (series 305243) or the war diaries (4697018); the eighth is the last" }
   SS-398:   # SEGUNDO, Balao class
     folder: boats/ss-398-segundo
-    note: "with BANG at Saipan, May 1945: BANG joined her, JACK and the escort on 8 May for the run in; on 9 May 1600(K) the three sailed together, SEGUNDO and JACK for their patrol area, until 2120(K), \"BAKER BANG left formation and set Course for Pearl\" (rg367-74847780/p04-p05)"
+    note: "with BANG at Saipan, May 1945: BANG joined her, JACK and the escort on 8 May for the run in; on 9 May 1600(K) the three sailed together, SEGUNDO and JACK for their patrol area, until 2120(K), \"BAKER BANG left formation and set Course for Pearl\" (rg38-74847780/p04-p05)"
     patrols:
       1: { status: available, nara: [74847624, 78657136], note: "Aug - Oct 1944 (78657136 is the war diaries' copy)" }
       2: { status: available, nara: [74847670, 139830869], note: "Nov 1944 - Jan 1945 (139830869 is the war diaries' copy)" }
@@ -150,7 +150,7 @@ boats:
       6: { status: available, nara: [74830971, 633441992], note: "Mar - May 1945 (633441992 is the war diaries' copy)" }
   SS-220:   # BARB, Gato class
     folder: boats/ss-220-barb
-    note: "17.21 with QUEENFISH (group commander) and PICUDA, Oct - Nov 1944: 'Departed Majuro enroute SAIPAN in company with QUEENFISH, PICUDA and U.S.S. GREINER (Escort) ... Group commander, Commanding Officer QUEENFISH' (rg367-74803310/p03). Other folders: 74802977 (Oct 1942 - Mar 1943), 74803045 (Apr - Nov 1943), 74803096 (Mar - Apr 1944), 74803181 (May - Jul 1944), 74803239 (Aug - Oct 1944), 74803362 (Dec 1944 - Feb 1945), 74803425 (Jun - Aug 1945); war diaries' copies 633392359 (ninth), 139772945 (tenth), 139900856 (eleventh), 83543473 (twelfth)"
+    note: "17.21 with QUEENFISH (group commander) and PICUDA, Oct - Nov 1944: 'Departed Majuro enroute SAIPAN in company with QUEENFISH, PICUDA and U.S.S. GREINER (Escort) ... Group commander, Commanding Officer QUEENFISH' (rg38-74803310/p03). Other folders: 74802977 (Oct 1942 - Mar 1943), 74803045 (Apr - Nov 1943), 74803096 (Mar - Apr 1944), 74803181 (May - Jul 1944), 74803239 (Aug - Oct 1944), 74803362 (Dec 1944 - Feb 1945), 74803425 (Jun - Aug 1945); war diaries' copies 633392359 (ninth), 139772945 (tenth), 139900856 (eleventh), 83543473 (twelfth)"
     patrols:
       10: { status: mapped, nara: [74803310, 139772945], first_fix: 1944-11-04, last_fix: 1944-11-19, files: [positions, japanese, claims, attacks], note: "27 Oct - 25 Nov 1944 (the report's 'Tenth War Patrol', p01, p03), Majuro - Saipan - Area 9 (East China Sea) - Midway, with QUEENFISH and PICUDA; the narrative (p03-p19, times ITEM) types no positions: the track is the aircraft contacts (p21-p24), with the ship contacts (p20) as targets. Six attack sheets (p25-p30: 1, 2, 2-D, 3, 4, 5; 24 torpedoes) and the gun attack sheet (p32); four sheets type the ship contact's position, not a fix at firing. 139772945 is the war diaries' copy (not checked)" }
 

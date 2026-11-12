@@ -86,7 +86,7 @@
     "lat_raw": "07-06N",
     "lon_raw": "171-22E",
     "local": "1945-01-06 0930(M)",
-    "page": "rg367-74850282/p03",
+    "page": "rg38-74850282/p03",
     "note": "Underway for SAIPAN with POMPON, ATULE and JALLAO as Coordinated Attack Group 17.23, CO SPADEFISH group commander (port position; the entry has no date header, date from \"readiness for sea 6 January\")",
     "fix": ""
    },
@@ -109,7 +109,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-01-14 1144(K)",
-    "page": "rg367-74850282/p04",
+    "page": "rg38-74850282/p04",
     "note": "Moored to port side of FULTON in SAIPAN. Received word that BANG would replace JALLAO in the task group (port position)",
     "fix": ""
    },
@@ -132,7 +132,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-01-15 0959(K)",
-    "page": "rg367-74850282/p04",
+    "page": "rg38-74850282/p04",
     "note": "Underway enroute patrol area in company with BANG and ATULE of Task Group 17.23; POMPON delayed one day; DEVILFISH in company until 17 Jan (port position)",
     "fix": ""
    },
@@ -155,7 +155,7 @@
     "lat_raw": "30-50N",
     "lon_raw": "128-35E",
     "local": "1945-01-21 0858(I)",
-    "page": "rg367-74850282/p22",
+    "page": "rg38-74850282/p22",
     "note": "Patrol boat 16000 yds; high periscope (table has no zone; narrative on I since 16 Jan)",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -178,7 +178,7 @@
     "lat_raw": "31-09N",
     "lon_raw": "128-27E",
     "local": "1945-01-21 1615(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Rufe 6 mi; lookout (table has no zone; narrative on I)",
     "fix": ""
    },
@@ -201,7 +201,7 @@
     "lat_raw": "32-24N",
     "lon_raw": "126-38E",
     "local": "1945-01-22 0850(I)",
-    "page": "rg367-74850282/p22",
+    "page": "rg38-74850282/p22",
     "note": "Patrol boats (2) 16000 yds; patrolling area between SAISHU TO and DANJO GUNTO",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -224,7 +224,7 @@
     "lat_raw": "32-25N",
     "lon_raw": "125-21E",
     "local": "1945-01-24 1452(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Sally 6 mi; lookout",
     "fix": ""
    },
@@ -247,7 +247,7 @@
     "lat_raw": "32-13N",
     "lon_raw": "126-03E",
     "local": "1945-01-24 1753(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Unknown 10 mi; dropped one depth bomb (narrative logs the sighting at 1735 and the bomb at 1749)",
     "fix": ""
    },
@@ -270,7 +270,7 @@
     "lat_raw": "34-02N",
     "lon_raw": "123-46E",
     "local": "1945-01-27 2315(I)",
-    "page": "rg367-74850282/p22",
+    "page": "rg38-74850282/p22",
     "note": "4 AKs, 4 PC escorts 18000 yds; convoy headed west across Yellow Sea (reported by POMPON); Attacks 1 and 2",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -293,7 +293,7 @@
     "lat_raw": "33-56N",
     "lon_raw": "123-06E",
     "local": "1945-01-28 0231(I)",
-    "page": "rg367-74850282/p24",
+    "page": "rg38-74850282/p24",
     "note": "Torpedo attack No. 1: 3 fired forward at large AK leading starboard column, 750 yds; claims 1 large AK (EU) sunk, three hits",
     "fix": ""
    },
@@ -316,7 +316,7 @@
     "lat_raw": "33-56N",
     "lon_raw": "123-06E",
     "local": "1945-01-28 0233(I)",
-    "page": "rg367-74850282/p26",
+    "page": "rg38-74850282/p26",
     "note": "Torpedo attack No. 2: 4 fired aft at engine-aft AK leading port column; one timed hit, one possible dud; claims AK (EU) damaged or probably sunk (burned until about 0800)",
     "fix": ""
    },
@@ -339,7 +339,7 @@
     "lat_raw": "33-31.1N",
     "lon_raw": "123-16E",
     "local": "1945-01-28 1442(I)",
-    "page": "rg367-74850282/p22",
+    "page": "rg38-74850282/p22",
     "note": "Patrol boat 16000 yds; patrolling area west of KOKUZAN TO (narrative logs it at 1441)",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -362,7 +362,7 @@
     "lat_raw": "34-13N",
     "lon_raw": "122-39E",
     "local": "1945-01-31 0345(I)",
-    "page": "rg367-74850282/p22",
+    "page": "rg38-74850282/p22",
     "note": "3 AKs 4 escorts 17800 yds; radar; convoy headed west across Yellow Sea (sighted by China plane); Attack 3",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -386,7 +386,7 @@
     "lon_raw": "122-28E",
     "typed": "34-13N 123-28E",
     "local": "1945-01-31 0452(I)",
-    "page": "rg367-74850282/p28",
+    "page": "rg38-74850282/p28",
     "note": "Torpedo attack No. 3: 6 bow tubes at convoy, 1800 yds; first torpedo exploded after 20 s, believed to hit an escort; claims 1 PC sunk",
     "fix": "sheet types 123-28E; Ship 5 put the convoy at 122-39E 67 min earlier on course 260 at 9 kt, and the narrative has SPADEFISH near the convoy turning point off the China coast (about 122-30E) with the 20-fathom bank 6 miles ahead; one degree typed wrong"
    },
@@ -409,7 +409,7 @@
     "lat_raw": "35-11N",
     "lon_raw": "124-12E",
     "local": "1945-01-31 1747(I)",
-    "page": "rg367-74850282/p22",
+    "page": "rg38-74850282/p22",
     "note": "Patrol boat 18000 yds; patrolling west of KO TO",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -432,7 +432,7 @@
     "lat_raw": "35-34N",
     "lon_raw": "126-02E",
     "local": "1945-02-01 1332(I)",
-    "page": "rg367-74850282/p22",
+    "page": "rg38-74850282/p22",
     "note": "Patrol boat 8000 yds; patrolling west of AMMA TO",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -455,7 +455,7 @@
     "lat_raw": "37-07N",
     "lon_raw": "125-14E",
     "local": "1945-02-02 1124(I)",
-    "page": "rg367-74850282/p22",
+    "page": "rg38-74850282/p22",
     "note": "Type typed \"2 ?'s\" (smudged; the narrative says two ships) 16000 yds; one AK entered SEKIMO SUIDO, the other proceeded down the coast; Attack 4",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -478,7 +478,7 @@
     "lat_raw": "37-08N",
     "lon_raw": "127-42E",
     "local": "1945-02-02 1348(I)",
-    "page": "rg367-74850282/p30",
+    "page": "rg38-74850282/p30",
     "note": "Torpedo attack No. 4: 4 bow torpedoes at medium AK, 2340 yds; no explosions; claims none",
     "fix": "sheet types 1 February; the narrative (p14) and Ship 8 put the attack on 2 Feb. Longitude 127-42E is inland Korea, 2.5 degrees east of Ship 8 (125-14E, 2 h 24 min earlier) and Ship 9 (125-20E next day); error not identified. The narrative (p14) fires four bow torpedoes at 1348 I on 2 Feb but gives no position (submerged at 1248 with HAKUGO TO 12.5 miles distant)"
    },
@@ -501,7 +501,7 @@
     "lat_raw": "37-15N",
     "lon_raw": "125-20E",
     "local": "1945-02-03 1302(I)",
-    "page": "rg367-74850282/p22",
+    "page": "rg38-74850282/p22",
     "note": "Unknown 20000 yds; smoke only; ship passing over 4-5 fathom bank",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -524,7 +524,7 @@
     "lat_raw": "37-16N",
     "lon_raw": "125-20E",
     "local": "1945-02-04 1503(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "AK 20000 yds; proceeding down 10-fathom curve off SEKIMO SUIDO; Attack 5",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -547,7 +547,7 @@
     "lat_raw": "37-17N",
     "lon_raw": "125-22E",
     "local": "1945-02-04 1520(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Unknown 20000 yds; smoke only; ship over 5-fathom bank",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -570,7 +570,7 @@
     "lat_raw": "37-18N",
     "lon_raw": "125-22E",
     "local": "1945-02-04 1654(I)",
-    "page": "rg367-74850282/p32",
+    "page": "rg38-74850282/p32",
     "note": "Torpedo attack No. 5: 3 bow at 1500 yds (last hit the stern), then 1 Mk 18 stern at 650 yds at 1707 (hit amidships); sank 1728; claims 1 AK (EC) sunk, similar to ANZAN MARU; POW called her TAIDAI MARU 4375 tons",
     "fix": ""
    },
@@ -593,7 +593,7 @@
     "lat_raw": "37-21N",
     "lon_raw": "125-10E",
     "local": "1945-02-05 0940(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Patrol boat 18000 yds; patrolling area west of scene of Attack 5",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -616,7 +616,7 @@
     "lat_raw": "38-40N",
     "lon_raw": "121-14E",
     "local": "1945-02-06 1001(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Patrol boat 18000 yds; sound; patrolling between PORT ARTHUR and DAIREN",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -639,7 +639,7 @@
     "lat_raw": "38-41N",
     "lon_raw": "121-23E",
     "local": "1945-02-06 1208(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "2 AKs 16000 yds; headed from DAIREN to TIENTSIN; Attack 6",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -662,7 +662,7 @@
     "lat_raw": "38-44N",
     "lon_raw": "121-23E",
     "local": "1945-02-06 1315(I)",
-    "page": "rg367-74850282/p34",
+    "page": "rg38-74850282/p34",
     "note": "Torpedo attack No. 6: 3 Mk 18 stern tubes at 1480 yds; hit 1321, sank 1326, 5 miles from PORT ARTHUR; claims 1 medium AK (EU) sunk, like GENZAN MARU but smaller (about 4000 tons)",
     "fix": ""
    },
@@ -685,7 +685,7 @@
     "lat_raw": "38-40N",
     "lon_raw": "121-27E",
     "local": "1945-02-06 1503(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Rufe 3 mi; periscope (seven depth charges followed from 1639)",
     "fix": ""
    },
@@ -708,7 +708,7 @@
     "lat_raw": "36-10N",
     "lon_raw": "123-46E",
     "local": "1945-02-07 0622(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Patrol boat 9340 yds; radar; southerly course",
     "fix": "ship-contact positions are the target, not SPADEFISH"
    },
@@ -731,7 +731,7 @@
     "lat_raw": "34-34N",
     "lon_raw": "124-15E",
     "local": "1945-02-07 1344(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Nell 10 mi; OOD",
     "fix": ""
    },
@@ -754,7 +754,7 @@
     "lat_raw": "30-59N",
     "lon_raw": "128-29E",
     "local": "1945-02-08 1136(I)",
-    "page": "rg367-74850282/p23",
+    "page": "rg38-74850282/p23",
     "note": "Rufe (3) 8 mi; lookout",
     "fix": ""
    },
@@ -777,7 +777,7 @@
     "lat_raw": "13-27N",
     "lon_raw": "144-38E",
     "local": "1945-02-13 1200(I)",
-    "page": "rg367-74850282/p20",
+    "page": "rg38-74850282/p20",
     "note": "Met escort 0445 and DEVILFISH 0640, proceeded to GUAM (arrival time not given; noon assumed; Apra Harbor; zone I, no clock change logged after 16 Jan)",
     "fix": ""
    },

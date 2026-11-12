@@ -22,19 +22,19 @@ from: 1945-04-18
 from_basis: reported
 to: 1945-08-29
 to_basis: reported
-dates_ref: [rg367-83572565/p0002, rg24-190273312/p0835]
+dates_ref: [rg38-83572565/p0002, rg24-190273312/p0835]
 built:
   - Roads, maintained and built, and a bridge
   - Waterfront facilities, and pontoon barges maintained
   - Work on an advanced base construction depot on Katchin Hanto
-sources: [rg367-83572565/p0002, ncbhist-020/p9, ncbhist-036/p9, bases-30, rg24-190273312/p0835]
+sources: [rg38-83572565/p0002, ncbhist-020/p9, ncbhist-036/p9, bases-30, rg24-190273312/p0835]
 film: [okinawa-seabees-unload-lsts-1945-05-07]
 ---
 
 ## Built
 
 The first echelon came ashore on Gushikawa Beach, Chimu Wan, on 18 April 1945; by 20 April the 36th Battalion was
-improving the "road between our camp and that of 20th NCB". [[cite:rg367-83572565/p0002]] [[cite:ncbhist-036/p9]]
+improving the "road between our camp and that of 20th NCB". [[cite:rg38-83572565/p0002]] [[cite:ncbhist-036/p9]]
 
 The battalion's narrative, written afterwards: "On Okinawa the 20th NCB constructed and maintained roads, built a
 bridge, constructed waterfront facilities, maintained pontoon barges and worked on the Awashi Airfield, as well as an

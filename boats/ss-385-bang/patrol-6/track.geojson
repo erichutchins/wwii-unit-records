@@ -286,7 +286,7 @@
     "lat_raw": "13-27N",
     "lon_raw": "144-38E",
     "local": "1945-03-25 1400(I)",
-    "page": "rg367-74802934/p03",
+    "page": "rg38-74802934/p03",
     "note": "Underway from Guam with SNOOK and BURRFISH (port position; zone Item per narrative)",
     "fix": ""
    },
@@ -309,7 +309,7 @@
     "lat_raw": "15-55N",
     "lon_raw": "140-00E",
     "local": "1945-03-26 1200(I)",
-    "page": "rg367-74802934/p04",
+    "page": "rg38-74802934/p04",
     "note": "",
     "fix": ""
    },
@@ -332,7 +332,7 @@
     "lat_raw": "18-49N",
     "lon_raw": "136-41E",
     "local": "1945-03-27 1200(I)",
-    "page": "rg367-74802934/p04",
+    "page": "rg38-74802934/p04",
     "note": "",
     "fix": ""
    },
@@ -355,7 +355,7 @@
     "lat_raw": "20-45N",
     "lon_raw": "131-30E",
     "local": "1945-03-28 1200(I)",
-    "page": "rg367-74802934/p04",
+    "page": "rg38-74802934/p04",
     "note": "",
     "fix": ""
    },
@@ -378,7 +378,7 @@
     "lat_raw": "21-51N",
     "lon_raw": "126-51E",
     "local": "1945-03-29 1200(I)",
-    "page": "rg367-74802934/p04",
+    "page": "rg38-74802934/p04",
     "note": "",
     "fix": ""
    },
@@ -401,7 +401,7 @@
     "lat_raw": "20-05N",
     "lon_raw": "122-14E",
     "local": "1945-03-30 1200(I)",
-    "page": "rg367-74802934/p05",
+    "page": "rg38-74802934/p05",
     "note": "Submerged on station in Luzon Strait",
     "fix": ""
    },
@@ -424,7 +424,7 @@
     "lat_raw": "19-42N",
     "lon_raw": "122-18E",
     "local": "1945-03-31 1200(I)",
-    "page": "rg367-74802934/p05",
+    "page": "rg38-74802934/p05",
     "note": "",
     "fix": ""
    },
@@ -447,7 +447,7 @@
     "lat_raw": "19-18N",
     "lon_raw": "121-01E",
     "local": "1945-04-01 1200(I)",
-    "page": "rg367-74802934/p05",
+    "page": "rg38-74802934/p05",
     "note": "",
     "fix": ""
    },
@@ -470,7 +470,7 @@
     "lat_raw": "19-17N",
     "lon_raw": "121-02E",
     "local": "1945-04-02 1200(I)",
-    "page": "rg367-74802934/p06",
+    "page": "rg38-74802934/p06",
     "note": "",
     "fix": ""
    },
@@ -493,7 +493,7 @@
     "lat_raw": "20-14N",
     "lon_raw": "121-36E",
     "local": "1945-04-03 1200(I)",
-    "page": "rg367-74802934/p06",
+    "page": "rg38-74802934/p06",
     "note": "",
     "fix": ""
    },
@@ -516,7 +516,7 @@
     "lat_raw": "20-15N",
     "lon_raw": "122-14E",
     "local": "1945-04-04 1200(I)",
-    "page": "rg367-74802934/p06",
+    "page": "rg38-74802934/p06",
     "note": "",
     "fix": ""
    },
@@ -539,7 +539,7 @@
     "lat_raw": "19-47N",
     "lon_raw": "122-22E",
     "local": "1945-04-05 1200(I)",
-    "page": "rg367-74802934/p06",
+    "page": "rg38-74802934/p06",
     "note": "",
     "fix": ""
    },
@@ -562,7 +562,7 @@
     "lat_raw": "19-29N",
     "lon_raw": "122-19E",
     "local": "1945-04-06 1200(I)",
-    "page": "rg367-74802934/p06",
+    "page": "rg38-74802934/p06",
     "note": "",
     "fix": ""
    },
@@ -585,7 +585,7 @@
     "lat_raw": "18-52N",
     "lon_raw": "122-29E",
     "local": "1945-04-07 1200(I)",
-    "page": "rg367-74802934/p07",
+    "page": "rg38-74802934/p07",
     "note": "",
     "fix": ""
    },
@@ -608,7 +608,7 @@
     "lat_raw": "18-58N",
     "lon_raw": "122-29E",
     "local": "1945-04-08 1200(I)",
-    "page": "rg367-74802934/p07",
+    "page": "rg38-74802934/p07",
     "note": "",
     "fix": ""
    },
@@ -631,7 +631,7 @@
     "lat_raw": "20-04N",
     "lon_raw": "121-35E",
     "local": "1945-04-09 1200(I)",
-    "page": "rg367-74802934/p07",
+    "page": "rg38-74802934/p07",
     "note": "",
     "fix": ""
    },
@@ -654,7 +654,7 @@
     "lat_raw": "21-32N",
     "lon_raw": "122-06E",
     "local": "1945-04-10 1200(I)",
-    "page": "rg367-74802934/p07",
+    "page": "rg38-74802934/p07",
     "note": "Submerged in Bashi Channel; longitude digit faded (12?-06E)",
     "fix": ""
    },
@@ -677,7 +677,7 @@
     "lat_raw": "23-19N",
     "lon_raw": "121-55E",
     "local": "1945-04-11 1200(I)",
-    "page": "rg367-74802934/p08",
+    "page": "rg38-74802934/p08",
     "note": "Lifeguard station east of Formosa for British carrier strikes",
     "fix": ""
    },
@@ -700,7 +700,7 @@
     "lat_raw": "23-35N",
     "lon_raw": "121-47E",
     "local": "1945-04-12 1200(I)",
-    "page": "rg367-74802934/p08",
+    "page": "rg38-74802934/p08",
     "note": "",
     "fix": ""
    },
@@ -723,7 +723,7 @@
     "lat_raw": "23-18N",
     "lon_raw": "121-55E",
     "local": "1945-04-13 1200(I)",
-    "page": "rg367-74802934/p08",
+    "page": "rg38-74802934/p08",
     "note": "News of President Roosevelt's death received 1400",
     "fix": ""
    },
@@ -746,7 +746,7 @@
     "lat_raw": "23-45N",
     "lon_raw": "122-00E",
     "local": "1945-04-14 1200(I)",
-    "page": "rg367-74802934/p09",
+    "page": "rg38-74802934/p09",
     "note": "",
     "fix": ""
    },
@@ -769,7 +769,7 @@
     "lat_raw": "25-05N",
     "lon_raw": "122-39E",
     "local": "1945-04-16 1200(I)",
-    "page": "rg367-74802934/p10",
+    "page": "rg38-74802934/p10",
     "note": "",
     "fix": ""
    },
@@ -792,7 +792,7 @@
     "lat_raw": "23-02N",
     "lon_raw": "121-52E",
     "local": "1945-04-17 1200(I)",
-    "page": "rg367-74802934/p10",
+    "page": "rg38-74802934/p10",
     "note": "Lifeguard for 5th Air Force strike",
     "fix": ""
    },
@@ -815,7 +815,7 @@
     "lat_raw": "24-11N",
     "lon_raw": "122-23E",
     "local": "1945-04-18 0400(I)",
-    "page": "rg367-74802934/p35",
+    "page": "rg38-74802934/p35",
     "note": "Radar intercept 80 MC (Section U)",
     "fix": ""
    },
@@ -838,7 +838,7 @@
     "lat_raw": "24-35N",
     "lon_raw": "122-38E",
     "local": "1945-04-18 1200(I)",
-    "page": "rg367-74802934/p10",
+    "page": "rg38-74802934/p10",
     "note": "",
     "fix": ""
    },
@@ -861,7 +861,7 @@
     "lat_raw": "24-23N",
     "lon_raw": "122-37E",
     "local": "1945-04-18 1930(I)",
-    "page": "rg367-74802934/p35",
+    "page": "rg38-74802934/p35",
     "note": "Radar intercepts, same as 2230 13 Apr and 0400 18 Apr (Section U)",
     "fix": ""
    },
@@ -884,7 +884,7 @@
     "lat_raw": "24-00N",
     "lon_raw": "122-23E",
     "local": "1945-04-19 0500(I)",
-    "page": "rg367-74802934/p35",
+    "page": "rg38-74802934/p35",
     "note": "Radar intercept, same as 2230 13 Apr (Section U)",
     "fix": ""
    },
@@ -907,7 +907,7 @@
     "lat_raw": "24-08N",
     "lon_raw": "122-30E",
     "local": "1945-04-19 1200(I)",
-    "page": "rg367-74802934/p11",
+    "page": "rg38-74802934/p11",
     "note": "Floating mine sunk by gunfire 1320",
     "fix": ""
    },
@@ -930,7 +930,7 @@
     "lat_raw": "24-10N",
     "lon_raw": "122-25E",
     "local": "1945-04-19 1600(I)",
-    "page": "rg367-74802934/p35",
+    "page": "rg38-74802934/p35",
     "note": "Radar intercepts, same as 2230 13 Apr, 0400 18 Apr, 1930 14 Apr (Section U)",
     "fix": ""
    },
@@ -953,7 +953,7 @@
     "lat_raw": "24-05N",
     "lon_raw": "122-06E",
     "local": "1945-04-20 1200(I)",
-    "page": "rg367-74802934/p11",
+    "page": "rg38-74802934/p11",
     "note": "",
     "fix": ""
    },
@@ -976,7 +976,7 @@
     "lat_raw": "24-34N",
     "lon_raw": "122-47E",
     "local": "1945-04-21 1200(I)",
-    "page": "rg367-74802934/p12",
+    "page": "rg38-74802934/p12",
     "note": "1415 ordered to Sakishima Gunto to search for downed aviators",
     "fix": ""
    },
@@ -999,7 +999,7 @@
     "lat_raw": "24-06N",
     "lon_raw": "125-14E",
     "local": "1945-04-21 2200(I)",
-    "page": "rg367-74802934/p35",
+    "page": "rg38-74802934/p35",
     "note": "Radar intercepts 156 MC and a possible land-based beacon (Section U, two entries at this time and position)",
     "fix": "Typed 125-14E (both entries) puts BANG 40 nm south of Miyako-jima, but the narrative (p12) has her southwest of Iriomote-jima at 2150 and arriving southeast of Ishigaki-jima at 2330; 123-14E would fit the first but not the second. Unresolved, so kept off the track"
    },
@@ -1022,7 +1022,7 @@
     "lat_raw": "24-03N",
     "lon_raw": "124-16E",
     "local": "1945-04-22 1200(I)",
-    "page": "rg367-74802934/p13",
+    "page": "rg38-74802934/p13",
     "note": "0737 rescued Ens. Donald E. Corzine (USS CHENANGO Hellcat pilot) after 14 h in the water (account on report page 12)",
     "fix": ""
    },
@@ -1045,7 +1045,7 @@
     "lat_raw": "24-01N",
     "lon_raw": "124-12E",
     "local": "1945-04-22 1200(I)",
-    "page": "rg367-74802934/p36",
+    "page": "rg38-74802934/p36",
     "note": "Radar intercept 104 MC (Section U); the narrative's noon position is 24-03N 124-16E",
     "fix": ""
    },
@@ -1068,7 +1068,7 @@
     "lat_raw": "24-40N",
     "lon_raw": "122-37E",
     "local": "1945-04-23 1200(I)",
-    "page": "rg367-74802934/p14",
+    "page": "rg38-74802934/p14",
     "note": "",
     "fix": ""
    },
@@ -1091,7 +1091,7 @@
     "lat_raw": "24-20N",
     "lon_raw": "122-32E",
     "local": "1945-04-23 1500(I)",
-    "page": "rg367-74802934/p36",
+    "page": "rg38-74802934/p36",
     "note": "Radar intercepts, same as 2230 13 Apr and 0400 18 Apr (Section U)",
     "fix": ""
    },
@@ -1114,7 +1114,7 @@
     "lat_raw": "24-38N",
     "lon_raw": "122-27E",
     "local": "1945-04-23 2220(I)",
-    "page": "rg367-74802934/p36",
+    "page": "rg38-74802934/p36",
     "note": "Radar intercept 155 MC, came on suddenly; plane contact on the SJ shortly after (Section U)",
     "fix": ""
    },
@@ -1137,7 +1137,7 @@
     "lat_raw": "24-24N",
     "lon_raw": "122-35E",
     "local": "1945-04-24 0530(I)",
-    "page": "rg367-74802934/p36",
+    "page": "rg38-74802934/p36",
     "note": "Radar intercept 70 MC (Section U)",
     "fix": ""
    },
@@ -1161,7 +1161,7 @@
     "lon_raw": "122-35E",
     "typed": "24-24E 122-35E",
     "local": "1945-04-24 0545(I)",
-    "page": "rg367-74802934/p36",
+    "page": "rg38-74802934/p36",
     "note": "Radar intercept, same as 2230 13 Apr (Section U)",
     "fix": "latitude typed with E; 24-24N as in the 0530 entry at the same position"
    },
@@ -1184,7 +1184,7 @@
     "lat_raw": "24-31N",
     "lon_raw": "122-40E",
     "local": "1945-04-24 1200(I)",
-    "page": "rg367-74802934/p14",
+    "page": "rg38-74802934/p14",
     "note": "",
     "fix": ""
    },
@@ -1207,7 +1207,7 @@
     "lat_raw": "24-18N",
     "lon_raw": "122-34E",
     "local": "1945-04-25 1200(I)",
-    "page": "rg367-74802934/p14",
+    "page": "rg38-74802934/p14",
     "note": "",
     "fix": ""
    },
@@ -1230,7 +1230,7 @@
     "lat_raw": "24-28N",
     "lon_raw": "122-37E",
     "local": "1945-04-25 2000(I)",
-    "page": "rg367-74802934/p36",
+    "page": "rg38-74802934/p36",
     "note": "Radar intercept 80 MC (Section U)",
     "fix": ""
    },
@@ -1253,7 +1253,7 @@
     "lat_raw": "24-25N",
     "lon_raw": "122-36E",
     "local": "1945-04-26 1200(I)",
-    "page": "rg367-74802934/p14",
+    "page": "rg38-74802934/p14",
     "note": "",
     "fix": ""
    },
@@ -1276,7 +1276,7 @@
     "lat_raw": "24-11N",
     "lon_raw": "122-23E",
     "local": "1945-04-27 1200(I)",
-    "page": "rg367-74802934/p15",
+    "page": "rg38-74802934/p15",
     "note": "",
     "fix": ""
    },
@@ -1299,7 +1299,7 @@
     "lat_raw": "24-24N",
     "lon_raw": "122-36E",
     "local": "1945-04-28 1200(I)",
-    "page": "rg367-74802934/p15",
+    "page": "rg38-74802934/p15",
     "note": "1745 dive-bombed by a Val northwest of Yonaguni Jima",
     "fix": ""
    },
@@ -1322,7 +1322,7 @@
     "lat_raw": "22-48N",
     "lon_raw": "121-37E",
     "local": "1945-04-29 1200(I)",
-    "page": "rg367-74802934/p16",
+    "page": "rg38-74802934/p16",
     "note": "",
     "fix": ""
    },
@@ -1345,7 +1345,7 @@
     "lat_raw": "22-49N",
     "lon_raw": "121-32E",
     "local": "1945-04-30 1200(I)",
-    "page": "rg367-74802934/p16",
+    "page": "rg38-74802934/p16",
     "note": "",
     "fix": ""
    },
@@ -1368,7 +1368,7 @@
     "lat_raw": "22-32N",
     "lon_raw": "121-25E",
     "local": "1945-05-01 1200(I)",
-    "page": "rg367-74802934/p16",
+    "page": "rg38-74802934/p16",
     "note": "",
     "fix": ""
    },
@@ -1391,7 +1391,7 @@
     "lat_raw": "22-55N",
     "lon_raw": "121-45E",
     "local": "1945-05-02 1200(I)",
-    "page": "rg367-74802934/p17",
+    "page": "rg38-74802934/p17",
     "note": "0800 felt an earthquake while submerged",
     "fix": ""
    },
@@ -1414,7 +1414,7 @@
     "lat_raw": "21-46N",
     "lon_raw": "121-49E",
     "local": "1945-05-03 1200(I)",
-    "page": "rg367-74802934/p17",
+    "page": "rg38-74802934/p17",
     "note": "Departed area 1948",
     "fix": ""
    },
@@ -1437,7 +1437,7 @@
     "lat_raw": "20-37N",
     "lon_raw": "125-39E",
     "local": "1945-05-04 1200(I)",
-    "page": "rg367-74802934/p17",
+    "page": "rg38-74802934/p17",
     "note": "Floating mine exploded by gunfire 1100",
     "fix": ""
    },
@@ -1460,7 +1460,7 @@
     "lat_raw": "20-46N",
     "lon_raw": "132-21E",
     "local": "1945-05-05 1200(I)",
-    "page": "rg367-74802934/p17",
+    "page": "rg38-74802934/p17",
     "note": "",
     "fix": ""
    },
@@ -1483,7 +1483,7 @@
     "lat_raw": "18-00N",
     "lon_raw": "137-45E",
     "local": "1945-05-06 1200(I)",
-    "page": "rg367-74802934/p17",
+    "page": "rg38-74802934/p17",
     "note": "",
     "fix": ""
    },
@@ -1506,7 +1506,7 @@
     "lat_raw": "14-45N",
     "lon_raw": "142-40E",
     "local": "1945-05-07 1200(I)",
-    "page": "rg367-74802934/p18",
+    "page": "rg38-74802934/p18",
     "note": "",
     "fix": ""
    },
@@ -1529,7 +1529,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-05-08 1058(I)",
-    "page": "rg367-74802934/p18",
+    "page": "rg38-74802934/p18",
     "note": "Moored alongside ORION at Saipan (port position)",
     "fix": ""
    },
@@ -1552,7 +1552,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-05-09 1829(M)",
-    "page": "rg367-74802934/p18",
+    "page": "rg38-74802934/p18",
     "note": "Underway with SEGUNDO and JACK (port position)",
     "fix": ""
    },
@@ -1575,7 +1575,7 @@
     "lat_raw": "16-57N",
     "lon_raw": "147-19E",
     "local": "1945-05-10 1200(M)",
-    "page": "rg367-74802934/p19",
+    "page": "rg38-74802934/p19",
     "note": "",
     "fix": ""
    },
@@ -1598,7 +1598,7 @@
     "lat_raw": "18-20N",
     "lon_raw": "152-55E",
     "local": "1945-05-11 1200(M)",
-    "page": "rg367-74802934/p19",
+    "page": "rg38-74802934/p19",
     "note": "",
     "fix": ""
    },
@@ -1621,7 +1621,7 @@
     "lat_raw": "19-26N",
     "lon_raw": "158-47E",
     "local": "1945-05-12 1200(M)",
-    "page": "rg367-74802934/p19",
+    "page": "rg38-74802934/p19",
     "note": "",
     "fix": ""
    },
@@ -1644,7 +1644,7 @@
     "lat_raw": "20-22N",
     "lon_raw": "165-10E",
     "local": "1945-05-13 1200(M)",
-    "page": "rg367-74802934/p19",
+    "page": "rg38-74802934/p19",
     "note": "",
     "fix": ""
    },
@@ -1667,7 +1667,7 @@
     "lat_raw": "20-52N",
     "lon_raw": "172-02E",
     "local": "1945-05-14 1200(M)",
-    "page": "rg367-74802934/p19",
+    "page": "rg38-74802934/p19",
     "note": "",
     "fix": ""
    },
@@ -1690,7 +1690,7 @@
     "lat_raw": "20-50N",
     "lon_raw": "178-45E",
     "local": "1945-05-15 1200(M)",
-    "page": "rg367-74802934/p19",
+    "page": "rg38-74802934/p19",
     "note": "Crossed date line 1630",
     "fix": ""
    },
@@ -1713,7 +1713,7 @@
     "lat_raw": "20-55N",
     "lon_raw": "174-36W",
     "local": "1945-05-15 1200(X)",
-    "page": "rg367-74802934/p19",
+    "page": "rg38-74802934/p19",
     "note": "15 May (repeated) after crossing date line",
     "fix": ""
    },
@@ -1736,7 +1736,7 @@
     "lat_raw": "20-51N",
     "lon_raw": "168-37W",
     "local": "1945-05-16 1200(X)",
-    "page": "rg367-74802934/p20",
+    "page": "rg38-74802934/p20",
     "note": "",
     "fix": ""
    },
@@ -1759,7 +1759,7 @@
     "lat_raw": "20-45N",
     "lon_raw": "163-02W",
     "local": "1945-05-17 1200(W)",
-    "page": "rg367-74802934/p20",
+    "page": "rg38-74802934/p20",
     "note": "",
     "fix": ""
    },
@@ -1782,7 +1782,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1945-05-18 1200(VW)",
-    "page": "rg367-74802934/p20",
+    "page": "rg38-74802934/p20",
     "note": "0600 rendezvous with BASHAW and escort; moored SubBase Pearl (mooring time not given; noon assumed)",
     "fix": ""
    },

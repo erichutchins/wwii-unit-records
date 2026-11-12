@@ -33,8 +33,8 @@
   remarks: >-
     All three torpedoes hit with a 20-second run, proving arming distance. Estimated target draft was 18';
     torpedo depth setting 6'.
-  page: rg367-74850282/p24
-  table_page: rg367-74850282/p25
+  page: rg38-74850282/p24
+  table_page: rg38-74850282/p25
   note: >-
     The description gives the convoy's course 250, speed 11; the target line, at firing, 270 and 13. The type
     attack paragraph puts the estimated range at 1700 yards and the target line at 750; the CSV has the line's 750.
@@ -64,8 +64,8 @@
   remarks: >-
     A sharp crack was heard by everyone in the boat at the time #7 should have hit. There was no explosion. This
     may have been a dud.
-  page: rg367-74850282/p26
-  table_page: rg367-74850282/p27
+  page: rg38-74850282/p26
+  table_page: rg38-74850282/p27
   note: >-
     Tube 7 is typed "Probable" (hit) and "Prob" (erratic), kept as typed; the remarks call it a possible dud. Tubes
     7 and 8 agree with the gyros; tubes 9 and 10 are typed 135S and 154S where own course 355, target course 270 and
@@ -98,8 +98,8 @@
   remarks: >-
     *No. 1 torpedo exploded after 20 second run. An escort was in position to have received this torpedo. The
     explosion was not seen through the periscope.
-  page: rg367-74850282/p28
-  table_page: rg367-74850282/p29
+  page: rg38-74850282/p28
+  table_page: rg38-74850282/p29
   note: >-
     Two ranges are typed, 3300 above 1800 on the range line; the CSV has 1800 (positions.csv cites it too). The
     target is the convoy (course 260, speed 13); the description gives base speed 9 and the type attack paragraph
@@ -125,8 +125,8 @@
   overhaul: USS BUSHNELL
   remarks: >-
     Setup was such that torpedoes should have hit. Heavy seas may have caused erratic depth performance.
-  page: rg367-74850282/p30
-  table_page: rg367-74850282/p31
+  page: rg38-74850282/p30
+  table_page: rg38-74850282/p31
   note: >-
     The sheet's date is 1 February 1945; positions.csv keeps it and fixes it to 2 February from the narrative. The
     typed tracks (112S for gyro 357, as the type attack paragraph also says) are about 25 degrees more than own
@@ -155,8 +155,8 @@
     right of torpedo from tube 4 whose true course should have been the furthest right. The torpedo from #7 tube
     showed a speed of 20 knots for a 650 yard torpedo run. Battery temperature was 44°, sea temperature 31°. Target
     speed was 0-½ knots.
-  page: rg367-74850282/p32
-  table_page: rg367-74850282/p33
+  page: rg38-74850282/p32
+  table_page: rg38-74850282/p33
   note: >-
     The sheet types two solutions: (A) for the bow salvo (tubes 2, 1, 4) and (B) for the stern shot (tube 7); each
     row has its own. The sheet types one time, 1654; positions.csv's note puts the stern shot at 1707. Tube 2's
@@ -183,5 +183,5 @@
   sea: 000° Force 0
   overhaul: USS BUSHNELL
   remarks: None
-  page: rg367-74850282/p34
-  table_page: rg367-74850282/p35
+  page: rg38-74850282/p34
+  table_page: rg38-74850282/p35

@@ -314,7 +314,7 @@
     "lat_raw": "07-06N",
     "lon_raw": "171-22E",
     "local": "1945-01-06 0930(M)",
-    "page": "rg367-74802211/p03",
+    "page": "rg38-74802211/p03",
     "note": "Departed MAJURO with SPADEFISH, POMPON and JALLAO as #3 of UNDERWOOD'S URCHINS; group commander Cdr G. W. UNDERWOOD in SPADEFISH (port position)",
     "fix": ""
    },
@@ -337,7 +337,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-01-14 1135(I)",
-    "page": "rg367-74802211/p03",
+    "page": "rg38-74802211/p03",
     "note": "Moored alongside FULTON, Tanapag Harbor, SAIPAN (port position; zone typed I, though the change to -9 is logged only on 15 Jan)",
     "fix": ""
    },
@@ -360,7 +360,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-01-15 0936(K)",
-    "page": "rg367-74802211/p04",
+    "page": "rg38-74802211/p04",
     "note": "Underway from FULTON; 1026 I formed astern escort PC 1126 with SPADEFISH, BANG and DEVILFISH; POMPON and JALLAO delayed. Changed to zone -9 (I) at 1100 K (port position)",
     "fix": ""
    },
@@ -383,7 +383,7 @@
     "lat_raw": "18-26.5N",
     "lon_raw": "141-08.5E",
     "local": "1945-01-16 1402(I)",
-    "page": "rg367-74802211/p04",
+    "page": "rg38-74802211/p04",
     "note": "Picked up yellow aircraft oxygen bottle while closing a reported raft (survivor search)",
     "fix": ""
    },
@@ -406,7 +406,7 @@
     "lat_raw": "27-14N",
     "lon_raw": "135-24E",
     "local": "1945-01-19 0924(I)",
-    "page": "rg367-74802211/p28",
+    "page": "rg38-74802211/p28",
     "note": "Radio-equipped trawler 16000 yds; A/S or aircraft picket boat. Narrative (p05) gives 27-12N 134-20E and says it was BANG's contact of 0300",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -429,7 +429,7 @@
     "lat_raw": "29-54N",
     "lon_raw": "131-40E",
     "local": "1945-01-20 1715(I)",
-    "page": "rg367-74802211/p37",
+    "page": "rg38-74802211/p37",
     "note": "Radar table (ship's position): 150 mcs medium signal",
     "fix": ""
    },
@@ -452,7 +452,7 @@
     "lat_raw": "29-53N",
     "lon_raw": "131-15E",
     "local": "1945-01-20 1850(I)",
-    "page": "rg367-74802211/p37",
+    "page": "rg38-74802211/p37",
     "note": "Radar table: 155 mcs weak",
     "fix": ""
    },
@@ -475,7 +475,7 @@
     "lat_raw": "29-54N",
     "lon_raw": "131-00E",
     "local": "1945-01-20 1945(I)",
-    "page": "rg367-74802211/p37",
+    "page": "rg38-74802211/p37",
     "note": "Radar table: 159 mcs weak",
     "fix": ""
    },
@@ -498,7 +498,7 @@
     "lat_raw": "29-55N",
     "lon_raw": "130-38E",
     "local": "1945-01-20 2030(I)",
-    "page": "rg367-74802211/p37",
+    "page": "rg38-74802211/p37",
     "note": "Radar table: 148 mcs medium",
     "fix": ""
    },
@@ -521,7 +521,7 @@
     "lat_raw": "30-10N",
     "lon_raw": "130-10E",
     "local": "1945-01-20 2300(I)",
-    "page": "rg367-74802211/p37",
+    "page": "rg38-74802211/p37",
     "note": "Radar table: 159 mcs weak (narrative: passed NANSEI SHOTO south of YAKU SHIMA by 2400 with SPADEFISH and POMPON)",
     "fix": ""
    },
@@ -544,7 +544,7 @@
     "lat_raw": "30-10N",
     "lon_raw": "130-05E",
     "local": "1945-01-20 2320(I)",
-    "page": "rg367-74802211/p37",
+    "page": "rg38-74802211/p37",
     "note": "Radar table: 155 mcs strong",
     "fix": ""
    },
@@ -567,7 +567,7 @@
     "lat_raw": "31-35N",
     "lon_raw": "129-19E",
     "local": "1945-01-21 0008(I)",
-    "page": "rg367-74802211/p37",
+    "page": "rg38-74802211/p37",
     "note": "Radar table: 154 mcs possible aircraft",
     "fix": "94 nm from the 2320 reading 48 min earlier and 71 nm from Air 1 (0240); the 2320 reading, Air 1 and the narrative (NANSEI SHOTO passed south of YAKU SHIMA at 2400) agree; error not identified"
    },
@@ -590,7 +590,7 @@
     "lat_raw": "30-24N",
     "lon_raw": "129-18E",
     "local": "1945-01-21 0240(I)",
-    "page": "rg367-74802211/p30",
+    "page": "rg38-74802211/p30",
     "note": "2 unknown 15 mi; APR 154 mcs",
     "fix": ""
    },
@@ -613,7 +613,7 @@
     "lat_raw": "31-28N",
     "lon_raw": "127-55E",
     "local": "1945-01-21 1030(I)",
-    "page": "rg367-74802211/p37",
+    "page": "rg38-74802211/p37",
     "note": "Radar table: 97 mcs; rotating antenna on DANJO GUNTO",
     "fix": ""
    },
@@ -636,7 +636,7 @@
     "lat_raw": "31-48N",
     "lon_raw": "127-30E",
     "local": "1945-01-21 1156(I)",
-    "page": "rg367-74802211/p30",
+    "page": "rg38-74802211/p30",
     "note": "1 unknown 10 mi; SD",
     "fix": ""
    },
@@ -659,7 +659,7 @@
     "lat_raw": "32-04N",
     "lon_raw": "126-31E",
     "local": "1945-01-21 1644(I)",
-    "page": "rg367-74802211/p28",
+    "page": "rg38-74802211/p28",
     "note": "Two trawlers 16000 yds (narrative: SAISHU TO bearing 000 distant 40 miles at 1701)",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -682,7 +682,7 @@
     "lat_raw": "32-37N",
     "lon_raw": "125-00E",
     "local": "1945-01-21 2200(I)",
-    "page": "rg367-74802211/p38",
+    "page": "rg38-74802211/p38",
     "note": "Radar table: 260 mcs on SAISHU TO",
     "fix": ""
    },
@@ -705,7 +705,7 @@
     "lat_raw": "32-40N",
     "lon_raw": "125-52E",
     "local": "1945-01-21 2245(I)",
-    "page": "rg367-74802211/p38",
+    "page": "rg38-74802211/p38",
     "note": "Radar table: 245 mcs probably on SAISHU TO",
     "fix": "44 nm east of the 2200 reading 45 min earlier and 110 nm from the 0125 reading; the 2200 and 0125 readings fit Ship 3 (0015, 33-16N 125-03E); error not identified. The narrative logs the 260 and 245 mcs signals together at 1957 (MARA TO), not at 2200 and 2245"
    },
@@ -728,7 +728,7 @@
     "lat_raw": "33-16N",
     "lon_raw": "125-03E",
     "local": "1945-01-22 0015(I)",
-    "page": "rg367-74802211/p28",
+    "page": "rg38-74802211/p28",
     "note": "Patrol craft 11000 yds; radar; followed ATULE at 13.5 kt",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -751,7 +751,7 @@
     "lat_raw": "33-48N",
     "lon_raw": "124-08E",
     "local": "1945-01-22 0125(I)",
-    "page": "rg367-74802211/p38",
+    "page": "rg38-74802211/p38",
     "note": "Radar table: 161 mcs located on KOKUZAN (narrative 0120)",
     "fix": ""
    },
@@ -774,7 +774,7 @@
     "lat_raw": "34-35N",
     "lon_raw": "125-14E",
     "local": "1945-01-22 1900(I)",
-    "page": "rg367-74802211/p28",
+    "page": "rg38-74802211/p28",
     "note": "2 PCs 10000 yds; stopped; avoided",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -797,7 +797,7 @@
     "lat_raw": "36-47N",
     "lon_raw": "123-59E",
     "local": "1945-01-24 1500(I)",
-    "page": "rg367-74802211/p28",
+    "page": "rg38-74802211/p28",
     "note": "Engines-aft AK 20500 yds; course 264 speed 7.8; Attacks 1 and 2",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -820,7 +820,7 @@
     "lat_raw": "36-47N",
     "lon_raw": "123-59E",
     "local": "1945-01-24 1700(I)",
-    "page": "rg367-74802211/p32",
+    "page": "rg38-74802211/p32",
     "note": "Torpedo attacks 1 & 2 sheet: tubes 7-10 (Mk 18) at new engines-aft medium AK, 750 yds, 2 hits blew off stern; tube 6 (Mk 14) fired from the surface at 1720 missed; claims 1 medium AK (EC) 4000 tons sunk (position same as Ship 5)",
     "fix": "sheet types 23 January; the narrative (24 January heading, p08-09) and the ship-contact table (Ship 5, 1-24-45) put the attack on 24 Jan"
    },
@@ -843,7 +843,7 @@
     "lat_raw": "36-47N",
     "lon_raw": "123-59E",
     "local": "1945-01-24 2233(I)",
-    "page": "rg367-74802211/p32",
+    "page": "rg38-74802211/p32",
     "note": "Same sheet: after a failed gun action (2055) dived and fired tube 1 (Mk 23) at the hulk, hit amidships; hulk settled by the bow",
     "fix": "sheet types 23 January; narrative and ship-contact table put the attack on 24 Jan"
    },
@@ -866,7 +866,7 @@
     "lat_raw": "34-17N",
     "lon_raw": "123-33E",
     "local": "1945-01-27 1405(I)",
-    "page": "rg367-74802211/p30",
+    "page": "rg38-74802211/p30",
     "note": "1 Rufe 8 mi; SD",
     "fix": ""
    },
@@ -889,7 +889,7 @@
     "lat_raw": "34-01N",
     "lon_raw": "123-10E",
     "local": "1945-01-28 0302(I)",
-    "page": "rg367-74802211/p28",
+    "page": "rg38-74802211/p28",
     "note": "Medium AP, escorts 19200 yds; radar; the convoy attacked by POMPON and SPADEFISH; no attack possible",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -912,7 +912,7 @@
     "lat_raw": "33-57N",
     "lon_raw": "123-39E",
     "local": "1945-01-28 1045(I)",
-    "page": "rg367-74802211/p28",
+    "page": "rg38-74802211/p28",
     "note": "ITAKA class AMc 8000 yds (Section I, p34, dates this minelayer 25 January)",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -935,7 +935,7 @@
     "lat_raw": "31-43N",
     "lon_raw": "124-48E",
     "local": "1945-01-29 0827(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): unable to sink by gunfire; Great Yangtze Bank 30 mi SW of SOCOTRA ROCK",
     "fix": ""
    },
@@ -958,7 +958,7 @@
     "lat_raw": "31-25N",
     "lon_raw": "124-56E",
     "local": "1945-01-29 1043(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated",
     "fix": ""
    },
@@ -981,7 +981,7 @@
     "lat_raw": "31-24N",
     "lon_raw": "124-56E",
     "local": "1945-01-29 1110(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank",
     "fix": ""
    },
@@ -1004,7 +1004,7 @@
     "lat_raw": "31-18N",
     "lon_raw": "124-59E",
     "local": "1945-01-29 1145(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank",
     "fix": ""
    },
@@ -1027,7 +1027,7 @@
     "lat_raw": "31-16N",
     "lon_raw": "125-03E",
     "local": "1945-01-29 1315(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank",
     "fix": ""
    },
@@ -1050,7 +1050,7 @@
     "lat_raw": "31-05N",
     "lon_raw": "125-09E",
     "local": "1945-01-29 1435(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated",
     "fix": ""
    },
@@ -1073,7 +1073,7 @@
     "lat_raw": "30-02N",
     "lon_raw": "125-16E",
     "local": "1945-01-29 2351(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): narrowly missed at night (narrative logs 2352)",
     "fix": ""
    },
@@ -1096,7 +1096,7 @@
     "lat_raw": "30-02N",
     "lon_raw": "125-09E",
     "local": "1945-01-30 0030(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): hit bow and passed down side",
     "fix": ""
    },
@@ -1119,7 +1119,7 @@
     "lat_raw": "29-52N",
     "lon_raw": "124-14E",
     "local": "1945-01-30 1708(I)",
-    "page": "rg367-74802211/p29",
+    "page": "rg38-74802211/p29",
     "note": "2 PCs 16000 yds on course NE between LAM YIT and the EMPIRE",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -1142,7 +1142,7 @@
     "lat_raw": "28-59N",
     "lon_raw": "122-35E",
     "local": "1945-01-31 0700(I)",
-    "page": "rg367-74802211/p38",
+    "page": "rg38-74802211/p38",
     "note": "Radar table: 74 mcs very weak; probable shore installation on China coast (narrative: submerged patrol NE of YUSHAN LIEHTAO from 0705)",
     "fix": ""
    },
@@ -1165,7 +1165,7 @@
     "lat_raw": "30-21N",
     "lon_raw": "124-48E",
     "local": "1945-02-01 1113(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank (narrative logs 1125)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 9 in February)"
    },
@@ -1188,7 +1188,7 @@
     "lat_raw": "30-34N",
     "lon_raw": "125-39E",
     "local": "1945-02-01 1732(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank",
     "fix": "table types 1-2-45; the narrative (p15) logs Mine 10 at 1732 on 1 February, and 30-34N fits 1 Feb (2 Feb was south of SAISHU TO)"
    },
@@ -1211,7 +1211,7 @@
     "lat_raw": "32-49N",
     "lon_raw": "125-45E",
     "local": "1945-02-03 0400(I)",
-    "page": "rg367-74802211/p38",
+    "page": "rg38-74802211/p38",
     "note": "Radar table: 75 mcs probably on SAISHU TO",
     "fix": ""
    },
@@ -1234,7 +1234,7 @@
     "lat_raw": "33-04N",
     "lon_raw": "123-41E",
     "local": "1945-02-04 0700(I)",
-    "page": "rg367-74802211/p38",
+    "page": "rg38-74802211/p38",
     "note": "Radar table: 240 mcs probable aircraft",
     "fix": ""
    },
@@ -1257,7 +1257,7 @@
     "lat_raw": "33-39N",
     "lon_raw": "123-37E",
     "local": "1945-02-04 1120(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated (narrative logs 1143)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 11 in February)"
    },
@@ -1280,7 +1280,7 @@
     "lat_raw": "33-38N",
     "lon_raw": "123-36E",
     "local": "1945-02-04 1150(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank (narrative logs 1155)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 12 in February)"
    },
@@ -1303,7 +1303,7 @@
     "lat_raw": "33-09N",
     "lon_raw": "123-29E",
     "local": "1945-02-05 0820(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank (narrative logs 0819)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 13 in February)"
    },
@@ -1326,7 +1326,7 @@
     "lat_raw": "33-08N",
     "lon_raw": "123-30E",
     "local": "1945-02-05 0850(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated (narrative logs 0845)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 14 in February)"
    },
@@ -1349,7 +1349,7 @@
     "lat_raw": "33-11N",
     "lon_raw": "123-36E",
     "local": "1945-02-05 0930(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated (narrative logs 0943)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 15 in February)"
    },
@@ -1372,7 +1372,7 @@
     "lat_raw": "33-10N",
     "lon_raw": "123-28E",
     "local": "1945-02-05 0953(I)",
-    "page": "rg367-74802211/p30",
+    "page": "rg38-74802211/p30",
     "note": "1 unknown; APR 157 mcs (radar table gives 33-10N 123-38E for the same minute)",
     "fix": ""
    },
@@ -1395,7 +1395,7 @@
     "lat_raw": "33-10N",
     "lon_raw": "123-38E",
     "local": "1945-02-05 0953(I)",
-    "page": "rg367-74802211/p38",
+    "page": "rg38-74802211/p38",
     "note": "Radar table: 157 mcs strong and steady; aircraft (Air 4)",
     "fix": ""
    },
@@ -1418,7 +1418,7 @@
     "lat_raw": "33-13N",
     "lon_raw": "123-42E",
     "local": "1945-02-05 1101(I)",
-    "page": "rg367-74802211/p30",
+    "page": "rg38-74802211/p30",
     "note": "1 unknown; APR 153 mcs",
     "fix": ""
    },
@@ -1441,7 +1441,7 @@
     "lat_raw": "33-13N",
     "lon_raw": "123-42E",
     "local": "1945-02-05 1101(I)",
-    "page": "rg367-74802211/p38",
+    "page": "rg38-74802211/p38",
     "note": "Radar table: 153 mcs weak; aircraft (Air 5)",
     "fix": ""
    },
@@ -1464,7 +1464,7 @@
     "lat_raw": "33-16N",
     "lon_raw": "123-48E",
     "local": "1945-02-05 1200(I)",
-    "page": "rg367-74802211/p39",
+    "page": "rg38-74802211/p39",
     "note": "Radar table: 153 mcs medium; aircraft",
     "fix": ""
    },
@@ -1487,7 +1487,7 @@
     "lat_raw": "33-16N",
     "lon_raw": "123-55E",
     "local": "1945-02-05 1300(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated, recovered shrapnel (narrative logs 1305)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 16 in February)"
    },
@@ -1510,7 +1510,7 @@
     "lat_raw": "33-23N",
     "lon_raw": "123-50E",
     "local": "1945-02-05 1414(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank (narrative logs 1414)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 17 in February); table repeats Mine 16's 1300; the narrative (p16) logs Mine 17 at 1414"
    },
@@ -1533,7 +1533,7 @@
     "lat_raw": "33-25N",
     "lon_raw": "123-48E",
     "local": "1945-02-05 1445(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank (narrative logs 1448)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 18 in February)"
    },
@@ -1556,7 +1556,7 @@
     "lat_raw": "33-25N",
     "lon_raw": "123-48E",
     "local": "1945-02-05 1446(I)",
-    "page": "rg367-74802211/p39",
+    "page": "rg38-74802211/p39",
     "note": "Radar table: 154 mcs strong; aircraft",
     "fix": ""
    },
@@ -1579,7 +1579,7 @@
     "lat_raw": "33-31N",
     "lon_raw": "123-47E",
     "local": "1945-02-05 1550(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank (narrative logs 1556)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 19 in February)"
    },
@@ -1602,7 +1602,7 @@
     "lat_raw": "33-30N",
     "lon_raw": "123-47E",
     "local": "1945-02-05 1600(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated (narrative logs 1604)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 20 in February)"
    },
@@ -1625,7 +1625,7 @@
     "lat_raw": "33-37N",
     "lon_raw": "123-48E",
     "local": "1945-02-05 1705(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 21 in February)"
    },
@@ -1648,7 +1648,7 @@
     "lat_raw": "33-31N",
     "lon_raw": "123-53E",
     "local": "1945-02-05 1800(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank (narrative logs 1804)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 22 in February)"
    },
@@ -1671,7 +1671,7 @@
     "lat_raw": "33-24N",
     "lon_raw": "123-54E",
     "local": "1945-02-05 1910(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): avoided in darkness (narrative logs 1908)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 23 in February)"
    },
@@ -1694,7 +1694,7 @@
     "lat_raw": "34-31N",
     "lon_raw": "123-58E",
     "local": "1945-02-06 0812(I)",
-    "page": "rg367-74802211/p30",
+    "page": "rg38-74802211/p30",
     "note": "1 Emily 3 mi; 1 bomb",
     "fix": ""
    },
@@ -1718,7 +1718,7 @@
     "lon_raw": "124-46.5E",
     "typed": "35-17N 124-46\u00bdE",
     "local": "1945-02-07 2112(I)",
-    "page": "rg367-74802211/p29",
+    "page": "rg38-74802211/p29",
     "note": "Possible radar-equipped escort 10000 yds; APR 245 mcs; off PITCHI TO",
     "fix": "ship-contact positions are the target, not ATULE; lon_fix only writes the typed \u00bd as a decimal"
    },
@@ -1741,7 +1741,7 @@
     "lat_raw": "35-17N",
     "lon_raw": "124-47E",
     "local": "1945-02-08 0455(I)",
-    "page": "rg367-74802211/p29",
+    "page": "rg38-74802211/p29",
     "note": "PC 8000 yds; radar; 40 miles NW of KO TO",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -1764,7 +1764,7 @@
     "lat_raw": "33-46.5N",
     "lon_raw": "124-12.5E",
     "local": "1945-02-09 1049(I)",
-    "page": "rg367-74802211/p30",
+    "page": "rg38-74802211/p30",
     "note": "1 Nell 8 mi; 2 distant bombs",
     "fix": ""
    },
@@ -1788,7 +1788,7 @@
     "lon_raw": "124-10.5E",
     "typed": "33-41.5N 12?-10.5E",
     "local": "1945-02-09 1330(I)",
-    "page": "rg367-74802211/p31",
+    "page": "rg38-74802211/p31",
     "note": "1 Betty 1 mi; SD-P (narrative 1327)",
     "fix": "third digit of the longitude is blotted; 124 fits Air 7 (124-12.5E) 2 h 41 min earlier"
    },
@@ -1811,7 +1811,7 @@
     "lat_raw": "34-56N",
     "lon_raw": "124-59E",
     "local": "1945-02-11 1215(I)",
-    "page": "rg367-74802211/p29",
+    "page": "rg38-74802211/p29",
     "note": "PC and coastal minelayer 10000 yds (Section I gives 34-56N 124-50E)",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -1834,7 +1834,7 @@
     "lat_raw": "36-32N",
     "lon_raw": "124-25E",
     "local": "1945-02-12 1337(I)",
-    "page": "rg367-74802211/p29",
+    "page": "rg38-74802211/p29",
     "note": "Destroyer or large escort 17000 yds; \"man-boy team\" with the fighter of Air 9",
     "fix": "ship-contact positions are the target, not ATULE"
    },
@@ -1857,7 +1857,7 @@
     "lat_raw": "36-44N",
     "lon_raw": "124-05.5E",
     "local": "1945-02-12 1456(I)",
-    "page": "rg367-74802211/p31",
+    "page": "rg38-74802211/p31",
     "note": "1 fighter 1 mi; 2 bombs; then depth charges from the destroyer until 1852",
     "fix": ""
    },
@@ -1880,7 +1880,7 @@
     "lat_raw": "34-35N",
     "lon_raw": "124-57E",
     "local": "1945-02-12 1925(I)",
-    "page": "rg367-74802211/p39",
+    "page": "rg38-74802211/p39",
     "note": "Radar table: 155 mcs; aircraft",
     "fix": "2 degrees south of Air 9 (1456) and Air 10 (1932, 7 min later, same 155 mcs signal), which agree with the narrative's patrol across the 37th parallel; error not identified"
    },
@@ -1903,7 +1903,7 @@
     "lat_raw": "36-57.5N",
     "lon_raw": "124-16.5E",
     "local": "1945-02-12 1932(I)",
-    "page": "rg367-74802211/p31",
+    "page": "rg38-74802211/p31",
     "note": "1 unknown; APR 155 mcs (narrative: surfaced 1911; dived 1935 on the strong signal)",
     "fix": ""
    },
@@ -1926,7 +1926,7 @@
     "lat_raw": "33-46N",
     "lon_raw": "123-53E",
     "local": "1945-02-15 1241(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated (narrative logs 1243)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 24 in February)"
    },
@@ -1949,7 +1949,7 @@
     "lat_raw": "33-45N",
     "lon_raw": "123-55E",
     "local": "1945-02-15 1255(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): sank (narrative logs 1306)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 25 in February)"
    },
@@ -1972,7 +1972,7 @@
     "lat_raw": "33-45N",
     "lon_raw": "123-55E",
     "local": "1945-02-15 1318(I)",
-    "page": "rg367-74802211/p39",
+    "page": "rg38-74802211/p39",
     "note": "Radar table: 157 mcs; aircraft",
     "fix": ""
    },
@@ -1995,7 +1995,7 @@
     "lat_raw": "33-39N",
     "lon_raw": "123-58E",
     "local": "1945-02-15 1440(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated, recovered shrapnel (narrative logs 1452)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 26 in February)"
    },
@@ -2018,7 +2018,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "124-00E",
     "local": "1945-02-15 1535(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): detonated (narrative logs 1545)",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 27 in February)"
    },
@@ -2042,7 +2042,7 @@
     "lon_raw": "124-01E",
     "typed": "32-20N 124-01E",
     "local": "1945-02-15 1548(I)",
-    "page": "rg367-74802211/p31",
+    "page": "rg38-74802211/p31",
     "note": "1 Nell 5 mi; bomb bay doors open (date typed 2-1?-45, second digit overstruck; narrative logs this Nell at 1550 on 15 Feb, p22)",
     "fix": "Mine 27 was at 33-20N 124-00E 13 min earlier (table 1535, narrative 1545); 32-20N would be 60 nm away; one degree typed wrong"
    },
@@ -2065,7 +2065,7 @@
     "lat_raw": "30-48N",
     "lon_raw": "125-41E",
     "local": "1945-02-16 1908(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): narrowly avoided in darkness (narrative logs 1905)",
     "fix": "table types 1-15-45; the narrative (p23) logs Mine 28 at 1905 on 16 February, and 30-48N is 175 nm from Mine 27 on the 15th"
    },
@@ -2088,7 +2088,7 @@
     "lat_raw": "33-48N",
     "lon_raw": "124-23E",
     "local": "1945-02-18 0127(I)",
-    "page": "rg367-74802211/p34",
+    "page": "rg38-74802211/p34",
     "note": "Mines table (Section I; position of a floating mine dealt with close aboard, about 300 yds or less): heavily hit by bow and passed down port side while making 18 knots",
     "fix": "table types month 1 for February (narrative, p15-23, logs Mine 29 in February)"
    },
@@ -2111,7 +2111,7 @@
     "lat_raw": "33-20N",
     "lon_raw": "124-45E",
     "local": "1945-02-19 1945(I)",
-    "page": "rg367-74802211/p39",
+    "page": "rg38-74802211/p39",
     "note": "Radar table: 156 mcs; probably aircraft",
     "fix": ""
    },
@@ -2134,7 +2134,7 @@
     "lat_raw": "31-30.5N",
     "lon_raw": "127-48E",
     "local": "1945-02-20 1205(I)",
-    "page": "rg367-74802211/p31",
+    "page": "rg38-74802211/p31",
     "note": "Betty 6 mi; SD (narrative logs a dive from an unidentified twin-engine bomber at 1255)",
     "fix": ""
    },
@@ -2157,7 +2157,7 @@
     "lat_raw": "30-09N",
     "lon_raw": "128-43E",
     "local": "1945-02-20 1725(I)",
-    "page": "rg367-74802211/p39",
+    "page": "rg38-74802211/p39",
     "note": "Radar table: 242 mcs very weak",
     "fix": ""
    },
@@ -2180,7 +2180,7 @@
     "lat_raw": "29-06N",
     "lon_raw": "129-57E",
     "local": "1945-02-21 0100(I)",
-    "page": "rg367-74802211/p39",
+    "page": "rg38-74802211/p39",
     "note": "Radar table: 80 mcs (narrative 0430: AMAMI O SHIMA)",
     "fix": ""
    },
@@ -2203,7 +2203,7 @@
     "lat_raw": "28-19N",
     "lon_raw": "130-54E",
     "local": "1945-02-21 0640(I)",
-    "page": "rg367-74802211/p39",
+    "page": "rg38-74802211/p39",
     "note": "Radar table: 157 mcs weak",
     "fix": ""
    },
@@ -2226,7 +2226,7 @@
     "lat_raw": "28-05N",
     "lon_raw": "131-23E",
     "local": "1945-02-21 0915(I)",
-    "page": "rg367-74802211/p31",
+    "page": "rg38-74802211/p31",
     "note": "Betty 2 mi; 1 bomb (very close at 40 ft)",
     "fix": ""
    },
@@ -2249,7 +2249,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-02-26 0408(I)",
-    "page": "rg367-74802211/p26",
+    "page": "rg38-74802211/p26",
     "note": "Moored alongside FULTON, Tanapag Harbor, SAIPAN; typed 0408 after the 0430 rendezvous with escort LCI 1063 (port position; zone I per \"All times Item\", no change logged)",
     "fix": ""
    },
@@ -2272,7 +2272,7 @@
     "lat_raw": "15-14N",
     "lon_raw": "145-43E",
     "local": "1945-02-28 0955(I)",
-    "page": "rg367-74802211/p26",
+    "page": "rg38-74802211/p26",
     "note": "Underway from FULTON for MIDWAY; escort YMS 292 released 1730 (port position; zone as for the arrival)",
     "fix": ""
    },
@@ -2295,7 +2295,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1945-03-07 0940(Y)",
-    "page": "rg367-74802211/p26",
+    "page": "rg38-74802211/p26",
     "note": "Moored, Submarine Base, MIDWAY (port position)",
     "fix": ""
    },

@@ -130,7 +130,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1944-03-29 1600(VW)",
-    "page": "rg367-74856363/p03",
+    "page": "rg38-74856363/p03",
     "note": "Departed Pearl with PARCHE and BANG (OTC Captain PETERSON in PARCHE) (port position)",
     "fix": ""
    },
@@ -153,7 +153,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-04-02 0820(Y)",
-    "page": "rg367-74856363/p03",
+    "page": "rg38-74856363/p03",
     "note": "Moored to submarine pier MIDWAY (port position)",
     "fix": ""
    },
@@ -176,7 +176,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-04-03 1210(Y)",
-    "page": "rg367-74856363/p03",
+    "page": "rg38-74856363/p03",
     "note": "Underway in company with PARCHE and BANG (port position)",
     "fix": ""
    },
@@ -199,7 +199,7 @@
     "lat_raw": "27-20N",
     "lon_raw": "167-02E",
     "local": "1944-04-07 0555(L)",
-    "page": "rg367-74856363/p25",
+    "page": "rg38-74856363/p25",
     "note": "Unknown two-engine; sighted by lookout (narrative typed the time as 055)",
     "fix": ""
    },
@@ -222,7 +222,7 @@
     "lat_raw": "27-13N",
     "lon_raw": "160-39E",
     "local": "1944-04-08 1043(L)",
-    "page": "rg367-74856363/p04",
+    "page": "rg38-74856363/p04",
     "note": "Sighted unidentified submarine 8000 yds",
     "fix": ""
    },
@@ -245,7 +245,7 @@
     "lat_raw": "24-35N",
     "lon_raw": "145-37E",
     "local": "1944-04-12 1625(K)",
-    "page": "rg367-74856363/p04",
+    "page": "rg38-74856363/p04",
     "note": "Passed through line of 6 small spar markers",
     "fix": ""
    },
@@ -268,7 +268,7 @@
     "lat_raw": "24-17N",
     "lon_raw": "144-51E",
     "local": "1944-04-12 1808(K)",
-    "page": "rg367-74856363/p24",
+    "page": "rg38-74856363/p24",
     "note": "Fishing sampan abandoned; gun runs after PARCHE's",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -291,7 +291,7 @@
     "lat_raw": "22-06N",
     "lon_raw": "130-00E",
     "local": "1944-04-16 1625(I)",
-    "page": "rg367-74856363/p05",
+    "page": "rg38-74856363/p05",
     "note": "Entered assigned area",
     "fix": ""
    },
@@ -314,7 +314,7 @@
     "lat_raw": "23-43N",
     "lon_raw": "127-38E",
     "local": "1944-04-17 0812(I)",
-    "page": "rg367-74856363/p05",
+    "page": "rg38-74856363/p05",
     "note": "Sighted periscope 2000 yds; assumed PARCHE",
     "fix": ""
    },
@@ -337,7 +337,7 @@
     "lat_raw": "23-39N",
     "lon_raw": "122-23E",
     "local": "1944-04-20 1822(H)",
-    "page": "rg367-74856363/p06",
+    "page": "rg38-74856363/p06",
     "note": "3 sampans or small patrol vessels 14000 yds",
     "fix": "ship-contact positions are the target, not TINOSA; contact table types the time 0882(H), the narrative 1822"
    },
@@ -360,7 +360,7 @@
     "lat_raw": "23-19N",
     "lon_raw": "122-09E",
     "local": "1944-04-20 2115(H)",
-    "page": "rg367-74856363/p06",
+    "page": "rg38-74856363/p06",
     "note": "Fishing vessel or patrol craft; radar 9500 yds",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -383,7 +383,7 @@
     "lat_raw": "21-39N",
     "lon_raw": "120-10E",
     "local": "1944-04-24 1406(H)",
-    "page": "rg367-74856363/p07",
+    "page": "rg38-74856363/p07",
     "note": "Sampan 9000 yds",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -406,7 +406,7 @@
     "lat_raw": "21-47N",
     "lon_raw": "118-58E",
     "local": "1944-04-25 1800(H)",
-    "page": "rg367-74856363/p07",
+    "page": "rg38-74856363/p07",
     "note": "Sampan 5 mi",
     "fix": "ship-contact positions are the target, not TINOSA; contact table types 138-58E, the narrative 118-58E"
    },
@@ -429,7 +429,7 @@
     "lat_raw": "22-01N",
     "lon_raw": "118-25E",
     "local": "1944-04-27 1335(H)",
-    "page": "rg367-74856363/p08",
+    "page": "rg38-74856363/p08",
     "note": "Sampan 4 mi (narrative types the longitude 118-25N)",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -452,7 +452,7 @@
     "lat_raw": "21-40N",
     "lon_raw": "118-13E",
     "local": "1944-04-28 1200(H)",
-    "page": "rg367-74856363/p08",
+    "page": "rg38-74856363/p08",
     "note": "Sampan 5 mi",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -475,7 +475,7 @@
     "lat_raw": "20-42N",
     "lon_raw": "118-19E",
     "local": "1944-04-29 0803(H)",
-    "page": "rg367-74856363/p08",
+    "page": "rg38-74856363/p08",
     "note": "Sighted periscope 6000 yds; believed PARCHE",
     "fix": ""
    },
@@ -498,7 +498,7 @@
     "lat_raw": "18-53N",
     "lon_raw": "119-09E",
     "local": "1944-04-30 0730(H)",
-    "page": "rg367-74856363/p09",
+    "page": "rg38-74856363/p09",
     "note": "Convoy of 11 ships (TAMA-17) on base course 180; smoke first sighted 0512",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -521,7 +521,7 @@
     "lat_raw": "18-50N",
     "lon_raw": "119-10E",
     "local": "1944-04-30 0828(H)",
-    "page": "rg367-74856363/p25",
+    "page": "rg38-74856363/p25",
     "note": "Two-engine flying boat circling convoy",
     "fix": ""
    },
@@ -544,7 +544,7 @@
     "lat_raw": "18-28N",
     "lon_raw": "119-15E",
     "local": "1944-04-30 0919(H)",
-    "page": "rg367-74856363/p10",
+    "page": "rg38-74856363/p10",
     "note": "Fired six bow tubes, 10-degree spread at five overlapping ships; position is where the narrative says a ship sank (logged 1046)",
     "fix": "position of the target, not TINOSA"
    },
@@ -567,7 +567,7 @@
     "lat_raw": "18-15.5N",
     "lon_raw": "120-18.4E",
     "local": "1944-04-30 0137(Z)",
-    "page": "rg367-74856363/p26",
+    "page": "rg38-74856363/p26",
     "note": "Summary of attacks: 6 fired; claims 1 AK sunk; 1 AK and 1 AO damaged",
     "fix": "longitude 63 nm east of the narrative (ship sank at 119-15E) and of BANG's and PARCHE's positions for the same convoy; error not identified. The narrative fires at 0919 H (0119 GCT), 18 min before this table's 0137"
    },
@@ -590,7 +590,7 @@
     "lat_raw": "18-27N",
     "lon_raw": "119-16E",
     "local": "1944-04-30 1254(H)",
-    "page": "rg367-74856363/p11",
+    "page": "rg38-74856363/p11",
     "note": "Sighted submarine on surface 4000 yds (PARCHE or BANG)",
     "fix": ""
    },
@@ -613,7 +613,7 @@
     "lat_raw": "18-18N",
     "lon_raw": "119-26E",
     "local": "1944-04-30 1416(H)",
-    "page": "rg367-74856363/p25",
+    "page": "rg38-74856363/p25",
     "note": "Two-engine flying boat",
     "fix": ""
    },
@@ -636,7 +636,7 @@
     "lat_raw": "18-19N",
     "lon_raw": "119-28E",
     "local": "1944-04-30 1458(H)",
-    "page": "rg367-74856363/p12",
+    "page": "rg38-74856363/p12",
     "note": "Sighted submarine 4 mi",
     "fix": ""
    },
@@ -659,7 +659,7 @@
     "lat_raw": "18-29N",
     "lon_raw": "119-49E",
     "local": "1944-05-01 0630(H)",
-    "page": "rg367-74856363/p24",
+    "page": "rg38-74856363/p24",
     "note": "Maru-type A/S vessel; possibly radar",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -682,7 +682,7 @@
     "lat_raw": "18-53N",
     "lon_raw": "119-50E",
     "local": "1944-05-01 1016(H)",
-    "page": "rg367-74856363/p25",
+    "page": "rg38-74856363/p25",
     "note": "Two-engine bomber",
     "fix": ""
    },
@@ -705,7 +705,7 @@
     "lat_raw": "19-00N",
     "lon_raw": "119-49E",
     "local": "1944-05-01 1116(H)",
-    "page": "rg367-74856363/p25",
+    "page": "rg38-74856363/p25",
     "note": "Two-engine bomber",
     "fix": ""
    },
@@ -728,7 +728,7 @@
     "lat_raw": "19-01N",
     "lon_raw": "119-48E",
     "local": "1944-05-01 1227(H)",
-    "page": "rg367-74856363/p24",
+    "page": "rg38-74856363/p24",
     "note": "Sampan; avoided",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -752,7 +752,7 @@
     "lon_raw": "119-48E",
     "typed": "19-01N 118-48E",
     "local": "1944-05-01 1229(H)",
-    "page": "rg367-74856363/p25",
+    "page": "rg38-74856363/p25",
     "note": "Two-engine bomber",
     "fix": "table types 118-48E; the narrative (p13) gives 119-48E, which fits Air 5 and Ship 10 minutes earlier"
    },
@@ -775,7 +775,7 @@
     "lat_raw": "20-30N",
     "lon_raw": "117-30E",
     "local": "1944-05-02 2310(H)",
-    "page": "rg367-74856363/p13",
+    "page": "rg38-74856363/p13",
     "note": "Rendezvous with PARCHE and BANG",
     "fix": ""
    },
@@ -798,7 +798,7 @@
     "lat_raw": "19-45N",
     "lon_raw": "116-25E",
     "local": "1944-05-03 0552(H)",
-    "page": "rg367-74856363/p13",
+    "page": "rg38-74856363/p13",
     "note": "Masts of seven or more large ships (TE-04); contact table: 1 AO, 1 AP, 6 AK, 1 DD, 3 A/S",
     "fix": "ship-contact positions are the target, not TINOSA; contact table date typed 5-2, pencilled 3"
    },
@@ -821,7 +821,7 @@
     "lat_raw": "20-02N",
     "lon_raw": "117-47E",
     "local": "1944-05-03 1335(H)",
-    "page": "rg367-74856363/p14",
+    "page": "rg38-74856363/p14",
     "note": "Four-engine flying boat",
     "fix": ""
    },
@@ -844,7 +844,7 @@
     "lat_raw": "20-27N",
     "lon_raw": "118-55.5E",
     "local": "1944-05-03 0835(Z)",
-    "page": "rg367-74856363/p26",
+    "page": "rg38-74856363/p26",
     "note": "Summary of attacks: 6 fired; claims 1 AO sunk; 1 AK probably sunk",
     "fix": "time and position both contradict the narrative, which fires at 23-09-16 H (1509 GCT) and has the tanker sink at 20-51N 118-02E; error not identified"
    },
@@ -867,7 +867,7 @@
     "lat_raw": "20-51N",
     "lon_raw": "118-02E",
     "local": "1944-05-03 2309(H)",
-    "page": "rg367-74856363/p15",
+    "page": "rg38-74856363/p15",
     "note": "Fired 3 at tanker (hits 23-10-23), 3 at AK astern; tanker sank; position is where the tanker sank",
     "fix": "position of the target, not TINOSA"
    },
@@ -890,7 +890,7 @@
     "lat_raw": "20-54.8N",
     "lon_raw": "118-14.9E",
     "local": "1944-05-03 1849(Z)",
-    "page": "rg367-74856363/p26",
+    "page": "rg38-74856363/p26",
     "note": "Summary of attacks: 4 stern tubes; claims 1 AK sunk",
     "fix": "the narrative fires at 02-49-31 H on 4 May = 1849 GCT 3 May; the table's 1952 is an hour later. Position agrees with the narrative's sinking position (20-55N 118-12E)"
    },
@@ -913,7 +913,7 @@
     "lat_raw": "20-55N",
     "lon_raw": "118-12E",
     "local": "1944-05-04 0249(H)",
-    "page": "rg367-74856363/p17",
+    "page": "rg38-74856363/p17",
     "note": "Fired 4 stern tubes; three hits, target \"merely disintegrated\"; position is where she sank",
     "fix": "position of the target, not TINOSA"
    },
@@ -936,7 +936,7 @@
     "lat_raw": "20-57.4N",
     "lon_raw": "118-06.3E",
     "local": "1944-05-03 2008(Z)",
-    "page": "rg367-74856363/p26",
+    "page": "rg38-74856363/p26",
     "note": "Summary of attacks: 4 fired; results unknown; 2 explosions",
     "fix": ""
    },
@@ -959,7 +959,7 @@
     "lat_raw": "21-02N",
     "lon_raw": "118-03E",
     "local": "1944-05-04 0414(H)",
-    "page": "rg367-74856363/p18",
+    "page": "rg38-74856363/p18",
     "note": "Two explosions like torpedo hits beyond the target",
     "fix": ""
    },
@@ -982,7 +982,7 @@
     "lat_raw": "21-04N",
     "lon_raw": "118-10.1E",
     "local": "1944-05-04 0048(Z)",
-    "page": "rg367-74856363/p26",
+    "page": "rg38-74856363/p26",
     "note": "Summary of attacks: 4 stern tubes at damaged AK; results unknown",
     "fix": ""
    },
@@ -1005,7 +1005,7 @@
     "lat_raw": "20-58N",
     "lon_raw": "118-08E",
     "local": "1944-05-04 0850(H)",
-    "page": "rg367-74856363/p19",
+    "page": "rg38-74856363/p19",
     "note": "Started firing 4 stern tubes on 95 port track",
     "fix": ""
    },
@@ -1028,7 +1028,7 @@
     "lat_raw": "22-34N",
     "lon_raw": "145-31E",
     "local": "1944-05-09 0810(K)",
-    "page": "rg367-74856363/p20",
+    "page": "rg38-74856363/p20",
     "note": "Small trawler; avoided",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -1051,7 +1051,7 @@
     "lat_raw": "22-20N",
     "lon_raw": "146-30E",
     "local": "1944-05-09 1132(K)",
-    "page": "rg367-74856363/p20",
+    "page": "rg38-74856363/p20",
     "note": "Larger trawler 10000 yds; sunk by gunfire (sank 22-20N 146-40E)",
     "fix": "ship-contact positions are the target, not TINOSA"
    },
@@ -1074,7 +1074,7 @@
     "lat_raw": "17-42N",
     "lon_raw": "165-06E",
     "local": "1944-05-12 1503(L)",
-    "page": "rg367-74856363/p25",
+    "page": "rg38-74856363/p25",
     "note": "3 Liberators",
     "fix": ""
    },
@@ -1097,7 +1097,7 @@
     "lat_raw": "17-31N",
     "lon_raw": "166-42E",
     "local": "1944-05-12 1815(L)",
-    "page": "rg367-74856363/p25",
+    "page": "rg38-74856363/p25",
     "note": "1 Liberator",
     "fix": ""
    },
@@ -1120,7 +1120,7 @@
     "lat_raw": "07-06N",
     "lon_raw": "171-22E",
     "local": "1944-05-15 1200(L)",
-    "page": "rg367-74856363/p22",
+    "page": "rg38-74856363/p22",
     "note": "Arrived MAJURO (port position; noon assumed)",
     "fix": ""
    },

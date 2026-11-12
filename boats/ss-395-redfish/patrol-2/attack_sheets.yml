@@ -31,8 +31,8 @@
   sea: State 3, medium swell.
   overhaul: U.S.S. PROTEUS (tubes 7, 8); USS PROTEUS S/M Base, MIDWAY (9, 10) (typed run together).
   remarks: Timed explosions recorded at 2min. 25 sec. and 2min. 34 sec. after firing.
-  page: rg367-74837267/p43
-  table_page: rg367-74837267/p44
+  page: rg38-74837267/p43
+  table_page: rg38-74837267/p44
   note: >-
     The middle digit of the longitude is faint (1?2-43.2E; positions.csv). The overhaul line is typed with
     repeated words; the per-tube attribution here is our reading of the column layout.
@@ -49,8 +49,8 @@
   sea: State 3, swells medium.
   overhaul: USS PROTEUS
   remarks: None
-  page: rg367-74837267/p45
-  table_page: rg367-74837267/p46
+  page: rg38-74837267/p45
+  table_page: rg38-74837267/p46
   note: >-
     Tube 5's gyro is typed over (struck-over figures) with 359 typed again to its left; attacks.csv has 359.
     The typed tracks run 121P, 119P, 120P against gyros 359, 358, 000; the arithmetic gives 120P, 121P, 119P,
@@ -68,8 +68,8 @@
   sea: State 3, medium swell.
   overhaul: USS PROTEUS (tube 2); US S/M Base, MIDWAY (3, 4).
   remarks: One observed hit at 2min. 18 sec.
-  page: rg367-74837267/p47
-  table_page: rg367-74837267/p48
+  page: rg38-74837267/p47
+  table_page: rg38-74837267/p48
   note: >-
     Tracks and gyros of tubes 3 and 4 are typed with a raised 30 (110 30 P, 105 30 P; 356 30, 001 30): written
     110.5P, 105.5P, 356.5, 001.5.
@@ -89,8 +89,8 @@
   sea: State 3, medium swell.
   overhaul: USS PROTEUS (tubes 1, 2); US S/M Base, MIDWAY (3).
   remarks: One of these torpedoes broached. It is not known which one.
-  page: rg367-74837267/p49
-  table_page: rg367-74837267/p50
+  page: rg38-74837267/p49
+  table_page: rg38-74837267/p50
   note: >-
     One sheet, "TORPEDO ATTACK NO. 4 & 5", for both salvos. It types two ranges (2600, 2750), two own speeds
     (8.5, 8.3) and two own courses (164 30, 161 30) one above the other, and one target course and speed. Attack 4
@@ -112,8 +112,8 @@
   sea: State 3, medium swell.
   overhaul: US S/M Base, MIDWAY (tube 4); USS PROTEUS (5, 6).
   remarks: One of these torpedoes broached. It is not known which one.
-  page: rg367-74837267/p49
-  table_page: rg367-74837267/p50
+  page: rg38-74837267/p49
+  table_page: rg38-74837267/p50
   note: >-
     Shares the sheet of Attack 4 (see its note). The target course and speed typed (070, 4) are the ship's; the
     sheet gives none of its own for the escort, and the tracks computed with 070 agree with those typed. Tube 4's
@@ -131,8 +131,8 @@
   sea: State 3, medium swell.
   overhaul: USS PROTEUS (tubes 1, 2); US S/M Base, MIDWAY (3, 4).
   remarks: One of the torpedoes broached. It is not known which one. These misses cannot be explained.
-  page: rg367-74837267/p51
-  table_page: rg367-74837267/p52
+  page: rg38-74837267/p51
+  table_page: rg38-74837267/p52
   note: >-
     Tube 2's gyro (356, last digit faint) and tube 3's (355) are faint; the typed tracks agree with them.
 
@@ -155,8 +155,8 @@
     which one. Unable to explain other misses. Course 050T. and speed 13 were used in estimate of course and
     speed. Plotting of definitely observed timed hit shows course 070T. speed 11. It is believed target was
     employing a modified constant helm zig plan.
-  page: rg367-74837267/p53
-  table_page: rg367-74837267/p54
+  page: rg38-74837267/p53
+  table_page: rg38-74837267/p54
   note: >-
     The sheet types the time 0156 (J); positions.csv has zone I (the patrol's zone that week; Attack 8, 84 minutes
     later, is typed (I)). Kept as typed. The target course on the sheet (070, first digit faint) is the plotted one
@@ -180,8 +180,8 @@
     * One premature explosion was observed at 2min. 15sec. after firing. It is not known which torpedo was the
     premature. Explosion observed by C.O. Target was seen to zig away during firing of torpedoes resulting in a
     greater track angle than at instant of commence firing. Course and speed of target estimated to be 050T. - 12.
-  page: rg367-74837267/p55
-  table_page: rg367-74837267/p56
+  page: rg38-74837267/p55
+  table_page: rg38-74837267/p56
   note: >-
     "Task force as described in Attack No. 1" means this patrol's Attack 7 (the carrier group). Tracks are typed
     without a side. The sheet's one target course (035) gives about 156 starboard for tubes 1-3 and 160 and 155 for
@@ -212,8 +212,8 @@
     mast head height of 9? ft. instead of 80ft. as used. Also true course of 188T. instead of 190T. as used and
     speed 18 instead of 16 as used.
   footnote: "* For exact identification see Comsubpac dispatch 290906 of December 1944."
-  page: rg367-74837267/p57
-  table_page: rg367-74837267/p58
+  page: rg38-74837267/p57
+  table_page: rg38-74837267/p58
   note: >-
     The typed tracks (93S, 96S, 98S, 82S) disagree with own course 098 + gyro + 180 - target course 188, which
     gives 87S, 84S, 82S, 98S: each typed track is 180 degrees minus the computed one (the same figures, measured
@@ -236,8 +236,8 @@
   sea: Sea from 340T., amount 3, swells from 340T., amount 4.
   overhaul: USS PROTEUS
   remarks: Target zigged away immediately after firing first torpedo. Should have ceased firing.
-  page: rg367-74837267/p59
-  table_page: rg367-74837267/p60
+  page: rg38-74837267/p59
+  table_page: rg38-74837267/p60
   note: >-
     Time typed 1637-30 with the zone letter illegible; positions.csv has 1637 I. The target course is typed as a
     range, 210 - 260: tube 7's track (123P) computes from 210 and tubes 8-10 (171P, 167P, 171P) from 260, within 1
@@ -264,8 +264,8 @@
     The initial explosion timed at 1min. 08sec. was continued for several seconds and accompanied by tremendous
     flames, smoke and debris. Eight minutes later, the carrier had sunk.
   footnote: "* For exact identification see Comsubpac dispatch 290906 of December 1944."
-  page: rg367-74837267/p61
-  table_page: rg367-74837267/p62
+  page: rg38-74837267/p61
+  table_page: rg38-74837267/p62
   note: >-
     The sheet's time is 1650 (I); the narrative has fired 1649.35, hit 1650.43, sunk 1659 (positions.csv). The
     sheet's 1 min 08 sec run agrees with the narrative's 1649.35 to 1650.43.

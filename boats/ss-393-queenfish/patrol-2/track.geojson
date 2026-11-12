@@ -114,7 +114,7 @@
     "lat_raw": "22-06 N",
     "lon_raw": "137-24 E",
     "local": "1944-11-04 1100(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 1: 1 - Unk; 18 mi.; R; Patrolling. The table types no zone; the narrative (p03) 4 Nov: 'All times noted are minus 9 zone.' Narrative (p03): 27-31 Oct 'Enroute Saipan with PICUDA and BARB escorted by DE GREINER'; 2 Nov 'Underway enroute AREA 9 with QUEENFISH, PICUDA, and BARB as a coordinated attack group, Commanding Officer QUEENFISH, Group Commander'; 3 Nov 'Departed safety lane. Formed scouting line with speed of advance 13 knots'",
     "fix": ""
    },
@@ -137,7 +137,7 @@
     "lat_raw": "26-25 N",
     "lon_raw": "134-04 E",
     "local": "1944-11-05 1200(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 2: 1 - Emily; 15 mi.; Sighted; Patrolling (narrative p03 1200)",
     "fix": ""
    },
@@ -160,7 +160,7 @@
     "lat_raw": "29-31 N",
     "lon_raw": "131-47 E",
     "local": "1944-11-06 0655(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 3: 1 - Emily; 10 mi.; Sighted; Patrolling (narrative p03 0655, 'Dived'). 1730 (p04): 'Commenced passage Tokara Strait'",
     "fix": ""
    },
@@ -183,7 +183,7 @@
     "lat_raw": "30-50 N",
     "lon_raw": "129-45 E",
     "local": "1944-11-07 1012(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 4: 2 - Nell; 5 mi.; P; Transit (narrative p04: 'While submerged between Kuro Shima and Kusakaki Shima, sighted two Nells')",
     "fix": ""
    },
@@ -206,7 +206,7 @@
     "lat_raw": "31-00 N",
     "lon_raw": "129-40 E",
     "local": "1944-11-08 0215(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 5: 2 - Unk; 2 mi.; Sighted; Search (narrative p04 0215 'Dived upon sighting two aircraft')",
     "fix": ""
    },
@@ -229,7 +229,7 @@
     "lat_raw": "31-09 N",
     "lon_raw": "129-39 E",
     "local": "1944-11-08 1930(I)",
-    "page": "rg367-74835166/p11",
+    "page": "rg38-74835166/p11",
     "note": "Ship Contacts No. 1: 2 AK's, 3 escorts; 14,000 yds; 100\u00b0, 8 kts; Radar; Attack #1. Narrative (p04): 1930 'After surfacing from day's patrol off Bono Misaki, made radar contact on two ships with three escorts near Uji Gunto on easterly course'; 2046 'fired four torpedoes at the leading ship, a medium sized AK, and two at the second ship'",
     "fix": ""
    },
@@ -252,7 +252,7 @@
     "lat_raw": "31-09.5 N",
     "lon_raw": "129-38.6 E",
     "local": "1944-11-08 2046(I)",
-    "page": "rg367-74835166/p13",
+    "page": "rg38-74835166/p13",
     "note": "Torpedo Attack No. 1: night surface attack, four torpedoes at the leading freighter and two at the second; claims one medium freighter (4,000 tons) sunk and one small freighter (3,000 tons) damaged. Narrative (p04): 2046 'fired four torpedoes at the leading ship, a medium sized AK, and two at the second ship'",
     "fix": ""
    },
@@ -275,7 +275,7 @@
     "lat_raw": "31-14 N",
     "lon_raw": "129-02 E",
     "local": "1944-11-09 0110(I)",
-    "page": "rg367-74835166/p11",
+    "page": "rg38-74835166/p11",
     "note": "Ship Contacts No. 2: 3 ship convoy, 5 escorts; 24,000 yds; 060\u00b0, 8 kts; Radar; Attack #2. Narrative (p04-p05): 0110 'heading for Koshiki Straits'; 0242 'fired three torpedoes at the transport followed by three at the tanker'",
     "fix": ""
    },
@@ -298,7 +298,7 @@
     "lat_raw": "31-17 N",
     "lon_raw": "129-10 E",
     "local": "1944-11-09 0242(I)",
-    "page": "rg367-74835166/p15",
+    "page": "rg38-74835166/p15",
     "note": "Torpedo Attack No. 2: night submerged attack, three torpedoes at a transport and three at a tanker; claims both sunk (7,500 and 10,000 tons). Narrative (p05): 0242 'fired three torpedoes at the transport followed by three at the tanker'; 0310 'the tanker was heard to blow up'",
     "fix": ""
    },
@@ -321,7 +321,7 @@
     "lat_raw": "32-20 N",
     "lon_raw": "128-30 E",
     "local": "1944-11-11 0530(I)",
-    "page": "rg367-74835166/p11",
+    "page": "rg38-74835166/p11",
     "note": "Ship Contacts No. 3: Approx. 12 ship convoy; 6 escorts; 24,000 yds; 260\u00b0, 8 kts; Radar; Attack #3. Narrative (p05-p06): 0528 'Submerged south of Fukae Shima on assigned station for lifeguard duties in connection with B-29 strike'; 0902 'fired four torpedoes at the second ship in column'. p06 1613: 'Had tried several times to transmit pertinent information to the PETO ... with no success ... upon learning that the BARB had made contact with convoy we had hit'",
     "fix": ""
    },
@@ -344,7 +344,7 @@
     "lat_raw": "32-20 N",
     "lon_raw": "128-10 E",
     "local": "1944-11-11 0726(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 6: 1 - Pete, 1 - Emily; 10 mi.; Sighted; Air cover for convoy. (narrative p06 0726)",
     "fix": ""
    },
@@ -367,7 +367,7 @@
     "lat_raw": "32-20 N",
     "lon_raw": "128-00 E",
     "local": "1944-11-11 0902(I)",
-    "page": "rg367-74835166/p17",
+    "page": "rg38-74835166/p17",
     "note": "Torpedo Attack No. 3: daylight submerged attack, four torpedoes at the second ship in column of about 12 freighters; claims one medium freighter (4,000 tons) damaged. Narrative (p06): 0902 'fired four torpedoes at the second ship in column ... Only one hit resulted'",
     "fix": ""
    },
@@ -390,7 +390,7 @@
     "lat_raw": "32-46 N",
     "lon_raw": "128-10 E",
     "local": "1944-11-11 1613(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 7: 1 - Emily; 10 mi.; Sighted; Search (narrative p06 1613)",
     "fix": ""
    },
@@ -413,7 +413,7 @@
     "lat_raw": "32-12 N",
     "lon_raw": "127-06 E",
     "local": "1944-11-12 0757(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 8: 1 - Emily; 8 mi.; Sighted; Patrolling. Narrative (p06): 0400 'Having made no contact on carrier, directed PICUDA to proceed with us to search for aviators'",
     "fix": ""
    },
@@ -436,7 +436,7 @@
     "lat_raw": "32-11 N",
     "lon_raw": "126-56 E",
     "local": "1944-11-12 0914(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 9: 1 - Val; 7 mi.; Sighted; Patrolling (narrative p06 0914: 'distant about 9 miles')",
     "fix": ""
    },
@@ -459,7 +459,7 @@
     "lat_raw": "32-11 N",
     "lon_raw": "126-56 E",
     "local": "1944-11-12 0915(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 10: 1 - Unk; 22 mi.; R; Probably Patrolling",
     "fix": ""
    },
@@ -482,7 +482,7 @@
     "lat_raw": "32-08 N",
     "lon_raw": "126-34 E",
     "local": "1944-11-12 1044(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 11: 1 - Val; 10 mi.; Sighted; Patrolling. Narrative (p07): 1600 'Commenced searching area for aviators'; 1645 'Sighted and exchanged information with PETO who had searched for 24 hours with no success'; 2000 'Made rendezvous with PICUDA and directed her to return to her area'; 2330 'Was informed of BARB's negative search results and intercepted message from SUNFISH giving negative results of his search'",
     "fix": ""
    },
@@ -505,7 +505,7 @@
     "lat_raw": "32-12 N",
     "lon_raw": "128-35 E",
     "local": "1944-11-14 1630(I)",
-    "page": "rg367-74835166/p11",
+    "page": "rg38-74835166/p11",
     "note": "Ship Contacts No. 4: 3 PC boats, 1 large unid. type; 8,000 yds; 270\u00b0, 10 kts; Periscope; Anti-Sub Group making sweep. Narrative (p07): 1630 'While submerged south of Fukae Shima'; 1727 'Formed impromptu scouting line with PETO and BARB but failed to locate ships'",
     "fix": ""
    },
@@ -528,7 +528,7 @@
     "lat_raw": "33-15 N",
     "lon_raw": "128-20 E",
     "local": "1944-11-15 1100(I)",
-    "page": "rg367-74835166/p11",
+    "page": "rg38-74835166/p11",
     "note": "Ship Contacts No. 5: Approx. 8 ship convoy; 6-8 escorts; 16,000 yds; 260\u00b0, 11 kts; Periscope; Attack #4. Narrative (p07): 'Submerged west of Shiro Se light'; 1052 'a large westbound convoy consisting of many ships, escorts, and one escort carrier ... the carrier's hull was seen to resemble mostly that of a Kaiyo type with the definite addition of an island slightly forward of amidships'; 1155 'fired four torpedoes from after tubes'. p08: 1838 'got off the contact to all submarines'; 2325 'BARB, to the south about 30 miles, sent a contact report on four ships'",
     "fix": ""
    },
@@ -551,7 +551,7 @@
     "lat_raw": "33-15 N",
     "lon_raw": "128-25 E",
     "local": "1944-11-15 1115(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 12: Nells / Petes; 6 mi.; P; Air cover for convoy.",
     "fix": ""
    },
@@ -574,7 +574,7 @@
     "lat_raw": "33-15 N",
     "lon_raw": "128-10 E",
     "local": "1944-11-15 1155(I)",
-    "page": "rg367-74835166/p19",
+    "page": "rg38-74835166/p19",
     "note": "Torpedo Attack No. 4: submerged daylight attack, four stern torpedoes at an escort carrier ('Kaiyo type', ferrying planes) in a westbound convoy; claims her sunk (17,000 tons). Narrative (p07): 1155 'fired four torpedoes from after tubes'; the narrative's range 1,500 yards, the sheet's 1,800",
     "fix": ""
    },
@@ -597,7 +597,7 @@
     "lat_raw": "33-15 N",
     "lon_raw": "128-20 E",
     "local": "1944-11-15 1340(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 13: 3 - Nell; 3 mi.; P; Search (narrative p08 1340)",
     "fix": ""
    },
@@ -620,7 +620,7 @@
     "lat_raw": "32-35 N",
     "lon_raw": "126-56 E",
     "local": "1944-11-16 0040(I)",
-    "page": "rg367-74835166/p11",
+    "page": "rg38-74835166/p11",
     "note": "Ship Contacts No. 6: 1 carrier, 4 escorts; 34,000 yds; 040\u00b0, 19 kts; Radar; Unable to close (BARB's contact, narrative p08 2325 15 Nov). 16 Nov (p08): 'Proceeded with BARB and PICUDA to patrol stations to intercept possible destroyer group but failed to make contact'",
     "fix": ""
    },
@@ -643,7 +643,7 @@
     "lat_raw": "33-00 N",
     "lon_raw": "128-34 E",
     "local": "1944-11-17 0730(I)",
-    "page": "rg367-74835166/p11",
+    "page": "rg38-74835166/p11",
     "note": "Ship Contacts No. 7: 1 unidentified ship; 16,000 yds; 200\u00b0, 17 kts; Periscope; Probable hospital ship. Unable to close. (narrative p08 0900: 'While submerged west of Shiro Se light, sighted smoke ... Possibility exists that this was a hospital ship as there were no escorts')",
     "fix": ""
    },
@@ -667,7 +667,7 @@
     "lon_raw": "128-25 E",
     "typed": "33-05 N 12?-25 E",
     "local": "1944-11-17 0900(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 14: 1 - Val; 7 mi.; Sighted; Patrolling. Longitude's third digit faded (128 likely, as Ship Contact 7 at 0730 is 128-34 E). Narrative (p08) 17 Nov: 1900 'BARB departed area after expending all torpedoes'. No word in the narrative of PICUDA's attack that day; p28 (summary): 'On the same day PICUDA made her first attack and sank one freighter, damaging one tanker'",
     "fix": "third digit faded; 128 from Ship Contact 7 (128-34 E) 90 minutes earlier"
    },
@@ -690,7 +690,7 @@
     "lat_raw": "31-25 N",
     "lon_raw": "128-10 E",
     "local": "1944-11-20 2200(I)",
-    "page": "rg367-74835166/p11",
+    "page": "rg38-74835166/p11",
     "note": "Ship Contacts No. 8: 1 unidentified ship; 12,000 yds; 260\u00b0, 18 kts; Radar; Unable to close. (narrative p08-p09: 'While enroute to assigned station for lifeguard duties in connection with B-29 strike')",
     "fix": ""
    },
@@ -713,7 +713,7 @@
     "lat_raw": "32-15 N",
     "lon_raw": "129-20 E",
     "local": "1944-11-21 1020(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 15: 1 - Val; 7 mi.; Sighted; Patrolling. Narrative (p09) 21 Nov: 'Upon surfacing and learning that no search was required this time, assigned patrol stations for PICUDA and QUEENFISH'",
     "fix": ""
    },
@@ -736,7 +736,7 @@
     "lat_raw": "32-15 N",
     "lon_raw": "129-20 E",
     "local": "1944-11-21 1330(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 16: 1 - Emily; 9 mi.; Sighted; Patrolling",
     "fix": ""
    },
@@ -759,7 +759,7 @@
     "lat_raw": "30-50 N",
     "lon_raw": "129-40 E",
     "local": "1944-11-25 1311(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 17: 1 - Pete; 7 mi.; P; Patrolling. Narrative (p09) 23 Nov: 0430 'PICUDA sent contact report on convoy'; 0600 'submerged five miles from southeast tip of Shimino Shima and on direct course line if convoy was proceeding to Sasebo. Heard PICUDA getting in a daylight attack which dispersed the four ship convoy'. The narrative has no entry for 24-26 Nov",
     "fix": ""
    },
@@ -782,7 +782,7 @@
     "lat_raw": "30-13 N",
     "lon_raw": "129-54 E",
     "local": "1944-11-28 1346(I)",
-    "page": "rg367-74835166/p12",
+    "page": "rg38-74835166/p12",
     "note": "Aircraft Contacts No. 18: 1 - Nell; 12 mi.; P; Patrolling. Narrative (p09): 27 Nov 'With only six torpedoes remaining aft between PICUDA and QUEENFISH, received orders to depart area'; 28 Nov 'Made passage through Tokara Strait at maximum speed under a full moon and proceeded to Guam for refit in company with PICUDA'; 2 Dec 'Made rendezvous with escort PC-1599 and proceeded to Guam. Moored alongside U.S.S. SPERRY'",
     "fix": ""
    },

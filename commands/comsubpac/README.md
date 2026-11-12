@@ -62,5 +62,5 @@ transcribed from the scans and checked against them, line by line.
 ## Cites
 
 Each row cites its page, `rg38-139761402/pNN`: the catalog's object page, which is also the number
-written in the corner of each sheet. The scans download to the kit's cache as `nara/rg367-139761402/`
+written in the corner of each sheet. The scans download to the kit's cache as `nara/rg38-139761402/`
 (the kit's folder name for every National Archives item, whatever its record group).

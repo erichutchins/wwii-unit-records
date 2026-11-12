@@ -15,11 +15,11 @@ context:
 
 # The captain's own sky observations, used to check the page's sun and moon arithmetic
 sky:
-  - { patrol: 1, local: 1944-04-29 1750(K), page: rg367-74802746/p05,
+  - { patrol: 1, local: 1944-04-29 1750(K), page: rg38-74802746/p05,
       quote: "it was clear, bright night, with one-quarter moon ... moonset, which was at 0222" }
-  - { patrol: 1, local: 1944-04-18 2105(K), page: rg367-74802746/p04,
+  - { patrol: 1, local: 1944-04-18 2105(K), page: rg38-74802746/p04,
       quote: "night was clear, moonless with good starlight visibility" }
-  - { patrol: 2, local: 1944-07-04 0410(I), page: rg367-74802784/p10,
+  - { patrol: 2, local: 1944-07-04 0410(I), page: rg38-74802784/p10,
       quote: "It was a bright, moonlight night with scattered clouds ... make surface approach after moonset, which was at 0445" }
-  - { patrol: 6, local: 1945-04-28 1947(I), page: rg367-74802934/p16,
+  - { patrol: 6, local: 1945-04-28 1947(I), page: rg38-74802934/p16,
       quote: "In view of stepped up air activity ... and the full moon, decided to move southwestward" }

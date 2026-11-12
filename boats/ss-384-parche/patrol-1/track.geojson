@@ -154,7 +154,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1944-03-29 1600(VW)",
-    "page": "rg367-74828582/p03",
+    "page": "rg38-74828582/p03",
     "note": "Departed PEARL in company with TINOSA and BANG (port position)",
     "fix": ""
    },
@@ -177,7 +177,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-04-02 0822(Y)",
-    "page": "rg367-74828582/p03",
+    "page": "rg38-74828582/p03",
     "note": "Arrived MIDWAY. Topped off with fuel (port position)",
     "fix": ""
    },
@@ -200,7 +200,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-04-03 1230(Y)",
-    "page": "rg367-74828582/p03",
+    "page": "rg38-74828582/p03",
     "note": "Departed MIDWAY (port position)",
     "fix": ""
    },
@@ -223,7 +223,7 @@
     "lat_raw": "24-19.3N",
     "lon_raw": "144-55.7E",
     "local": "1944-04-12 1815(K)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Trawler 5 mi; derelict",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -246,7 +246,7 @@
     "lat_raw": "23-47.8N",
     "lon_raw": "144-55.7E",
     "local": "1944-04-13 0915(K)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Unknown 14&32 mi; radar; not sighted",
     "fix": "longitude contradicts neighbours (Air 3 is 176 nm west 3 h later); same longitude as Ship 1 the day before, possibly copied; error not identified"
    },
@@ -269,7 +269,7 @@
     "lat_raw": "23-44.6N",
     "lon_raw": "144-53.8E",
     "local": "1944-04-13 0930(K)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Unknown 26 mi; radar; not sighted",
     "fix": "longitude contradicts neighbours (Air 3 is 176 nm west 3 h later); error not identified"
    },
@@ -292,7 +292,7 @@
     "lat_raw": "23-36.2N",
     "lon_raw": "141-41.8E",
     "local": "1944-04-13 1240(K)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Unknown 18 mi; radar; not sighted",
     "fix": ""
    },
@@ -315,7 +315,7 @@
     "lat_raw": "23-13.1N",
     "lon_raw": "141-31.0E",
     "local": "1944-04-14 0150(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Unknown 7 mi; radar; not sighted",
     "fix": ""
    },
@@ -338,7 +338,7 @@
     "lat_raw": "22-04.1N",
     "lon_raw": "122-58.8E",
     "local": "1944-04-22 1217(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "PC boat 8 mi",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -361,7 +361,7 @@
     "lat_raw": "21-21.3N",
     "lon_raw": "120-33.0E",
     "local": "1944-04-24 0701(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 10 mi",
     "fix": ""
    },
@@ -384,7 +384,7 @@
     "lat_raw": "21-25.2N",
     "lon_raw": "120-33.0E",
     "local": "1944-04-24 0852(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Sally 7 mi",
     "fix": ""
    },
@@ -407,7 +407,7 @@
     "lat_raw": "21-24.5N",
     "lon_raw": "120-32.5E",
     "local": "1944-04-24 0932(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "7 Sallys 7 mi",
     "fix": ""
    },
@@ -430,7 +430,7 @@
     "lat_raw": "21-31.4N",
     "lon_raw": "120-33.0E",
     "local": "1944-04-24 1155(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "3 Petes 8 mi",
     "fix": ""
    },
@@ -453,7 +453,7 @@
     "lat_raw": "21-36.1N",
     "lon_raw": "120-33.0E",
     "local": "1944-04-24 1410(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 4 mi",
     "fix": ""
    },
@@ -476,7 +476,7 @@
     "lat_raw": "21-37.5N",
     "lon_raw": "120-33.0E",
     "local": "1944-04-24 1448(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 5 mi",
     "fix": ""
    },
@@ -499,7 +499,7 @@
     "lat_raw": "21-29.1N",
     "lon_raw": "120-33.0E",
     "local": "1944-04-24 1830(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 2 mi",
     "fix": ""
    },
@@ -522,7 +522,7 @@
     "lat_raw": "21-42.9N",
     "lon_raw": "119-36.7E",
     "local": "1944-04-26 0725(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Sally 8 mi",
     "fix": ""
    },
@@ -545,7 +545,7 @@
     "lat_raw": "21-38.5N",
     "lon_raw": "118-27.1E",
     "local": "1944-04-28 1452(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 8 mi",
     "fix": ""
    },
@@ -568,7 +568,7 @@
     "lat_raw": "19-26.5N",
     "lon_raw": "118-22.3E",
     "local": "1944-04-29 2355(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Unknown 19000 yds; 1 ship & escort (TAMA-17)",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -591,7 +591,7 @@
     "lat_raw": "19-20.5N",
     "lon_raw": "118-22.0E",
     "local": "1944-04-30 0020(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Escort 13000 yds; CHIDORI torpedo boat",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -614,7 +614,7 @@
     "lat_raw": "18-57.5N",
     "lon_raw": "118-19.8E",
     "local": "1944-04-30 0230(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Escort 13000 yds; unidentified",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -637,7 +637,7 @@
     "lat_raw": "20-52.9N",
     "lon_raw": "118-27.5E",
     "local": "1944-04-30 0330(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Escort 12000 yds; patrol boat",
     "fix": "ship-contact positions are the target, not PARCHE; latitude contradicts Ships 5 and 7 (115 nm north an hour later), probably 18-52.9N"
    },
@@ -660,7 +660,7 @@
     "lat_raw": "18-48.8N",
     "lon_raw": "119-01.2E",
     "local": "1944-04-30 0506(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Convoy 23000 yds; 10 ships (TAMA-17)",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -683,7 +683,7 @@
     "lat_raw": "18-21.0N",
     "lon_raw": "118-14.0E",
     "local": "1944-04-30 0919(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 10 mi",
     "fix": "Air 14-17 put PARCHE 60 nm west of her own Attack 1 sheet (and the density-layer reading) within the same hour; the attack-sheet position fits TAMA-17's track from BANG's attacks and Nittatsu Maru's sinking position. Error not identified (one degree of longitude?)"
    },
@@ -706,7 +706,7 @@
     "lat_raw": "18-07.7N",
     "lon_raw": "118-07.6E",
     "local": "1944-04-30 0936(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Nell 7 mi",
     "fix": "see Air 14"
    },
@@ -729,7 +729,7 @@
     "lat_raw": "18-22N",
     "lon_raw": "119-17E",
     "local": "1944-04-30 1010(I)",
-    "page": "rg367-74828582/p18",
+    "page": "rg38-74828582/p18",
     "note": "Torpedo attack No. 1 (TAMA-17; 4 Mk 18 fired submerged; no hits seen)",
     "fix": ""
    },
@@ -752,7 +752,7 @@
     "lat_raw": "18-07.9N",
     "lon_raw": "118-07.8E",
     "local": "1944-04-30 1218(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Nell 2 mi",
     "fix": "see Air 14"
    },
@@ -775,7 +775,7 @@
     "lat_raw": "18-07.2N",
     "lon_raw": "118-13.5E",
     "local": "1944-04-30 1413(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 5 mi",
     "fix": "see Air 14"
    },
@@ -798,7 +798,7 @@
     "lat_raw": "18-20.4N",
     "lon_raw": "118-45.0E",
     "local": "1944-05-01 0749(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Nell 10 mi",
     "fix": ""
    },
@@ -821,7 +821,7 @@
     "lat_raw": "18-39.8N",
     "lon_raw": "118-52.0E",
     "local": "1944-05-01 0915(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Nell 5 mi",
     "fix": ""
    },
@@ -844,7 +844,7 @@
     "lat_raw": "18-51.6N",
     "lon_raw": "118-50.8E",
     "local": "1944-05-01 1410(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 7 mi",
     "fix": ""
    },
@@ -867,7 +867,7 @@
     "lat_raw": "20-31.4N",
     "lon_raw": "118-41.9E",
     "local": "1944-05-02 1100(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 2 mi",
     "fix": ""
    },
@@ -890,7 +890,7 @@
     "lat_raw": "19-38.2N",
     "lon_raw": "123-31.8E",
     "local": "1944-05-03 0800(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Convoy 15 mi; 6 ships (TE-04)",
     "fix": "ship-contact positions are the target, not PARCHE; longitude contradicts Air 22 (116-55.8E an hour later), probably 117-31.8E"
    },
@@ -913,7 +913,7 @@
     "lat_raw": "19-51.1N",
     "lon_raw": "116-55.8E",
     "local": "1944-05-03 0923(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Unknown 24 mi; 2 unidentified; radar",
     "fix": ""
    },
@@ -936,7 +936,7 @@
     "lat_raw": "19-52.5N",
     "lon_raw": "116-56.9E",
     "local": "1944-05-03 1419(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 8 mi",
     "fix": ""
    },
@@ -959,7 +959,7 @@
     "lat_raw": "20-11.0N",
     "lon_raw": "117-52.5E",
     "local": "1944-05-03 1840(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Escort 10 mi; CHIDORI torpedo boat",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -982,7 +982,7 @@
     "lat_raw": "20-51.0N",
     "lon_raw": "118-03.0E",
     "local": "1944-05-04 0022(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Escort 6600 yds",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -1005,7 +1005,7 @@
     "lat_raw": "20-48N",
     "lon_raw": "118-03E",
     "local": "1944-05-04 0106(I)",
-    "page": "rg367-74828582/p20",
+    "page": "rg38-74828582/p20",
     "note": "Torpedo attack No. 2 (TE-04; 4 + 2 fired; claims two AKs sunk)",
     "fix": ""
    },
@@ -1028,7 +1028,7 @@
     "lat_raw": "20-48N",
     "lon_raw": "118-02E",
     "local": "1944-05-04 0127(I)",
-    "page": "rg367-74828582/p22",
+    "page": "rg38-74828582/p22",
     "note": "Torpedo attack No. 3 (TE-04; 4 fired; claims one AK or AP sunk)",
     "fix": ""
    },
@@ -1051,7 +1051,7 @@
     "lat_raw": "20-53.1N",
     "lon_raw": "117-50.2E",
     "local": "1944-05-04 0303(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Escort 13000 yds",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -1074,7 +1074,7 @@
     "lat_raw": "20-48.2N",
     "lon_raw": "117-48.3E",
     "local": "1944-05-04 0349(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Escort 9600 yds",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -1097,7 +1097,7 @@
     "lat_raw": "20-54.1N",
     "lon_raw": "117-50.9E",
     "local": "1944-05-04 0445(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Escort 12000 yds",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -1120,7 +1120,7 @@
     "lat_raw": "21-06.5N",
     "lon_raw": "117-51.0E",
     "local": "1944-05-04 0540(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Escort 13000 yds",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -1143,7 +1143,7 @@
     "lat_raw": "20-32.0N",
     "lon_raw": "117-15.5E",
     "local": "1944-05-05 0944(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Mavis 5 mi",
     "fix": ""
    },
@@ -1166,7 +1166,7 @@
     "lat_raw": "20-31.9N",
     "lon_raw": "117-16.1E",
     "local": "1944-05-05 1046(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Nell 3 mi",
     "fix": ""
    },
@@ -1189,7 +1189,7 @@
     "lat_raw": "20-29.8N",
     "lon_raw": "118-10.5E",
     "local": "1944-05-05 2113(I)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Patrol vessel 21000 yds; sub chaser",
     "fix": "ship-contact positions are the target, not PARCHE; date typed 5/5 with a 6 over the 5; section (N) puts this A/S vessel on the night of 5 May"
    },
@@ -1212,7 +1212,7 @@
     "lat_raw": "24-12.4N",
     "lon_raw": "124-09.0E",
     "local": "1944-05-14 0945(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "PBY 15 mi (narrative: 2-engine patrol plane over ISHIGAKI JIMA)",
     "fix": ""
    },
@@ -1235,7 +1235,7 @@
     "lat_raw": "24-12.6N",
     "lon_raw": "124-10.0E",
     "local": "1944-05-14 1140(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "3 fighters 4 mi; circling island",
     "fix": ""
    },
@@ -1258,7 +1258,7 @@
     "lat_raw": "24-12.7N",
     "lon_raw": "124-12.3E",
     "local": "1944-05-14 1340(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "5 fighters 6 mi; circling island",
     "fix": ""
    },
@@ -1281,7 +1281,7 @@
     "lat_raw": "24-13.1N",
     "lon_raw": "124-12.8E",
     "local": "1944-05-14 1425(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "2 bombers 7 mi; circling island",
     "fix": ""
    },
@@ -1304,7 +1304,7 @@
     "lat_raw": "24-14.3N",
     "lon_raw": "124-14.3E",
     "local": "1944-05-14 1515(I)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "4 fighters 6 mi; circling island",
     "fix": ""
    },
@@ -1327,7 +1327,7 @@
     "lat_raw": "26-41.1N",
     "lon_raw": "151-00.0E",
     "local": "1944-05-19 1011(K)",
-    "page": "rg367-74828582/p17",
+    "page": "rg38-74828582/p17",
     "note": "Unknown 8 mi; radar; received one light bomb",
     "fix": ""
    },
@@ -1350,7 +1350,7 @@
     "lat_raw": "26-55.4N",
     "lon_raw": "153-55.6E",
     "local": "1944-05-19 2010(K)",
-    "page": "rg367-74828582/p16",
+    "page": "rg38-74828582/p16",
     "note": "Trawler 1000 yds; gun action",
     "fix": "ship-contact positions are the target, not PARCHE"
    },
@@ -1373,7 +1373,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-05-23 1000(Y)",
-    "page": "rg367-74828582/p15",
+    "page": "rg38-74828582/p15",
     "note": "Arrived MIDWAY for refit (port position)",
     "fix": ""
    },

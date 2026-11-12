@@ -30,8 +30,8 @@
   remarks: >-
     Obtained one timed explosion about two minutes after firing tube #7. No other confirmation of damage except
     that we were unable to locate this target after other attacks were completed.
-  page: rg367-74828617/p23
-  table_page: rg367-74828617/p24
+  page: rg38-74828617/p23
+  table_page: rg38-74828617/p24
   note: >-
     Own course: re-read on a close zoom, line (1) shows only a 3 and line (2) only a 0 (half-struck, like a C); nothing legible follows either figure. Written 3?? and 0??.
     The narrative (p15, 0359 I) says the first two torpedoes were seen going to miss astern, so fire was checked.
@@ -47,8 +47,8 @@
   torpedo_detail: Mark 23, Mark 6-4 exploder, Contact, Mark 16-1 warhead, TPX, power High; firing interval typed "3 minutes".
   sea: Moderate
   overhaul: USS PROTEUS
-  page: rg367-74828617/p23
-  table_page: rg367-74828617/p24
+  page: rg38-74828617/p23
+  table_page: rg38-74828617/p24
   note: >-
     Shares Attack 1's sheet (target and own-ship lines (2), Angle 140 P). Narrative p15, 0402 I: "Plot was still
     tracking AK which was in nice position for stern shot. TDC had good set up so fired tube #7 at range 2000
@@ -71,8 +71,8 @@
   torpedo_detail: Mark 23, Mark 6-4 exploders, actuation set and actual Contact, Mark 16-1 warheads, TPX, power -.
   sea: Moderate
   overhaul: S/M,Base,PH (tubes 3-5); USS PROTEUS (tube 6)
-  page: rg367-74828617/p25
-  table_page: rg367-74828617/p26
+  page: rg38-74828617/p25
+  table_page: rg38-74828617/p26
   note: >-
     Narrative p15, 0407 I: "fired four bow tubes on 110 port track at range 1500 yards" - the sheet types 1800
     yds and tracks 118-134 P. attacks.csv holds the sheet's. The sunk line's class letters are faded (EU on the
@@ -95,8 +95,8 @@
   torpedo_detail: Mark 23, Mark 6-4, actuation set Ct, actual -, Ct, Ct; Mark 16-1 warheads, TPX, power -.
   sea: Moderate
   overhaul: USS PROTEUS
-  page: rg367-74828617/p27
-  table_page: rg367-74828617/p28
+  page: rg38-74828617/p27
+  table_page: rg38-74828617/p28
   note: >-
     Narrative p15, 0410 I: "Fired three stern tubes at this tanker on 100 port track range 1200 yards" (the
     sheet's tracks are 115-117 P, its angle 100 P). Firing intervals typed 0, 19, 11 without a unit.
@@ -118,8 +118,8 @@
   torpedo_detail: Mark 23, Mark 6-4, Contact/Contact, Mark 16-1 warheads (serial typed "116 03"), TPX, power High.
   sea: Moderate
   overhaul: USS PROTEUS
-  page: rg367-74828617/p29
-  table_page: rg367-74828617/p30
+  page: rg38-74828617/p29
+  table_page: rg38-74828617/p30
   note: >-
     The sheet's serial is typed "Serial (50)" in this page's heading, the others "(59)". Narrative p15, 0416 I:
     "Fired two bow tubes at AP on 80 starboard track at 800 yards" - the sheet types 500 yds, track 90 S and 95 S.
@@ -142,8 +142,8 @@
   torpedo_detail: Mark 23, Mark 6-4, Contact/Contact, Mark 16-1 warheads, TPX, power -.
   sea: Moderate
   overhaul: S/M,Base,PH (tube 8); USS PROTEUS (tubes 9, 10)
-  page: rg367-74828617/p31
-  table_page: rg367-74828617/p32
+  page: rg38-74828617/p31
+  table_page: rg38-74828617/p32
   note: >-
     Narrative p15, 0419-0421 I: the tanker opened up at about 500 yards with "4 or 5" gun, 20mm and 40mm; "At 800
     yards range fired three stern tubes at this menace. All hit". The sheet types range 700.
@@ -169,8 +169,8 @@
   torpedo_detail: Mark 23, Mark 6-4, actuation set Contact, actual -, Contact, Contact; Mark 16-1, TPX, power High.
   sea: Moderate
   overhaul: USS PROTEUS
-  page: rg367-74828617/p33
-  table_page: rg367-74828617/p34
+  page: rg38-74828617/p33
+  table_page: rg38-74828617/p34
   note: >-
     The time is typed "0420-1433 I", kept in attacks.csv (attack 7 at 0420, attack 8 at 1433). The narrative
     (p16) gives 0429 I ("Commenced firing bow tubes. First fish started off to the right so checked fire and
@@ -188,8 +188,8 @@
   torpedo_detail: Mark 23, Mark 6-4, Contact/Contact, Mark 16-1, TPX, power High.
   sea: Moderate
   overhaul: USS PROTEUS
-  page: rg367-74828617/p33
-  table_page: rg367-74828617/p34
+  page: rg38-74828617/p33
+  table_page: rg38-74828617/p34
   note: >-
     Shares Attack 7's sheet (see its note).
     Re-read on the scan (zoom): track 90 S, gyro 0 as typed. Tube 10 is a stern tube: heading 320 - 180 = 140 against target 215 gives about 105 S, not the computed 75 P (bow) nor the typed 90 S; the narrative (p16, 0433 I) also says 90 starboard track. Kept as typed.

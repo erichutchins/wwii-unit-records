@@ -25,8 +25,8 @@
   actuation_actual: '- (each column)'
   time: 1326(I)
   position: 36°-55'N 124°-01'E
-  page: rg367-74802868/p46
-  table_page: rg367-74802868/p47
+  page: rg38-74802868/p46
+  table_page: rg38-74802868/p47
   note: >-
     Own speed typed 3.0 (the point is faint and looks like a comma on the scan, p46). The typed tracks (146S, 148S,
     152S) are 3-4° less than own course 333 + gyro + 180 - target course 185 gives (150S, 152S, 155S); re-read at

@@ -35,7 +35,7 @@
   performance_satisfactory: "Yes"
   overhaul: U.S.S. BUSHNELL
   location: Lat. 18-15.5N Long. 120-18.4E
-  page: rg367-74856363/p26
+  page: rg38-74856363/p26
   narrative: >-
     0919 (H) commenced firing all six bow tubes on 90° starboard track with a 3,000 yard torpedo run. Four hits
     were felt and heard which appeared to be the first, third, fourth and fifth torpedoes fired, hitting ships
@@ -43,7 +43,7 @@
     straddling number two target.
   basis: >-
     hit (Hit on the first, third, fourth and fifth rows; Miss on the second and sixth) and tube 3 on the sixth
-    row from the narrative, rg367-74856363/p10; the rest from the summary table, p26.
+    row from the narrative, rg38-74856363/p10; the rest from the summary table, p26.
   note: >-
     A summary table, not a data sheet. Three drafts are typed for three targets (one AO, two AK) and one range
     (3,000), so the drafts are left out of attacks.csv: the narrative aims at the middle of a group of five
@@ -69,7 +69,7 @@
   performance_satisfactory: "Yes"
   overhaul: U.S.S. BUSHNELL
   location: Lat. 20-27N Long. 118-55.5E
-  page: rg367-74856363/p26
+  page: rg38-74856363/p26
   narrative: >-
     23-09-16(H) With range of 1,600 yards, fired 3 torpedoes from bow tubes on 105 starboard track, with 011°
     gyro for first torpedo, 4° spread. 23-09-52(H) With quick set-up, started firing 3 torpedoes at medium sized
@@ -79,7 +79,7 @@
     watching Tanker go down. ... 23-10-53(H) Hit in AK, unidentified ship of about 6,000 tons. 23-11-52(H) Hit in
     AK in far column. This torpedo had missed ahead of target we were shooting at.
   basis: >-
-    Which rows had which of the table's tracks, gyros and drafts from the narrative, rg367-74856363/p15: track
+    Which rows had which of the table's tracks, gyros and drafts from the narrative, rg38-74856363/p15: track
     105S and draft 29 (the tanker's) on the first three rows, 92S and 18 (an AK's) on the last three; gyro 011 on
     the first row and 333 on the fourth (the first of each salvo; the others' gyros are not given); hit on the
     first two rows. The values themselves, and the rest, from the summary table, p26.
@@ -109,7 +109,7 @@
   performance_satisfactory: "Yes"
   overhaul: U.S.S. BUSHNELL
   location: Lat. 20-54.8N Long. 118-14.9E
-  page: rg367-74856363/p26
+  page: rg38-74856363/p26
   narrative: >-
     0244 (H) Range 3,000 yards, slowed to 1/3 speed and swung hard left to bring stern tubes to bear. ... Picked
     up target from bridge and used TBT bearings. 0247 (H) Stopped and waited for favorable gyro angles.
@@ -117,7 +117,7 @@
     first gyro angle 171°. 02-51-57(H) First of three hits. These hits were observed from the bridge: first aft
     of bridge, second hit under bridge, third hit in bow. ... with the third hit she merely disintegrated.
   basis: >-
-    own_depth Surface from the narrative (target picked up from the bridge, TBT bearings), rg367-74856363/p17;
+    own_depth Surface from the narrative (target picked up from the bridge, TBT bearings), rg38-74856363/p17;
     the rest from the summary table, p26.
   note: >-
     The narrative's track (103° starboard) and spread (4°) agree with the table. It disagrees on the gyro: "first
@@ -139,7 +139,7 @@
   performance_satisfactory: "Yes"
   overhaul: U.S.S. BUSHNELL
   location: Lat. 20-57.4N Long. 118-06.3E
-  page: rg367-74856363/p26
+  page: rg38-74856363/p26
   narrative: >-
     0358 (H) Started in for another attack. ... came in on her starboard quarter for a bow tube shot ... Found
     gyro setting forward to be grounded and would not match. Trouble lights on TDC; so used Mark 8 angle solver
@@ -150,7 +150,7 @@
     beyond our target.
   basis: >-
     tube (1, 2, 3, 4, one per row in the order typed) and own_depth Surface (TBT bearings) from the narrative,
-    rg367-74856363/p18; the rest from the summary table, p26.
+    rg38-74856363/p18; the rest from the summary table, p26.
   note: >-
     The narrative disagrees with the table on the track (160 starboard against 155S), the range (3,000 yards
     against 3,520) and the target's speed (6 knots against 6.5); the CSV keeps the table's. It fires at 04-09-13 H
@@ -171,14 +171,14 @@
   performance_satisfactory: "Yes"
   overhaul: U.S.S. BUSHNELL
   location: Lat. 21-04N Long. 118-10.1E
-  page: rg367-74856363/p26
+  page: rg38-74856363/p26
   narrative: >-
     0847 (H) Target now had an 80° port angle on the bow, range 3,000 yards. Swung around to bring stern tubes to
     bear. 08-50-30(H) Started firing 4 torpedoes from stern tubes on 95° port track, range 3,300 yards, target
     speed 6.5 knots. Lat. 20-58N Long. 118-08E. 0853 (H) Target started turning away. 08-55-30(H) Heard 2
     explosions, but did not observe target at this time.
   basis: >-
-    No cell from the narrative (rg367-74856363/p19): it states no tube numbers, own course, speed or depth, or
+    No cell from the narrative (rg38-74856363/p19): it states no tube numbers, own course, speed or depth, or
     target course, and every value it does type differs from the table's or repeats it; all from the summary
     table, p26.
   note: >-

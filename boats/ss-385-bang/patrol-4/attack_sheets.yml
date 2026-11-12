@@ -32,8 +32,8 @@
   remarks: Miss due to spread used.
   time: '0032'
   position: 24°23'5N 122°41'E
-  page: rg367-74802868/p12
-  table_page: rg367-74802868/p13
+  page: rg38-74802868/p12
+  table_page: rg38-74802868/p13
   note: >-
     The target's speed is a blot on the scan (p12; read at zoom): unreadable, `?` in attacks.csv. The sheet types
     the hits once across the three columns ("2 Hits") and the remarks say one torpedo missed; which tube missed is
@@ -56,8 +56,8 @@
   remarks: Miss due to spread used.
   time: 0032-50
   position: 24°23'5N 122°41'E
-  page: rg367-74802868/p14
-  table_page: rg367-74802868/p15
+  page: rg38-74802868/p14
+  table_page: rg38-74802868/p15
   note: >-
     Time typed 0032-50 (p14); positions.csv has the minute, 0032. The hits are typed once across the columns
     ("2 Hits") with one miss in the remarks; which tube missed is not typed, so `hit` is blank for each torpedo.
@@ -81,8 +81,8 @@
     Misses due to target sinking before torpedoes reached track. Hit was in an overlapping target.
   time: 0034-50
   position: 24°23'5N 122°41'E
-  page: rg367-74802868/p16
-  table_page: rg367-74802868/p17
+  page: rg38-74802868/p16
+  table_page: rg38-74802868/p17
   note: >-
     Two drafts and two ranges are typed, one above the other (p16): attacks.csv gives the upper pair (28 ft,
     2200 yds), taken as the large AK the torpedoes were fired at; the 21 ft, 3100 yds pair is taken as the
@@ -107,8 +107,8 @@
   remarks: Misses probably due to depth setting too deep.
   time: '0147'
   position: 24°24'N 122°45'E
-  page: rg367-74802868/p18
-  table_page: rg367-74802868/p19
+  page: rg38-74802868/p18
+  table_page: rg38-74802868/p19
   note: Target draft typed 6'9" (p18); blank in attacks.csv (feet and inches do not fit a CSV cell).
 
 - attack: Attack 5
@@ -126,8 +126,8 @@
   remarks: Misses probably due to unknown control errors.
   time: '0148'
   position: 24°24'N 122°45'E
-  page: rg367-74802868/p20
-  table_page: rg367-74802868/p21
+  page: rg38-74802868/p20
+  table_page: rg38-74802868/p21
 
 - attack: Attack 6
   type_attack: >-
@@ -146,8 +146,8 @@
   remarks: Miss due to spread used.
   time: 0150-40
   position: 24°24'N 122°45'E
-  page: rg367-74802868/p22
-  table_page: rg367-74802868/p23
+  page: rg38-74802868/p22
+  table_page: rg38-74802868/p23
   note: >-
     Time typed 0150-40 (p22); positions.csv has the minute, 0150. The hits are typed once across the columns
     ("3 Hits") with one miss in the remarks; which tube missed is not typed, so `hit` is blank for each torpedo.
@@ -171,8 +171,8 @@
   remarks: Misses due to spread used.
   time: '0314'
   position: 24°12'N 122°53'E
-  page: rg367-74802868/p24
-  table_page: rg367-74802868/p25
+  page: rg38-74802868/p24
+  table_page: rg38-74802868/p25
   note: >-
     Target draft typed 10'1" (p24); blank in attacks.csv (feet and inches do not fit a CSV cell). Depth set typed
     3 ft for all four torpedoes (p25), against 6 ft in attacks 1-6. Tubes 4 and 2 are typed with the same track

@@ -1,15 +1,15 @@
 attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
-Attack 1,1944-12-02,0414,I,1,320,4,60,230,8,1030,unknown,108P,344,10',Single Power,Miss,No,18-1,,,Continuous Bearing,,rg367-74843922/p24
-Attack 1,1944-12-02,0414,I,2,320,4,60,230,8,1030,unknown,110P,338,10',Single Power,Miss,No,18-1,10,,Continuous Bearing,,rg367-74843922/p24
-Attack 1,1944-12-02,0414,I,3,320,4,60,230,8,1030,unknown,110P,340,10',Single Power,Miss,No,18-1,10,,Continuous Bearing,,rg367-74843922/p24
-Attack 1,1944-12-02,0414,I,4,320,4,60,230,8,1030,unknown,114P,335,10',Single Power,Miss,No,18-1,10,,Continuous Bearing,,rg367-74843922/p24
-Attack 2,1944-12-02,0424,I,5,328,4,60,230,8,620,Unknown,105P,336,10',Single Power,Hit,No,18-1,0,,Continuous Bearing,,rg367-74843922/p26
-Attack 2,1944-12-02,0424,I,6,328,4,60,230,8,620,Unknown,110P,333,10',Single Power,Hit,No,18-1,8,,Continuous Bearing,,rg367-74843922/p26
-Attack 3,1944-12-02,0429,I,7,053,5,60,230,8,1350,Unknown,97P,210,10',Single Power,Miss,No,23,,,Continuous Bearing,,rg367-74843922/p28
-Attack 3,1944-12-02,0429,I,8,053,5,60,230,8,1350,Unknown,102P,205,10',Single Power,Miss,No,23,10,,Continuous Bearing,,rg367-74843922/p28
-Attack 3,1944-12-02,0429,I,9,053,5,60,230,8,1350,Unknown,100P,206,10',Single Power,Miss,No,23,10,,Continuous Bearing,,rg367-74843922/p28
-Attack 3,1944-12-02,0429,I,10,053,5,60,230,8,1350,Unknown,104P,202,10',Single Power,Hit,No,23,10,,Continuous Bearing,,rg367-74843922/p28
-Attack 4,1944-12-09,0028,I,7,161,4,42,050,19,4315,28,110S,179,6',Single Power,Miss,No,23,,,Offset,,rg367-74843922/p30
-Attack 4,1944-12-09,0028,I,8,161,4,42,050,19,4315,28,112S,181,6',Single Power,Hit,No,23,10,,Offset,,rg367-74843922/p30
-Attack 4,1944-12-09,0028,I,9,161,4,42,050,19,4315,28,115S,182-30,6',Single Power,Hit,No,23,10,,Offset,,rg367-74843922/p30
-Attack 4,1944-12-09,0028,I,10,161,4,42,050,19,4315,28,117S,183,6',Single Power,Miss (?),No,23,10,,Offset,,rg367-74843922/p30
+Attack 1,1944-12-02,0414,I,1,320,4,60,230,8,1030,unknown,108P,344,10',Single Power,Miss,No,18-1,,,Continuous Bearing,,rg38-74843922/p24
+Attack 1,1944-12-02,0414,I,2,320,4,60,230,8,1030,unknown,110P,338,10',Single Power,Miss,No,18-1,10,,Continuous Bearing,,rg38-74843922/p24
+Attack 1,1944-12-02,0414,I,3,320,4,60,230,8,1030,unknown,110P,340,10',Single Power,Miss,No,18-1,10,,Continuous Bearing,,rg38-74843922/p24
+Attack 1,1944-12-02,0414,I,4,320,4,60,230,8,1030,unknown,114P,335,10',Single Power,Miss,No,18-1,10,,Continuous Bearing,,rg38-74843922/p24
+Attack 2,1944-12-02,0424,I,5,328,4,60,230,8,620,Unknown,105P,336,10',Single Power,Hit,No,18-1,0,,Continuous Bearing,,rg38-74843922/p26
+Attack 2,1944-12-02,0424,I,6,328,4,60,230,8,620,Unknown,110P,333,10',Single Power,Hit,No,18-1,8,,Continuous Bearing,,rg38-74843922/p26
+Attack 3,1944-12-02,0429,I,7,053,5,60,230,8,1350,Unknown,97P,210,10',Single Power,Miss,No,23,,,Continuous Bearing,,rg38-74843922/p28
+Attack 3,1944-12-02,0429,I,8,053,5,60,230,8,1350,Unknown,102P,205,10',Single Power,Miss,No,23,10,,Continuous Bearing,,rg38-74843922/p28
+Attack 3,1944-12-02,0429,I,9,053,5,60,230,8,1350,Unknown,100P,206,10',Single Power,Miss,No,23,10,,Continuous Bearing,,rg38-74843922/p28
+Attack 3,1944-12-02,0429,I,10,053,5,60,230,8,1350,Unknown,104P,202,10',Single Power,Hit,No,23,10,,Continuous Bearing,,rg38-74843922/p28
+Attack 4,1944-12-09,0028,I,7,161,4,42,050,19,4315,28,110S,179,6',Single Power,Miss,No,23,,,Offset,,rg38-74843922/p30
+Attack 4,1944-12-09,0028,I,8,161,4,42,050,19,4315,28,112S,181,6',Single Power,Hit,No,23,10,,Offset,,rg38-74843922/p30
+Attack 4,1944-12-09,0028,I,9,161,4,42,050,19,4315,28,115S,182-30,6',Single Power,Hit,No,23,10,,Offset,,rg38-74843922/p30
+Attack 4,1944-12-09,0028,I,10,161,4,42,050,19,4315,28,117S,183,6',Single Power,Miss (?),No,23,10,,Offset,,rg38-74843922/p30

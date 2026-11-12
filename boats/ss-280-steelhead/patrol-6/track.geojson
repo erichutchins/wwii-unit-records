@@ -250,7 +250,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-06-17 0930(Y)",
-    "page": "rg367-74851415/p03",
+    "page": "rg38-74851415/p03",
     "note": "Underway from Midway in company with PARCHE and HAMMERHEAD (port position; the report types none)",
     "fix": ""
    },
@@ -273,7 +273,7 @@
     "lat_raw": "30-14N",
     "lon_raw": "165-12E",
     "local": "1944-06-21 1830(L)",
-    "page": "rg367-74851415/p03",
+    "page": "rg38-74851415/p03",
     "note": "Rendezvoused with the PARCHE and HAMMERHEAD; instructions from Group Commander via bottle express",
     "fix": ""
    },
@@ -296,7 +296,7 @@
     "lat_raw": "30-34N",
     "lon_raw": "154-06E",
     "local": "1944-06-23 1810(K)",
-    "page": "rg367-74851415/p04",
+    "page": "rg38-74851415/p04",
     "note": "Picked up a Japanese beer bottle with a message in Japanese characters",
     "fix": ""
    },
@@ -319,8 +319,8 @@
     "lat_raw": "30-05N",
     "lon_raw": "149-51E",
     "local": "1944-06-24 1200(K)",
-    "page": "rg367-74851415/p04",
-    "note": "Sighted a plane similar to \"BETTY\"; dove; Aircraft contacts table (G) 1A (rg367-74851415/p29): BETTY 1; Pat.; Sight; 20,000 yds; elevation 2\u00b0; plane at 18,000 320\u00b0 R. when it detected S/M; 13 knots 263 Surf.; SD cont. Table types 1300 (-10), the narrative 1200 K; same position",
+    "page": "rg38-74851415/p04",
+    "note": "Sighted a plane similar to \"BETTY\"; dove; Aircraft contacts table (G) 1A (rg38-74851415/p29): BETTY 1; Pat.; Sight; 20,000 yds; elevation 2\u00b0; plane at 18,000 320\u00b0 R. when it detected S/M; 13 knots 263 Surf.; SD cont. Table types 1300 (-10), the narrative 1200 K; same position",
     "fix": ""
    },
    "geometry": {
@@ -342,7 +342,7 @@
     "lat_raw": "29-55N",
     "lon_raw": "148-34E",
     "local": "1944-06-24 1850(K)",
-    "page": "rg367-74851415/p04",
+    "page": "rg38-74851415/p04",
     "note": "Sighted an abandoned life raft; no signs of survivors",
     "fix": ""
    },
@@ -365,8 +365,8 @@
     "lat_raw": "29-30N",
     "lon_raw": "145-43E",
     "local": "1944-06-25 0800(K)",
-    "page": "rg367-74851415/p04",
-    "note": "Sighted a float type biplane; dove; Aircraft contacts table (G) 2A (rg367-74851415/p29): DAVE 1; Pat.; Sight; 12,000; elevation 6\u00b0; plane at 16,000 130\u00b0 R. when it detected S/M; 13 knots 263 Surf.; SD cont. Table types the date 6-24-44, the narrative 25 June; same time and position",
+    "page": "rg38-74851415/p04",
+    "note": "Sighted a float type biplane; dove; Aircraft contacts table (G) 2A (rg38-74851415/p29): DAVE 1; Pat.; Sight; 12,000; elevation 6\u00b0; plane at 16,000 130\u00b0 R. when it detected S/M; 13 knots 263 Surf.; SD cont. Table types the date 6-24-44, the narrative 25 June; same time and position",
     "fix": ""
    },
    "geometry": {
@@ -388,8 +388,8 @@
     "lat_raw": "29-30N",
     "lon_raw": "144-29E",
     "local": "1944-06-25 1400(K)",
-    "page": "rg367-74851415/p04",
-    "note": "Sighted a \"BETTY\" type plane bearing 070 T.; time typed 140? (last digit faint, 1400 likely); Aircraft contacts table (G) 3A (rg367-74851415/p29): BETTY 1; Pat.; Sight; 20,000; elevation 3\u00b0; 13 knots 270 Surf.; SD cont. Table types 1400 (the narrative's faint last figure); same position",
+    "page": "rg38-74851415/p04",
+    "note": "Sighted a \"BETTY\" type plane bearing 070 T.; time typed 140? (last digit faint, 1400 likely); Aircraft contacts table (G) 3A (rg38-74851415/p29): BETTY 1; Pat.; Sight; 20,000; elevation 3\u00b0; 13 knots 270 Surf.; SD cont. Table types 1400 (the narrative's faint last figure); same position",
     "fix": ""
    },
    "geometry": {
@@ -411,8 +411,8 @@
     "lat_raw": "29-30N",
     "lon_raw": "144-28E",
     "local": "1944-06-25 1407(K)",
-    "page": "rg367-74851415/p04",
-    "note": "Sighted a four engine \"MAVIS\" bearing 030 T. distance 13 miles; Aircraft contacts table (G) 4A (rg367-74851415/p29): MAVIS 1; Pat.; Sight; 26,000; elevation 2\u00b0; 13 knots 270 Surf.; SD cont. Table types the date 6-24-44, the narrative 25 June; same time and position",
+    "page": "rg38-74851415/p04",
+    "note": "Sighted a four engine \"MAVIS\" bearing 030 T. distance 13 miles; Aircraft contacts table (G) 4A (rg38-74851415/p29): MAVIS 1; Pat.; Sight; 26,000; elevation 2\u00b0; 13 knots 270 Surf.; SD cont. Table types the date 6-24-44, the narrative 25 June; same time and position",
     "fix": ""
    },
    "geometry": {
@@ -434,7 +434,7 @@
     "lat_raw": "29-18N",
     "lon_raw": "141-12E",
     "local": "1944-06-26 0714(K)",
-    "page": "rg367-74851415/p05",
+    "page": "rg38-74851415/p05",
     "note": "Sighted surfaced gray submarine bearing 135 T. distance 6 miles; radio showed it was HAMMERHEAD",
     "fix": ""
    },
@@ -457,8 +457,8 @@
     "lat_raw": "29-17N",
     "lon_raw": "141-08E",
     "local": "1944-06-26 0740(K)",
-    "page": "rg367-74851415/p05",
-    "note": "SD radar indication 18 miles; did not dive; Aircraft contacts table (G) 5A (rg367-74851415/p29): type --, 1; Pat.; SD; 36,000; 14 knots 267 Surf.; SD 0 minutes; same time and position",
+    "page": "rg38-74851415/p05",
+    "note": "SD radar indication 18 miles; did not dive; Aircraft contacts table (G) 5A (rg38-74851415/p29): type --, 1; Pat.; SD; 36,000; 14 knots 267 Surf.; SD 0 minutes; same time and position",
     "fix": ""
    },
    "geometry": {
@@ -480,8 +480,8 @@
     "lat_raw": "29-14N",
     "lon_raw": "140-40E",
     "local": "1944-06-26 0910(K)",
-    "page": "rg367-74851415/p05",
-    "note": "SD radar indication 6 miles and closing; dove; Aircraft contacts table (G) 6A (rg367-74851415/p30): type -, 1; Pat.; SD; 12,000; 14 knots 267 Surf.; SD 0; same",
+    "page": "rg38-74851415/p05",
+    "note": "SD radar indication 6 miles and closing; dove; Aircraft contacts table (G) 6A (rg38-74851415/p30): type -, 1; Pat.; SD; 12,000; 14 knots 267 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -503,7 +503,7 @@
     "lat_raw": "26-50N",
     "lon_raw": "132-45E",
     "local": "1944-06-28 1435(I)",
-    "page": "rg367-74851415/p05",
+    "page": "rg38-74851415/p05",
     "note": "Sighted a periscope bearing 038 T. distance 10 miles; a gray submarine believed to be the PARCHE",
     "fix": ""
    },
@@ -526,7 +526,7 @@
     "lat_raw": "19-50N",
     "lon_raw": "124-20E",
     "local": "1944-07-01 2115(I)",
-    "page": "rg367-74851415/p06",
+    "page": "rg38-74851415/p06",
     "note": "Effected rendezvous with PARCHE and exchanged messages on SJ radar and with blinker gun",
     "fix": ""
    },
@@ -549,8 +549,8 @@
     "lat_raw": "19-29N",
     "lon_raw": "122-27E",
     "local": "1944-07-02 0730(I)",
-    "page": "rg367-74851415/p06",
-    "note": "Sighted a signel engine monoplane bearing 090 T. distance 5 miles; at 0605 BATAN ISLAND bore 298 T. 25 miles and at 0653 BABYUAN ISLAND bore 237 T. and BALINTANG ISLAND 271 T., which put her nearer 20 N than the typed 19-29N; Aircraft contacts table (G) 7A (rg367-74851415/p30): type -, 1; Pat.; Sight; 10,000; elevation 2\u00b0; 2 knots 090 Per.; same",
+    "page": "rg38-74851415/p06",
+    "note": "Sighted a signel engine monoplane bearing 090 T. distance 5 miles; at 0605 BATAN ISLAND bore 298 T. 25 miles and at 0653 BABYUAN ISLAND bore 237 T. and BALINTANG ISLAND 271 T., which put her nearer 20 N than the typed 19-29N; Aircraft contacts table (G) 7A (rg38-74851415/p30): type -, 1; Pat.; Sight; 10,000; elevation 2\u00b0; 2 knots 090 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -572,8 +572,8 @@
     "lat_raw": "20-01N",
     "lon_raw": "121-01E",
     "local": "1944-07-03 0800(I)",
-    "page": "rg367-74851415/p06",
-    "note": "Sighted a two engine bomber bearing 130 T. distance 14 miles headed on a northerly course; Aircraft contacts table (G) 8A (rg367-74851415/p30): NELL 1; Pat.; Sight; 14 mi.; elevation 2\u00b0; 2 knots 270 Surf.; same",
+    "page": "rg38-74851415/p06",
+    "note": "Sighted a two engine bomber bearing 130 T. distance 14 miles headed on a northerly course; Aircraft contacts table (G) 8A (rg38-74851415/p30): NELL 1; Pat.; Sight; 14 mi.; elevation 2\u00b0; 2 knots 270 Surf.; same",
     "fix": ""
    },
    "geometry": {
@@ -595,8 +595,8 @@
     "lat_raw": "20-01N",
     "lon_raw": "120-56E",
     "local": "1944-07-03 0920(I)",
-    "page": "rg367-74851415/p07",
-    "note": "SD indication of a plane range 20 miles; dove 0930; Aircraft contacts table (G) 9A (rg367-74851415/p30): type -, 3; mission typed H; SD; 20 mi.; 12 knots 270 Per.; SD 0; same (the narrative doesn't give the number)",
+    "page": "rg38-74851415/p07",
+    "note": "SD indication of a plane range 20 miles; dove 0930; Aircraft contacts table (G) 9A (rg38-74851415/p30): type -, 3; mission typed H; SD; 20 mi.; 12 knots 270 Per.; SD 0; same (the narrative doesn't give the number)",
     "fix": ""
    },
    "geometry": {
@@ -618,8 +618,8 @@
     "lat_raw": "20-06N",
     "lon_raw": "120-41E",
     "local": "1944-07-03 1313(I)",
-    "page": "rg367-74851415/p07",
-    "note": "Sighted a twin engine bomber bearing 016 T. distance 12 miles; minute sign missing on longitude (120 41 E.); Aircraft contacts table (G) 10A (rg367-74851415/p30): SALLY 1; Pat.; Sight; 12 mi.; elevation 4\u00b0; 2 knots 270 Per.; same; the table types 120\u00b041'E with its minute sign",
+    "page": "rg38-74851415/p07",
+    "note": "Sighted a twin engine bomber bearing 016 T. distance 12 miles; minute sign missing on longitude (120 41 E.); Aircraft contacts table (G) 10A (rg38-74851415/p30): SALLY 1; Pat.; Sight; 12 mi.; elevation 4\u00b0; 2 knots 270 Per.; same; the table types 120\u00b041'E with its minute sign",
     "fix": ""
    },
    "geometry": {
@@ -641,7 +641,7 @@
     "lat_raw": "20-09N",
     "lon_raw": "120-35E",
     "local": "1944-07-03 1504(I)",
-    "page": "rg367-74851415/p07",
+    "page": "rg38-74851415/p07",
     "note": "Sighted a small fishing sampan bearing 330 T. distance 5 miles (STEELHEAD's position as typed in the narrative)",
     "fix": ""
    },
@@ -664,7 +664,7 @@
     "lat_raw": "20-09N",
     "lon_raw": "120-34E",
     "local": "1944-07-03 1504(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "Sampan 5 mi.; Various 5 kts.; P; Fishing.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -687,7 +687,7 @@
     "lat_raw": "20-19N",
     "lon_raw": "118-57E",
     "local": "1944-07-05 2208(I)",
-    "page": "rg367-74851415/p08",
+    "page": "rg38-74851415/p08",
     "note": "SJ radar contact bearing 225 T. range 9500 yards tracked on course 065 T. speed 10 knots; at 2315 (Contact 2) a gray submarine passed 680 yards astern and looked like the SEAHORSE",
     "fix": ""
    },
@@ -710,7 +710,7 @@
     "lat_raw": "20-19N",
     "lon_raw": "118-57E",
     "local": "1944-07-05 2315(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "Sub. 4\u00bd mi.; 065\u00b0T. 10 kts.; R; SEAHORSE.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -733,7 +733,7 @@
     "lat_raw": "20-15N",
     "lon_raw": "118-45E",
     "local": "1944-07-07 0200(I)",
-    "page": "rg367-74851415/p09",
+    "page": "rg38-74851415/p09",
     "note": "Decoded ComSubsPac 061547; headed south at maximum speed (6 July 2236: identified the source of radar interference to the westward as the BANG; all signals were made over SJ)",
     "fix": ""
    },
@@ -756,8 +756,8 @@
     "lat_raw": "19-01N",
     "lon_raw": "120-02E",
     "local": "1944-07-07 0822(I)",
-    "page": "rg367-74851415/p09",
-    "note": "SD radar indication 16 miles moving in; dove 0825 8 miles from station; Aircraft contacts table (G) 11A (rg367-74851415/p31): type --, 1; Pat.; SD; 16 mi.; 19 knots 137 Surf.; SD 0; same",
+    "page": "rg38-74851415/p09",
+    "note": "SD radar indication 16 miles moving in; dove 0825 8 miles from station; Aircraft contacts table (G) 11A (rg38-74851415/p31): type --, 1; Pat.; SD; 16 mi.; 19 knots 137 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -780,7 +780,7 @@
     "lon_raw": "120-08E",
     "typed": "18-5N 120-08E",
     "local": "1944-07-08 1004(I)",
-    "page": "rg367-74851415/p10",
+    "page": "rg38-74851415/p10",
     "note": "Sighted banca or patrol boat apparently engaged in fishing bearing 080 T. distance 6 miles; latitude typed 18\u00b0 5' (one minute digit, read on the zoom); at 2000 fired across her bow with 20 MM and made firing runs with 20 MM and 50 cal. (Gun Attack No. 1, p40)",
     "fix": "a minute digit dropped: the ship contacts table (p28) types 18-50 N for the same contact and time"
    },
@@ -803,7 +803,7 @@
     "lat_raw": "18-50N",
     "lon_raw": "120-08E",
     "local": "1944-07-08 1004(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "Banca 6 mi.; Various 5 kts.; P; Fishing.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -827,7 +827,7 @@
     "lon_raw": "120-08E",
     "typed": "18-05N 120-08E",
     "local": "1944-07-08 2000(I)",
-    "page": "rg367-74851415/p40",
+    "page": "rg38-74851415/p40",
     "note": "Gun attack sheet: GUN ATTACK NO. 1; Sunk: None. Damaged: One banca or patrol boat, small, about 30 tons, unidentified, probably Filipino. Fired both 20 MM and 1-.50 cal. machine at ranges varying from 1,000 to 250 yards; expended 504 rounds of 20 MM and 700 rounds of .50 cal. with low percentage of hits; target returned fire with a small automatic weapon. 'This vessel is believed to be that reported sunk later by U.S.S. HAMMERHEAD in this vicinity after the moon had risen.' Page numbered 37a.",
     "fix": "the sheet repeats the narrative's 1004 latitude (p10, typed 18\u00b0 5'); the ship contacts table (p28) types 18-50 N for the banca, which fits the 2211 fix at 19-21N; probably the target's position, so off the track"
    },
@@ -850,7 +850,7 @@
     "lat_raw": "19-21N",
     "lon_raw": "120-05E",
     "local": "1944-07-08 2211(I)",
-    "page": "rg367-74851415/p10",
+    "page": "rg38-74851415/p10",
     "note": "SJ radar contact bearing 350 T. range 9100 yards; four pips; plot course 225 speed 5 knots",
     "fix": ""
    },
@@ -873,7 +873,7 @@
     "lat_raw": "19-21N",
     "lon_raw": "120-05E",
     "local": "1944-07-08 2211(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "4 patrol boat 4\u00bd mi.; 225\u00b0T. 5 kts.; R; Patrolling.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -896,7 +896,7 @@
     "lat_raw": "20-39N",
     "lon_raw": "118-14E",
     "local": "1944-07-10 0540(I)",
-    "page": "rg367-74851415/p11",
+    "page": "rg38-74851415/p11",
     "note": "Sighted bright white flare to eastward apparently dropped from a plane (14 July 0350: in response to directions from PARCHE came close aboard and received a modified schedule from the Group Commander)",
     "fix": ""
    },
@@ -919,7 +919,7 @@
     "lat_raw": "17-58N",
     "lon_raw": "117-05E",
     "local": "1944-07-19 0602(I)",
-    "page": "rg367-74851415/p13",
+    "page": "rg38-74851415/p13",
     "note": "Message from PARCHE directing a course change to 035 T. and slowing to standard speed",
     "fix": ""
    },
@@ -942,7 +942,7 @@
     "lat_raw": "18-32N",
     "lon_raw": "117-37E",
     "local": "1944-07-19 0908(I)",
-    "page": "rg367-74851415/p13",
+    "page": "rg38-74851415/p13",
     "note": "Dove (0905: HAMMERHEAD reported she had been attacked by aircraft)",
     "fix": ""
    },
@@ -965,8 +965,8 @@
     "lat_raw": "18-15N",
     "lon_raw": "117-34E",
     "local": "1944-07-19 1251(I)",
-    "page": "rg367-74851415/p13",
-    "note": "SD contact 8 miles moving in; dove 1252; Aircraft contacts table (G) 12A (rg367-74851415/p31): type --, 1; Esc.; SD; 8 mi.; 16 knots 190 Surf.; SD 0; same",
+    "page": "rg38-74851415/p13",
+    "note": "SD contact 8 miles moving in; dove 1252; Aircraft contacts table (G) 12A (rg38-74851415/p31): type --, 1; Esc.; SD; 8 mi.; 16 knots 190 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -988,7 +988,7 @@
     "lat_raw": "18-08N",
     "lon_raw": "117-32E",
     "local": "1944-07-19 1409(I)",
-    "page": "rg367-74851415/p14",
+    "page": "rg38-74851415/p14",
     "note": "Received contact report from PARCHE on an unescorted aircraft carrier; went to flank speed towards its reported track",
     "fix": ""
    },
@@ -1011,8 +1011,8 @@
     "lat_raw": "18-07N",
     "lon_raw": "117-40E",
     "local": "1944-07-19 1445(I)",
-    "page": "rg367-74851415/p14",
-    "note": "SD contact 6 miles moving in very fast; dove 1446; 1448 received one large bomb while passing 150 feet; Aircraft contacts table (G) 13A (rg367-74851415/p31): type --, 1; Esc.; SD; 6 mi.; 12 knots 150 Surf.; SD 0; same",
+    "page": "rg38-74851415/p14",
+    "note": "SD contact 6 miles moving in very fast; dove 1446; 1448 received one large bomb while passing 150 feet; Aircraft contacts table (G) 13A (rg38-74851415/p31): type --, 1; Esc.; SD; 6 mi.; 12 knots 150 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -1034,7 +1034,7 @@
     "lat_raw": "21-26N",
     "lon_raw": "119-15E",
     "local": "1944-07-23 0421(I)",
-    "page": "rg367-74851415/p16",
+    "page": "rg38-74851415/p16",
     "note": "SJ contact bearing 132 T. range 13000 yards; made out at 0606 to be a CHIDORI class destroyer (STEELHEAD's position as typed in the narrative)",
     "fix": ""
    },
@@ -1057,7 +1057,7 @@
     "lat_raw": "21-26N",
     "lon_raw": "119-15E",
     "local": "1944-07-23 0421(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "Patrol boat 6\u00bd mi.; 000\u00b0T. 13 kts.; R; CHIDORI class torpedo boat.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -1080,8 +1080,8 @@
     "lat_raw": "21-30N",
     "lon_raw": "119-13E",
     "local": "1944-07-23 1158(I)",
-    "page": "rg367-74851415/p16",
-    "note": "Sighted \"MAVIS\" four engine bomber bearing 260 T. distance 4 miles on a southerly course; Aircraft contacts table (G) 14A (rg367-74851415/p31): MAVIS 1; Pat.; Sight; 4 mi.; elevation 12\u00b0; 2 knots 180 Per.; same",
+    "page": "rg38-74851415/p16",
+    "note": "Sighted \"MAVIS\" four engine bomber bearing 260 T. distance 4 miles on a southerly course; Aircraft contacts table (G) 14A (rg38-74851415/p31): MAVIS 1; Pat.; Sight; 4 mi.; elevation 12\u00b0; 2 knots 180 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -1103,8 +1103,8 @@
     "lat_raw": "21-23N",
     "lon_raw": "119-12E",
     "local": "1944-07-23 1545(I)",
-    "page": "rg367-74851415/p17",
-    "note": "Sighted \"MAVIS\" again bearing 230 T. course 070 T.; Aircraft contacts table (G) 15A (rg367-74851415/p31): MAVIS 1; Pat.; Sight; 6 mi.; elevation 6\u00b0; 2 knots 180 Per.; same",
+    "page": "rg38-74851415/p17",
+    "note": "Sighted \"MAVIS\" again bearing 230 T. course 070 T.; Aircraft contacts table (G) 15A (rg38-74851415/p31): MAVIS 1; Pat.; Sight; 6 mi.; elevation 6\u00b0; 2 knots 180 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -1126,7 +1126,7 @@
     "lat_raw": "20-10N",
     "lon_raw": "121-56E",
     "local": "1944-07-26 1655(I)",
-    "page": "rg367-74851415/p17",
+    "page": "rg38-74851415/p17",
     "note": "Heard loud explosion and saw large column of white smoke bearing 221 T. distance 12 miles (on station in Balintang Channel; SJ interference from PARCHE HAMMERHEAD and subs of WILKIN's WILDCATS)",
     "fix": ""
    },
@@ -1149,7 +1149,7 @@
     "lat_raw": "20-10N",
     "lon_raw": "121-56E",
     "local": "1944-07-26 1655(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "Jap. Sub. 12 mi.; Unknown; P; Later identified as Jap sub sunk by SAWFISH",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -1172,7 +1172,7 @@
     "lat_raw": "20-13N",
     "lon_raw": "121-43E",
     "local": "1944-07-26 2218(I)",
-    "page": "rg367-74851415/p18",
+    "page": "rg38-74851415/p18",
     "note": "SJ radar contact bearing 268 T. range 11050 yards; identified as a patrol boat on course 350 T. speed 6 knots; avoided (STEELHEAD's position as typed)",
     "fix": ""
    },
@@ -1195,7 +1195,7 @@
     "lat_raw": "20-13N",
     "lon_raw": "121-43E",
     "local": "1944-07-26 2218(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "Patrol Boat 5\u00bd mi.; 350\u00b0T. 6 kts.; R; Possible radar interference from this contact",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -1218,8 +1218,8 @@
     "lat_raw": "20-37N",
     "lon_raw": "120-45E",
     "local": "1944-07-30 0626(I)",
-    "page": "rg367-74851415/p19",
-    "note": "Sighted plane bearing 100 T. distance 10 miles moving in (narrative; 0420 had received HAMMERHEAD's convoy contact report and proceeded east at maximum speed); Aircraft contacts table (G) 16A (rg367-74851415/p32): MAVIS 1; Esc.; Sight; 10 mi.; elevation 3\u00b0; 18 knots 065 Surf.; SD cont.; same (the narrative names no type)",
+    "page": "rg38-74851415/p19",
+    "note": "Sighted plane bearing 100 T. distance 10 miles moving in (narrative; 0420 had received HAMMERHEAD's convoy contact report and proceeded east at maximum speed); Aircraft contacts table (G) 16A (rg38-74851415/p32): MAVIS 1; Esc.; Sight; 10 mi.; elevation 3\u00b0; 18 knots 065 Surf.; SD cont.; same (the narrative names no type)",
     "fix": ""
    },
    "geometry": {
@@ -1241,8 +1241,8 @@
     "lat_raw": "20-38N",
     "lon_raw": "120-50E",
     "local": "1944-07-30 0712(I)",
-    "page": "rg367-74851415/p20",
-    "note": "Sighted a two engine bomber bearing 110 T. distance 10 miles; dove 0716; Aircraft contacts table (G) 17A (rg367-74851415/p32): NELL 1; Esc.; Sight; 8 mi.; elevation 4\u00b0; 14 knots 065 Surf.; SD cont.; same (longitude typed 120\u00b050\u00b0E)",
+    "page": "rg38-74851415/p20",
+    "note": "Sighted a two engine bomber bearing 110 T. distance 10 miles; dove 0716; Aircraft contacts table (G) 17A (rg38-74851415/p32): NELL 1; Esc.; Sight; 8 mi.; elevation 4\u00b0; 14 knots 065 Surf.; SD cont.; same (longitude typed 120\u00b050\u00b0E)",
     "fix": ""
    },
    "geometry": {
@@ -1264,7 +1264,7 @@
     "lat_raw": "20-39N",
     "lon_raw": "120-55E",
     "local": "1944-07-30 0848(I)",
-    "page": "rg367-74851415/p20",
+    "page": "rg38-74851415/p20",
     "note": "Sighted smoke on horizon bearing 304 T.; identified 0900 as patrol craft",
     "fix": ""
    },
@@ -1287,7 +1287,7 @@
     "lat_raw": "20-39N",
     "lon_raw": "120-55E",
     "local": "1944-07-30 0848(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "Smoke 15 mi.; 160\u00b0T. 8 kts.; P; Contact proved to be patrol boat.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -1310,8 +1310,8 @@
     "lat_raw": "20-39N",
     "lon_raw": "120-54E",
     "local": "1944-07-30 0914(I)",
-    "page": "rg367-74851415/p20",
-    "note": "Sighted aircraft similar to \"CHERRY\" ONI 249 bearing 270 T. distance 10 miles; Aircraft contacts table (G) 18A (rg367-74851415/p32): CHERRY 1; Esc.; Sight; 10 mi.; elevation 2\u00b0; 2 knots 225 Per.; same",
+    "page": "rg38-74851415/p20",
+    "note": "Sighted aircraft similar to \"CHERRY\" ONI 249 bearing 270 T. distance 10 miles; Aircraft contacts table (G) 18A (rg38-74851415/p32): CHERRY 1; Esc.; Sight; 10 mi.; elevation 2\u00b0; 2 knots 225 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -1333,7 +1333,7 @@
     "lat_raw": "20-39N",
     "lon_raw": "120-58E",
     "local": "1944-07-30 1030(I)",
-    "page": "rg367-74851415/p20",
+    "page": "rg38-74851415/p20",
     "note": "Sighted smoke on the horizon bearing 225 T. distance 20 miles; convoy on a southeasterly course with air escort",
     "fix": ""
    },
@@ -1356,7 +1356,7 @@
     "lat_raw": "20-39N",
     "lon_raw": "120-58E",
     "local": "1944-07-30 1030(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "Smoke 20 mi.; Various Unknown; P; Convoy later attacked.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -1379,8 +1379,8 @@
     "lat_raw": "20-40N",
     "lon_raw": "121-53E",
     "local": "1944-07-30 1412(I)",
-    "page": "rg367-74851415/p21",
-    "note": "Sighted \"CHERRY\" ONI 249 over convoy; Aircraft contacts table (G) 19A (rg367-74851415/p32): CHERRY 1; Esc.; Sight; 10 mi.; elevation 3\u00b0; 15 knots 160 Surf.; SD cont.; same",
+    "page": "rg38-74851415/p21",
+    "note": "Sighted \"CHERRY\" ONI 249 over convoy; Aircraft contacts table (G) 19A (rg38-74851415/p32): CHERRY 1; Esc.; Sight; 10 mi.; elevation 3\u00b0; 15 knots 160 Surf.; SD cont.; same",
     "fix": ""
    },
    "geometry": {
@@ -1402,8 +1402,8 @@
     "lat_raw": "20-38N",
     "lon_raw": "121-53E",
     "local": "1944-07-30 1457(I)",
-    "page": "rg367-74851415/p21",
-    "note": "Sighted our \"MAVIS\" over convoy; convoy bore 204 T. distance 12 miles; Aircraft contacts table (G) 20A (rg367-74851415/p32): MAVIS 1; Esc.; Sight-SD; 12 mi.; elevation 2\u00b0; 12 knots 160 Surf.; SD 0; same",
+    "page": "rg38-74851415/p21",
+    "note": "Sighted our \"MAVIS\" over convoy; convoy bore 204 T. distance 12 miles; Aircraft contacts table (G) 20A (rg38-74851415/p32): MAVIS 1; Esc.; Sight-SD; 12 mi.; elevation 2\u00b0; 12 knots 160 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -1425,8 +1425,8 @@
     "lat_raw": "20-25N",
     "lon_raw": "121-24E",
     "local": "1944-07-30 1650(I)",
-    "page": "rg367-74851415/p21",
-    "note": "A third plane similar to \"DAVE\" ONI 249 had joined the air escort; Aircraft contacts table (G) 21A (rg367-74851415/p33): DAVE 1; Esc.; Sight-SD; 10 mi.; elevation 2\u00b0; 12 knots 180 Surf.; SD 0; same",
+    "page": "rg38-74851415/p21",
+    "note": "A third plane similar to \"DAVE\" ONI 249 had joined the air escort; Aircraft contacts table (G) 21A (rg38-74851415/p33): DAVE 1; Esc.; Sight-SD; 10 mi.; elevation 2\u00b0; 12 knots 180 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -1448,8 +1448,8 @@
     "lat_raw": "20-24N",
     "lon_raw": "121-24E",
     "local": "1944-07-30 1655(I)",
-    "page": "rg367-74851415/p21",
-    "note": "Sighted another plane; Aircraft contacts table (G) 22A (rg367-74851415/p33): NELL 2; Esc.; Sight-SD; 12 mi.; elevation 2\u00b0; 12 knots 180 Surf.; SD 0; same (the narrative has 'another plane')",
+    "page": "rg38-74851415/p21",
+    "note": "Sighted another plane; Aircraft contacts table (G) 22A (rg38-74851415/p33): NELL 2; Esc.; Sight-SD; 12 mi.; elevation 2\u00b0; 12 knots 180 Surf.; SD 0; same (the narrative has 'another plane')",
     "fix": ""
    },
    "geometry": {
@@ -1471,7 +1471,7 @@
     "lat_raw": "20-10N",
     "lon_raw": "121-15E",
     "local": "1944-07-30 1910(I)",
-    "page": "rg367-74851415/p21",
+    "page": "rg38-74851415/p21",
     "note": "Sighted escort vessel making sweep astern of convoy; typed without degree signs (Lat. 20 10' N.; Long. 121 15' E.)",
     "fix": ""
    },
@@ -1494,7 +1494,7 @@
     "lat_raw": "20-10N",
     "lon_raw": "121-15E",
     "local": "1944-07-30 1910(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "Escort 12 mi.; Various Unknown; SD; Patrolling astern of convoy.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -1517,7 +1517,7 @@
     "lat_raw": "19-34N",
     "lon_raw": "120-59E",
     "local": "1944-07-30 2325(I)",
-    "page": "rg367-74851415/p22",
+    "page": "rg38-74851415/p22",
     "note": "SJ contact on two small pips bearing 196 T. range 11000 yards; typed before the 2255 entry; minute sign missing on longitude (120 59 E.)",
     "fix": ""
    },
@@ -1540,7 +1540,7 @@
     "lat_raw": "19-34N",
     "lon_raw": "120-59E",
     "local": "1944-07-30 2325(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "2 PC's or 2 Subs 5\u00bd mi; Various 8 kts.; R; Possible radar interference from contacts.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -1563,7 +1563,7 @@
     "lat_raw": "18-57N",
     "lon_raw": "120-50E",
     "local": "1944-07-31 0332(I)",
-    "page": "rg367-74851415/p23",
+    "page": "rg38-74851415/p23",
     "note": "Torpedo attack No. 1 (six bow torpedoes at a tanker and a large freighter in the first line; claims one AO and one AK damaged)",
     "fix": ""
    },
@@ -1586,7 +1586,7 @@
     "lat_raw": "18-57N",
     "lon_raw": "120-50E",
     "local": "1944-07-31 0336(I)",
-    "page": "rg367-74851415/p35",
+    "page": "rg38-74851415/p35",
     "note": "Torpedo attack No. 2 (four stern torpedoes at a large AK; all believed missed ahead); sheet types Long. 120\u00b050'N.",
     "fix": ""
    },
@@ -1609,7 +1609,7 @@
     "lat_raw": "18-57N",
     "lon_raw": "120-50E",
     "local": "1944-07-31 0449(I)",
-    "page": "rg367-74851415/p37",
+    "page": "rg38-74851415/p37",
     "note": "Torpedo attack No. 3 (four stern torpedoes at a two stack AP; two hits; claims one AP over 10000 tons sunk); the narrative (p24) gives no position; the sheet repeats Attack 1's",
     "fix": ""
    },
@@ -1632,7 +1632,7 @@
     "lat_raw": "18-57N",
     "lon_raw": "120-50E",
     "local": "1944-07-31 0516(I)",
-    "page": "rg367-74851415/p38",
+    "page": "rg38-74851415/p38",
     "note": "Torpedo attack No. 4 (four bow torpedoes at a medium AK; two hits; claims one 5500 ton AK sunk); the narrative (p24) gives no position; the sheet repeats Attack 1's",
     "fix": ""
    },
@@ -1655,7 +1655,7 @@
     "lat_raw": "18-54N",
     "lon_raw": "120-30E",
     "local": "1944-07-31 0630(I)",
-    "page": "rg367-74851415/p25",
+    "page": "rg38-74851415/p25",
     "note": "Another convoy heading north; \"This is really a melee\"",
     "fix": ""
    },
@@ -1678,7 +1678,7 @@
     "lat_raw": "18-54N",
     "lon_raw": "120-30E",
     "local": "1944-07-31 0630(I)",
-    "page": "rg367-74851415/p28",
+    "page": "rg38-74851415/p28",
     "note": "1 AP, 2 AO, 3 AK 6000 yd; Various 8 kts.; P; Remainder of convoy attacked plus another northbound convoy.",
     "fix": "ship-contact positions kept off the track (the table types the same positions as the narrative fixes: they may be STEELHEAD's own)"
    },
@@ -1701,8 +1701,8 @@
     "lat_raw": "18-53N",
     "lon_raw": "120-26E",
     "local": "1944-07-31 0802(I)",
-    "page": "rg367-74851415/p26",
-    "note": "Sighted \"MAVIS\" type patrol plane bearing 090 T. distance 8 miles; Aircraft contacts table (G) 23A (rg367-74851415/p33): MAVIS 1; Esc.; Sight; 8 mi.; elevation 2\u00b0; 2 knots 270 Per.; same",
+    "page": "rg38-74851415/p26",
+    "note": "Sighted \"MAVIS\" type patrol plane bearing 090 T. distance 8 miles; Aircraft contacts table (G) 23A (rg38-74851415/p33): MAVIS 1; Esc.; Sight; 8 mi.; elevation 2\u00b0; 2 knots 270 Per.; same",
     "fix": ""
    },
    "geometry": {
@@ -1724,8 +1724,8 @@
     "lat_raw": "20-18N",
     "lon_raw": "122-25E",
     "local": "1944-08-01 0625(I)",
-    "page": "rg367-74851415/p26",
-    "note": "SD contact 22 miles; did not dive (0320: proceeded through BALINTANG CHANNEL astern of PARCHE and headed for Midway); Aircraft contacts table (G) 24A (rg367-74851415/p33): type --, 1; Pat.; SD; 22 mi.; 15 knots 060 Surf.; SD 0; same",
+    "page": "rg38-74851415/p26",
+    "note": "SD contact 22 miles; did not dive (0320: proceeded through BALINTANG CHANNEL astern of PARCHE and headed for Midway); Aircraft contacts table (G) 24A (rg38-74851415/p33): type --, 1; Pat.; SD; 22 mi.; 15 knots 060 Surf.; SD 0; same",
     "fix": ""
    },
    "geometry": {
@@ -1747,7 +1747,7 @@
     "lat_raw": "21-58N",
     "lon_raw": "151-11E",
     "local": "1944-08-06 1945(I)",
-    "page": "rg367-74851415/p26",
+    "page": "rg38-74851415/p26",
     "note": "Exchanged recognition signals on SJ radar with SAWFISH and at 2010 with the TILEFISH; zone typed (I) though the position is far east of that zone",
     "fix": ""
    },
@@ -1770,7 +1770,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-08-11 1300(Y)",
-    "page": "rg367-74851415/p27",
+    "page": "rg38-74851415/p27",
     "note": "Arrived Midway; took on 30000 gallons fuel (port position; the report types none)",
     "fix": ""
    },
@@ -1793,7 +1793,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-08-12 1030(Y)",
-    "page": "rg367-74851415/p27",
+    "page": "rg38-74851415/p27",
     "note": "Underway for PEARL (port position)",
     "fix": ""
    },
@@ -1816,7 +1816,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1944-08-16 1030(VW)",
-    "page": "rg367-74851415/p27",
+    "page": "rg38-74851415/p27",
     "note": "Moored Submarine Base Pearl Harbor T.H. (port position; 0630(W) rendezvous with PARCHE)",
     "fix": ""
    },

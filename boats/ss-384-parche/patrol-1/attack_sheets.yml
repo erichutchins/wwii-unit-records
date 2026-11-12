@@ -38,8 +38,8 @@
   torpedo_detail: Mark 18 torpedoes, Mark 4-2 exploders, actuation set Contact, Mark 18 warheads, TPX.
   sea: Calm sea
   overhaul: S/M Base, Pearl.
-  page: rg367-74828582/p18
-  table_page: rg367-74828582/p19
+  page: rg38-74828582/p18
+  table_page: rg38-74828582/p19
   note: >-
     Every typed track is about 20° wider than own course + gyro + 180 - target course gives (91S typed, 69.5S
     computed for tube 7; the same for all four). Read twice on the scan: kept as typed. The sheet's target
@@ -77,8 +77,8 @@
     actuation set and actual Contact; warheads 16 (tubes 1-4) and 16-1 (tubes 5-6); TPX.
   sea: Moderate
   overhaul: S/M Base, Pearl.
-  page: rg367-74828582/p20
-  table_page: rg367-74828582/p21
+  page: rg38-74828582/p20
+  table_page: rg38-74828582/p21
   note: >-
     Tubes 1-4 typed 95 S track; own course 286-289 + gyro 002½-003 against target course 030 gives 81.5-82S,
     which agrees with the sheet's own words ("straight bow shots on 80 S track") and its angle on the bow
@@ -111,8 +111,8 @@
     Tube 1 Mark 14-3 A, tubes 2-4 Mark 23; exploders 6-4; actuation set and actual Contact; warheads 16-1; TPX.
   sea: Moderate
   overhaul: S/M Base, Pearl.
-  page: rg367-74828582/p22
-  table_page: rg367-74828582/p23
+  page: rg38-74828582/p22
+  table_page: rg38-74828582/p23
   note: >-
     Typed tracks 110P-113P are 5-6° narrower than own course 090 + gyro against target course 020 gives
     (116P-119P); the words say the target was turning away, increasing the track, during the firing, and give

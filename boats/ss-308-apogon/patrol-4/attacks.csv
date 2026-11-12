@@ -1,7 +1,7 @@
 attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
-Attack 1,1944-07-12,0301,I,1,070,2.5,62,180,13,2000,20,64S,,8,High,,No,23,,,longitudinal,,rg367-74801303/p41
-Attack 1,1944-07-12,0301,I,2,070,2.5,62,180,13,2000,20,67S,,8,High,,No,23,8,,longitudinal,,rg367-74801303/p41
-Attack 1,1944-07-12,0301,I,3,070,2.5,62,180,13,2000,20,66S,,8,High,,No,23,8,,longitudinal,,rg367-74801303/p41
-Attack 1,1944-07-12,0301,I,4,070,2.5,62,180,13,2000,20,75S,,8,High,,No,23,9,,longitudinal,,rg367-74801303/p41
-Attack 1,1944-07-12,0301,I,5,070,2.5,62,180,13,2000,20,70S,,8,High,,No,23,15,,longitudinal,,rg367-74801303/p41
-Attack 1,1944-07-12,0301,I,6,070,2.5,62,180,13,2000,20,74S,,8,High,,No,23,13,,longitudinal,,rg367-74801303/p41
+Attack 1,1944-07-12,0301,I,1,070,2.5,62,180,13,2000,20,64S,,8,High,,No,23,,,longitudinal,,rg38-74801303/p41
+Attack 1,1944-07-12,0301,I,2,070,2.5,62,180,13,2000,20,67S,,8,High,,No,23,8,,longitudinal,,rg38-74801303/p41
+Attack 1,1944-07-12,0301,I,3,070,2.5,62,180,13,2000,20,66S,,8,High,,No,23,8,,longitudinal,,rg38-74801303/p41
+Attack 1,1944-07-12,0301,I,4,070,2.5,62,180,13,2000,20,75S,,8,High,,No,23,9,,longitudinal,,rg38-74801303/p41
+Attack 1,1944-07-12,0301,I,5,070,2.5,62,180,13,2000,20,70S,,8,High,,No,23,15,,longitudinal,,rg38-74801303/p41
+Attack 1,1944-07-12,0301,I,6,070,2.5,62,180,13,2000,20,74S,,8,High,,No,23,13,,longitudinal,,rg38-74801303/p41

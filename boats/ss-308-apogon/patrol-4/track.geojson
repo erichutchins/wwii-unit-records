@@ -142,7 +142,7 @@
     "lat_raw": "07-06N",
     "lon_raw": "171-22E",
     "local": "1944-06-19 0545(L)",
-    "page": "rg367-74801303/p24",
+    "page": "rg38-74801303/p24",
     "note": "Underway for Fourth War Patrol to rendezvous with GUARDFISH (O.T.C. Capt. W.V. O'REGAN) THRESHER and PIRANHA at 25 N 165 E at dawn 23 June; CLOUES (DE265) escort (port position as other boats' Majuro rows)",
     "fix": ""
    },
@@ -165,7 +165,7 @@
     "lat_raw": "21-26N",
     "lon_raw": "145-04E",
     "local": "1944-06-27 0718(K)",
-    "page": "rg367-74801303/p38",
+    "page": "rg38-74801303/p38",
     "note": "Aircraft Contacts (Revised) No. 1: Betty; 15 mi.; course 283 speed 15 surfaced",
     "fix": ""
    },
@@ -188,7 +188,7 @@
     "lat_raw": "21-15N",
     "lon_raw": "145-54E",
     "local": "1944-06-27 0925(K)",
-    "page": "rg367-74801303/p38",
+    "page": "rg38-74801303/p38",
     "note": "Aircraft Contacts No. 2: Coronado or Emily; course 193 speed 14",
     "fix": ""
    },
@@ -211,7 +211,7 @@
     "lat_raw": "21-16N",
     "lon_raw": "141-44E",
     "local": "1944-06-28 0646(K)",
-    "page": "rg367-74801303/p38",
+    "page": "rg38-74801303/p38",
     "note": "Aircraft Contacts No. 3: Betty; course 245 speed 13",
     "fix": ""
    },
@@ -234,7 +234,7 @@
     "lat_raw": "21-15N",
     "lon_raw": "141-31E",
     "local": "1944-06-28 0905(K)",
-    "page": "rg367-74801303/p38",
+    "page": "rg38-74801303/p38",
     "note": "Aircraft Contacts No. 4: Unk.; course 270 speed 15",
     "fix": ""
    },
@@ -257,7 +257,7 @@
     "lat_raw": "21-45N",
     "lon_raw": "126-56E",
     "local": "1944-07-01 0301(I)",
-    "page": "rg367-74801303/p37",
+    "page": "rg38-74801303/p37",
     "note": "Ship Contacts No. 1: Unknown; radar 11900 yds; 000 T 17 kts; from pip size a submarine or patrol craft",
     "fix": "ship-contact positions are the target not APOGON"
    },
@@ -280,7 +280,7 @@
     "lat_raw": "21-32N",
     "lon_raw": "122-22E",
     "local": "1944-07-03 0522(I)",
-    "page": "rg367-74801303/p38",
+    "page": "rg38-74801303/p38",
     "note": "Aircraft Contacts No. 5: Unk.; course 180 speed 10 surfaced",
     "fix": ""
    },
@@ -303,7 +303,7 @@
     "lat_raw": "21-07N",
     "lon_raw": "121-23E",
     "local": "1944-07-04 0836(I)",
-    "page": "rg367-74801303/p37",
+    "page": "rg38-74801303/p37",
     "note": "Ship Contacts No. 2: 10 Type A landing barges; periscope 6000 yds; 180 T 8 kts; Navy type barges",
     "fix": "ship-contact positions are the target not APOGON"
    },
@@ -326,7 +326,7 @@
     "lat_raw": "21-08N",
     "lon_raw": "121-23E",
     "local": "1944-07-04 0925(I)",
-    "page": "rg367-74801303/p37",
+    "page": "rg38-74801303/p37",
     "note": "Ship Contacts No. 3: 4 patrol trawlers; 8000 yds; patrolling BASHI CHANNEL; 1 echo ranging",
     "fix": "ship-contact positions are the target not APOGON"
    },
@@ -349,7 +349,7 @@
     "lat_raw": "21-08N",
     "lon_raw": "121-23E",
     "local": "1944-07-04 0954(I)",
-    "page": "rg367-74801303/p38",
+    "page": "rg38-74801303/p38",
     "note": "Aircraft Contacts No. 6: Emily; periscope depth",
     "fix": ""
    },
@@ -372,7 +372,7 @@
     "lat_raw": "21-22N",
     "lon_raw": "120-23E",
     "local": "1944-07-05 1007(I)",
-    "page": "rg367-74801303/p38",
+    "page": "rg38-74801303/p38",
     "note": "Aircraft Contacts No. 7: Unk.; periscope depth",
     "fix": ""
    },
@@ -395,7 +395,7 @@
     "lat_raw": "21-15N",
     "lon_raw": "120-25E",
     "local": "1944-07-05 1157(I)",
-    "page": "rg367-74801303/p39",
+    "page": "rg38-74801303/p39",
     "note": "Aircraft Contacts No. 8: Betty",
     "fix": ""
    },
@@ -418,7 +418,7 @@
     "lat_raw": "21-12N",
     "lon_raw": "120-26E",
     "local": "1944-07-05 1346(I)",
-    "page": "rg367-74801303/p39",
+    "page": "rg38-74801303/p39",
     "note": "Aircraft Contacts No. 9: Pete",
     "fix": ""
    },
@@ -441,7 +441,7 @@
     "lat_raw": "21-10N",
     "lon_raw": "120-25E",
     "local": "1944-07-05 1440(I)",
-    "page": "rg367-74801303/p39",
+    "page": "rg38-74801303/p39",
     "note": "Aircraft Contacts No. 10: Pete",
     "fix": ""
    },
@@ -464,7 +464,7 @@
     "lat_raw": "21-08N",
     "lon_raw": "120-24E",
     "local": "1944-07-05 1548(I)",
-    "page": "rg367-74801303/p39",
+    "page": "rg38-74801303/p39",
     "note": "Aircraft Contacts No. 11: Pete",
     "fix": ""
    },
@@ -487,7 +487,7 @@
     "lat_raw": "21-15N",
     "lon_raw": "119-21E",
     "local": "1944-07-06 0205(I)",
-    "page": "rg367-74801303/p30",
+    "page": "rg38-74801303/p30",
     "note": "Sighted lighted sampan (narrative types no zone letter; I from the contact tables)",
     "fix": "a sighted craft's position; not APOGON's"
    },
@@ -510,7 +510,7 @@
     "lat_raw": "21-13N",
     "lon_raw": "120-05E",
     "local": "1944-07-08 0236(I)",
-    "page": "rg367-74801303/p39",
+    "page": "rg38-74801303/p39",
     "note": "Aircraft Contacts No. 12: Unk.; SJ radar 9 mi. (narrative p30: 0236 SJ contact on plane 21-13N 120-05E Air Con No. 12)",
     "fix": ""
    },
@@ -533,7 +533,7 @@
     "lat_raw": "21-34N",
     "lon_raw": "122-17E",
     "local": "1944-07-09 0648(I)",
-    "page": "rg367-74801303/p39",
+    "page": "rg38-74801303/p39",
     "note": "Aircraft Contacts No. 13: Emily; course 015 (narrative p30 types 21-34N 122-19E)",
     "fix": ""
    },
@@ -556,7 +556,7 @@
     "lat_raw": "21-38N",
     "lon_raw": "122-21E",
     "local": "1944-07-09 1307(I)",
-    "page": "rg367-74801303/p39",
+    "page": "rg38-74801303/p39",
     "note": "Aircraft Contacts No. 14: Emily; course 165 (narrative p30 types 21-42N 122-20E)",
     "fix": ""
    },
@@ -579,7 +579,7 @@
     "lat_raw": "21-40N",
     "lon_raw": "122-10E",
     "local": "1944-07-09 1336(I)",
-    "page": "rg367-74801303/p37",
+    "page": "rg38-74801303/p37",
     "note": "Ship Contacts No. 4: Smoke; periscope 20000 yds; patrolling across BASHI CHANNEL",
     "fix": "ship-contact positions are the target not APOGON"
    },
@@ -602,7 +602,7 @@
     "lat_raw": "21-37N",
     "lon_raw": "122-21E",
     "local": "1944-07-09 1400(I)",
-    "page": "rg367-74801303/p40",
+    "page": "rg38-74801303/p40",
     "note": "Aircraft Contacts No. 15: Emily; periscope",
     "fix": ""
    },
@@ -625,7 +625,7 @@
     "lat_raw": "21-41N",
     "lon_raw": "122-20E",
     "local": "1944-07-09 1513(I)",
-    "page": "rg367-74801303/p40",
+    "page": "rg38-74801303/p40",
     "note": "Aircraft Contacts No. 16: Emily",
     "fix": ""
    },
@@ -648,7 +648,7 @@
     "lat_raw": "21-44N",
     "lon_raw": "122-19E",
     "local": "1944-07-09 1631(I)",
-    "page": "rg367-74801303/p40",
+    "page": "rg38-74801303/p40",
     "note": "Aircraft Contacts No. 17: Emily; course 340 (narrative p31 1631 Sighted EMILY again)",
     "fix": ""
    },
@@ -671,7 +671,7 @@
     "lat_raw": "19-51N",
     "lon_raw": "123-04E",
     "local": "1944-07-11 2314(I)",
-    "page": "rg367-74801303/p31",
+    "page": "rg38-74801303/p31",
     "note": "Made SJ contact 273 T 29800 yards. Posit 19-51N 123-04 E. Several targets ... base course 180-185 T 14 knots making zigs about every seven minutes (narrative types no zone letter; I from the ship-contact table)",
     "fix": ""
    },
@@ -694,7 +694,7 @@
     "lat_raw": "19-51N",
     "lon_raw": "122-49E",
     "local": "1944-07-11 2314(I)",
-    "page": "rg367-74801303/p37",
+    "page": "rg38-74801303/p37",
     "note": "Ship Contacts No. 5: Convoy; radar 29800 yds; 180 T 14 kts; at least 8 AKs and 6 escorts including DDs",
     "fix": "ship-contact positions are the target not APOGON"
    },
@@ -717,7 +717,7 @@
     "lat_raw": "19-11N",
     "lon_raw": "122-38E",
     "local": "1944-07-12 0301(I)",
-    "page": "rg367-74801303/p41",
+    "page": "rg38-74801303/p41",
     "note": "Torpedo Attack No. 1: six Mk 23 bow tubes at center column (large passenger freighter and two overlapping AKs); 3 hits heard in far port column; then rammed by large AK of center column (narrative p32 types 0304 commenced firing)",
     "fix": ""
    },
@@ -740,7 +740,7 @@
     "lat_raw": "20-04N",
     "lon_raw": "126-34E",
     "local": "1944-07-13 0921(I)",
-    "page": "rg367-74801303/p40",
+    "page": "rg38-74801303/p40",
     "note": "Aircraft Contacts No. 18: 2 eng bomber; course 100 speed 16 surfaced (narrative p33: BETTY 280 T 7 miles)",
     "fix": ""
    },
@@ -763,7 +763,7 @@
     "lat_raw": "21-50N",
     "lon_raw": "138-00E",
     "local": "1944-07-15 1131(I)",
-    "page": "rg367-74801303/p40",
+    "page": "rg38-74801303/p40",
     "note": "Aircraft Contacts No. 19: 2 eng bomber; course 95 speed 14.5 (narrative p33 types 21-50N 137-52E)",
     "fix": ""
    },
@@ -786,7 +786,7 @@
     "lat_raw": "21-57N",
     "lon_raw": "141-43E",
     "local": "1944-07-16 0708(I)",
-    "page": "rg367-74801303/p40",
+    "page": "rg38-74801303/p40",
     "note": "Aircraft Contacts No. 20: 2 eng bomber; course 070 speed 14.5 (narrative p34 types 21-53N 141-43E)",
     "fix": ""
    },
@@ -809,7 +809,7 @@
     "lat_raw": "21-55N",
     "lon_raw": "144-18E",
     "local": "1944-07-17 0306(K)",
-    "page": "rg367-74801303/p34",
+    "page": "rg38-74801303/p34",
     "note": "Sighted two yellow recognition stars 080 T about 5 miles. Posit 21-55N 144-18E. Believe this a friendly submarine",
     "fix": ""
    },
@@ -832,7 +832,7 @@
     "lat_raw": "21-57N",
     "lon_raw": "145-52E",
     "local": "1944-07-17 0934(K)",
-    "page": "rg367-74801303/p40",
+    "page": "rg38-74801303/p40",
     "note": "Aircraft Contacts No. 21: 2 eng bomber; course 110 speed 15",
     "fix": ""
    },
@@ -855,7 +855,7 @@
     "lat_raw": "22-57N",
     "lon_raw": "160-29E",
     "local": "1944-07-19 1846(L)",
-    "page": "rg367-74801303/p34",
+    "page": "rg38-74801303/p34",
     "note": "Lookout reported sighting periscope - not verified. Posit 22-57N 160-29E",
     "fix": ""
    },
@@ -878,7 +878,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-07-22 0759(Y)",
-    "page": "rg367-74801303/p35",
+    "page": "rg38-74801303/p35",
     "note": "Moored alongside dock at Submarine Base MIDWAY (second 22 July after the date line) (port position)",
     "fix": ""
    },
@@ -901,7 +901,7 @@
     "lat_raw": "28-12N",
     "lon_raw": "177-23W",
     "local": "1944-07-22 1504(Y)",
-    "page": "rg367-74801303/p35",
+    "page": "rg38-74801303/p35",
     "note": "Underway from MIDWAY (port position)",
     "fix": ""
    },
@@ -924,7 +924,7 @@
     "lat_raw": "21-21N",
     "lon_raw": "157-58W",
     "local": "1944-07-26 0605(VW)",
-    "page": "rg367-74801303/p35",
+    "page": "rg38-74801303/p35",
     "note": "Sighted OAHU ISLAND 060 T; moored Submarine Base PEARL HARBOR (no zone typed; VW assumed for Pearl; time of the Oahu sighting; port position)",
     "fix": ""
    },

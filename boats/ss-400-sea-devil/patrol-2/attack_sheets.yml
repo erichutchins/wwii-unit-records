@@ -21,8 +21,8 @@
   spread: Continuous Bearing
   sea: Force 6
   overhaul: U.S.S. HOWARD W. GILMORE
-  page: rg367-74843922/p24
-  table_page: rg367-74843922/p25
+  page: rg38-74843922/p24
+  table_page: rg38-74843922/p25
   note: The "Damage Determined by" line is blank. Firing interval typed once, "Ten Seconds"
 
 - attack: Attack 2
@@ -42,8 +42,8 @@
   spread: Continuous Bearing
   sea: Force 6
   overhaul: U.S.S. HOWARD W. GILMORE
-  page: rg367-74843922/p26
-  table_page: rg367-74843922/p27
+  page: rg38-74843922/p26
+  table_page: rg38-74843922/p27
   note: Firing interval typed per torpedo, 0 and "8 sec."; actuation actual "Contact" for both
 
 - attack: Attack 3
@@ -63,8 +63,8 @@
   spread: Continuous Bearing
   sea: Force 6
   overhaul: U.S.S. HOWARD W. GILMORE
-  page: rg367-74843922/p28
-  table_page: rg367-74843922/p29
+  page: rg38-74843922/p28
+  table_page: rg38-74843922/p29
   note: >-
     Stern tubes 7-10, Mk 23s. The typed tracks (97P-104P) are about 50° from what own course 053 and the typed
     gyros (202-210) give against target course 230 (check_attacks.py: 147-155P); own course is typed clearly as
@@ -90,8 +90,8 @@
   spread: Offset
   sea: Force 3
   overhaul: U.S.S. HOWARD W. GILMORE
-  page: rg367-74843922/p30
-  table_page: rg367-74843922/p31
+  page: rg38-74843922/p30
+  table_page: rg38-74843922/p31
   note: >-
     Tube 10 typed "Miss (?)". The narrative (p10-p11) times the attack to the second: 0005 dived to radar depth;
     0027 commenced firing four Mk 23s from the stern tubes, range 4300 yards, 115° starboard track, depth set 6

@@ -1,5 +1,5 @@
 # The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
-# Each sheet is one page (rg367-74803310/p25-p30): time, position, target and own-ship data, type attack and the
+# Each sheet is one page (rg38-74803310/p25-p30): time, position, target and own-ship data, type attack and the
 # torpedo table together, so `page` and `table_page` are the same. attacks.csv cites `page`, the attack's row in
 # positions.csv. Attack 2-D has its own sheet (p27), with its own time and position, and its own ref.
 # attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
@@ -33,8 +33,8 @@
   remarks: >-
     Spread computed for 50 yds. between torpedoes along target. Target turned 47° toward 1 m and 20s after firing
     first spread. Target turned away after second single was fired. No speed red. used.
-  page: rg367-74803310/p25
-  table_page: rg367-74803310/p25
+  page: rg38-74803310/p25
+  table_page: rg38-74803310/p25
   note: >-
     Time 0334, 10 Nov. 1944, 33-23.6N 129-03.8 E: the sheet types one time for all four parts; the narrative times
     the attack from 0334-30 (part A) to 0409 (part D), so parts B-D carry the sheet's 0334 in attacks.csv though
@@ -63,8 +63,8 @@
   remarks: >-
     Spread computed for 50 yds. between torpedoes along target track. One half speed reduction used. Master gyro
     follow-up system out. Excessive range used because escort on collision course.
-  page: rg367-74803310/p26
-  table_page: rg367-74803310/p26
+  page: rg38-74803310/p26
+  table_page: rg38-74803310/p26
   note: >-
     Time 0140, 12 Nov. 1944, 31-39.0N 125-36.0E. The narrative has attack No. 2 at 0140-0153 in parts A-D; the
     sheets type A, B, C here and D on its own sheet (p27, Attack 2-D, 0153, 31-29.0N 125-36.0E). The position here
@@ -88,8 +88,8 @@
   remarks: >-
     Spread computed for 50 yds. between torpedoes along target track. One half speed reduction used. Master gyro
     follow-up system out.
-  page: rg367-74803310/p27
-  table_page: rg367-74803310/p27
+  page: rg38-74803310/p27
+  table_page: rg38-74803310/p27
   note: >-
     Time 0153, 12 Nov. 1944, 31-29.0N 125-36.0E (the latitude's first digit faint). The narrative's part D of
     attack No. 2 ends at 0153, agreeing. Range typed 2300 (the 3 could be a 5). p31 (27 a): "During the reload
@@ -112,8 +112,8 @@
   remarks: >-
     Spread computed for 50 yds. between torpedoes along target track. One half speed reduction used. Master Gyro
     follow-up system out.
-  page: rg367-74803310/p28
-  table_page: rg367-74803310/p28
+  page: rg38-74803310/p28
+  table_page: rg38-74803310/p28
   note: >-
     Time 0412, 12 Nov. 1944, 31-29.0N 125-19.0 E; the narrative's 0412 agrees. The longitude's third digit is
     typed over (125 or 126); 125 read. Range typed "300 yds." Tubes 8 and 10 type 152P and 159P; check_attacks
@@ -134,8 +134,8 @@
   remarks: >-
     Spread computed for 50 yds. between torpedoes along target. Target zigged away about three minutes after
     firing. No speed reduction used.
-  page: rg367-74803310/p29
-  table_page: rg367-74803310/p29
+  page: rg38-74803310/p29
+  table_page: rg38-74803310/p29
   note: >-
     Time 2326, 15 Nov. 1944, 32-15.7 N 126-38.5 E. The narrative (p16-p17) types 2323 'TORPEDO ATTACK #4 ...
     Fired tubes 5,4,3,2,1 on a 131 starboard track, range 2680 yds, gyros 25° right' and 2327-20 'One hit timed';
@@ -155,8 +155,8 @@
   sea: "2"
   overhaul: U.S.S. HOWARD W. GILMORE.
   remarks: Fired one torpedo at each ship. Misses due to fire control error. One half speed reduction used.
-  page: rg367-74803310/p30
-  table_page: rg367-74803310/p30
+  page: rg38-74803310/p30
+  table_page: rg38-74803310/p30
   note: >-
     Time 1213, 17 Nov. 1944, 31-19.5N 130-06.1 E; the narrative (p18) 1213 agrees ('Fired tubes 9 and 10 ... Both
     missed'). The position is Ship Contact 5's at 1052 (p20); off the track (on_track=no). Tube 10 fired 35 seconds
