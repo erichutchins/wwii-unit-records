@@ -182,3 +182,62 @@
     123-30E at 2315 I, some 25-30 nm west-south-west of BANG's Attacks 5-6 (2315-2317 I on the 20th, 25-21N
     123-58E; ours, inferred, and the convoy need not have steamed evenly). Nothing is entered for the night of the
     20th: no attack, no loss. The hour of the 20th's sailing and of the 21st's has one figure not read (?)
+- id: J10
+  source: jacar:C08030607800
+  page: p57
+  convoy: TAKA-909
+  event: status
+  date: 1944-09-19
+  time: '0938'
+  zone: I
+  lat_raw: 24-54N
+  lon_raw: 122-23E
+  original: >-
+    四海護電令作第八九號 第四掃蕩隊（沖空司令ノ定ムル航空機及海防三〇艦長ノ指定スルタカ九〇九船団部隊中ノ二隻ヲ以テ編成）
+    ハN24°54′ E122°23′ニ於テ第二東勢丸ヲ雷撃セシ敵潜ヲ撃滅スベシ
+  translation: >-
+    4th Surface Escort Division signal operations order No. 89: the 4th Sweep Unit (formed of aircraft the
+    commander of the Okinawa Air Group designates and two ships of the TAKA-909 force that CD-30's captain
+    designates) is to destroy the enemy submarine that torpedoed No. 2 Tosei Maru at N 24°54′ E 122°23′
+  note: >-
+    Minesweeper W-15's war diary, September 1944, 三 令達報告等 (orders and reports), the order's row: from the
+    4th Surface Escort Division's commander, 19th 0938; to CD-30's captain, W-15's captain and the Okinawa Air
+    Group's commander (以下省略, the rest left out), 19th 1055 (read as the time received). Read at 170 dpi. The
+    hunt that BANG heard as "very deliberate depth charging" from 0920 K (0820 I) was by then 78 minutes old: the
+    order names it after the fact and gives it aircraft. The two ships are CD-30 and Taian Maru (J02). It names
+    the Okinawa Air Group (沖空), where J02 has "army aircraft"; which aircraft flew is not found (searched: the
+    901st Air Group's Oroku detachment, which served under the Okinawa Air Group, September 1944,
+    jacar:C13120411700 p07: its five sorties of the 19th were over a convoy 25 minutes from Naha, not here; the
+    953rd Air Group's Tamsui detachment, jacar:C13120418300 p24: four seaplanes on convoy escort and one on
+    anti-submarine escort on the 19th, nothing entered). CD-30's own war diary is not on JACAR (searched by its
+    name in every form, 11 Nov 2026). Nor is its report in the Navy's telegram file 行動其他電報綴 (jacar:C19010036800, 373 documents,
+    compiled postwar by the Ministry of Health and Welfare's repatriation bureau): its index (jacar:C19010037100,
+    pp1-4, by document number, date received and sender) has no document from September 1944; nearly all are
+    April 1945, and CD-30 (海30) appears once, document 293, 19 April 1945 (12 Nov 2026)
+- id: J11
+  source: jacar:C08051756000
+  page: p41
+  event: sub_sighted
+  date: 1944-09-20
+  time: '1620'
+  zone: I
+  original: >-
+    九五三空 淡水 ヒ7?船団直衛 f3Sr×1 / 1620 油紋発見之ニ攻撃 弾投下ニヨリ黒褐色ノ重油浮出 効果確実 / 1630 護衛艦ニ通報シ
+    誘導爆雷投射 / 1750 油湧出中撃沈確実ト認ム / 爆弾 6×2 / 効果 撃沈
+  translation: >-
+    953rd Air Group, Tamsui; mission: direct escort of convoy HI-7? (one seaplane). / 1620: an oil slick sighted
+    and attacked; with the bombs' fall black-brown heavy oil came up; effect certain. / 1630: reported to the
+    escort ships and guided them onto it; depth charges dropped. / 1750: oil still welling up; judged certainly
+    sunk. / Bombs: two 60 kg (6×2). Result: sunk
+  note: >-
+    The 953rd Air Group's aircraft action records (飛行機隊戦闘行動調書), June-December 1944, the form behind the
+    Navy summary's entry (J05: the same day, 1630, oil slick, escorts, sinking certain), so J05 repeats this and
+    counts once. The day is read 20 (written as one cursive figure after 9月2; the forms run in date order, and
+    the one before is the 20th, from Tōkō). No position. The convoy's last figure is not read: not TAKA-909. Its
+    1630, the escorts guided to the slick and the "certainly sunk" match W-15's 1630 report on the 19th (J08:
+    CD-30, with aircraft, certainly sank the submarine) to the minute, but a day apart and over another convoy.
+    So either two days' hunts ended alike, or one of the two dates is wrong; not settled. BANG was at 450 ft
+    under the counter-attack on the 19th and came to periscope depth at 1730 K (1630 I); on the 20th at 1630 I
+    she was trailing TAKA-909 east of Keelung, surfaced (depths.csv), so a slick bombed at 1620 on the 20th was
+    not over her. The 19th's 953rd form from Tōkō (p39: convoy TAMA-26, 1640, a submerged submarine attacked,
+    an escort guided to drop about ten depth charges) is in the south, not this hunt
