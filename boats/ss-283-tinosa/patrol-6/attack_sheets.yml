@@ -1,7 +1,7 @@
 # TINOSA's sixth patrol report has no torpedo attack data sheets. Its only attack data is one page, "VII. SUMMARY
 # OF SUBMARINE ATTACKS" (p26), one column per attack, which attacks.csv transcribes. Hand-edited; the numbers are
 # in attacks.csv, the words here.
-# What that table does not give was read from the narrative (pp. 10, 15, 17, 18, 19; lead L73) where the narrative
+# What that table does not give was read from the narrative (pp. 10, 15, 17, 18, 19) where the narrative
 # states it: the tube fired (Attack 1's last torpedo; Attack 4's four), own depth Surface where the narrative fires
 # by TBT bearings from the bridge (Attacks 3 and 4), each torpedo's hit or miss where the narrative says which
 # torpedo hit (Attack 1; Attack 2's first salvo), and, for Attack 2, which of the table's two tracks, gyros and

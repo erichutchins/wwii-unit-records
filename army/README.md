@@ -1,10 +1,26 @@
-# Army units: stations, actions and crossings, 1942–1945
+# Army units: stations, actions and crossings, 1940–1945
 
-Where twenty Army units were, day by day, from their own records: an anti-aircraft battery's
-and a medical detachment's war from Oran to Bavaria, the 62nd CA (AA)'s batteries and headquarters
-around it in North Africa, an infantry company in Normandy, a gun
-battalion's headquarters battery with Third Army, and the 9th Armored Division's positions.
-Every station row cites its page (`page`), in the forms listed in `../SOURCES.yml`.
+Where thirty-three Army units were, day by day, from their own records: an anti-aircraft battery's
+and a medical detachment's war from Oran to Bavaria, the batteries and headquarters of the 62nd Coast
+Artillery (Antiaircraft) around them in North Africa, an infantry company in Normandy, a gun
+battalion's headquarters battery with Third Army, the 9th Armored Division and three of its battalions,
+and two division command posts. Every station row cites its source (`page`), to the page where there
+is one, in the forms listed in `../SOURCES.yml`.
+
+`units.csv` has 187 keys. Thirty-three have stations of their own in `stations.csv`; the rest are the
+formations that `relations.csv` and the situation maps in `../fronts/` name: US divisions, corps and
+armies, and 89 German formations keyed `de-…`. Those are named for context and have no positions here.
+
+**How units are named.** A designation is written as the unit's own records type it, and the forms
+change with the reorganisations: "62nd CA (AA)" is the 62nd Coast Artillery Regiment (Antiaircraft),
+whose battalions became separate antiaircraft artillery (AAA) battalions in 1943–44; "AAA AW Bn (SP)"
+is an AAA automatic weapons battalion, self-propelled; "AAA Gun Bn (Mbl)" a gun battalion, mobile. The
+tables below use the morning reports' ordinals ("62nd", "2nd Bn"); the divisions keyed from the
+situation maps and the Army's histories keep those sources' forms ("2d Infantry Division", "3d
+Parachute Division"). German formations are spelled as Cole's *The Ardennes* (1965) and the Twelfth
+Army Group's maps spell them ("Volks Grenadier", "Fuehrer Begleit"), not in modern German.
+
+The 33 units with stations:
 
 | Unit | Records | Years |
 |---|---|---|
@@ -69,7 +85,7 @@ Hand-edited (the source of truth):
   (Oran and Algiers, 1942–43); the 128th AAA Gun Bn's engagements named in Third Army's antiaircraft reports (1944–45), entered under its HQ battery
 - `ships.csv`: the ships of the sea crossings
 - `relations.csv`: dated relationships between units (part of, attached to, under command of, took part in), each with its page
-- `units.yml`: what each unit was, in a line, in our words (`plain`), keyed by `unit` (guides/OPERATIONS-VIEWER.md 2.1): the designation in `units.csv` is the records', this is the sentence a reader is given first
+- `units.yml`: what each unit was, in a line, in our words (`plain`), keyed by `unit`: the designation in `units.csv` is the records', this is a plain description for a reader who doesn't know the designation
 - `leads.yml`: the leads (below)
 - `routes.csv`: waypoints for legs the reports don't trace (Atlantic voyages, train rides).
   Columns: `unit`, `from_date`, `to_date` (the two stations it joins), `seq`, `lat`, `lon`,
@@ -100,10 +116,26 @@ uv run tools/army_seafloor.py     # then: seafloor.csv under the sea crossings (
 | `grid` | The map grid reference as typed: a 100 km square letter and an easting-northing (some have no letter, or give a map sheet instead) |
 | `grid_on` | Which grid `grid` is on: `italy-s` / `italy-n` (South / North Italy Zone), `lambert3` / `lambert2` / `lambert1` (French Lambert Zones III, II and I; Zone I is Normandy, 1944), `nwa` (British North West Africa Grid, Tunisia 1943: Lambert, Clarke 1880, origin 34 N 0 E, scale 0.9994, false origin 1000 km E 500 km N; the 100 km letters repeat in every 500 km block, fixed by the worked example on AMS's 1942 Alger sheet, `princeton-amsalger`; see `tools/grid_ref.py`), `ndg` (Nord de Guerre), `ndg-w` (its western 500 km block, lettered V). Found by decoding each reference on every grid and checking it against the named town (`site/grids.html` shows every check); `tools/grid_ref.py` converts. The station is mapped at the grid point when the reference is to 1 km or better and falls within 8 km of the town plus offset; otherwise at the town |
 | `page` | `rg64-<roll NAID>/pNNNN`: the page in the catalog viewer (`?objectPage=NNNN`); the cache's `nara/rg64-…/pNNNN.jpg` when downloaded. `ok45th-<item>/pNN`: page NN of a 45th Infantry Division Museum PDF; the cache's `45th-museum/ok45th-…/pNN.jpg` when rendered. `hist894/pNN`: page NN of the retyped copy of the 894th's history (not the booklet's printed page number, which is 8–9 lower). Every form is in `../SOURCES.yml` |
-| `source` | `mr` = morning report. `btry` = Battery D's own position in the battalion's records (the May table of battery CPs, or an action report naming the battery). `bn` = the battalion command post from its journal or history; the battery is assumed nearby, and the map draws it hollow with dashed legs. `regt` = the Regimental Headquarters Battery's morning report, used for the 67th CA (AA)'s medical detachment in March–April 1943 when its own reports are missing; drawn the same way. `hist` = the 894th battalion's position in its printed history (1945), the detachment assumed with battalion headquarters; drawn the same way. `aar` = the 128th AAA's battalion symbol on a Third Army antiaircraft situation map, or its move in that report's text (1945); drawn the same way. `div` = the 9th Armored Division's (or one combat command's) position, including its symbol on a 12th Army Group situation map (`loc-12ag`); drawn the same way. `cp` = a division headquarters' command post, from the ETO order of battle (`etoob`) or the division's own journal (the 45th's G-3 war room journal, `ok45th-12362/pNN`, whose page headings give the war room's place and grid): the headquarters' own position, drawn solid. `uaar` = a unit's own after action report, as transcribed (the 60th Armored Infantry Bn's, `eucmh60aib/<yyyy-mm>`, the month's report): the battalion's own position, drawn solid; also the 189th FA Bn's own monthly history (`ok45th-14862/pNN`) and its division artillery's (`ok45th-14950/pNN`), which give the battalion's own positions |
+| `source` | Which record gave the station, and so whose position it is: the values are in the table below |
 | `note` | Readings, identifications, forward detachments, editorial context |
 | `when` | Optional: what the record supports about the date, when that is less than `date` (which stays an ISO day, for sorting and the map). `..1945-01-31`: there by then (a situation map of that day); `1945-02`: some day that month (a move given only by month). Empty: the row starts on its date. A row lasts until the next row starts, so these give each stay a certain part and a possible part (the evidence engine's date forms) |
-| `precision` | Optional: how the position was given, when the `source` doesn't say it (one of `grid-100m`, `grid-1km`, `town`, `area`, `division`; each stands for a working tolerance, a provisional assumption of the tools that compare positions, not a measured error). A division's symbol on a situation map is `area`: the map symbol's tolerance, though the position is still the division's (`source` `div`), which says nothing about where its units were |
+| `precision` | Optional: how the position was given, when the `source` doesn't say it (one of `grid-100m`, `grid-1km`, `town`, `area`, `division`; only `town` and `area` are in use so far, on ten rows; each stands for a working tolerance, a provisional assumption of the tools that compare positions, not a measured error). A division's symbol on a situation map is `area`: the map symbol's tolerance, though the position is still the division's (`source` `div`), which says nothing about where its units were |
+
+### `source` values
+
+Whose position a row is. A row that isn't the unit's own position is drawn hollow, with dashed legs, as assumed.
+
+| `source` | The record | Whose position |
+|---|---|---|
+| `mr` | The unit's own morning report | The unit's |
+| `btry` | The battalion's records naming the battery (the May 1945 table of battery command posts, or an action report) | Battery D, 106th AAA AW Bn's own |
+| `bn` | The battalion's journal or history | The battalion command post's; the battery is assumed nearby |
+| `regt` | The Regimental Headquarters Battery's morning report, used for the 67th CA (AA)'s Medical Detachment in March–April 1943, when its own reports are missing | The regimental headquarters'; the detachment is assumed with it |
+| `hist` | The 894th AAA AW Bn's printed history (1945) | The battalion's; the detachment is assumed with battalion headquarters |
+| `aar` | The 128th AAA Gun Bn's symbol on a Third Army antiaircraft situation map, or its move in that report's text (1945) | The battalion's; its headquarters battery is assumed with it |
+| `div` | The 9th Armored Division's (or one combat command's) position, including its symbol on a Twelfth Army Group situation map (`loc-12ag`) | The division's, which says nothing about where its units were |
+| `cp` | A division headquarters' command post, from the ETO order of battle (`etoob`) or the division's own journal (the 45th's G-3 war room journal, `ok45th-12362/pNN`, whose page headings give the war room's place and grid) | The headquarters' own; drawn solid |
+| `uaar` | A unit's own after action report or monthly history (the 60th Armored Infantry Bn's, `eucmh60aib/<yyyy-mm>`; the 189th FA Bn's, `ok45th-14862/pNN`, and its division artillery's, `ok45th-14950/pNN`) | The battalion's own; drawn solid |
 
 Only **changes** of station are recorded, plus anything worth noting; a unit
 stays where its last row puts it. The rows were found with
@@ -155,10 +187,10 @@ are the whole defense's, not the battery's.
 | `date`, `time` | As in the history; time is the typed 24-hour figure without its zone letter (A = GMT+1; B = GMT+2, used in summer: the reports switch from B to A in mid-September 1944 and back in April 1945) |
 | `who` | Which batteries, as the entry names them: `D`, `D, 2nd Plt`, `B, C, D`, `all batteries`, `battalion` |
 | `kind` | `air` (engaged aircraft), `ground` (ground fire), `casualty`, `event` |
-| `result` | The entry's outcome: `destroyed`, `probable`, `hits`, `none`, `unknown`, `friendly` (the plane turned out to be American), `captured`, `neutralized`, `wounded`, `killed`, `injured` |
+| `result` | The entry's outcome: `destroyed`, `probable`, `hits`, `none`, `unknown`, `friendly` (the plane turned out to be American), `captured`, `neutralized`, `wounded`, `killed`, `injured`, `claimed` (the record credits the battery with a plane and says no more). Empty for an `event` and where the entry gives no outcome |
 | `text` | The entry's words, abridged with `...`. Other soldiers' names and serial numbers are left out; the note says when the record names someone |
 | `placed` | How the map point is made: `grid` (the entry's Nord de Guerre reference, via `tools/ndg_grid.py`), `place` (a `places.csv` row), or `station` (no usable position: the battery's station that day; when that station isn't placed on the map yet, the action is left off the map too) |
-| `place`, `grid`, `grid_on` | As used by `placed`; `grid_on` as in stations.csv |
+| `place`, `grid`, `grid_on` | As used by `placed`; `grid_on` as in stations.csv (it is the file's last column) |
 | `page` | `ok45th-<item>/pNN`; `rg64-<roll>/pNNNN`; `hist894/pNN`; `aar3/pNNN` (Third Army's antiaircraft section: its daily log and weekly intelligence reports, for the 128th AAA, whose claims are the battalion's or its batteries', not the HQ battery's) |
 | `note` | Context, and which position a grid marks (often the target or the crash, not the battery) |
 

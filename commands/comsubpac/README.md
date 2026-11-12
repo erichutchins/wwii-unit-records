@@ -6,9 +6,10 @@ The war diary of Commander Submarine Force, Pacific Fleet, for October 1944
 (Commander Submarine Force, Pacific Fleet)", signed by Vice Admiral C. A. Lockwood, Jr. and his chief
 of staff, and sent on 5 November 1944 (serial 00916).
 
-The diary came to us by way of [SarpedonSociety/patrol-map](https://github.com/SarpedonSociety/patrol-map),
+**Acknowledgement.** This diary was found through [SarpedonSociety/patrol-map](https://github.com/SarpedonSociety/patrol-map),
 whose `sources/status/war-diary/` holds its transcriptions of the same diary's Disposition of Forces
-listings, April 1943 to June 1944, and the way it reads them.
+listings, April 1943 to June 1944, and the way it reads them. October 1944 is outside that span, so no
+row here is taken from it.
 
 Page 3 is the task organization and the Report of Changes. Pages 4, 10 and 18 are the Disposition of
 Forces on 1, 15 and 31 October. The other pages, 5 to 17, are the daily log. All four files are
@@ -17,7 +18,7 @@ transcribed from the scans and checked against them, line by line.
 ## Files
 
 - `command.yml`: the command as a subject of the kit's pages: its name as the diary gives it, `short`, `kind`, `of`
-  and `plain`, what it was in a line, in our words (guides/OPERATIONS-VIEWER.md 2.1).
+  and `plain`, what it was in a line, in our words.
 - `disposition.csv`: the three Disposition of Forces listings, submarines only (the tenders,
   LITCHFIELD, SEAGULL and the rescue vessels at the head of each listing are not transcribed).
   One row per boat per listing.

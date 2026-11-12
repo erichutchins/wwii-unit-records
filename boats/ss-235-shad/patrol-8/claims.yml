@@ -1,4 +1,4 @@
-# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/SCHEMA.md (A patrol's claims).
 - attack: Attack 1
   record: J01
   relation: miss

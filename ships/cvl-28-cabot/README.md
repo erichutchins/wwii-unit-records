@@ -9,6 +9,6 @@ The 7 April forms (`p30` at 1420, `p42` at 1213) are not entered. These are two 
 
 Task group: the report's Part II (`p04`) puts Cabot in Task Unit 58.3.1 (Essex, Bunker Hill, Cabot; Rear Admiral Sherman in Essex, Commander Task Group 58.3). On 9 April she was detached to form Task Unit 58.3.10 with Hancock, Haynsworth and Stembel for Ulithi. The report's summary says that on 6 April two different planes selected Cabot for suicide crashing and both were shot down with very slight damage (`p03`).
 
-Other days are not transcribed (lead L49).
+Other days are not transcribed.
 
 `source` is `action`: a position typed on an anti-aircraft action form, at the time of the attack, not a diary table.

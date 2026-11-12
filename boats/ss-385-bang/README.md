@@ -12,7 +12,7 @@ from the National Archives scans (cited by page; titles in `../../citations.json
 | 5 | 2 Jan – 24 Feb 1945 | East China & Yellow Seas | [74802868](https://catalog.archives.gov/id/74802868) pp. 38–65 | 38 |
 | 6 | 25 Mar – 18 May 1945 | Luzon Strait, Formosa lifeguard | [74802934](https://catalog.archives.gov/id/74802934) | 55 |
 
-Columns are defined in [the records README](../../README.md).
+Columns are defined in [the schema](../../SCHEMA.md).
 
 ## Corrections to the originals
 
@@ -45,23 +45,21 @@ by a correction with a stated reason or by taking that one fix off the track:
 
 ## The Japanese side
 
-The other side of BANG's attacks, from Japanese wartime records (JACAR,
-`tools/jacar.py`) and, where no primary record has been found yet, from
-combinedfleet.com. Transcribed the same way as the patrol reports: as
-written, with the page, and with an English translation beside the original.
+The other side of BANG's attacks is in each patrol's `japanese.yml` and `claims.yml` (fields in
+[the schema](../../SCHEMA.md)); the records read are listed under "Records used" below.
 
-## What it shows for Patrol 1
+### Patrol 1
 
 | Attack (BANG, GMT) | Japanese record (GMT) | Apart | Source |
 |---|---|---|---|
-| 1: 29 Apr 1256 | Takegawa Maru torpedoed 1301, sank 1340 | +5 min, 7.6 nm | Nittatsu Maru's own log |
+| 1: 29 Apr 1256 | Takegawa Maru torpedoed 1301, sank 1340 | +5 min, 7.6 nm | Nittatsu Maru's own movement table |
 | 2, 3: 29 Apr 1753, 1756 (10 torpedoes, all "Miss") | Nittatsu Maru: "five torpedoes, three exploded near the ship's bottom, no damage", 1800 | +4 to +7 min | same |
 | 4: 29 Apr 1918 | Nittatsu Maru hit 1919, sank about 5 min later | +1 min, 5.0 nm | same |
 | 5: 3 May 1732 | Kinrei Maru sunk 1606 | −86 min, 8.8 nm | combinedfleet.com (secondary) |
 
 - The four primary matches agree to within minutes once both clocks are
   converted to GMT. That supports the zone assumptions on both sides.
-- Attack 5: see "The wolfpack" below. The three boats' reports settle the
+- Attack 5: see "Patrol 1's coordinated attack group" below. The three boats' reports settle the
   order of the 3–4 May attacks; who sank which ship still needs a Japanese
   primary record.
 - Claims vs. losses: BANG judged Nittatsu Maru a 10,400-ton transport; the
@@ -70,7 +68,7 @@ written, with the page, and with an English translation beside the original.
 - Nittatsu Maru turned back alone to rescue Takegawa Maru's survivors
   (56 by 2350, the last by 0050) "as moonset was near". BANG's report gives moonset at 0222 K (0122 I).
 
-## What it shows for Patrols 2–4
+### Patrols 2–4
 
 | Attack (BANG) | Japanese record | Apart | Source |
 |---|---|---|---|
@@ -91,7 +89,7 @@ written, with the page, and with an English translation beside the original.
   REDFISH's report would settle it. Of the six ships, three were sunk and
   three sheltered at Funauki.
 
-## BANG's other pack-mates
+## The boats she patrolled with, Patrols 2–6
 
 Transcribed from their own reports in the same layout, each passing
 `check_track.py` with 0 too-fast legs. Corrections and doubtful readings are
@@ -103,7 +101,7 @@ in each file's `fix_note` and `note` columns.
 | GROWLER (SS-215), Patrol 9 | `boats/ss-215-growler/patrol-9/` | [74818866](https://catalog.archives.gov/id/74818866) | 65 | BANG Patrol 2 until 30 Jun; uses half-hour zones KL (−10½) and IK (−9½), added to `check_track.py`; one attack, 29 Jun 0228 I |
 | REDFISH (SS-395), Patrol 2 | `boats/ss-395-redfish/patrol-2/` | [74837267](https://catalog.archives.gov/id/74837267), [74837338](https://catalog.archives.gov/id/74837338) | 96 | Pack commander (Cdr L. D. McGregor), BANG Patrol 4. Zone K on station, I from 1 Dec |
 | SHAD (SS-235), Patrol 8 | `boats/ss-235-shad/patrol-8/` | [74848165](https://catalog.archives.gov/id/74848165) | 29 | BANG Patrol 4; zone K throughout; one salvo, fired by mistake, 22 Nov 2338 K |
-| SPADEFISH (SS-411), Patrol 3 | `boats/ss-411-spadefish/patrol-3/` | [74850282](https://catalog.archives.gov/id/74850282) | 31 | BANG Patrol 5 (Wolfpack 23); six attacks 28 Jan – 6 Feb 1945 |
+| SPADEFISH (SS-411), Patrol 3 | `boats/ss-411-spadefish/patrol-3/` | [74850282](https://catalog.archives.gov/id/74850282) | 31 | BANG Patrol 5; six attacks 28 Jan – 6 Feb 1945 |
 | ATULE (SS-403), Patrol 2 | `boats/ss-403-atule/patrol-2/` | [74802211](https://catalog.archives.gov/id/74802211) | 88 | BANG Patrol 5; covered BANG's area from 8 Feb |
 | POMPON (SS-267), Patrol 7 | `boats/ss-267-pompon/patrol-7/` | [74834293](https://catalog.archives.gov/id/74834293) pp. 35–61 | 43 | BANG Patrol 5 on paper; sailed a day later, left the area 31 Jan, never mentions BANG |
 | BURRFISH (SS-312), Patrol 6 | `boats/ss-312-burrfish/patrol-6/` | [74809762](https://catalog.archives.gov/id/74809762) | 66 | BANG Patrol 6, until BANG left formation on 29 Mar; no torpedo attacks, no rescues |
@@ -112,23 +110,22 @@ SNOOK (SS-279), the third boat of BANG's Patrol 6 group, has no report for
 that patrol: she left formation the first night "to return to port"
 (BURRFISH p03). Her last report in the series is Patrol 8 (74850126).
 
-`patrol-6/positions.csv` now includes BANG's Section U radar-intercept
+`patrol-6/positions.csv` includes BANG's Section U radar-intercept
 positions for 18–25 April 1945 (p35–36); the 21 April 2200 entry (typed
 125-14E) contradicts the narrative and is off the track, and the 24 April
 0545 latitude typed with "E" is fixed to N.
 
-## The wolfpack: PARCHE and TINOSA
+## Patrol 1's coordinated attack group: PARCHE and TINOSA
 
-BANG's partners on this patrol are transcribed from their own reports, in the
-multi-boat layout planned in `guides/FLEET.md`:
+BANG's partners on her first patrol, transcribed from their own reports in the same layout:
 
 | Boat | Folder | Report | Positions | Notes |
 |---|---|---|---|---|
 | PARCHE (SS-384), Patrol 1 | `boats/ss-384-parche/patrol-1/` | [74828582](https://catalog.archives.gov/id/74828582) | 64 | Pack commander Capt. G. E. Peterson aboard. Zone I on station. The density-layer table gives dates but no times, so `check_track.py` skips its 10 positions (kept in the CSV) |
 | TINOSA (SS-283), Patrol 6 | `boats/ss-283-tinosa/patrol-6/` | [74856363](https://catalog.archives.gov/id/74856363) | 44 | Zone **H** (−8) on station, not I. No density-layer positions, so the track rests on narrative fixes and the contact tables |
 
-Only `positions.csv` so far (no depths or layers). Both pass `check_track.py`
-with 0 too-fast legs. Fixes taken off the track: PARCHE's aircraft contacts
+Each has positions, attack sheets, the Japanese records of her attacks and claims; no depths or
+density layers. Both pass `check_track.py` with 0 too-fast legs. Fixes taken off the track: PARCHE's aircraft contacts
 1–2 (13 Apr) and 14–17 (30 Apr), and two rows of TINOSA's attack summary
 table that contradict her own narrative (Attack 1 longitude, Attack 2 time
 and position). The engagement pages put the three boats and the Japanese records on one GMT
@@ -169,7 +166,7 @@ movement log, or TE-04's escort reports), not yet found.
 
 | Reference | Record | Pages used |
 |---|---|---|
-| [C08050103200](https://www.jacar.archives.go.jp/das/image/C08050103200) | Designated-ship movement tables, vol. 4 (タ–ワ), part 5: **Nittatsu Maru's movement log**, 1 Nov 1943 – 30 Apr 1944, by her master | p19 (header), p23–25 |
+| [C08050103200](https://www.jacar.archives.go.jp/das/image/C08050103200) | Designated-ship movement tables, vol. 4 (タ–ワ), part 5: **Nittatsu Maru's movement table**, 1 Nov 1943 – 30 Apr 1944, by her master | p19 (header), p23–25 |
 | [C08030140600](https://www.jacar.archives.go.jp/das/image/C08030140600) | 1st Surface Escort Division war diary (extract), April 1944 | p4 (narrative), p15 (escort movements), p30 (losses table) |
 | [C08030140700](https://www.jacar.archives.go.jp/das/image/C08030140700) | Same, May 1944 | p26 (losses table) |
 | [C08030512800](https://www.jacar.archives.go.jp/das/image/C08030512800) | Takao Guard District war diary, part 3 (radio log, 23–30 Apr 1944) | p24–27 |

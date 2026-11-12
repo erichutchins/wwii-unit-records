@@ -1,5 +1,5 @@
-# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
-# The 103rd Squadron's war diary (jacar:C08030075600, L99) has Kume's captain's telegram: Sanuki Maru torpedoed at
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/SCHEMA.md (A patrol's claims).
+# The 103rd Squadron's war diary (jacar:C08030075600) has Kume's captain's telegram: Sanuki Maru torpedoed at
 # 0232 and Kume at 0235 (J01, J02). Attacks 1-2 are paired; Attacks 3-6 are not (the squadron's February is not in
 # the file). Attacks 3-6 are still unpaired after the ship-movement telegram file (jacar:C19010071800) and the 1st
 # Escort Fleet's January-February 1945 loss tables (jacar:C08030142000 p50, C08030142100 p46), which cover other

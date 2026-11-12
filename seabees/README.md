@@ -28,7 +28,7 @@ its page (`ref`), in the forms listed in `../SOURCES.yml`.
   advance base depot, date ready, date left, destination) and a log of its monthly reports and
   the letters and dispatches about it. These carry most of the dates of sailing and arriving.
   The left-margin date is when the entry was logged; rows use the dates in the entry itself.
-  Download with a browser User-Agent: `https://www.history.navy.mil/content/dam/museums/Seabee/UnitListPages/NCB/020%20NCB.pdf`.
+  The 20th's is at `https://www.history.navy.mil/content/dam/museums/Seabee/UnitListPages/NCB/020%20NCB.pdf`.
 - ***Building the Navy's Bases in World War II***, vol. 2 (Bureau of Yards and Docks, 1947;
   HyperWar, `bases-NN`): what the battalion built, and where, often to the month only.
 - ***Marines in the Central Solomons*** (Rentz, 1952; HyperWar): the 30 June 1943 landings at
@@ -48,13 +48,13 @@ its page (`ref`), in the forms listed in `../SOURCES.yml`.
 Hand-edited:
 
 - `units.csv`: `unit`, `name`, `note` (an outline of the battalion, with its sources)
-- `units.yml`: what each battalion was, in a line, in our words (`plain`), keyed by `unit` (guides/OPERATIONS-VIEWER.md 2.1)
+- `units.yml`: what each battalion was, in a line, in our words (`plain`), keyed by `unit`
 - `parts.csv`: the battalion's parts and when each existed: `unit`, `part`, `parent` (the part it
   split from), `from`, `to`, `note`. A part's position is its own rows while it existed and its
   parent's otherwise; a parent's rows dated after a part split off are the rest of it
 - `stations.csv`: each place the battalion, or one part of it, was recorded, with its source
-- `places.csv`: coordinates (`python3 tools/geocode_places.py records/seabees/places.csv` fills
-  rows that have a `query`; hand-placed rows say where and why)
+- `places.csv`: coordinates (the kit's `tools/geocode_places.py` fills rows that have a `query` from OSM
+  Nominatim; hand-placed rows say where and why)
 
 - `voyages.csv`: the crossings between two stations, and what is known of the ships: `unit`, `part`,
   `from_date` and `to_date` (the dates of the stations it joins: the page draws the legs between them),
@@ -118,8 +118,8 @@ Generated (`python3 tools/fetch_station_weather.py seabees`):
 | `place` | Key into `places.csv`; empty when the row has no position |
 | `source` | `muster` (the rolls), `wardiary` (a ship's or a command's war diary), `ncbhist` (the Historical Information sheet and the museum's chronology), `bases` (*Building the Navy's Bases*), `mcsol` (*Marines in the Central Solomons*) |
 | `ref` | The citation: `rg24-<file unit>/pNNNN`, `ncbhist-NNN/pN`, `bases-NN`, or a URL; several separated by `;` |
-| `last_day` | `yes` when the row's date is the last day at the place (the day it sailed, or a place seen in passing): the stay doesn't run on to the next row |
 | `assumed` | What the row assumes, if anything: `date` (the source gives only the month; the row is put on the 15th) or `place` (the source names a mail address, an island or a group, or several places; the note says where the point is drawn and why) |
+| `last_day` | `yes` when the row's date is the last day at the place (the day it sailed, or a place seen in passing): the stay doesn't run on to the next row |
 | `note` | Readings, numbers, and how the row was placed |
 
 The two halves of 1943 have their own rows, and so do the Rear Echelon's two groups of 30 June

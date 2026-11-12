@@ -1,9 +1,9 @@
-# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/SCHEMA.md (A patrol's Japanese record).
 # None found yet. The five attacks are in the Yellow Sea: off the west coast of Korea (Attacks 1-2, 31 May and 3 June,
 # 36-37N 125-23E to 125-30E, two four-masted sailing vessels), at the eastern end of the Gaichosan Suido off Dairen
 # (Attack 3, 8 June, 39-07N 123-05E, two whale-killer patrol boats), and north-east of the Shantung promontory
 # (Attacks 4-5, 11 June, 37-11N 123-23E, a ship with two escorts in fog, claimed sunk). The Navy's monthly summary of
-# escort and anti-submarine events stops at February 1945 (L98), so the search went by command and month (L99),
+# escort and anti-submarine events stops at February 1945, so the search went by command and month,
 # 5 Nov 2026:
 # - Ryojun (Port Arthur) Special Base Force: its war diary on JACAR ends with May 1945 (jacar:C08030281600, parts
 #   C08030281800, the Manchukuo maritime police guard ships Kaio, Kaiho, Kairyu, Kaizui, Kaiko attached to it, and
@@ -24,7 +24,7 @@
 # Finding aid (secondary, not read on a primary record): the English Wikipedia articles on SEGUNDO and its list of
 # shipwrecks in June 1945, and the Naval Cover Museum's SEGUNDO page, name the ship of 11 June as Fukui Maru No. 2
 # (第二福井丸), 1,591 tons, off the Shantung peninsula. JANAC credits her to SEGUNDO (claims.yml's header).
-# 第二福井丸 in the designated-ship movement tables (L99, 5 Nov 2026):
+# 第二福井丸 in the designated-ship movement tables (5 Nov 2026):
 # - 1943-44 series, part 22 (昭和１８年～１９年 大東亜戦争指定船行動表（２２）, jacar:C08050057300, the フ section;
 #   C08050055000 is the series' cover record): her entry is pp. 02-05. Header (p02, read on the scan): 汽船第二福井丸
 #   船長織田廣吉, 船舶番号 一九五八五, 総屯数 一五九一、八九屯, 自昭和十九、六、一 至仝十九、?二、三〇 (the month is

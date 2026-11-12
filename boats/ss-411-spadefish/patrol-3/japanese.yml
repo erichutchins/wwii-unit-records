@@ -1,4 +1,4 @@
-# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/README.md (A patrol's Japanese record).
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/SCHEMA.md (A patrol's Japanese record).
 # Searched (5 Nov 2026): the Navy's day-by-day summary of escort and anti-submarine events (大東亜戦争経過概要（護衛対潜関係）),
 # January 1945 (jacar:C16120660400, pp. 11-12: the 27th to 2 February) and February 1945 (jacar:C16120660500, pp. 01-04:
 # 31 January to the 10th), read at 200 dpi. Neither part has a ship-loss table (January's p04 is a summary of forces,
@@ -6,12 +6,12 @@
 # Yellow Sea, off Korea or off Port Arthur on 28 January, 31 January, 1-2 February, 4 February or 6 February: the
 # shipping entries on those days are off Luzon, in the Bashi Channel, off Java, in the Balabac Strait, off Borneo and
 # Indochina, and at 29-03N 141-32E (CD12, 6 February). Nothing in the summary.
-# Searched (5 Nov 2026, L99): the 103rd Squadron's war diary (第百三戦隊戦時日誌, formed 20 January 1945 in the 1st Escort
+# Searched (5 Nov 2026): the 103rd Squadron's war diary (第百三戦隊戦時日誌, formed 20 January 1945 in the 1st Escort
 # Fleet, with Kume), 20-31 January (jacar:C08030075600, all 38 pages at 80 dpi; pp. 05, 08, 13 and 14 at 220-400 dpi):
 # J01-J02. Its February part is not in the file (part 2, jacar:C08030075700, is March; part 3, C08030075800, March's
 # signals). Not on JACAR: the Chinkai Guard District's diary after July 1944 (the last is jacar:C08030736700, July
 # 1944) and the Ryojun Area Special Base Force's before April 1945 (C08030282000).
-# Searched (5 Nov 2026, L99): the ship-movement telegram file for February-April 1945 (艦船行動電報綴, jacar:C19010071800,
+# Searched (5 Nov 2026): the ship-movement telegram file for February-April 1945 (艦船行動電報綴, jacar:C19010071800,
 # 15 parts, C19010072100-073500). It is the Navy's own ships' arrival and departure telegrams, one form per page,
 # filed by ship (筑紫丸, 隠岐, 三宅, transports, submarines; parts 4 and 7 read, pp. 01-36, at 80 dpi), not losses.
 # JACAR's OCR of all 15 parts has no 被雷, 撃沈, 遭難 or 救助, and no 大連, 旅順, 青島, 仁川, 群山 or 木浦; 鎮海 only in part 7

@@ -1,11 +1,11 @@
-# USS South Dakota (BB-57): war diaries, November 1942 onward (in progress; November 1942 to February 1945 minus 1943 except February and December)
+# USS South Dakota (BB-57): war diaries, November 1942 – April 1945 (1943 mostly untranscribed)
 
-`positions.csv` has the same columns as `patrol-N/positions.csv`. So far it holds **1 November to 18 December 1942**,
+`positions.csv` has the same columns as a submarine's `patrol-N/positions.csv` (`../../SCHEMA.md`). It holds **1 November to 18 December 1942**,
 transcribed from the typed war diary for 20 March 1942 to 28 February 1943
 ([NARA 78189543](https://catalog.archives.gov/id/78189543), 22 pages), pages 14 to 20, **21 to 28 February 1943** (NARA 134088381, pp. 29-49: port and harbour rows only), **December 1943** (NARA 78271510, 5 pp., all read), **January to August 1944**
 (the typed monthly diaries NARA 78337817, 78361250, 78391388, 78435161, 78477472, 78513245, 78580035 and 78647682; see Notes by month) and **September to December 1944**
-(NARA 139889516, one 42-page diary for the four months, all of it read), and **January and February 1945** (NARA 139891872, 14 pp.; 139900467, 13 pp.). Every other month from
-November 1942 to May 1945 is found in the catalog and listed in `../../inventory.yml`; none else is transcribed yet.
+(NARA 139889516, one 42-page diary for the four months, all of it read), **January and February 1945** (NARA 139891872, 14 pp.; 139900467, 13 pp.) and **6 to 9 April 1945** (NARA 633438508, pp. 4, 6, 7). Every other month from
+November 1942 to May 1945 that the catalog holds is listed below and in `../../inventory.yml`; none else is transcribed.
 
 - `source` is `diary` (an 0800 / 1200 / 2000 position typed under the day), `narrative` (a departure or arrival
   with the diary's time, written with the standard harbour position; the diary types no berth coordinates) or
@@ -47,9 +47,10 @@ Monthly war diaries ("USS SOUTH DAKOTA - War Diary", series 4697018), by catalog
 | Apr, May 1944 | 78435161, 78477472 | 11, 4 | typed; transcribed |
 | Jun, Jul, Aug 1944 | 78513245, 78580035, 78647682 | 9, 3, 2 | typed; transcribed (Aug: dry dock, no positions to 25 Aug) |
 | Sep to Dec 1944 | 139889516 | 42 | one diary for the four months; typed; all transcribed (pp. 1-42) |
-| Jan, Feb 1945 | 139891872, 139900467 | 14, 13 | not read |
+| Jan, Feb 1945 | 139891872, 139900467 | 14, 13 | typed; transcribed |
 | Mar 1945 | | | **no monthly diary**; the report of operations 18 Mar - 11 May 1945 is NARA 77802097 (4 pp.) |
-| Apr, May 1945 | 633438508, 101760567 | 23, 14 | not read |
+| Apr 1945 | 633438508 | 23 | 6 to 9 April transcribed (pp. 4, 6, 7); the rest not read |
+| May 1945 | 101760567 | 14 | not read |
 
 Her action reports are separate items (Savo Island 134006513; Palau 78395988; the Marianas, Formosa and Philippines
 operations and others, found by searching "SOUTH DAKOTA" in the same series) and carry their own track charts.

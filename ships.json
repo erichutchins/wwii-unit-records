@@ -498,7 +498,7 @@
   "class": "Balao",
   "silhouette": "balao",
   "kind": "submarine",
-  "plain": "a fleet submarine of the Balao class, on her third war patrol, in the East China Sea, who attacked the screen of the carrier Junyō the same night as SEA DEVIL and REDFISH",
+  "plain": "a fleet submarine of the Balao class, on her third war patrol, in the East China Sea, where she attacked the screen of the carrier Junyō the same night as SEA DEVIL and REDFISH",
   "max_kts": 20.5,
   "dives": false,
   "geojson": "boats/ss-390-plaice/tracks.geojson",
@@ -578,7 +578,7 @@
   "class": "Balao",
   "silhouette": "balao",
   "kind": "submarine",
-  "plain": "a fleet submarine of the Balao class, on her second war patrol, in the East China Sea, who attacked the carrier Junyō the same night as REDFISH",
+  "plain": "a fleet submarine of the Balao class, on her second war patrol, in the East China Sea, where she attacked the carrier Junyō the same night as PLAICE and REDFISH",
   "max_kts": 20.5,
   "dives": false,
   "geojson": "boats/ss-400-sea-devil/tracks.geojson",
@@ -642,7 +642,7 @@
   "dives": false,
   "geojson": "ships/bb-55-north-carolina/track.geojson",
   "title": "USS North Carolina (BB-55)",
-  "intro": "North Carolina's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "North Carolina's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -697,7 +697,7 @@
   "dives": false,
   "geojson": "ships/bb-56-washington/track.geojson",
   "title": "USS Washington (BB-56)",
-  "intro": "Washington's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Washington's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -859,7 +859,7 @@
   "dives": false,
   "geojson": "ships/bb-63-missouri/track.geojson",
   "title": "USS Missouri (BB-63)",
-  "intro": "Missouri's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Missouri's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -914,7 +914,7 @@
   "dives": false,
   "geojson": "ships/bb-64-wisconsin/track.geojson",
   "title": "USS Wisconsin (BB-64)",
-  "intro": "Wisconsin's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Wisconsin's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -969,7 +969,7 @@
   "dives": false,
   "geojson": "ships/cl-103-wilkes-barre/track.geojson",
   "title": "USS Wilkes-Barre (CL-103)",
-  "intro": "Wilkes-Barre's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Wilkes-Barre's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1024,7 +1024,7 @@
   "dives": false,
   "geojson": "ships/cl-66-springfield/track.geojson",
   "title": "USS Springfield (CL-66)",
-  "intro": "Springfield's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Springfield's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1079,7 +1079,7 @@
   "dives": false,
   "geojson": "ships/cl-90-astoria/track.geojson",
   "title": "USS Astoria (CL-90)",
-  "intro": "Astoria's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Astoria's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1134,7 +1134,7 @@
   "dives": false,
   "geojson": "ships/cv-10-yorktown/track.geojson",
   "title": "USS Yorktown (CV-10)",
-  "intro": "Yorktown's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4 (cruising disposition 5-R), en route to fuel and rearm from Task Group 50.8. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Yorktown's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4 (cruising disposition 5-R), en route to fuel and rearm from Task Group 50.8. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1189,7 +1189,7 @@
   "dives": false,
   "geojson": "ships/cv-11-intrepid/track.geojson",
   "title": "USS Intrepid (CV-11)",
-  "intro": "Intrepid's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4 fueling and rearming about 200 miles southeast of Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Intrepid's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.4 fueling and rearming about 200 miles southeast of Task Group 58.3. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1244,7 +1244,7 @@
   "dives": false,
   "geojson": "ships/cv-12-hornet/track.geojson",
   "title": "USS Hornet (CV-12)",
-  "intro": "Hornet's three war diary positions for 6 April 1945 (0800, 1200, 2000), guide of Task Group 58.1 with Bennington, Belleau Wood and San Jacinto. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Hornet's three war diary positions for 6 April 1945 (0800, 1200, 2000), guide of Task Group 58.1 with Bennington, Belleau Wood and San Jacinto. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1299,7 +1299,7 @@
   "dives": false,
   "geojson": "ships/cv-15-randolph/track.geojson",
   "title": "USS Randolph (CV-15)",
-  "intro": "Randolph's war diary positions for 5-6 April 1945: flagship and guide of Task Group 58.2 (Rear Admiral G. F. Bogan), sailing from Ulithi to join Task Force 58; Enterprise joined at 0615 on 6 April (lead L49). Transcribed from the ",
+  "intro": "Randolph's war diary positions for 5-6 April 1945: flagship and guide of Task Group 58.2 (Rear Admiral G. F. Bogan), sailing from Ulithi to join Task Force 58; Enterprise joined at 0615 on 6 April. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1354,7 +1354,7 @@
   "dives": false,
   "geojson": "ships/cv-17-bunker-hill/track.geojson",
   "title": "USS Bunker Hill (CV-17)",
-  "intro": "Bunker Hill's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3 off Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Bunker Hill's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3 off Okinawa. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1409,7 +1409,7 @@
   "dives": false,
   "geojson": "ships/cv-19-hancock/track.geojson",
   "title": "USS Hancock (CV-19)",
-  "intro": "Hancock's war diary positions for 6 April 1945 (an approximate 0540 launch position, then 0800, 1200, 2000), in Task Group 58.3 off Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Hancock's war diary positions for 6 April 1945 (an approximate 0540 launch position, then 0800, 1200, 2000), in Task Group 58.3 off Okinawa. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1464,7 +1464,7 @@
   "dives": false,
   "geojson": "ships/cv-20-bennington/track.geojson",
   "title": "USS Bennington (CV-20)",
-  "intro": "Bennington's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.1 beside Task Group 58.3 off Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Bennington's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.1 beside Task Group 58.3 off Okinawa. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1519,7 +1519,7 @@
   "dives": false,
   "geojson": "ships/cv-6-enterprise/track.geojson",
   "title": "USS Enterprise (CV-6)",
-  "intro": "Enterprise's war diary positions for 5-7 April 1945: a detached unit of Task Group 58.2 from Ulithi, joining Randolph's group at 0645 on 6 April (lead L49). Transcribed from the ",
+  "intro": "Enterprise's war diary positions for 5-7 April 1945: a detached unit of Task Group 58.2 from Ulithi, joining Randolph's group at 0645 on 6 April. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1574,7 +1574,7 @@
   "dives": false,
   "geojson": "ships/cv-9-essex/track.geojson",
   "title": "USS Essex (CV-9)",
-  "intro": "Essex's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Essex's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.3. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1749,7 +1749,7 @@
   "dives": false,
   "geojson": "ships/cvl-24-belleau-wood/track.geojson",
   "title": "USS Belleau Wood (CVL-24)",
-  "intro": "Belleau Wood's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.1 beside Task Group 58.3 east of Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Belleau Wood's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.1 beside Task Group 58.3 east of Okinawa. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1804,7 +1804,7 @@
   "dives": false,
   "geojson": "ships/cvl-28-cabot/track.geojson",
   "title": "USS Cabot (CVL-28)",
-  "intro": "Cabot's two positions for 6 April 1945 (1227 and 1305), typed on her anti-aircraft action forms, in Task Unit 58.3.1 (Task Group 58.3) east of Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "Cabot's two positions for 6 April 1945 (1227 and 1305), typed on her anti-aircraft action forms, in Task Unit 58.3.1 (Task Group 58.3) east of Okinawa. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
@@ -1859,7 +1859,7 @@
   "dives": false,
   "geojson": "ships/cvl-30-san-jacinto/track.geojson",
   "title": "USS San Jacinto (CVL-30)",
-  "intro": "San Jacinto's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.1 (Hornet guide) east of Okinawa. Only this day is transcribed so far (lead L49). Transcribed from the ",
+  "intro": "San Jacinto's three war diary positions for 6 April 1945 (0800, 1200, 2000), in Task Group 58.1 (Hornet guide) east of Okinawa. Only this day is transcribed so far. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [

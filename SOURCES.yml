@@ -55,10 +55,11 @@ nara-war-diaries:
   by: Office of the Chief of Naval Operations
   kind: record
   of: us
-  held: NARA, Record Group 38
-  url: https://catalog.archives.gov/
+  held: NARA, Record Group 38, series 4697018
+  id: NAID 4697018
+  url: https://catalog.archives.gov/id/4697018
   rights: Public domain
-  used_for: ships/dd-700-haynsworth/ (USS Haynsworth's April 1945 war diary); ships/de-221-solar/ (USS Solar's war diaries, Sep 1944 - Oct 1945); commands/comsubpac/ (the submarine force's October 1944 war diary); seabees/ (source wardiary, voyages.csv, voyage_positions.csv)
+  used_for: "ships/*/positions.csv (23 ships' war diaries: USS Haynsworth, Nov 1944 - Oct 1945; USS Solar, Sep 1944 - Oct 1945; USS South Dakota, Nov 1942 - Apr 1945; USS Bougainville, Jun 1944 - Sep 1945; nineteen ships of Task Force 58 for 5 to 7 April 1945); commands/comsubpac/ (the submarine force's October 1944 war diary); seabees/ (source wardiary, voyages.csv, voyage_positions.csv); engagements/*/events.yml"
   series_of: nara-catalog
 
 nara-morning-reports:
@@ -471,19 +472,6 @@ frupac:
   link: https://texashistory.unt.edu/ark:/67531/{1}/
   used_for: boats/ss-385-bang/patrol-N/frupac.yml
 
-usf25a:
-  title: Current Doctrine, Submarines (USF 25(A))
-  short: USF 25(A)      # (USF 25(A) p. 37)
-  by: Commander Submarine Force, U.S. Pacific Fleet
-  kind: reference
-  of: us
-  held: February 1944; HyperWar transcription (ibiblio), with the printed page numbers
-  url: https://www.ibiblio.org/hyperwar/USN/ref/SS-Doct/index.html
-  rights: Public domain
-  cite: usf25a/<chapter>/p<page>      # e.g. usf25a/4/p37 (Chapter IV, printed page 37)
-  match: '^usf25a/(\d+)/p(\d+)$'
-  link: https://www.ibiblio.org/hyperwar/USN/ref/SS-Doct/SS-Doct-{1}.html
-  used_for: site/torpedo.html (the fire-control terms, spreads, firing doctrine, night attack)
 
 op635:
   title: "Torpedoes Mark 14 and 23 Types, OP 635 (First Revision)"
@@ -948,7 +936,7 @@ usf-25a:
   cite: usf-25a/<paragraph>      # e.g. usf-25a/4107 (chapter IV's definitions: angle on the bow, track angle, gyro angle)
   match: '^usf-25a/(\d)(\d{3})$'
   link: https://www.ibiblio.org/hyperwar/USN/ref/SS-Doct/SS-Doct-{1}.html#{1}{2}
-  used_for: "reference/glossary.yml (the submarine terms, the attack's angles, radar and periscope depth, lifeguard duty, the coordinated attack)"
+  used_for: "reference/glossary.yml (the submarine terms, the attack's angles, radar and periscope depth, lifeguard duty, the coordinated attack); site/torpedo.html (the fire-control terms, spreads, firing doctrine, night attack, by printed page: Chapter IV, p. 37)"
 
 oni-54:
   title: ONI 54-series recognition manuals (ONI 54-D destroyers, 54-CV carriers, 54-R battleships, 54-C cruisers), 1943–1944

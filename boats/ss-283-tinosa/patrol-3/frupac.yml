@@ -1,6 +1,6 @@
-# Notes read off the FRUPAC war maps, each tied to an attack. Hand-edited; fields in records/README.md (FRUPAC).
-# One map: "FRUPAC War Map: October 3 - 6, 1943" (metapth1732841), read in the zoom viewer on 5 Nov 2026 from a
-# screenshot Eric took at the view below (the viewer is behind a bot check for the kit's tools). Positions are
+# Notes read off the FRUPAC war maps, each tied to an attack. Hand-edited; fields in records/SCHEMA.md (FRUPAC).
+# One map: "FRUPAC War Map: October 3 - 6, 1943" (metapth1732841), read on 5 Nov 2026 from a screenshot of the
+# zoom viewer at the view below (the viewer is behind a bot check for the kit's tools). Positions are
 # estimated from where each mark sits against Truk's dot (taken as 7.4N 151.8E) and the overlay's 10° meridian labels,
 # about ±0.3°.
 - id: F01

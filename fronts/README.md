@@ -4,6 +4,47 @@ The front line and the units as a dated situation map drew them: the army group'
 pages to draw under their own records. Context, not the units' positions: a symbol stands in its unit's area, and the
 line is the front as the staff drew it at the map's hour.
 
+## Coverage, and who traced it
+
+HQ Twelfth Army Group's daily situation maps at the Library of Congress run from 6 June 1944 to 26 July 1945, 415
+sheets (`sitmaps.csv`; the catalogue has none for 12 November 1944). The earliest sheets are titled "HQ FUSAG" (First US Army
+Group) and the later ones "Twelfth Army Group"; each day's `title` is as read on its sheet.
+
+- **The front** is traced on 365 days: every day from 6 June 1944 to 7 June 1945 except 10 September 1944. Some days
+  are an empty front, recorded as such (the sheet draws no ticked line: most of September 1944, and from 1 June 1945).
+- **The unit symbols** are read on 98 days, 16,914 symbols: 26 June to 11 July 1944 and 16 December 1944 to
+  24 February 1945 across the whole sheet, and 7 to 17 March 1945 within the Remagen area only (about 6.4 to 7.8 E,
+  50.0 to 51.2 N).
+
+How it was done: the first days of each run were traced by hand with the kit's `tools/trace_front.py` (7, 9, 11, 13, 15
+and 17 March 1945; 22 December 1944 across the whole sheet); the other days were traced, and the symbols read, by AI
+agents following the kit's skill `trace-situation-map`, one day each. Every day was then reviewed by the project's one
+reader before it was kept: each town's side of the line against the days around it, the front's length and whether
+it was whole, each rear town's distance to the front against the days either side (`tools/check_fronts.py`), and
+every doubtful stretch looked at on the scan. A day's YAML says what the review changed (stretches turned, boxes
+added, gaps that can't be traced), on a `# Reviewed:` line. There has been no second, independent reading.
+The fits and their errors are under "The collection" and "How the front is traced" below; the method in full is the
+kit's `guides/SITUATION-MAPS.md`.
+
+## Known gaps
+
+- **Not traced:** 10 September 1944 (a double sheet, two plates on one scan, which the tool's one fit a day can't
+  take) and 8 June to 26 July 1945 (49 post-war sheets, which draw the line of contact bare).
+- **Symbols not read:** 317 of the 415 days, and on 7 to 17 March 1945 only the Remagen area.
+- **Weak days, each said in its own YAML:** 25 July to 4 August 1944 (traced with large gaps: about 108 km of some
+  134 untraced on 30 July); 1 July 1944 (about 16 km untraced); 7 June 1944 (four short bends untraced); 15 and
+  19 March 1945 (about 60 px untraced at Saarlautern and west of Ottweiler); 22 to 31 May 1945 (ticked bands in the
+  Tauern and toward Carinthia traced as line of contact, whose meaning isn't established).
+- **Open ends:** on the June 1944 sheets a town past the open end of the line can read on the wrong side (most often
+  east of the Seine mouth), since nothing separates it from the sea; Ostend likewise in November 1944.
+- **Southern France is off every sheet:** none reaches the Rhône valley, so a unit that came up from the
+  Mediterranean in 1944 is not on these maps before it reaches Lorraine and Alsace.
+- **Ties not yet cited:** the US divisions keyed from the maps (`army/units.csv`) still lack their page in the ETO
+  order of battle; what a German division was beyond its label and mark is not cited; British, Canadian, French and
+  Polish symbols and the enemy's corps and armies are not keyed.
+- **The symbols are divisions and above** (the enemy's, brigades and above): no battalion, battery or combat command
+  is drawn, and a sheet can lag a move by days ("What the sheets draw", below).
+
 ## The collection
 
 HQ Twelfth Army Group's daily situation maps (SOURCES.yml `loc-12ag`): one sheet a day from 6 June 1944 to 26 July
@@ -45,21 +86,240 @@ where the kilometre grid passed for the graticule in places and `bases.yml` says
 says), 16, 11, 14 and 13 of them at 0.14 to 0.48 km rms. The double sheet of 10 September (B10) alone has none: two
 plates on one scan, one day. `bases.yml` gives each base's count, fit and the day it was checked on.
 
-## The front across the whole sheet, 16 December 1944 to 31 January 1945
+## Files
 
-The front alone, every day from the Bulge's first morning to the end of January, traced across the whole
-1:1,000,000 plate on its 81 towns (`towns-B11.csv`): 22 December 1944 by hand, to settle what a whole sheet leaves out
-(the title block, the legend, boundaries drawn heavy with no ticks), and the other 46 days by agents from the skill, a
-day each, five at a time, every day reviewed. The review read each town's side against 22 December's, the front's
-length and whether it was whole, and from late in the run each rear town's distance to the front against the days
-either side (`tools/check_fronts.py`), which found boundaries still traced as front far behind the line on three
-days that no town's side had shown. Where a reader's day was wrong the YAML says so: stretches turned on review, boxes
-added, and one gap that can't be traced (the Colmar pocket's west side on 16 January, drawn too heavy). From
-25 January the title reads "to accompany G-3 report no. …" (234 to 240). The unit symbols are read across the whole
-sheet on nine of these days, 16 to 23 December and 28 January (`<map>-units.csv`, 176 to 226 a day, US, enemy,
-British, Canadian, Polish and French, each read as drawn by an agent and reviewed: every US "9" magnified, the enemy's
-panzer and paratroop marks read, the map's boxes of unplaced divisions listed). The box finder misses a third to half
-of a whole sheet's symbols (the British boxes, most corps and armies); the readers read those off the overview's tiles.
+Each map has four files:
+
+- `<map>.yml` (hand-written): what was read and decided for the day. `item`, `date` (the catalogue's); `as_of`, `report`
+  and `title` as read on the sheet, and `read`, when; `gcps_from`, the day whose towns this sheet's are matched to (the
+  same base sheet), or `gcps_read: by eye` for a base sheet's first day; `runs`, the front as waypoints on the scan where
+  it is traced that way (7 March); `area`, an optional box `[x0, y0, x1, y1]` on the scan that widens the traced area beyond the towns' spread (for front past the outermost towns); `dark`, the grey cutoff for the front's ink (default 70; raised on a light print whose line is drawn thinner or paler, as on the June 1944 Normandy sheets, where 70 loses much of the line at every radius); `exclude`, boxes on the scan whose heavy ink isn't the front; `flip` and `checked`,
+  stretches turned or confirmed by hand after a look, each a point on the scan near the stretch; every one with its
+  `why`. The tool refuses to trace a day without it.
+- `<map>-gcps.csv` (hand-checked, or matched): the 20 town rings the scan is fitted to. `x`, `y`: the ring's centre on the
+  full scan (about 6670 x 5975); `read`: how it was found; `lat`, `lon`: the town today, from OSM Nominatim (`query`).
+  On 7 March each ring was read by eye, or detected (the ring's enclosed paper, nearest the place the other towns
+  predict) and checked by eye. The later sheets are printings of the same base map: each town is found again by matching
+  a patch of the 7 March sheet round its ring (`trace_front.py --gcps-from`), and the matches are checked against one
+  another (they agree on one affine transform between the sheets to about half a pixel, 40 m); a town whose match doesn't
+  agree (Gemünd on the 9th and the 13th, its ring under that day's overprint) is placed through the transform, and says so.
+- `<map>-units.csv` (hand-read): the unit symbols, each as drawn. Columns and vocabularies are under "The unit
+  symbols" below.
+- `<map>.geojson` (generated by `tools/trace_front.py` from the three above): the front as
+  LineStrings (`kind` `front`; `how` each was turned), each running so that the enemy's side lies to its left, and the
+  units as Points (`kind` `unit`) through the fit; `fit_km` on each, and the map's `date`, `as_of`, `title`, `cite` and the
+  traced `box` on the collection.
+
+## The unit symbols (`<map>-units.csv`)
+
+| Column | Meaning |
+|---|---|
+| `x`, `y` | The box's centre on the scan |
+| `of` | `us` (an open box) or `de` (a hatched box, the map's "Enemy"); on the whole sheets from December 1944 also `uk` (the map's "British", a box with broken hatching), and the nation a label marks as its own where the map draws one in a US or British box: `ca` ("CDN"), `pl` ("POL"), `fr` ("FR"), the label still as written |
+| `echelon` | The marks over the box: `x` a brigade, `xx` a division, `xxx` a corps, `xxxx` an army, `xxxxx` an army group, `xxxxxx` the "C in C". Empty where the marks aren't one of these: the three bars of a regiment (the hatched airborne "6" by Carentan, June 1944), or no marks at all (a dashed British "6" on 26 June 1944) |
+| `arm` | The mark in the box, read by the Army's symbols (FM 21-30): `infantry` (crossed), `armored` (an oval), `armored-infantry` (both), `airborne` (the curved mark), `unread`; empty for a headquarters |
+| `label` | The number or name as written (`?` for a figure that can't be read; "262?" carries the map's own question mark). Labels keep the map's qualifiers: "9(-)" (the division less some of its units), "1(+)" (with others attached), "(ELMS)" (elements) |
+| `unit` | The unit in `army/units.csv` or `army/relations.csv` the symbol is, where that is certain (the map's US "9" with the oval is the 9th Armored Division, `9ad`), else empty. The tie reads the designation without its qualifiers. A tie the drawing alone would give is withheld where another day's sheets show the symbol is another unit (`unit:-` on the reading's line; the day's YAML says why: 18 December 1944's oval "9(-)" by Aachen) |
+| `list` | Empty for a symbol drawn where its unit stands; otherwise a word from the vocabulary below |
+| `doubt` | Empty where the reading raises no question; otherwise a word from the vocabulary below |
+| `map` | The sheet |
+
+### `list`: listed or noted, not placed
+
+The marking that says a symbol is listed or noted rather than placed, which a page shows apart from the placed
+symbols. One word or hyphenated words, lower case, from the sheet's own caption. A new marking gets a new word here
+before it is used in a file.
+
+- `bridgehead`: the map's list of the divisions facing the bridgehead (from 10 March 1945: a bracketed column, then a
+  box headed "BRIDGEHEAD N.-S.");
+- `unlocated` and `out-of-contact`: the enemy divisions in boxes headed "UNLOCATED" and "OUT OF CONTACT" (28 January
+  1945), and a box with "UNLOCATED" written beside it (the enemy's "343 (ELMS)", 29 June 1944);
+- a place off the sheet, for a symbol in a box captioned with it and an arrow pointing off the sheet: `marseilles`
+  ("MARSEILLES"), `le-havre` ("VICINITY LE HAVRE"), `cherbourg` ("CHERBOURG PENINSULA"), `lorient-st-nazaire`
+  ("LORIENT - ST. NAZAIRE SECTORS"), and `quimper-auxerre` for the 94th Division's box with lines drawn to Quimper and
+  Auxerre (December 1944), and `amsterdam` for a symbol at the sheet's top edge under the caption "N.W. AMSTERDAM" or
+  "AMSTERDAM" with an arrow pointing off the sheet (the 331 from 16 December 1944 to 11 February 1945, TETTAU to 23
+  January, the captions not drawn on 12 January): the symbol stands where the
+  sheet runs out, not where the unit is;
+- `westwall`: a symbol with the note "IN WESTWALL - BASLE TO KARLSRUHE" (the 405th z.b.V. Division, December 1944):
+  a stretch of the Westwall, not the symbol's spot;
+- `bracket`: symbols braced together with an arrow to a "?" (the 85th and 59th by Rotterdam, 17 December; the 10th SS
+  and 9th Panzer by Prüm, 22-23 December): where they are going is not known;
+- `arrow`: a symbol drawn with an arrow from it (the 159th by Colmar, 23 December, pointing south toward the sheet's
+  foot): placed, but moving or lying the way the arrow points.
+- `dieppe-rouen`: the symbols in an inset box headed "VICINITY DIEPPE - ROUEN" at the sheet's left edge, with an arrow
+  off the sheet (the 65th, 69th and 89th on 28 January 1945, the 65th and 89th on 4 February): divisions in the rear, not where the box stands;
+- `le-havre-rouen`: the symbols in a box at the sheet's left edge headed "VICINITY LE HAVRE - ROUEN" (the 65th, 69th and
+  89th on 26 January 1945; two days later the same box is headed "VICINITY DIEPPE - ROUEN"): divisions in the rear, not
+  where the box stands;
+- `upper-alsace-pocket`: the enemy symbols in a box headed "IN UPPER ALSACE POCKET" (the Colmar pocket, 4 February
+  1945): listed, not placed.
+- `upper-rhine-area`: the enemy symbols in a box headed "UPPER RHINE AREA" in the same place (11 February 1945, after
+  the pocket's end): listed, not placed.
+
+### `doubt`: recorded as drawn, not to be taken at face value
+
+A word for why a page should not take the symbol at face value, though it is recorded as drawn. A new doubt gets a
+new word here first.
+
+- `enemy-label`: an open box (so `of` `us`, as drawn) whose label is the enemy's: the "30 SS" by the Rhine on 12 and
+  13 January 1945, the "59" by Jülich on 12 January, the open "12" behind the German lines on 21 January (hatched,
+  and so the enemy's 12th, on the 22nd), the "406 zbV" on 10 February, LEHR on 19 and 20 February and the army group
+  UPPER RHINE on 17-20 February. A page draws it as the enemy's, or marks it, rather than as an American division.
+- `allied-label`: an open box whose label is a British or Canadian formation's: the XXX Corps south-west of Dinant on
+  4-6 February 1945 (drawn dashed, the British way, on the 7th), and the "53" by Caen on 7 July 1944.
+- `which-unit`: the label and mark fit more than one unit, and neither the drawing nor its place settles which, so
+  `unit` is left empty: an enemy "3" that could be the 3d Parachute or the 3d Panzer Grenadier Division, a "GD" that
+  could be either Fuehrer brigade, a label with a figure unread ("2?6"). The ties below say which.
+- `tied-by-place`: the label fits more than one unit, and the tie in `unit` is the one a cited history puts at that
+  place on that day; the reasoning is in "The divisions tied" below. A page may draw it as that unit, but says how
+  it is known.
+- `location-doubtful`: the map writes "LOCATION DOUBTFUL" over the box (the enemy's 245 by Cerisy, 26 June 1944): the
+  sheet's own doubt about where the unit stands, not about which unit it is.
+
+On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and
+each read on a numbered sheet; the ones the finder missed (about a fifth on the Remagen days, a third to half of a
+whole sheet: the British boxes, most corps and armies) were read by eye on the sheet. 9 March writes "67" where the
+7th and 11th write "62": as written. From 10 March the map lists the divisions facing the bridgehead, at first in a
+bracketed column, from 14 March also in the box "BRIDGEHEAD N.-S." with a second bracketed column joined by a line
+to the bridgehead's south side: all of them `list` `bridgehead`.
+
+## What the sheets draw, and how they lag
+
+What the sheets draw: on the days read (16 December 1944 - 24 February 1945, 7-17 March 1945, and 26 June - 11 July
+1944), the US and British symbols are divisions and above, and the enemy's brigades and above (and
+in June 1944 one regiment, the airborne "6" by Carentan).
+No battalion, battery or combat command has a box of its own, so an anti-aircraft, tank or infantry battalion is
+not on these maps: its division (or, for a battery under an army's or corps' command, nothing) is the nearest they come.
+
+The sheets can lag a move: a sheet draws a unit where the staff last had it, and a move can reach it a day or more
+late. Four cases so far:
+
+- 1 and 2 August 1944: the line still ends at the bay north of Avranches, with Third Army already through it (the
+  days' YAML).
+- 30 December 1944 - 3 January 1945: the 9th Armored's command post opened at Guignicourt-sur-Vence on 30 December
+  (etoob-9AD/p503-504); the sheets still draw its "9(-)" by Gedinne until the 3rd, and by Guignicourt from the 4th.
+- 12 and 13 January 1945: the 9th Armored Division's oval still stands by Guignicourt-sur-Vence (its command post
+  from 30 December, `army/stations.csv`, etoob-9AD/p503-504), where Third Army's Provost Marshal has the division
+  moving to Thionville on 12 January (aar3/p556); the 14th's sheet draws it by the Moselle.
+- 22 February 1945: the oval still stands north of Metz on the day the division's command post opened at Sprimont,
+  in Belgium (etoob-9AD/p503-504), and again on the 23rd; the 24th's sheet is the first to draw it at Sprimont.
+
+A move dated from these maps is dated to the sheet's hour or later, not to the move itself: check it against the
+unit's own records before using it.
+
+## Which symbol is which unit
+
+How a symbol's `unit` is decided. German formations are named as the maps and Cole's *The Ardennes* (`cole`) spell
+them. The first ties were the corps, armies and army groups, and the divisions round the 9th Armored in the Bulge,
+each a key in `army/units.csv` citing what it is:
+
+- US, by the label and the mark together, at a division's echelon: the 4th Division (`4id`, a crossed "4") and the
+  4th Armored (`4ad`, an oval "4"), the 28th and 87th (`28id`, `87id`), the 101st and 17th Airborne (`101abn`,
+  `17abn`; the 17th's two symbols with a brigade's mark on 24 and 25 January, the only "17" those days, tied too).
+- German, by the label alone where only one division of the enemy's bears it: the 276th, 352nd and 26th Volks
+  Grenadier (`de-276vgd`, `de-352vgd`, `de-26vgd`; "352(-)" and "352 ELMS" both the 352nd's parts) and the 15th
+  Panzer Grenadier (`de-15pzgr`: one "15" a day on one track, whatever its mark).
+- The enemy's "3", two divisions: the 3d Parachute (`de-3fj`, the airborne mark) and the 3d Panzer Grenadier
+  (`de-3pzgr`, an oval, with or without the cross). From 21 December, when the two tracks part (cole/6/p121: the
+  3d Panzer Grenadier marched west to Elsenborn on the 18th), a mark is tied where it is the day's one symbol of that
+  mark, or the one placed rather than listed. Left `which-unit`: every "3" before the 21st; one drawn with no mark or
+  the infantry's cross; a day with two of one mark; and on 23-25 December a panzer mark standing where the airborne
+  "3" stands the days around (by Faymonville), the tracks crossing, which the scan itself would settle.
+- "GD", two brigades (the Fuehrer Grenadier and the Fuehrer Begleit, both from the Grossdeutschland, cole/21/p533):
+  the southern track, by Eschdorf on 24-26 December and by Wiltz to 2 January, is the Fuehrer Grenadier Brigade,
+  which fought at Eschdorf and Heiderscheid on the 24th and 25th (cole/21/p541, cole/21/p543) and withdrew into reserve at
+  Wiltz in the last nights of December (cole/24/p641): `de-fgb`, `tied-by-place`. The northern track, by La Roche
+  from 27 December to 5 January, fits neither: Cole has the Fuehrer Begleit leave the Ourthe on the 26th and fight
+  west of Bastogne from the 28th (cole/24/p613, cole/24/p619), so the sheets may carry it where it was last placed, or mean
+  another unit. Left untied, `which-unit`.
+- By Chenogne on 30 and 31 December and 2 January, the "3" drawn with no mark read or the infantry's cross is tied
+  `de-3pzgr`, `tied-by-place`: it stands where the 3 January sheet draws the 3d Panzer Grenadier's own mark, and Cole
+  has that division attacking at Chenogne from the 30th (cole/24/p614, cole/24/p619). The Fuehrer Begleit Brigade
+  has a key (`de-fbb`, `army/units.csv`) for the records that name it; no symbol is tied to it yet.
+- A label with a figure unread that could be one of these ("2?6", "27?", "1??") is left untied, `which-unit`.
+
+Then every US division and corps on the read days, and the enemy's divisions whose label one track alone bears,
+each a key in `army/units.csv` whose note gives the label, the marks as read, the days drawn and the first sheet:
+
+- US divisions, by the label and the mark together, at a division's echelon: no two US divisions in the theatre
+  share a number and a mark, so a crossed "2" is the 2d Division (`2id`), an oval "2" the 2d Armored (`2ad`), an
+  airborne "13" the 13th Airborne (`13abn`). Keyed: the 2d, 3d, 5th, 8th, 9th, 26th, 29th, 30th, 35th, 36th, 42d,
+  44th, 63d, 65th, 66th, 69th, 70th, 71st, 75th, 76th, 78th, 80th, 83d, 84th, 89th, 90th, 94th, 95th, 99th, 100th,
+  102d, 103d, 104th and 106th Divisions; the 2d, 3d, 5th, 6th, 7th, 8th, 10th, 12th, 13th, 14th, 16th and 20th
+  Armored; the 13th and 82d Airborne. Each key's ETO order of battle page is still to be cited.
+  Not tied: an open box with the enemy's or an ally's label (`enemy-label`, `allied-label`), a figure unread, and
+  a number no US division in the theatre bore (the crossed "92" on 16 December 1944, "19" on 11 January 1945, "12"
+  on 8 February), left as drawn.
+- US corps, by the label: the XII, XVIII, XX, XXI and XXII (`xii-corps` and so on), beside the nine tied before.
+- Withheld, where the drawing alone would give the tie but the days around show the symbol is another unit's (the
+  day's YAML says which): the crossed "5(-)" by Aachen on 17 December 1944, where the 16th's and 18th's sheets draw
+  the 5th Armored's oval "5(-)", with the 5th Division's crossed "5" by Saarlautern that day; the second "106" on 20 December, in northern Alsace where the 100th stands on the days around, while
+  the 106th's "106(+)" stands at St. Vith; the "100" on 4 January 1945 by the XVIII Corps in the Ardennes, where the
+  100th's track is in Alsace. These are the sheet's own, read as drawn, and look like a figure miswritten on it.
+- German divisions, by the label alone where the read days draw it once a day on one track (its parts, "(-)" and
+  "ELMS", and a copy in a box of unplaced divisions, aside), whatever its mark, as for the 15th Panzer Grenadier:
+  81 keys, from the "1 SS" (`de-1ss`) to the "905 zbV" (`de-905zbv`), and LEHR and TETTAU. A key's name is the
+  map's label (the "272d Division (German)"); what the division was beyond its label and mark is not cited yet.
+  "405 zbV" and "405", and "6 SS" and "6 SS MTN", are one track each and one key each. "FG", drawn with the armored
+  mark on 28 January - 9 February 1945, is the Fuehrer Grenadier Brigade (`de-fgb`), by its initials. The "2" is two
+  tracks, split by the mark: the armored (`de-2-armored`, the Ardennes) and the airborne (`de-2-airborne`, the
+  Netherlands, from 22 December); a "2" drawn with the infantry's cross or no mark read is `which-unit`. Twice on
+  a day, both copies tied: the "11" on 18 January, the "716" on 2 January, the "363" on 11 March (each looked at).
+- German, left `which-unit`: every "9" (an armored and an infantry track that cross, and each drawn twice on some
+  days, as the "3" before 21 December); the "406 zbV" from 5 February, 110 km from where the "406" stood on the
+  4th; "FE"/"F.E." (19-22 January). Left untied: a label drawn on fewer than three days (a misreading can't be
+  told from a short-lived identification), the map's own "?" ("216?", "553?", "9 SS ?"; the "216" without it too,
+  on the "216?" track), and a figure unread.
+- German, withheld (the day's YAML): the "116" in Alsace on 11 January 1945, the armored "16" in the Ardennes on
+  15 January, the "89" in Alsace on 7 January and the second "84" on 15 February, each far from its own track that
+  day and the days around. The "84" by Goch on 10 February, read as an open box, is hatched like the 9th's and 11th's
+  and is now `de` (the day's YAML).
+
+The summer sheets (from 26 June 1944): the US symbols are tied by the label and the mark as above. The enemy's are
+left untied: the German keys come from the winter sheets' tracks, and the days between July and December 1944 aren't
+read, so no track joins a June "352" or "275" to the winter's.
+
+Untied symbols on the 82 days read when the ties were made: 13,354 of 15,788 before these ties, 5,284 after (US divisions 3,050 to 35, US corps
+302 to 4, German divisions 5,333 to 576; the rest are British, Canadian, French and Polish symbols and the enemy's
+corps, armies and army groups, not yet keyed).
+
+## How the front is traced, and how good it is
+
+**The front is ticked on the map's own side.** The sheet's legend draws the front line with ticks on one side, and on
+every stretch traced the US divisions lie on the ticked side (west of the Rhine at Bonn, inside the Remagen point, north
+of the Eifel line by the 2nd and 28th Divisions). The pages tick it the same way.
+
+The fit, on the March 1945 days: a 2nd-order polynomial to the 20 towns puts them 0.4–0.5 km rms from where they are,
+0.7 km rms left out one at a time (worst 1.5–1.7 km, Gemünd): this map is drawn closely to its projection (a conformal
+conic). The front is the sheet's heaviest, blackest line (the roads are grey), kept by its weight and thinned to a centre
+line. On 7 March it was followed through waypoints read by eye. On the later days, where Third Army's corridors and the
+bridgehead tangle it, the centre line is cut at its junctions into stretches (short heavy pieces kept: a corridor's head is
+a short arc set apart from its sides by the division's own symbol), the army group boundary from Aachen is left out by a
+box, and each stretch is turned by its ticks so that they lie on its right. A tick is counted only as the map draws one: a
+short stroke as dark as the line (about 35 in every channel), attached to the line's edge and ending on paper within about
+14 px. A darkness test alone was not enough: the Rhine's blue is dark at its edge, and on the lighter sheets (10 March) the
+grey roads that run beside the front along the river (95–100) passed for ticks and turned whole reaches of it the wrong
+way. Stretches that meet two at a time are links of one line, chained and turned together by their summed evidence; a
+fork breaks the chain. The few short pieces that still couldn't be told (a corridor's head, a bend at a junction) were
+each looked at on the scan, and are turned or confirmed by hand in the day's YAML, with the reason; a blunt dead-end spur toward
+Zell on 14 and 15 March, with no ticks either side, is left out. Each day's trace was checked on its overlay, and the
+pages' side test (`Engage.frontSide`) run on the 20 towns of every day: the west bank US, the east bank German, a
+corridor's inside US.
+
+The line itself is about 1.5 km wide at this scale; with the fit, a point on the front is good to a km or two, and the
+line is the staff's drawing at the map's hour, not a surveyed trace. Stretches are cut at their junctions, a gap of a few
+hundred metres. The traced edges of the sheet are the least certain.
+
+## The runs traced first
+
+Two runs were traced before the rest and are tabled day by day; the other days' counts are in their YAML.
+
+### 16 December 1944 to 31 January 1945, the whole sheet
+
+The front across the whole 1:1,000,000 plate on its 81 towns (`towns-B11.csv`). From 25 January the title reads "to
+accompany G-3 report no. …" (234 to 240). One gap can't be traced: the Colmar pocket's west side on 16 January, drawn
+too heavy.
 
 | Map | Sheet | G-3 report | Stretches | Boxes left out | Turned by hand |
 |---|---|---|---|---|---|
@@ -115,13 +375,10 @@ What the sides show across the run: the same towns on each side from 16 December
 grows and is pinched out between towns, never across one), then Haguenau behind the Seventh Army's new line on the
 Moder from 22 January, its ring on the line itself (23 January draws it just inside).
 
-## HQ Twelfth Army Group, 7–17 March 1945
+### 7 to 17 March 1945, the Remagen area
 
-The 1:1,000,000 sheets, each "to accompany G-3 report no. …: situation as of …1200 Mar 1945". All eleven days of the
-Remagen engagement (`engagements/remagen-1945-03-07/`) are traced:
-7, 9, 11, 13, 15 and 17 March first, by hand and tool together; 8, 10, 12, 14 and 16 March then by five agents working
-from the skill, a day each, and reviewed (the sides checked, every doubtful stretch looked at, the labels' qualifiers read
-again on the first six days):
+The 1:1,000,000 sheets, each "to accompany G-3 report no. …: situation as of …1200 Mar 1945": the eleven days of the
+Remagen engagement (`engagements/remagen-1945-03-07/`).
 
 | Map | Sheet | G-3 report | Symbols (listed) |
 |---|---|---|---|
@@ -139,204 +396,6 @@ again on the first six days):
 
 The sheets run in order, ict21269 + the day and report no. 268 + the day, each read on the sheet's title. Only the part of each sheet between Grevenbroich and the
 Moselle is traced, about 6.4 to 8.0 E and 50.15 to 51.1 N, where the towns the fit uses lie.
-
-How to trace another day: the skill `trace-situation-map` (the kit's `.claude/skills/`), all through `tools/trace_front.py`.
-Each map has four files:
-
-- `<map>.yml` (hand-written): what was read and decided for the day. `item`, `date` (the catalogue's); `as_of`, `report`
-  and `title` as read on the sheet, and `read`, when; `gcps_from`, the day whose towns this sheet's are matched to (the
-  same base sheet), or `gcps_read: by eye` for a base sheet's first day; `runs`, the front as waypoints on the scan where
-  it is traced that way (7 March); `area`, an optional box `[x0, y0, x1, y1]` on the scan that widens the traced area beyond the towns' spread (for front past the outermost towns); `dark`, the grey cutoff for the front's ink (default 70; raised on a light print whose line is drawn thinner or paler, as on the June 1944 Normandy sheets, where 70 loses much of the line at every radius); `exclude`, boxes on the scan whose heavy ink isn't the front; `flip` and `checked`,
-  stretches turned or confirmed by hand after a look, each a point on the scan near the stretch; every one with its
-  `why`. The tool refuses to trace a day without it.
-- `<map>-gcps.csv` (hand-checked, or matched): the 20 town rings the scan is fitted to. `x`, `y`: the ring's centre on the
-  full scan (about 6670 x 5975); `read`: how it was found; `lat`, `lon`: the town today, from OSM Nominatim (`query`).
-  On 7 March each ring was read by eye, or detected (the ring's enclosed paper, nearest the place the other towns
-  predict) and checked by eye. The later sheets are printings of the same base map: each town is found again by matching
-  a patch of the 7 March sheet round its ring (`trace_front.py --gcps-from`), and the matches are checked against one
-  another (they agree on one affine transform between the sheets to about half a pixel, 40 m); a town whose match doesn't
-  agree (Gemünd on the 9th and the 13th, its ring under that day's overprint) is placed through the transform, and says so.
-- `<map>-units.csv` (hand-read): the unit symbols, each as drawn. `x`, `y`: the box's centre on the scan; `of`: `us` (an
-  open box) or `de` (a hatched box, the map's "Enemy"); on the whole sheets from December 1944 also `uk` (the map's
-  "British", a box with broken hatching), and the nation a label marks as its own where the map draws one in a US or
-  British box: `ca` ("CDN"), `pl` ("POL"), `fr` ("FR"), the label still as written; `echelon`: the marks over the box (`x` a brigade, `xx` a
-  division, `xxx` a corps, `xxxx` an army, `xxxxx` an army group, `xxxxxx` the "C in C"); `arm`: the mark in the box, read
-  by the Army's symbols (FM 21-30): `infantry` (crossed), `armored` (an oval), `armored-infantry` (both), `airborne` (the
-  curved mark), `unread`; empty for a headquarters; `label`: the number or name as written (`?` for a figure that can't be
-  read; "262?" carries the map's own question mark); `unit`: the unit in `army/units.csv` or `army/relations.csv` the
-  symbol is, where that is certain (the map's US "9" with the oval is the 9th Armored Division, `9ad`), else empty;
-  the reviewer withholds a tie the drawing alone would give where another day's sheets show the symbol is another
-  unit (`unit:-` on the reading's line; the day's YAML says why: 18 December 1944's oval "9(-)" by Aachen);
-  `list`: empty for a symbol drawn where its unit stands; otherwise the marking that says it is listed or noted rather
-  than placed, which a page shows apart from the placed symbols. One word or hyphenated words, lower case, from the
-  sheet's own caption:
-  - `bridgehead`: the map's list of the divisions facing the bridgehead (from 10 March 1945: a bracketed column, then a
-    box headed "BRIDGEHEAD N.-S.");
-  - `unlocated` and `out-of-contact`: the enemy divisions in boxes headed "UNLOCATED" and "OUT OF CONTACT" (28 January
-    1945), and a box with "UNLOCATED" written beside it (the enemy's "343 (ELMS)", 29 June 1944);
-  - a place off the sheet, for a symbol in a box captioned with it and an arrow pointing off the sheet: `marseilles`
-    ("MARSEILLES"), `le-havre` ("VICINITY LE HAVRE"), `cherbourg` ("CHERBOURG PENINSULA"), `lorient-st-nazaire`
-    ("LORIENT - ST. NAZAIRE SECTORS"), and `quimper-auxerre` for the 94th Division's box with lines drawn to Quimper and
-    Auxerre (December 1944), and `amsterdam` for a symbol at the sheet's top edge under the caption "N.W. AMSTERDAM" or
-    "AMSTERDAM" with an arrow pointing off the sheet (the 331 from 16 December 1944 to 11 February 1945, TETTAU to 23
-    January, the captions not drawn on 12 January): the symbol stands where the
-    sheet runs out, not where the unit is;
-  - `westwall`: a symbol with the note "IN WESTWALL - BASLE TO KARLSRUHE" (the 405th z.b.V. Division, December 1944):
-    a stretch of the Westwall, not the symbol's spot;
-  - `bracket`: symbols braced together with an arrow to a "?" (the 85th and 59th by Rotterdam, 17 December; the 10th SS
-    and 9th Panzer by Prüm, 22-23 December): where they are going is not known;
-  - `arrow`: a symbol drawn with an arrow from it (the 159th by Colmar, 23 December, pointing south toward the sheet's
-    foot): placed, but moving or lying the way the arrow points.
-  - `dieppe-rouen`: the symbols in an inset box headed "VICINITY DIEPPE - ROUEN" at the sheet's left edge, with an arrow
-    off the sheet (the 65th, 69th and 89th on 28 January 1945, the 65th and 89th on 4 February): divisions in the rear, not where the box stands;
-  - `le-havre-rouen`: the symbols in a box at the sheet's left edge headed "VICINITY LE HAVRE - ROUEN" (the 65th, 69th and
-    89th on 26 January 1945; two days later the same box is headed "VICINITY DIEPPE - ROUEN"): divisions in the rear, not
-    where the box stands;
-  - `upper-alsace-pocket`: the enemy symbols in a box headed "IN UPPER ALSACE POCKET" (the Colmar pocket, 4 February
-    1945): listed, not placed.
-  - `upper-rhine-area`: the enemy symbols in a box headed "UPPER RHINE AREA" in the same place (11 February 1945, after
-    the pocket's end): listed, not placed.
-  A new marking gets a new word here before it is used in a file.
-  `doubt`: empty where the reading raises no question; otherwise a word for why a page should not take the symbol at
-  face value, though it is recorded as drawn:
-  - `enemy-label`: an open box (so `of` `us`, as drawn) whose label is the enemy's: the "30 SS" by the Rhine on 12 and
-    13 January 1945, the "59" by Jülich on 12 January, the open "12" behind the German lines on 21 January (hatched,
-    and so the enemy's 12th, on the 22nd), the "406 zbV" on 10 February, LEHR on 19 and 20 February and the army group
-    UPPER RHINE on 17-20 February. A page draws it as the enemy's, or marks it, rather than as an American division.
-  - `allied-label`: an open box whose label is a British or Canadian formation's: the XXX Corps south-west of Dinant on
-    4-6 February 1945 (drawn dashed, the British way, on the 7th), and the "53" by Caen on 7 July 1944.
-  - `which-unit`: the label and mark fit more than one unit, and neither the drawing nor its place settles which, so
-    `unit` is left empty: an enemy "3" that could be the 3d Parachute or the 3d Panzer Grenadier Division, a "GD" that
-    could be either Fuehrer brigade, a label with a figure unread ("2?6"). The ties below say which.
-  - `tied-by-place`: the label fits more than one unit, and the tie in `unit` is the one a cited history puts at that
-    place on that day; the reasoning is in "The divisions tied" below. A page may draw it as that unit, but says how
-    it is known.
-  - `location-doubtful`: the map writes "LOCATION DOUBTFUL" over the box (the enemy's 245 by Cerisy, 26 June 1944): the
-    sheet's own doubt about where the unit stands, not about which unit it is.
-  A new doubt gets a new word here first, like a `list` word. `map`: the sheet.
-  An `echelon` is left empty where the marks over a box aren't one of these: the three bars of a regiment (the hatched
-  airborne "6" by Carentan, June 1944), or no marks at all (a dashed British "6" on 26 June 1944).
-  What the sheets draw: on the days read (16 December 1944 - 24 February 1945, 7-17 March 1945, and 26 June - 11 July
-  1944, `TODO.md` section 3), the US and British symbols are divisions and above, and the enemy's brigades and above (and
-  in June 1944 one regiment, the airborne "6" by Carentan).
-  No battalion, battery or combat command has a box of its own, so an anti-aircraft, tank or infantry battalion is
-  not on these maps: its division (or, for a battery under an army's or corps' command, nothing) is the nearest they come.
-  The sheets can lag a move: a sheet draws a unit where the staff last had it, and a move can reach it a day or more
-  late. Four cases so far:
-  - 1 and 2 August 1944: the line still ends at the bay north of Avranches, with Third Army already through it (the
-    days' YAML).
-  - 30 December 1944 - 3 January 1945: the 9th Armored's command post opened at Guignicourt-sur-Vence on 30 December
-    (etoob-9AD/p503-504); the sheets still draw its "9(-)" by Gedinne until the 3rd, and by Guignicourt from the 4th.
-  - 12 and 13 January 1945: the 9th Armored Division's oval still stands by Guignicourt-sur-Vence (its command post
-    from 30 December, `army/stations.csv`, etoob-9AD/p503-504), where Third Army's Provost Marshal has the division
-    moving to Thionville on 12 January (aar3/p556); the 14th's sheet draws it by the Moselle.
-  - 22 February 1945: the oval still stands north of Metz on the day the division's command post opened at Sprimont,
-    in Belgium (etoob-9AD/p503-504), and again on the 23rd; the 24th's sheet is the first to draw it at Sprimont.
-  A move dated from these maps is dated to the sheet's hour or later, not to the move itself: check it against the
-  unit's own records before using it.
-  The divisions tied (`unit`), beyond the corps, armies and army groups and the divisions in "Reading closer"
-  (`TODO.md`): the divisions round the 9th Armored in the Bulge, each a key in `army/units.csv` citing what it is.
-  - US, by the label and the mark together, at a division's echelon: the 4th Division (`4id`, a crossed "4") and the
-    4th Armored (`4ad`, an oval "4"), the 28th and 87th (`28id`, `87id`), the 101st and 17th Airborne (`101abn`,
-    `17abn`; the 17th's two symbols with a brigade's mark on 24 and 25 January, the only "17" those days, tied too).
-  - German, by the label alone where only one division of the enemy's bears it: the 276th, 352nd and 26th Volks
-    Grenadier (`de-276vgd`, `de-352vgd`, `de-26vgd`; "352(-)" and "352 ELMS" both the 352nd's parts) and the 15th
-    Panzer Grenadier (`de-15pzgr`: one "15" a day on one track, whatever its mark).
-  - The enemy's "3", two divisions: the 3d Parachute (`de-3fj`, the airborne mark) and the 3d Panzer Grenadier
-    (`de-3pzgr`, an oval, with or without the cross). From 21 December, when the two tracks part (cole/6/p121: the
-    3d Panzer Grenadier marched west to Elsenborn on the 18th), a mark is tied where it is the day's one symbol of that
-    mark, or the one placed rather than listed. Left `which-unit`: every "3" before the 21st; one drawn with no mark or
-    the infantry's cross; a day with two of one mark; and on 23-25 December a panzer mark standing where the airborne
-    "3" stands the days around (by Faymonville), the tracks crossing, which the scan itself would settle.
-  - "GD", two brigades (the Fuehrer Grenadier and the Fuehrer Begleit, both from the Grossdeutschland, cole/21/p533):
-    the southern track, by Eschdorf on 24-26 December and by Wiltz to 2 January, is the Fuehrer Grenadier Brigade,
-    which fought at Eschdorf and Heiderscheid on the 24th and 25th (cole/21/p541, cole/21/p543) and withdrew into reserve at
-    Wiltz in the last nights of December (cole/24/p641): `de-fgb`, `tied-by-place`. The northern track, by La Roche
-    from 27 December to 5 January, fits neither: Cole has the Fuehrer Begleit leave the Ourthe on the 26th and fight
-    west of Bastogne from the 28th (cole/24/p613, cole/24/p619), so the sheets may carry it where it was last placed, or mean
-    another unit. Left untied, `which-unit`.
-  - By Chenogne on 30 and 31 December and 2 January, the "3" drawn with no mark read or the infantry's cross is tied
-    `de-3pzgr`, `tied-by-place`: it stands where the 3 January sheet draws the 3d Panzer Grenadier's own mark, and Cole
-    has that division attacking at Chenogne from the 30th (cole/24/p614, cole/24/p619). The Fuehrer Begleit Brigade
-    has a key (`de-fbb`, `army/units.csv`) for the records that name it; no symbol is tied to it yet.
-  - A label with a figure unread that could be one of these ("2?6", "27?", "1??") is left untied, `which-unit`.
-  Every US division and corps on the read days, and the enemy's divisions whose label one track alone bears (9 November
-  2026), each a key in `army/units.csv` whose note gives the label, the marks as read, the days drawn and the first sheet:
-  - US divisions, by the label and the mark together, at a division's echelon: no two US divisions in the theatre
-    share a number and a mark, so a crossed "2" is the 2d Division (`2id`), an oval "2" the 2d Armored (`2ad`), an
-    airborne "13" the 13th Airborne (`13abn`). Keyed: the 2d, 3d, 5th, 8th, 9th, 26th, 29th, 30th, 35th, 36th, 42d,
-    44th, 63d, 65th, 66th, 69th, 70th, 71st, 75th, 76th, 78th, 80th, 83d, 84th, 89th, 90th, 94th, 95th, 99th, 100th,
-    102d, 103d, 104th and 106th Divisions; the 2d, 3d, 5th, 6th, 7th, 8th, 10th, 12th, 13th, 14th, 16th and 20th
-    Armored; the 13th and 82d Airborne. Each key's ETO order of battle page is still to be cited (`TODO.md`).
-    Not tied: an open box with the enemy's or an ally's label (`enemy-label`, `allied-label`), a figure unread, and
-    a number no US division in the theatre bore (the crossed "92" on 16 December 1944, "19" on 11 January 1945, "12"
-    on 8 February), left as drawn.
-  - US corps, by the label: the XII, XVIII, XX, XXI and XXII (`xii-corps` and so on), beside the nine tied before.
-  - Withheld, where the drawing alone would give the tie but the days around show the symbol is another unit's (the
-    day's YAML says which): the crossed "5(-)" by Aachen on 17 December 1944, where the 16th's and 18th's sheets draw
-    the 5th Armored's oval "5(-)", with the 5th Division's crossed "5" by Saarlautern that day; the second "106" on 20 December, in northern Alsace where the 100th stands on the days around, while
-    the 106th's "106(+)" stands at St. Vith; the "100" on 4 January 1945 by the XVIII Corps in the Ardennes, where the
-    100th's track is in Alsace. These are the sheet's own, read as drawn, and look like a figure miswritten on it.
-  - German divisions, by the label alone where the read days draw it once a day on one track (its parts, "(-)" and
-    "ELMS", and a copy in a box of unplaced divisions, aside), whatever its mark, as for the 15th Panzer Grenadier:
-    81 keys, from the "1 SS" (`de-1ss`) to the "905 zbV" (`de-905zbv`), and LEHR and TETTAU. A key's name is the
-    map's label (the "272d Division (German)"); what the division was beyond its label and mark is not cited yet.
-    "405 zbV" and "405", and "6 SS" and "6 SS MTN", are one track each and one key each. "FG", drawn with the armored
-    mark on 28 January - 9 February 1945, is the Fuehrer Grenadier Brigade (`de-fgb`), by its initials. The "2" is two
-    tracks, split by the mark: the armored (`de-2-armored`, the Ardennes) and the airborne (`de-2-airborne`, the
-    Netherlands, from 22 December); a "2" drawn with the infantry's cross or no mark read is `which-unit`. Twice on
-    a day, both copies tied: the "11" on 18 January, the "716" on 2 January, the "363" on 11 March (each looked at).
-  - German, left `which-unit`: every "9" (an armored and an infantry track that cross, and each drawn twice on some
-    days, as the "3" before 21 December); the "406 zbV" from 5 February, 110 km from where the "406" stood on the
-    4th; "FE"/"F.E." (19-22 January). Left untied: a label drawn on fewer than three days (a misreading can't be
-    told from a short-lived identification), the map's own "?" ("216?", "553?", "9 SS ?"; the "216" without it too,
-    on the "216?" track), and a figure unread.
-  - German, withheld (the day's YAML): the "116" in Alsace on 11 January 1945, the armored "16" in the Ardennes on
-    15 January, the "89" in Alsace on 7 January and the second "84" on 15 February, each far from its own track that
-    day and the days around. The "84" by Goch on 10 February, read as an open box, is hatched like the 9th's and 11th's
-    and is now `de` (the day's YAML).
-  The summer sheets (from 26 June 1944): the US symbols are tied by the label and the mark as above. The enemy's are
-  left untied: the German keys come from the winter sheets' tracks, and the days between July and December 1944 aren't
-  read, so no track joins a June "352" or "275" to the winter's.
-  Untied symbols on the 82 read days: 13,354 of 15,788 before these ties, 5,284 after (US divisions 3,050 to 35, US corps
-  302 to 4, German divisions 5,333 to 576; the rest are British, Canadian, French and Polish symbols and the enemy's
-  corps, armies and army groups, not yet keyed).
-  On the later sheets the boxes were found by their edges (a top and a bottom of one length, joined by short sides) and
-  each read on a numbered sheet; the ones the finder missed (about a fifth, a box touching its number or a line) were read
-  by eye on the sheet. Labels keep the map's qualifiers: "9(-)" (the division less some of its units), "1(+)" (with
-  others attached), "(ELMS)" (elements): the tie to the kit's units reads the designation without them. 9 March writes
-  "67" where the 7th and 11th write "62": as written. From 10 March the map lists the divisions facing the bridgehead, at
-  first in a bracketed column, from 14 March also in the box "BRIDGEHEAD N.-S." with a second bracketed column joined by a
-  line to the bridgehead's south side: all of them `list` `bridgehead`.
-- `<map>.geojson` (generated by `tools/trace_front.py` from the three above): the front as
-  LineStrings (`kind` `front`; `how` each was turned), each running so that the enemy's side lies to its left, and the
-  units as Points (`kind` `unit`) through the fit; `fit_km` on each, and the map's `date`, `as_of`, `title`, `cite` and the
-  traced `box` on the collection.
-
-**The front is ticked on the map's own side.** The sheet's legend draws the front line with ticks on one side, and on
-every stretch traced the US divisions lie on the ticked side (west of the Rhine at Bonn, inside the Remagen point, north
-of the Eifel line by the 2nd and 28th Divisions). The pages tick it the same way.
-
-How the front was traced. The fit: a 2nd-order polynomial to the 20 towns puts them 0.4–0.5 km rms from where they are,
-0.7 km rms left out one at a time (worst 1.5–1.7 km, Gemünd): this map is drawn closely to its projection (a conformal
-conic). The front is the sheet's heaviest, blackest line (the roads are grey), kept by its weight and thinned to a centre
-line. On 7 March it was followed through waypoints read by eye. On the later days, where Third Army's corridors and the
-bridgehead tangle it, the centre line is cut at its junctions into stretches (short heavy pieces kept: a corridor's head is
-a short arc set apart from its sides by the division's own symbol), the army group boundary from Aachen is left out by a
-box, and each stretch is turned by its ticks so that they lie on its right. A tick is counted only as the map draws one: a
-short stroke as dark as the line (about 35 in every channel), attached to the line's edge and ending on paper within about
-14 px. A darkness test alone was not enough: the Rhine's blue is dark at its edge, and on the lighter sheets (10 March) the
-grey roads that run beside the front along the river (95–100) passed for ticks and turned whole reaches of it the wrong
-way. Stretches that meet two at a time are links of one line, chained and turned together by their summed evidence; a
-fork breaks the chain. The few short pieces that still couldn't be told (a corridor's head, a bend at a junction) were
-each looked at on the scan, and are turned or confirmed by hand in the day's YAML, with the reason; a blunt dead-end spur toward
-Zell on 14 and 15 March, with no ticks either side, is left out. Each day's trace was checked on its overlay, and the
-pages' side test (`Engage.frontSide`) run on the 20 towns of every day: the west bank US, the east bank German, a
-corridor's inside US.
-
-The line itself is about 1.5 km wide at this scale; with the fit, a point on the front is good to a km or two, and the
-line is the staff's drawing at the map's hour, not a surveyed trace. Stretches are cut at their junctions, a gap of a few
-hundred metres. The traced edges of the sheet are the least certain.
 
 What the maps show. At noon on 7 March the front's point is about 8 km short of the Rhine at Remagen, about 3 km from
 Lantershofen (the 60th Armored Infantry Battalion's station that morning), with the 9th Armored Division's symbol behind

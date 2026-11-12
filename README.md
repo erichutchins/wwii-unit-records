@@ -1,385 +1,146 @@
 # WWII unit records
 
-Where US submarines, a destroyer, Army units and Seabee battalions were in the Second World War,
-and what they did, transcribed from their own records: submarine war patrol reports, a destroyer's
-war diary, Army morning reports and battalion histories, and Navy muster rolls, with the Imperial
-Japanese Navy's records of the same convoys beside them. Every row cites the page it was read from.
+Where ships and units were in the Second World War, day by day, and what they did, transcribed from the records
+they kept at the time: 25 US submarines, 23 surface ships, 33 Army units and two Seabee battalions, with the
+Japanese, German, British, French and Italian records of the same days beside them where those have been found.
+Every row cites its source, to the page where there is one.
 
-This is the data half of the [WWII research kit](https://github.com/erichutchins/wwii-research-kit), where it is the `records/` submodule: the kit's tools fetch, check and build
-these files, and its pages draw them. The data stands on its own: CSV and YAML, no code needed.
+This is the data half of the [WWII research kit](https://github.com/erichutchins/wwii-research-kit), where it is the
+`records/` submodule: the kit's tools fetch, check and build these files, and its pages draw them. The data stands on
+its own: CSV and YAML, no code needed. Paths below that begin `tools/`, `site/` or `guides/` are the kit's.
 
-## The rule: cite every source
+## Coverage
 
-Every transcribed row carries a citation (`page`, `ref`, `source` or `map`) in one of the short
-forms listed in [`SOURCES.yml`](SOURCES.yml): `rg38-74802746/p05` is page 5 of National Archives
-catalog item 74802746; `jacar:C08030140600` a JACAR record; `ok45th-17552/p06` a museum PDF's page.
-`tools/check_sources.py` fails if any citation doesn't resolve or any row has none, and writes
-[`citations.json`](citations.json): every cited National Archives item's own catalog title and series.
+A sample, not a survey: the ships and units are the ones one research project followed, and most are followed for
+part of their war. [`inventory.yml`](inventory.yml) lists every report and record, found or not, and how far along
+each is.
 
-Values are recorded **exactly as typed** in the original, `?` for an illegible character. A
-correction never overwrites the original: it goes in a `*_fix` column with the reason in `fix_note`.
+| Subjects | Dates | Record | How complete |
+|---|---|---|---|
+| 25 submarines, 34 war patrols | Sep 1943 – Jun 1945 | War patrol reports | USS BANG's six patrols in full (positions, dives, density layers, attack sheets); 24 other boats for one or two patrols each, positions and attack sheets |
+| 23 surface ships | Oct 1942 – Oct 1945 | War diaries | Four ships over months (a battleship, an escort carrier, a destroyer, a destroyer escort; South Dakota's 1943 is mostly untranscribed); nineteen ships of Task Force 58 for 5 to 7 April 1945 only |
+| The Pacific submarine force | October 1944 | Its war diary | Where every boat was on 1, 15 and 31 October, and the daily log |
+| 33 Army units | 1940 – 1945 | Morning reports, unit histories and journals | Changes of station only; anti-aircraft batteries and a medical detachment from North Africa to Germany, an armored division and three of its battalions, and others for shorter spans ([`army/`](army/README.md)) |
+| 2 Naval Construction Battalions | 1942 – 1945 | Muster rolls, history sheets, war diaries | Stations of each battalion and each part of it ([`seabees/`](seabees/README.md)) |
+| 11 Japanese convoys | 1944 | Movement tables, escort diaries | Each convoy a followed submarine met: route, ships, cargo |
+| 24 engagements | 1943 – 1945 | Both sides' records | 18 Pacific, 3 Mediterranean, 3 European. The other side's record is entered for some and still to find for others; each `engagement.md` says which |
+| Twelfth Army Group's front | 6 Jun 1944 – 7 Jun 1945 | Daily situation maps | The front line on 365 days; the unit symbols on 98 ([`fronts/`](fronts/README.md)) |
 
-## What's here
+## Sources and citations
 
-[`inventory.yml`](inventory.yml) lists every report and record: found, transcribed, mapped, or
-still to look for.
+Every transcribed row carries a citation (`page`, `ref`, `source` or `map`) in one of the short forms listed in
+[`SOURCES.yml`](SOURCES.yml), which describes each source: what kind it is, whose, where it is held, its terms.
 
-| Folder | What | Records |
+| Record | Held | Cited as |
 |---|---|---|
-| `boats/<hull>-<name>/` | US submarines: `ship.yml` (name, class, speed limit, map wording), one `patrol-N/` per war patrol | War patrol reports (NARA series 305243, microfilm M1752) |
-| `boats/ss-385-bang/` | USS BANG, six patrols in full: positions, every dive and depth charge, density layers, the Japanese records of her attacks, the FRUPAC radio-intelligence maps ([README](boats/ss-385-bang/README.md)) | |
-| `ships/<hull>-<name>/` | Surface ships: one `positions.csv` from a war diary ([USS Haynsworth](ships/dd-700-haynsworth/README.md), [USS Solar](ships/de-221-solar/README.md)) | War diaries (NARA RG 38) |
-| `commands/comsubpac/` | The submarine force's war diary for October 1944: where every Pacific Fleet submarine was on 1, 15 and 31 October, its task organization and changes, and the daily log of arrivals, departures and reports ([README](commands/comsubpac/README.md)) | War diaries (NARA RG 38) |
-| `convoys/<id>/` | Each Japanese convoy a boat met: `convoy.md`, its route, voyage, cargo and ships (seven so far: TAMA-17, TE-04, HI-67, No. 91, No. 3905, TAKA-909, TAKA-206) | Designated-ship movement tables, escort division diaries and charts (JACAR) |
-| `engagements/<id>/` | Two sides meeting, each from its own records: `engagement.md` (the participants, the window, the story), `events.yml`, `claims.yml`, `positions.csv`. The convoy actions (one per convoy, e.g. [TE-04](engagements/te-04-1944-05-03/engagement.md)), [USS Haynsworth, 6 April 1945](engagements/haynsworth-1945-04-06/engagement.md), [Neuburg, 26 April 1945](engagements/neuburg-1945-04-26/engagement.md), [Algiers, May–June 1943](engagements/algiers-1943/engagement.md), [Venafro and Acquafondata, February 1944](engagements/venafro-1944-02/engagement.md) and [Filignano, 12 January 1944](engagements/filignano-1944-01-12/engagement.md) | |
-| `army/` | Eight Army units' stations, actions and sea crossings, 1940–1945 ([README](army/README.md)) | Morning reports (NARA RG 64), battalion histories |
-| `seabees/` | The 20th Naval Construction Battalion, 1942–1945, and the 79th in 1945: stations of each battalion and each part of it ([README](seabees/README.md)) | Muster rolls (NARA RG 24), the Seabee Museum's battalion history sheets |
-| `film/` | Film of the places and days in these records, one row per film, each cited to the archive's catalogue or its own upload; the YouTube channels that count ([README](film/README.md)) | US National Archives moving images (RG 111, RG 428), British Pathé, British Movietone |
-| `silhouettes/` | Recognition silhouettes: aircraft traced from the 1943–45 plates, ships drawn to the ONI 54 heights, Japanese escorts and merchant types from the ONI plates, and the engagement pages' generic shapes (`silhouettes.yml`; how they were made is in its header) | CINCPAC-CINCPOA Bulletin 105-45, FM 30-30, ONI 54 |
-| `relief/` | Shaded relief and a land mask for a map view (`relief/<view>/land.png`, `shade.png`, `relief.json`, and `rivers.geojson` for a frame inland), generated by `tools/build_relief.py`: today's ground, not 1943's (harbour works since the war show as land) | AWS Terrain Tiles (SRTM, GMTED2010: USGS; ETOPO1: NOAA); Natural Earth's rivers |
-| `fronts/` | The front line and the units as a dated situation map drew them, traced from the scan for an engagement's map: context, the staff's picture of the day, not the units' positions ([README](fronts/README.md)) | HQ Twelfth Army Group's situation maps (Library of Congress) |
-| `SOURCES.yml`, `citations.json` | Every source, and every cited archive item's title | |
+| U.S. submarine war patrol reports | US National Archives (NARA), Record Group 38, series 305243 (microfiche M1752) | `rg38-74802746/p05`: catalog item 74802746, page 5 |
+| War diaries of ships and commands | NARA, RG 38, series 4697018 | `rg38-<item>/p<page>` |
+| Army morning reports | NARA, RG 64, series 85713825: the microfilm, online for January 1940 – December 1944 | `rg64-<roll>/p<page>` |
+| Navy muster rolls | NARA, RG 24, series 594996 | `rg24-<item>/p<page>` |
+| Missing Air Crew Reports | NARA, RG 92, series 305256 | `rg92-<item>/p<page>` |
+| German army and navy records | NARA, RG 242, microfilm T-312, T-314, T-1022 | `t312-<roll>/f<frame>` |
+| Imperial Japanese Navy records | Japan Center for Asian Historical Records (JACAR) | `jacar:C08030140600`, the reference code |
+| Twelfth Army Group situation maps | Library of Congress, Geography and Map Division | `loc-12ag/ict21276`, the day's sheet |
+| Unit histories, journals, newspapers, British squadron records | The 45th Infantry Division Museum, the Bibliothèque nationale de France, The National Archives (Kew) and others | Each its own form, in `SOURCES.yml` |
 
-Generated (don't edit by hand; the kit's tools rebuild them): `track.geojson`, `tracks.geojson`,
-`ships.json`, `seafloor.csv` (NOAA ETOPO1), `weather.csv` (ERA5), `dives.json`,
-`engagements/<id>/engagement.json`, `engagements/index.json`, `convoys/convoys.json`, `subjects.json` (every subject the
-pages have: boats, ships, Army units, Seabee battalions, convoys and commands, with their periods, organizations and
-engagements; `tools/build_subjects.py`), `silhouettes/silhouettes.json`,
-`scans.json` (each cited page's public scan URL), `citations.json`.
+The prefix of a National Archives citation is the item's record group as the catalog gives it.
+[`citations.json`](citations.json) holds each cited item's catalog title, series and record group, and the kit's
+`tools/check_sources.py` fails on a citation that doesn't resolve, a row without one, or a prefix that disagrees with
+the catalog.
 
-Which format for what: numbers, dates and short codes, one value per cell, go in CSV (no cell ever needs a quotation
-mark or a comma); anything that carries words, the records' own above all, goes in YAML or Markdown with YAML front
-matter; JSON is only ever generated.
+## How the records were transcribed
 
-Not here: the people. There are no rosters, crew lists or service records, and no one is followed
-by name; a unit's record is the unit's. Names the records themselves carry (a captain, a rescued
-aviator) stay as written.
+- **From the scan, never from OCR.** Every value was read on the page image. OCR text is used only to find pages.
+- **As typed.** Dates, times, zone letters, positions and place names are recorded exactly as the record has them,
+  misspellings included; `?` stands for an illegible character.
+- **Corrections beside, never over.** An evident typing error is corrected in a `*_fix` column, with the reason in
+  `fix_note`; the typed value stays. A position that contradicts its neighbours and can't be resolved stays as typed,
+  off the track (`on_track: no`).
+- **Checked by computation.** A track is tested for legs the ship couldn't have steamed (`tools/check_track.py`), a
+  torpedo's typed track angle against its course and gyro (`tools/check_attacks.py`). A typed value is never changed
+  to agree.
+- **One reading.** The transcription is one researcher's work with AI agents (the kit is built to be run that way).
+  Where agents did the reading in bulk, the folder's README says so and says how each day or page was reviewed
+  (`fronts/`). No row has had a second, independent reading: the inventory's status `verified` is used nowhere yet.
+- **Translations are ours.** A Japanese, German, French or Italian record is kept in the original with an English
+  translation beside it; the translations have not been checked by a second translator.
 
-## Rebuilding
+## How each value is known
 
-From a clone of the [kit](https://github.com/erichutchins/wwii-research-kit) (`git clone --recurse-submodules https://github.com/erichutchins/wwii-research-kit.git`):
+`basis` on a row says how its value is known; a source's `kind` in `SOURCES.yml` says what sort of witness it is.
 
-```
-uv run tools/check_track.py all --geojson   # speed-check every track; GeoJSON and ships.json
-uv run tools/check_sources.py               # every citation resolves; inventory matches the folders
-uv run tools/check_crossrefs.py             # attacks beside the Japanese records, minutes and miles apart
-uv run tools/fetch_seafloor.py              # only if positions changed (ETOPO1, cached)
-uv run tools/fetch_weather.py               # only if positions changed (ERA5, cached)
-uv run tools/build_dives.py                 # dives.json
-uv run tools/build_silhouettes.py           # silhouettes/silhouettes.json
-uv run tools/build_relief.py algiers 2.72 36.60 3.42 37.08 --zoom 12   # relief/algiers/ (and algiers-town at zoom 14)
-uv run tools/build_engagement.py            # engagements/<id>/engagement.json, engagements/index.json, convoys/convoys.json
-```
-
-`check_track.py` must report 0 too-fast legs.
-
-## Licence
-
-The transcriptions, corrections and notes are licensed [CC BY 4.0](LICENSE): use them, and cite
-this dataset and the original records (`SOURCES.yml` gives each one's own terms; the National
-Archives records are public domain, the 45th Infantry Division Museum's need its credit line, the
-FRUPAC maps are linked, never copied). One exception to CC BY 4.0: the P.108B silhouette in `silhouettes/silhouettes.yml` is adapted from a
-CC BY-SA 3.0 drawing (Kaboldy, Wikimedia Commons) and carries that licence and attribution.
-
-## Formats
-
-### ship.yml
-
-`name`, `hull`, `class`, `kind` (`submarine`, `destroyer`, `destroyer escort`), `plain` (what she was, in a line, in our
-words: the sentence the pages give before her designation; guides/OPERATIONS-VIEWER.md 2.1), `max_kts` (the speed check's limit),
-`dives` (has a depth log for the dive-profile page), `silhouette` (the class profile in
-`silhouettes/silhouettes.yml` that draws her: one silhouette serves every ship of a class, so the link runs
-from the ship to the silhouette, never back; left out until her class has one), and `map`: the map page's wording. A ship with no record transcribed yet has only a `ship.yml` (no `positions.csv`, no map; the tools and map pages skip her). `periods`
-lists each patrol (`n`, `name`, `dates`, `area`, `co` as the report gives the commanding officer);
-`ports`, `places` and `home` place labels and the opening view. Anything left out takes the page's
-defaults for that kind of vessel.
-
-### An engagement (engagements/<id>/)
-
-The model, and why, is in the kit's `guides/ENGAGEMENTS.md`; `tools/build_engagement.py` checks every field below.
-
-**`engagement.md`**: YAML front matter, then the story in Markdown (a paragraph per statement, `##` headings; links
-written `[[kind:id|words]]`: `cite`, `op`, `ship`, `unit`, `page`, `convoy`, `engagement`). The first paragraph is the
-page's lede.
-
-| Field | Meaning |
+| `basis` | Meaning |
 |---|---|
-| `title`, `short`, `eyebrow` | The page's title, the picker's short name, the line above the title |
-| `theater` | `pacific`, `mediterranean`, `europe` |
-| `clock` | The zone letter the entries' times are in when an entry gives none (Haynsworth's `I`; Neuburg's `B`). Left out when the records don't say: the page then shows their times as local, unconverted |
-| `window` | `{from: YYYY-MM-DDTHH:MMZ, to: ...}` in GMT: what the map's clock plays. Left out, it's the span of the timed entries. Entries outside it stay in the log, off the clock |
-| `against` | Whom the subjects faced, as the records name them (`[de, it]`): a list of nationalities, written only when more than two meet in one frame (Algiers, where the RAF's record book and the city's paper stand beside Battery C). Left out, it is every nationality that isn't the followed subjects' own |
-| `participants` | Who took part, each with an `id` (used by events and pages), `name`, `of` (its nationality as the record gives it: `us`, `jp`, `de`, `it`, `uk`, `fr`, ...; never a bloc), `kind` (`submarine`, `destroyer`, `convoy`, `air group`, `aircraft`, `tanker`, ...), and as it applies: `track` (a boat's patrol, `ss-385-bang/1`, or a ship, `dd-700-haynsworth`: its own record, read where it is, never copied), `convoy` (a `convoys/<id>`), `hull`, `co`, `sil` (a silhouette id; a tracked ship's comes from her `ship.yml`), `unit` (an Army unit in `army/units.csv`, `kind: army`: the pages follow it from one engagement to the next), `basis` (`reported` if not given; `inferred` when no entry names the unit itself, with the reason in `note`), `note` |
-| `places` | Map labels: `name`, `lon`, `lat`, `small` |
-| `steps`, `views` | The story's steps, framed (below, "Steps") |
-| `relief`, `roads` | The map's base where the records' places sit closer than a world coastline tells: a `relief/<name>/` (or a list of them, coarse first; today's elevation, made by the kit's `build_relief.py`) and a traced road map, `roads/<name>-primary.geojson` (`relief: [algiers, algiers-town]`, `roads: oss967`) |
-| `fronts` | The traced situation maps, `fronts/<name>.geojson`, in date order (`fronts: [12ag-1945-03-07, 12ag-1945-03-09, ...]`): their front lines and unit symbols are drawn under the records as the army group's picture of each day; the page shows the one its clock is at, or (a dated frame, with no clock) the one chosen on the map. A participant with a `unit` also brings its own placed stations from a week before the window to its end, drawn as its way in, to the day shown |
+| `reported` | The record says it |
+| `derived` | Computed from what a record says: a grid reference turned into a position, a bearing and distance resolved |
+| `inferred` | Reasoned from other records; the `note` gives the reasoning |
+| `assumed` | Assumed, and labelled so: a zone letter the record doesn't type, a battery placed with its battalion |
+| `secondary` | From a later history or site, where no record has been read |
 
-At most three participants with a US track (the page's three checked colours). The boats' attacks, ship contacts and
-depth charges come from their own patrol folders, the Japanese records from each boat's `japanese.yml` inside the
-window, and US radio intelligence from each boat's `frupac.yml` inside the window (below: each note becomes an entry
-with `actor: FRUPAC`, `of: us`, `about` the ship it names, its `text` as `words`, the map as its source, zone I assumed
-for its time and its position read off the map, both said to be ours; a note tied to an attack also joins that attack's
-pairing as `intelligence`, for the Sources view); `events.yml` holds only what belongs to this engagement.
+A source's `kind` is one of `record` (written at the time by the subject or its command), `intelligence` (what one
+side knew of the other at the time), `press` (published at the time), `assessment` (an official reckoning after the
+fact), `recollection` (told later by someone who was there), `secondary` (a later history or site), and `reference`
+or `derived` (not a witness: a chart, a manual, a dataset, or a method of ours).
 
-**`events.yml`**: a list of entries, in the order of the account.
+Times are kept in the record's own zone, as typed (GCT in the Navy's tables); times this dataset computes are
+labelled UTC.
 
-| Field | Meaning |
+## What is not here, and known limits
+
+- **No people.** There are no rosters, crew lists or service records, and no one is followed by name; a unit's record
+  is the unit's. Names the records themselves carry (a captain, a rescued aviator) stay as written.
+- **Context is not participation.** A division's symbol on a situation map, or an operation's area and dates, says
+  nothing about where one of its batteries was. Such rows are labelled as the larger unit's.
+- **The front lines are a staff's picture** of each day at the map's hour, traced to a kilometre or two, and a sheet
+  can lag a move by days.
+- **Weather, seafloor and relief are modern datasets** (ERA5, ETOPO1, SRTM), not records: ERA5 rests on few
+  observations in the 1940s western Pacific, and today's coastline shows harbour works built since. Harbour
+  positions are standard coordinates, not the records', and say so.
+- **Claims are kept as claims.** A sinking a submarine claimed and a loss the Japanese recorded are separate rows,
+  paired in `claims.yml` with the strength of the match in words.
+
+## Layout
+
+Hand-edited, the source of truth:
+
+| Folder | What |
 |---|---|
-| `at` | `YYYY-MM-DD HHMM Z` as recorded, with its zone letter (or the engagement's `clock`); a date alone, or a month, when no time is recorded |
-| `placed` | Why the time isn't the record's: `seq` (placed by the order of the account) or words ("Between 1245 and 1250; no time recorded") |
-| `actor`, `of` | Who (a participant id, or a name as the record gives it); the actor's nationality (`us`, `jp`, `de`, `it`, `uk`, `fr`, ...), which may be left out when the actor is a participant id, whose `of` it takes. The press is told apart by its source's `kind` in `SOURCES.yml`, not by a side |
-| `kind` | From the vocabulary in `tools/build_engagement.py` (`KINDS`): `contact_report`, `received`, `attack`, `hit`, `sank`, `rescue`, `log`, `station`, `report`, ... Add a word there rather than inventing one in a file |
-| `to`, `from` | A message's recipients, or its sender (participant ids) |
-| `title`, `words` | A heading; the record's words as typed (or ours, quoting it), when the record is in English |
-| `original`, `lang`, `translation` | A record that isn't in English, instead of `words`: its words exactly as quoted, its language as a two-letter code (`de`, `it`, `fr`, `ja`), and our translation. Editorial notes go in square brackets in the translation, or in `note` |
-| `source`, `ref` | The source in words; the citation (a `SOURCES.yml` form or a URL) |
-| `pos`, `step` | A `positions.csv` id; the step of the story this entry belongs to (below, "Steps") |
-| `basis`, `note` | `reported`, `derived`, `inferred`, `assumed`, `secondary`; what's assumed and why |
+| `boats/<hull>-<name>/` | A submarine: `ship.yml`, and one `patrol-N/` per war patrol (positions, attack sheets, the Japanese record of her attacks, claims; for BANG also depths, density layers and the FRUPAC radio-intelligence maps) |
+| `ships/<hull>-<name>/` | A surface ship: `ship.yml`, `positions.csv` from her war diaries, a README |
+| `commands/comsubpac/` | The submarine force's war diary for October 1944 |
+| `convoys/<id>/` | A Japanese convoy: `convoy.md` |
+| `engagements/<id>/` | Two sides meeting, each from its own records: `engagement.md`, and as needed `events.yml`, `claims.yml`, `positions.csv`, `routes.yml`, `reach.yml` |
+| `operations/<theater>/` | The campaigns the stations sit inside, from the official histories: context, one Markdown file each |
+| `army/`, `seabees/` | Units, stations, places, actions, crossings, relations |
+| `fronts/` | The traced situation maps, a set of files per day |
+| `roads/` | A wartime road map traced for one engagement's base map |
+| `film/` | Archive film of the places and days in the records, one row per film |
+| `silhouettes/` | Recognition silhouettes traced from the wartime plates |
+| `relief/` | Shaded relief and land masks for four map views (generated from modern elevation data) |
+| `SOURCES.yml`, `inventory.yml` | Every source; every report and how far along it is |
 
-**Steps**: the story told in steps, each setting the page's clock and map (the kit's `guides/OPERATIONS-VIEWER.md`,
-3). An entry's `step` names the step it belongs to (`s7`); the story's prose links to a step as `[[step:s7|at 1250
-she was hit]]`, and the build fails on a link to a step no entry carries. A step's time is its earliest clocked
-entry's; its framing comes from the front matter: `steps: {s7: {view: close, when: "6 April, 1245-1250"}}`, where
-`view` names one of `views: {close: {name: Haynsworth's station, box: [[129.36, 26.62], [129.86, 27.04]]}}` (`box` is
-`[[west, south], [east, north]]`) or is a box written inline, and `when` is the step's span in words. A step with no
-`view` is framed on its own entries' positions. The build writes `steps` into `engagement.json` in time order.
+Generated by the kit's tools, never edited: every `.geojson` and `.json` (`track.geojson`, `ships.json`, `dives.json`,
+`engagement.json`, `convoys.json`, `subjects.json`, `army.json`, `seabees.json`, `operations.json`, `silhouettes.json`,
+`scans.json`, `citations.json`), `seafloor.csv`, `weather.csv`, `fronts/sitmaps.csv` and `relief/`.
 
-**`claims.yml`**: the questions the records leave open. `question`, `answer`, `weight` (`record`, `photo`,
-`recollection`, `inference`, `secondary`), `source` (words), `ref` (citation), `note`. Questions with competing
-hypotheses go further in an evidence case.
+Every file's fields are in [`SCHEMA.md`](SCHEMA.md) and the folder READMEs.
 
-**`positions.csv`**: `id,label,of,kind,date,time,lat,lon,from,brg,nm,lat2,lon2,basis,source,ref,note`. `of` is whose
-position it is, as the record gives it (`us`, `jp`, `de`, ...), empty for a place (a town, a harbour, a landmark). A
-position given as bearing and distance from another (`from`, `brg`, `nm`) is resolved by the build. `basis`: `fix`,
-`reported`, `derived`, `assumed`, `approx`, `hand-placed` (a reference point placed on a modern map).
+## Rebuilding and checking
 
-**Derived, never stored** (`tools/build_engagement.py` writes them into `engagement.json`; its docstring has the
-reasons): on each participant `followed` (it has a track or a unit: a subject the page follows and colours; a convoy is
-the other side's record, read against the followed boats' sightings of it, and isn't) and `opposed`; on the engagement
-`own` (the followed subjects' nationalities); on each entry and position `opposed` (its `of`, or its actor's, is among
-`against`, or, when `against` isn't written, isn't among `own`); on each entry, claim and position `source_kind` and
-`source_of`, its citation's `kind` and `of` in `SOURCES.yml` (a record, the press, a later account; whose). The pages
-colour from these: the followed subjects in their colours, the other side in ink, the press in the lighter ink, and
-name the other side as the records name it.
+From a clone of the kit (`git clone --recurse-submodules https://github.com/erichutchins/wwii-research-kit.git`),
+`tools/check_builds.sh` rebuilds every generated file and `uv run tools/check_sources.py` checks every citation; the
+kit's `tools/README.md` lists each tool.
 
-### An engagement's routes (routes.yml)
+## Licence, and how to cite
 
-Paths, mostly through the air: a bomber's course, a formation's line on a squadron's sketch, a sortie from its airfield.
-A list; each entry is one line on the map, in its side's ink, under the marks. Hand-edited; the build resolves the
-points into `engagement.json` (`routes`).
+The transcriptions, corrections and notes are licensed [CC BY 4.0](LICENSE). The original records are not covered by
+it: `SOURCES.yml` gives each one's own terms (the National Archives records are public domain, the 45th Infantry
+Division Museum's need its credit line, the FRUPAC maps are linked and never copied). One exception among this
+repository's own files: the P.108B silhouette is adapted from a CC BY-SA 3.0 drawing and carries that licence.
 
-| Field | Meaning |
-|---|---|
-| `id`, `label` | A short key; the label for the tooltip |
-| `of` | Whose path (us, de, ...); required |
-| `by` | What moved: `air` (chevrons along the line, pointing the way it flew), `ground` or `sea`; required |
-| `actor` | A participant id, optional: the path takes that participant's colour (the bombers' group), so its paths read as its own. Without it the path is in its side's ink |
-| `basis` | `reported` (a course or track the record types: solid), `sketched` (a sketch map's line, traced on its grid: long dashes), `inferred` (a straight line between two places where no record gives the path: dotted) |
-| `points` | A run of points, each `{lat, lon}` or a `positions.csv` id |
-| `from`, `to` | Two `positions.csv` ids: a straight line between them (`inferred`) |
-| `to`, `course`, `drawn_km` | A course as typed (degrees), drawn back from position `to` for `drawn_km`; the length is ours, not the record's, and the tooltip says so |
-| `arrow` | `false` where the direction isn't sure (a sketch whose arrowheads disagree); an arrowhead at the end otherwise |
-| `time`, `source`, `ref`, `note` | When, as typed; the source and its citation, as in `events.yml`; what's assumed and how it was drawn |
+To cite the dataset, give its title, address and the version you used:
 
-### An engagement's reach (reach.yml)
+> Eric Hutchins, *WWII unit records* (dataset), https://github.com/erichutchins/wwii-unit-records, commit `<hash>`
+> or the date read. CC BY 4.0.
 
-A weapon's range, drawn as a ring round where the battery was: what it could reach, not what it hit. A list; each entry is
-one ring in its side's ink, under the marks, labelled with the weapon and the range. Hand-edited; the build writes
-`rings` into `engagement.json`.
-
-| Field | Meaning |
-|---|---|
-| `id`, `label` | A short key; the label for the tooltip |
-| `of` | Whose weapon (us, de, ...); required |
-| `actor` | A participant id, optional: the ring takes the battery's colour |
-| `at` | A `positions.csv` id, placed: the ring's centre |
-| `weapon`, `range_yd` | The weapon as the record or the manual names it, and its range in yards as the manual prints it (horizontal, to the tracer's burn-out or the fuze), never a range worked out by us |
-| `basis` | `reported` (the battery's place and weapon both in its own records: a solid ring), `inferred` (the weapon from another record, a sister battery's or the battalion's: dashed), `assumed` (the place assumed, near the unit it defended: dashed) |
-| `source`, `ref`, `note` | The manual and its page, cited as in `events.yml`; what's assumed |
-
-### positions.csv columns
-
-| Column | Meaning |
-|---|---|
-| `source` | Which part of the report: `bt` (bathythermograph / density-layer table, GCT), `air` (aircraft contacts — the boat's own position), `ship` (ship contacts — the **target's** position), `attack` (torpedo attack data sheet), `gun` (gun attack), `radar` (radar countermeasures log), `noon` (daily noon position in the narrative), `narrative` (ports, arrivals, departures) |
-| `ref` | Contact or attack number as the report numbers it |
-| `date`, `time`, `zone` | Exactly as typed. Zones: Z = GCT, K = −10, I = −9, M = −12, Y = +12, X = +11, W = +10, VW = +9½ (US Navy letters; "−10" means local = GCT + 10) |
-| `lat_raw`, `lon_raw` | Exactly as typed, in deg-min (`19-26N`). `?` marks a digit that is illegible in the scan |
-| `page` | The cited page, e.g. `rg38-74802746/p16`: catalog item 74802746, object page 16 (`nara/rg38-74802746/p16.jpg` in the kit's cache after `tools/nara.py fetch`) |
-| `on_track` | `yes` = used for the track line. `no` = ship contacts, pre-departure readings, and fixes that contradict their neighbours |
-| `lat_fix`, `lon_fix`, `date_fix`, `time_fix` | Corrections of evident typing errors in the 1944–45 originals. Raw values are never overwritten |
-| `fix_note` | Why a correction was made, or why a fix is off the track |
-
-Port positions (Pearl, Midway, Saipan, Guam) aren't in the reports; they are
-standard harbor coordinates and say so in `note`. Arrival times not given in
-the report are set to noon and marked "noon assumed".
-
-### depths.csv columns
-
-| Column | Meaning |
-|---|---|
-| `date`, `time`, `zone` | As typed in the narrative (same zone letters as positions.csv). Where the report gives no time, the `quote` says how it was estimated |
-| `event` | `dive` (submerged; depth not given), `surface`, `periscope` (back to periscope depth), `radar_depth`, `depth` (a depth ordered or reached), `passing` (a depth noted on the way down, not an order), `bottom` (sat on the seabed), `charges` (depth charges heard with no depth change), `quake`, `routine` (a summary like "submerged during daylight" covering several days without itemized times; the span ends at the date in the quote) |
-| `depth_ft` | Depth in feet as logged |
-| `charges` | Depth charges (or, Patrol 6, bombs) counted in that entry, as the captain tallied them |
-| `proximity` | How close the captain judged them ("very close", "distant", ...) |
-| `quote` | The captain's words, abridged with `...`; editorial notes in parentheses |
-| `page` | Scan file, as in positions.csv |
-
-The dive-profile page assumes periscope depth (about 60 ft) wherever a dive
-gives no depth, holds each logged depth until the next entry, and changes depth
-at about 100 ft/min. Those assumptions are labelled on the page.
-
-### layers.csv columns
-
-One row per reading in the report's density-layer table (taken with the
-bathythermograph on a dive, usually once a day around 2000-2100 GCT).
-
-| Column | Meaning |
-|---|---|
-| `date`, `time_gct` | As typed (GCT). Summary notes with no time have `time_gct` blank |
-| `iso_ft`, `iso_deg` | "Isothermal to feet / degrees": the warm surface layer is `iso_deg` °F down to `iso_ft` feet |
-| `grad_ft`, `grad_deg` | "Negative gradient to feet / degrees": below that, temperature falls to `grad_deg` °F at `grad_ft` feet. This cold layer bends enemy sonar, which is why the captains hid under it |
-| `date_fix` | Same corrections as positions.csv where the date was mistyped |
-| `note` | Pencilled circles on the scans (someone at headquarters marking strong layers), second isothermal lines, faded values |
-
-### attacks.csv columns and attack_sheets.yml
-
-The torpedo attack data sheets (the report's "Torpedo Attack Report Form", usually two pages an attack): the numbers
-in `attacks.csv`, one row per torpedo fired, and the sheet's words in `attack_sheets.yml`, one entry per attack. A gun
-attack has no rows.
-
-| Column | Meaning |
-|---|---|
-| `attack` | The attack's `ref` in positions.csv (`Attack 3`) |
-| `date`, `time`, `zone` | As typed on the sheet; repeated on each torpedo's row, like every per-attack value. A time typed with seconds stays so, `1616-32` (positions.csv has the minute, 1616); `zone` is blank where the sheet types none (positions.csv has it) |
-| `tube` | The tube fired, as typed |
-| `own_course`, `own_speed`, `own_depth` | The boat's, as typed (degrees true, knots, feet, or `Surface`). A course swinging while firing is the typed range, `050-069` |
-| `target_course`, `target_speed`, `target_range`, `target_draft` | The target's, as typed (degrees true, knots, yards, feet). A range typed for two targets keeps the one aimed at; the words are in the YAML. A draft in feet and inches (`8'3"`) is blank here and typed in `target_line` |
-| `track` | Track angle with its side joined, `62S` / `86P`; a track typed without a side (`0`) or as a mark (`*`) stays so |
-| `gyro` | Gyro angle as typed: three figures (`162`), or right or left of the bow (`10R`); ½ is written `.5`. A footnote mark is dropped here and quoted in the YAML |
-| `depth_set`, `power`, `torpedo` | As typed (`6'`; `High`, or `---` for "- - -"; the mark, `14-3A`, `18`) |
-| `hit`, `erratic` | As typed in the table, even where the remarks disagree (the `note` says so). Blank where the sheet types the hits once for the salvo ("2 Hits"); that is the YAML's `hits` |
-| `interval`, `since_first` | The sheet's "Firing Interval", seconds as typed, in the column that says what it means: `interval` where the sheet types the gap since the torpedo before (0, 8, 8, 8), `since_first` where it types the time since the salvo's first (0, 8, 16, 24). One or the other for a whole attack, never both. A `0` after the first row starts another salvo, whose own time the sheet doesn't give. A typed minute (`1-05`) is written in seconds; a dash stays as typed |
-| `spread` | The sheet's "Type Spread" where it types the kind (`divergent`, `longitudinal`, `NONE`); the words are `spread` in the YAML |
-| `offset` | Where the sheet types an aim for each torpedo instead: its offset from the point of aim, as typed (`1.5R`, `0`, `1L` in degrees; `225'Aft`, `25'fwd`, `MOT` along the target) |
-| `page` | The sheet's first page, the same as the attack's row in positions.csv |
-
-`attack_sheets.yml` keys, each as typed and left out where the sheet has none: `attack`, `type_attack`, `description`,
-`sunk`, `damaged`, `determined_by`, `target_line` and `own_ship` (the data lines), `spread`, `sea`, `overhaul`,
-`remarks`, `hits` (typed once for the salvo), `page`, `table_page` (the torpedo table's page), `sheet` (where one attack is typed
-on several sheets, `2(a)`, each citing its own first page), `column` (where a summary table numbers its columns apart from the attacks, `(4)` over `3(b)`), and `note` (what couldn't be read, and where the sheet
-disagrees with itself or the narrative). `uv run tools/check_attacks.py` recomputes every torpedo's track from own
-course, gyro and target course and lists the ones that disagree; a typed value is never changed to agree.
-
-### A patrol's Japanese record (japanese.yml) and claims (claims.yml)
-
-The other side of a boat's attacks, from Japanese wartime records (JACAR,
-`tools/jacar.py`) and, where no primary record has been found yet, from
-combinedfleet.com. Transcribed the same way as the patrol reports: as
-written, with the page, and with an English translation beside the original.
-
-#### japanese.yml fields (a list, one entry per record)
-
-| Field | Meaning |
-|---|---|
-| `id` | `J01`, `J02`, … within the patrol |
-| `source` | `jacar:<reference code>` (primary; the image is at `https://www.jacar.archives.go.jp/das/image/<code>`) or `combinedfleet:<page>` (secondary, e.g. `Daiyoku_t` = combinedfleet.com/Daiyoku_t.htm) |
-| `page` | Page of the JACAR PDF (`jacar/<code>/pNN.jpg` in the kit's cache after `tools/jacar.py fetch`) |
-| `ship`, `convoy` | Romanized as in English-language references (convoy TAMA-17 = タマ一七, Takao→Manila) |
-| `event` | `departed`, `joined`, `torpedoed`, `sank`, `rescue`, `attacked_no_damage`, `sub_sighted`, `status`, `weather`, `air_cover` (an order for, or report of, a convoy's air escort), `loss_list` (a monthly loss table) |
-| `date`, `time`, `zone` | As written. Zone `I` (−9, Tokyo time), which the Imperial Navy and its convoys kept |
-| `lat_raw`, `lon_raw` | Converted from 北緯一九度〇六分 to `19-06N` (the original is in `original`) |
-| `original` | The Japanese text, abridged with `…` |
-| `translation` | English translation of `original` |
-| `note` | Context, and agreement or disagreement with other sources |
-
-A patrol's `claims.yml` pairs an attack with a Japanese record: `attack` (`ref` in positions.csv), `record` (a
-`japanese.yml` id), `relation`, `note`. An attack can be another boat's, written `<boat>/<patrol>:<ref>` (e.g.
-`ss-384-parche/1:Attack 2`). `relation` is `hit` (the attack caused that
-record), `miss` (same moment, no damage), `probable` (time and place point to
-this attack, but another boat is credited or was attacking too), `possible`
-(times fit, but more than one attack could explain the record), or `no_loss`
-(a claimed sinking with no matching entry in the Japanese loss list).
-
-### A convoy (convoys/<id>/convoy.md)
-
-The convoy as a whole, in YAML front matter, and in the body which values are reported, secondary or inferred. An
-empty value means not recorded; `(inferred)` or `(secondary)` after a value labels it.
-
-| Field | Meaning |
-|---|---|
-| `convoy`, `name_ja` | Its name, romanized and as written (TE-04, テ04) |
-| `plain` | What it was, in a line, in our words (a six-ship Yulin–Moji convoy carrying iron ore): the sentence the pages give before its name |
-| `from`, `to`, `via`, `sailed`, `arrived` | Ports and dates as the records give them |
-| `size` | How many ships, as a record counts them |
-| `cargo` | The convoy's, in a few words |
-| `attacked_by` | Patrols, as `<boat>/<n>` |
-| `sources` | Each `jacar:<code> pN` (or another citation) with a comment saying what it gives |
-| `route` | Its way through `reference/lanes/lanes.yml`'s nodes, in order. No lane is traced from a chart yet, so every waypoint is assumed (each says why) and the pages draw the legs through them dotted |
-| `voyage` | Stops and known points, Tokyo time: `at` (`YYYY-MM-DD HHMM I`, or the day), `place` (a lanes node), `event` (`sailed`, `joined`, `arrived`), `words`, `source`, `basis`, `approx` |
-| `ships` | Who was in it, below |
-
-Each entry in `ships` is one ship, merchant or escort, from a record that names it in the convoy. Her own events
-(torpedoed, sank, rescue) stay in the patrol's `japanese.yml`; this is who was in the convoy, what each carried and
-where it was bound.
-
-| Field | Meaning |
-|---|---|
-| `ship` | Romanized as in English-language references |
-| `role` | `merchant`, `escort`; `designated rescue ship`, `oiler` or `transport` where the record says so |
-| `number` | Its number in the convoy (第十番船 = 10), if a record gives it |
-| `from`, `to` | Dates in the convoy (sailed or joined; arrived, left or sank); left out if not recorded |
-| `cargo`, `cargo_t`, `cargo_for` | What it carried, metric tons as written, and where it was to be landed, as the record says. Left out means not recorded, not "empty" |
-| `fate` | Lost or hit in the convoy, with the `japanese.yml` entry |
-| `source`, `page` | The record (`jacar:<code>`) and page |
-| `basis` | `reported` (the record says it), `secondary`, `inferred` |
-| `note` | The words read, and anything assumed |
-| `sil`, `sil_basis` | Her silhouette (an id in `silhouettes/silhouettes.yml`, or a kind: `cargo`, `tanker`, `escort`, `gunboat`, `destroyer`), and what the plate is to her: `own`, `class` (her class's plate lists her), `class, assumed: ...` (it doesn't name her), `representative` (a type standing for her) |
-
-### US radio intelligence (frupac.yml)
-
-The National Museum of the Pacific War's Fleet Radio Unit Pacific map
-collection (846 overlays, mid-1943 to 1945, on UNT's Portal to Texas History)
-plots what US radio intelligence knew of Japanese shipping, day by day, in
-pencil. `tools/frupac.py` finds the maps for a ship or a date. The zoom
-viewer (`https://texashistory.unt.edu/ark:/67531/<map>/m1/1/zoom/`) serves
-full-resolution tiles and the notes are legible there; the plain page images
-are only ~1500 px wide. The collection is CC BY-NC-ND, so the maps are linked
-and read in place, never copied.
-
-#### frupac.yml fields (a list, one entry per note)
-
-| Field | Meaning |
-|---|---|
-| `id` | `F01`, `F02`, … within the patrol |
-| `map` | Portal ark id (`metapth1733069` → `https://texashistory.unt.edu/ark:/67531/metapth1733069/`) |
-| `map_date` | The map's date in the catalog |
-| `view` | Zoom-viewer query that frames the note: append to `…/<map>/m1/1/zoom/?` |
-| `text` | The note as written, line breaks as ` / `, `?` for an unsure reading |
-| `dtg` | The message date-time group written with the note (day + time, zone not given) |
-| `date`, `time` | The event's day and time as written (`1515/29` → the 29th, 1515); the month is the map's |
-| `lat_est`, `lon_est` | Decimal degrees, **estimated** from where the mark sits on the map: against a printed grid where there is one (±0.1–0.2°), otherwise against the overlay's `120`/`130` meridian labels assumed to sit on 20N (±0.3°). Blank when the note has no mark of its own |
-| `ship` | As written (FRUPAC's romanization) |
-| `event` | `torpedoed`, `sank`, `attacked`, `torpedo_attack`, `torpedo_track`, `sub_contact`, `sub_sighted`, `df_sub` (a direction-finding fix on a submarine), `claim` (a US boat's own report), `convoy`, `position`, `arrival`, … |
-| `attack` | The boat's attack (`ref` in positions.csv) the note belongs to, if any |
-| `relation` | `match` (the same event), `candidate` (time and place fit but something doesn't), `context` (nearby, probably not this boat) |
-| `note` | Reasoning, and agreement or disagreement with the boat's report |
-
-**Assumption:** FRUPAC notes carry no zone letter. They are taken to repeat
-the Japanese time (zone I, −9), which the matches bear out (below).
-`check_crossrefs.py` prints each note against its attack in GMT.
-
-**On the engagement pages:** `tools/build_engagement.py` reads a tracked boat's `frupac.yml` like her `japanese.yml`.
-Every note whose `date` and `time` (zone I assumed) fall in an engagement's window becomes an entry of it: `actor:
-FRUPAC`, `of: us`, `about` the `ship` as written, `words` the `text`, `source` the map (`FRUPAC war map, <map_date>`,
-cited by its ark id, so the entry's source is `intelligence · US`), `basis: assumed` with the zone assumption in `note`,
-and where the note has a mark of its own `lat`/`lon` from `lat_est`/`lon_est` with `pos_basis: approx`. The `event` is
-mapped to the pages' kinds (`FRUPAC_KIND` in the build: `torpedoed` → `hit`, `sank` → `sank`, `sinking` → `damage`,
-`attacked`/`torpedo_attack`/`attack_reported` → `attacked`, `torpedo_track`/`sub_contact`/`sub_sighted` → `sighting`,
-`df_sub`/`position`/`convoy` → `position`, `arrival`, `claim`, `contact_report` → `report`); the note's own word stays in
-`frupac.event`, with its `id`, `relation`, `attack`, `map` and zoom `view`. A note with no time that is tied to an
-attack is drawn at the attack's time and says so; one tied to nothing stays off the clock. A note tied to an attack also
-joins every pairing of that attack (`pairs[].intelligence`) for the Sources view, on its own time. FRUPAC is a source
-about the convoy, not a participant: no track and no lane of its own on the map, where its estimates are hatched.
+For any value you use, cite the original record as well: its row's citation resolves to the archive's own page.

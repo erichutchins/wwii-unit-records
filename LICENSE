@@ -9,8 +9,24 @@ You may share and adapt them for any purpose, provided you give appropriate
 credit. Please cite this dataset and, for any value you use, the original
 record it cites (SOURCES.yml lists every source and its own terms).
 
-The original records are not covered by this licence. Records of the U.S.
-government (the National Archives' war patrol reports, war diaries and morning
-reports) are in the public domain. Items from the 45th Infantry Division Museum
-require the credit line given in SOURCES.yml. The FRUPAC war maps (CC BY-NC-ND)
-are linked, never copied.
+The original records are not covered by this licence; SOURCES.yml gives each
+source's own terms (`rights`). In outline:
+
+- Records of the U.S. government (the National Archives' war patrol reports, war
+  diaries, morning reports, muster rolls, Missing Air Crew Reports and films; the
+  Library of Congress's situation maps; the wartime manuals and recognition
+  plates) are in the public domain.
+- Japanese records are read at the Japan Center for Asian Historical Records
+  (JACAR): free to view, cited by reference code.
+- British records (The National Archives, Kew) are Crown copyright; French and
+  Italian newspapers and records are linked at the libraries that hold them.
+- Items from the 45th Infantry Division Museum require the credit line given in
+  SOURCES.yml.
+- The FRUPAC war maps (CC BY-NC-ND) and films on archives' YouTube channels are
+  linked, never copied.
+- Weather is ERA5 (Copernicus, CC BY 4.0, through Open-Meteo); place coordinates
+  are from OpenStreetMap Nominatim (ODbL 1.0).
+
+One exception to CC BY 4.0 among this repository's own files: the P.108B
+silhouette in silhouettes/silhouettes.yml is adapted from a CC BY-SA 3.0 drawing
+(Kaboldy, Wikimedia Commons) and carries that licence and attribution.

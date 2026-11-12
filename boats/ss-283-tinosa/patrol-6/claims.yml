@@ -1,4 +1,4 @@
-# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/README.md (A patrol's claims).
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/SCHEMA.md (A patrol's claims).
 # Attacks are named by their narrative refs (positions.csv, "Attack N fired", zone H), as BANG's Patrol 1 file names
 # them: the summary table's times and positions disagree with the narrative (positions.csv notes).
 # Attack 4 (0414 H = 0514 I, four fired, "results unknown", two explosions beyond the target) and Attack 5 (0850 H =
