@@ -1,5 +1,9 @@
 # WWII unit records
 
+[![Licence: CC BY 4.0](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Made with Claude](https://img.shields.io/badge/made%20with-Claude-D97757)](https://claude.com/claude-code)
+[![The pages](https://img.shields.io/badge/see%20it-on%20the%20site-2b6cb0)](https://erichutchins.github.io/wwii-research-kit/)
+
 Where ships and units were in the Second World War, day by day, and what they did, transcribed from the records
 they kept at the time: 25 US submarines, 23 surface ships, 33 Army units and two Seabee battalions, with the
 Japanese, German, British, French and Italian records of the same days beside them where those have been found.
@@ -59,11 +63,17 @@ the catalog.
 - **Checked by computation.** A track is tested for legs the ship couldn't have steamed (`tools/check_track.py`), a
   torpedo's typed track angle against its course and gyro (`tools/check_attacks.py`). A typed value is never changed
   to agree.
-- **One reading.** The transcription is one researcher's work with AI agents (the kit is built to be run that way).
-  Where agents did the reading in bulk, the folder's README says so and says how each day or page was reviewed
-  (`fronts/`). No row has had a second, independent reading: the inventory's status `verified` is used nowhere yet.
-- **Translations are ours.** A Japanese, German, French or Italian record is kept in the original with an English
-  translation beside it; the translations have not been checked by a second translator.
+- **Read by Claude, once.** Claude (Anthropic's AI model, working in Claude Code) read every scan and made every
+  transcription here, under these rules, with one researcher directing and reviewing. Where it read in bulk, the
+  folder's README says how each day or page was reviewed (`fronts/`). No row has had a second, independent reading:
+  the inventory's status `verified` is used nowhere yet.
+- **Translated by Claude.** A Japanese, German, French or Italian record is kept in the original with an English
+  translation beside it. No translator has checked the translations; the original is there so that one can.
+- **Computed by Claude's tools.** Conversions, placements and decoded positions come from the kit's tools, which
+  Claude wrote; each such value is labelled (below) and carries the typed value it was computed from.
+
+The typed values stand on their citations: each resolves to the archive's own image of the page. Everything else is
+the project's work and is labelled as such.
 
 ## How each value is known
 
@@ -140,7 +150,7 @@ repository's own files: the P.108B silhouette is adapted from a CC BY-SA 3.0 dra
 
 To cite the dataset, give its title, address and the version you used:
 
-> Eric Hutchins, *WWII unit records* (dataset), https://github.com/erichutchins/wwii-unit-records, commit `<hash>`
+> Eric Hutchins, with Claude (Anthropic), *WWII unit records* (dataset), https://github.com/erichutchins/wwii-unit-records, commit `<hash>`
 > or the date read. CC BY 4.0.
 
 For any value you use, cite the original record as well: its row's citation resolves to the archive's own page.
