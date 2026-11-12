@@ -9,7 +9,8 @@ they kept at the time: 25 US submarines, 23 surface ships, 33 Army units and two
 Japanese, German, British, French and Italian records of the same days beside them where those have been found.
 Every row cites its source, to the page where there is one.
 
-This is the data half of the [WWII research kit](https://github.com/erichutchins/wwii-research-kit), where it is the
+The pages drawn from this data are [*Charting WWII History*](https://erichutchins.github.io/wwii-research-kit/). This
+is the data half of the [WWII research kit](https://github.com/erichutchins/wwii-research-kit), where it is the
 `records/` submodule: the kit's tools fetch, check and build these files, and its pages draw them. The data stands on
 its own: CSV and YAML, no code needed. Paths below that begin `tools/`, `site/` or `guides/` are the kit's.
 
