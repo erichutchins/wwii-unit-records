@@ -51,7 +51,7 @@ places:
 
 BANG's last two attacks of her third patrol, on a convoy she found by its escorts' sound pinging, as typed on her
 attack sheets. The convoy was most likely TAKA-909, sailing again after BANG's attack of the 19th; its escort
-W-15's diary has it at sea that night and enters no attack [[cite:jacar:C08030607800]].
+W-15's diary has it at sea that night and enters no attack.
 
 ## Outcome
 
