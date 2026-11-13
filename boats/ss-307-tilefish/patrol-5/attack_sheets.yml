@@ -1,0 +1,131 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target and own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# interval in seconds since the torpedo before; depth_set and power as typed. These sheets type the zone, K.
+# The two gun attacks are rows in positions.csv (p39, p40).
+
+- attack: Attack 1
+  heading: "Torpedo Attack No. 1(A)(B)(C), Patrol No. 5"
+  type_attack: >-
+    Sighted enemy submarine through periscope while we were surfacing; immediately submerged to commence approach.
+    Found ourselves near targets base track with target constant helming at a rapid rate. ... Range 900 yards was not
+    opening, so fired four stern tubes. Target zigged toward again shortly after firing to present 90 port angle. He
+    apparently had not seen first torpedo spread. Swung right for bow shot and fired four bow tubes on a 125 port track
+    three minutes after firing stern tubes. ... When time interval indicated misses we fired remaining two bow tubes
+    for a 120 port track as target was zigging away again. These were fired six minutes after second spread. At this
+    time end of run explosions of first spread occurred. ...
+  description: >-
+    One RO-51 type submarine constant helming at rapid rate, sighted while we were surfacing during good visibility
+    conditions.
+  sunk: None
+  damaged: None
+  determined_by: None
+  target_line: "Target Draft 12 ft Course (A) 355 (B) 295 (C) 266 Speed 12 kts Range (A) 950 (B) 1500 (C) 2270"
+  own_ship: "Speed 3.5 kts Course (A) 256 (B) 314 (C) 310 Depth 63 ft. Angle 0°"
+  sea: Calm
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: >-
+    All torpedoes ran properly exploding at end of runs. Temperatures of batteries was 76°F. Target was zigging
+    radically at short intervals or constant helming at rapid rate. Spread should have adequately covered target track
+    to compensate for small zigs of target or any small variation in target speed.
+  page: rg38-74856069/p30
+  table_page: rg38-74856069/p31
+  note: >-
+    Three firings on one sheet, as typed: (A) 1238 K, tubes 7-10 (p31); (B) 1241 K, tubes 1-4, and (C) 1247 K, tubes
+    5-6 (p32, remarks "None"). attacks.csv gives each torpedo its firing's time, courses and range; positions.csv has
+    the one attack row at (A)'s time and the sheet's position. Power is typed "---" for (B) and (C). The spread is
+    typed per tube (4½L, 1½L, 1½R, 4½R; 3L, 1L, 1R, 3R; 0, 0), in attacks.csv's offset. The narrative's own account of
+    the attack (p10) is not transcribed beyond its noon position
+- attack: Attack 2
+  heading: Torpedo Attack No. 2, Patrol No. 5
+  type_attack: >-
+    Detected pinging on sound gear and commenced closing until twenty minutes later sighted convoy of three
+    freighters and three escorts with single plane escort overhead. Selected second freighter which appeared to be
+    of about 7500 tons, as most likely target. ... Accepted set up of 159° port track, 31 right gyro and torpedo run
+    of 1350 and fired tubes 7, 8, and 9. ... Heard explosion four minutes after firing which did not check with
+    torpedo run to AK. Observed CHIDORI escort on fire aft and down by stern. He evidently zigged into our first
+    torpedo. ... small AK developed into a MARU type escort zero angle on bow, range 1700 yards, narrow beam.
+    Started deep as depth charges began falling.
+  description: >-
+    Convoy of one medium and two small freighters escorted by one CHIDORI type TB and two MARU type escorts was
+    detected by long scale pinging twenty minutes before sighting masts during conditions of good visibility.
+  sunk: None
+  damaged: HATSUKARI (CHIDORI Type)(TB).
+  determined_by: Observed ship smoking and on fire aft, down by stern, lying to, dead in water.
+  target_line: "Target Draft (AK) 10 ft. (TB) 6'9\" Course 325 Speed 9 Range (AK) 950 (TB) 3900"
+  own_ship: "Speed 2.5 kts. Course 134 Depth 63 ft. Angle 0°"
+  spread: 1½L, 0, 1½R
+  sea: Calm
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: >-
+    Torpedo No. 57819 is believed to have given erratic performance in view of the fact that it was heard running
+    about fifty degrees to the right of its designed course just before its end of run explosion. The misses on the
+    freighter may be accredited to the large track angle presented by a zig at the time of firing ...
+  page: rg38-74856069/p33
+  table_page: rg38-74856069/p34
+  note: >-
+    The sheet types two ranges, the AK's (950) and the TB's (3900); attacks.csv keeps the AK's, the target fired at.
+    The hit column types "Missed / AK / Hit TB" on three lines for tube 7. The spread is typed per tube (1½L, 0,
+    1½R; 1.5L and 1.5R in attacks.csv's offset), the narrative's "spread 1½ divergent" (p14).
+    The ship hit was not Hatsukari: the escort's own battle report puts Minesweeper No. 15 (W-15) torpedoed at
+    1044 I (1144 K) on 5 March, aft, and she was towed and beached (japanese.yml). The narrative (p14) types the
+    firing at 1139 and the explosions heard at 1143.
+- attack: Attack 3
+  heading: Torpedo Attack No. 3, Patrol No. 5
+  type_attack: >-
+    This attack was made on the CHIDORI damaged by attack No. 2, which had been towed and beached by two of the
+    convoy escorts. Both escorts were circling between beached ship and us as we closed to within 2800 yards of
+    beach to fire two bow tubes with zero gyros. No explosions were heard but two columns of black smoke and white
+    spray were observed at target. We started swinging left to open range from beach when escorts were seen to be
+    headed directly for us. At 150 feet, first depth charges began to fall. We are unable to explain the absence of
+    any sound although explosions were observed.
+  description: >-
+    Same target as attack No. 2. Target had been taken in tow by one of the other escorts while the second escort
+    accompanied them. They were forced to beach the target since it was gradually sinking lower in water. Unable to
+    overtake group while towing but got our shots in after she was beached.
+  sunk: None
+  damaged: HATSUKARI (CHIDORI Type)(TB).
+  determined_by: Observed two columns of smoke and spray at target although heard no explosions.
+  target_line: "Target draft 6'9\" Course Beached Speed 0 Range 2800 yds"
+  own_ship: "Speed 2.5 Course 273 Depth 63 feet Angle 0°"
+  spread: None
+  sea: Calm
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: >-
+    Torpedo run in both cases was close to 2800 yards. Torpedoes were seen to explode three minutes and two
+    seconds, and two minutes and forty-six seconds after firing. Definite explosions were seen at the target
+    although no explosions were heard. Target was resting on beach at time with bow out of water and stern low in
+    water.
+  page: rg38-74856069/p35
+  table_page: rg38-74856069/p36
+  note: >-
+    The target's draft is typed 6'9" (6.75 ft in attacks.csv). The narrative (p15): "1605 Sighted our target beached on southeast point of KIRUSHI anchorage with our MARU
+    escort and one trawler type escort circling", and at 1700 "Nip sailors in whites ... lining upper gunwale of
+    target which is beached down by stern, with 15° list".
+- attack: Attack 4
+  heading: Torpedo Attack No. 4, Patrol No. 5
+  type_attack: >-
+    While photographing scene of crime in attack No. 3, detected pinging to seaward and opened out to investigate.
+    Sighted ...
+  description: >-
+    One CHIDORI type (TB) detected by long scale pinging on sound gear as he approached scene of attack No. 3. After
+    reaching scene he commenced circling near target in same manner as escorts had done in attack No. 3.
+  sunk: None
+  damaged: None
+  determined_by: None
+  target_line: "Target draft 6'9\" Course 075 Speed 12½ Range 2400"
+  own_ship: "Speed 2.5 Course 329 Depth 63 feet Angle 0°"
+  sea: Choppy
+  overhaul: Submarine Base, Pearl Harbor, T.H.
+  remarks: >-
+    All torpedoes ran properly. Battery temperature was 76°F. End of run explosions occurred eight minutes after
+    firing. Turning of target as we fired caused our misses. We thought we had him steady on a course for a few
+    minutes when we fired.
+  page: rg38-74856069/p37
+  table_page: rg38-74856069/p38
+  note: >-
+    The rest of the type-attack paragraph (p37, lower half) is not read. The spread is typed per tube (½R, 0, ½L;
+    0.5R, 0, 0.5L in attacks.csv's offset), and the first torpedo's firing interval is typed 9, as entered. The
+    draft is typed 6'9" (6.75 ft). Tube 3's torpedo is typed Mark 18-1, the others 18-2. The "scene of attack No. 3"
+    is W-15 beached at Kiriishi anchorage, Suwanosejima (her battle report, jacar:C08030608100 p11)

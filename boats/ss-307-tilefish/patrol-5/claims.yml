@@ -1,0 +1,27 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/SCHEMA.md (A patrol's claims).
+- attack: Attack 2
+  record: J01
+  relation: hit
+  note: >-
+    TILEFISH fired tubes 7, 8 and 9 at 1139 K (1039 I) at the second freighter, Hangchow Maru (W-15's No. 2 ship),
+    and heard an explosion at 1143 K (1043 I) that "did not check with torpedo run to AK"; tube 7 "Missed AK Hit TB".
+    W-15's report has her hit aft at 1044 I, having turned toward the wake of the attack on No. 2 ship: one minute
+    from TILEFISH's explosion. TILEFISH took her for "HATSUKARI (CHIDORI Type)(TB)" and claimed her damaged; the
+    ship was Minesweeper No. 15. W-15 counted four torpedoes at her where TILEFISH fired three
+  janac:
+    - {ship: Minesweeper No 15, date: 1945-03-05, type: Minesweeper, tons: "492", lat_raw: 29-30N, lon_raw: 129-33E,
+       agent: Submarine, probable: false, ref: janac:3/p23,
+       note: "the list's position is TILEFISH's typed attack position to the minute; the appendix's page for TILEFISH not read"}
+- attack: Attack 2
+  record: J02
+  relation: hit
+  note: The same loss as J01 (her position by cross-bearings), counted once with it
+- attack: Attack 3
+  record: J03
+  relation: miss
+  note: >-
+    TILEFISH fired two bow tubes at the beached ship at 1707 K (1607 I), saw explosions at 3 min 02 s and 2 min 46 s
+    and claimed two hits. W-15's log: two torpedoes struck the reef about 30 m from her bow, no damage written. The
+    times disagree: 1720 I against 1607-1610 I, 70 minutes, though the two clocks agreed within a minute at Attack 2.
+    The only torpedo attack on her after she was beached in either record, so paired with it; which time is right
+    these pages don't say

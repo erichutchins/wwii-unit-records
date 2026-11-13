@@ -88,14 +88,18 @@
   time: '2346'
   zone: I
   original: >-
-    二三四六 戦斗爆雷戦 第一回爆雷攻撃 深度三〇米（使用爆雷数三個）… 〇〇〇三 探信儀右四〇度六〇〇米潜水艦ラシキモノ探知
-    〇〇〇五 第二回爆雷攻撃深度?〇米（使用爆雷数二個） 〇〇〇九 原速 … 効果検討 続イテ探知掃蕩 〇〇三〇 遭難者発見
+    二三四六 戦斗爆雷戦 第一回爆雷攻撃 深度三〇米（使用爆雷数三個）針路南八〇度東 探信儀右四〇度六〇〇米潜水艦ラシキモノ探知
+    〇〇〇一 面舵 針路北二〇度西 〇〇〇三 第一戦速 〇〇〇五 第二回爆雷攻撃深度?〇米（使用爆雷数二個） 〇〇〇九 原速 針路南三〇度東
+    効果検討 続イテ探知掃蕩 〇〇三〇 遭難者発見
   translation: >-
-    2346: depth-charge action, first depth-charge attack, depth 30 m (three charges) … 0003 (23rd): sonar,
-    something like a submarine at 40° to starboard, 600 m. 0005: second depth-charge attack, depth ?0 m (two
-    charges). 0009: standard speed … assessing the result, continuing to search and sweep. 0030: survivors sighted
+    2346: depth-charge action, first depth-charge attack, depth 30 m (three charges), course S 80° E. Sonar:
+    something like a submarine at 40° to starboard, 600 m (no time written). 0001 (23rd): starboard helm, course
+    N 20° W. 0003: battle speed 1. 0005: second depth-charge attack, depth ?0 m (two charges). 0009: standard
+    speed, course S 30° E; assessing the result, continuing to search and sweep. 0030: survivors sighted
   note: >-
-    W-15's log of the action, after Hozan Maru was torpedoed (J02). 2346 I = 0046 K, 0003-0005 I = 0103-0105 K.
+    W-15's log of the action, after Hozan Maru was torpedoed (J02). 2346 I = 0046 K, 0001-0005 I = 0101-0105 K.
+    The sonar line has no time of its own: it falls between the 2346 entry and 0001, under the date column (read
+    on the scan at 300 dpi; an earlier reading put it at 0003, which is the battle-speed line).
     W-15 stayed behind to hunt and rescue (49 rescued by 0105 I, p41) and rejoined the convoy at 0120 I, so its
     log records nothing of BANG's later attacks. BANG was on the surface throughout; the contact was not BANG.
     One depth figure is unclear (?)

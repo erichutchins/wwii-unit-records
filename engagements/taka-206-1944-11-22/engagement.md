@@ -3,6 +3,7 @@ title: Convoy TAKA-206, 22–23 November 1944
 short: TAKA-206 · 22–23 November 1944
 eyebrow: East of Formosa · Coordinated attack group "Sandy's Sluggers", Cdr L. D. McGregor in REDFISH
 theater: pacific
+against: [jp]     # W-15 has a track of her own (her diary), so who is ours is said, not worked out from the tracks
 window: {from: 1944-11-22T10:00Z, to: 1944-11-23T00:00Z}
 participants:
   - id: bang
@@ -26,6 +27,13 @@ participants:
     hull: SS-235
     co: L. Julihn (middle initial illegible on the report)
     track: ss-235-shad/8
+  - id: w-15
+    name: W-15
+    of: jp
+    kind: minesweeper
+    sil: no13-minesweeper
+    track: jp-w-15
+    note: "Minesweeper No. 15, an escort, followed through her own war diary: her written positions only; between them her log of courses and speeds is read but not yet reckoned into a track"
   - id: taka-206
     name: Convoy TAKA-206
     of: jp

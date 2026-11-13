@@ -1167,6 +1167,21 @@ osm-nominatim:
   match: '^OSM Nominatim$'
   used_for: army/places.csv (coordinates of the towns stations name)
 
+jawiki-w15:
+  title: 第十五号掃海艇 and 第十三号型掃海艇 (Minesweeper No. 15 and the No. 13 class), Japanese Wikipedia
+  by: Wikipedia contributors
+  kind: secondary
+  of: jp
+  held: >-
+    Japanese Wikipedia, read 13 Nov 2026 (oldid 110692959 and 105282375). Its figures cite 福井静夫『日本補助艦艇物語』
+    (1993) pp368-370, 『写真 日本の軍艦 第13巻』 (1990) pp226-230 and 『昭和造船史 第1巻』: a finding aid until one of those,
+    or a record, is read
+  url: https://ja.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%8F%B7%E6%8E%83%E6%B5%B7%E8%89%87
+  rights: CC BY-SA 4.0
+  cite: jawiki-w15
+  match: '^jawiki-w15$'
+  used_for: ships/jp-w-15/ship.yml (her speed, range and 1944 fit, secondary)
+
 wikipedia-coordinates:
   title: Wikipedia, article coordinates for a place
   by: Wikipedia contributors

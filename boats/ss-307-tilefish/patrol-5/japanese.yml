@@ -1,0 +1,54 @@
+# The Japanese record of TILEFISH's attacks (records/SCHEMA.md). Hand-edited. The escort's own Battle Report No. 7
+# (Minesweeper No. 15, convoy NAKA-303, jacar:C08030608100), read on the scan 13 Nov 2026: pp3, 9, 30. Her own log of
+# these minutes, and her fix, are in ships/jp-w-15 (log.yml, positions.csv). Not yet read: pp10-29 (the fire, the
+# tow, the beaching, read for 1046-1740 on pp10-11; pp12-29 not read).
+- id: J01
+  source: jacar:C08030608100
+  page: p9
+  ship: Minesweeper No. 15
+  convoy: NAKA-303
+  event: torpedoed
+  date: 1945-03-05
+  time: '1044'
+  zone: I
+  original: >-
+    一〇四三 右六〇度一〇〇〇米附近ヨリ敵潜本艇ニ攻撃（魚雷四本） 一〇四四 魚雷二本艇底通過 一本艇尾通過 一本艇尾ニ命中 …
+    九六番肋材ト九七番肋材トノ間ニ折レ 機械停止 舵軸破壊航行不能トナル …
+  translation: >-
+    1043: the enemy submarine attacked us from about 60° to starboard, 1,000 m (four torpedoes). 1044: two torpedoes
+    passed under her bottom, one passed astern, one hit the stern … she broke between frames 96 and 97, the engines
+    stopped and the rudder shaft was wrecked, and she could not steam …
+  note: >-
+    Her own battle report (written as 本艇, this ship). Before 1043 (104?) she had sighted the wake of the submarine's
+    attack on No. 2 ship Hangchow Maru (杭州丸), 130° to starboard, 1,500 m, and turned hard to starboard toward it.
+    No position written at 1044 but "000° 5 miles from Akusekijima" (p9) and the cross-bearings of p30 (J02)
+- id: J02
+  source: jacar:C08030608100
+  page: p30
+  ship: Minesweeper No. 15
+  convoy: NAKA-303
+  event: torpedoed
+  date: 1945-03-05
+  time: '1044'
+  zone: I
+  original: 掃十五被雷位置略圖 … 1044 … N15W … N60E … N76E … S1?E
+  translation: >-
+    Sketch of W-15's position when torpedoed: at 1044, bearings Tairajima N 15° W, Suwanosejima N 60° E and N 76° E
+    (its edges), Akusekijima S 1?° E
+  note: >-
+    The same loss as J01, counted once with it: her position. No latitude or longitude written; the bearings solve to
+    29-34.8N 129-33.9E (computed: ships/jp-w-15/positions.csv), 4.8 nm from TILEFISH's typed attack position, which
+    is her noon position (p15). TILEFISH's sheet puts the TB at 3900 yards
+- id: J03
+  source: jacar:C08030608100
+  page: p11
+  ship: Minesweeper No. 15
+  convoy: NAKA-303
+  event: attacked_no_damage
+  date: 1945-03-05
+  time: '1720'
+  zone: I
+  original: 本艇ノ首ヨリ三十米附近ニ魚雷二本岩礁ニ命中爆發
+  translation: Two torpedoes struck the reef about 30 m from our bow and exploded
+  note: >-
+    Beached on the reef of Shiomi-zaki, Kiriishi anchorage, Suwanosejima, since 1426 I (p11). No position written

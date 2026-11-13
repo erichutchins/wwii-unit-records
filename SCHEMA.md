@@ -34,6 +34,45 @@ One per vessel, in `boats/<hull>-<name>/` (submarines) or `ships/<hull>-<name>/`
 
 A ship with no record transcribed yet has only a `ship.yml` (no `positions.csv`); the tools skip her.
 
+**A ship of the other side** (`ships/jp-<name>/`, e.g. `ships/jp-w-15`) is a subject on the same terms: when the
+kit holds a record she kept herself (a war diary, a battle report, a movement sheet). A ship only named in another's
+record (a loss list, JANAC, a convoy's roster) stays a name in that record: a convoy's `ships:`, a patrol's
+`japanese.yml`. Her `ship.yml` adds:
+
+| Field | Meaning |
+|---|---|
+| `of` | Her nationality as the records give it (`jp`); left out, `us` |
+| `name`, `short`, `name_ja` | Her name in English as the kit writes it (Minesweeper No. 15), the short form the pages and a convoy's `ships:` use (W-15), and her name as her own record writes it (第十五號掃海艇) |
+| `alias` | The short key an address takes (`subject.html?s=w-15`); it must match the slug of her name in a convoy's `ships:`, so the convoy's row and her page link both ways |
+| `hull` | No hull number: the designation the kit writes her by, her key in `inventory.yml` |
+
+Her `positions.csv` keeps the record's zone (I for the Imperial Japanese Navy). A position written for an event (a
+ship torpedoed, a ship sunk) is the event's, `on_track=no`. On an engagement page she is a participant with a
+`track`, drawn in her side's ink, never a categorical colour; the engagement then says `against:` so that who is
+ours isn't worked out from who has a track.
+
+### A ship's log (log.yml) and her speeds
+
+Where her record logs the action line by line (a Japanese battle report's 戦闘経過: helm, course, speed by name, each
+depth-charge attack), `log.yml` holds those lines as written, one entry each, in the record's order:
+
+| Field | Meaning |
+|---|---|
+| `date`, `time`, `zone` | As written; `time` empty for a line the record leaves untimed |
+| `time_fix`, `fix_note` | A correction to a time read with doubt (`0?05`), with the reason; the reading stays |
+| `course` | As written, converted from 北六五度東 to `N 65° E` (or `N`, `S`, `E`, `W`) |
+| `speed` | The record's word (原速, 第一戦速, 停止); its knots are in ship.yml `speeds` |
+| `helm` | As written (取舵 port, 面舵 starboard, 一杯 hard over) |
+| `event` | `contact_report`, `charges_heard`, `action_stations`, `stand_down`, `ship_torpedoed`, `depth_charge`, `sonar_contact`, `search`, `survivors`, `rescue`, `rejoin`, `torpedo_wake`, `torpedoed`, `fire`, `beached` |
+| `depth_m`, `charges` | A depth-charge attack's setting and number, as written |
+| `original`, `translation`, `source`, `page`, `note` | As in japanese.yml |
+
+ship.yml `speeds` maps each speed word to `{kts, basis, note}`: `reported` where a record gives her figure, else
+`assumed` with its reason; `kts: null` for a word with no figure (曳航, under tow), from which she has no place until her next fix. From the log, the speeds and her fixes, `build_engagement.py` reckons her path inside an
+engagement's window: from each fix she runs on the last course and speed logged; at the next fix it starts again, and
+the route's note says how far off it was. It is a route of basis `reckoned`, computed, never entered by hand; helm
+orders between courses are not modelled, and a line whose time is doubtful and uncorrected takes no part.
+
 ## An engagement (engagements/<id>/)
 
 The model, the reasons for it, and how the pages draw it are in the kit's `guides/ENGAGEMENTS.md`; `tools/build_engagement.py` checks every field below.

@@ -5,8 +5,8 @@ plain: "a four-ship Takao–Hong Kong convoy, known mostly from a secondary sour
 from: Takao (secondary)
 to: Hong Kong (secondary)
 via: []
-sailed: ""
-arrived: ""
+sailed: "1944-07-01 (inferred: its escort Kuri left Takao that day)"
+arrived: "1944-07-05 (inferred: Kuri reached Hong Kong at 1540 I, Hatsukari at 1908 I)"
 size: 4 (secondary)
 cargo: "anti-aircraft guns and ammunition in Gyoun Maru (secondary); the rest not recorded"
 attacked_by: [ss-304-seahorse/5, ss-385-bang/2]
@@ -14,6 +14,10 @@ sources:
   - jacar:C08030032900 p27   # narrative: 第九一船団 attacked SW of Pratas on the 4th; escorts Kuri, Hatsukari
   - industrialhistoryhk:29957  # secondary: BAAG summary for Gyoun Maru; a reader's comment on TA-406 and No. 91
   - jacar:C08030032900 p28   # submarine table: Kuri's three reports (Nitto Maru; no damage; Gyoyu, No. 28 Kyodo)
+  - jacar:C08030032900 p42   # the fleet's chart of its ships' movements, July: Kuri at Takao on the 1st, at sea, Hong Kong 5th 1540; Hatsukari at sea from the 1st, Hong Kong 5th 1908
+voyage:                     # stops and known points, Tokyo time (I), each cited
+  - {at: 1944-07-01, place: takao, event: sailed, words: "Kuri at Takao (高雄) on the 1st, then at sea; the time beside it, 一一??, partly read", source: jacar:C08030032900 p42, basis: inferred}
+  - {at: 1944-07-05 1540 I, place: hong-kong, event: arrived, words: "Kuri's block at Hong Kong (香港) opens 一五四〇 on the 5th; Hatsukari's 一九〇八", source: jacar:C08030032900 p42, basis: inferred}
 route: [takao, w-bashi, w-scse, w-s91, hong-kong]   # through reference/lanes/lanes.yml; assumed waypoints are drawn dotted
 ships:
   - ship: Kuri

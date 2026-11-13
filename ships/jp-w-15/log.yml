@@ -1,0 +1,480 @@
+# Minesweeper No. 15 (W-15): her log of the night of 22-23 November 1944, convoy TAKA-206, as her battle report's
+# 戦闘経過 (the course of the action) writes it: jacar:C08030607900 pp40-42, read on the scan. Hand-edited; fields in
+# records/SCHEMA.md ("A ship's log"). One entry for each line the record times (or leaves untimed, `time` empty),
+# in its order. Zone I (-9). `course` as written, converted from 北六五度東 to N 65° E; `speed` the record's word
+# (原速 standard, 第一戦速 battle speed 1, 停止 stopped), its knots in ship.yml `speeds`; `helm` as written
+# (取舵 port, 面舵 starboard, 一杯 hard over). A value read with doubt has `?`; a correction goes in `time_fix` with
+# `fix_note`, never over the reading.
+- date: 1944-11-22
+  time: '2240'
+  zone: I
+  speed: 第一戦速
+  course: N 65° E
+  event: contact_report
+  original: 北緯二四度二二分東経一二二度三一分ニ於テ一番艦真鶴信號拳銃赤色一個（浮上潜水艦）ヲ認ム 配置ニ就ケ 一戦速 針路北六五度東
+  translation: >-
+    At 24-22N 122-31E sighted one red signal-pistol flare (surfaced submarine) from No. 1 ship Manazuru. Battle
+    stations; battle speed 1, course N 65° E
+  source: jacar:C08030607900
+  page: p40
+  note: >-
+    The position is hers (認ム, sighted), in positions.csv. A contact reported by Very pistol at night, as the escorts'
+    doctrine had it (ntmj-s24:p11)
+- date: 1944-11-22
+  time: '2245'
+  zone: I
+  event: charges_heard
+  original: 爆雷音聴ユ
+  translation: Depth-charge explosions heard
+  source: jacar:C08030607900
+  page: p40
+- date: 1944-11-22
+  time: '2248'
+  zone: I
+  speed: 原速
+  course: N 60° E
+  event: action_stations
+  original: 戦斗爆雷戦 原速 針路北六〇度東
+  translation: Depth-charge action stations; standard speed, course N 60° E
+  source: jacar:C08030607900
+  page: p40
+- date: 1944-11-22
+  time: '2337'
+  zone: I
+  event: stand_down
+  original: 爆雷戦要具收メ 艇内哨戒第二配備
+  translation: Depth-charge gear stowed; second watch condition
+  source: jacar:C08030607900
+  page: p40
+- date: 1944-11-22
+  time: '2339'
+  zone: I
+  speed: 第一戦速
+  course: S 80° E
+  helm: 取舵一杯
+  event: ship_torpedoed
+  original: 二番船鳳山丸敵潜水艦ノ雷撃ヲ受クルヲ認ム 配置ニ就ケ 一戦速 針路南八〇度東 取舵一杯
+  translation: >-
+    Saw No. 2 ship Hozan Maru torpedoed by an enemy submarine. Battle stations; battle speed 1, course S 80° E,
+    hard to port
+  source: jacar:C08030607900
+  page: p40
+- date: 1944-11-22
+  time: '2340'
+  zone: I
+  course: N 70° E
+  event: action_stations
+  original: 爆雷戦用意 針路北七〇度東
+  translation: Ready depth charges; course N 70° E
+  source: jacar:C08030607900
+  page: p40
+- date: 1944-11-22
+  time: '2343'
+  zone: I
+  helm: 面舵一杯
+  original: 警戒 面舵一杯
+  translation: Alert; hard to starboard
+  source: jacar:C08030607900
+  page: p40
+  note: No course written after the turn; the reckoning keeps N 70° E until 2346
+- date: 1944-11-22
+  time: '2346'
+  zone: I
+  course: S 80° E
+  event: depth_charge
+  depth_m: '30'
+  charges: '3'
+  original: 戦斗爆雷戦第一回爆雷攻撃深度三〇米（使用爆雷数三個） 針路南八〇度東
+  translation: Depth-charge action, first depth-charge attack, depth 30 m (three charges); course S 80° E
+  source: jacar:C08030607900
+  page: p41
+- date: 1944-11-22
+  time: ''
+  zone: I
+  event: sonar_contact
+  original: 探信儀右四〇度六〇〇米潜水艦ラシキモノ探知
+  translation: Sonar, something like a submarine at 40° to starboard, 600 m
+  source: jacar:C08030607900
+  page: p41
+  note: >-
+    No time of its own: it stands under the date column, between the 2346 entry and 0001 (read at 300 dpi)
+- date: 1944-11-23
+  time: '0001'
+  zone: I
+  course: N 20° W
+  helm: 面舵
+  original: 面舵 針路北二〇度西
+  translation: Starboard helm; course N 20° W
+  source: jacar:C08030607900
+  page: p41
+  note: >-
+    A turn to the right back toward the contact, as the doctrine after an attack had it ("reverse course to the
+    right", ntmj-s24:p13); inferred
+- date: 1944-11-23
+  time: '0003'
+  zone: I
+  speed: 第一戦速
+  original: 第一戦速
+  translation: Battle speed 1
+  source: jacar:C08030607900
+  page: p41
+  note: The doctrine's run-in speeds were 12 knots, then 16 knots from 800 m (ntmj-s24:p11)
+- date: 1944-11-23
+  time: '0005'
+  zone: I
+  event: depth_charge
+  depth_m: '?0'
+  charges: '2'
+  original: 第二回爆雷攻撃深度?〇米（使用爆雷数二個）
+  translation: Second depth-charge attack, depth ?0 m (two charges)
+  source: jacar:C08030607900
+  page: p41
+  note: The depth's first figure is unclear (二, 20, is the likelier reading)
+- date: 1944-11-23
+  time: '0009'
+  zone: I
+  speed: 原速
+  course: S 30° E
+  event: search
+  original: 原速 針路南三〇度東 効果検討 続イテ探知掃蕩
+  translation: Standard speed, course S 30° E; assessing the result, then continuing to search and sweep
+  source: jacar:C08030607900
+  page: p41
+- date: 1944-11-23
+  time: '0030'
+  zone: I
+  event: survivors
+  original: 遭難者發見
+  translation: Survivors sighted
+  source: jacar:C08030607900
+  page: p41
+- date: 1944-11-23
+  time: '0035'
+  zone: I
+  speed: 停止
+  event: rescue
+  original: 停止 第二カッターヲ卸ス 遭難者救助開始
+  translation: Stopped; lowered No. 2 cutter; began rescuing survivors
+  source: jacar:C08030607900
+  page: p41
+- date: 1944-11-23
+  time: 0?05
+  zone: I
+  event: rescue
+  original: 右カッターヲ揚グ 救助人員四九名
+  translation: Hoisted the starboard cutter; 49 rescued
+  source: jacar:C08030607900
+  page: p41
+  time_fix: '0205'
+  fix_note: >-
+    The second figure is faint: 二 (0205) or 一 (0105). 0205 by the column's spacing and because the reckoning then
+    closes on her 0730 fix; the kit's earlier reading was 0105. To be re-read on JACAR's own image
+- date: 1944-11-23
+  time: 0?15
+  zone: I
+  event: rescue
+  original: 三名救助
+  translation: Three rescued
+  source: jacar:C08030607900
+  page: p41
+  time_fix: '0215'
+  fix_note: As the entry before (0215 or 0115)
+- date: 1944-11-23
+  time: 0?00
+  zone: I
+  speed: 第一戦速
+  course: S 50° E
+  event: rejoin
+  original: 船団追及 針路南五〇度東 速力第一戦速 艇内哨戒第三配備
+  translation: Following the convoy; course S 50° E, battle speed 1; third watch condition
+  source: jacar:C08030607900
+  page: p41
+  time_fix: '0300'
+  fix_note: >-
+    The second figure is faint: 三 (0300) or 二 (0120 is the kit's earlier reading of the same column). 0300 as the
+    two entries before. Until then she lay stopped (the reckoning holds her still from 0035)
+- date: 1944-11-23
+  time: '0450'
+  zone: I
+  speed: 第一戦速
+  course: S 60° E
+  event: charges_heard
+  original: 爆雷音左後方 配置ニ就ケ 第一戦速 戦斗爆雷戦 針路南六〇度東
+  translation: >-
+    Depth-charge explosions astern to port. Battle stations, battle speed 1; depth-charge action stations, course
+    S 60° E
+  source: jacar:C08030607900
+  page: p42
+  note: >-
+    Two written lines under one time: the page has thirteen lines and twelve times, and by the columns' spacing 0452
+    stands over the turn below, not over 戦斗爆雷戦 (the kit's earlier reading put S 60° E at 0452)
+- date: 1944-11-23
+  time: '0452'
+  zone: I
+  course: N 50° W
+  original: 反轉 針路北五〇度西
+  translation: Turned back; course N 50° W
+  source: jacar:C08030607900
+  page: p42
+- date: 1944-11-23
+  time: '0458'
+  zone: I
+  speed: 原速
+  course: N 70° W
+  original: 針路北七〇度西ニ変針 速力原速
+  translation: Altered course to N 70° W; standard speed
+  source: jacar:C08030607900
+  page: p42
+- date: 1944-11-23
+  time: '0508'
+  zone: I
+  event: search
+  original: 艇内哨戒第三配備 掃蕩ヲ續ク
+  translation: Third watch condition; continuing the sweep
+  source: jacar:C08030607900
+  page: p42
+- date: 1944-11-23
+  time: '0600'
+  zone: I
+  course: N 10° W
+  original: 針路北一〇度西ニ変針
+  translation: Altered course to N 10° W
+  source: jacar:C08030607900
+  page: p42
+- date: 1944-11-23
+  time: '0700'
+  zone: I
+  course: S 55° E
+  original: 針路南五五度東ニ変針
+  translation: Altered course to S 55° E
+  source: jacar:C08030607900
+  page: p42
+- date: 1944-11-23
+  time: '0745'
+  zone: I
+  course: S 45° W
+  original: 針路南四五度西ニ変針
+  translation: Altered course to S 45° W
+  source: jacar:C08030607900
+  page: p42
+  note: >-
+    Fifteen minutes after she sighted Sannin Maru at 24-19N 123-19E and turned back to search for the rest of the
+    convoy (p47; positions.csv)
+- date: 1944-11-23
+  time: '0930'
+  zone: I
+  course: W
+  original: 針路西ニ変針
+  translation: Altered course to west
+  source: jacar:C08030607900
+  page: p42
+- date: 1944-11-23
+  time: '1030'
+  zone: I
+  course: N 30° W
+  original: 針路北三〇度西ニ変針
+  translation: Altered course to N 30° W
+  source: jacar:C08030607900
+  page: p42
+- date: 1944-11-23
+  time: '1100'
+  zone: I
+  course: E
+  original: 針路東ニ変針
+  translation: Altered course to east
+  source: jacar:C08030607900
+  page: p42
+- date: 1944-11-23
+  time: '1130'
+  zone: I
+  course: S 30° W
+  original: 針路南三〇度西ニ変針
+  translation: Altered course to S 30° W
+  source: jacar:C08030607900
+  page: p42
+- date: 1944-11-23
+  time: '1224'
+  zone: I
+  event: search
+  original: 眞鶴機密二三一一五八番電ニ依ル掃蕩並ニ捜索開始
+  translation: Began the sweep and search ordered by Manazuru's secret signal 231158
+  source: jacar:C08030607900
+  page: p42
+  note: The escorts' search by sectors under the senior escort, as the doctrine had it (ntmj-s24:p15); inferred
+# 5 March 1945, convoy NAKA-303 (Naha to Kagoshima), torpedoed by TILEFISH: Battle Report No. 7's 経過, jacar:C08030608100
+# p9, read on the scan at 120 dpi
+- date: 1945-03-05
+  time: 104?
+  zone: I
+  helm: 面舵一杯
+  speed: 第一戦速
+  event: torpedo_wake
+  original: >-
+    ナカ三〇三船団護衛中悪石島ノ〇〇〇度五浬ニ於テ本艇ノ右一三〇度一五〇〇米ニ二番船杭州丸攻撃中ノ敵潜雷跡一本ヲ認メ面舵一杯
+    配置ニ就ケ 一戦速 急ゲノ令
+  translation: >-
+    Escorting convoy NAKA-303, at 000° 5 miles from Akusekijima, sighted one torpedo wake from the enemy submarine
+    attacking No. 2 ship Hangchow Maru, 130° to starboard, 1,500 m. Hard to starboard; battle stations, battle speed 1,
+    "hurry"
+  source: jacar:C08030608100
+  page: p9
+  note: The minutes' last figure is unclear (一〇四? ); before 1043
+- date: 1945-03-05
+  time: '1043'
+  zone: I
+  event: torpedo_wake
+  original: 右六〇度一〇〇〇米附近ヨリ敵潜本艇ニ攻撃（魚雷四本）
+  translation: The enemy submarine attacked us from about 60° to starboard, 1,000 m (four torpedoes)
+  source: jacar:C08030608100
+  page: p9
+- date: 1945-03-05
+  time: '1044'
+  zone: I
+  speed: 停止
+  event: torpedoed
+  original: >-
+    魚雷二本艇底通過 一本艇尾通過 一本艇尾ニ命中 一二六番肋材附近ヨリ後部及爆雷飛散 九六番肋材ト九七番肋材トノ間ニ折レ 機械停止
+    舵軸破壊航行不能トナル 第三兵員室ハ折損部ヨリ 第四兵員室ハ後部隔壁ヨリ大量浸水 同時ニ假爆雷庫第四兵員室火災發生 爆雷ニ引火
+    時々火焔三百米ニ達シ船体後部沈下ヲ開始セリ
+  translation: >-
+    Two torpedoes passed under her bottom, one passed astern, one hit the stern: from about frame 126 aft she and her
+    depth charges were blown apart; she broke between frames 96 and 97, the engines stopped and the rudder shaft was
+    wrecked, and she could not steam. The No. 3 mess deck flooded through the break and No. 4 through its after
+    bulkhead; at the same time fire broke out in the temporary depth-charge store and No. 4 mess deck, the charges
+    caught, the flames at times reaching 300 m, and her stern began to settle
+  source: jacar:C08030608100
+  page: p9
+  note: Her position at this minute is fixed by bearings on the islands (p30; positions.csv)
+- date: 1945-03-05
+  time: '1045'
+  zone: I
+  event: fire
+  original: 火勢逐次強大トナリ爆雷爆發ノ算倍加ス 消防ポンプ移動ポンプ消火器及配食鍋ニ依ル散水等ニ依リ總員極力消火ニ努ム
+  translation: >-
+    The fire grew steadily and the chance of the depth charges exploding doubled; all hands fought it as hard as they
+    could, with the fire pump, the portable pump, extinguishers and even the mess kettles
+  source: jacar:C08030608100
+  page: p9
+# 5 March 1945, after the hit: the fire, the tow, the beaching on Suwanosejima (p10-p11, read on the scan at 115 dpi)
+- date: 1945-03-05
+  time: '1046'
+  zone: I
+  event: fire
+  original: >-
+    爆雷庫彈火薬庫注水 甲板上ノ彈薬爆雷輕質油等可燃物ヲ海中ニ投棄セリ
+  translation: >-
+    Flooded the depth-charge store and the magazine; threw the ammunition, depth charges, light oil and other things that would burn on deck into the sea
+  source: jacar:C08030608100
+  page: p10
+  note: >-
+    Before this line (p10, carried over from p9) she has Taian Maru (大安丸) take command of the convoy
+- date: 1945-03-05
+  time: '1047'
+  zone: I
+  original: >-
+    機密圖書一部及負傷者便乗者ヲ播州丸大安丸ニ移乗セシム
+  translation: >-
+    Transferred part of the secret documents, the wounded and the passengers to Banshu Maru and Taian Maru
+  source: jacar:C08030608100
+  page: p10
+- date: 1945-03-05
+  time: '1146'
+  zone: I
+  event: fire
+  original: >-
+    火災鎮火セルモ第三第四兵員室浸水量急激ニ増加セルヲ以テ甲板上重量物ヲ海中ニ投棄浮力確保ニ努ムルモ猶後部漸次沈下シツツアリ …
+  translation: >-
+    The fire was out, but the flooding of Nos. 3 and 4 mess decks increased sharply; heavy gear on deck thrown overboard to keep her afloat, yet her stern went on settling …
+  source: jacar:C08030608100
+  page: p10
+- date: 1945-03-05
+  time: '1204'
+  zone: I
+  speed: 曳航
+  event: rescue
+  original: >-
+    五一播州丸ニテ曳航セントスルモ天候漸次悪化シ波浪大ナルタメ長時間ノ曳航ニ耐ヘズト認メ應急作業ヲ施行セン爲諏訪瀬島切石泊地ニ向フ
+  translation: >-
+    No. 51 Banshu Maru tried to tow her, but the weather worsening and the seas high, she judged she could not stand a long tow, and made for Kiriishi anchorage on Suwanosejima to make emergency repairs
+  source: jacar:C08030608100
+  page: p10
+  note: >-
+    Taken in tow, as TILEFISH saw at 1320 K (1220 I): 'Escorts took cripple in tow and started him through SUWANOSE SUIDO'
+- date: 1945-03-05
+  time: '1406'
+  zone: I
+  original: >-
+    曳航止ム
+  translation: >-
+    The tow ended
+  source: jacar:C08030608100
+  page: p10
+- date: 1945-03-05
+  time: '1409'
+  zone: I
+  original: >-
+    右錨投錨
+  translation: >-
+    Dropped the starboard anchor
+  source: jacar:C08030608100
+  page: p10
+- date: 1945-03-05
+  time: '1415'
+  zone: I
+  original: >-
+    風浪ノタメ右錨鎖切斷 左錨投錨
+  translation: >-
+    The starboard cable parted in the wind and sea; dropped the port anchor
+  source: jacar:C08030608100
+  page: p11
+- date: 1945-03-05
+  time: '1420'
+  zone: I
+  original: >-
+    左錨切斷
+  translation: >-
+    The port cable parted
+  source: jacar:C08030608100
+  page: p11
+- date: 1945-03-05
+  time: '1426'
+  zone: I
+  event: beached
+  original: >-
+    風壓ノタメ切石泊地南西岸潮見崎ノ岩礁ニ船體後部觸礁次デ中部坐礁擱坐シタルガ高浪ノタメ斷エズ岩礁ニ船體激突 船體左右五〇度動搖 … 直チニ前部ニ注水ヲ命ジ顚覆ヲ防グ
+  translation: >-
+    Driven by the wind, her stern struck the reef of Shiomi-zaki on the south-west shore of Kiriishi anchorage, then she grounded amidships; the high seas drove her against the reef without a break and she rolled 50° each way … at once ordered the forward part flooded, and kept her from capsizing
+  source: jacar:C08030608100
+  page: p11
+  note: >-
+    Beached: TILEFISH saw her at 1605 K (1505 I) 'beached on southeast point of KIRUSHI anchorage'. No position written
+- date: 1945-03-05
+  time: '1530'
+  zone: I
+  original: >-
+    依而機密圖書兵員一部ヲ同時五一播州丸及大安丸ニ移乗セシム
+  translation: >-
+    So transferred the secret documents and part of the crew to No. 51 Banshu Maru and Taian Maru
+  source: jacar:C08030608100
+  page: p11
+- date: 1945-03-05
+  time: '1720'
+  zone: I
+  event: torpedo_wake
+  original: >-
+    本艇ノ首ヨリ三十米附近ニ魚雷二本岩礁ニ命中爆發 五一播州丸大安丸附近掃蕩ニ向フ …
+  translation: >-
+    Two torpedoes struck the reef about 30 m from our bow and exploded; No. 51 Banshu Maru and Taian Maru went to sweep the area …
+  source: jacar:C08030608100
+  page: p11
+  note: >-
+    TILEFISH's Attack 3: fired at 1707 K (1607 I), the explosions seen about three minutes later. Her log writes 1720, 70 minutes later; the two clocks agreed within a minute at 1044 (Attack 2), so the difference is not a zone. Neither record's time is corrected
+- date: 1945-03-05
+  time: '1740'
+  zone: I
+  original: >-
+    夜間ハ陸上ニ避退待機警戒セシム …
+  translation: >-
+    For the night, had the crew withdraw ashore and stand by on watch …
+  source: jacar:C08030608100
+  page: p11

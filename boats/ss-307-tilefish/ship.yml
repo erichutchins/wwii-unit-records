@@ -1,0 +1,14 @@
+# USS TILEFISH (SS-307). Hand-edited; see boats/ss-385-bang/ship.yml.
+name: TILEFISH
+hull: SS-307
+class: Balao
+silhouette: balao     # her class's profile in silhouettes/silhouettes.yml (ONI 222-US)
+kind: submarine
+plain: "a fleet submarine of the Balao class, on her fifth war patrol in the Nansei Shoto and south of Honshu, where she torpedoed the escort Minesweeper No. 15 on 5 March 1945"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+max_kts: 20.5          # surfaced maximum, about 20.25 kn (Balao); the check allows 30 nm of DR on top
+dives: false
+
+map:
+  # dates: the first and last transcribed fix, not the report's departure and arrival
+  periods:
+    - { n: 5, name: Fifth War Patrol, dates: 1 Feb 1945 – 29 Mar 1945 }

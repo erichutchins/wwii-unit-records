@@ -1,0 +1,46 @@
+# Minesweeper No. 15 (W-15): her own war diaries, September and November 1944 (JACAR). Hand-edited; see
+# ships/de-221-solar/ship.yml. The first Japanese ship followed as a subject: a Japanese ship is a subject when the
+# kit holds a record she kept herself (a war diary, a battle report, a movement sheet), not when she is only named.
+name: Minesweeper No. 15
+short: W-15
+name_ja: 第十五號掃海艇   # as her own battle report writes it (jacar:C08030607900 p32)
+alias: w-15
+hull: W-15        # no hull number: the designation the kit writes her by, and her key in inventory.yml
+of: jp
+class: No. 13      # assumed, as the silhouette below
+kind: minesweeper
+plain: "a No. 13-class minesweeper of the Imperial Japanese Navy escorting convoys between Formosa and the Ryukyus, followed through her own war diaries"   # what she was, in a line, ours (guides/OPERATIONS-VIEWER.md 2.1)
+# Secondary (jawiki-w15, citing Fukui): 20 knots as built, 19 after the stability refit that Nos. 15 and 16 had while
+# building (after the Tomozuru capsizing of 1934); 2,600 nm at 12 knots. Her September 1944 fit, the same: the forward
+# 12 cm gun landed for a twin 25 mm, a No. 13 radar, a Type 93 hydrophone, three depth-charge projectors (one Type 94,
+# two Type 81), 36 charges by two of its sources. Lost: torpedoed by TILEFISH on 5 March 1945 escorting a convoy from
+# Naha to Kagoshima, beached on Suwanosejima, struck off 10 May 1945. The ceiling is the as-built 20 knots.
+max_kts: 20.0
+dives: false
+# Her log's speed words in knots, for the reckoning between her fixes (log.yml). No record read gives her own figures;
+# the escorts' doctrine ran in at 12 knots and went to 16 from 800 m (ntmj-s24:p11), taken here as the two words'. 16 is
+# within her 19-20 knots, and 12 is her class's endurance speed (2,600 nm at 12 knots; jawiki-w15, secondary).
+speeds:
+  原速: { kts: 12, basis: assumed, note: "standard speed: the doctrine's twelve knots (ntmj-s24:p11)" }
+  第一戦速: { kts: 16, basis: assumed, note: "battle speed 1: the doctrine's sixteen knots from 800 m (ntmj-s24:p11)" }
+  停止: { kts: 0, basis: reported, note: stopped }
+  曳航: { kts: null, basis: unknown, note: "under tow: no speed or course, so no reckoning until her next fix" }
+silhouette: no13-minesweeper     # class assumed: the ONI 41-42 plate (leaf 253) names the No. 13 class, six ships, and
+                                 # Nos. 17 and 18, not No. 15; Nos. 13-18 in silhouettes/silhouettes.yml
+
+map:
+  title: Minesweeper No. 15 (W-15)
+  heading: Minesweeper No. 15 (W-15) — September and November 1944
+  intro: "Every position Minesweeper No. 15 wrote in her war diaries for two convoys: TAKA-909 from Keelung to Naha in
+    September 1944, when BANG attacked it, and TAKA-206 on the night of 22-23 November 1944, when BANG, SHAD and REDFISH
+    attacked it and she hunted them with depth charges; and 5 March 1945, convoy NAKA-303, when TILEFISH torpedoed her
+    off the Tokara Islands. Transcribed from the "
+  introLink: JACAR scans
+  introEnd: . Click any point to see the page it came from.
+  periods:
+    - { n: 1, name: War diaries, dates: 19 Sep 1944 – 5 Mar 1945, area: Formosa · Sakishima Islands · Okinawa · Tokara Islands, co: "" }
+  home: [[121.0, 23.5], [130.5, 30.0]]
+  ports:
+    - { name: Keelung, lon: 121.74, lat: 25.14 }
+    - { name: Miyako (Hirara), lon: 125.28, lat: 24.80 }
+    - { name: Naha, lon: 127.67, lat: 26.21 }
