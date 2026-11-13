@@ -22,7 +22,7 @@ each is.
 
 | Subjects | Dates | Record | How complete |
 |---|---|---|---|
-| <!--n:boats-->26<!--/n--> submarines, <!--n:patrols-->35<!--/n--> war patrols | Sep 1943 – Jun 1945 | War patrol reports | USS BANG's six patrols in full (positions, dives, density layers, attack sheets); <!--n:other_boats-->25<!--/n--> other boats for one or two patrols each, positions and attack sheets |
+| <!--n:boats-->26<!--/n--> submarines, <!--n:patrols-->36<!--/n--> war patrols | Sep 1943 – Jun 1945 | War patrol reports | USS BANG's six patrols in full (positions, dives, density layers, attack sheets); <!--n:other_boats-->25<!--/n--> other boats for one or two patrols each, positions and attack sheets |
 | <!--n:ships-->23<!--/n--> surface ships | Oct 1942 – Oct 1945 | War diaries | Four ships over months (a battleship, an escort carrier, a destroyer, a destroyer escort; South Dakota's 1943 is mostly untranscribed); nineteen ships of Task Force 58 for 5 to 7 April 1945 only |
 | The Pacific submarine force | October 1944 | Its war diary | Where every boat was on 1, 15 and 31 October, and the daily log |
 | <!--n:army_units-->33<!--/n--> Army units | 1940 – 1945 | Morning reports, unit histories and journals | Changes of station only; anti-aircraft batteries and a medical detachment from North Africa to Germany, an armored division and three of its battalions, and others for shorter spans ([`army/`](army/README.md)) |

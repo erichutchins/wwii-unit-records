@@ -41,3 +41,35 @@ officers described it after the war. Her log follows it line by line (the matchi
 - **The patterns.** Her two attacks of three and two charges are small beside the doctrine's: "Small patterns were
   used on doubtful contacts. Doctrine called for maximum patterns to be dropped on contacts classified definitely as
   submarines" (p11). Her log calls the contact after the first attack "something like a submarine" (潜水艦ラシキモノ).
+
+## 5 March 1945: without her echo ranging
+
+Escorting NAKA-303 from Naha to Kagoshima, at 0833 she heard an explosion at 29-42N 129-30E and signalled that she
+was "suppressing" (制圧中); at 1000 the escorts broke off their sweep, "having found nothing of the enemy" (p16). The escorts' signal log
+(pp22-23) has the morning between: at 0800 she told the escorts her echo-ranging set's housing was leaking and needed
+repair; Taian Maru (0837) and No. 3 Taihei Maru (0838) each signalled a deterrent drop (威嚇投射), charges thrown to keep
+a submarine down rather than on a contact; Taihei Maru had swept with no contact (0841), and Taian Maru had seen a torpedo
+track near No. 3 ship but judged it to have exploded of itself (0844). At
+1044 TILEFISH's torpedo broke her stern. Battle Report No. 7's lessons give the reason the attack came in so close:
+"Because both our ship and Taian Maru had their echo-ranging sets out of order and could not use them, the enemy
+attacked extremely boldly" (本艇及太安丸ノ二隻ガ探信儀故障ニツキ使用セザルタメ極メテ大膽ニ敵ハ攻擊シ來リシ事,
+jacar:C08030608100 pp13-14). The morning's sweep was made by hydrophone and lookouts, or by the three other escorts'
+sets, if they had them (inferred; the report doesn't say).
+
+After the beaching, the Western Sea Escort Force (西海護) ordered CD-44 and No. 2 Shinto Maru out at once to her
+rescue (1203, p16), and CD-68 arrived off Kiriishi anchorage at 1330 on the 8th (p12). She was stripped of her weapons
+and gear from the 6th to the 9th, the crew watching from ashore by night (p12).
+
+Ten days later the report's summary (p25) gives no results against the enemy (戰果ナシ) and her damage as 中破,
+moderate, with four petty officers and men killed and four wounded; JANAC lists her as sunk (janac:3/p23). Its lessons
+(pp26-27) take the attack apart:
+
+- With echo ranging out, the escorts should not make a long sweep: attack at once on a torpedo track, end the sweep
+  quickly and close up on the convoy, and keep to false routes (p26, lesson 2).
+- "The enemy submarine is very likely to come inside the convoy after firing; in this attack too it is judged to have
+  attacked this ship while coming into the convoy" (p27, lesson 5).
+- On the day before the attack, entering Ōshima, the convoy met an enemy B-24, and "we think the submarine may have
+  been told of us"; she should have made large alterations and taken a false route without waiting for the slow Kashima
+  Maru to join (p27, lesson 7).
+- "That we were attacked while signalling the intention to take a false route, before carrying it out, is truly to be
+  regretted, and came from the commander's want of decision" (p27, lesson 8): her signal of 0?17 (p22).

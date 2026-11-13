@@ -16,6 +16,12 @@
   record: J02
   relation: hit
   note: The same loss as J01 (her position by cross-bearings), counted once with it
+- attack: Attack 2
+  record: J04
+  relation: hit
+  note: >-
+    The same loss as J01, counted once with it: her report's summary of the damage, 中破 (moderate), four killed and four
+    wounded, ten days after, beached. TILEFISH claimed her damaged; JANAC credits her sunk
 - attack: Attack 3
   record: J03
   relation: miss

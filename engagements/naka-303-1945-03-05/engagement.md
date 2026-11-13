@@ -3,7 +3,7 @@ title: Convoy NAKA-303 and Minesweeper No. 15, 5 March 1945
 short: NAKA-303 · 5 March 1945
 eyebrow: The Tokara Islands · a boat alone against a convoy's escort
 theater: pacific
-window: {from: 1945-03-05T00:00Z, to: 1945-03-05T09:00Z}
+window: {from: 1945-03-04T23:00Z, to: 1945-03-05T09:00Z}
 against: [jp]     # W-15 has a track of her own (her battle report), so who is ours is said, not worked out from the tracks
 participants:
   - id: tilefish

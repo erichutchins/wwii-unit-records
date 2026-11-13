@@ -71,7 +71,9 @@ ship.yml `speeds` maps each speed word to `{kts, basis, note}`: `reported` where
 `assumed` with its reason; `kts: null` for a word with no figure (曳航, under tow), from which she has no place until her next fix. From the log, the speeds and her fixes, `build_engagement.py` reckons her path inside an
 engagement's window: from each fix she runs on the last course and speed logged; at the next fix it starts again, and
 the route's note says how far off it was. It is a route of basis `reckoned`, computed, never entered by hand; helm
-orders between courses are not modelled, and a line whose time is doubtful and uncorrected takes no part.
+orders between courses are not modelled, and a line whose time is doubtful and uncorrected takes no part. She has no
+place after a fix until a course and a speed are logged (she was under way, and where she went isn't written), nor after a
+silence of more than 12 hours, until her next fix.
 
 ## An engagement (engagements/<id>/)
 
@@ -356,7 +358,7 @@ empty value means not recorded; `(inferred)` or `(secondary)` after a value labe
 | `attacked_by` | Patrols, as `<boat>/<n>` |
 | `sources` | Each `jacar:<code> pN` (or another citation) with a comment saying what it gives |
 | `route` | Its way through the nodes of the kit's `reference/lanes/lanes.yml`, in order (the one file a convoy needs from outside this repository). No lane is traced from a chart yet, so every waypoint is assumed, and each says why |
-| `voyage` | Stops and known points, Tokyo time: `at` (`YYYY-MM-DD HHMM I`, or the day), `place` (a lanes node), `event` (`sailed`, `joined`, `arrived`), `words`, `source`, `basis`, `approx` |
+| `voyage` | Stops and known points, Tokyo time: `at` (`YYYY-MM-DD HHMM I`, or the day), `place` (a lanes node), `event` (`sailed`, `joined`, `passed`, `arrived`), `words`, `source`, `basis`, `approx` |
 | `ships` | Who was in it, below |
 
 Each entry in `ships` is one ship, merchant or escort, from a record that names it in the convoy. Her own events

@@ -1,0 +1,13 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+narrative,noon,1945-08-02,1200,Y,27-52.5N,177-57.5W,rg38-74856069/p56,"Position; under way from Midway at 0827 for Saipan (ComTaskGroup 17.5 operation order 30-45). The hemisphere letter is faint; W, a day out of Midway. Crossed the 180th meridian at 2140, and 3 August was 'dropped this day from calendar'",yes,,,,,
+narrative,noon,1945-08-04,1200,M,25-45N,176-56E,rg38-74856069/p56,Position,yes,,,,,
+narrative,noon,1945-08-05,1200,M,23-43N,171-30E,rg38-74856069/p57,Position; the zone letter partly legible,yes,,,,,
+narrative,noon,1945-08-06,1200,L,21-25N,165-44E,rg38-74856069/p57,Position,yes,,,,,
+narrative,noon,1945-08-07,1200,L,20-05.5N,161-14.0E,rg38-74856069/p57,Position,yes,,,,,
+narrative,noon,1945-08-08,1200,L,19-01.2N,156-32.2E,rg38-74856069/p57,Position,yes,,,,,
+narrative,noon,1945-08-09,1200,K,18-12.5N,151-01.4E,rg38-74856069/p57,Position,yes,,,,,
+narrative,noon,1945-08-10,1200,K,17-16.8N,145-51E,rg38-74856069/p57,"Position; passed Alamagan Island eight miles abeam to port at 1543, and moored alongside USS ORION at Saipan at 0840 on the 11th (no position typed)",yes,,,,,
+narrative,noon,1945-08-14,1200,K,17-58.2N,143-13.0E,rg38-74856069/p58,"Position; under way from Saipan at 1630 on the 13th with USS TIRANTE for the lifeguard station off Sakishima Gunto (ComSubsPac Operation Order No. 197-43)",yes,,,,,
+narrative,noon,1945-08-15,1200,K,20-45.5N,138-43.9E,rg38-74856069/p58,"Position, typed 20°45.5N without the dash; TIRANTE had left for her own station at 0645",yes,,,,,
+narrative,noon,1945-08-16,1200,I,20-48.2N,133-00E,rg38-74856069/p58,Position,yes,,,,,
+narrative,noon,1945-08-17,1200,I,20-48.5N,127-02E,rg38-74856069/p58,"Position; the minutes' second figure is broken, read as 8",yes,,,,,

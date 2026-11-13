@@ -41,6 +41,10 @@
       24.3167
      ],
      [
+      129.5,
+      29.7
+     ],
+     [
       129.565,
       29.58
      ]
@@ -251,6 +255,29 @@
     "coordinates": [
      123.3167,
      24.3167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "explosion",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1945-03-04T23:33Z",
+    "lat_raw": "29-42N",
+    "lon_raw": "129-30E",
+    "local": "1945-03-05 0833(I)",
+    "page": "jacar:C08030608100 p16",
+    "note": "Her signal to Sasebo Naval District, sent 0942: at 0833, at this position, heard an explosion; no damage to the convoy (NAKA-303); suppressing (\u5236\u5727\u4e2d). At 1000 the escorts broke off the sweep, having found nothing. TILEFISH had not fired: at 0953 K (0853 I) she heard echo ranging at 29-32N 129-31E (contact 11)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129.5,
+     29.7
     ]
    }
   },

@@ -39,6 +39,23 @@
     The same loss as J01, counted once with it: her position. No latitude or longitude written; the bearings solve to
     29-34.8N 129-33.9E (computed: ships/jp-w-15/positions.csv), 4.8 nm from TILEFISH's typed attack position, which
     is her noon position (p15). TILEFISH's sheet puts the TB at 3900 yards
+- id: J04
+  source: jacar:C08030608100
+  page: p25
+  ship: Minesweeper No. 15
+  convoy: NAKA-303
+  event: status
+  date: 1945-03-05
+  zone: I
+  original: >-
+    戰果 ナシ 被害 中破 … 人員 戰死 下士官兵四名 戰傷 下士官兵四名 … 機械室中央ヨリ後半水面ニ沒ス … 擱坐後波浪ニ艦底ノ被害
+  translation: >-
+    Results: none. Damage: moderate (中破) … Men: four petty officers and men killed, four wounded … from the middle of the
+    engine room aft she went under water … after grounding, damage to her bottom from the seas
+  note: >-
+    Battle Report No. 7's summary (戰果及被害, 15 March 1945), written ten days after the attack with her beached at
+    Kiriishi anchorage, Suwanosejima. Her own reckoning is 中破, moderately damaged; JANAC lists her as sunk (J01's
+    janac). Whether she was later refloated is not in this report
 - id: J03
   source: jacar:C08030608100
   page: p11

@@ -301,6 +301,158 @@
   source: jacar:C08030607900
   page: p42
   note: The escorts' search by sectors under the senior escort, as the doctrine had it (ntmj-s24:p15); inferred
+# 5 March 1945, the morning: her signals and the escorts' to her, from Battle Report No. 7's signal file (令達報告等),
+# jacar:C08030608100 p16 (to Sasebo) and pp22-23 (the escorts' signal log, sender and addressee for each line), read on
+# the scan at 170-260 dpi. A line's time is the log's, or the time written in a signal's text
+- date: 1945-03-05
+  time: '0800'
+  zone: I
+  original: >-
+    本艇探信儀保持筒ヨリ浸水 手動ポンプニテ排水中 修理ヲ要ス
+  translation: >-
+    W-15 to all escorts: our echo-ranging set's housing is leaking; pumping out by hand; it needs repair
+  source: jacar:C08030608100
+  page: p22
+  note: >-
+    The lessons (pp13-14) give her set and Taian Maru's as out of order
+- date: 1945-03-05
+  time: '0?17'
+  zone: I
+  original: >-
+    途中ニテ豫定針路ヲ變更 僞航路ヲトル豫定
+  translation: >-
+    W-15 to all escorts: will change the planned course on the way; intend to take a false route
+  source: jacar:C08030608100
+  page: p22
+  note: >-
+    The hour figure reads 九 (0917), but the line stands between 0800 and 0837 in a log otherwise in time order, so it is left unplaced
+- date: 1945-03-05
+  time: '0833'
+  zone: I
+  event: contact_report
+  original: >-
+    〇八三三N二九度四二分E一二九度三〇分爆發音聽知 船團被害ナシ 制壓中
+  translation: >-
+    0833, 29° 42' N 129° 30' E: heard an explosion. No damage to the convoy. Suppressing
+  source: jacar:C08030608100
+  page: p16
+  note: >-
+    Signal from W-15's captain to Sasebo Naval District, originated 0845, sent 0942. TILEFISH had not yet fired; she
+    heard echo ranging at 0953 K (0853 I), about 10 miles south
+- date: 1945-03-05
+  time: '0837'
+  zone: I
+  event: charges_heard
+  original: >-
+    我威嚇投射ヲナス
+  translation: >-
+    Taian Maru to W-15: we are making a deterrent drop
+  source: jacar:C08030608100
+  page: p22
+  note: >-
+    威嚇投射: depth charges dropped to deter, not on a contact
+- date: 1945-03-05
+  time: '0838'
+  zone: I
+  event: charges_heard
+  original: >-
+    我威嚇投射ヲナス
+  translation: >-
+    No. 3 Taihei Maru to W-15: we are making a deterrent drop
+  source: jacar:C08030608100
+  page: p22
+- date: 1945-03-05
+  time: '0840'
+  zone: I
+  original: >-
+    狀況知ラセ
+  translation: >-
+    W-15 to No. 3 Taihei Maru: report the situation
+  source: jacar:C08030608100
+  page: p22
+- date: 1945-03-05
+  time: '0841'
+  zone: I
+  original: >-
+    船團ニ被害ナシ 掃蕩スルモ今ノ所感ナシ
+  translation: >-
+    No. 3 Taihei Maru to W-15: no damage to the convoy; swept, no contact so far
+  source: jacar:C08030608100
+  page: p22
+  note: >-
+    The sender's name and the second sentence are faint
+- date: 1945-03-05
+  time: '0843'
+  zone: I
+  original: >-
+    狀況知ラセ 雷跡ヲ發見セラレシヤ
+  translation: >-
+    W-15 to Taian Maru: report the situation; did you sight a torpedo track?
+  source: jacar:C08030608100
+  page: p22
+- date: 1945-03-05
+  time: '0844'
+  zone: I
+  original: >-
+    三番船附近ニ雷跡ヲ認メタルモ自爆ト推定ス
+  translation: >-
+    Taian Maru to W-15: sighted a torpedo track near No. 3 ship, but judge it exploded of itself
+  source: jacar:C08030608100
+  page: p22
+  note: >-
+    The explosion W-15 heard at 0833 (p16). TILEFISH had not fired: at 0953 K (0853 I) she heard echo ranging about 10 miles south (contact 11)
+- date: 1945-03-05
+  time: '0915'
+  zone: I
+  original: >-
+    三番船ニ續行セヨト傳ヘヨ
+  translation: >-
+    W-15 to Taian Maru: tell No. 3 ship to follow on
+  source: jacar:C08030608100
+  page: p22
+- date: 1945-03-05
+  time: '09?0'
+  zone: I
+  original: >-
+    合同スル必要ナキヤ
+  translation: >-
+    No. 3 Taihei Maru to W-15: is there no need to rejoin?
+  source: jacar:C08030608100
+  page: p23
+  note: >-
+    The minutes are faint
+- date: 1945-03-05
+  time: '092?'
+  zone: I
+  original: >-
+    其ノ必要ナシ
+  translation: >-
+    W-15 to No. 3 Taihei Maru: no need
+  source: jacar:C08030608100
+  page: p23
+- date: 1945-03-05
+  time: '0925'
+  zone: I
+  original: >-
+    元位置ニ占位セヨ
+  translation: >-
+    W-15 to No. 3 Taihei Maru: take your former station
+  source: jacar:C08030608100
+  page: p23
+- date: 1945-03-05
+  time: '1000'
+  zone: I
+  event: search
+  original: >-
+    一〇〇〇護衛艦全力ヲ以テ掃蕩スルモ敵情ヲ得ズ 掃蕩ヲ打切リ豫定ノ通リ行動ス
+  translation: >-
+    1000: the escorts swept with all their strength but found nothing of the enemy; broke off the sweep and proceeded as
+    planned
+  source: jacar:C08030608100
+  page: p16
+  note: >-
+    Signal to Sasebo, originated 1041 (sent time partly read). The sweep's courses and the ships' positions are not
+    written
 # 5 March 1945, convoy NAKA-303 (Naha to Kagoshima), torpedoed by TILEFISH: Battle Report No. 7's 経過, jacar:C08030608100
 # p9, read on the scan at 120 dpi
 - date: 1945-03-05
@@ -319,6 +471,10 @@
   source: jacar:C08030608100
   page: p9
   note: The minutes' last figure is unclear (一〇四? ); before 1043
+  time_fix: '1043'
+  fix_note: >-
+    Placed at 1043, the latest time the unclear figure allows, since the next line is 1043: for the clock only, not a
+    reading
 - date: 1945-03-05
   time: '1043'
   zone: I
