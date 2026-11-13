@@ -27,8 +27,8 @@ each is.
 | The Pacific submarine force | October 1944 | Its war diary | Where every boat was on 1, 15 and 31 October, and the daily log |
 | <!--n:army_units-->33<!--/n--> Army units | 1940 – 1945 | Morning reports, unit histories and journals | Changes of station only; anti-aircraft batteries and a medical detachment from North Africa to Germany, an armored division and three of its battalions, and others for shorter spans ([`army/`](army/README.md)) |
 | 2 Naval Construction Battalions | 1942 – 1945 | Muster rolls, history sheets, war diaries | Stations of each battalion and each part of it ([`seabees/`](seabees/README.md)) |
-| <!--n:convoys-->12<!--/n--> Japanese convoys | 1944 | Movement tables, escort diaries | Each convoy a followed submarine met: route, ships, cargo |
-| <!--n:other_ships-->1<!--/n--> Japanese ship | Sep – Nov 1944 | Her own war diaries | An escort followed through the record she kept: her written positions; her log of courses, speeds and depth-charge attacks read and still to be entered (`ships/jp-w-15`) |
+| <!--n:convoys-->12<!--/n--> Japanese convoys | 1944 – 1945 | Movement tables, escort diaries | Each convoy a followed submarine met: route, ships, cargo |
+| <!--n:other_ships-->1<!--/n--> Japanese ship | Sep 1944 – Mar 1945 | Her own war diaries and battle reports | An escort followed through the record she kept: her written positions and her log of courses, speeds and depth-charge attacks, from which her track is reckoned (`ships/jp-w-15`) |
 | <!--n:engagements-->26<!--/n--> engagements | 1943 – 1945 | Both sides' records | <!--n:engagements_pacific-->20<!--/n--> Pacific, <!--n:engagements_mediterranean-->3<!--/n--> Mediterranean, <!--n:engagements_europe-->3<!--/n--> European. The other side's record is entered for some and still to find for others; each `engagement.md` says which |
 | Twelfth Army Group's front | 6 Jun 1944 – 7 Jun 1945 | Daily situation maps | The front line on <!--n:front_days-->365<!--/n--> days; the unit symbols on <!--n:symbol_days-->98<!--/n--> ([`fronts/`](fronts/README.md)) |
 
