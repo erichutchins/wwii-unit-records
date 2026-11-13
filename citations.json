@@ -1529,7 +1529,10 @@
   "record_group": 38,
   "url": "https://catalog.archives.gov/id/134319760",
   "pages": [
-   34
+   8,
+   19,
+   34,
+   54
   ]
  },
  "134367095": {
@@ -1556,6 +1559,19 @@
    287,
    291,
    299
+  ]
+ },
+ "135938645": {
+  "title": "COMTASK-GROUP 31.3 - War Diary, 8/1-31/43",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/135938645",
+  "pages": [
+   22,
+   43,
+   70,
+   106
   ]
  },
  "139761402": {
@@ -2079,6 +2095,56 @@
   "pages": [
    858,
    925
+  ]
+ },
+ "204838420": {
+  "title": "Awase Airstrip Receiving The Finishing Touches From Rollers And Scrapters Of The 36Th Navy Construction Battalion While The Hardstands And Taxiways Are Being Made Ready To Handle The Navy Land And Carrier Base Planes By The 20Th Navy Construction Battalio (U.S. Air Force Number 63904AC)",
+  "series": "Photographs of Activities, Facilities and Personnel",
+  "series_id": 542351,
+  "record_group": 342,
+  "url": "https://catalog.archives.gov/id/204838420",
+  "pages": [
+   2
+  ]
+ },
+ "204838453": {
+  "title": "An Earthmover Of The 36Th Naval Construction Battalion, Spreading Gravel For Finishing Touches On Awase Airstrip, Okinawa, Ryukyu Retto.  29 June 1945. (U.S. Air Force Number 64349AC)",
+  "series": "Photographs of Activities, Facilities and Personnel",
+  "series_id": 542351,
+  "record_group": 342,
+  "url": "https://catalog.archives.gov/id/204838453",
+  "pages": [
+   1
+  ]
+ },
+ "204838456": {
+  "title": "Awase Airstrip As It Looked From The Control Tower On 29 June 1945.  Bulldozers, Scrapers And Rollers Of The 36Th Naval Construction Battalion Were Working To Complete The Field For Operation On 1 July 1945.  Okinawa, Ryukyu Retto. (U.S. Air Force Number B64349AC)",
+  "series": "Photographs of Activities, Facilities and Personnel",
+  "series_id": 542351,
+  "record_group": 342,
+  "url": "https://catalog.archives.gov/id/204838456",
+  "pages": [
+   1
+  ]
+ },
+ "204838471": {
+  "title": "Awase Airstrip Receiving Its Finishing Touches From Rollers And Scrapers Of The 36Th Navy Construction Battalion, While Hardstands And Taxiways Are Being Made Ready To Handle The Navy Land And Carrier Based Planes By The 20Th Navy Construction Battalion O (U.S. Air Force Number 63853AC)",
+  "series": "Photographs of Activities, Facilities and Personnel",
+  "series_id": 542351,
+  "record_group": 342,
+  "url": "https://catalog.archives.gov/id/204838471",
+  "pages": [
+   2
+  ]
+ },
+ "204838760": {
+  "title": "The Control Tower At Awase Strip As It Looked Prior To Completion By The 36Th Naval Construction Battalion On 29 June 1945.  Operation Date For This 5000 Foot Strip Was Set For 1 July 1945.  Okinawa, Ryukyu Retto. (U.S. Air Force Number A64349AC)",
+  "series": "Photographs of Activities, Facilities and Personnel",
+  "series_id": 542351,
+  "record_group": 342,
+  "url": "https://catalog.archives.gov/id/204838760",
+  "pages": [
+   1
   ]
  },
  "427178735": {

@@ -116,7 +116,7 @@ Generated (`python3 tools/fetch_station_weather.py seabees`):
 | `date` | The date the source gives for the row, ISO. For a muster-roll entry, the date of the entry (a transfer, a forwarding sheet); it shows the battalion there that day, not when it arrived |
 | `station` | The source's words, as typed or printed, abridged with `...` |
 | `place` | Key into `places.csv`; empty when the row has no position |
-| `source` | `muster` (the rolls), `wardiary` (a ship's or a command's war diary), `ncbhist` (the Historical Information sheet and the museum's chronology), `bases` (*Building the Navy's Bases*), `mcsol` (*Marines in the Central Solomons*) |
+| `source` | `muster` (the rolls), `wardiary` (a ship's or a command's war diary), `ncbhist` (the Historical Information sheet and the museum's chronology), `bases` (*Building the Navy's Bases*), `mcsol` (*Marines in the Central Solomons*), `photo` (a National Archives photograph, cited by its caption: the words typed on the print or the catalog's title are the source, and the note says whose caption it is; what the picture shows is read on the scan and stated apart) |
 | `ref` | The citation: `rg24-<file unit>/pNNNN`, `ncbhist-NNN/pN`, `bases-NN`, or a URL; several separated by `;` |
 | `assumed` | What the row assumes, if anything: `date` (the source gives only the month; the row is put on the 15th) or `place` (the source names a mail address, an island or a group, or several places; the note says where the point is drawn and why) |
 | `last_day` | `yes` when the row's date is the last day at the place (the day it sailed, or a place seen in passing): the stay doesn't run on to the next row |
