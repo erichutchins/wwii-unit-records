@@ -714,7 +714,11 @@ janac:
     footnote on the lists' pages reads "*Probable Agent": an asterisk after the agent marks a credit JANAC held as
     probable, not certain. A derived spreadsheet (Unrestricted, George Mason University, 2018,
     https://unrestricted.omeka.net/items/show/24) drops the appendix's submarine names and the marine casualties;
-    it is a finding aid only
+    it is a finding aid only. A scan of the February 1947 printing (NAVEXOS P-468) is at the Internet Archive,
+    https://archive.org/details/JapaneseNavalAndMerchantShippingLossesDuringWorldWarIiByAllCauses, without the
+    appendix or the index: chapter 3 is its pages 15-42 (printed page + 14) and chapter 4 its pages 47-115 (printed
+    page + 16, to p93 at least). Every chapter 3 and 4 page cited in records/ was checked against it (12 Nov 2026);
+    the appendix's pages (chapter 6) still rest on HyperWar's page markers
   url: https://www.ibiblio.org/hyperwar/Japan/IJN/JANAC-Losses/index.html
   cite: >-
     janac:3/p<page> (chapter 3, the chronological list of naval losses, pp. 1-28), janac:4/p<page> (chapter 4, the

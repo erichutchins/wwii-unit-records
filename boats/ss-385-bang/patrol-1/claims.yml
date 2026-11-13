@@ -3,8 +3,10 @@
   record: J03
   relation: hit
   note: >-
-    Takegawa Maru (1,930 GRT), TAMA-17; sank 2240 I (J04). BANG was then depth-charged by Harukaze. JANAC credits
-    her to BANG, not marked probable: 29 April, 1,930 tons, 19-26N 118-45E (janac:4/p58; janac:6/p3)
+    Takegawa Maru (1,930 GRT), TAMA-17; sank 2240 I (J04). BANG was then depth-charged by Harukaze
+  janac:
+    - {ship: Takegawa Maru, date: 1944-04-29, type: Cargo, tons: "1,930", lat_raw: 19-26N, lon_raw: 118-45E,
+       agent: BANG, probable: false, ref: janac:4/p58, appendix: janac:6/p3}
 - attack: Attack 2
   record: J07
   relation: miss
@@ -20,8 +22,10 @@
   relation: hit
   note: >-
     Nittatsu Maru (2,859 GRT), TAMA-17; sank about 5 minutes after the hits. BANG had identified her as a
-    10,400-ton AP. JANAC credits her to BANG, not marked probable, as cargo: 30 April, 2,859 tons, 19-11N 119-10E
-    (janac:4/p58; janac:6/p3)
+    10,400-ton AP
+  janac:
+    - {ship: Nittatsu Maru, date: 1944-04-30, type: Cargo, tons: "2,859", lat_raw: 19-11N, lon_raw: 119-10E,
+       agent: BANG, probable: false, ref: janac:4/p58, appendix: janac:6/p3}
 - attack: Attack 5
   record: J12
   relation: no_loss
@@ -31,6 +35,9 @@
     minutes after PARCHE fired her Attack 2 (0106 I). JANAC credits BANG with Kinrei Maru, as probable ("Submarine*";
     janac:4/p59; janac:6/p3); the ship's log doesn't support it. The secondary source's 0106 I (J12) was near the log's
     time. Taiyoku Maru (J20, 0237 I) is the loss that fits this attack
+  janac:
+    - {ship: Kinrei Maru, date: 1944-05-04, type: Cargo, tons: "5,947", lat_raw: 20-58N, lon_raw: 117-59E,
+       agent: BANG, probable: true, ref: janac:4/p59, appendix: janac:6/p3}
 - attack: Attack 5
   record: J15
   relation: possible
@@ -40,6 +47,11 @@
     (Daiyoku) Maru (5,244 tons) "Submarine*", probable; both 4 May at 20-48N 118-03E (janac:4/p59; janac:6/p27)
     Superseded by J20 for Taiyoku Maru: J15 and J20 describe the same loss and count once; the ships' own logs
     put Taiyoku at 0237 I and Shoryu at 0353 I (TINOSA's Patrol 6 J04), not together at "about 0300"
+  janac:
+    - {ship: Shoryu Maru, date: 1944-05-04, type: Cargo, tons: "6,475", lat_raw: 20-48N, lon_raw: 118-03E,
+       agent: PARCHE, probable: false, ref: janac:4/p59, appendix: janac:6/p27}
+    - {ship: Taiyoku Maru, date: 1944-05-04, type: Cargo, tons: "5,244", lat_raw: 20-48N, lon_raw: 118-03E,
+       agent: PARCHE, probable: true, ref: janac:4/p59, appendix: janac:6/p27}
 - attack: Attack 5
   record: J20
   relation: probable
@@ -50,3 +62,6 @@
     Against: JANAC credits Taiyoku (Daiyoku) Maru to PARCHE, as probable ("Submarine*"; janac:4/p59; janac:6/p27),
     and the secondary source (J15) agrees with JANAC. That credit is why this is probable, not hit. J11, J15 and this
     entry are one loss, counted once
+  janac:
+    - {ship: Taiyoku Maru, date: 1944-05-04, type: Cargo, tons: "5,244", lat_raw: 20-48N, lon_raw: 118-03E,
+       agent: PARCHE, probable: true, ref: janac:4/p59, appendix: janac:6/p27}

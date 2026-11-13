@@ -12,16 +12,25 @@
   note: >-
     BANG fired at one medium AK at 2332 I from 2350 yds and saw it disappear; a ship was sunk at 2337 I 3.5 nm
     away (J03) and Hozan Maru was seen torpedoed at 2339 I (J02). The US Navy chronology gives Hozan Maru to
-    REDFISH, and so does JANAC, as probable ("Submarine*"; janac:4/p76). REDFISH's report settles it for BANG: her
-    first attack was at 0104 K (0004 I), 25 minutes after Hozan Maru was seen torpedoed, and W-15 named the ship
-    sunk at 2337 I as Hozan Maru (J07). Attacks 1-3 were fired within three minutes; which of them hit is open
+    REDFISH, and so does JANAC, as probable. REDFISH's report settles it for BANG: her first attack was at 0104 K
+    (0004 I), 25 minutes after Hozan Maru was seen torpedoed, and W-15 named the ship sunk at 2337 I as Hozan Maru
+    (J07). Attacks 1-3 were fired within three minutes; which of them hit is open
+  janac:
+    - &hozan {ship: Hozan Maru, date: 1944-11-23, type: Transport, tons: "2,345", lat_raw: 24-26N, lon_raw: 122-46E,
+       agent: REDFISH, probable: true, ref: janac:4/p76}
 - attack: Attack 1
   record: J05
   relation: probable
   note: >-
     Of TAKA-206's six ships, three were sunk (Hozan, Amakusa, Sakae Maru) and three reached Funauki (J04). BANG
-    claimed four sunk and one damaged in seven attacks; the postwar credit is two (Sakae, Amakusa; janac:6/p3), both
-    marked "Submarine*", "*Probable Agent", as is Hozan Maru, credited to REDFISH (janac:4/p76)
+    claimed four sunk and one damaged in seven attacks; the postwar credit is two (Sakae, Amakusa), both probable,
+    as is Hozan Maru, credited to REDFISH
+  janac:
+    - *hozan
+    - &sakae {ship: Sakae Maru, date: 1944-11-23, type: Cargo, tons: "2,878", lat_raw: 24-12N, lon_raw: 122-53E,
+       agent: BANG, probable: true, ref: janac:4/p76, appendix: janac:6/p3}
+    - &amakusa {ship: Amakusa Maru, date: 1944-11-23, type: Passenger-Cargo, tons: "2,340", lat_raw: 24-24N, lon_raw: 122-45E,
+       agent: BANG, probable: true, ref: janac:4/p76, appendix: janac:6/p3}
 - attack: Attack 1
   record: J07
   relation: probable
@@ -29,6 +38,7 @@
     The ship sunk at 2337 I (J03) was No. 2 ship Hozan Maru (J07). BANG's Attacks 1-3 (0032-0035 K = 2332-2335 I)
     are the only attacks on TAKA-206 in the minutes before; SHAD's had been an hour earlier and missed, REDFISH's
     first came at 0004 I. Probable rather than hit only because three of BANG's attacks share the window
+  janac: [*hozan]
 - attack: Attack 1
   record: J09
   relation: probable
@@ -36,6 +46,7 @@
     The Navy's November summary has Hozan Maru sunk east of Formosa at 2337 I, five minutes after Attack 1 (2332 I),
     the same time as Manazuru's signal (J03), which it repeats; it adds no position. Probable for the same reason as
     J07: Attacks 1-3 share the window
+  janac: [*hozan]
 - attack: Attack 2
   record: J03
   relation: possible
@@ -43,19 +54,22 @@
     BANG claimed a large AK sunk ("2 Hits") at 0032-50 K, within a minute of Attack 1. W-15's signals name one ship
     sunk in those minutes, Hozan Maru (J03, J07); Amakusa Maru's own sheet adds a second (J10). Attacks 1, 2 and 3
     all fit Hozan Maru's time
+  janac: [*hozan]
 - attack: Attack 3
   record: J03
   relation: possible
   note: >-
     BANG claimed a medium AK damaged or probably sunk at 0034-50 K (one observed hit). Same window as Attacks 1-2;
     one ship sunk (Hozan Maru, J07)
+  janac: [*hozan]
 - attack: Attack 2
   record: J04
   relation: possible
   note: >-
     By 1655 I on the 23rd Sakae Maru was missing and Amakusa Maru unnamed (J04). Their own sheets, found later, put
     Amakusa Maru's loss on the 22nd by Attacks 1-3 (J10) and Sakae Maru's on the 24th, 10-15 nm north-west of the
-    night's attacks (J11); the postwar credit gives both to BANG (janac:6/p3), "probable agent"
+    night's attacks (J11); the postwar credit gives both to BANG, as probable
+  janac: [*sakae, *amakusa]
 - attack: Attack 6
   record: J04
   relation: possible
@@ -63,6 +77,7 @@
     BANG claimed a medium AK sunk at 0150-40 K (0050 I; "3 Hits"), seven minutes after REDFISH's Attack 3 hit
     (0143 K) in the same part of the convoy. Amakusa Maru's sheet puts her loss on the 22nd (J10), so not this
     attack; Sakae Maru's sheet has the 24th (J11)
+  janac: [*sakae, *amakusa]
 - attack: Attack 7
   record: J04
   relation: no_loss
@@ -79,6 +94,7 @@
     two ships went down in that window, and BANG claimed two sunk in it (Attack 1, a medium AK seen to disappear;
     Attack 2, a large AK, two hits). Which attack sank which ship is open. Probable, not hit: the sheet gives no
     time, and REDFISH's Attack 1 (0004 I on the 23rd, 24-28N 122-43E) is the next nearest
+  janac: [*amakusa]
 - attack: Attack 6
   record: J11
   relation: possible
@@ -86,4 +102,6 @@
     Sakae Maru's own sheet has her torpedoed and sunk on the 24th at 24-34N 122-3?E (J11). No attack in the kit
     falls on the 24th; BANG's Attack 6 (0050 I on the 23rd, 24-24N 122-45E, "3 Hits", a medium AK claimed sunk) and
     REDFISH's Attack 3 (0043 I, 24-27N 122-47E, one hit, seen to sink) are the claimed sinkings of that night not
-    accounted for by Hozan and Amakusa Maru. Possible only: the sheet's date and place fit neither
+    accounted for by Hozan and Amakusa Maru. Possible only: the sheet's date and place fit neither. JANAC has her
+    on the 23rd at 24-12N 122-53E, some 25-30 nm south-east of the sheet's position
+  janac: [*sakae]

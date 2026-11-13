@@ -18,9 +18,13 @@
     the bow), 2(b) a large passenger freighter sunk with a hole under the bridge (fits Miri Maru, hit under the
     bridge), and 2(c) a freighter probably sunk (no Japanese record of a third ship hit). FRUPAC relayed the
     claim as 2 AK sunk, 1 AK probably sunk. JANAC, which lists losses only, credits BANG with nothing between
-    4 May and 9 September 1944 (janac:6/p3). Both oilers were lost later, to other agents: Sarawak Maru to an Army
-    mine, 19 March 1945 (janac:4/p85), and Miri Maru (printed "Mirii") to carrier aircraft, 15 January 1945
-    (janac:4/p81)
+    4 May and 9 September 1944 (janac:6/p3). Both oilers were lost later, to other agents (below)
+  janac:
+    - {ship: Mirii Maru, date: 1945-01-15, type: Tanker, tons: "10,564", lat_raw: 22-45N, lon_raw: 120-15E,
+       agent: Navy Carrier-Based Aircraft, probable: false, ref: janac:4/p81,
+       note: "Miri Maru, printed \"Mirii\"; lost seven months after this attack, not by it"}
+    - {ship: Sarawak Maru, date: 1945-03-19, type: Tanker, tons: "5,135", lat_raw: 1-20N, lon_raw: 104-34E,
+       agent: Army Mine, probable: false, ref: janac:4/p85, note: "lost nine months after this attack, not by it"}
 - attack: Attack 3
   record: J04
   relation: miss

@@ -283,6 +283,25 @@ this attack, but another boat is credited or was attacking too), `possible`
 (times fit, but more than one attack could explain the record), or `no_loss`
 (a claimed sinking with no matching entry in the Japanese loss list).
 
+A pairing whose record is a loss carries, where JANAC lists it, `janac`: a list, one entry for each ship JANAC
+lists for that loss, whoever it credits, as printed (`janac` in SOURCES.yml). Where the record has a ship damaged
+that was lost later, the entry is JANAC's for that later loss, and its `note` says it was not this attack. Several
+pairings with one record share their entries through a YAML anchor (`- &tosei {...}`, then `janac: [*tosei]`).
+
+| Field | Meaning |
+|---|---|
+| `ship`, `date`, `type`, `tons` | As the list prints them (`type` as its "Type of Vessel"; `tons` gross for a merchant ship, standard for a warship) |
+| `lat_raw`, `lon_raw` | The list's location, as printed (`19-26N`, `118-45E`) |
+| `agent` | For a submarine's credit the boat the appendix names (`BANG`); otherwise the list's agent (`Army Mine`, `Navy Carrier-Based Aircraft`) |
+| `probable` | `true` where the list prints the agent with an asterisk ("*Probable Agent"), else `false` |
+| `ref` | The list's page: `janac:4/pN` (merchant losses) or `janac:3/pN` (naval losses) |
+| `appendix` | The appendix's page for a submarine's credit: `janac:6/pN` |
+| `note` | Ours, where needed |
+
+`build_engagement.py` checks the fields and both pages; the engagement page shows the entry as a column of its own in
+the Sources view, a postwar assessment beside the records. The pairing's `note` keeps the argument (where JANAC
+disagrees with the records, and why); the credit itself is in `janac`, not repeated in the note.
+
 ## A convoy (convoys/<id>/convoy.md)
 
 The convoy as a whole, in YAML front matter, and in the body which values are reported, secondary or inferred. An

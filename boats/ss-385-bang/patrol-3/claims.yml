@@ -29,16 +29,21 @@
   relation: hit
   note: >-
     Tokiwasan Maru (1,804 t) and Shoryu Maru (1,916 t) of convoy No. 3905, Yokosuka to Haha-jima, both sunk.
-    BANG claimed a medium AK and a medium AO (Attacks 1-2, 1616-1632 K). Secondary source only. JANAC credits
-    both to BANG, neither marked probable, both as cargo: 9 September, 1,804 and 1,916 tons, 28-53N 137-42E
-    (janac:4/p66; janac:6/p3)
+    BANG claimed a medium AK and a medium AO (Attacks 1-2, 1616-1632 K). Secondary source only
+  janac:
+    - &tokiwasan {ship: Tokiwasan Maru, date: 1944-09-09, type: Cargo, tons: "1,804", lat_raw: 28-53N, lon_raw: 137-42E,
+       agent: BANG, probable: false, ref: janac:4/p66, appendix: janac:6/p3}
+    - &shoryu {ship: Shoryu Maru, date: 1944-09-09, type: Cargo, tons: "1,916", lat_raw: 28-53N, lon_raw: 137-42E,
+       agent: BANG, probable: false, ref: janac:4/p66, appendix: janac:6/p3}
 - attack: Attack 3
   record: J02
   relation: hit
   note: >-
     No. 2 Tosei Maru (507-ton tanker) of convoy TAKA-909 sunk. BANG claimed one AK sunk and another probably
-    sunk (Attacks 3-4); the escorts claimed BANG sunk. JANAC credits her ("Tosei Maru No 2", tanker, 507 tons) to
-    BANG, not marked probable: 19 September, 24-56N 122-14E (janac:4/p68; janac:6/p3); no second ship
+    sunk (Attacks 3-4); the escorts claimed BANG sunk. JANAC lists no second ship
+  janac:
+    - &tosei {ship: Tosei Maru No 2, date: 1944-09-19, type: Tanker, tons: "507", lat_raw: 24-56N, lon_raw: 122-14E,
+       agent: BANG, probable: false, ref: janac:4/p68, appendix: janac:6/p3}
 - attack: Attack 1
   record: J03
   relation: hit
@@ -46,16 +51,19 @@
     The Japanese record of the same sinkings (J01 is the secondary account): Shoryu and Tokiwasan Maru sunk at
     1520 I, 4 minutes after BANG's first salvo. Its position, a bearing from Sumisu-jima, is about 188 nm from
     BANG's; the names and the time pair them, the place does not
+  janac: [*tokiwasan, *shoryu]
 - attack: Attack 2
   record: J03
   relation: possible
   note: Second salvo 16 minutes after the first; the Japanese record has both ships sunk at 1520 I
+  janac: [*tokiwasan, *shoryu]
 - attack: Attack 3
   record: J04
   relation: hit
   note: >-
     The summary's entry for No. 2 Tosei Maru (J04), the same report as J02, counted once with it: sunk east of Keelung
     at 0925 I, 70 minutes after BANG's first salvo (0815 I) at 24-56N 122-14.5E, about 30 nm east of Keelung
+  janac: [*tosei]
 - attack: Attack 3
   record: J08
   relation: hit
@@ -63,6 +71,7 @@
     W-15's own account of the 19th (J08): No. 7 ship Tosei Maru torpedoed at 0820 I at 24-52N 122-23E, five minutes
     after Attacks 3-4 (0815 I) and 8 nm from BANG's position. The same ship as J02 and J04, from a third report
     (W-15's, not the division's), and the only one with both a time and a place
+  janac: [*tosei]
 - attack: Attack 5
   record: J09
   relation: no_loss
