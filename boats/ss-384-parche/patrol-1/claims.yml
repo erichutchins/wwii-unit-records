@@ -24,6 +24,9 @@
     fired near that time: TINOSA was deep from 0012 until 0234 I, and BANG's only attack that night was at 0232 I.
     The secondary source (J03) and JANAC credit her to BANG, JANAC as probable ("Submarine*"; janac:4/p59), which is
     why this is probable and not hit
+  janac:
+    - {ship: Kinrei Maru, date: 1944-05-04, type: Cargo, tons: "5,947", lat_raw: 20-58N, lon_raw: 117-59E,
+       agent: BANG, probable: true, ref: janac:4/p59, appendix: janac:6/p3}
 - attack: Attack 2
   record: J04
   relation: possible
@@ -33,6 +36,9 @@
     minutes of those ships' own logs. JANAC credits Daibu (Taibu) Maru to TINOSA as probable ("Submarine*";
     janac:4/p59; janac:6/p51), whose second salvo hit an AK at 0010-53 I, an hour before. No primary record of
     Daibu Maru found. Possible either way, the time favouring PARCHE
+  janac:
+    - {ship: Taibu Maru, date: 1944-05-04, type: Cargo, tons: "6,440", lat_raw: 20-54N, lon_raw: 118-14E,
+       agent: TINOSA, probable: true, ref: janac:4/p59, appendix: janac:6/p51}
 - attack: Attack 3
   record: J07
   relation: no_loss

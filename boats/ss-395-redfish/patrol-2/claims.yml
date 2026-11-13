@@ -15,6 +15,11 @@
     lost, Amakusa Maru and Sakae Maru (J03). Their own sheets, found later, put Amakusa Maru's loss on the 22nd,
     before this attack (J12), and Sakae Maru's on the 24th, 10-15 nm north-west (J13): neither fits. JANAC gives
     both ships to BANG (janac:6/p3), "probable agent"
+  janac:
+    - {ship: Sakae Maru, date: 1944-11-23, type: Cargo, tons: "2,878", lat_raw: 24-12N, lon_raw: 122-53E,
+       agent: BANG, probable: true, ref: janac:4/p76, appendix: janac:6/p3}
+    - {ship: Amakusa Maru, date: 1944-11-23, type: Passenger-Cargo, tons: "2,340", lat_raw: 24-24N, lon_raw: 122-45E,
+       agent: BANG, probable: true, ref: janac:4/p76, appendix: janac:6/p3}
 - attack: Attack 3
   record: J03
   relation: possible

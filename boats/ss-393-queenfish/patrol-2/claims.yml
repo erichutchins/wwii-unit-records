@@ -10,6 +10,10 @@
     distance can't be checked until Shirase light is placed. JANAC credits Akitsu Maru to QUEENFISH, not marked
     probable, as an aircraft ferry: 15 November, 9,186 tons, 33-15N 128-10E (janac:4/p76; the appendix prints
     128-19E, janac:6/p32). It credits Shinyo (printed "Jinyo") to SPADEFISH, 17 November (janac:3/p18; janac:6/p45)
+  janac:
+    - {ship: Akitsu Maru, date: 1944-11-15, type: Aircraft Ferry, tons: "9,186", lat_raw: 33-15N, lon_raw: 128-10E,
+       agent: QUEENFISH, probable: false, ref: janac:4/p76, appendix: janac:6/p32,
+       note: "the appendix prints 128-19E"}
 - attack: Attack 4
   record: J02
   relation: hit
@@ -23,6 +27,11 @@
     not marked probable, with two cargo ships sunk on 8 November at 31-09N 129-38E, off western Kyushu: Keijo
     Maru (1,051 tons) and Hakko Maru (1,948 tons) (janac:4/p74; janac:6/p32). Those sinkings need a Japanese
     record from outside the division
+  janac:
+    - {ship: Keijo Maru, date: 1944-11-08, type: Cargo, tons: "1,051", lat_raw: 31-09N, lon_raw: 129-38E,
+       agent: QUEENFISH, probable: false, ref: janac:4/p74, appendix: janac:6/p32}
+    - {ship: Hakko Maru, date: 1944-11-08, type: Cargo, tons: "1,948", lat_raw: 31-09N, lon_raw: 129-38E,
+       agent: QUEENFISH, probable: false, ref: janac:4/p74, appendix: janac:6/p32}
 - attack: Attack 2
   record: J03
   relation: no_loss
@@ -30,6 +39,9 @@
     Claimed a transport and a tanker sunk on 9 November. Not in the division's loss table (see Attack 1). JANAC
     credits QUEENFISH, not marked probable, with one ship that day: Chojusan Maru, a converted gunboat of 2,131
     tons, at 31-17N 129-10E (janac:4/p74; janac:6/p32)
+  janac:
+    - {ship: Chojusan Maru, date: 1944-11-09, type: Converted Gunboat, tons: "2,131", lat_raw: 31-17N, lon_raw: 129-10E,
+       agent: QUEENFISH, probable: false, ref: janac:4/p74, appendix: janac:6/p32}
 - attack: Attack 3
   record: J03
   relation: no_loss

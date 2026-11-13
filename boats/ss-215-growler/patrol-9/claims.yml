@@ -20,6 +20,9 @@
     its position puts her where GROWLER was, not east of the channel. JANAC drew on both sides' records and cannot
     by itself settle the place. Probable, not hit, until Katori Maru's own log (not in the designated-ship
     movement tables' parts searched; japanese.yml says which) puts her at 19-09.5N 120-37E
+  janac:
+    - {ship: Katori Maru, date: 1944-06-29, type: Cargo, tons: "1,920", lat_raw: 19-09N, lon_raw: 120-27E,
+       agent: GROWLER, probable: false, ref: janac:4/p62, appendix: janac:6/p16}
 - attack: Attack 1
   record: J01
   relation: no_loss

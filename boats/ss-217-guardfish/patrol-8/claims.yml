@@ -16,10 +16,16 @@
     16th at 18-20.5N 119-42.5E; the summary has "one more ship … at midnight" (J01), and the diary five ships sunk
     before dawn on the 17th (J02), the span ending 0345 at 18-53N 119-44E, 32 nm north of this position (J03). Four
     ships claimed sunk. JANAC (secondary) credits GUARDFISH with Jinzan Maru (5,215) and Mantai Maru (5,863) on the
-    16th at 18-20N 119-42E, this sheet's position (janac:6/p18), both in the diary's six (J03, J04); THRESHER is
+    16th at 18-20N 119-42E, this sheet's position, both as probable (janac:4/p63; janac:6/p18), both in the diary's
+    six (J03, J04); THRESHER is
     credited with Sainei and Shozan Maru on the 17th (janac:6/p50), so the convoy's five are shared by two boats and
     the Japanese record does not say whose were whose. The "large tanker" claimed: none of the six is written as a
     tanker in these pages
+  janac:
+    - {ship: Jinzan Maru, date: 1944-07-16, type: Passenger-Cargo, tons: "5,215", lat_raw: 18-20N, lon_raw: 119-42E,
+       agent: GUARDFISH, probable: true, ref: janac:4/p63, appendix: janac:6/p18}
+    - {ship: Mantai Maru, date: 1944-07-16, type: Cargo, tons: "5,863", lat_raw: 18-20N, lon_raw: 119-42E,
+       agent: GUARDFISH, probable: true, ref: janac:4/p63, appendix: janac:6/p18}
 - attack: Attack 2
   record: J03
   relation: probable
@@ -29,6 +35,9 @@
     GUARDFISH with Hiyama Maru (2,838) on the 17th at 18-17N 119-50E, this sheet's position (janac:6/p18); the diary
     lists 日山丸 (2800) among the six (J03, J04). Probable, not hit: THRESHER was attacking the same convoy, and the
     record gives no ship's time
+  janac:
+    - {ship: Hiyama Maru, date: 1944-07-17, type: Cargo, tons: "2,838", lat_raw: 18-17N, lon_raw: 119-50E,
+       agent: GUARDFISH, probable: true, ref: janac:4/p63, appendix: janac:6/p18}
 - attack: Attack 4
   record: J03
   relation: possible
@@ -56,3 +65,7 @@
     with no date, place or convoy; JANAC (secondary) credits GUARDFISH with Teiryu Maru (6,550) on the 19th at 20-07N
     118-29E (janac:6/p18). Probable until a Japanese record gives her time and place: her convoy is not on the charts
     read, and the summary has no entry for her
+  janac:
+    - {ship: Teiryu Maru, date: 1944-07-19, type: Cargo, tons: "6,550", lat_raw: 20-07N, lon_raw: 118-20E,
+       agent: GUARDFISH, probable: false, ref: janac:4/p63, appendix: janac:6/p18,
+       note: "the list prints 118-20E; the appendix 118-29E"}

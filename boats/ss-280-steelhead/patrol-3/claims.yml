@@ -26,3 +26,7 @@
     began it ("from 0100 yesterday", the first of four engagements) and slowed her, but the loss can't be given to one
     attack. JANAC credits her jointly to TINOSA and STEELHEAD (janac:6/p56); ComSubPac credited STEELHEAD with a tanker
     damaged, 10,500 tons (endorsement, rg38-74851315/p37)
+  janac:
+    - {ship: Kazahaya, date: 1943-10-06, type: Tanker, tons: "8,000e", lat_raw: 10-01N, lon_raw: 148-31E,
+       agent: TINOSA and STEELHEAD, probable: false, ref: janac:4/p45, appendix: janac:6/p56,
+       note: "the list: Submarine; the appendix credits her jointly, Tinosa Steelhead"}

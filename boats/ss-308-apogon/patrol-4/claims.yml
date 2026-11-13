@@ -19,3 +19,6 @@
     five ships slightly damaged by submarines without dates (GUARDFISH Patrol 8, J07: 聖川丸, 海17, 第一小倉丸, だかあ丸,
     日永丸), none tied to this convoy. No loss for APOGON's attack in the Japanese record; whether her hits were on
     Nichiran Maru before PIRANHA's is not in it
+  janac:
+    - {ship: Nichiran Maru, date: 1944-07-12, type: Passenger-Cargo, tons: "6,504", lat_raw: 18-33N, lon_raw: 122-53E,
+       agent: PIRANHA, probable: false, ref: janac:4/p63, appendix: janac:6/p29}

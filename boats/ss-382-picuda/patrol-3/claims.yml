@@ -14,6 +14,11 @@
     18-46N 120-46E (janac:6/p29).
     The tonnage is the summary's to the ton, so JANAC's "Kotoku" is very likely J01's ?徳丸; the position is
     PICUDA's own report of the convoy, so it is her account repeated, not a Japanese position
+  janac:
+    - &kotoku {ship: Kotoku Maru, date: 1944-08-25, type: Cargo, tons: "1,943", lat_raw: 18-46N, lon_raw: 120-46E,
+       agent: PICUDA, probable: false, ref: janac:4/p65, appendix: janac:6/p29}
+    - &yunagi {ship: Yunagi, date: 1944-08-25, type: Destroyer, tons: "1,270", lat_raw: 18-46N, lon_raw: 120-46E,
+       agent: PICUDA, probable: false, ref: janac:3/p14, appendix: janac:6/p29}
 - attack: Attack 1
   record: J04
   relation: hit
@@ -32,6 +37,7 @@
     Yunagi is not settled by this entry; the escorts' and the convoy's own reports may settle it. JANAC credits
     Yunagi to PICUDA on the 25th at the same position as Kotoku Maru (janac:6/p29), which doesn't say which
     attack
+  janac: [*kotoku, *yunagi]
 - attack: Attack 3
   record: J02
   relation: no_loss
@@ -52,3 +58,8 @@
     them: JANAC gives PICUDA Awaji Maru, cargo, 1,948 tons, at 18-43N 120-52E (PICUDA's own attack position;
     janac:4/p68, janac:6/p29) and REDFISH Mizuho Maru, transport, 8,506 tons, at 18-35N 120-39E (janac:4/p68,
     janac:6/p34), about 15 nm south-west of PICUDA's attack
+  janac:
+    - {ship: Awaji Maru, date: 1944-09-21, type: Cargo, tons: "1,948", lat_raw: 18-43N, lon_raw: 120-52E,
+       agent: PICUDA, probable: false, ref: janac:4/p68, appendix: janac:6/p29}
+    - {ship: Mizuho Maru, date: 1944-09-21, type: Transport, tons: "8,506", lat_raw: 18-35N, lon_raw: 120-39E,
+       agent: REDFISH, probable: false, ref: janac:4/p68, appendix: janac:6/p34}

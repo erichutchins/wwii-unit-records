@@ -5,9 +5,10 @@
   note: >-
     BARB claimed a large AP "Aikoku Maru class" sunk, firing in four parts from 0334 to 0409 I (narrative). Gokoku
     Maru was an Aikoku Maru-class ship (secondary: combinedfleet), sunk at 0345 I on the 10th by the escort
-    division's chart, inside BARB's attack. Position not checked: Koshiki light is not placed. JANAC credits her
-    to BARB, not marked probable, as a converted light cruiser: 10 November, 10,438 tons, 33-23N 129-03E
-    (janac:4/p74; janac:6/p3)
+    division's chart, inside BARB's attack. Position not checked: Koshiki light is not placed
+  janac:
+    - {ship: Gokoku Maru, date: 1944-11-10, type: Converted Light Cruiser, tons: "10,438", lat_raw: 33-23N, lon_raw: 129-03E,
+       agent: BARB, probable: false, ref: janac:4/p74, appendix: janac:6/p3}
 - attack: Attack 1
   record: J01
   relation: hit
@@ -21,6 +22,9 @@
     BARB's sheet longitude is typed over (125 or 126) and her positions in this action are contact positions.
     JANAC credits Naruo Maru to BARB, not marked probable: 12 November, 4,823 tons, at 31-29N 125-19E, 38' of
     longitude west of the chart's 125-57E (janac:4/p75; janac:6/p3). It does not give BARB Gyokuyo Maru (J05 note)
+  janac:
+    - &naruo {ship: Naruo Maru, date: 1944-11-12, type: Cargo, tons: "4,823", lat_raw: 31-29N, lon_raw: 125-19E,
+       agent: BARB, probable: false, ref: janac:4/p75, appendix: janac:6/p3}
 - attack: Attack 3
   record: J05
   relation: probable
@@ -29,6 +33,10 @@
     has her sunk on 14 November at 31-04N 123-56E and credits SPADEFISH ("Gyukuyo" in the appendix; 5,396 tons;
     janac:4/p75; janac:6/p45). The two records may describe one ship hit on the 12th and sunk on the 14th, or
     the chart may have counted her too soon; these pages don't say which (inferred)
+  janac:
+    - &gyokuyo {ship: Gyokuyo Maru, date: 1944-11-14, type: Cargo, tons: "5,396", lat_raw: 31-04N, lon_raw: 123-56E,
+       agent: SPADEFISH, probable: false, ref: janac:4/p75, appendix: janac:6/p45,
+       note: "the appendix prints Gyukuyo"}
 - attack: Attack 2
   record: J06
   relation: possible
@@ -37,6 +45,12 @@
     escort division's chart starts the convoy's losses there. Either the hits of 0140 sank ships whose losses were
     timed later, or the claim was not borne out; these pages don't say which. JANAC credits BARB with two ships on
     this patrol, Gokoku and Naruo Maru, and nothing else between 31 August 1944 and 8 January 1945 (janac:6/p3)
+  janac:
+    - *naruo
+    - &tatsuaki {ship: Tatsuaki Maru, date: 1944-11-12, type: Cargo, tons: "2,766", lat_raw: 31-18N, lon_raw: 125-30E,
+       agent: PETO, probable: false, ref: janac:4/p75, appendix: janac:6/p28,
+       note: "the appendix prints Tatsuakiu"}
+    - *gyokuyo
 - attack: Attack 2-D
   record: J06
   relation: possible
@@ -50,6 +64,8 @@
     JANAC agrees: it credits PETO, not marked probable, with "Tatsuaki Maru" ("Tatsuakiu" in the appendix), 12
     November, 2,766 tons, 31-18N 125-30E (janac:4/p75; janac:6/p28). The name differs from the chart's Tatsuwa
     Maru; the date, the place and the convoy make her the same ship (inferred)
+  janac:
+    - *tatsuaki
 - attack: Attack 4
   record: J08
   relation: possible

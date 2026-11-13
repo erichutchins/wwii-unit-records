@@ -12,6 +12,9 @@
     attacked that convoy that morning; GUARDFISH and THRESHER were to the north (PIRANHA's p07). JANAC (secondary)
     credits PIRANHA with Nichiran Maru (6,504) on the 12th at 18-33N 122-53E, this sheet's position (janac:6/p29).
     GUARDFISH's report has her attack heard at 0848 I, about two hours after the firing
+  janac:
+    - {ship: Nichiran Maru, date: 1944-07-12, type: Passenger-Cargo, tons: "6,504", lat_raw: 18-33N, lon_raw: 122-53E,
+       agent: PIRANHA, probable: false, ref: janac:4/p63, appendix: janac:6/p29}
 - attack: Attack 2
   record: J04
   relation: hit
@@ -24,3 +27,6 @@
     AO similar to EIYO MARU"); the Japanese record has a transport carrying troops. PIRANHA had sent the convoy's
     contact report at 0132 G = 0332 I; GUARDFISH heard it at 0353 I. JANAC (secondary) credits PIRANHA with Seattle
     Maru (5,773) on the 16th at 19-26N 120-18E (janac:6/p29)
+  janac:
+    - {ship: Seattle Maru, date: 1944-07-16, type: Passenger-Cargo, tons: "5,773", lat_raw: 19-26N, lon_raw: 120-18E,
+       agent: PIRANHA, probable: true, ref: janac:4/p63, appendix: janac:6/p29}

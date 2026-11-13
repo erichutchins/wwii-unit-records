@@ -37,6 +37,10 @@
     one hit was made in the evening, against the four TINOSA's table claims for 3A, 3D and 3F. The second endorsement
     credits TINOSA with "1 AO (Type undetermined) 10,000 tons" sunk (p35); her crew called her "the OBSTINATE MARU"
     (p30)
+  janac:
+    - {ship: Kazahaya, date: 1943-10-06, type: Tanker, tons: "8,000e", lat_raw: 10-01N, lon_raw: 148-31E,
+       agent: TINOSA and STEELHEAD, probable: false, ref: janac:4/p45, appendix: janac:6/p56,
+       note: "the list: Submarine; the appendix credits her jointly, Tinosa Steelhead"}
 - attack: Attack 3D
   record: J06
   relation: probable

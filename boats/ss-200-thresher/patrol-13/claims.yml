@@ -34,3 +34,8 @@
     Sainei Maru (4,916) and Shozan Maru (2,838) on the 17th at 19-04N 119-26E, this attack's position (janac:6/p50);
     both are among the chart's six (祥山, 西寧) and in the loss list as 西寧丸 (4916) and 祥山丸 (2856) (J04), neither
     written as a tanker. JANAC chapter 4 marks the agent of both "probable" (*)
+  janac:
+    - {ship: Sainei Maru, date: 1944-07-17, type: Cargo, tons: "4,916", lat_raw: 19-04N, lon_raw: 119-26E,
+       agent: THRESHER, probable: true, ref: janac:4/p63, appendix: janac:6/p50}
+    - {ship: Shozan Maru, date: 1944-07-17, type: Cargo, tons: "2,838", lat_raw: 19-04N, lon_raw: 119-26E,
+       agent: THRESHER, probable: true, ref: janac:4/p63, appendix: janac:6/p50}
