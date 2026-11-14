@@ -3675,10 +3675,10 @@
      "ships": [
       {
        "as_typed": "Ship # 416",
-       "ship": "Ship # 416 (as typed)",
-       "status": "candidate",
-       "voyage": "16 Oct 1943: the detachment's station is \"Ship # 416\" (p0622), after the Bizerte staging area, its station since 1 Oct. 17 Oct: Agnano racecourse, Naples (p0624).",
-       "about": "The report gives no type. One candidate is HM LST-416, an American-built tank landing ship (Bethlehem-Fairfield, Baltimore) commissioned into the Royal Navy on 3 Feb 1943, but no source found puts her on the Bizerte-Naples run that October. Unconfirmed.",
+       "ship": "HM LST-416",
+       "status": "confirmed",
+       "voyage": "11 Oct 1943: \"Hq. Med. Sect. consisting of Major Bland, Capt., Rosen, and 15 enlisted men, left Staging Area Bizerte, at 4:00 P.M. Embarked on Ship # 416\" (p0617); the station is \"Ship # 416\" 11-16 Oct (p0616-p0622), and 17 Oct \"Disembarked at Pozzuoli, bivouac at Agnano Hippodromo\" (p0623-p0624). The Regimental HQ Battery sailed in the same ship and names her: \"11 Oct 43 - Aboard LST No 416 (British)\", embarked with Battery D at the Karouba dockside, Bizerte, 1620A; anchored in the harbour 12 Oct; departed 1700A 13 Oct; \"Western tip of Sicily sighted\" 14 Oct; anchored Pozzuoli harbour 1500A 15 Oct, about 250 miles (rg64-454453373/p0098-p0107). The rest of the detachment (42 EM in all, p0620) went with the battalions' batteries; which ship each section took isn't given.",
+       "about": "An American-built tank landing ship (Bethlehem-Fairfield, Baltimore) commissioned into the Royal Navy on 3 Feb 1943 under lend-lease, as HM LST-416; hence \"(British)\" in the battery's report.",
        "links": [
         "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-416.html"
        ]
@@ -3703,10 +3703,10 @@
      "arrived_by": [
       {
        "as_typed": "Ship # 416",
-       "ship": "Ship # 416 (as typed)",
-       "status": "candidate",
-       "voyage": "16 Oct 1943: the detachment's station is \"Ship # 416\" (p0622), after the Bizerte staging area, its station since 1 Oct. 17 Oct: Agnano racecourse, Naples (p0624).",
-       "about": "The report gives no type. One candidate is HM LST-416, an American-built tank landing ship (Bethlehem-Fairfield, Baltimore) commissioned into the Royal Navy on 3 Feb 1943, but no source found puts her on the Bizerte-Naples run that October. Unconfirmed.",
+       "ship": "HM LST-416",
+       "status": "confirmed",
+       "voyage": "11 Oct 1943: \"Hq. Med. Sect. consisting of Major Bland, Capt., Rosen, and 15 enlisted men, left Staging Area Bizerte, at 4:00 P.M. Embarked on Ship # 416\" (p0617); the station is \"Ship # 416\" 11-16 Oct (p0616-p0622), and 17 Oct \"Disembarked at Pozzuoli, bivouac at Agnano Hippodromo\" (p0623-p0624). The Regimental HQ Battery sailed in the same ship and names her: \"11 Oct 43 - Aboard LST No 416 (British)\", embarked with Battery D at the Karouba dockside, Bizerte, 1620A; anchored in the harbour 12 Oct; departed 1700A 13 Oct; \"Western tip of Sicily sighted\" 14 Oct; anchored Pozzuoli harbour 1500A 15 Oct, about 250 miles (rg64-454453373/p0098-p0107). The rest of the detachment (42 EM in all, p0620) went with the battalions' batteries; which ship each section took isn't given.",
+       "about": "An American-built tank landing ship (Bethlehem-Fairfield, Baltimore) commissioned into the Royal Navy on 3 Feb 1943 under lend-lease, as HM LST-416; hence \"(British)\" in the battery's report.",
        "links": [
         "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-416.html"
        ]
@@ -12533,7 +12533,20 @@
      "when": "",
      "precision": "",
      "lat": null,
-     "lon": null
+     "lon": null,
+     "ships": [
+      {
+       "as_typed": "U.S.S. LST 316",
+       "ship": "USS LST-316",
+       "status": "confirmed",
+       "voyage": "13 Oct 1943: left the Bizerte staging area 0935, boarded \"U.S.S. LST 316\" at 1400 and sailed 1920 (p0186-p0187); at sea 14 Oct (p0189); 15 Oct \"Arrived in Harbor of Bagnoli, Italy 1630. Distance traveled by water 356 miles. Anchored & quartered aboard U.S.S. LST 316 overnight\" (p0191); disembarked at Bagnoli 1030 on 16 Oct (p0193).",
+       "about": "A US Navy tank landing ship (LST-1 class), built at the New York Navy Yard and commissioned on 3 Feb 1943. She took part in the Sicily landings (July 1943), Salerno (September 1943) and Normandy (June 1944), and earned three battle stars. Sold 1946.",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-316.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
     },
     {
      "date": "1943-10-16",
@@ -12549,7 +12562,20 @@
      "place_source": "OSM Nominatim",
      "grid": "",
      "placed": "town",
-     "grid_check": null
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "U.S.S. LST 316",
+       "ship": "USS LST-316",
+       "status": "confirmed",
+       "voyage": "13 Oct 1943: left the Bizerte staging area 0935, boarded \"U.S.S. LST 316\" at 1400 and sailed 1920 (p0186-p0187); at sea 14 Oct (p0189); 15 Oct \"Arrived in Harbor of Bagnoli, Italy 1630. Distance traveled by water 356 miles. Anchored & quartered aboard U.S.S. LST 316 overnight\" (p0191); disembarked at Bagnoli 1030 on 16 Oct (p0193).",
+       "about": "A US Navy tank landing ship (LST-1 class), built at the New York Navy Yard and commissioned on 3 Feb 1943. She took part in the Sicily landings (July 1943), Salerno (September 1943) and Normandy (June 1944), and earned three battle stars. Sold 1946.",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-316.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
     },
     {
      "date": "1943-10-17",
@@ -14124,6 +14150,64 @@
    "note": "2nd Bn, 67th CA (AA). Daily forms 13 Jan - 31 Aug 1944 read on the scans (Jan-Mar as Battery H; Apr-Aug as Battery D, 894th: rolls 469125119, 474641175, 478085645, 481436282, 566195336); 1-12 Jan, 1-3 Feb and some days of Jun and Aug not read. Giving AA protection to field artillery (not named). Redesignated Battery D, 894th AAA (AW) Bn, effective 20 Mar 1944, by G.O. 42, HQ Fifth Army, 14 Mar 1944 (rg64-466430104/p0152).",
    "stations": [
     {
+     "unit": "67ca-h",
+     "date": "1943-10-13",
+     "station": "USS LST 315",
+     "place": "",
+     "offset": "",
+     "grid": "",
+     "grid_on": "",
+     "page": "rg64-454453373/p0566",
+     "source": "mr",
+     "note": "At sea from Bizerte to Naples; no position given. Record of events (p0567): \"Left Bizerte Staging Area 0900. Arrived Port of Embarkation 0915. Distance traveled 1 mile. Trucks & Personnel boarded ship 1000. Ship sailed 1700.\" 15 Oct (p0570-p0571): \"Arrived in Harbor of Bagnoli, Italy 1600. Distance traveled by water 356 miles. Anchored & quartered aboard U.S.S. L.S.T. 315 over night.\" Later months to Dec 1943 not yet entered.",
+     "when": "",
+     "precision": "",
+     "lat": null,
+     "lon": null,
+     "ships": [
+      {
+       "as_typed": "USS LST 315",
+       "ship": "USS LST-315",
+       "status": "confirmed",
+       "voyage": "13 Oct 1943: trucks and personnel boarded at 1000, the ship sailed 1700 (p0566-p0567); at sea 14 Oct (p0568-p0569); 15 Oct \"Arrived in Harbor of Bagnoli, Italy 1600. Distance traveled by water 356 miles\" (p0570-p0571).",
+       "about": "A US Navy tank landing ship (LST-1 class), commissioned in 1943, which served in the Mediterranean (Sicily, Salerno) and at Normandy.",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-315.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
+    },
+    {
+     "date": "1943-10-16",
+     "lat": 40.8173,
+     "lon": 14.167,
+     "place": "Bagnoli",
+     "offset": "",
+     "station": "Bagnoli, Italy",
+     "page": "rg64-454453373/p0572",
+     "source": "mr",
+     "note": "Landed by sea at Naples. Record of events (p0573): \"Boat docked 0800. Disembarked Port of Bagnoli, Italy 0900. Motor convoyed to Bagnoli Race Track. Arrived 1100. Distance traveled 6 miles.\" 17 Oct to Maddaloni (p0574-p0575); later months to Dec 1943 not yet entered.",
+     "place_note": "matched: Bagnoli, Municipalità 10, Coroglio, Naples, Campania, 80124, Italy",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "USS LST 315",
+       "ship": "USS LST-315",
+       "status": "confirmed",
+       "voyage": "13 Oct 1943: trucks and personnel boarded at 1000, the ship sailed 1700 (p0566-p0567); at sea 14 Oct (p0568-p0569); 15 Oct \"Arrived in Harbor of Bagnoli, Italy 1600. Distance traveled by water 356 miles\" (p0570-p0571).",
+       "about": "A US Navy tank landing ship (LST-1 class), commissioned in 1943, which served in the Mediterranean (Sicily, Salerno) and at Normandy.",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-315.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
+    },
+    {
      "date": "1944-01-13",
      "lat": 41.5114,
      "lon": 14.0625,
@@ -14859,6 +14943,38 @@
    "note": "2nd Bn, 67th CA (AA). Daily forms 1 Jan - 31 Aug 1944 read for stations (Jan-Mar as Battery F; Apr-Aug as Battery B, 894th: rolls 469125119, 474641175, 478084644, 481436282, 566195336). Redesignated Battery B, 894th AAA (AW) Bn, effective 20 Mar 1944, by G.O. 42, HQ Fifth Army, 14 Mar 1944 (rg64-466430104/p0028).",
    "stations": [
     {
+     "date": "1943-11-15",
+     "lat": 41.4834,
+     "lon": 14.0451,
+     "place": "Venafro",
+     "offset": "",
+     "station": "Venafro, Italy",
+     "page": "rg64-456842549/p0358",
+     "source": "mr",
+     "note": "November 1943: Venafro on the 15th (the earliest form read; when the battery moved there isn't entered yet). The history: protecting the road crossing at the approach to Venafro and the 1st Medium Regiment, Royal Canadian Artillery (hist894/p19).",
+     "place_note": "The town (OSM place node: Venafro, Isernia, Molise, 86079, Italy). Was 41.4608, 14.0579, the commune boundary's point, 2.7 km south-east of the town (corrected 30 Oct 2026). The town as printed on the Italy 1:50,000 sheet 161-III Venafro (ams-italy-50k/161-III) reads about 41.486, 14.043 off its margin ticks (longitudes from the meridian of Rome: gsgs-italy-card/p1) and km grid, within 0.4 km.",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
+     "date": "1943-12-04",
+     "lat": 41.4834,
+     "lon": 14.0451,
+     "place": "Venafro",
+     "offset": "",
+     "station": "Venafro, Italy",
+     "page": "rg64-459808359/p0430",
+     "source": "mr",
+     "note": "December 1943: the roll's catalog page p0430 is a PDF of many frames; this form is frame 46, its record of events frame 47. \"Venafro, Italy\" all month. The battery protected Canadian field artillery southeast of Venafro (frame 41). Earlier months not yet entered.",
+     "place_note": "The town (OSM place node: Venafro, Isernia, Molise, 86079, Italy). Was 41.4608, 14.0579, the commune boundary's point, 2.7 km south-east of the town (corrected 30 Oct 2026). The town as printed on the Italy 1:50,000 sheet 161-III Venafro (ams-italy-50k/161-III) reads about 41.486, 14.043 off its margin ticks (longitudes from the meridian of Rome: gsgs-italy-card/p1) and km grid, within 0.4 km.",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
+    {
      "date": "1944-01-01",
      "lat": 41.4834,
      "lon": 14.0451,
@@ -15406,6 +15522,108 @@
    "actions": [
     {
      "unit": "67ca-f",
+     "date": "1943-11-15",
+     "time": "2100",
+     "who": "F",
+     "kind": "casualty",
+     "result": "killed",
+     "text": "[a Pfc] killed in action result of enemy shell fire; [a Pvt] wounded in action result of enemy shell fire 2100.",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-456842549/p0358",
+     "note": "Record of events p0359; the form sends the wounded man (LW in head) to the Collecting Station, Co B, 120th Med Bn. The record names both men; the history names the man killed (hist894/p19). The German XIV Panzer Corps' artillery commander lists Venafro among his harassing-fire targets on the nights of 14/15 and the morning of 16 Nov (t314-0539/f0586, f0605); for the night of 15/16, \"supply routes and roads\", no place (f0599).",
+     "grid_on": "",
+     "lat": 41.4834,
+     "lon": 14.0451
+    },
+    {
+     "unit": "67ca-f",
+     "date": "1943-11-16",
+     "time": "0830",
+     "who": "F",
+     "kind": "casualty",
+     "result": "wounded",
+     "text": "[a Pvt] wounded in action result of enemy shell fire 0830.",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-456842549/p0360",
+     "note": "Record of events p0361; LW in hand, to the Collecting Station, Co B, 120th Med Bn. The record names the man. 3rd Pz.Gren.Div., 16 Nov: \"Eigenes Artl.-Störungsfeuer auf Höhe 670, Ceppagna und Venafro\" (t314-0539/f0603).",
+     "grid_on": "",
+     "lat": 41.4834,
+     "lon": 14.0451
+    },
+    {
+     "unit": "67ca-f",
+     "date": "1943-11-27",
+     "time": "1130",
+     "who": "F",
+     "kind": "casualty",
+     "result": "wounded",
+     "text": "No. 3 gun position shelled by enemy fire 1130, [2 Pvts] wounded in action, result of enemy shell fragments.",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-456842549/p0382",
+     "note": "Record of events p0383. The record names the men; the names in the events and on the form differ, so who was wounded is unsure.",
+     "grid_on": "",
+     "lat": 41.4834,
+     "lon": 14.0451
+    },
+    {
+     "unit": "67ca-f",
+     "date": "1943-11-28",
+     "time": "0400",
+     "who": "F",
+     "kind": "casualty",
+     "result": "wounded",
+     "text": "5th Position shelled by enemy guns, [a Pvt] wounded in action, result of shell fire 0400.",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-456842549/p0384",
+     "note": "Record of events p0385; SW right leg, to the 33rd Field Hospital. The record names the man. Arko 414's morning report of 28 Nov: own artillery engaged an enemy battery at Venafro (t314-0539/f0863).",
+     "grid_on": "",
+     "lat": 41.4834,
+     "lon": 14.0451
+    },
+    {
+     "unit": "67ca-f",
+     "date": "1943-12-04",
+     "time": "",
+     "who": "F",
+     "kind": "event",
+     "result": "",
+     "text": "In tactical positions, No. 4 Gun Section out of action river overflowing banks.",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-459808359/p0430",
+     "note": "Frame 47 of the PDF at catalog page p0430 (the 4 Dec form, frame 46). The Volturno flood of 4-5 Dec 1943: a Signal Corps photograph of 5 Dec has trucks caught in \"the raging flood waters of the Volturno River when its waters rose approximately 12 feet in four hours\" (SC 329869). The same entry records a sergeant of the battery awarded the Silver Star at 1100; the record names him.",
+     "grid_on": "",
+     "lat": 41.4834,
+     "lon": 14.0451
+    },
+    {
+     "unit": "67ca-f",
+     "date": "1943-12-05",
+     "time": "1230",
+     "who": "F",
+     "kind": "event",
+     "result": "",
+     "text": "In tactical positions. No. 4 Gun back in action 1230.",
+     "placed": "station",
+     "place": "",
+     "grid": "",
+     "page": "rg64-459808359/p0430",
+     "note": "Frame 49 of the PDF at catalog page p0430 (the 5 Dec form, frame 48).",
+     "grid_on": "",
+     "lat": 41.4834,
+     "lon": 14.0451
+    },
+    {
+     "unit": "67ca-f",
      "date": "1944-01-12",
      "time": "1500",
      "who": "F",
@@ -15548,6 +15766,80 @@
    "short": "Battery G, 67th CA",
    "note": "2nd Bn, 67th CA (AA). Daily forms 1 Jan - 31 Aug 1944 read for stations (Jan-Mar as Battery G; Apr-Aug as Battery C, 894th: rolls 469125119, 474641175, 478084644, 478085645, 481436282, 566195336). Redesignated Battery C, 894th AAA (AW) Bn, effective 20 Mar 1944, by G.O. 42, HQ Fifth Army, 14 Mar 1944 (rg64-466430104/p0094).",
    "stations": [
+    {
+     "unit": "67ca-g",
+     "date": "1943-10-13",
+     "station": "USS LST #6",
+     "place": "",
+     "offset": "",
+     "grid": "",
+     "grid_on": "",
+     "page": "rg64-454453373/p0503",
+     "source": "mr",
+     "note": "At sea from Bizerte to Naples; no position given. Record of events (p0504): \"Left bivouac area at 0930, arrived at Port of Embarkation, Port of Bizerte, Tunisia at 0945. Loaded on boat at 1130. Left Port of Embarkation at 1815; sailed on USS LST #6.\" 15 Oct (p0507-p0508): \"Arrived in harbor of Bagnoli 1645. Anchored & quartered aboard USS LST #6 over night.\"",
+     "when": "",
+     "precision": "",
+     "lat": null,
+     "lon": null,
+     "ships": [
+      {
+       "as_typed": "USS LST #6",
+       "ship": "USS LST-6",
+       "status": "confirmed",
+       "voyage": "13 Oct 1943: boarded at the port of Bizerte at 1130, sailed 1815 (p0503-p0504); at sea 14 Oct (p0505-p0506); 15 Oct \"Arrived in harbor of Bagnoli 1645. Anchored & quartered aboard USS LST #6 over night\" (p0507-p0508).",
+       "about": "A US Navy tank landing ship (LST-1 class), commissioned in 1943, which served in the Mediterranean (Sicily, Salerno) and at Normandy.",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-6.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
+    },
+    {
+     "date": "1943-10-16",
+     "lat": 40.8173,
+     "lon": 14.167,
+     "place": "Bagnoli",
+     "offset": "",
+     "station": "Bagnoli, Italy",
+     "page": "rg64-454453373/p0509",
+     "source": "mr",
+     "note": "Landed by sea at Naples. Record of events (p0510): \"Disembarked at Bagnoli 0900 & motor convoyed to Bagnoli Race Track. Distance traveled 6 miles. Arrived at bivouac area 1130.\" 17 Oct to Maddaloni (p0511-p0512); October and November not yet entered.",
+     "place_note": "matched: Bagnoli, Municipalità 10, Coroglio, Naples, Campania, 80124, Italy",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null,
+     "arrived_by": [
+      {
+       "as_typed": "USS LST #6",
+       "ship": "USS LST-6",
+       "status": "confirmed",
+       "voyage": "13 Oct 1943: boarded at the port of Bizerte at 1130, sailed 1815 (p0503-p0504); at sea 14 Oct (p0505-p0506); 15 Oct \"Arrived in harbor of Bagnoli 1645. Anchored & quartered aboard USS LST #6 over night\" (p0507-p0508).",
+       "about": "A US Navy tank landing ship (LST-1 class), commissioned in 1943, which served in the Mediterranean (Sicily, Salerno) and at Normandy.",
+       "links": [
+        "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-6.html"
+       ],
+       "silhouette": "lst1"
+      }
+     ]
+    },
+    {
+     "date": "1943-12-07",
+     "lat": 41.4686,
+     "lon": 14.1454,
+     "place": "Capriati",
+     "offset": "",
+     "station": "Capriati, Italy",
+     "page": "rg64-459808359/p0430",
+     "source": "mr",
+     "note": "December 1943: the roll's catalog page p0430 is a PDF of many frames; this form is frame 117, its record of events frame 118: \"In tactical positions giving AA protection to Capriati Valley & Capriati-Venafro Bridge. Section #1 out of action as of 5 Dec for Ordnance check ... Section #4 out of action as of 6 Dec for Ordnance check\". 9 Dec (frames 121-122): \"1st Plat reld of mission in defense of Capriati-Venafro Bridge\". Capriati from at least 2 Dec (frame 108); 12 Dec, sections back in positions in the valley (p0431). Earlier months not yet entered.",
+     "place_note": "matched: Capriati a Volturno, Caserta, Campania, 81014, Italy",
+     "place_source": "OSM Nominatim",
+     "grid": "",
+     "placed": "town",
+     "grid_check": null
+    },
     {
      "date": "1944-01-01",
      "lat": 41.4686,
@@ -20492,6 +20784,96 @@
    ],
    "note": "Rail route not in the reports, drawn as Battery C's (its row of 28 Oct 1942). Battery A entrucked at Lopcombe Corner and entrained (\"PORTSMOUTH\" as typed; Porton inferred) on 28 Oct, detraining at Gourock at 1430 on the 29th (rg64-427180737/p0519). The train (inferred; the reports don't describe it): a British troop special of compartment coaches, the British passenger car being \"designed to effect ready discharge of passengers from many compartments\" (Bykofsky and Larson, The Transportation Corps: Operations Overseas, 1957, p. 122). From the Clyde it ran on the LMS (Gourock and Greenock's lines were LMS from 1923), through junctions such as Crewe, as troop trains from the Clyde did (p. 116). Lavington was a Great Western station and Porton a Southern Railway one (Wikipedia), so the train changed companies on the way.",
    "by": "rail"
+  },
+  {
+   "unit": "67ca-med",
+   "from": "1943-10-01",
+   "to": "1943-10-17",
+   "points": [
+    [
+     9.88,
+     37.3
+    ],
+    [
+     10.6,
+     37.25
+    ],
+    [
+     11.75,
+     36.95
+    ],
+    [
+     12.05,
+     37.55
+    ],
+    [
+     12.15,
+     38.25
+    ],
+    [
+     12.9,
+     39.6
+    ],
+    [
+     13.95,
+     40.55
+    ],
+    [
+     14.16,
+     40.79
+    ]
+   ],
+   "note": "Route not in the reports, drawn approximately. The regiment sailed from Bizerte in LSTs on 13 Oct 1943 (\"Ship # 416\", rg64-454453373/p0622) and landed by Naples on the 15th; its history saw Pantelleria and then Sicily on the way and came in by the island of Nisida (hist894/p17). Drawn past Pantelleria, west of Sicily and north across the Tyrrhenian to Nisida.",
+   "by": "sea"
+  },
+  {
+   "unit": "67ca-med",
+   "from": "1944-08-21",
+   "to": "1944-09-04",
+   "points": [
+    [
+     14.26,
+     40.84
+    ],
+    [
+     14.1,
+     40.6
+    ],
+    [
+     13.0,
+     40.85
+    ],
+    [
+     10.6,
+     41.25
+    ],
+    [
+     9.6,
+     41.33
+    ],
+    [
+     9.05,
+     41.36
+    ],
+    [
+     8.4,
+     41.6
+    ],
+    [
+     7.5,
+     42.6
+    ],
+    [
+     6.75,
+     43.12
+    ],
+    [
+     6.62,
+     43.19
+    ]
+   ],
+   "note": "Route not in the reports, drawn approximately. Ferried out to the transports USS Florence Nightingale and Henry Connor in Naples harbour on 1 Sep 1944; \"The Mediterranean was stormy as the convoy plunged through the turbulent Straits of Bonifacio between Sardinia and Corsica\"; into the Gulf of St. Tropez on 4 Sep and ashore on Alpha Beach near La Croix (hist894/p32). Drawn from the harbour out of the Gulf of Naples, west through the Strait of Bonifacio and north to the gulf.",
+   "by": "sea"
   }
  ]
 }

@@ -578,3 +578,21 @@ unit,from_date,to_date,seq,lat,lon,note,by
 62ca-a,1942-10-28,1942-10-29,6,54.89,-2.93,,rail
 62ca-a,1942-10-28,1942-10-29,7,55.69,-3.68,,rail
 62ca-a,1942-10-28,1942-10-29,8,55.86,-4.258,,rail
+67ca-med,1943-10-01,1943-10-17,1,37.30,9.88,"Route not in the reports, drawn approximately. The regiment sailed from Bizerte in LSTs on 13 Oct 1943 (""Ship # 416"", rg64-454453373/p0622) and landed by Naples on the 15th; its history saw Pantelleria and then Sicily on the way and came in by the island of Nisida (hist894/p17). Drawn past Pantelleria, west of Sicily and north across the Tyrrhenian to Nisida.",sea
+67ca-med,1943-10-01,1943-10-17,2,37.25,10.6,,sea
+67ca-med,1943-10-01,1943-10-17,3,36.95,11.75,,sea
+67ca-med,1943-10-01,1943-10-17,4,37.55,12.05,,sea
+67ca-med,1943-10-01,1943-10-17,5,38.25,12.15,,sea
+67ca-med,1943-10-01,1943-10-17,6,39.6,12.9,,sea
+67ca-med,1943-10-01,1943-10-17,7,40.55,13.95,,sea
+67ca-med,1943-10-01,1943-10-17,8,40.79,14.16,,sea
+67ca-med,1944-08-21,1944-09-04,1,40.84,14.26,"Route not in the reports, drawn approximately. Ferried out to the transports USS Florence Nightingale and Henry Connor in Naples harbour on 1 Sep 1944; ""The Mediterranean was stormy as the convoy plunged through the turbulent Straits of Bonifacio between Sardinia and Corsica""; into the Gulf of St. Tropez on 4 Sep and ashore on Alpha Beach near La Croix (hist894/p32). Drawn from the harbour out of the Gulf of Naples, west through the Strait of Bonifacio and north to the gulf.",sea
+67ca-med,1944-08-21,1944-09-04,2,40.6,14.1,,sea
+67ca-med,1944-08-21,1944-09-04,3,40.85,13.0,,sea
+67ca-med,1944-08-21,1944-09-04,4,41.25,10.6,,sea
+67ca-med,1944-08-21,1944-09-04,5,41.33,9.6,,sea
+67ca-med,1944-08-21,1944-09-04,6,41.36,9.05,,sea
+67ca-med,1944-08-21,1944-09-04,7,41.6,8.4,,sea
+67ca-med,1944-08-21,1944-09-04,8,42.6,7.5,,sea
+67ca-med,1944-08-21,1944-09-04,9,43.12,6.75,,sea
+67ca-med,1944-08-21,1944-09-04,10,43.19,6.62,,sea
