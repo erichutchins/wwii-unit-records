@@ -1934,21 +1934,21 @@
   "hull": "DD-700",
   "class": "Allen M. Sumner",
   "kind": "destroyer",
-  "plain": "a destroyer of the Allen M. Sumner class, followed through her war diaries from the fast carriers' screen to the radar picket line off Okinawa and home for repairs",
-  "max_kts": 25.0,
+  "plain": "a destroyer of the Allen M. Sumner class, followed through her war diaries from her commissioning and the Queen Mary escort to the fast carriers' screen, the radar picket line off Okinawa and home for repairs",
+  "max_kts": 28.0,
   "dives": false,
   "silhouette": "sumner",
   "geojson": "ships/dd-700-haynsworth/track.geojson",
   "title": "USS Haynsworth (DD-700)",
-  "intro": "Every position USS Haynsworth reported in her war diaries: exercises out of Pearl Harbor, Task Group 38.2's strikes on Formosa, Luzon and the South China Sea, the Tokyo strikes and Iwo Jima, Okinawa and the kamikaze hit of 6 April, then Ulithi, Eniwetok and Pearl Harbor on the way to repairs at Mare Island, and after them refresher training at San Diego, training-destroyer duty out of Treasure Island and the passage back to Pearl Harbor to October 1945. Transcribed from the ",
+  "intro": "Every position USS Haynsworth reported in her war diaries: commissioning at New York, shakedown at Bermuda, the Queen Mary escort, the Panama Canal and San Pedro, exercises out of Pearl Harbor, Task Group 38.2's strikes on Formosa, Luzon and the South China Sea, the Tokyo strikes and Iwo Jima, Okinawa and the kamikaze hit of 6 April, then Ulithi, Eniwetok and Pearl Harbor on the way to repairs at Mare Island, and after them refresher training at San Diego, training-destroyer duty out of Treasure Island and the passage back to Pearl Harbor to October 1945. Transcribed from the ",
   "introLink": "National Archives scans",
   "introEnd": ". Click any point to see the page it came from.",
   "periods": [
    {
-    "dates": "1 Nov 1944 – 31 Oct 1945",
+    "dates": "22 Jun 1944 – 31 Oct 1945",
     "n": 1,
     "name": "War diaries",
-    "area": "Pearl Harbor · Formosa · South China Sea · Tokyo · Iwo Jima · Okinawa · Mare Island · San Diego · San Francisco",
+    "area": "New York · Bermuda · Panama · Pearl Harbor · Formosa · South China Sea · Tokyo · Iwo Jima · Okinawa · Mare Island · San Diego · San Francisco",
     "co": "Cdr. Robert Brodie Jr.; Cdr. S. N. Tackney; Cdr. J. E. Smith"
    }
   ],
@@ -1967,6 +1967,26 @@
     "name": "Pearl Harbor",
     "lon": -157.97,
     "lat": 21.35
+   },
+   {
+    "name": "New York",
+    "lon": -73.97,
+    "lat": 40.7
+   },
+   {
+    "name": "Bermuda",
+    "lon": -64.83,
+    "lat": 32.28
+   },
+   {
+    "name": "Balboa",
+    "lon": -79.57,
+    "lat": 8.95
+   },
+   {
+    "name": "San Pedro",
+    "lon": -118.28,
+    "lat": 33.73
    },
    {
     "name": "Ulithi",
@@ -2074,7 +2094,7 @@
     "ifPresent": true
    }
   ],
-  "heading": "USS Haynsworth (DD-700) — November 1944 to October 1945",
+  "heading": "USS Haynsworth (DD-700) — June 1944 to October 1945",
   "endText": "End of the October 1945 diary"
  },
  {

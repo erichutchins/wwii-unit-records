@@ -1,11 +1,12 @@
-# USS Haynsworth (DD-700): war diaries, November 1944 to October 1945, and where she was before
+# USS Haynsworth (DD-700): war diaries, June 1944 to October 1945
 
 `positions.csv` has the same columns as a submarine's `patrol-N/positions.csv` (`../../SCHEMA.md`), transcribed
-from the ship's twelve monthly war diaries (National Archives, Record Group 38, series 4697018; the scans download to
+from the ship's war diaries, the first covering June to October 1944 and then one a month (National Archives, Record Group 38, series 4697018; the scans download to
 the kit's cache as `nara/rg38-<id>/`):
 
 | Month | Catalog item | Pages |
 |---|---|---|
+| June to October 1944 | [78679858](https://catalog.archives.gov/id/78679858) | 21 |
 | November 1944 | [78694496](https://catalog.archives.gov/id/78694496) | 7 |
 | December 1944 | [139832917](https://catalog.archives.gov/id/139832917) | 9 |
 | January 1945 | [139846605](https://catalog.archives.gov/id/139846605) | 12 |
@@ -30,6 +31,40 @@ online only from 1957.
   between the fixes either side (shown as `~26-58N`, `assumed: true`, and labelled on the page).
   The 6 April kamikaze hit (`attack`) has no time in the diary: it is placed at 1255, after the
   1245 dog-fight and before the fires were under control (about 1300).
+- June to October 1944: one diary, catalogued as "USS HAYSWORTH - War Diary, 6/22/44 to 10/31/44" (the misspelling is
+  the catalog's; searches for Haynsworth missed it until 14 Nov 2026). Its covering letters (p01, 14 Nov 1944, June to
+  September; p13, 18 Nov 1944, October) and pages p02-p21. Zones are typed as numbers: "Time zone + 4" at commissioning
+  (Q); at Bermuda the diary types no change on arrival, but on leaving, at 1900 on 30 Aug, "Changed time zone to + 4", so
+  the Bermuda rows are written in P (+3, assumed); then + 3 (P) from 0000 on 21 Sep to 1200 on 22 Sep (the 1200 row is
+  kept in P, assumed), + 5 (R) from 0828 on 2 Oct, + 6 (S) from 0915 on 7 Oct, + 6½ (ST) on 9 Oct at a time not typed
+  (S kept for 0800 and 1200, ST from 2000, assumed), + 7 (T) 1430 on 10 Oct, + 7½ (TU) 1337 on 15 Oct, + 8 (U) 1432 on
+  16 Oct, + 8½ (UV) 1328 on 17 Oct, + 9 (V) 1434 on 18 Oct, + 9½ (VW) 1501 on 19 Oct. The story: commissioned at the New
+  York Navy Yard at 1200 on 22 Jun (Cdr. Robert Brodie Jr.); in the yard to 22 Jul; ammunition at Gravesend Bay,
+  deperming at Bayonne, Long Island Sound, and on 26 Jul structural firing tests 10 miles east of Ambrose Light Ship (the
+  1200 row is written from those words, the lightship's station and 10 nm east); shakedown at **Bermuda** from 29 Jul to
+  30 Aug (Great Sound; ASW runs on Italian and US submarines, torpedo, gunnery and bombardment exercises; the table gives
+  no positions there, so only the arrival and departure are rows); the New York yard 31 Aug to 16 Sep; ASW exercises
+  off Montauk 17-18 Sep; on **20 Sep** from Pier 35, Brooklyn, with COLLETT and S. N. MOORE (Task Group 27.7, C.T.G. in
+  COLLETT) escorting the *Queen Mary* "to M.O.M.P., speed of advance 27 knots", relieved at 1250 on 21 Sep by "British
+  Cruiser" (COLLETT's September diary, [134362270](https://catalog.archives.gov/id/134362270) p04, names her: "Effected
+  rendezvous with H. M. S. BERWICK" at 1252, the rendezvous ordered at 42-30N 60W; its fixes agree with Haynsworth's
+  within 10 nm); back to Brooklyn 23 Sep; Delaware Bay 26 Sep; with Task Group 27.3 (PASADENA, WISCONSIN, MOORE, SPERRY,
+  COLLETT, WALDRON) to Cristobal, through the **Panama Canal on 2 Oct** (0847-1305), Balboa 2-4 Oct; with T.U. 12.9.1
+  (Rear Adm. C. C. Jones in PASADENA) to San Pedro, Berth 86, 12-14 Oct (the destination changed from San Diego on the
+  way); with NORTH CAROLINA and WISCONSIN to Pearl Harbor, 20 Oct. Neither diary names Churchill; DANFS does (the ship's
+  entry, "departed New York 20 September escorting *Queen Mary* with Prime Minister Winston Churchill on board"). DANFS
+  gives the shakedown as "in the Caribbean"; her diary has Bermuda. **Typed errors**: 31 Aug 1200 27-59W → 72-59W
+  (transposed); 4 Oct 0800 80-45N → 08-45N (transposed); 5 Oct 0800 77-44N → 07-44N; 6 Oct 0800 85-26W → 89-26W (the
+  unit was steering 290 and the typed longitude is east of the night before); 16 Oct 0800 21-23N → 31-23N; 18 Oct 0800
+  37-12N → 27-12N; 19 Oct 0800 181-04W → 151-04W (each one digit, inferred from the fixes either side). Kept as typed and
+  off the track: 18 Sep 0800 41-23N (ashore in Rhode Island), 20 Sep 1200 76-31-45W (in Pennsylvania; 70 or 72 would both fit), 4 Oct 1200 90-51N 23-30W (impossible
+  in both), 2 Oct 2000 08-45N (12 nm from the pier where she was moored), and 11 Oct 1200 (0800 to 1200 is 30 kn; either
+  latitude may be wrong, and the 1200 is the one left off). 30 Aug 2000 to 31 Aug 0800 is 30 kn, inside the screen's
+  allowance, kept as typed. Table entries that are places ("Gravesend Bay", "Pier 35, Brooklyn") are not rows where the
+  narrative gives the same place with its time; "New York Harbor" and "Long Island Sound" under way are not rows. Port
+  positions (New York Navy Yard 40-42N 73-58W, Brooklyn piers 40-41N 74-00W, Gravesend Bay 40-36N 74-02W, Bayonne
+  40-40N 74-05W, Hempstead Harbor 40-50N 73-39W, Great Sound, Bermuda 32-17N 64-50W, Fort Pond Bay 41-03N 71-58W, Balboa
+  08-57N 79-34W, San Pedro 33-44N 118-17W) are standard positions, not in the diary.
 - November: the diary types no zone letter, and its only zone line, "Time zone + 4." on 1 Nov, does not fit Hawaii; VW (+9½, Hawaii war time) is written for the whole month, as in December, which types "Time Zone + 9½" at Pearl Harbor (an assumption, said on the first row). The month is exercises out of Pearl Harbor with DesDiv 123 (Kahoolawe shore bombardment, torpedo and AA drills), then repairs and fighter-director installation in the Navy Yard from 18 Nov. The table gives 0800 / 1200 / 2000 on 1 to 4, 6, 7, 9 to 13 and 16 to 18 Nov; 5, 8, 14 and 15 Nov have no table, and 19 to 30 Nov is one entry with no times, so no rows (the 5 Nov berth shift and the 14 Nov berth shift are narrative port rows). Berths in the 2000 table rows are written as port rows with the standard Pearl Harbor position. The 4 Nov 0800 position (20-30N 158-00W) repeats the 3 Nov 2000 one while the narrative has her anchored off Kahoolawe at 0706 and under way at 0718, so the table contradicts the narrative: kept as typed with `on_track=no`, no fix. The 6 Nov 0800 latitude 22-16N is 44 kn from the harbour 75 minutes after leaving the berth; 21-16N (one digit) fits the departure and the 1200 fix, so it is read in `lat_fix`. The 10 Nov table is typed the same at 0800, 1200 and 2000 (and 12 Nov 0800 repeats the 10th's) and is kept as typed, since the positions are near Kahoolawe and no speed is impossible. On 13 Nov the narrative moors at Berth K-1 at 1848 and the table's 2000 row says K-8; both are the harbour position. The 16 Nov collision with LOWRY while backing (0706), the 17 Nov drone kill (1445) and the 18 Nov order to leave the formation (1405) are `event` rows placed by interpolation.
 - December: the diary types a time zone in plain numbers ("Time Zone + 9½" for 1 to 12 Dec at Pearl Harbor, then a clock change each day at 1600 as the ship steamed west), and the letters are written from those: VW (+9½), W (+10), WX (+10½), X (+11), XY (+11½), Y (+12), then M (-12) from 2400 on 20 Dec, LM (-11½), L (-11), KL (-10½) and K (-10, 27 Dec). The diary calls each of these changes "retarded", though the ship was going west. It types no change to -9 before 1 Jan, when the January diary says "Zone description -9", so K is kept to 31 Dec. The date line is crossed at the 2400 change on 20 Dec by dropping Thursday 21 Dec: there is no 21 Dec entry, and the 22 Dec fixes follow the 20 Dec ones by 12 hours of real time. 1 to 12 Dec, 15 Dec, 28 Dec (after the 0851 entry) and 29 Dec are entries with no times and no table, so no rows. Two table positions are kept as typed with `on_track=no` and no fix, since the speeds show a digit is wrong but not which: 14 Dec 0800 (21-50N, 43 kn from the harbour) and 16 Dec 0800 (18-21N, 180 nm from the harbour 29 minutes after getting underway). The 25 Dec table is typed the same as the 24th's (the 2000 latitude 11-35N for 11-36N), though the ship was under way for Guam (the 24 Dec 2000 fix to the 26 Dec 0800 one is 15 kn), so its rows are kept as typed with `on_track=no`, as in March. The diary records no weather in December (the ship was in Hawaiian waters and then crossing the Central Pacific, not with Task Force 38 in Typhoon Cobra). 14 Dec 1840 (a change of command) and 30 Dec 1100 (joining T.G. 38.2) are `event` rows placed by interpolation. The diary's Eniwetok berths (J-6, H-2) and the Ulithi berth (111) are written with the standard harbour positions.
 - January: the diary types no zone letter, only "Zone description -9" on 1 Jan, so I (-9) is written from then to the clock change in the diary's last entry: at 0710 on 26 Jan "set all clocks ahead one hour to -10 zone time" (K from there; the 0647 and 0710 rows are typed before the change, so I). The January table runs 1 to 25 Jan (T.G. 38.2: Formosa and Luzon strikes, the Camranh Bay strike of 12 Jan, the South China Sea sweep and Hong Kong/Hainan strikes of 16 Jan, the Ballintang Channel exit on 20 Jan, Formosa and Okinawa Jima strikes of 21-22 Jan); 26 Jan has no table, only the entry into Ulithi (0647, port position) and mooring in berth 414 (1828); 27 to 31 Jan is one entry with no times, so no row. The 3 Jan 0545 "vicinity of 22 30 N, 122 50 E" is a narrative position, not a table fix, and is kept with `on_track=no`. The 12 Jan "rejoined the screen at 9907" has a 0 struck over the 9 on the scan and is written 0907. The 22 Jan 2000 to 23 Jan 0800 leg is 25.3 kn (304 nm), at the speed screen's edge, and is kept as typed.
@@ -42,7 +77,7 @@ online only from 1957.
 - Corrections: 19 Apr 0800 longitude 156-37E → 154-37E and 20 Apr 0800 longitude 170-22E →
   160-22E (both typos that put the ship 30+ kn from its neighbours); a stray `8` after
   `21-22N` on 27 Apr; `200` for 2000 on 11 Apr.
-- The speed screen is 25 kn plus 30 nm (`max_kts` in her `ship.yml`). The leg from 17 Apr 2000
+- The speed screen is 28 kn plus 30 nm (`max_kts` in her `ship.yml`; raised from 25 for the *Queen Mary* escort's 27 kn). The leg from 17 Apr 2000
   to 18 Apr 0800 averages 26 kn, just inside the tolerance; the scan reads 142-08E as typed.
 
 ## 16 February 1945: the picket boats, against the other accounts
@@ -69,23 +104,11 @@ so they can't be matched to the 80-G numbers.
 View it at `site/subject.html?s=haynsworth&view=records`. Regenerate with
 `uv run tools/check_track.py haynsworth --geojson`.
 
-## Before November 1944: no war diary found
+## The muster roll's forwarding sheets agree
 
-Commissioned 22 June 1944 (the muster roll's first sheet, `rg24-127361253/p0005`). A catalog search on 2026-10-23 (titles
-with Haynsworth and DD700; the war diaries series 4697018) finds no war diary or action report for June to
-October 1944: the first is November. What does place her is the **muster roll's forwarding sheets** (NARA
-[127361253](https://catalog.archives.gov/id/127361253), "Haynsworth (DD-700), 6/22/44-1/1/49", RG 24, 409 pages), which type the place each
-quarterly roll was forwarded from. They place the ship only to a port, and only on the day of the paperwork, so none is a row in
-`positions.csv` (the track would draw a point at a harbour for a date the ship may have left):
-
-| Roll | Forwarded | From (as typed) | Page |
-|---|---|---|---|
-| Commissioning, 22 Jun 1944 | 1 Jul 1944 | c/o Fleet Post Office, New York, N.Y. | `rg24-127361253/p0005` |
-| 30 Jun 1944 | 4 Jul 1944 | Brooklyn Navy Yard, New York, N.Y. | `rg24-127361253/p0003` |
-| 30 Sep 1944 | 11 Oct 1944 | San Pedro, California | `rg24-127361253/p0059` |
-| 31 Dec 1944 | 16 Jan 1945 | Outside Cont. U.S. | `rg24-127361253/p0111` |
-
-So she was at the New York yard at commissioning and still there on 4 July, and at San Pedro (Los Angeles harbour) around 11 October,
-three weeks before the November diary has her at Pearl Harbor. Nothing in the sheets dates the passage between (shakedown, the
-Atlantic, the Panama Canal). The rolls are crew rosters, so nothing past the forwarding sheets is read or copied here; the Reports of
-Changes name the places men were received from and sent to, a further source for dates (not read).
+The muster roll (NARA [127361253](https://catalog.archives.gov/id/127361253), RG 24) types the place each quarterly roll was
+forwarded from: c/o Fleet Post Office, New York, 1 Jul 1944 (`rg24-127361253/p0005`); Brooklyn Navy Yard, 4 Jul 1944
+(`p0003`); San Pedro, California, 11 Oct 1944 (`p0059`); "Outside Cont. U.S.", 16 Jan 1945 (`p0111`). The first diary has
+her in the New York yard on the first two dates; on the third the roll's date is a day before she reached San Pedro
+(12 Oct), so the roll was dated, or made out, on the way. The rolls are crew rosters, so nothing past the forwarding sheets
+is read or copied here.

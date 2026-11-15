@@ -6,12 +6,488 @@
    "properties": {
     "kind": "track",
     "patrol": 1,
-    "start": "1944-11-01T16:12Z",
+    "start": "1944-06-22T16:00Z",
     "end": "1945-10-31T05:30Z"
    },
    "geometry": {
     "type": "LineString",
     "coordinates": [
+     [
+      -73.9667,
+      40.7
+     ],
+     [
+      -73.9667,
+      40.7
+     ],
+     [
+      -74.0333,
+      40.6
+     ],
+     [
+      -74.0333,
+      40.6
+     ],
+     [
+      -74.0833,
+      40.6667
+     ],
+     [
+      -74.0833,
+      40.6667
+     ],
+     [
+      -73.65,
+      40.8333
+     ],
+     [
+      -73.65,
+      40.8333
+     ],
+     [
+      -73.9667,
+      40.7
+     ],
+     [
+      -73.9667,
+      40.7
+     ],
+     [
+      -73.6167,
+      40.45
+     ],
+     [
+      -74.0,
+      40.6833
+     ],
+     [
+      -74.0,
+      40.6833
+     ],
+     [
+      -71.6167,
+      39.3417
+     ],
+     [
+      -64.8333,
+      32.2833
+     ],
+     [
+      -64.8333,
+      32.2833
+     ],
+     [
+      -66.3417,
+      34.775
+     ],
+     [
+      -71.65,
+      38.9833
+     ],
+     [
+      -72.9833,
+      39.8833
+     ],
+     [
+      -73.9667,
+      40.7
+     ],
+     [
+      -73.9667,
+      40.7
+     ],
+     [
+      -74.0333,
+      40.6
+     ],
+     [
+      -74.0833,
+      40.6667
+     ],
+     [
+      -71.7,
+      41.0833
+     ],
+     [
+      -71.6333,
+      41.0
+     ],
+     [
+      -71.9667,
+      41.05
+     ],
+     [
+      -71.9667,
+      41.05
+     ],
+     [
+      -71.6333,
+      41.0
+     ],
+     [
+      -72.25,
+      40.6667
+     ],
+     [
+      -74.0,
+      40.6833
+     ],
+     [
+      -74.0,
+      40.6833
+     ],
+     [
+      -69.3125,
+      39.6833
+     ],
+     [
+      -62.7875,
+      41.4
+     ],
+     [
+      -60.5333,
+      42.1167
+     ],
+     [
+      -62.15,
+      41.5708
+     ],
+     [
+      -66.2333,
+      40.7833
+     ],
+     [
+      -67.4833,
+      40.2333
+     ],
+     [
+      -70.15,
+      39.9333
+     ],
+     [
+      -73.8917,
+      40.4833
+     ],
+     [
+      -74.0,
+      40.6833
+     ],
+     [
+      -74.0,
+      40.6833
+     ],
+     [
+      -73.6875,
+      40.1772
+     ],
+     [
+      -75.0117,
+      38.7861
+     ],
+     [
+      -74.775,
+      38.5667
+     ],
+     [
+      -72.9667,
+      37.2
+     ],
+     [
+      -73.0333,
+      33.85
+     ],
+     [
+      -73.3333,
+      32.7167
+     ],
+     [
+      -73.7333,
+      30.625
+     ],
+     [
+      -74.45,
+      27.15
+     ],
+     [
+      -74.5667,
+      26.2333
+     ],
+     [
+      -74.0833,
+      24.2
+     ],
+     [
+      -74.3833,
+      21.0167
+     ],
+     [
+      -74.1333,
+      20.0333
+     ],
+     [
+      -75.3,
+      18.1333
+     ],
+     [
+      -76.65,
+      14.9167
+     ],
+     [
+      -77.1,
+      13.8833
+     ],
+     [
+      -78.2333,
+      11.9667
+     ],
+     [
+      -79.9167,
+      9.3667
+     ],
+     [
+      -79.6,
+      9.0
+     ],
+     [
+      -79.5667,
+      8.95
+     ],
+     [
+      -79.5667,
+      8.95
+     ],
+     [
+      -79.4667,
+      8.75
+     ],
+     [
+      -80.5,
+      7.0833
+     ],
+     [
+      -83.4333,
+      7.7333
+     ],
+     [
+      -84.45,
+      8.2
+     ],
+     [
+      -86.4167,
+      9.1
+     ],
+     [
+      -89.4333,
+      10.3667
+     ],
+     [
+      -90.3333,
+      10.9
+     ],
+     [
+      -92.4667,
+      11.8
+     ],
+     [
+      -95.4,
+      13.1833
+     ],
+     [
+      -96.8167,
+      13.8
+     ],
+     [
+      -98.7833,
+      14.6167
+     ],
+     [
+      -102.15,
+      16.1167
+     ],
+     [
+      -102.7167,
+      16.5167
+     ],
+     [
+      -104.65,
+      17.3667
+     ],
+     [
+      -107.2833,
+      19.3667
+     ],
+     [
+      -108.2333,
+      20.0333
+     ],
+     [
+      -109.7833,
+      21.3
+     ],
+     [
+      -112.55,
+      23.2333
+     ],
+     [
+      -113.4167,
+      23.85
+     ],
+     [
+      -114.95,
+      23.5
+     ],
+     [
+      -116.8333,
+      26.9333
+     ],
+     [
+      -117.5,
+      30.9
+     ],
+     [
+      -118.4167,
+      33.6333
+     ],
+     [
+      -118.2833,
+      33.7333
+     ],
+     [
+      -118.2833,
+      33.7333
+     ],
+     [
+      -119.5,
+      33.6
+     ],
+     [
+      -123.3167,
+      33.2833
+     ],
+     [
+      -124.3167,
+      32.8833
+     ],
+     [
+      -127.05,
+      32.2333
+     ],
+     [
+      -130.6667,
+      31.3833
+     ],
+     [
+      -131.65,
+      31.25
+     ],
+     [
+      -134.1833,
+      30.6
+     ],
+     [
+      -137.6333,
+      29.6667
+     ],
+     [
+      -138.7333,
+      29.3667
+     ],
+     [
+      -141.0167,
+      28.5
+     ],
+     [
+      -144.05,
+      27.2
+     ],
+     [
+      -145.0833,
+      26.8833
+     ],
+     [
+      -147.6333,
+      25.9167
+     ],
+     [
+      -151.0667,
+      24.5167
+     ],
+     [
+      -152.05,
+      23.9833
+     ],
+     [
+      -154.6667,
+      22.9
+     ],
+     [
+      -157.7,
+      20.8333
+     ],
+     [
+      -157.0833,
+      20.5833
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.3
+     ],
+     [
+      -158.0,
+      21.1667
+     ],
+     [
+      -158.3,
+      20.4333
+     ],
+     [
+      -158.1667,
+      20.4833
+     ],
+     [
+      -158.5,
+      19.8
+     ],
+     [
+      -158.1333,
+      20.45
+     ],
+     [
+      -158.1,
+      20.4333
+     ],
+     [
+      -157.95,
+      20.4
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
+     [
+      -157.95,
+      21.2833
+     ],
+     [
+      -158.1667,
+      20.75
+     ],
+     [
+      -157.9667,
+      21.35
+     ],
      [
       -157.9667,
       21.35
@@ -2452,6 +2928,2986 @@
       -158.1625,
       21.2375
      ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "commissioned Navy Yard New York",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-06-22T16:00Z",
+    "lat_raw": "40-42N",
+    "lon_raw": "73-58W",
+    "local": "1944-06-22 1200(Q)",
+    "page": "rg38-78679858/p02",
+    "note": "\"Ship placed in commission at the Navy Yard, New York, N. Y.\" ... \"Time zone + 4.\" (Q). 23 to 30 Jun and 1 to 22 Jul: \"At Navy Yard, New York, N. Y. undergoing Navy Yard availability\", no times, so no rows (port position)",
+    "fix": "New York Navy Yard coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9667,
+     40.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Navy Yard",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-23T11:00Z",
+    "lat_raw": "40-42N",
+    "lon_raw": "73-58W",
+    "local": "1944-07-23 0700(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Underway for Gravesend Bay, N. Y.\" The table gives places, not coordinates, on 23 to 26 Jul (port position)",
+    "fix": "New York Navy Yard coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9667,
+     40.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "anchor Gravesend Bay",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-23T12:20Z",
+    "lat_raw": "40-36N",
+    "lon_raw": "74-02W",
+    "local": "1944-07-23 0820(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Anchored in Gravesend Bay to pick up ammunition\" (port position)",
+    "fix": "Gravesend Bay coordinates are not in the diary; standard anchorage position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0333,
+     40.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Gravesend Bay",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-23T21:28Z",
+    "lat_raw": "40-36N",
+    "lon_raw": "74-02W",
+    "local": "1944-07-23 1728(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Underway from anchorage - proceeding to deperning Station, Bayonne, N. J.\" (port position)",
+    "fix": "Gravesend Bay coordinates are not in the diary; standard anchorage position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0333,
+     40.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor deperming station Bayonne",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-23T22:20Z",
+    "lat_raw": "40-40N",
+    "lon_raw": "74-05W",
+    "local": "1944-07-23 1820(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Moored port side to deperning station, Bayonne, N. J. and underwent deperning operations\" (port position)",
+    "fix": "Bayonne coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0833,
+     40.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Bayonne",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-24T11:00Z",
+    "lat_raw": "40-40N",
+    "lon_raw": "74-05W",
+    "local": "1944-07-24 0700(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Underway from Bayonne, N. J. for Long Island Sound.\" Table: 0800 \"New York Harbor, N. Y.\", 1200 \"Long Island Sound\" (no rows: not a place a position can be written for) (port position)",
+    "fix": "Bayonne coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0833,
+     40.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "anchor Hempstead Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-24T21:40Z",
+    "lat_raw": "40-50N",
+    "lon_raw": "73-39W",
+    "local": "1944-07-24 1740(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Anchored in Hempstead Harbor in 32 feet of water\" (port position)",
+    "fix": "Hempstead Harbor coordinates are not in the diary; standard anchorage position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.65,
+     40.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Hempstead Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-25T11:18Z",
+    "lat_raw": "40-50N",
+    "lon_raw": "73-39W",
+    "local": "1944-07-25 0718(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Underway from anchorage enroute to Navy Yard, N. Y.\" (port position)",
+    "fix": "Hempstead Harbor coordinates are not in the diary; standard anchorage position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.65,
+     40.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Pier J Navy Yard",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-25T16:57Z",
+    "lat_raw": "40-42N",
+    "lon_raw": "73-58W",
+    "local": "1944-07-25 1257(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Moored starboard side to Pier J, Navy Yard, N. Y.\" (port position)",
+    "fix": "New York Navy Yard coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9667,
+     40.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Navy Yard",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-26T12:03Z",
+    "lat_raw": "40-42N",
+    "lon_raw": "73-58W",
+    "local": "1944-07-26 0803(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Underway to a point 10 miles East of Ambrose Light Ship to make structural firing tests\" (port position)",
+    "fix": "New York Navy Yard coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9667,
+     40.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-26T16:00Z",
+    "lat_raw": "40-27N",
+    "lon_raw": "73-37W",
+    "local": "1944-07-26 1200(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "Table: \"10 miles east of Ambrose Light Ship.\" Written from the lightship's station, 40-27N 73-50W, and 10 nm east; not typed as coordinates",
+    "fix": "position written from the table's words: Ambrose Lightship's station and 10 nm east"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6167,
+     40.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "structural firing tests",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-07-26T16:35Z",
+    "lat_raw": "~40-28N",
+    "lon_raw": "~73-39W",
+    "local": "1944-07-26 1235(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Commenced structural firing tests.\" 1410: \"Completed all firing and proceded to Brooklyn, N. Y.\" The Navy photograph 80-G-237627 of her under way is dated this day",
+    "fix": "position assumed: interpolated between the 26 Jul 1600Z and 26 Jul 2149Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.655,
+     40.4735
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Pier 33 Brooklyn",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-26T21:49Z",
+    "lat_raw": "40-41N",
+    "lon_raw": "74-00W",
+    "local": "1944-07-26 1749(Q)",
+    "page": "rg38-78679858/p03",
+    "note": "\"Moored port side to Pier #33, Brooklyn, N. Y.\" (port position)",
+    "fix": "Brooklyn piers' coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     40.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway for Bermuda",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-27T14:30Z",
+    "lat_raw": "40-41N",
+    "lon_raw": "74-00W",
+    "local": "1944-07-27 1030(Q)",
+    "page": "rg38-78679858/p04",
+    "note": "\"Underway for Bermuda, B.W.I. for shakedown operations\" (port position)",
+    "fix": "Brooklyn piers' coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     40.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "40 mm mounts test fired",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-07-27T18:42Z",
+    "lat_raw": "~40-06N",
+    "lon_raw": "~72-56W",
+    "local": "1944-07-27 1442(Q)",
+    "page": "rg38-78679858/p04",
+    "note": "\"Test fired 40 MM mounts #41 and #42. Expended 39 rounds of service ammunition\"",
+    "fix": "position assumed: interpolated between the 27 Jul 1430Z and 28 Jul 0000Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9347,
+     40.0962
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-28T00:00Z",
+    "lat_raw": "39-20.5N",
+    "lon_raw": "71-37W",
+    "local": "1944-07-27 2000(Q)",
+    "page": "rg38-78679858/p04",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6167,
+     39.3417
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Great Sound Bermuda",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-07-29T18:03Z",
+    "lat_raw": "32-17N",
+    "lon_raw": "64-50W",
+    "local": "1944-07-29 1503(P)",
+    "page": "rg38-78679858/p04",
+    "note": "\"Moored alongside U.S.S. ALTAIR in Great Sound Bay, Bermuda, B.W.I.\" Zone P (+3) assumed for the month at Bermuda: the diary types no change on arrival, but \"Changed time zone to + 4\" on leaving (30 Aug). 30 Jul to 29 Aug she exercised daily from Great Sound (ASW runs on the Italian submarines DAUDOLO and MEMOLA, the US R-1 and R-6, torpedo, gunnery and shore bombardment exercises with HYMAN, MADDOX, AULT, S. N. MOORE and others) and anchored or moored there each evening; the table gives no positions, so no rows (port position)",
+    "fix": "Great Sound coordinates are not in the diary; standard anchorage position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.8333,
+     32.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway from Bermuda",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-08-30T14:37Z",
+    "lat_raw": "32-17N",
+    "lon_raw": "64-50W",
+    "local": "1944-08-30 1137(P)",
+    "page": "rg38-78679858/p08",
+    "note": "\"Underway for New York by authority C.T.G. 23.1 dispatch 291353 of August 1944.\" 0900: \"Captain MADEIRAS, C.T.G. 23.1 made final personnel inspection prior to ships departure from shakedown area\" (port position)",
+    "fix": "Great Sound coordinates are not in the diary; standard anchorage position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.8333,
+     32.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-08-31T00:00Z",
+    "lat_raw": "34-46.5N",
+    "lon_raw": "66-20.5W",
+    "local": "1944-08-30 2000(Q)",
+    "page": "rg38-78679858/p08",
+    "note": "\"1900 Changed time zone to + 4\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.3417,
+     34.775
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-08-31T12:00Z",
+    "lat_raw": "38-59N",
+    "lon_raw": "71-39W",
+    "local": "1944-08-31 0800(Q)",
+    "page": "rg38-78679858/p09",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.65,
+     38.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-08-31T16:00Z",
+    "lat_raw": "39-53N",
+    "lon_raw": "72-59W",
+    "typed": "39-53N 27-59W",
+    "local": "1944-08-31 1200(Q)",
+    "page": "rg38-78679858/p09",
+    "note": "",
+    "fix": "typed 27-59W, an ocean away; 72-59W (two digits transposed) lies between the 0800 fix and New York at 17 kn, so read in lon_fix (inferred)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9833,
+     39.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Pier G Navy Yard",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-08-31T20:35Z",
+    "lat_raw": "40-42N",
+    "lon_raw": "73-58W",
+    "local": "1944-08-31 1635(Q)",
+    "page": "rg38-78679858/p09",
+    "note": "\"Moored portside to Pier G, Berth 12, Navy Yard, New York, N. Y.\" The 2000 table row types 40-42N 74-00W. 1 to 15 Sep: \"At Navy Yard, New York, N. Y. undergoing regular post shakedown Navy Yard availability. Time Zone + 4\", no rows (port position)",
+    "fix": "New York Navy Yard coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9667,
+     40.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Navy Yard",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-16T14:17Z",
+    "lat_raw": "40-42N",
+    "lon_raw": "73-58W",
+    "local": "1944-09-16 1017(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"Underway for anchorage at Gravesend Bay, N. Y. to receive ammunition\" (port position)",
+    "fix": "New York Navy Yard coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9667,
+     40.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "anchor Gravesend Bay",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-16T15:18Z",
+    "lat_raw": "40-36N",
+    "lon_raw": "74-02W",
+    "local": "1944-09-16 1118(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"Anchored in Gravesend, Bay, N. Y. and received full complement of ammunition\" (port position)",
+    "fix": "Gravesend Bay coordinates are not in the diary; standard anchorage position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0333,
+     40.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor deperming station Bayonne",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-16T19:20Z",
+    "lat_raw": "40-40N",
+    "lon_raw": "74-05W",
+    "local": "1944-09-16 1520(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"Moored port side to dock at deperning station, Bayonne, N. J.\" (1437 underway from Gravesend Bay); 1710 \"Underway for Long Island Sound\" (port position)",
+    "fix": "Bayonne coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0833,
+     40.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-17T12:00Z",
+    "lat_raw": "41-05N",
+    "lon_raw": "71-42W",
+    "local": "1944-09-17 0800(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"Enroute to Submarine practice area off Montauk Point\"; 0805 with Cor Div 20 (DEs 250, 251, 253) and the French submarine ARGO",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.7,
+     41.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-17T16:00Z",
+    "lat_raw": "41-00N",
+    "lon_raw": "71-38W",
+    "local": "1944-09-17 1200(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6333,
+     41.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "anchor Fort Pond Bay",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-17T22:52Z",
+    "lat_raw": "41-03N",
+    "lon_raw": "71-58W",
+    "local": "1944-09-17 1852(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"Anchored in Fort Pond Bay, New York\" (port position)",
+    "fix": "Fort Pond Bay coordinates are not in the diary; standard anchorage position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9667,
+     41.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Fort Pond Bay",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-18T11:06Z",
+    "lat_raw": "41-03N",
+    "lon_raw": "71-58W",
+    "local": "1944-09-18 0706(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"Underway for practice areas\" (port position)",
+    "fix": "Fort Pond Bay coordinates are not in the diary; standard anchorage position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9667,
+     41.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-09-18T12:00Z",
+    "lat_raw": "41-23N",
+    "lon_raw": "71-45W",
+    "local": "1944-09-18 0800(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "",
+    "fix": "typed 41-23N, ashore in Rhode Island 54 minutes after she left Fort Pond Bay; 41-13N would fit, but other digits could too, so kept as typed, off the track"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.75,
+     41.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-18T16:00Z",
+    "lat_raw": "41-00N",
+    "lon_raw": "71-38W",
+    "local": "1944-09-18 1200(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6333,
+     41.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-19T00:00Z",
+    "lat_raw": "40-40N",
+    "lon_raw": "72-15W",
+    "local": "1944-09-18 2000(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"1800 Enroute operating area to New York City\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.25,
+     40.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Pier 35 Brooklyn",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-19T11:20Z",
+    "lat_raw": "40-41N",
+    "lon_raw": "74-00W",
+    "local": "1944-09-19 0720(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"Moored starboard side to Pier 35, Brooklyn, N.Y.\" (port position)",
+    "fix": "Brooklyn piers' coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     40.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway to escort Queen Mary",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-20T12:54Z",
+    "lat_raw": "40-41N",
+    "lon_raw": "74-00W",
+    "local": "1944-09-20 0854(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"Underway to escort SS Queen Mary to MOMP\" (the Mid-Ocean Meeting Point) (port position)",
+    "fix": "Brooklyn piers' coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     40.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Queen Mary escort",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-09-20T15:13Z",
+    "lat_raw": "~40-29N",
+    "lon_raw": "~73-01W",
+    "local": "1944-09-20 1113(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "\"Started with U.S.S. COLLETT (DD730), U.S.S. S. N. MOORE (DD742) and S.S. Queen Mary\"",
+    "fix": "position assumed: interpolated between the 20 Sep 1254Z and 21 Sep 0000Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0104,
+     40.4903
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-09-20T16:00Z",
+    "lat_raw": "40-04-15N",
+    "lon_raw": "76-31-45W",
+    "local": "1944-09-20 1200(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "",
+    "fix": "typed 76-31-45W, in Pennsylvania; 70 or 72 for 76 would both put her at sea, and which can't be told, so kept as typed, off the track"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.5292,
+     40.0708
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-21T00:00Z",
+    "lat_raw": "39-41N",
+    "lon_raw": "69-18-45W",
+    "local": "1944-09-20 2000(Q)",
+    "page": "rg38-78679858/p10",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.3125,
+     39.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-21T11:00Z",
+    "lat_raw": "41-24N",
+    "lon_raw": "62-47-15W",
+    "local": "1944-09-21 0800(P)",
+    "page": "rg38-78679858/p11",
+    "note": "\"0000 Changed zone description to + 3.\" Task Group 27.7 (COLLETTE [sic], HAYNSWORTH, S. N. MOORE; C.T.G. 27.7 in COLLETT) \"escorting S. S. Queen Mary to M.O.M.P., speed of advance 27 knots\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.7875,
+     41.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-21T15:00Z",
+    "lat_raw": "42-07N",
+    "lon_raw": "60-32W",
+    "local": "1944-09-21 1200(P)",
+    "page": "rg38-78679858/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.5333,
+     42.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Queen Mary escort relieved",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-09-21T15:50Z",
+    "lat_raw": "~42-04N",
+    "lon_raw": "~60-42W",
+    "local": "1944-09-21 1250(P)",
+    "page": "rg38-78679858/p11",
+    "note": "\"1239 Sighted British Cruiser. 1250 Task group 27.7 relieved of escort of S. S. Queen Mary by British Cruiser and started back to New York\"",
+    "fix": "position assumed: interpolated between the 21 Sep 1500Z and 21 Sep 2300Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.703,
+     42.0609
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-21T23:00Z",
+    "lat_raw": "41-34-15N",
+    "lon_raw": "62-09W",
+    "local": "1944-09-21 2000(P)",
+    "page": "rg38-78679858/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.15,
+     41.5708
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-22T11:00Z",
+    "lat_raw": "40-47N",
+    "lon_raw": "66-14W",
+    "local": "1944-09-22 0800(P)",
+    "page": "rg38-78679858/p11",
+    "note": "\"0000 MOORE detached from T.G. 27.7 and proceded independently to Boston\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.2333,
+     40.7833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-22T15:00Z",
+    "lat_raw": "40-14N",
+    "lon_raw": "67-29W",
+    "local": "1944-09-22 1200(P)",
+    "page": "rg38-78679858/p11",
+    "note": "\"1200 Changed Z. D. to + 4\": the 1200 row is kept in P, the zone before the change (assumed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.4833,
+     40.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-23T00:00Z",
+    "lat_raw": "39-56N",
+    "lon_raw": "70-09W",
+    "local": "1944-09-22 2000(Q)",
+    "page": "rg38-78679858/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.15,
+     39.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-23T12:00Z",
+    "lat_raw": "40-29N",
+    "lon_raw": "73-53-30W",
+    "local": "1944-09-23 0800(Q)",
+    "page": "rg38-78679858/p11",
+    "note": "Table 1200 \"New York Harbor\", 2000 \"Pier 35, Brooklyn\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8917,
+     40.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Pier 35 Brooklyn",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-23T14:03Z",
+    "lat_raw": "40-41N",
+    "lon_raw": "74-00W",
+    "local": "1944-09-23 1003(Q)",
+    "page": "rg38-78679858/p11",
+    "note": "\"Moored to North side Pier 35, Brooklyn, N. Y.\"; 24 and 25 Sep there \"taking on fuel and supplies\" (port position)",
+    "fix": "Brooklyn piers' coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     40.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway for Delaware Bay",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-25T21:00Z",
+    "lat_raw": "40-41N",
+    "lon_raw": "74-00W",
+    "local": "1944-09-25 1700(Q)",
+    "page": "rg38-78679858/p11",
+    "note": "\"Underway for Delaware Bay with U.S.S. COLLETTE - HAYNSWORTH is O.T.C.\" (port position)",
+    "fix": "Brooklyn piers' coordinates are not in the diary; standard position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     40.6833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-26T00:00Z",
+    "lat_raw": "40-10-38N",
+    "lon_raw": "73-41-15W",
+    "local": "1944-09-25 2000(Q)",
+    "page": "rg38-78679858/p11",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6875,
+     40.1772
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-26T12:00Z",
+    "lat_raw": "38-47-10N",
+    "lon_raw": "75-00-42W",
+    "local": "1944-09-26 0800(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "\"0804 Anchored in Delaware Bay\"; 27 Sep 0800 table \"Delaware Bay\" (no row: the same anchorage)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.0117,
+     38.7861
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-27T16:00Z",
+    "lat_raw": "38-34N",
+    "lon_raw": "74-46-30W",
+    "local": "1944-09-27 1200(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "\"Underway for Cristobal, Canal Zone in company with T.G. 27.3, which consists of U.S.S PASADENA, U.S.S. WISCONSIN (C.T.G. 27.3 S.O.P.A.), U.S.S. MOORE, U.S.S. SPERRY, U.S.S. COLLETT, and U.S.S. WALDRON\" (no time typed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.775,
+     38.5667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-28T00:00Z",
+    "lat_raw": "37-12N",
+    "lon_raw": "72-58W",
+    "local": "1944-09-27 2000(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9667,
+     37.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-28T12:00Z",
+    "lat_raw": "33-51N",
+    "lon_raw": "73-02W",
+    "local": "1944-09-28 0800(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0333,
+     33.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-28T16:00Z",
+    "lat_raw": "32-43N",
+    "lon_raw": "73-20W",
+    "local": "1944-09-28 1200(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.3333,
+     32.7167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-29T00:00Z",
+    "lat_raw": "30-37.5N",
+    "lon_raw": "73-44W",
+    "local": "1944-09-28 2000(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "\"30 37 5 N\" as typed, written as decimal minutes",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7333,
+     30.625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-29T12:00Z",
+    "lat_raw": "27-09N",
+    "lon_raw": "74-27W",
+    "local": "1944-09-29 0800(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.45,
+     27.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-29T16:00Z",
+    "lat_raw": "26-14N",
+    "lon_raw": "74-34W",
+    "local": "1944-09-29 1200(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.5667,
+     26.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-30T00:00Z",
+    "lat_raw": "24-12N",
+    "lon_raw": "74-05W",
+    "local": "1944-09-29 2000(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0833,
+     24.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-30T12:00Z",
+    "lat_raw": "21-01N",
+    "lon_raw": "74-23W",
+    "local": "1944-09-30 0800(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.3833,
+     21.0167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-09-30T16:00Z",
+    "lat_raw": "20-02N",
+    "lon_raw": "74-08W",
+    "local": "1944-09-30 1200(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1333,
+     20.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-01T00:00Z",
+    "lat_raw": "18-08N",
+    "lon_raw": "75-18W",
+    "local": "1944-09-30 2000(Q)",
+    "page": "rg38-78679858/p12",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.3,
+     18.1333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-01T12:00Z",
+    "lat_raw": "14-55N",
+    "lon_raw": "76-39W",
+    "local": "1944-10-01 0800(Q)",
+    "page": "rg38-78679858/p14",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.65,
+     14.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-01T16:00Z",
+    "lat_raw": "13-53N",
+    "lon_raw": "77-06W",
+    "local": "1944-10-01 1200(Q)",
+    "page": "rg38-78679858/p14",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.1,
+     13.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-02T00:00Z",
+    "lat_raw": "11-58N",
+    "lon_raw": "78-14W",
+    "local": "1944-10-01 2000(Q)",
+    "page": "rg38-78679858/p14",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.2333,
+     11.9667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-02T12:00Z",
+    "lat_raw": "09-22N",
+    "lon_raw": "79-55W",
+    "local": "1944-10-02 0800(Q)",
+    "page": "rg38-78679858/p14",
+    "note": "Off Cristobal. \"0828 Changed to time zone + 5\" (R)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9167,
+     9.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "Panama Canal",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-10-02T13:47Z",
+    "lat_raw": "~09-14N",
+    "lon_raw": "~79-48W",
+    "local": "1944-10-02 0847(R)",
+    "page": "rg38-78679858/p14",
+    "note": "\"0847 - 1305 Proceding thru Panama Canal\"",
+    "fix": "position assumed: interpolated between the 02 Oct 1200Z and 02 Oct 1700Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8036,
+     9.2359
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-02T17:00Z",
+    "lat_raw": "09-00N",
+    "lon_raw": "79-36W",
+    "local": "1944-10-02 1200(R)",
+    "page": "rg38-78679858/p14",
+    "note": "In the canal",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.6,
+     9.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor Balboa",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-02T18:28Z",
+    "lat_raw": "08-57N",
+    "lon_raw": "79-34W",
+    "local": "1944-10-02 1328(R)",
+    "page": "rg38-78679858/p14",
+    "note": "\"Moored port side to Pier #1 Naval Ammunition Depot, N.O.B., Balboa, Canal Zone\"; 3 Oct there \"taking on supplies and fuel\" (port position)",
+    "fix": "Balboa coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.5667,
+     8.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-10-03T01:00Z",
+    "lat_raw": "08-45N",
+    "lon_raw": "79-34W",
+    "local": "1944-10-02 2000(R)",
+    "page": "rg38-78679858/p14",
+    "note": "",
+    "fix": "typed 08-45N, 12 nm south of the pier where the narrative has her moored from 1328 and through 3 Oct; kept as typed, off the track"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.5667,
+     8.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Balboa",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-04T11:10Z",
+    "lat_raw": "08-57N",
+    "lon_raw": "79-34W",
+    "local": "1944-10-04 0610(R)",
+    "page": "rg38-78679858/p15",
+    "note": "\"Underway for rendezvous with T.U. 12.9.1 enroute Balboa, Canal Zone to San Diego, Calif.\" (port position)",
+    "fix": "Balboa coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.5667,
+     8.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-04T13:00Z",
+    "lat_raw": "08-45N",
+    "lon_raw": "79-28W",
+    "typed": "80-45N 79-28W",
+    "local": "1944-10-04 0800(R)",
+    "page": "rg38-78679858/p15",
+    "note": "",
+    "fix": "typed 80-45N; 08-45N (digits transposed) fits the departure from Balboa at 0610 (inferred)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.4667,
+     8.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-05T01:00Z",
+    "lat_raw": "07-05N",
+    "lon_raw": "80-30W",
+    "local": "1944-10-04 2000(R)",
+    "page": "rg38-78679858/p15",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.5,
+     7.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-05T13:00Z",
+    "lat_raw": "07-44N",
+    "lon_raw": "83-26W",
+    "typed": "77-44N 83-26W",
+    "local": "1944-10-05 0800(R)",
+    "page": "rg38-78679858/p15",
+    "note": "",
+    "fix": "typed 77-44N; 07-44N (one digit) fits the fixes either side at 15 to 17 kn (inferred)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.4333,
+     7.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-05T17:00Z",
+    "lat_raw": "08-12N",
+    "lon_raw": "84-27W",
+    "local": "1944-10-05 1200(R)",
+    "page": "rg38-78679858/p15",
+    "note": "T.U. 12.9.1 (Rear Admiral C. Cary JONES in PASADENA) \"on base course 290, fleet speed 16 knots, enroute to San Diego\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.45,
+     8.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-06T01:00Z",
+    "lat_raw": "09-06N",
+    "lon_raw": "86-25W",
+    "local": "1944-10-05 2000(R)",
+    "page": "rg38-78679858/p15",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.4167,
+     9.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-06T13:00Z",
+    "lat_raw": "10-22N",
+    "lon_raw": "89-26W",
+    "typed": "10-22N 85-26W",
+    "local": "1944-10-06 0800(R)",
+    "page": "rg38-78679858/p16",
+    "note": "",
+    "fix": "typed 85-26W, east of the 5 Oct 2000 fix while the unit steered 290, and 72 kn from the 1200 fix; 89-26W (one digit) gives 16 kn both sides (inferred)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.4333,
+     10.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-06T17:00Z",
+    "lat_raw": "10-54N",
+    "lon_raw": "90-20W",
+    "local": "1944-10-06 1200(R)",
+    "page": "rg38-78679858/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.3333,
+     10.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-07T01:00Z",
+    "lat_raw": "11-48N",
+    "lon_raw": "92-28W",
+    "local": "1944-10-06 2000(R)",
+    "page": "rg38-78679858/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.4667,
+     11.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-07T13:00Z",
+    "lat_raw": "13-11N",
+    "lon_raw": "95-24W",
+    "local": "1944-10-07 0800(R)",
+    "page": "rg38-78679858/p16",
+    "note": "\"At 0915, clocks were set back one hour to + 6 time\" (S)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.4,
+     13.1833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-07T18:00Z",
+    "lat_raw": "13-48N",
+    "lon_raw": "96-49W",
+    "local": "1944-10-07 1200(S)",
+    "page": "rg38-78679858/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8167,
+     13.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-08T02:00Z",
+    "lat_raw": "14-37N",
+    "lon_raw": "98-47W",
+    "local": "1944-10-07 2000(S)",
+    "page": "rg38-78679858/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.7833,
+     14.6167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-08T14:00Z",
+    "lat_raw": "16-07N",
+    "lon_raw": "102-09W",
+    "local": "1944-10-08 0800(S)",
+    "page": "rg38-78679858/p16",
+    "note": "\"Today we were fueled by the PASADENA ... 0900 to 1137\"; 1627 MOORE and COLLETT left for San Francisco",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.15,
+     16.1167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-08T18:00Z",
+    "lat_raw": "16-31N",
+    "lon_raw": "102-43W",
+    "local": "1944-10-08 1200(S)",
+    "page": "rg38-78679858/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.7167,
+     16.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-09T02:00Z",
+    "lat_raw": "17-22N",
+    "lon_raw": "104-39W",
+    "local": "1944-10-08 2000(S)",
+    "page": "rg38-78679858/p16",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.65,
+     17.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-09T14:00Z",
+    "lat_raw": "19-22N",
+    "lon_raw": "107-17W",
+    "local": "1944-10-09 0800(S)",
+    "page": "rg38-78679858/p17",
+    "note": "\"The ship's clocks were set back one-half hour to zone + 6 1/2\" (ST), the time not typed: S is kept for 0800 and 1200 and ST written for 2000 (assumed)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.2833,
+     19.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-09T18:00Z",
+    "lat_raw": "20-02N",
+    "lon_raw": "108-14W",
+    "local": "1944-10-09 1200(S)",
+    "page": "rg38-78679858/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.2333,
+     20.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "event",
+    "ref": "sound contact",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-10-09T22:55Z",
+    "lat_raw": "~20-46N",
+    "lon_raw": "~109-08W",
+    "local": "1944-10-09 1625(ST)",
+    "page": "rg38-78679858/p17",
+    "note": "\"At 1625 a sound contact was made. Three patterns (24 mark 9 Mod. #3 charges were expended in all) were dropped - no evidence of damage\"",
+    "fix": "position assumed: interpolated between the 09 Oct 1800Z and 10 Oct 0230Z fixes",
+    "assumed": true
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.1267,
+     20.7677
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-10T02:30Z",
+    "lat_raw": "21-18N",
+    "lon_raw": "109-47W",
+    "local": "1944-10-09 2000(ST)",
+    "page": "rg38-78679858/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.7833,
+     21.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-10T14:30Z",
+    "lat_raw": "23-14N",
+    "lon_raw": "112-33W",
+    "local": "1944-10-10 0800(ST)",
+    "page": "rg38-78679858/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.55,
+     23.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-10T18:30Z",
+    "lat_raw": "23-51N",
+    "lon_raw": "113-25W",
+    "local": "1944-10-10 1200(ST)",
+    "page": "rg38-78679858/p17",
+    "note": "\"1430 Set all clocks back 1/2 hour and changed time zone to + 7\" (T)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4167,
+     23.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-11T03:00Z",
+    "lat_raw": "23-30N",
+    "lon_raw": "114-57W",
+    "local": "1944-10-10 2000(T)",
+    "page": "rg38-78679858/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.95,
+     23.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-11T15:00Z",
+    "lat_raw": "26-56N",
+    "lon_raw": "116-50W",
+    "local": "1944-10-11 0800(T)",
+    "page": "rg38-78679858/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.8333,
+     26.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": false,
+    "utc": "1944-10-11T19:00Z",
+    "lat_raw": "28-56N",
+    "lon_raw": "117-06W",
+    "local": "1944-10-11 1200(T)",
+    "page": "rg38-78679858/p17",
+    "note": "",
+    "fix": "0800 to 1200 is 120 nm in 4 hours (30 kn); either latitude may be a digit off and which can't be told; the 1200 row is left off the track (the 0800 fits the legs either side at 15 to 19 kn)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1,
+     28.9333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-12T03:00Z",
+    "lat_raw": "30-54N",
+    "lon_raw": "117-30W",
+    "local": "1944-10-11 2000(T)",
+    "page": "rg38-78679858/p17",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5,
+     30.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-12T15:00Z",
+    "lat_raw": "33-38N",
+    "lon_raw": "118-25W",
+    "local": "1944-10-12 0800(T)",
+    "page": "rg38-78679858/p18",
+    "note": "\"Ships were notified by C.T.U. 12.9.1 that destination had been changed to San Pedro\"",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4167,
+     33.6333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor San Pedro",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-12T18:20Z",
+    "lat_raw": "33-44N",
+    "lon_raw": "118-17W",
+    "local": "1944-10-12 1120(T)",
+    "page": "rg38-78679858/p18",
+    "note": "\"Moored port side to dock at Berth 86, San Pedro Harbor, Calif.\"; 13 Oct \"Moored in San Pedro Harbor, Calif., taking on fuel and supplies\" (port position)",
+    "fix": "San Pedro coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2833,
+     33.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway San Pedro",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-14T21:49Z",
+    "lat_raw": "33-44N",
+    "lon_raw": "118-17W",
+    "local": "1944-10-14 1449(T)",
+    "page": "rg38-78679858/p18",
+    "note": "\"Underway ... proceeding for rendezvous with T.U. 12.9.1.\" 1708 \"underway for Pearl Harbor, T.H., on base course 268 - fleet speed 16 knots. T.U. 12.9.1 consists of PASADENA, NORTH CAROLINA, WISCONSIN, HAYNSWORTH, WALDRON, and SPERRY\" (port position)",
+    "fix": "San Pedro coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2833,
+     33.7333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-15T03:00Z",
+    "lat_raw": "33-36N",
+    "lon_raw": "119-30W",
+    "local": "1944-10-14 2000(T)",
+    "page": "rg38-78679858/p18",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.5,
+     33.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-15T15:00Z",
+    "lat_raw": "33-17N",
+    "lon_raw": "123-19W",
+    "local": "1944-10-15 0800(T)",
+    "page": "rg38-78679858/p18",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.3167,
+     33.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-15T19:00Z",
+    "lat_raw": "32-53N",
+    "lon_raw": "124-19W",
+    "local": "1944-10-15 1200(T)",
+    "page": "rg38-78679858/p18",
+    "note": "\"1337 Set all clocks back 1/2 hour to + 7 1/2 time zone\" (TU)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.3167,
+     32.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-16T03:30Z",
+    "lat_raw": "32-14N",
+    "lon_raw": "127-03W",
+    "local": "1944-10-15 2000(TU)",
+    "page": "rg38-78679858/p18",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -127.05,
+     32.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-16T15:30Z",
+    "lat_raw": "31-23N",
+    "lon_raw": "130-40W",
+    "typed": "21-23N 130-40W",
+    "local": "1944-10-16 0800(TU)",
+    "page": "rg38-78679858/p19",
+    "note": "",
+    "fix": "typed 21-23N, 600 nm south of the fixes either side; 31-23N (one digit) gives 16 kn (inferred)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -130.6667,
+     31.3833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-16T19:30Z",
+    "lat_raw": "31-15N",
+    "lon_raw": "131-39W",
+    "local": "1944-10-16 1200(TU)",
+    "page": "rg38-78679858/p19",
+    "note": "\"1432 Set all clocks back 1/2 hour to + 8 time zone\" (U)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -131.65,
+     31.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-17T04:00Z",
+    "lat_raw": "30-36N",
+    "lon_raw": "134-11W",
+    "local": "1944-10-16 2000(U)",
+    "page": "rg38-78679858/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -134.1833,
+     30.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-17T16:00Z",
+    "lat_raw": "29-40N",
+    "lon_raw": "137-38W",
+    "local": "1944-10-17 0800(U)",
+    "page": "rg38-78679858/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -137.6333,
+     29.6667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-17T20:00Z",
+    "lat_raw": "29-22N",
+    "lon_raw": "138-44W",
+    "local": "1944-10-17 1200(U)",
+    "page": "rg38-78679858/p19",
+    "note": "\"1328 Set all clocks back 1/2 hour to + 8 1/2 time zone\" (UV)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -138.7333,
+     29.3667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-18T04:30Z",
+    "lat_raw": "28-30N",
+    "lon_raw": "141-01W",
+    "local": "1944-10-17 2000(UV)",
+    "page": "rg38-78679858/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -141.0167,
+     28.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-18T16:30Z",
+    "lat_raw": "27-12N",
+    "lon_raw": "144-03W",
+    "typed": "37-12N 144-03W",
+    "local": "1944-10-18 0800(UV)",
+    "page": "rg38-78679858/p19",
+    "note": "",
+    "fix": "typed 37-12N; 27-12N (one digit) fits the fixes either side (inferred)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -144.05,
+     27.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-18T20:30Z",
+    "lat_raw": "26-53N",
+    "lon_raw": "145-05W",
+    "local": "1944-10-18 1200(UV)",
+    "page": "rg38-78679858/p19",
+    "note": "\"1434 Set all clocks back 1/2 hour to + 9 time zone\" (V)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -145.0833,
+     26.8833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-19T05:00Z",
+    "lat_raw": "25-55N",
+    "lon_raw": "147-38W",
+    "local": "1944-10-18 2000(V)",
+    "page": "rg38-78679858/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -147.6333,
+     25.9167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-19T17:00Z",
+    "lat_raw": "24-31N",
+    "lon_raw": "151-04W",
+    "typed": "24-31N 181-04W",
+    "local": "1944-10-19 0800(V)",
+    "page": "rg38-78679858/p19",
+    "note": "",
+    "fix": "typed 181-04W; 151-04W (one digit) gives 16 to 17 kn from the 18 Oct 2000 fix and to the 1200 fix (inferred)"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -151.0667,
+     24.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-19T21:00Z",
+    "lat_raw": "23-59N",
+    "lon_raw": "152-03W",
+    "local": "1944-10-19 1200(V)",
+    "page": "rg38-78679858/p19",
+    "note": "\"1501 Set all clocks back 1/2 hour to + 9 1/2 time zone\" (VW)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -152.05,
+     23.9833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-20T05:30Z",
+    "lat_raw": "22-54N",
+    "lon_raw": "154-40W",
+    "local": "1944-10-19 2000(VW)",
+    "page": "rg38-78679858/p19",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -154.6667,
+     22.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-20T17:30Z",
+    "lat_raw": "20-50N",
+    "lon_raw": "157-42W",
+    "local": "1944-10-20 0800(VW)",
+    "page": "rg38-78679858/p20",
+    "note": "Gunnery and tracking exercises in area V-3 before entering port",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.7,
+     20.8333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-20T21:30Z",
+    "lat_raw": "20-35N",
+    "lon_raw": "157-05W",
+    "local": "1944-10-20 1200(VW)",
+    "page": "rg38-78679858/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.0833,
+     20.5833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth D-1 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-21T04:22Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-10-20 1852(VW)",
+    "page": "rg38-78679858/p20",
+    "note": "\"Moored starboard side to U.S.S. SPERRY in berth D-1, Middle Loch, Pearl Harbor, T.H. T.U. 12.9.1 is disolved\"; 21 and 22 Oct there (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-23T16:49Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-10-23 0719(VW)",
+    "page": "rg38-78679858/p20",
+    "note": "\"Underway from berth D-1 ... proceeding to exercise areas in company with WALDRON (O.T.C. - C.D.S. 62) and SPERRY\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-23T17:30Z",
+    "lat_raw": "21-18N",
+    "lon_raw": "157-58W",
+    "local": "1944-10-23 0800(VW)",
+    "page": "rg38-78679858/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-23T21:30Z",
+    "lat_raw": "21-10N",
+    "lon_raw": "158-00W",
+    "local": "1944-10-23 1200(VW)",
+    "page": "rg38-78679858/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0,
+     21.1667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-24T05:30Z",
+    "lat_raw": "20-26N",
+    "lon_raw": "158-18W",
+    "local": "1944-10-23 2000(VW)",
+    "page": "rg38-78679858/p20",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.3,
+     20.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-24T17:30Z",
+    "lat_raw": "20-29N",
+    "lon_raw": "158-10W",
+    "local": "1944-10-24 0800(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.1667,
+     20.4833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-24T21:30Z",
+    "lat_raw": "19-48N",
+    "lon_raw": "158-30W",
+    "local": "1944-10-24 1200(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.5,
+     19.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-25T05:30Z",
+    "lat_raw": "20-27N",
+    "lon_raw": "158-08W",
+    "local": "1944-10-24 2000(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.1333,
+     20.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-25T17:30Z",
+    "lat_raw": "20-26N",
+    "lon_raw": "158-06W",
+    "local": "1944-10-25 0800(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.1,
+     20.4333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-25T21:30Z",
+    "lat_raw": "20-24N",
+    "lon_raw": "157-57W",
+    "local": "1944-10-25 1200(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.95,
+     20.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth X-21 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-26T03:35Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-10-25 1805(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "\"Moored alongside destroyer tender YOSEMITE in berth X-21, Middle Loch\"; 26 to 30 Oct there, \"a tender availability\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "underway Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-31T16:11Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-10-31 0641(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "\"Underway for operation area C-10 in company with U.S.S. MEADE\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-31T17:30Z",
+    "lat_raw": "21-17N",
+    "lon_raw": "157-57W",
+    "local": "1944-10-31 0800(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.95,
+     21.2833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "diary",
+    "ref": "",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-10-31T21:30Z",
+    "lat_raw": "20-45N",
+    "lon_raw": "158-10W",
+    "local": "1944-10-31 1200(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.1667,
+     20.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "moor berth D-1 Pearl Harbor",
+    "patrol": 1,
+    "on_track": true,
+    "utc": "1944-11-01T03:01Z",
+    "lat_raw": "21-21N",
+    "lon_raw": "157-58W",
+    "local": "1944-10-31 1731(VW)",
+    "page": "rg38-78679858/p21",
+    "note": "\"At 1731 we moored in berth D-1, Middle Loch, Pearl Harbor, T. H.\" (port position)",
+    "fix": "Pearl Harbor coordinates are not in the diary; standard harbour position used"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9667,
+     21.35
     ]
    }
   },

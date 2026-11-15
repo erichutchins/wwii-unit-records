@@ -1,4 +1,134 @@
 source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+narrative,commissioned Navy Yard New York,1944-06-22,1200,Q,40-42N,73-58W,rg38-78679858/p02,"""Ship placed in commission at the Navy Yard, New York, N. Y."" ... ""Time zone + 4."" (Q). 23 to 30 Jun and 1 to 22 Jul: ""At Navy Yard, New York, N. Y. undergoing Navy Yard availability"", no times, so no rows (port position)",yes,,,,,New York Navy Yard coordinates are not in the diary; standard position used
+narrative,underway Navy Yard,1944-07-23,0700,Q,40-42N,73-58W,rg38-78679858/p03,"""Underway for Gravesend Bay, N. Y."" The table gives places, not coordinates, on 23 to 26 Jul (port position)",yes,,,,,New York Navy Yard coordinates are not in the diary; standard position used
+narrative,anchor Gravesend Bay,1944-07-23,0820,Q,40-36N,74-02W,rg38-78679858/p03,"""Anchored in Gravesend Bay to pick up ammunition"" (port position)",yes,,,,,Gravesend Bay coordinates are not in the diary; standard anchorage position used
+narrative,underway Gravesend Bay,1944-07-23,1728,Q,40-36N,74-02W,rg38-78679858/p03,"""Underway from anchorage - proceeding to deperning Station, Bayonne, N. J."" (port position)",yes,,,,,Gravesend Bay coordinates are not in the diary; standard anchorage position used
+narrative,moor deperming station Bayonne,1944-07-23,1820,Q,40-40N,74-05W,rg38-78679858/p03,"""Moored port side to deperning station, Bayonne, N. J. and underwent deperning operations"" (port position)",yes,,,,,Bayonne coordinates are not in the diary; standard position used
+narrative,underway Bayonne,1944-07-24,0700,Q,40-40N,74-05W,rg38-78679858/p03,"""Underway from Bayonne, N. J. for Long Island Sound."" Table: 0800 ""New York Harbor, N. Y."", 1200 ""Long Island Sound"" (no rows: not a place a position can be written for) (port position)",yes,,,,,Bayonne coordinates are not in the diary; standard position used
+narrative,anchor Hempstead Harbor,1944-07-24,1740,Q,40-50N,73-39W,rg38-78679858/p03,"""Anchored in Hempstead Harbor in 32 feet of water"" (port position)",yes,,,,,Hempstead Harbor coordinates are not in the diary; standard anchorage position used
+narrative,underway Hempstead Harbor,1944-07-25,0718,Q,40-50N,73-39W,rg38-78679858/p03,"""Underway from anchorage enroute to Navy Yard, N. Y."" (port position)",yes,,,,,Hempstead Harbor coordinates are not in the diary; standard anchorage position used
+narrative,moor Pier J Navy Yard,1944-07-25,1257,Q,40-42N,73-58W,rg38-78679858/p03,"""Moored starboard side to Pier J, Navy Yard, N. Y."" (port position)",yes,,,,,New York Navy Yard coordinates are not in the diary; standard position used
+narrative,underway Navy Yard,1944-07-26,0803,Q,40-42N,73-58W,rg38-78679858/p03,"""Underway to a point 10 miles East of Ambrose Light Ship to make structural firing tests"" (port position)",yes,,,,,New York Navy Yard coordinates are not in the diary; standard position used
+diary,,1944-07-26,1200,Q,40-27N,73-37W,rg38-78679858/p03,"Table: ""10 miles east of Ambrose Light Ship."" Written from the lightship's station, 40-27N 73-50W, and 10 nm east; not typed as coordinates",yes,,,,,position written from the table's words: Ambrose Lightship's station and 10 nm east
+event,structural firing tests,1944-07-26,1235,Q,,,rg38-78679858/p03,"""Commenced structural firing tests."" 1410: ""Completed all firing and proceded to Brooklyn, N. Y."" The Navy photograph 80-G-237627 of her under way is dated this day",no,,,,,
+narrative,moor Pier 33 Brooklyn,1944-07-26,1749,Q,40-41N,74-00W,rg38-78679858/p03,"""Moored port side to Pier #33, Brooklyn, N. Y."" (port position)",yes,,,,,Brooklyn piers' coordinates are not in the diary; standard position used
+narrative,underway for Bermuda,1944-07-27,1030,Q,40-41N,74-00W,rg38-78679858/p04,"""Underway for Bermuda, B.W.I. for shakedown operations"" (port position)",yes,,,,,Brooklyn piers' coordinates are not in the diary; standard position used
+event,40 mm mounts test fired,1944-07-27,1442,Q,,,rg38-78679858/p04,"""Test fired 40 MM mounts #41 and #42. Expended 39 rounds of service ammunition""",no,,,,,
+diary,,1944-07-27,2000,Q,39-20.5N,71-37W,rg38-78679858/p04,,yes,,,,,
+narrative,moor Great Sound Bermuda,1944-07-29,1503,P,32-17N,64-50W,rg38-78679858/p04,"""Moored alongside U.S.S. ALTAIR in Great Sound Bay, Bermuda, B.W.I."" Zone P (+3) assumed for the month at Bermuda: the diary types no change on arrival, but ""Changed time zone to + 4"" on leaving (30 Aug). 30 Jul to 29 Aug she exercised daily from Great Sound (ASW runs on the Italian submarines DAUDOLO and MEMOLA, the US R-1 and R-6, torpedo, gunnery and shore bombardment exercises with HYMAN, MADDOX, AULT, S. N. MOORE and others) and anchored or moored there each evening; the table gives no positions, so no rows (port position)",yes,,,,,Great Sound coordinates are not in the diary; standard anchorage position used
+narrative,underway from Bermuda,1944-08-30,1137,P,32-17N,64-50W,rg38-78679858/p08,"""Underway for New York by authority C.T.G. 23.1 dispatch 291353 of August 1944."" 0900: ""Captain MADEIRAS, C.T.G. 23.1 made final personnel inspection prior to ships departure from shakedown area"" (port position)",yes,,,,,Great Sound coordinates are not in the diary; standard anchorage position used
+diary,,1944-08-30,2000,Q,34-46.5N,66-20.5W,rg38-78679858/p08,"""1900 Changed time zone to + 4""",yes,,,,,
+diary,,1944-08-31,0800,Q,38-59N,71-39W,rg38-78679858/p09,,yes,,,,,
+diary,,1944-08-31,1200,Q,39-53N,27-59W,rg38-78679858/p09,,yes,,72-59W,,,"typed 27-59W, an ocean away; 72-59W (two digits transposed) lies between the 0800 fix and New York at 17 kn, so read in lon_fix (inferred)"
+narrative,moor Pier G Navy Yard,1944-08-31,1635,Q,40-42N,73-58W,rg38-78679858/p09,"""Moored portside to Pier G, Berth 12, Navy Yard, New York, N. Y."" The 2000 table row types 40-42N 74-00W. 1 to 15 Sep: ""At Navy Yard, New York, N. Y. undergoing regular post shakedown Navy Yard availability. Time Zone + 4"", no rows (port position)",yes,,,,,New York Navy Yard coordinates are not in the diary; standard position used
+narrative,underway Navy Yard,1944-09-16,1017,Q,40-42N,73-58W,rg38-78679858/p10,"""Underway for anchorage at Gravesend Bay, N. Y. to receive ammunition"" (port position)",yes,,,,,New York Navy Yard coordinates are not in the diary; standard position used
+narrative,anchor Gravesend Bay,1944-09-16,1118,Q,40-36N,74-02W,rg38-78679858/p10,"""Anchored in Gravesend, Bay, N. Y. and received full complement of ammunition"" (port position)",yes,,,,,Gravesend Bay coordinates are not in the diary; standard anchorage position used
+narrative,moor deperming station Bayonne,1944-09-16,1520,Q,40-40N,74-05W,rg38-78679858/p10,"""Moored port side to dock at deperning station, Bayonne, N. J."" (1437 underway from Gravesend Bay); 1710 ""Underway for Long Island Sound"" (port position)",yes,,,,,Bayonne coordinates are not in the diary; standard position used
+diary,,1944-09-17,0800,Q,41-05N,71-42W,rg38-78679858/p10,"""Enroute to Submarine practice area off Montauk Point""; 0805 with Cor Div 20 (DEs 250, 251, 253) and the French submarine ARGO",yes,,,,,
+diary,,1944-09-17,1200,Q,41-00N,71-38W,rg38-78679858/p10,,yes,,,,,
+narrative,anchor Fort Pond Bay,1944-09-17,1852,Q,41-03N,71-58W,rg38-78679858/p10,"""Anchored in Fort Pond Bay, New York"" (port position)",yes,,,,,Fort Pond Bay coordinates are not in the diary; standard anchorage position used
+narrative,underway Fort Pond Bay,1944-09-18,0706,Q,41-03N,71-58W,rg38-78679858/p10,"""Underway for practice areas"" (port position)",yes,,,,,Fort Pond Bay coordinates are not in the diary; standard anchorage position used
+diary,,1944-09-18,0800,Q,41-23N,71-45W,rg38-78679858/p10,,no,,,,,"typed 41-23N, ashore in Rhode Island 54 minutes after she left Fort Pond Bay; 41-13N would fit, but other digits could too, so kept as typed, off the track"
+diary,,1944-09-18,1200,Q,41-00N,71-38W,rg38-78679858/p10,,yes,,,,,
+diary,,1944-09-18,2000,Q,40-40N,72-15W,rg38-78679858/p10,"""1800 Enroute operating area to New York City""",yes,,,,,
+narrative,moor Pier 35 Brooklyn,1944-09-19,0720,Q,40-41N,74-00W,rg38-78679858/p10,"""Moored starboard side to Pier 35, Brooklyn, N.Y."" (port position)",yes,,,,,Brooklyn piers' coordinates are not in the diary; standard position used
+narrative,underway to escort Queen Mary,1944-09-20,0854,Q,40-41N,74-00W,rg38-78679858/p10,"""Underway to escort SS Queen Mary to MOMP"" (the Mid-Ocean Meeting Point) (port position)",yes,,,,,Brooklyn piers' coordinates are not in the diary; standard position used
+event,Queen Mary escort,1944-09-20,1113,Q,,,rg38-78679858/p10,"""Started with U.S.S. COLLETT (DD730), U.S.S. S. N. MOORE (DD742) and S.S. Queen Mary""",no,,,,,
+diary,,1944-09-20,1200,Q,40-04-15N,76-31-45W,rg38-78679858/p10,,no,,,,,"typed 76-31-45W, in Pennsylvania; 70 or 72 for 76 would both put her at sea, and which can't be told, so kept as typed, off the track"
+diary,,1944-09-20,2000,Q,39-41N,69-18-45W,rg38-78679858/p10,,yes,,,,,
+diary,,1944-09-21,0800,P,41-24N,62-47-15W,rg38-78679858/p11,"""0000 Changed zone description to + 3."" Task Group 27.7 (COLLETTE [sic], HAYNSWORTH, S. N. MOORE; C.T.G. 27.7 in COLLETT) ""escorting S. S. Queen Mary to M.O.M.P., speed of advance 27 knots""",yes,,,,,
+diary,,1944-09-21,1200,P,42-07N,60-32W,rg38-78679858/p11,,yes,,,,,
+event,Queen Mary escort relieved,1944-09-21,1250,P,,,rg38-78679858/p11,"""1239 Sighted British Cruiser. 1250 Task group 27.7 relieved of escort of S. S. Queen Mary by British Cruiser and started back to New York""",no,,,,,
+diary,,1944-09-21,2000,P,41-34-15N,62-09W,rg38-78679858/p11,,yes,,,,,
+diary,,1944-09-22,0800,P,40-47N,66-14W,rg38-78679858/p11,"""0000 MOORE detached from T.G. 27.7 and proceded independently to Boston""",yes,,,,,
+diary,,1944-09-22,1200,P,40-14N,67-29W,rg38-78679858/p11,"""1200 Changed Z. D. to + 4"": the 1200 row is kept in P, the zone before the change (assumed)",yes,,,,,
+diary,,1944-09-22,2000,Q,39-56N,70-09W,rg38-78679858/p11,,yes,,,,,
+diary,,1944-09-23,0800,Q,40-29N,73-53-30W,rg38-78679858/p11,"Table 1200 ""New York Harbor"", 2000 ""Pier 35, Brooklyn""",yes,,,,,
+narrative,moor Pier 35 Brooklyn,1944-09-23,1003,Q,40-41N,74-00W,rg38-78679858/p11,"""Moored to North side Pier 35, Brooklyn, N. Y.""; 24 and 25 Sep there ""taking on fuel and supplies"" (port position)",yes,,,,,Brooklyn piers' coordinates are not in the diary; standard position used
+narrative,underway for Delaware Bay,1944-09-25,1700,Q,40-41N,74-00W,rg38-78679858/p11,"""Underway for Delaware Bay with U.S.S. COLLETTE - HAYNSWORTH is O.T.C."" (port position)",yes,,,,,Brooklyn piers' coordinates are not in the diary; standard position used
+diary,,1944-09-25,2000,Q,40-10-38N,73-41-15W,rg38-78679858/p11,,yes,,,,,
+diary,,1944-09-26,0800,Q,38-47-10N,75-00-42W,rg38-78679858/p12,"""0804 Anchored in Delaware Bay""; 27 Sep 0800 table ""Delaware Bay"" (no row: the same anchorage)",yes,,,,,
+diary,,1944-09-27,1200,Q,38-34N,74-46-30W,rg38-78679858/p12,"""Underway for Cristobal, Canal Zone in company with T.G. 27.3, which consists of U.S.S PASADENA, U.S.S. WISCONSIN (C.T.G. 27.3 S.O.P.A.), U.S.S. MOORE, U.S.S. SPERRY, U.S.S. COLLETT, and U.S.S. WALDRON"" (no time typed)",yes,,,,,
+diary,,1944-09-27,2000,Q,37-12N,72-58W,rg38-78679858/p12,,yes,,,,,
+diary,,1944-09-28,0800,Q,33-51N,73-02W,rg38-78679858/p12,,yes,,,,,
+diary,,1944-09-28,1200,Q,32-43N,73-20W,rg38-78679858/p12,,yes,,,,,
+diary,,1944-09-28,2000,Q,30-37.5N,73-44W,rg38-78679858/p12,"""30 37 5 N"" as typed, written as decimal minutes",yes,,,,,
+diary,,1944-09-29,0800,Q,27-09N,74-27W,rg38-78679858/p12,,yes,,,,,
+diary,,1944-09-29,1200,Q,26-14N,74-34W,rg38-78679858/p12,,yes,,,,,
+diary,,1944-09-29,2000,Q,24-12N,74-05W,rg38-78679858/p12,,yes,,,,,
+diary,,1944-09-30,0800,Q,21-01N,74-23W,rg38-78679858/p12,,yes,,,,,
+diary,,1944-09-30,1200,Q,20-02N,74-08W,rg38-78679858/p12,,yes,,,,,
+diary,,1944-09-30,2000,Q,18-08N,75-18W,rg38-78679858/p12,,yes,,,,,
+diary,,1944-10-01,0800,Q,14-55N,76-39W,rg38-78679858/p14,,yes,,,,,
+diary,,1944-10-01,1200,Q,13-53N,77-06W,rg38-78679858/p14,,yes,,,,,
+diary,,1944-10-01,2000,Q,11-58N,78-14W,rg38-78679858/p14,,yes,,,,,
+diary,,1944-10-02,0800,Q,09-22N,79-55W,rg38-78679858/p14,"Off Cristobal. ""0828 Changed to time zone + 5"" (R)",yes,,,,,
+event,Panama Canal,1944-10-02,0847,R,,,rg38-78679858/p14,"""0847 - 1305 Proceding thru Panama Canal""",no,,,,,
+diary,,1944-10-02,1200,R,09-00N,79-36W,rg38-78679858/p14,In the canal,yes,,,,,
+narrative,moor Balboa,1944-10-02,1328,R,08-57N,79-34W,rg38-78679858/p14,"""Moored port side to Pier #1 Naval Ammunition Depot, N.O.B., Balboa, Canal Zone""; 3 Oct there ""taking on supplies and fuel"" (port position)",yes,,,,,Balboa coordinates are not in the diary; standard harbour position used
+diary,,1944-10-02,2000,R,08-45N,79-34W,rg38-78679858/p14,,no,,,,,"typed 08-45N, 12 nm south of the pier where the narrative has her moored from 1328 and through 3 Oct; kept as typed, off the track"
+narrative,underway Balboa,1944-10-04,0610,R,08-57N,79-34W,rg38-78679858/p15,"""Underway for rendezvous with T.U. 12.9.1 enroute Balboa, Canal Zone to San Diego, Calif."" (port position)",yes,,,,,Balboa coordinates are not in the diary; standard harbour position used
+diary,,1944-10-04,0800,R,80-45N,79-28W,rg38-78679858/p15,,yes,08-45N,,,,typed 80-45N; 08-45N (digits transposed) fits the departure from Balboa at 0610 (inferred)
+diary,,1944-10-04,1200,R,90-51N,23-30W,rg38-78679858/p15,,no,,,,,"typed 90-51N 23-30W, impossible in both; no reading can be told, kept as typed, off the track"
+diary,,1944-10-04,2000,R,07-05N,80-30W,rg38-78679858/p15,,yes,,,,,
+diary,,1944-10-05,0800,R,77-44N,83-26W,rg38-78679858/p15,,yes,07-44N,,,,typed 77-44N; 07-44N (one digit) fits the fixes either side at 15 to 17 kn (inferred)
+diary,,1944-10-05,1200,R,08-12N,84-27W,rg38-78679858/p15,"T.U. 12.9.1 (Rear Admiral C. Cary JONES in PASADENA) ""on base course 290, fleet speed 16 knots, enroute to San Diego""",yes,,,,,
+diary,,1944-10-05,2000,R,09-06N,86-25W,rg38-78679858/p15,,yes,,,,,
+diary,,1944-10-06,0800,R,10-22N,85-26W,rg38-78679858/p16,,yes,,89-26W,,,"typed 85-26W, east of the 5 Oct 2000 fix while the unit steered 290, and 72 kn from the 1200 fix; 89-26W (one digit) gives 16 kn both sides (inferred)"
+diary,,1944-10-06,1200,R,10-54N,90-20W,rg38-78679858/p16,,yes,,,,,
+diary,,1944-10-06,2000,R,11-48N,92-28W,rg38-78679858/p16,,yes,,,,,
+diary,,1944-10-07,0800,R,13-11N,95-24W,rg38-78679858/p16,"""At 0915, clocks were set back one hour to + 6 time"" (S)",yes,,,,,
+diary,,1944-10-07,1200,S,13-48N,96-49W,rg38-78679858/p16,,yes,,,,,
+diary,,1944-10-07,2000,S,14-37N,98-47W,rg38-78679858/p16,,yes,,,,,
+diary,,1944-10-08,0800,S,16-07N,102-09W,rg38-78679858/p16,"""Today we were fueled by the PASADENA ... 0900 to 1137""; 1627 MOORE and COLLETT left for San Francisco",yes,,,,,
+diary,,1944-10-08,1200,S,16-31N,102-43W,rg38-78679858/p16,,yes,,,,,
+diary,,1944-10-08,2000,S,17-22N,104-39W,rg38-78679858/p16,,yes,,,,,
+diary,,1944-10-09,0800,S,19-22N,107-17W,rg38-78679858/p17,"""The ship's clocks were set back one-half hour to zone + 6 1/2"" (ST), the time not typed: S is kept for 0800 and 1200 and ST written for 2000 (assumed)",yes,,,,,
+diary,,1944-10-09,1200,S,20-02N,108-14W,rg38-78679858/p17,,yes,,,,,
+event,sound contact,1944-10-09,1625,ST,,,rg38-78679858/p17,"""At 1625 a sound contact was made. Three patterns (24 mark 9 Mod. #3 charges were expended in all) were dropped - no evidence of damage""",no,,,,,
+diary,,1944-10-09,2000,ST,21-18N,109-47W,rg38-78679858/p17,,yes,,,,,
+diary,,1944-10-10,0800,ST,23-14N,112-33W,rg38-78679858/p17,,yes,,,,,
+diary,,1944-10-10,1200,ST,23-51N,113-25W,rg38-78679858/p17,"""1430 Set all clocks back 1/2 hour and changed time zone to + 7"" (T)",yes,,,,,
+diary,,1944-10-10,2000,T,23-30N,114-57W,rg38-78679858/p17,,yes,,,,,
+diary,,1944-10-11,0800,T,26-56N,116-50W,rg38-78679858/p17,,yes,,,,,
+diary,,1944-10-11,1200,T,28-56N,117-06W,rg38-78679858/p17,,no,,,,,0800 to 1200 is 120 nm in 4 hours (30 kn); either latitude may be a digit off and which can't be told; the 1200 row is left off the track (the 0800 fits the legs either side at 15 to 19 kn)
+diary,,1944-10-11,2000,T,30-54N,117-30W,rg38-78679858/p17,,yes,,,,,
+diary,,1944-10-12,0800,T,33-38N,118-25W,rg38-78679858/p18,"""Ships were notified by C.T.U. 12.9.1 that destination had been changed to San Pedro""",yes,,,,,
+narrative,moor San Pedro,1944-10-12,1120,T,33-44N,118-17W,rg38-78679858/p18,"""Moored port side to dock at Berth 86, San Pedro Harbor, Calif.""; 13 Oct ""Moored in San Pedro Harbor, Calif., taking on fuel and supplies"" (port position)",yes,,,,,San Pedro coordinates are not in the diary; standard harbour position used
+narrative,underway San Pedro,1944-10-14,1449,T,33-44N,118-17W,rg38-78679858/p18,"""Underway ... proceeding for rendezvous with T.U. 12.9.1."" 1708 ""underway for Pearl Harbor, T.H., on base course 268 - fleet speed 16 knots. T.U. 12.9.1 consists of PASADENA, NORTH CAROLINA, WISCONSIN, HAYNSWORTH, WALDRON, and SPERRY"" (port position)",yes,,,,,San Pedro coordinates are not in the diary; standard harbour position used
+diary,,1944-10-14,2000,T,33-36N,119-30W,rg38-78679858/p18,,yes,,,,,
+diary,,1944-10-15,0800,T,33-17N,123-19W,rg38-78679858/p18,,yes,,,,,
+diary,,1944-10-15,1200,T,32-53N,124-19W,rg38-78679858/p18,"""1337 Set all clocks back 1/2 hour to + 7 1/2 time zone"" (TU)",yes,,,,,
+diary,,1944-10-15,2000,TU,32-14N,127-03W,rg38-78679858/p18,,yes,,,,,
+diary,,1944-10-16,0800,TU,21-23N,130-40W,rg38-78679858/p19,,yes,31-23N,,,,"typed 21-23N, 600 nm south of the fixes either side; 31-23N (one digit) gives 16 kn (inferred)"
+diary,,1944-10-16,1200,TU,31-15N,131-39W,rg38-78679858/p19,"""1432 Set all clocks back 1/2 hour to + 8 time zone"" (U)",yes,,,,,
+diary,,1944-10-16,2000,U,30-36N,134-11W,rg38-78679858/p19,,yes,,,,,
+diary,,1944-10-17,0800,U,29-40N,137-38W,rg38-78679858/p19,,yes,,,,,
+diary,,1944-10-17,1200,U,29-22N,138-44W,rg38-78679858/p19,"""1328 Set all clocks back 1/2 hour to + 8 1/2 time zone"" (UV)",yes,,,,,
+diary,,1944-10-17,2000,UV,28-30N,141-01W,rg38-78679858/p19,,yes,,,,,
+diary,,1944-10-18,0800,UV,37-12N,144-03W,rg38-78679858/p19,,yes,27-12N,,,,typed 37-12N; 27-12N (one digit) fits the fixes either side (inferred)
+diary,,1944-10-18,1200,UV,26-53N,145-05W,rg38-78679858/p19,"""1434 Set all clocks back 1/2 hour to + 9 time zone"" (V)",yes,,,,,
+diary,,1944-10-18,2000,V,25-55N,147-38W,rg38-78679858/p19,,yes,,,,,
+diary,,1944-10-19,0800,V,24-31N,181-04W,rg38-78679858/p19,,yes,,151-04W,,,typed 181-04W; 151-04W (one digit) gives 16 to 17 kn from the 18 Oct 2000 fix and to the 1200 fix (inferred)
+diary,,1944-10-19,1200,V,23-59N,152-03W,rg38-78679858/p19,"""1501 Set all clocks back 1/2 hour to + 9 1/2 time zone"" (VW)",yes,,,,,
+diary,,1944-10-19,2000,VW,22-54N,154-40W,rg38-78679858/p19,,yes,,,,,
+diary,,1944-10-20,0800,VW,20-50N,157-42W,rg38-78679858/p20,Gunnery and tracking exercises in area V-3 before entering port,yes,,,,,
+diary,,1944-10-20,1200,VW,20-35N,157-05W,rg38-78679858/p20,,yes,,,,,
+narrative,moor berth D-1 Pearl Harbor,1944-10-20,1852,VW,21-21N,157-58W,rg38-78679858/p20,"""Moored starboard side to U.S.S. SPERRY in berth D-1, Middle Loch, Pearl Harbor, T.H. T.U. 12.9.1 is disolved""; 21 and 22 Oct there (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1944-10-23,0719,VW,21-21N,157-58W,rg38-78679858/p20,"""Underway from berth D-1 ... proceeding to exercise areas in company with WALDRON (O.T.C. - C.D.S. 62) and SPERRY"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-10-23,0800,VW,21-18N,157-58W,rg38-78679858/p20,,yes,,,,,
+diary,,1944-10-23,1200,VW,21-10N,158-00W,rg38-78679858/p20,,yes,,,,,
+diary,,1944-10-23,2000,VW,20-26N,158-18W,rg38-78679858/p20,,yes,,,,,
+diary,,1944-10-24,0800,VW,20-29N,158-10W,rg38-78679858/p21,,yes,,,,,
+diary,,1944-10-24,1200,VW,19-48N,158-30W,rg38-78679858/p21,,yes,,,,,
+diary,,1944-10-24,2000,VW,20-27N,158-08W,rg38-78679858/p21,,yes,,,,,
+diary,,1944-10-25,0800,VW,20-26N,158-06W,rg38-78679858/p21,,yes,,,,,
+diary,,1944-10-25,1200,VW,20-24N,157-57W,rg38-78679858/p21,,yes,,,,,
+narrative,moor berth X-21 Pearl Harbor,1944-10-25,1805,VW,21-21N,157-58W,rg38-78679858/p21,"""Moored alongside destroyer tender YOSEMITE in berth X-21, Middle Loch""; 26 to 30 Oct there, ""a tender availability"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+narrative,underway Pearl Harbor,1944-10-31,0641,VW,21-21N,157-58W,rg38-78679858/p21,"""Underway for operation area C-10 in company with U.S.S. MEADE"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
+diary,,1944-10-31,0800,VW,21-17N,157-57W,rg38-78679858/p21,,yes,,,,,
+diary,,1944-10-31,1200,VW,20-45N,158-10W,rg38-78679858/p21,,yes,,,,,
+narrative,moor berth D-1 Pearl Harbor,1944-10-31,1731,VW,21-21N,157-58W,rg38-78679858/p21,"""At 1731 we moored in berth D-1, Middle Loch, Pearl Harbor, T. H."" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
 narrative,underway Pearl Harbor,1944-11-01,0642,VW,21-21N,157-58W,rg38-78694496/p02,"Diary types no zone letter; its only zone line is ""Time zone + 4."" on 1 Nov, which does not fit Hawaii (the December diary types ""Time Zone + 9½"" at Pearl Harbor). VW (+9½, Hawaii war time) is written for the whole month from the December diary's zone and because no clock change is typed; this letter is an assumption, not read from the November diary. ""At 0642 we got underway from berth D-1, Middle Loch, Pearl Harbor, T. H. in company with U.S.S. WALLER ... Proceeded to operation area C-10 and made ASW runs and simulated attacks on U.S. submarine S-1"" (port position)",yes,,,,,Pearl Harbor coordinates are not in the diary; standard harbour position used
 diary,,1944-11-01,0800,VW,21-14N,158-04W,rg38-78694496/p02,,yes,,,,,
 diary,,1944-11-01,1200,VW,21-17N,158-31W,rg38-78694496/p02,,yes,,,,,
