@@ -82,7 +82,7 @@ Hand-edited (the source of truth):
 - `places.csv`: coordinates for the places the stations name
 - `actions.csv`: Battery D, 106th AAA's engagements and casualties, from the battalion's monthly
   histories (Aug 1944 – Apr 1945); the 62nd CA (AA) batteries' firings (A, B, C and G), from their morning reports
-  (Oran and Algiers, 1942–43); the 128th AAA Gun Bn's engagements named in Third Army's antiaircraft reports (1944–45), entered under its HQ battery
+  (Oran and Algiers, 1942–43); the 128th AAA Gun Bn's engagements named in Third Army's antiaircraft reports (1944–45), entered under its HQ battery; Company B, 313th Infantry's attacks and wounded in July 1944, from its morning reports and the regiment's history (`hist313`)
 - `ships.csv`: the ships of the sea crossings
 - `relations.csv`: dated relationships between units (part of, attached to, under command of, took part in), each with its page
 - `units.yml`: what each unit was, in a line, in our words (`plain`), keyed by `unit`: the designation in `units.csv` is the records', this is a plain description for a reader who doesn't know the designation

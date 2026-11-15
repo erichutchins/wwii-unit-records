@@ -380,6 +380,18 @@ hist894:
   match: '^hist894/p(\d+)$'
   used_for: army/stations.csv (source hist), the medical detachment's 1945 moves
 
+hist313:
+  title: History of the 313th Infantry in World War II
+  by: the regiment's officers (Washington, Infantry Journal Press, 1947)
+  kind: secondary
+  of: us
+  held: Internet Archive, HistoryOfThe313thInfantryInWorldWarII (scan with its text)
+  url: https://archive.org/details/HistoryOfThe313thInfantryInWorldWarII
+  rights: Public domain (published 1947; not renewed, as checked on the Internet Archive's copy)
+  cite: hist313/p<printed page>      # e.g. hist313/p82
+  match: '^hist313/p(\d+)$'
+  used_for: army/actions.csv (Company B, 313th Infantry, July 1944)
+
 gi9ad:
   title: "The 9th: The Story of the 9th Armored Division (G.I. Stories booklet, 1945)"
   kind: secondary
@@ -566,13 +578,25 @@ gallica:
   cite: gallica:<issue ark>, e.g. gallica:bpt6k75870445 (L'Écho d'Alger, 13 May 1943)
   match: '^gallica:(bpt6k\w+)(?:/f(\d+))?$'
   link: https://gallica.bnf.fr/ark:/12148/{1}
-  used_for: army/actions.csv notes (L'Écho d'Alger on the Algiers raids of May 1943)
+  used_for: army/actions.csv notes (L'Écho d'Alger on the Algiers raids of May 1943; L'Ouest-Éclair on La Haye-du-Puits, July 1944)
   note: >-
     Titles: L'Écho d'Alger (cb327596899, 1912–1955), L'Écho d'Oran (cb32759772v; none for 1941–42 or
     1944–45, and 1943 incomplete, without January or February), Oran-matin
     (cb32829421p; 1935–36 only); a title's issues by date are at https://gallica.bnf.fr/ark:/12148/<title ark>/date.
     Gallica's text export is the paper's OCR without page breaks, so an issue is cited by its ark until
     a page (/fN) is read on the image. The press in Algeria was censored in 1942–43.
+
+ddbzp:
+  title: Deutsches Zeitungsportal, the Deutsche Digitale Bibliothek's newspaper portal (German dailies, OCR'd page by page)
+  kind: press
+  of: de
+  held: The contributing libraries (e.g. Staats- und Universitätsbibliothek Hamburg), through the Deutsche Digitale Bibliothek
+  url: https://www.deutsche-digitale-bibliothek.de/newspaper
+  rights: Free to view; the metadata CC0
+  cite: ddbzp:<item id>/p<page>, e.g. ddbzp:O3SIITUMTQ4YJGXDOZ2EZUBUXJ7GSX2F/p1 (Hamburger Tageblatt, 12 Jul 1944)
+  match: '^ddbzp:([A-Z0-9]{32})(?:/p(\d+))?$'
+  link: https://www.deutsche-digitale-bibliothek.de/newspaper/item/{1}
+  used_for: army/actions.csv notes (the Wehrmacht's daily report as the German papers printed it)
 
 lastampa:
   title: La Stampa (Turin), daily, the Internet Archive's mirror of the paper's historical archive
