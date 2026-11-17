@@ -57,7 +57,11 @@ Shot down by medium flak over Ishigaki airfield and ditched about 20 miles east 
 Hellcats saw him in his raft. BANG had been ordered from her station northeast of Formosa at 1415, before his flight was
 launched, to search near the Sakishima Gunto for other downed aviators; she reached their reported position at 2330
 and, told of him by carrier planes the next morning, took him aboard at 0737. "He had been in the water fourteen
-hours": neither report times his landing, and fourteen hours before 0737 puts it at about 1737 (assumed). "Replacement clothing was no problem except for his size thirteen shoes."
+hours". The carrier division's war diary times it: at 1730 he was "reported down in raft in Latitude 24-22 N.,
+Longitude 124-30 E.", and the air-sea rescue plane was recalled to Kerama Retto "before rescue could be attempted";
+next morning "BANG rescued Ensign Donald E. CORZINE ... down in raft in Latitude 24-22 N., Longitude 124-30 E., since
+1730, 21 April" (Commander Carrier Division 22, war diary, April 1945, rg38-633449168/p20, p21). That is about 14
+miles east of the island's east coast at Shiraho (derived), the squadron's "about twenty miles East of the Island". "Replacement clothing was no problem except for his size thirteen shoes."
 
 ## The target
 
@@ -67,7 +71,9 @@ Ishigaki airfield strike, USS CHENANGO (Air Group 25).
 
 BANG's track runs straight between her reported positions; her search southeast of Ishigaki on the night of the 21st
 and the pickup itself have no position in her report, so the line doesn't show them. The dashed ring is where the
-squadron's report puts Corzine's water landing, "about twenty miles East of the Island": an estimate, not a fix. Her
+squadron's report puts Corzine's water landing, "about twenty miles East of the Island": an estimate, not a fix. The
+square beside it is the raft's position as the carrier division's war diary reports it at 1730 (to the minute, as
+typed; not a fix of BANG's at the pickup, which her report doesn't give). Her
 2200 radar-log position (125°14′E as typed) contradicts her own narrative and is drawn dashed.
 
 ## Clocks
@@ -79,10 +85,14 @@ local times can be read side by side.
 
 No Japanese record of Corzine's loss has been found. The Miyako-jima Guard Unit's action summary for the 21st (sent
 2243) claims one plane shot down and two damaged over Miyako, with no time or place; it is shown for context and is
-not his. Ishigaki's own report for the day is still missing.
+not his. Ishigaki's own report for the day is still missing. At 1236 on the 21st the Ishigaki air base (石垣航空基地)
+ordered aircraft using the field to fly without navigation lights, "敵潜水艦ノ當基地監視、夜戰在空ニ對處スル爲" (to
+counter the enemy submarine's watch on this base and the night fighters overhead) (C19010021200 p14). It names no
+boat and no position; at noon BANG was off north-east Formosa, about 78 miles west of the field (derived).
 
 ## Sources
 
 BANG's sixth war patrol report, NARA microfilm M1752 (74802934), narrative pages 11–13 and the Section U radar-
-intercept log. Air Group 25's aircraft action reports, Report No. 50 (NARA 140031168). The Navy's Nansei Shoto
+intercept log. Air Group 25's aircraft action reports, Report No. 50 (NARA 140031168). Commander Carrier Division 22's war diary,
+April 1945 (NARA 633449168), pages 20–21. The Navy's Nansei Shoto
 telegram file via JACAR (C19010021200, National Institute for Defense Studies). Coastline: Natural Earth.

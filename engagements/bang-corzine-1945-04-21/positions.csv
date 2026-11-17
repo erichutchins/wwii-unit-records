@@ -1,2 +1,3 @@
 id,label,of,kind,date,time,lat,lon,from,brg,nm,lat2,lon2,basis,source,ref,note
 corzine-ditches,Corzine ditches,us,estimate,1945-04-21,1737,24.33,124.5,,,,,,approx,"NARA 140031168, ACA Report No. 50, image p248",https://catalog.archives.gov/id/140031168?objectPage=248,about 20 miles east of Ishigaki airfield (squadron report); estimated
+corzine-raft,Corzine's raft (reported),us,contact,1945-04-21,1730,24.3667,124.5,,,,,,reported,"NARA 633449168, ComCarDiv 22 war diary Apr 1945, p20 (and p21, 22 Apr 0730)",https://catalog.archives.gov/id/633449168?objectPage=20,"""reported down in raft in Latitude 24-22 N., Longitude 124-30 E."" (zone I); the position to the minute as typed"
