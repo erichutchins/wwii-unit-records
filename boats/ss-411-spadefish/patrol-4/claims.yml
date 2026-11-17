@@ -1,0 +1,24 @@
+# Which attack goes with which Japanese record (japanese.yml). Hand-edited; fields in records/SCHEMA.md (A patrol's claims).
+# Attack 1 is paired with Dōryō Maru's own report (jacar:C08050050600). The rest of the patrol's attacks are not
+# transcribed yet.
+- attack: Attack 1
+  record: J02
+  relation: hit
+  note: >-
+    SPADEFISH fired four at the leading ship of a convoy at 1711 I on 23 March and timed two explosions one second
+    apart (attack sheet, rg38-74850330/p31; the narrative, p06, fires at 1710). Dōryō Maru's master has two
+    explosions about one second apart in No. 2 hold, starboard, at 1713 I, and Takasaki Maru saw two torpedo tracks
+    (J02). Two minutes apart (0811 and 0813 GMT); the master's estimated position, 29-24N 127-31E, is about 11 nm
+    south-west of the sheet's 29-31N 127-41E. The sheet's target was "the leading ship in column", course 220; the
+    convoy was steering 200 from 0400 (p29), and the attack-time formation (p36) has Dōryō Maru at its centre, No. 1
+    ship of the column formation (p35). The sheet's "large AK, KOEI MARU type" was a ship of 2,274 tons
+  janac:
+    - {ship: Doryo Maru, date: 1945-03-23, type: Cargo, tons: "2,274", lat_raw: 29-31N, lon_raw: 127-41E,
+       agent: SPADEFISH, probable: false, ref: janac:4/p85, appendix: janac:6/p45,
+       note: "JANAC's position is the attack sheet's, to the minute"}
+- attack: Attack 1
+  record: J03
+  relation: hit
+  note: >-
+    She broke in two and sank in 25-30 seconds (J03). SPADEFISH heard her screws stop and "several minutes of loud
+    breaking-up noises" (rg38-74850330/p06); the sheet claims her sunk. The two records agree that she sank

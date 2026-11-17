@@ -12,3 +12,4 @@ map:
   # dates: the first and last transcribed fix, not the report's departure and arrival
   periods:
     - { n: 3, name: Third War Patrol, dates: 5 Jan 1945 – 13 Feb 1945 }
+    - { n: 4, name: Fourth War Patrol, dates: 17 Mar 1945 – 26 Mar 1945 }

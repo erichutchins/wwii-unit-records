@@ -1,0 +1,43 @@
+# The attack data sheets' words, as typed. Hand-edited; the numbers are in attacks.csv.
+# Each sheet is two pages: `page` (time, position, target data, damage, own-ship data, type attack) and `table_page`
+# (one column per torpedo). attacks.csv cites `page`, the attack's row in positions.csv.
+# attacks.csv units, as typed on these sheets: courses degrees (T), speeds kts, ranges yds, depths and drafts ft;
+# interval in seconds (the sheet types "FIRING INTERVAL 9 Seconds" once; the first torpedo's is written ---);
+# depth_set as typed (10, 8); the sheet has no power row (Mark 18 electric torpedoes), so `power` is empty; hit and
+# erratic as typed (Hit, Miss, No). Gyro angles typed in degrees and minutes are in decimal degrees, to two places
+# (027-30 -> 027.5; 031-10 -> 031.17; 027-20 -> 027.33). `spread` is the kind the sheet types for the salvo.
+# Read on the scans: Attack 1, pp. 31-32, the only attack of the patrol entered so far.
+# target_line and own_ship are the sheet's lines as typed.
+
+- attack: Attack 1
+  type_attack: >-
+    This was a daylight periscope attack. Target was tracked by periscope and radar until position was obtained
+    ahead. Seas were heavy and torpedoes fired directly into it.
+  description: >-
+    Target was large AK similar to KOEI MARU class, page 171 - ONI 208-J (Revised). Target was part of a four ship
+    convoy consisting of two transports, two freighters, and four or more escorts. Heavy seas were running, and
+    visibility was hazy. Convoy was picked up by high periscope at a range of 19,000 yards.
+  sunk: One large AK, KOEI MARU type (EC).
+  determined_by: >-
+    Timed two torpedo explosions, time between explosions one second. Sound reported target screws stopped
+    instantly; they were not heard again. Loud breaking-up noises were heard through the hull in all compartments,
+    and on sound gear for a period of fifteen minutes.
+  target_line: Target Draft 16' Course 220 Speed 7.5 Range 2,000 (at firing)
+  own_ship: Speed 3 Course 320 Depth 64' Angle ½°D (at firing)
+  spread: Divergent
+  sea: Force (4)
+  overhaul: USS PROTEUS
+  remarks: >-
+    Firing interval was nine seconds. Two explosions resulted with less than one second interval. Track angle was
+    50 port with torpedo run 1700 yards. It is possible that second explosion was a result of countermining. Second
+    torpedo was spread left of first making its run about 50 yards less than the first, so believe two hits
+    resulted. Speed reduction for depth setting 10 feet was used.
+  page: rg38-74850330/p31
+  table_page: rg38-74850330/p32
+  note: >-
+    The sheet types the time 1711(I); the narrative (p06) has "1710 Fired four torpedoes at leading ship in column"
+    and the hits heard at 1711-15 and 1711-16. Actuation set Cont for all four; actual Cont for tube 1 and
+    "Poss. Countermine" for tube 2. Tube 2's track, typed 49P, is 3.5 degrees from the one its gyro (027-30) and the
+    sheet's courses give (52.5P, tools/check_attacks.py); both are as typed. The remarks give the track as 50 port.
+    The description has the convoy as four ships, two transports and two freighters; the narrative (p06) "four
+    transports and four or five escort vessels" at 1530

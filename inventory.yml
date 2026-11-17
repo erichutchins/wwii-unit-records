@@ -96,7 +96,11 @@ boats:
   SS-411:   # SPADEFISH, Balao class
     folder: boats/ss-411-spadefish
     patrols:
-      3: { status: mapped, nara: [74850282], first_fix: 1945-01-05, last_fix: 1945-02-13, files: [positions, japanese, claims, attacks], note: "position tables, attack sheets and narrative fixes; no depth log" }
+      1: { status: available, nara: [74850165, 139745213], note: "Jul - Sep 1944 (139745213 is the war diaries' copy)" }
+      2: { status: available, nara: [74850233, 139795946], note: "Oct - Dec 1944, coordinated attack group 17.13 (139795946 is the war diaries' copy)" }
+      3: { status: mapped, nara: [74850282, 139895771], first_fix: 1945-01-05, last_fix: 1945-02-13, files: [positions, japanese, claims, attacks], note: "position tables, attack sheets and narrative fixes; no depth log. 139895771 is the war diaries' copy" }
+      4: { status: transcribed, nara: [74850330, 139984792], first_fix: 1945-03-17, last_fix: 1945-03-26, files: [positions, japanese, claims, attacks], note: "Fourth War Patrol, Saipan 17 March - Guam 21 April 1945 (p02), East China Sea and Yellow Sea, with TINOSA. Entered so far: the noon Posits of 17-26 March (p04-p08) and Attack 1 (23 March, sheet p31-p32), paired with Doryo Maru's own report (jacar:C08050050600). Not yet: the narrative from 26 March (p08-p27), the ship contacts (p28-p29), the aircraft contacts (p30, prose) and the other attack sheets (p33-p41). 139984792 is the war diaries' copy" }
+      5: { status: available, nara: [74850387, 101747288], note: "May - Jul 1945 (101747288 is the war diaries' copy)" }
   # BANG's other pack-mates
   SS-279:   # SNOOK, Gato class
     folder: boats/ss-279-snook

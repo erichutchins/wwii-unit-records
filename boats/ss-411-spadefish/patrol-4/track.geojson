@@ -1,0 +1,316 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "track",
+    "patrol": 4,
+    "start": "1945-03-17T04:36Z",
+    "end": "1945-03-26T03:00Z"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      145.7167,
+      15.2333
+     ],
+     [
+      141.4917,
+      15.3
+     ],
+     [
+      137.4167,
+      18.0833
+     ],
+     [
+      137.45,
+      22.0333
+     ],
+     [
+      137.4,
+      26.875
+     ],
+     [
+      133.7917,
+      29.1
+     ],
+     [
+      128.2667,
+      29.85
+     ],
+     [
+      127.6833,
+      29.5167
+     ],
+     [
+      128.25,
+      28.45
+     ],
+     [
+      127.55,
+      32.35
+     ],
+     [
+      128.6,
+      33.875
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "depart Saipan",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-17T04:36Z",
+    "lat_raw": "15-14N",
+    "lon_raw": "145-43E",
+    "local": "1945-03-17 1336(I)",
+    "page": "rg38-74850330/p04",
+    "note": "Underway for patrol in compliance with ... Order No. 65-45. Proceeding in company with U.S.S. SC-775 (port position, as in Patrol 3; moored alongside FULTON at Saipan on 16 March, p04). \"All times following are Item unless\" otherwise stated",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.7167,
+     15.2333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Posit",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-18T03:00Z",
+    "lat_raw": "15-18N",
+    "lon_raw": "141-29.5E",
+    "local": "1945-03-18 1200(I)",
+    "page": "rg38-74850330/p04",
+    "note": "Posit",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.4917,
+     15.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Posit",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-19T03:00Z",
+    "lat_raw": "18-05N",
+    "lon_raw": "137-25E",
+    "local": "1945-03-19 1200(I)",
+    "page": "rg38-74850330/p05",
+    "note": "Posit",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4167,
+     18.0833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Posit",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-20T03:00Z",
+    "lat_raw": "22-02N",
+    "lon_raw": "137-27E",
+    "local": "1945-03-20 1200(I)",
+    "page": "rg38-74850330/p05",
+    "note": "Posit (the minutes' first digit is smudged; read as 0)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.45,
+     22.0333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Posit",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-21T03:00Z",
+    "lat_raw": "26-52.5N",
+    "lon_raw": "137-24E",
+    "local": "1945-03-21 1200(I)",
+    "page": "rg38-74850330/p05",
+    "note": "Posit; plane dropped a bomb at 1239 as SPADEFISH passed 45 feet",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.4,
+     26.875
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Posit",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-22T03:00Z",
+    "lat_raw": "29-06N",
+    "lon_raw": "133-47.5E",
+    "local": "1945-03-22 1200(I)",
+    "page": "rg38-74850330/p05",
+    "note": "Posit; Colnett Strait transited 2300-0300 (p06)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     133.7917,
+     29.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Posit",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-23T03:00Z",
+    "lat_raw": "29-51N",
+    "lon_raw": "128-16E",
+    "local": "1945-03-23 1200(I)",
+    "page": "rg38-74850330/p06",
+    "note": "Posit; at 1530 sighted four large ships at 20000 yards: convoy of four transports and four or five escort vessels",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.2667,
+     29.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "attack",
+    "ref": "Attack 1",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-23T08:11Z",
+    "lat_raw": "29-31N",
+    "lon_raw": "127-41E",
+    "local": "1945-03-23 1711(I)",
+    "page": "rg38-74850330/p31",
+    "note": "Torpedo attack No. 1: four fired at the leading ship in column, a large AK similar to KOEI MARU class, 2000 yds; two hits timed one second apart; claims one large AK sunk (narrative p06 has the firing at 1710 and the hits at 1711-15 and 1711-16; about 52 depth charges 1715-1812)",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.6833,
+     29.5167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Posit",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-24T03:00Z",
+    "lat_raw": "28-27N",
+    "lon_raw": "128-15E",
+    "local": "1945-03-24 1200(I)",
+    "page": "rg38-74850330/p07",
+    "note": "Posit; the narrative of 23 March: \"Bendix log was out of commission after\" the attack, \"accurate navigational fix, ran in to\" ... \"back to convoy track\" (the lines run off the crop: p07); submerged 0543 30 miles north of TORI",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.25,
+     28.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Posit",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-25T03:00Z",
+    "lat_raw": "32-21N",
+    "lon_raw": "127-33E",
+    "local": "1945-03-25 1200(I)",
+    "page": "rg38-74850330/p07",
+    "note": "Posit",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.55,
+     32.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "narrative",
+    "ref": "Posit",
+    "patrol": 4,
+    "on_track": true,
+    "utc": "1945-03-26T03:00Z",
+    "lat_raw": "33-52.5N",
+    "lon_raw": "128-36E",
+    "local": "1945-03-26 1200(I)",
+    "page": "rg38-74850330/p08",
+    "note": "Posit; FM sonar mine contacts the day before; A/S vessels searching",
+    "fix": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.6,
+     33.875
+    ]
+   }
+  }
+ ]
+}

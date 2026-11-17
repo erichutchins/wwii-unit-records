@@ -1,0 +1,146 @@
+# The Japanese record of this patrol's attacks, as written. Hand-edited; fields in records/SCHEMA.md (A patrol's Japanese record).
+# Dōryō Maru's own report, 敵潜ニ依ル被襲撃報告 (report of attack by enemy submarine), jacar:C08050050600 pp. 26-39:
+# the master's report, dated 19 May 1945 and signed as master of the Navy-requisitioned ship (海軍徴傭船) Dōryō Maru
+# (p34); the convoy's three formations (p35-p36), the ship's armament and lookouts (p37) and the cargo plan (p39).
+# Read on the scan at 150 dpi, the position, tonnage and cargo plan at 300-450 dpi. The report names the ship's
+# master, a hand-written name not carried here; its passengers are named by unit only.
+# Times are Tokyo time (zone I): the report gives no zone, and the convoy sailed from Sasebo.
+# Not yet searched: the escorts' war diaries (CD-215, CD-219, CD-32), the Sasebo Guard District's diary for March
+# 1945, and a convoy record for サイ〇五 (Sai-05).
+- id: J01
+  source: jacar:C08050050600
+  page: p28
+  ship: Dōryō Maru
+  event: departed
+  date: 1945-03-22
+  time: '0400'
+  zone: I
+  original: >-
+    本船ハ三月十九日〇六〇〇佐世保發同日一八〇〇待機錨地富江着 二十二日〇四〇〇富江發石垣島ニ向フ。本船團ハ「サイ〇五船團」ニシテ
+    僚船ハ高崎丸、清河丸、第一日正丸、鹿島丸 護衛艦ハ第二百十五號海防艦、第二百十九號海防艦、第三十二號海防艦、掃海艇第七利丸、同姫島丸ナリ。
+  translation: >-
+    This ship left Sasebo at 0600 on 19 March and reached the waiting anchorage, Tomie, at 1800 the same day. She
+    left Tomie at 0400 on the 22nd for Ishigaki Jima. The convoy is the "Sai-05 convoy" (サイ〇五船團); the other
+    ships are Takasaki Maru, Kiyokawa Maru, No. 1 Nisshō Maru and Kashima Maru; the escorts are Kaibōkan No. 215,
+    No. 219 and No. 32, and the minesweepers No. 7 ?ri Maru (第七利丸) and Himeshima Maru.
+  note: >-
+    Section 5 (航行實施及警戒ノ情況). Five merchant ships, three escort ships and two minesweepers. The page goes on: at
+    0500 abeam Kuroshima, speed 8 knots, course 180, zigzag plan 3; from 1200 Kashima Maru fell out of sight with a
+    breakdown and Himeshima Maru left to escort her; No. 1 Nisshō Maru dropped out in fog at 1300 and rejoined at
+    1600 (p29); course 235 from 1900 and 200 from 0400 on the 23rd; convoy speed 5 to 5.5 knots in a gale from the
+    north (p29-p30). The formation sketch (p36) writes the third escort 第22號 in one formation and 第三二 in the
+    other; the text has 第三十二號 here and on p32. The convoy's number is written サイ〇五; read by the reader as
+    Sai-05 (サ for Sasebo, イ for Ishigaki is inferred, not stated). Readings of the merchant ships' names in kana
+    are not given on these pages; 清河丸 is read Kiyokawa and 第七利丸's reading is not known (assumed)
+- id: J02
+  source: jacar:C08050050600
+  page: p27
+  ship: Dōryō Maru
+  event: torpedoed
+  date: 1945-03-23
+  time: '1713'
+  zone: I
+  lat_raw: 29-24N
+  lon_raw: 127-31E
+  original: >-
+    一、船名 道了丸、噸數二二七四噸七一、速力八節 ... 二、年月日 昭和二十年三月二十三日一七一三、 場所 東支那海 推測位置
+    北緯二九度二四分 東經一二七度三一分 天候海上模様 天氣曇リ 風向北、風力六、視界約一〇〇〇〇米 波浪五、ウネリノ方向北北西 同階級四、
+    海水温度一五度 氣温一三度 氣壓七六五粍 ... (p30) 三月二十三日一七一三右舷二番艙前部ニ爆發起リ甲板上積大發並ビニ○四艇ノ大部ハ
+    飛散シ船橋ヲ破壞ス 續イテ約一秒後右舷二番艙後部ニテ爆發シ船橋樓甲板以上全部吹キ飛バセリ ... 當直番員全部戰死シ被雷ヲ確認シ得ザレド
+    高崎丸ハ本船爆沈直後右方ニ二本ノ雷跡本船方向ヨリ來ルヲ認メタリト言フヲ以テ敵潜ノ雷撃ニ依ルモノト認ム
+  translation: >-
+    1. Ship: Dōryō Maru, 2,274.71 tons, speed 8 knots ... 2. Date: 23 March 1945 [Shōwa 20], 1713. Place: East China
+    Sea, estimated position 29°24'N 127°31'E. Weather: cloudy, wind north force 6, visibility about 10,000 m; sea 5,
+    swell from NNW grade 4; sea temperature 15°, air 13°, pressure 765 mm ... (p30) At 1713 on 23 March an explosion
+    in the forward part of No. 2 hold, starboard, blew away most of the landing craft and the boats [○四艇] stowed on
+    deck and wrecked the bridge; about one second later a second explosion, aft in No. 2 hold, starboard, blew away
+    everything above the bridge deck ... The whole watch was killed and the torpedoing could not be confirmed, but
+    Takasaki Maru says that just after this ship blew up she saw two torpedo tracks to her right coming from this
+    ship's direction, so we judge it a torpedo attack by an enemy submarine.
+  note: >-
+    Sections 1-2 (p27) and 6, the action (p30). The tonnage's first numeral is written small and could be taken for
+    三 (3,274); read 二 at 450 dpi, which agrees with JANAC's 2,274. The position is an estimate (推測位置). The
+    deck cargo marked ○四 (a circled 四) is the shinyō boats of the cargo plan (J06); landing craft is 大發. The
+    passengers in the temporary troop space in No. 2 hold "are judged all killed by the two explosions" (p30)
+- id: J03
+  source: jacar:C08050050600
+  page: p31
+  ship: Dōryō Maru
+  event: sank
+  date: 1945-03-23
+  time: '1713'
+  zone: I
+  lat_raw: 29-24N
+  lon_raw: 127-31E
+  original: >-
+    船體ハ中央部ニテ折斷サレシモノノ如ク左舷ニ大傾斜シ艦首ヲ上ゲテ急速ニ沈没セリ 被雷時ヨリ沈没マデ二五秒乃至三〇秒ト判斷サル ...
+    船體ト共ニ沈没（水深約二〇〇米）シ敵手ニ陥ルガ如キコト無シト認ム
+  translation: >-
+    The hull seems to have broken in two amidships; she listed heavily to port, lifted her bow and sank quickly. From
+    the hit to the sinking is judged 25 to 30 seconds ... [the confidential books] went down with the ship (depth of
+    water about 200 m), and we judge there is no chance of their falling into enemy hands.
+  note: >-
+    Section 6, continued. The time is the hit's (J02) and the sinking 25-30 seconds later; the position is the
+    estimate of p27. The page also tells how the master, on his way to the bridge after supper, was blown into the
+    passage by the second explosion and carried under by floating timber as she sank
+- id: J04
+  source: jacar:C08050050600
+  page: p32
+  ship: Dōryō Maru
+  event: rescue
+  date: 1945-03-23
+  time: '1800'
+  zone: I
+  original: >-
+    搭載物件ハ全部爆發又ハ沈没セリ 行方不明トナリ四圍ノ狀況ヨリ戰死セリト認ムル者別紙ノ如ク船員三九名 警戒隊員二一名 便乘者二六二名ナリ
+    生存者中戰傷ニ依リ佐世保上陸後海軍病院ニ入院セル者別紙ノ如ク船員二名 警戒隊員三名 便乘者九名ナリ ... 船團ハ本船被雷後直チニ退避ス
+    第三十二號海防艦ハ海面制壓ニ從ヒ爆雷投射ヲナス 掃海艇第七利丸ハ本船生存者救助ニ來リ一八〇〇頃ヨリ日没後迄 生存者 船員一五名、
+    警戒隊員九名、便乘者五九名ヲ救助シ (p33) 全員救助ヲ了ヘタル後船團ニ追尾シ二三〇〇頃復歸セリ
+  translation: >-
+    All the cargo blew up or sank. Missing, and judged killed from the circumstances, as in the attached list: crew
+    39, guard detachment 21, passengers 262. Of the survivors, wounded and taken into the naval hospital after
+    landing at Sasebo, as in the attached list: crew 2, guard detachment 3, passengers 9 ... The convoy turned away at
+    once after this ship was hit. Kaibōkan No. 32 dropped depth charges to hold down the sea area. The minesweeper
+    No. 7 ?ri Maru came to rescue this ship's survivors and from about 1800 until after sunset rescued crew 15, guard
+    detachment 9 and passengers 59; (p33) having rescued them all, she followed the convoy and rejoined it at about
+    2300.
+  note: >-
+    Sections 7 and 9 (p32-p33). The attached lists of names are not in these pages. Lost: 322; rescued: 83. Section 8
+    (p32): "nothing could be done" to warn friendly forces. SPADEFISH heard about 52 depth charges from 1715 to 1812
+    (I) and "the remainder" of the escorts near the sunken ship, "probably picking up survivors" (rg38-74850330/p06)
+- id: J05
+  source: jacar:C08050050600
+  page: p33
+  ship: Sai-05 convoy
+  event: status
+  date: 1945-03-25
+  time: '1100'
+  zone: I
+  original: 船團ハ二十五日一一〇〇富江ニ歸投セリ 同日一九〇〇佐世保歸着
+  translation: The convoy returned to Tomie at 1100 on the 25th. [The survivors] reached Sasebo at 1900 the same day.
+  note: >-
+    Section 9, continued. The convoy turned back to Tomie two days after the sinking; the page does not say why or
+    whether it sailed again
+- id: J06
+  source: jacar:C08050050600
+  page: p39
+  ship: Dōryō Maru
+  event: status
+  date: 1945-03-15
+  zone: I
+  original: >-
+    海軍徴傭船道了丸 貨物搭載圖 3月13日～15日 於佐世保搭載 石垣島揚 ... 第三十九震洋隊 大半部隊 1?7名 ... 1?糎高角砲台 高野隊 75名 ...
+    石垣島警備隊行 便乘者 59名 ... ㊃艇1型 15隻 ... ㊃艇1型 27隻 ... ①1?糎高角砲 1基 ... (39)燃料 155ドラム ... 石炭 200瓲
+  translation: >-
+    Navy-requisitioned ship Dōryō Maru, cargo stowage plan; loaded at Sasebo 13-15 March, to be landed at Ishigaki
+    Jima ... the 39th Shinyō Unit, its main body, 1?7 men ... a 1? cm high-angle gun battery, the Takano (?) party,
+    75 men ... passengers for the Ishigaki Jima Guard Unit, 59 men ... shinyō boats type 1, 15 and 27 ... one 1? cm
+    high-angle gun ... the 39th's fuel, 155 drums ... coal 200 tons.
+  note: >-
+    The cargo plan (p39), hand-drawn: the holds' contents and the troop space in No. 2 hold, with the shipper of each
+    lot marked: ① Sasebo Naval Arsenal, the Sasebo construction and supply departments (施設部, 軍需部), (39) the 39th
+    Shinyō Unit (第三十九震洋隊). Also lorries, a sidecar, a three-wheeled lorry, timber, cement, carbide, oxygen,
+    rations, clothing and the battery's stores. The battery's calibre is written 1? (13 or 12; not settled at 330
+    dpi) and its party's name 高野 with the first character uncertain. The 39th's strength is written 1?7; 187
+    would make the three parties 321, the 262 missing plus 59 rescued of J04 (inferred). Date is the last day of
+    loading, the time not stated

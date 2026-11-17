@@ -1,0 +1,12 @@
+source,ref,date,time,zone,lat_raw,lon_raw,page,note,on_track,lat_fix,lon_fix,date_fix,time_fix,fix_note
+narrative,depart Saipan,1945-03-17,1336,I,15-14N,145-43E,rg38-74850330/p04,"Underway for patrol in compliance with ... Order No. 65-45. Proceeding in company with U.S.S. SC-775 (port position, as in Patrol 3; moored alongside FULTON at Saipan on 16 March, p04). ""All times following are Item unless"" otherwise stated",yes,,,,,
+narrative,Posit,1945-03-18,1200,I,15-18N,141-29.5E,rg38-74850330/p04,Posit,yes,,,,,
+narrative,Posit,1945-03-19,1200,I,18-05N,137-25E,rg38-74850330/p05,Posit,yes,,,,,
+narrative,Posit,1945-03-20,1200,I,22-02N,137-27E,rg38-74850330/p05,Posit (the minutes' first digit is smudged; read as 0),yes,,,,,
+narrative,Posit,1945-03-21,1200,I,26-52.5N,137-24E,rg38-74850330/p05,Posit; plane dropped a bomb at 1239 as SPADEFISH passed 45 feet,yes,,,,,
+narrative,Posit,1945-03-22,1200,I,29-06N,133-47.5E,rg38-74850330/p05,Posit; Colnett Strait transited 2300-0300 (p06),yes,,,,,
+narrative,Posit,1945-03-23,1200,I,29-51N,128-16E,rg38-74850330/p06,Posit; at 1530 sighted four large ships at 20000 yards: convoy of four transports and four or five escort vessels,yes,,,,,
+attack,Attack 1,1945-03-23,1711,I,29-31N,127-41E,rg38-74850330/p31,"Torpedo attack No. 1: four fired at the leading ship in column, a large AK similar to KOEI MARU class, 2000 yds; two hits timed one second apart; claims one large AK sunk (narrative p06 has the firing at 1710 and the hits at 1711-15 and 1711-16; about 52 depth charges 1715-1812)",yes,,,,,
+narrative,Posit,1945-03-24,1200,I,28-27N,128-15E,rg38-74850330/p07,"Posit; the narrative of 23 March: ""Bendix log was out of commission after"" the attack, ""accurate navigational fix, ran in to"" ... ""back to convoy track"" (the lines run off the crop: p07); submerged 0543 30 miles north of TORI",yes,,,,,
+narrative,Posit,1945-03-25,1200,I,32-21N,127-33E,rg38-74850330/p07,Posit,yes,,,,,
+narrative,Posit,1945-03-26,1200,I,33-52.5N,128-36E,rg38-74850330/p08,Posit; FM sonar mine contacts the day before; A/S vessels searching,yes,,,,,

@@ -1,0 +1,5 @@
+attack,date,time,zone,tube,own_course,own_speed,own_depth,target_course,target_speed,target_range,target_draft,track,gyro,depth_set,power,hit,erratic,torpedo,interval,since_first,spread,offset,page
+Attack 1,1945-03-23,1711,I,1,320,3,64,220,7.5,2000,16,48P,030,10,,Hit,No,18-1,---,,divergent,,rg38-74850330/p31
+Attack 1,1945-03-23,1711,I,2,320,3,64,220,7.5,2000,16,49P,027.5,10,,Hit,No,18-1,9,,divergent,,rg38-74850330/p31
+Attack 1,1945-03-23,1711,I,3,320,3,64,220,7.5,2000,16,50P,031.17,10,,Miss,No,18-2,9,,divergent,,rg38-74850330/p31
+Attack 1,1945-03-23,1711,I,4,320,3,64,220,7.5,2000,16,50P,027.33,8,,Miss,No,18-2,9,,divergent,,rg38-74850330/p31
