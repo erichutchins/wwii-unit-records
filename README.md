@@ -124,6 +124,7 @@ Hand-edited, the source of truth:
 | `engagements/<id>/` | Two sides meeting, each from its own records: `engagement.md`, and as needed `events.yml`, `claims.yml`, `positions.csv`, `routes.yml`, `reach.yml` |
 | `operations/<theater>/` | The campaigns the stations sit inside, from the official histories: context, one Markdown file each |
 | `army/`, `seabees/` | Units, stations, places, actions, crossings, relations |
+| `navy/` | Dated relationships of ships and battalions: task organization, squadron and division, regiment and brigade |
 | `fronts/` | The traced situation maps, a set of files per day |
 | `roads/` | A wartime road map traced for one engagement's base map |
 | `film/` | Archive film of the places and days in the records, one row per film |

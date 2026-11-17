@@ -1369,7 +1369,31 @@ ams-italy-50k:
   rights: public domain (a U.S. government work)
   cite: ams-italy-50k/<sheet>, e.g. ams-italy-50k/172-II (Caserta)
   match: '^ams-italy-50k/\d+-[IV]+$'
-  used_for: army/places.csv (La Fagianeria, read off sheet 172-II Caserta)
+  used_for: >-
+    army/places.csv (La Fagianeria, read off sheet 172-II Caserta); the book's atlas (book/atlas/sheets/gsgs4229.yml;
+    the palermo extent's period map, sheets 249-I to IV, 250-III, 258-I, placed by their blue South Italy Zone grid,
+    the grid Battery C, 62nd CA's July 1943 references use: "419445 Sheet 249-II NE")
+
+gsgs-tunisia-50k:
+  title: "Tunisia 1:50,000 (G.S.G.S. 4225), Second edition - AMS 1, 1942"
+  by: Geographical Section, General Staff (War Office), 1942, copied from the French 1:50,000 sheets (sheet 6 from a French map dated 1936, sheet 12 from one dated 1938); reprinted by the Army Map Service, U.S. Army; road classification revised from intelligence reports, 1941; North West Africa grid (purple, 1 km lines)
+  kind: reference
+  of: uk
+  held: University of Texas Libraries, Perry-Castañeda Library Map Collection (scans)
+  url: https://maps.lib.utexas.edu/maps/ams/tunisia_50k/
+  rights: public domain (a U.S. government printing of a wartime War Office map)
+  cite: gsgs-tunisia-50k/<sheet>, e.g. gsgs-tunisia-50k/6 (Djebel Ichkeul)
+  match: '^gsgs-tunisia-50k/\d+$'
+  used_for: >-
+    the book's atlas (book/atlas/sheets/gsgs4225.yml; the bizerte extent's period map, sheets 2 Bizerte, 3 Metline,
+    6 Djebel Ichkeul, 7 Porto Farina, 12 Mateur, 13 Ariana)
+  note: >-
+    The series the 62nd CA's batteries name in their July 1943 reports ("J 775914 Sheet 6, 1:50,000 Br N.W.A. Grid"):
+    sheet 6 is Djebel Ichkeul, Lake Bizerte's south and west shores. Its grid data block prints the North-West Africa
+    Grid as tools/grid_ref.py has it (Lambert, Clarke 1880, origin 34 N on Greenwich, false origin 1,000 km E,
+    500 km N) and warns "DO NOT USE BLACK GRID". Each sheet's first labelled easting and northing were read by eye
+    on 16 Nov 2026; placed by its purple grid, the six sheets fit their grid crossings to 6-18 m. The collection's
+    index lists 93 sheets of the series.
 
 gsgs-italy-card:
   title: "Glossary and Reference Card for G.S.G.S. Maps of Italy (O.R. 1376)"
