@@ -1,0 +1,65 @@
+# Aircraft as the Allies' own recognition manuals described them at the time: the figures an AA gunner or a pilot
+# was given, not today's reference values. Each type is keyed as in ../silhouettes/silhouettes.yml. Hand-edited.
+# `source`/`ref`: the plate or page read; figures as printed (speeds in m.p.h. at the height printed).
+
+ju88:
+  name: Junkers Ju 88
+  as_printed: "GERMANY: Ju. 88A-6, Ju. 88 series; MEDIUM BOMBER-FIGHTER"
+  span: "66 ft."
+  length: "47 ft."
+  max_speed: ["287 m.p.h. at 14,000 ft. (no load)", "269 m.p.h. at 14,000 ft. (loaded)"]
+  ceiling: ["30,000 ft. (no load)", "19,000 ft. (normal load)"]
+  role: "Day and night fighter, dive and level bomber of land and sea targets"
+  words: >-
+    "The Ju-88 is one of the chief offensive weapons of the Nazis. In service on all fronts, it is used as a day and
+    night fighter and for dive and level bombing of both land and sea targets."
+  ref: fm-30-30/n118
+  source: FM 30-30, Recognition Pictorial Manual (April 1943), Ju 88A-6 plate
+
+beaufighter:
+  name: Bristol Beaufighter
+  as_printed: "R.A.F.: BEAUFIGHTER I, BEAUFIGHTER I, II, VI; FIGHTER"
+  span: "57 ft. 10 in."
+  length: "40 ft. 11 in."
+  max_speed: ["323 m.p.h. at 14,400 ft."]
+  ceiling: ["29,700 ft."]
+  role: "Twin-engine long-range fighter, principally a night fighter"
+  words: >-
+    "Although used principally as a night fighter, it rivals the Hurricane for versatility, being used also as a day
+    fighter, a 'tank buster,' and with the British Coastal Command."
+  ref: fm-30-30/n92
+  source: FM 30-30, Recognition Pictorial Manual (April 1943), Beaufighter I plate
+
+spitfire:
+  name: Supermarine Spitfire
+  as_printed: "R.A.F.: SPITFIRE V, SPITFIRE series; U.S. ARMY; FIGHTER"
+  span: "36 ft. 10 in."
+  length: "30 ft. 4 in."
+  max_speed: ["375 m.p.h. at 20,250 ft."]
+  ceiling: ["37,700 ft."]
+  role: "Single-engine fighter"
+  words: >-
+    "Its speed, rate of climb, superior maneuverability, and great fire power make it one of the finest single-engine
+    fighters in the world."
+  ref: fm-30-30/n78
+  source: FM 30-30, Recognition Pictorial Manual (April 1943), Spitfire V plate
+
+me262:
+  name: Messerschmitt Me 262
+  as_printed: "ME-262; German jet"
+  span: "41 ft. 7 in."
+  length: "34 ft. 9 in."
+  dims_ref: usanjor-194501/n55
+  max_speed: ["500 m.p.h. and over (turbo-jet units)"]
+  armament: "Four 30-mm. cannon are thought to be mounted in the pointed nose"
+  role: "Defensive fighter; lately a fighter-bomber with belly bombs"
+  words: >-
+    "In place of gasoline engines driving propellers, the widely spaced nacelles carry turbo-jet units giving them
+    top speeds of 500 m.p.h. and over. The one used most frequently up to now, the Me-262, first saw service as a
+    defensive fighter. Lately, however, it has carried belly bombs and took part in the Jan. 1 assault as a
+    fighter-bomber. It is one of the first German airplanes to have a bubblelike canopy and a tricycle landing gear."
+  ref: usanjor-194501/n49
+  source: U.S. Army-Navy Journal of Recognition, January 1945, "New German Warplanes", and p. 15 (silhouettes)
+  note: >-
+    What the Allies were told in January 1945, three months before the 106th AAA's batteries fired on JV 44's jets at
+    Neuburg (engagements/neuburg-1945-04-26). The Journal's "thought to be" is its own: the figures were estimates.

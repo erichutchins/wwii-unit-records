@@ -1206,6 +1206,24 @@ jawiki-w15:
   match: '^jawiki-w15$'
   used_for: ships/jp-w-15/ship.yml (her speed, range and 1944 fit, secondary)
 
+wikipedia:
+  title: Wikipedia (English), articles on air units and airfields
+  kind: secondary
+  of: us
+  held: Wikipedia, read 17 Nov 2026
+  url: https://en.wikipedia.org/
+  rights: CC BY-SA 4.0 (the text); cited, not copied beyond short quotations
+  cite: wikipedia:<Article_title>, e.g. wikipedia:Kampfgeschwader_76
+  match: '^wikipedia:([A-Za-z0-9_.()%-]+)$'
+  link: https://en.wikipedia.org/wiki/{1}
+  used_for: air/airfields.csv and air/raids.csv (where a raiding or defending unit was based, and which units a raid's
+    record doesn't name)
+  note: >-
+    A secondary source, used only where no record yet read gives the fact, and labelled so (basis "secondary"). The
+    unit articles cite their own sources: the Kampfgeschwader articles de Zeng, Stankey and Creek, Bomber Units of the
+    Luftwaffe 1933-1945 (2007-2008), with pages; No. 255 Squadron's the squadron's record book (TNA AIR 27/1518); the
+    USAAF squadrons' station lists Maurer's Combat Squadrons of the Air Force. Those are what to read to replace it.
+
 wikipedia-coordinates:
   title: Wikipedia, article coordinates for a place
   by: Wikipedia contributors
