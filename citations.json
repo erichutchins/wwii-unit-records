@@ -47,6 +47,7 @@
   "record_group": 38,
   "url": "https://catalog.archives.gov/id/74802746",
   "pages": [
+   2,
    3,
    4,
    5,
@@ -65,7 +66,8 @@
    23,
    25,
    30,
-   31
+   31,
+   36
   ]
  },
  "74802784": {
@@ -75,6 +77,7 @@
   "record_group": 38,
   "url": "https://catalog.archives.gov/id/74802784",
   "pages": [
+   2,
    3,
    4,
    5,
@@ -101,7 +104,8 @@
    32,
    38,
    39,
-   40
+   40,
+   44
   ]
  },
  "74802831": {
@@ -111,6 +115,7 @@
   "record_group": 38,
   "url": "https://catalog.archives.gov/id/74802831",
   "pages": [
+   2,
    3,
    4,
    5,
@@ -127,7 +132,8 @@
    19,
    21,
    23,
-   28
+   28,
+   34
   ]
  },
  "74802868": {
@@ -137,6 +143,7 @@
   "record_group": 38,
   "url": "https://catalog.archives.gov/id/74802868",
   "pages": [
+   2,
    3,
    4,
    5,
@@ -157,6 +164,8 @@
    30,
    31,
    32,
+   33,
+   38,
    39,
    40,
    41,
@@ -171,7 +180,8 @@
    58,
    59,
    60,
-   61
+   61,
+   64
   ]
  },
  "74802934": {
@@ -181,6 +191,7 @@
   "record_group": 38,
   "url": "https://catalog.archives.gov/id/74802934",
   "pages": [
+   2,
    3,
    4,
    5,
@@ -201,7 +212,8 @@
    20,
    26,
    35,
-   36
+   36,
+   41
   ]
  },
  "74803310": {
@@ -1371,6 +1383,33 @@
   "pages": [
    1,
    2
+  ]
+ },
+ "78679858": {
+  "title": "USS HAYSWORTH - War Diary, 6/22/44 to 10/31/44",
+  "series": "World War II War Diaries, Other Operational Records and Histories",
+  "series_id": 4697018,
+  "record_group": 38,
+  "url": "https://catalog.archives.gov/id/78679858",
+  "pages": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   8,
+   9,
+   10,
+   11,
+   12,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21
   ]
  },
  "78684020": {
@@ -3052,7 +3091,8 @@
    12,
    14,
    18,
-   27
+   27,
+   28
   ]
  },
  "481436282": {
