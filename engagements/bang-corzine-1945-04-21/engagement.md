@@ -16,13 +16,13 @@ participants:
     name: CHENANGO
     of: us
     kind: air group
-    sil: fighter
+    sil: hellcat
   - id: corzine
     name: Ens. Donald E. Corzine
     of: us
     kind: aircraft
-    sil: fighter
-    note: F6F-5 Hellcat, USS CHENANGO; rescued by BANG
+    sil: hellcat
+    note: "F6F-5 Hellcat, USS CHENANGO; rescued by BANG. Its silhouette is the F6F-3 plate (FM 30-30, April 1943), the nearest the manual draws"
 places:
   - name: Ishigaki
     lon: 124.17
