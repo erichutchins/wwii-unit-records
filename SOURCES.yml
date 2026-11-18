@@ -65,7 +65,7 @@ nara-war-diaries:
 nara-deck-logs:
   title: Deck logs, 1941–1950
   by: Bureau of Naval Personnel
-  kind: record
+  kind: secondary                  # a hand transcription of the logs, not the logs themselves
   of: us
   short: National Archives, deck logs
   held: NARA, Archives II (College Park, Maryland), Record Group 24 (Records of the Bureau of Naval Personnel), Entry P 118-A1, catalog series 594258
@@ -79,7 +79,10 @@ nara-deck-logs:
   note: >-
     The ships' deck logs (NAVPERS-134, the columnar and remarks sheets), filed by ship and date in boxes. Not
     digitized for BANG's war years: the catalog's scans of her logbooks begin in 1951 (series 594258). Read at
-    Archives II, College Park, 18 Aug 2011; decklog.csv is a transcription made there, so it is cited by box, not page.
+    Archives II, College Park, 18 Aug 2011; decklog.csv is a transcription made there, so it is cited by box, not page. It is a secondary source for
+    the logs' values: copied by hand, at speed, never read again against the page, so a slip is possible in any row.
+    Where it and a record disagree, the record is read first; the logs themselves are the primary record, to be read
+    again from scans.
   series_of: nara-catalog
 
 nara-morning-reports:

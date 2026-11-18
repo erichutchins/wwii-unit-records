@@ -240,7 +240,7 @@ remarks sheets name the crew, and the file holds positions and the day's figures
 | `hour` | `0800`, `1200`, `2000`, as the transcription labels its columns; `unlabelled` where it gives one position a day without its hour |
 | `lat_raw`, `lon_raw` | As transcribed: degrees, minutes and sometimes seconds separated by spaces (`41 12.5N`, `21 21 14.00N`), sometimes without the hemisphere |
 | `lat_fix`, `lon_fix`, `fix_note` | Corrections, as in positions.csv (a hemisphere not typed, a hemisphere typed wrong), and why a position is off the track |
-| `basis` | `transcribed`, or `assumed` for a port's position filled in to the second by the transcriber rather than copied from the log (Pearl Harbor, Midway, San Francisco, Portsmouth); blank on a row with figures and no position |
+| `basis` | `transcribed` (copied by hand at the archive, never read again against the page: a secondary source for the logs' values, `nara-deck-logs` in SOURCES.yml), or `assumed` for a port's position filled in to the second by the transcriber rather than copied from the log (Pearl Harbor, Midway, San Francisco, Portsmouth); blank on a row with figures and no position |
 | `on_track` | `yes`, or `no` for a position that contradicts its neighbours (`fix_note` says how); blank with no position |
 | `fuel_expended`, `fuel_on_hand` | The day's fuel in gallons, as transcribed; on the day's first row only |
 | `hours_submerged` | Hours submerged that day; on the day's first row |
