@@ -97,13 +97,19 @@ ships:
     role: escort
     source: combinedfleet:Daiyoku_t
     basis: secondary
-    note: Auxiliary gunboat. Named by combinedfleet only
+    note: >-
+      Auxiliary gunboat. Named by combinedfleet only. ONI 208-J (Revised, January 1945) has two KAZAN MARU in its index: one of 1920, 5,492 GT, ex-SHENG-HWA (p. 219),
+      and one of 1936, 1,893 GT, a 46 MKMF type drawn with her sisters (p. 270); which was the gunboat is not in the records
+      cited here, so no plate is linked and the generic gunboat stands
     sil: gunboat
   - ship: Maeshima
     role: escort
     source: combinedfleet:Daiyoku_t
     basis: secondary
-    note: Minelayer, joined 3 May. Named by combinedfleet only
+    note: >-
+      Minelayer, joined 3 May. Named by combinedfleet only. ONI 222-J (June 1945, p. XI, scan leaf 17) lists her as
+      CMc 24, a small minelayer of the SOKUTEN class (CMc 22-31 formerly the YURISHIMA class), with no plate; ONI 41-42
+      (June 1943, leaf 249) has the class "appearance & characteristics unknown". No plate found: the generic escort
     sil: escort
 ---
 

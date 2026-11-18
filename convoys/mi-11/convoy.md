@@ -69,7 +69,10 @@ ships:
     basis: reported
     note: >-
       Written 汐風 (row 4 of the chart). With (ミ一一) from 0600 on the 13th to Takao on the 21st (p16); not shown with
-      the convoy after Takao (p17)
+      the convoy after Takao (p17). Silhouette: the MINEKAZE class plate (ONI 222-J, p. 49), which lists her; the class
+      as listed, not the plate's refitted unit
+    sil: minekaze
+    sil_basis: class
   - ship: Kazan Maru
     role: escort
     from: 1944-07-29
@@ -81,7 +84,9 @@ ships:
       Only two of the six escorts the summary counts are in the 1st Surface Escort's chart; the other four are not yet
       found. In August's chart (C08030141400 p19) she stays with (ミ一一) into the 1st, then escorts "(第一小倉丸 被雷船)",
       the torpedoed No. 1 Ogura Maru, shelters at Santa Cruz (サンタクルスニ避泊) about the 4th and brings her on to
-      Corregidor (コレヒドール) about the 5th-6th
+      Corregidor (コレヒドール) about the 5th-6th. ONI 208-J (Revised, January 1945) has two KAZAN MARU in its index: one of 1920, 5,492 GT, ex-SHENG-HWA (p. 219),
+      and one of 1936, 1,893 GT, a 46 MKMF type drawn with her sisters (p. 270); which was the gunboat is not in the records
+      cited here, so no plate is linked and the generic gunboat stands
     sil: gunboat
   - ship: Harukaze
     role: escort

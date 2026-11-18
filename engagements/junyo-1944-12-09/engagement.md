@@ -36,8 +36,8 @@ participants:
     name: Maki
     of: jp
     kind: destroyer
-    sil: destroyer
-    note: 'a destroyer of the screen (Matsu class); the Imperial Navy''s summary has her hit once in the bow, back at Nagasaki at 1000; PLAICE took the screen for TERUTSUKI class; the silhouette is the kit''s generic destroyer'
+    sil: matsu
+    note: 'a destroyer of the screen (Matsu class); the Imperial Navy''s summary has her hit once in the bow, back at Nagasaki at 1000; PLAICE took the screen for TERUTSUKI class; the silhouette is the MATSU class plate (ONI 222-J, p. 67), which lists her'
 places:
   - name: Kyushu
     lon: 130.8
