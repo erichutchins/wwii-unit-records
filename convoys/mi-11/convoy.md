@@ -131,8 +131,13 @@ ships:
     source: jacar:C16120659800
     page: p9
     basis: reported
-    note: Written 扶桑丸 in the Imperial Navy's July summary; 81?5 tons (the third figure not certain) in the 1st Surface Escort's July loss list (C08030141100 p27)
-    sil: cargo
+    note: >-
+      Written 扶桑丸 in the Imperial Navy's July summary; 81?5 tons (the third figure not certain) in the 1st Surface
+      Escort's July loss list (C08030141100 p27). Silhouette: ONI 208-J (Revised), p. 8, 4 MFFM, her own plate (HUSO
+      MARU, the manual's spelling, alone; 1908, Great Britain, 8,196 GT, "declared a hospital ship"); JANAC has one Fuso
+      Maru, a transport of 8,195 GT, sunk this night (janac), so the loss list's third figure is read 9 by the agreement
+    sil: huso-maru
+    sil_basis: own
   - ship: Koei Maru
     role: merchant
     fate: sunk 1944-07-31 (the summary)
@@ -144,7 +149,9 @@ ships:
       read (??丸); in the 2nd Demobilization Bureau's copy of the same summary it is written 光栄丸, the first
       character formed like the 光 of 萬光丸 beside it. A copy of the same text, so one record, not two; JANAC has
       Koei Maru (tanker, 10,238 tons) for the night. The 1st Surface Escort's July loss list (C08030141100 p27) also
-      writes 光栄丸, at 1,0000 (10,000) tons. No time or position in any of them
+      writes 光栄丸, at 1,0000 (10,000) tons. No time or position in any of them. No silhouette: ONI 208-J (Revised)
+      has one KOEI MARU, a cargo ship of 6,774 GT (1934, p. 171, a class plate), not a tanker of about 10,000 tons, and
+      Supplement 2's KOEI MARU is an 863-ton net tender (JANAC has her sunk in 1942), so neither is this ship
   - ship: No. 1 Ogura Maru
     role: merchant
     fate: torpedoed and damaged 1944-07-31 (the summary); slightly damaged (小破), escorted to Corregidor about 5-6 August
@@ -154,9 +161,13 @@ ships:
     note: >-
       Written 第一小倉丸, under 被雷損傷 (torpedoed, damaged) in the Imperial Navy's July summary; 小破 (slightly damaged) in the 1st
       Surface Escort's July loss list (C08030141100 p27). Its August chart (C08030141400 p19) has Kazan Maru escorting
-      her, "the torpedoed ship", to shelter at Santa Cruz and on to Corregidor, so she stayed afloat
-    sil: tanker
-    sil_basis: 'assumed from the name (the Ogura Maru were oilers); the summary does not say'
+      her, "the torpedoed ship", to shelter at Santa Cruz and on to Corregidor, so she stayed afloat. Silhouette: ONI
+      208-J (Revised), p. 287, 63 MMF, the class plate headed DAI-ITI OGURA MARU (ex OGURA MARU #1), a tanker (code MMF,
+      potential naval value AO), with four more and a photograph of her; 7,268-311 GT, the manual's index 7,270 (1929);
+      JANAC has Ogura Maru No. 1, tanker, 7,270 GT, sunk 21 Sep 1944 (janac), so afloat for this convoy. The manual
+      thus confirms her a tanker, which the summary does not say
+    sil: dai-iti-ogura-maru-class
+    sil_basis: class
   - ship: Dakar Maru
     role: merchant
     fate: torpedoed and damaged 1944-07-31 (the summary); adrift on 2 August and taken in to Calayan Island (21st Minesweeper Division)
@@ -169,8 +180,11 @@ ships:
       damaged. The 21st Minesweeper Division's August diary (C08030211100 p3) settles it for 2 August: Minesweeper 39
       reached her "drifting position" (漂流位置) at 1320 and saw her, with Fukuju Maru (福寿丸), in to the anchorage at
       Calayan Island at 1340; Minesweeper 38 had sailed from Pangui Bay at 1325 on the 1st to rescue her. Afloat, not
-      sunk; her movements after Calayan are not yet found
-    sil: cargo
+      sunk; her movements after Calayan are not yet found. Silhouette: ONI 208-J (Revised), p. 201, 32 MFKM, the class
+      plate (ALASKA MARU, ATLAS, DAKAR, DELAGOA and DURBAN MARU, 1919-20, 7,148-7,378 GT), with a photograph of her;
+      the manual's index gives her 7,170 GT (1920), JANAC 7,169 GT (janac), and both have only one Dakar Maru
+    sil: alaska-maru-class
+    sil_basis: class
 ---
 
 Takao to Manila, sailing at 0500 on 29 July 1944 with sixteen ships and six escorts. The ships carried Army units

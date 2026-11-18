@@ -204,7 +204,11 @@ ships:
     basis: secondary
     note: >-
       Named by combinedfleet.com (secondary; Miri_t, Sarawak_t, Shirataka_t agree). The escort chart gives the
-      convoy as 12 ships but names only the two hit (jacar:C08030141000 p34)
+      convoy as 12 ships but names only the two hit (jacar:C08030141000 p34). No silhouette: ONI 208-J (Revised) names
+      one GOKOKU MARU, in the list of the ADEN MARU plate (p. 189, 30 MFM, 1918-20, about 5,800 GT), and the AIKOKU MARU
+      plate (p. 48, 10 MKFKM, 10,300-10,500 GT) says only "KOKOKU MARU may be GOKOKU MARU". JANAC has one Gokoku Maru, a converted light cruiser of 10,438 GT sunk
+      10 Nov 1944 (janac), which does not exclude the smaller ship, and this record gives no tonnage, so which she was
+      is open
     sil: cargo
   - ship: Hakozaki Maru
     role: merchant; transport
@@ -212,8 +216,13 @@ ships:
     basis: secondary
     note: >-
       Named by combinedfleet.com (secondary; Miri_t, Sarawak_t, Shirataka_t agree). The escort chart gives the
-      convoy as 12 ships but names only the two hit (jacar:C08030141000 p34)
-    sil: cargo
+      convoy as 12 ships but names only the two hit (jacar:C08030141000 p34). Silhouette: ONI 208-J (Revised), p. 57, 11
+      MKFKM, the class plate (HAKONE MARU, HAKOZAKI, HAKUSAN and HARUNA MARU, 1921-23, 10,380-10,421 GT). The manual has
+      a second Hakozaki Maru (p. 176, 3,949 GT, 1939), but JANAC has her sunk 14 Dec 1943, before this convoy, and the
+      larger one, a transport of 10,413 GT, sunk 19 Mar 1945 (janac); this record gives no tonnage, so the link rests
+      on that
+    sil: hakone-maru-class
+    sil_basis: 'class, assumed: the convoy gives no tonnage; the other Hakozaki Maru in the manual was lost in December 1943 (JANAC)'
   - ship: Otorisan Maru
     role: merchant; oiler
     source: combinedfleet:Miri_t

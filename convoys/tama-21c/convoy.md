@@ -42,7 +42,12 @@ ships:
     source: jacar:C08030141100
     page: p33
     basis: reported
-    note: Written 満泰 on the chart; 満泰丸 (5863) in the loss list (p27)
+    note: >-
+      Written 満泰 on the chart; 満泰丸 (5863) in the loss list (p27). Silhouette: ONI 208-J (Revised), p. 189, 30
+      MFM, the class plate (ADEN MARU and 42 more of one design, 1918-20, 5,824-901 GT), whose list names MANTAI MARU;
+      the manual's index gives her 1919, and JANAC 5,863 GT (janac), as the loss list
+    sil: aden-maru-class
+    sil_basis: class
   - ship: Jinzan Maru
     role: merchant
     to: 1944-07-17
