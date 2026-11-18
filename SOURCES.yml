@@ -62,6 +62,26 @@ nara-war-diaries:
   used_for: "ships/*/positions.csv (23 ships' war diaries: USS Haynsworth, Nov 1944 - Oct 1945; USS Solar, Sep 1944 - Oct 1945; USS South Dakota, Nov 1942 - Apr 1945; USS Bougainville, Jun 1944 - Sep 1945; nineteen ships of Task Force 58 for 5 to 7 April 1945); commands/comsubpac/ (the submarine force's October 1944 war diary); seabees/ (source wardiary, voyages.csv, voyage_positions.csv); engagements/*/events.yml"
   series_of: nara-catalog
 
+nara-deck-logs:
+  title: Deck logs, 1941–1950
+  by: Bureau of Naval Personnel
+  kind: record
+  of: us
+  short: National Archives, deck logs
+  held: NARA, Archives II (College Park, Maryland), Record Group 24 (Records of the Bureau of Naval Personnel), Entry P 118-A1, catalog series 594258
+  id: NAID 594258
+  url: https://catalog.archives.gov/id/594258
+  rights: Public domain
+  cite: rg24-594258/box<box>      # e.g. rg24-594258/box713
+  match: '^rg24-594258/box(\d+)$'
+  link: https://catalog.archives.gov/id/594258
+  used_for: "boats/ss-385-bang/decklog.csv (BANG: Box 713, 4 Dec 1943 – 30 Nov 1944; Box 714, Dec 1944 – 30 Apr 1946)"
+  note: >-
+    The ships' deck logs (NAVPERS-134, the columnar and remarks sheets), filed by ship and date in boxes. Not
+    digitized for BANG's war years: the catalog's scans of her logbooks begin in 1951 (series 594258). Read at
+    Archives II, College Park, 18 Aug 2011; decklog.csv is a transcription made there, so it is cited by box, not page.
+  series_of: nara-catalog
+
 nara-morning-reports:
   title: Morning Reports, 1912–1946 (Army companies, batteries and detachments)
   by: Adjutant General's Office

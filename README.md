@@ -65,6 +65,9 @@ the catalog.
 - **Checked by computation.** A track is tested for legs the ship couldn't have steamed (`tools/check_track.py`), a
   torpedo's typed track angle against its course and gyro (`tools/check_attacks.py`). A typed value is never changed
   to agree.
+- **One hand transcription.** BANG's deck logs (`boats/ss-385-bang/decklog.csv`) are not digitized: their positions
+  and daily figures were copied by hand at the National Archives in College Park in 2011, and the file is that
+  transcription (`basis: transcribed`), not a reading of a scan. Its citation is the box, not a page.
 - **Read by Claude, once.** Claude (Anthropic's AI model, working in Claude Code) read every scan and made every
   transcription here, under these rules, with one researcher directing and reviewing. Where it read in bulk, the
   folder's README says how each day or page was reviewed (`fronts/`). No row has had a second, independent reading:
@@ -86,6 +89,7 @@ the project's work and is labelled as such.
 | `reported` | The record says it |
 | `derived` | Computed from what a record says: a grid reference turned into a position, a bearing and distance resolved |
 | `inferred` | Reasoned from other records; the `note` gives the reasoning |
+| `transcribed` | Copied from a record by hand at the archive, where no scan is online (a deck log); the row cites the box |
 | `assumed` | Assumed, and labelled so: a zone letter the record doesn't type, a battery placed with its battalion |
 | `secondary` | From a later history or site, where no record has been read |
 

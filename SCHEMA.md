@@ -225,6 +225,42 @@ minute the three are the same clock.
 Port positions (Pearl Harbor, Midway, Saipan, Guam, Ulithi) aren't in the reports; they are standard harbour
 coordinates and say so in `note`. Arrival times not given in the report are set to noon and marked "noon assumed".
 
+## decklog.csv columns (boats/<boat>/)
+
+A boat's positions from her deck logs (NAVPERS-134, the "Deck Log—Columnar Sheet"), one row per position: the
+0800, 1200 and 2000 positions the columnar sheet gives each day, with the day's fuel, hours submerged and, where
+given, water temperature and mileage. One file a boat, across her patrols, refits and passages. No remark text: the
+remarks sheets name the crew, and the file holds positions and the day's figures only. BANG's
+([`boats/ss-385-bang/`](boats/ss-385-bang/README.md)) is the only one so far.
+
+| Column | Meaning |
+|---|---|
+| `date`, `date_fix` | The day as transcribed; a date that repeats is a date-line crossing (eastbound) or the day a patrol ended and a refit began |
+| `zone`, `zone_fix` | The log's zone description as a number, not a letter (`-10`: local time is GCT + 10, zone K; `9.5`, Hawaii's +9½). `zone_fix` where the typed zone contradicts the position or the day's clock change |
+| `hour` | `0800`, `1200`, `2000`, as the transcription labels its columns; `unlabelled` where it gives one position a day without its hour |
+| `lat_raw`, `lon_raw` | As transcribed: degrees, minutes and sometimes seconds separated by spaces (`41 12.5N`, `21 21 14.00N`), sometimes without the hemisphere |
+| `lat_fix`, `lon_fix`, `fix_note` | Corrections, as in positions.csv (a hemisphere not typed, a hemisphere typed wrong), and why a position is off the track |
+| `basis` | `transcribed`, or `assumed` for a port's position filled in to the second by the transcriber rather than copied from the log (Pearl Harbor, Midway, San Francisco, Portsmouth); blank on a row with figures and no position |
+| `on_track` | `yes`, or `no` for a position that contradicts its neighbours (`fix_note` says how); blank with no position |
+| `fuel_expended`, `fuel_on_hand` | The day's fuel in gallons, as transcribed; on the day's first row only |
+| `hours_submerged` | Hours submerged that day; on the day's first row |
+| `temperature` | Sea water temperature (°F), where transcribed (to May 1944) |
+| `mileage_begin`, `mileage_end` | The day's opening and closing mileage (nautical miles), where transcribed |
+| `ref` | The citation: the deck logs' series and box, `rg24-594258/box713` (SOURCES.yml `nara-deck-logs`); the logs aren't digitized, so there is no page |
+| `sheet`, `row` | The transcription's tab and row, so every value can be found in it |
+| `note` | The transcriber's own comment on the cell, word for word ("Had said: ...", "seems like bad data", a port's name), and what the file computed (a sum the transcription leaves as a formula) |
+
+`basis: transcribed` means the value was copied from the log by hand at the archive, into a spreadsheet, and not read
+again from an image here: it stands on that transcription, not on a scan anyone can open. A photograph of one
+columnar sheet (4 July 1944: 0800 19-25 116-24, fuel expended 1140, on hand 55870) agrees with it.
+
+`tools/check_track.py` speed-checks the deck log end to end, on its own (`<boat> deck log: N too-fast legs`). An
+`unlabelled` position is placed at noon, assumed, for the check. The deck log isn't drawn on the patrols' tracks: set
+beside the war patrol reports' fixes, BANG's positions disagree with them by up to about 100 nautical miles within
+hours on station, and Patrol 1's unlabelled positions sit about a day west of the bathythermograph fixes of the same
+date, so neither its hour nor its date is settled. Drawing one line from both needs those disagreements resolved fix by
+fix first.
+
 ## depths.csv columns
 
 | Column | Meaning |

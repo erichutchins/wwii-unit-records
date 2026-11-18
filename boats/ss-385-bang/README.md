@@ -14,6 +14,29 @@ from the National Archives scans (cited by page; titles in `../../citations.json
 
 Columns are defined in [the schema](../../SCHEMA.md).
 
+## The deck logs
+
+`decklog.csv` holds BANG's positions from her deck logs, 1 February 1944 to 22 June 1945: one a day, its hour not
+given, to the end of May 1944, then the 0800, 1200 and 2000 positions, with each day's fuel expended and on hand,
+hours submerged, the water temperature (to May 1944) and some days' mileage. The logs are in the National Archives
+at College Park, Record Group 24, deck logs 1941–1950 (Entry P 118-A1, catalog series
+[594258](https://catalog.archives.gov/id/594258)): Box 713 (4 Dec 1943 – 30 Nov 1944) and Box 714 (Dec 1944 –
+30 Apr 1946). They are not digitized; the file is a transcription made there on 18 Aug 2011 (`basis: transcribed`;
+the transcriber's cell comments are its `note`). Port positions given to the second were filled in by the
+transcriber, not copied from the log (`basis: assumed`). Columns in [the schema](../../SCHEMA.md#decklogcsv-columns-boatsboat).
+
+`tools/check_track.py` finds 0 too-fast legs in it after these corrections, each with its reason in `fix_note`:
+
+- **Zones.** The zone column is the zone at the start of the day; where the clocks changed before a position (28 Jul
+  1944, 15 May 1945) or the typed zone is on the wrong side of the date line (8–9 Jun, 29 Sep 1944), `zone_fix`
+  gives the zone in force; a day with no zone, or an impossible one, takes its neighbours'.
+- **Hemispheres.** Positions typed without N, E or W take them in `lat_fix`/`lon_fix` (N, and E or W by the zone
+  and the day's other positions); one latitude typed W is N.
+- **Off the track.** Positions that contradict their neighbours (`on_track: no`); where two positions four
+  hours apart can't both be right and nothing says which is wrong (30 Jul, 29 Aug 1944), both.
+
+It isn't drawn on the patrols' tracks: the reasons are in [the schema](../../SCHEMA.md#decklogcsv-columns-boatsboat).
+
 ## Corrections to the originals
 
 `tools/check_track.py` flags any leg BANG couldn't have sailed (over 20.5 kt
