@@ -46,8 +46,11 @@ ships:
     basis: reported
     note: >-
       第十番船 (No. 10 ship) in Nittatsu Maru's log. Cargo not recorded there. She presumably sailed with the convoy
-      from Takao on the 28th (J01); not recorded for her, so left blank. 1,930 GRT (J10)
-    sil: cargo
+      from Takao on the 28th (J01); not recorded for her, so left blank. 1,930 GRT (J10). Silhouette: ONI 208-J
+      (Revised), p. 270, 46 MKMF, the class plate (AMAKASU MARU #1 and 43 more, 1936-40, 1,852-1,961 GT), whose
+      list names TAKEGAWA MARU; the manual's index gives her 1,931 GT (1938). The photographs are of sisters
+    sil: amakasu-maru-1-class
+    sil_basis: class
   - ship: Taketoyo Maru
     role: merchant; designated rescue ship
     source: jacar:C08050103200

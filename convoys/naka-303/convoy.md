@@ -52,7 +52,12 @@ ships:
     source: jacar:C08030608100
     page: p3
     basis: reported
-    note: Escort No. 3, written in kana, ちとせ丸
+    note: >-
+      Escort No. 3, written in kana, ちとせ丸. Silhouette: ONI 208-J (Revised), p. 105, her own plate (TITOSE MARU,
+      1921, 2,669 GT, an ice-breaker, with a photograph of her in ice). The report gives no tonnage, so the match
+      rests on the name alone: the manual lists only this Titose Maru
+    sil: titose-maru
+    sil_basis: own
   - ship: No. 51 Banshu Maru
     role: escort
     number: '4'
@@ -101,7 +106,7 @@ ships:
     source: jacar:C08030608100
     page: p3
     basis: reported
-    note: Ship No. 3 by the table (type B, maximum speed 7.0 kt), written 鹿島丸
+    note: Ship No. 3 by the table (type B, maximum speed 7.0 kt), written 鹿島丸. Tonnage not given. Not the 9,908-ton liner of ONI 208-J p29, which JANAC has sunk on 27 Sep 1943 (janac:4/p44). A small coaster; an 873-GRT wartime-standard Kashima Maru, mined on 2 Jun 1945 (janac:4/p90), fits by tonnage and date alone (inferred; which Kashima Maru she was is open)
 ---
 
 NAKA-303 (ナカ三〇三) left Naha on 3 March 1945 for Kagoshima: three ships, Hangchow, Chokai and Kashima Maru, with
