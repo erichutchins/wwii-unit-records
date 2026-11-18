@@ -16,5 +16,9 @@ The other side of a unit's war in the air, kept apart from any one unit's record
 
 A raid's units and a unit's airfield are often from secondary sources so far (`basis: secondary`, `wikipedia:`, whose
 articles cite de Zeng et al. and the squadrons' record books): what to read to replace them is in each note.
+Fields may also be the two ends of an engagement's mission flown over the units: Dijon (the 17th Bomb Group's B-26s,
+as its Missing Air Crew Reports type it) and Munich-Riem (JV 44's Me 262s) for Neuburg, 26 April 1945
+(`engagements/neuburg-1945-04-26`), each dated to the day its record gives.
+
 Which airfield a given raid flew from is a lead unless a record says so; a book or page that draws a raid's direction
 draws it from a field as illustration, and says so.
