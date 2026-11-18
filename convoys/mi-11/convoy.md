@@ -109,16 +109,22 @@ ships:
     basis: reported
     note: >-
       Written 吉野丸, first of the four sunk in the Imperial Navy's July summary; no time or position given there. 8990 tons in
-      the 1st Surface Escort's July loss list (C08030141100 p27)
-    sil: cargo
+      the 1st Surface Escort's July loss list (C08030141100 p27). Silhouette: ONI 208-J (Revised), p. 30, her own plate
+      (YOSINO MARU, 1906, 8,990 GT, the loss list's figure)
+    sil: yosino-maru
+    sil_basis: own
   - ship: Manko Maru
     role: merchant
     fate: sunk 1944-07-31 (the summary)
     source: jacar:C16120659800
     page: p9
     basis: reported
-    note: Written 萬光丸 in the Imperial Navy's July summary; 万光丸 (4471 tons) in the 1st Surface Escort's July loss list (C08030141100 p27)
-    sil: cargo
+    note: >-
+      Written 萬光丸 in the Imperial Navy's July summary; 万光丸 (4471 tons) in the 1st Surface Escort's July loss list
+      (C08030141100 p27). Silhouette: ONI 208-J (Revised), p. 71, her own plate (MANKO MARU, SENKO MARU, 1935,
+      4,472 GT, within one of the loss list's figure)
+    sil: manko-senko-maru
+    sil_basis: own
   - ship: Fuso Maru
     role: merchant
     fate: sunk 1944-07-31 (the summary)

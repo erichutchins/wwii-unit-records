@@ -31,7 +31,10 @@ ships:
     basis: reported
     note: >-
       Written しやとる丸 among the six sunk on the chart; Army-requisitioned, 5773 tons, 4,300 troops (the summary,
-      C16120659800 p5). PIRANHA's by JANAC (secondary; janac:6/p29)
+      C16120659800 p5). PIRANHA's by JANAC (secondary; janac:6/p29). Silhouette: ONI 208-J (Revised), p. 172, her own
+      plate (SEATTLE MARU, TACOMA MARU, 1909, 5,773 GT, the summary's figure)
+    sil: seattle-tacoma-maru
+    sil_basis: own
   - ship: Mantai Maru
     role: merchant
     to: 1944-07-17

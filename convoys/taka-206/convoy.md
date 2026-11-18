@@ -78,8 +78,10 @@ ships:
     basis: reported
     note: >-
       No. 2, written 鳳山丸; 船種 (type) C, top speed 10 kt, displacement 二三四五 (as written) in W-15's convoy table.
-      Type letters A and C are not explained on the page
-    sil: cargo
+      Type letters A and C are not explained on the page. Silhouette: ONI 208-J (Revised), p. 36, her own plate
+      (HOZAN MARU, KAGI MARU, 1907, 2,344 GT, within one of the table's figure)
+    sil: hozan-kagi-maru
+    sil_basis: own
   - ship: Sannin Maru
     role: merchant
     number: '3'
@@ -102,8 +104,10 @@ ships:
     basis: reported
     note: >-
       No. 4, written 天草丸; 船種 (type) C, top speed 10 kt, displacement 二三四五 (as written) in W-15's convoy table.
-      Type letters A and C are not explained on the page
-    sil: cargo
+      Type letters A and C are not explained on the page. Silhouette: ONI 208-J (Revised), p. 37, her own plate
+      (AMAKUSA MARU, 1901, 2,340 GT, within five of the table's figure)
+    sil: amakusa-maru
+    sil_basis: own
   - ship: Eikai Maru
     role: merchant
     number: '5'

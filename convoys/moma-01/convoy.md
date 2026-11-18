@@ -28,7 +28,10 @@ ships:
     basis: reported
     note: >-
       Written 日蘭丸（沈没） on the chart's モマ01 line; 陸軍部隊輸送ノ日蘭丸（A徴傭6503t） in the summary. Read Nichiran
-      after JANAC (secondary), which credits PIRANHA (janac:6/p29)
+      after JANAC (secondary), which credits PIRANHA (janac:6/p29). Silhouette: ONI 208-J (Revised), p. 172, her own
+      plate as NITIRAN MARU, with NISSYO MARU (1938-39, 6,510-27 GT for the pair, against the summary's 6503t)
+    sil: nissyo-nitiran-maru
+    sil_basis: own
 ---
 
 MOMA-01 is a line on the 1st Surface Escort Division's July 1944 chart of the Philippines north route (別表第七),
