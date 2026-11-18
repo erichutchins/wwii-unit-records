@@ -176,7 +176,13 @@ ships:
     role: merchant
     source: combinedfleet:Nittatsu_t
     basis: secondary
-    note: In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru
+    note: >-
+      In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru. Silhouette: ONI 208-J
+      (Revised), p. 219, 38 MFM, the class plate (ADA and 24 ships of one design), whose list names YAMAHAGI MARU, the
+      manual's only ship of the name (type index: 1919, 5,426 GT); JANAC's one Yamahagi Maru, 5,246 GT, was sunk by
+      carrier aircraft at Takao on 12 Oct 1944 (janac:4/p73), after this convoy
+    sil: ada-class
+    sil_basis: "class, assumed: the manual gives 5,426 GT and JANAC 5,246 (the same figures transposed)"
   - ship: Shirotae Maru
     role: merchant
     source: combinedfleet:Nittatsu_t

@@ -55,7 +55,12 @@ ships:
     source: jacar:C08030141100
     page: p33
     basis: reported
-    note: Written 仁山 on the chart; 仁山丸 (5215) in the loss list (p27)
+    note: >-
+      Written 仁山 on the chart; 仁山丸 (5215) in the loss list (p27). Silhouette: ONI 208-J (Revised), p. 219, 38 MFM,
+      the class plate (ADA and 24 ships of one design, 1918-21, 5,139-5,764 GT), whose list names ZINZAN MARU; the
+      manual's type index gives her 1919, 5,216 GT, and JANAC 5,215 GT, sunk 16 Jul 1944 (janac:4/p64), as the loss list
+    sil: ada-class
+    sil_basis: class
   - ship: Hiyama Maru
     role: merchant
     to: 1944-07-17

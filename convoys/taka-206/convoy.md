@@ -35,8 +35,10 @@ ships:
     source: jacar:C08030607900
     page: p32
     basis: reported
-    note: Escort No. 2, written 関丸, in W-15's battle report, 一 計画 (ロ) 船団編成並ニ護衛艦艇
-    sil: gunboat
+    note: >-
+      Escort No. 2, written 関丸, in W-15's battle report, 一 計画 (ロ) 船団編成並ニ護衛艦艇. ONI 208-J Supplement 2's statistical index lists three Seki Marus, all whale killers converted for the Navy (Seki Maru, 298 GT, "Whaler; XAM"; No. 2, 360 GT, XPC; No. 3, 304 GT, XAM); the report does not say which this was. Silhouette: the supplement's typical whale killer, GANJITSU MARU (p. 144; 211 GT, 122'), drawn before conversion
+    sil: ganjitsu-maru
+    sil_basis: "class, assumed: a converted whale killer, drawn as the manual's typical whale killer (Ganjitsu Maru), not as she was converted"
   - ship: No. 16 Shonan Maru
     role: escort
     number: '3'
@@ -44,8 +46,10 @@ ships:
     source: jacar:C08030607900
     page: p32
     basis: reported
-    note: Escort No. 3, written 第十六昭南丸, in W-15's battle report, 一 計画 (ロ) 船団編成並ニ護衛艦艇
-    sil: gunboat
+    note: >-
+      Escort No. 3, written 第十六昭南丸, in W-15's battle report, 一 計画 (ロ) 船団編成並ニ護衛艦艇. ONI 208-J Supplement 2 does not list her; it names a SHONAN MARU class of whale killers, one shown armed and beached off Kwajalein (p. 146), and draws SYONAN MARU No. 11, a whale killer converted to an XPC (p. 143, a photograph). Silhouette: the supplement's typical whale killer, GANJITSU MARU (p. 144; 211 GT, 122'), drawn before conversion
+    sil: ganjitsu-maru
+    sil_basis: "class, assumed: taken to be a converted whale killer of the Shonan Maru series, drawn as the manual's typical whale killer (Ganjitsu Maru)"
   - ship: W-15
     role: escort
     number: '4'
@@ -131,8 +135,11 @@ ships:
     note: >-
       No. 6, written 栄丸; 船種 (type) A, top speed 9 kt, displacement 二八七八 (as written) in W-15's convoy table. Type
       letters A and C are not explained on the page. Her movement sheet (榮丸, 2,878 tons, ship number 28554) gives the
-      24th in both its header and its remark; no attack in the kit falls that day
-    sil: cargo
+      24th in both its header and its remark; no attack in the kit falls that day. Silhouette: ONI 208-J (Revised),
+      p. 232, 38 MFM, the plate of NISSEI MARU (2,876 GT), whose list of similar ships names SAKAE MARU, the manual's
+      only ship of the name; JANAC gives Sakae Maru 2,878 GT, sunk 23 Nov 1944 (janac:4/p78), as the table's figure
+    sil: nissei-maru-class
+    sil_basis: "class, assumed: the plate lists her as similar to NISSEI MARU and draws Nissei Maru"
 ---
 
 Keelung to Naha, sailing at 0800 on 22 November 1944 with six ships and four escorts (W-15's battle report,
