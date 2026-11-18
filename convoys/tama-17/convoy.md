@@ -32,8 +32,10 @@ ships:
     note: >-
       Her master's movement log. 24 Apr: arrived Takao from Tsoying, 積荷石炭二五〇屯（マニラ揚） (loaded coal 250 t, to be
       landed at Manila); 28 Apr: departed Takao; 29 Apr: at sea. 2,859 GRT in the escort division's loss list
-      (J10). The log names her and Taketoyo Maru the convoy's rescue ships (p23-24)
-    sil: cargo
+      (J10). The log names her and Taketoyo Maru the convoy's rescue ships (p23-24). ONI 208-J Supplement 3, p. 13
+      lists NITTATSU MARU 2,859 GT under Type TM (Modified), the small standard tanker (oni-208-j-sup3)
+    sil: type-tm-mod-tanker
+    sil_basis: class
   - ship: Takegawa Maru
     role: merchant
     number: '10'
