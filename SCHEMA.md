@@ -452,3 +452,22 @@ The kit's `tools/check_crossrefs.py` prints each note against its attack in UTC.
 it, with `actor: FRUPAC`, `of: us`, `basis: assumed` and the zone assumption in its `note`; the note's own `event` word
 is kept beside the engagement's kind. FRUPAC is a source about the convoy, not a participant. The mapping of event
 words, and how the pages show the notes, is in the kit's `guides/ENGAGEMENTS.md`.
+
+## Recognition silhouettes (silhouettes/silhouettes.yml)
+
+The conventions (views, units, parts, how each plate was traced) are in the file's own header; each entry cites its
+plate in `source` or `plate` and `sources`. One optional field records where on the plate's scan the outline was traced
+from:
+
+| Field | Meaning |
+|---|---|
+| `crop` | The section of the scan the outline was traced from, for finding the drawing on the scan and for starting a later retrace there; no page draws it, and `silhouettes.json` leaves it out. A ship has one; an aircraft has one per view (`crop: {plan: ..., front: ..., profile: ...}`). Each holds `scan`, `box`, `mirrored`, `px_per_ft` and, for a drawing printed sideways, `turn` |
+| `scan` | The page image: `ia:<Internet Archive identifier>/<leaf>` (the leaf number of the item's page images, as the entries cite it), or `ibiblio:<path>` for an image on ibiblio (HyperWar) |
+| `box` | `[x, y, w, h]` in the scan's own pixels at the full resolution the archive serves (the item's JPEG 2000 leaf; HyperWar's full-size image): the outline's extent laid on the drawing |
+| `mirrored` | `true` when the outline is the drawing flipped left to right (the plate draws the bow or nose on the left). Plan and head-on views are symmetric about their centre line and are `false` |
+| `turn` | Degrees clockwise the section is turned before the outline is laid on it, for a drawing printed sideways (`90`) |
+| `px_per_ft` | The scan's pixels to a foot at the drawing: the box's width over the span (plan, head-on) or the length (profile, ship) |
+
+The boxes were found by laying the outline on the scan's thresholded ink at the scale, flip and place that fit best,
+so they are as close as the outline is to the drawing. An entry with no `crop` says why in a comment: drawn by hand to
+printed heights, traced from a vector drawing, or a scan not yet matched.
