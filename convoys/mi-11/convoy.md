@@ -94,6 +94,8 @@ ships:
       Cape Bolinao (the diary's narrative). In August's chart (C08030141400 p19) her row reads (單), then (ミ一一) from
       the 1st, then Manila from about the 3rd: so she joined the convoy for its last leg. Whether that was this attack is uncertain: the convoy's number written ミ一? (the second figure not seen), and Cape Bolinao (about 16-20N) is some 150 nm south of the boats' attack positions (about 19N), so this may be another convoy, or a later attack on MI-11 on its way south from Pangui Bay; not part of the
       convoy's escort
+    sil: kamikaze
+    sil_basis: class
   - ship: Yoshino Maru
     role: merchant
     fate: sunk 1944-07-31 (the summary)
