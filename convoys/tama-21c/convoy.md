@@ -31,7 +31,10 @@ ships:
     basis: reported
     note: >-
       Written しやとる丸 among the six sunk on the chart; Army-requisitioned, 5773 tons, 4,300 troops (the summary,
-      C16120659800 p5). PIRANHA's by JANAC (secondary; janac:6/p29)
+      C16120659800 p5). PIRANHA's by JANAC (secondary; janac:6/p29). Silhouette: ONI 208-J (Revised), p. 172, her own
+      plate (SEATTLE MARU, TACOMA MARU, 1909, 5,773 GT, the summary's figure)
+    sil: seattle-tacoma-maru
+    sil_basis: own
   - ship: Mantai Maru
     role: merchant
     to: 1944-07-17
@@ -39,7 +42,12 @@ ships:
     source: jacar:C08030141100
     page: p33
     basis: reported
-    note: Written 満泰 on the chart; 満泰丸 (5863) in the loss list (p27)
+    note: >-
+      Written 満泰 on the chart; 満泰丸 (5863) in the loss list (p27). Silhouette: ONI 208-J (Revised), p. 189, 30
+      MFM, the class plate (ADEN MARU and 42 more of one design, 1918-20, 5,824-901 GT), whose list names MANTAI MARU;
+      the manual's index gives her 1919, and JANAC 5,863 GT (janac), as the loss list
+    sil: aden-maru-class
+    sil_basis: class
   - ship: Jinzan Maru
     role: merchant
     to: 1944-07-17
@@ -47,7 +55,12 @@ ships:
     source: jacar:C08030141100
     page: p33
     basis: reported
-    note: Written 仁山 on the chart; 仁山丸 (5215) in the loss list (p27)
+    note: >-
+      Written 仁山 on the chart; 仁山丸 (5215) in the loss list (p27). Silhouette: ONI 208-J (Revised), p. 219, 38 MFM,
+      the class plate (ADA and 24 ships of one design, 1918-21, 5,139-5,764 GT), whose list names ZINZAN MARU; the
+      manual's type index gives her 1919, 5,216 GT, and JANAC 5,215 GT, sunk 16 Jul 1944 (janac:4/p64), as the loss list
+    sil: ada-class
+    sil_basis: class
   - ship: Hiyama Maru
     role: merchant
     to: 1944-07-17
@@ -55,7 +68,7 @@ ships:
     source: jacar:C08030141100
     page: p33
     basis: reported
-    note: Written 日山 on the chart; 日山丸 (2800) in the loss list (p27). The reading Hiyama is JANAC's (secondary)
+    note: Written 日山 on the chart; 日山丸 (2800) in the loss list (p27). The reading Hiyama is JANAC's (secondary), which gives 2,838 GT (janac:6/p18). Not the 6,173-ton Hiyama Maru (ex Matuyama Maru, built 1920) of ONI 208-J p199, which JANAC has sunk on 12 Jul 1942 (janac:4/p32) (inferred)
   - ship: Sainei Maru
     role: merchant
     to: 1944-07-17
@@ -71,7 +84,7 @@ ships:
     source: jacar:C08030141100
     page: p33
     basis: reported
-    note: Written 祥山 on the chart; 祥山丸 (2856) in the loss list (p27)
+    note: Written 祥山 on the chart; 祥山丸 (2856) in the loss list (p27); JANAC gives 2,838 GT (janac:6/p50). Not the 2,937-ton Shozan Maru (built 1918) of ONI 208-J p233; JANAC has a 2,937-GT Shozan Maru lost to an Army mine at Haiphong on 26 Oct 1943 (janac:4/p45), nine months earlier (inferred)
 ---
 
 TAMA-21C, a Takao–Manila convoy, appears in the 1st Surface Escort Division's July 1944 chart (別表第七) as 20 ships

@@ -47,8 +47,12 @@ ships:
     basis: secondary
     note: >-
       Named as escort by combinedfleet. The Yokosuka Guard Squadron's escort grid (jacar:C08030363600 p5) writes
-      父島 (Chichi-jima) across about days 8–11 in her row, which fits; read with low confidence (skewed scan)
-    sil: escort
+      父島 (Chichi-jima) across about days 8–11 in her row, which fits; read with low confidence (skewed scan).
+      Silhouette: the NING HAI class plate (ONI 41-42, July 1943, leaf 263), which lists her as PING HAI; its profile is
+      her sister NING HAI as built, before Ping Hai was rebuilt as the escort Yasojima. ONI 222-J (June 1945) lists
+      YASOJIMA (light cruiser, ex-escort, p. VI) with no plate
+    sil: ning-hai
+    sil_basis: 'class, assumed: the plate lists her as PING HAI and draws NING HAI as built (1937); her rebuilding as an escort is not drawn'
   - ship: Hachijo
     role: escort
     source: combinedfleet:yasojima_t

@@ -32,8 +32,10 @@ ships:
     note: >-
       Her master's movement log. 24 Apr: arrived Takao from Tsoying, 積荷石炭二五〇屯（マニラ揚） (loaded coal 250 t, to be
       landed at Manila); 28 Apr: departed Takao; 29 Apr: at sea. 2,859 GRT in the escort division's loss list
-      (J10). The log names her and Taketoyo Maru the convoy's rescue ships (p23-24)
-    sil: cargo
+      (J10). The log names her and Taketoyo Maru the convoy's rescue ships (p23-24). ONI 208-J Supplement 3, p. 13
+      lists NITTATSU MARU 2,859 GT under Type TM (Modified), the small standard tanker (oni-208-j-sup3)
+    sil: type-tm-mod-tanker
+    sil_basis: class
   - ship: Takegawa Maru
     role: merchant
     number: '10'
@@ -44,8 +46,11 @@ ships:
     basis: reported
     note: >-
       第十番船 (No. 10 ship) in Nittatsu Maru's log. Cargo not recorded there. She presumably sailed with the convoy
-      from Takao on the 28th (J01); not recorded for her, so left blank. 1,930 GRT (J10)
-    sil: cargo
+      from Takao on the 28th (J01); not recorded for her, so left blank. 1,930 GRT (J10). Silhouette: ONI 208-J
+      (Revised), p. 270, 46 MKMF, the class plate (AMAKASU MARU #1 and 43 more, 1936-40, 1,852-1,961 GT), whose
+      list names TAKEGAWA MARU; the manual's index gives her 1,931 GT (1938). The photographs are of sisters
+    sil: amakasu-maru-1-class
+    sil_basis: class
   - ship: Taketoyo Maru
     role: merchant; designated rescue ship
     source: jacar:C08050103200
@@ -53,8 +58,12 @@ ships:
     basis: reported
     note: >-
       救助擔任船トシテ武豊丸ト共ニ指定 (designated rescue ship together with Taketoyo Maru), Nittatsu Maru's log. Not in
-      combinedfleet.com's list of the convoy
-    sil: cargo
+      combinedfleet.com's list of the convoy. Silhouette: ONI 208-J (Revised), p. 246, 38 MFKM, the class plate
+      (LIMA MARU and 18 more, 1914-21, 6,961-7,098 GT), whose list names TAKETOYO MARU, with a photograph of her; the
+      manual's index gives her 6,965 GT (1920), and JANAC has one Taketoyo Maru, 6,965 GT, sunk 21 Aug 1944 (janac),
+      so afloat for this convoy. The plate says she was believed to carry oil in bulk
+    sil: lima-maru-class
+    sil_basis: class
   - ship: Harukaze
     role: escort
     from: 1944-04-28
@@ -113,7 +122,13 @@ ships:
     role: merchant
     source: combinedfleet:Nittatsu_t
     basis: secondary
-    note: In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru
+    note: >-
+      In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru. Silhouette: ONI 208-J
+      (Revised), p. 189, 30 MFM, the class plate (ADEN MARU and 42 more of one design, 1918-20, 5,824-901 GT), whose
+      list names BELGIUM MARU, with a photograph of her; JANAC has one Belgium Maru, 5,838 GT, sunk 18 Oct 1944
+      (janac), so afloat for this convoy
+    sil: aden-maru-class
+    sil_basis: class
   - ship: Peking Maru
     role: merchant
     source: combinedfleet:Nittatsu_t
@@ -128,22 +143,46 @@ ships:
     role: merchant
     source: combinedfleet:Nittatsu_t
     basis: secondary
-    note: In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru
+    note: >-
+      In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru. Silhouette: ONI 208-J
+      (Revised), p. 246, 38 MFKM, the class plate (LIMA MARU and 18 more, 1914-21), whose list names TUSIMA MARU; the
+      manual's index gives her 6,754 GT (1914), below the plate's printed range of 6,961-7,098, and JANAC has one
+      Tsushima Maru, 6,754 GT, sunk 22 Aug 1944 (janac), so afloat for this convoy. No photograph of her on the page
+    sil: lima-maru-class
+    sil_basis: class
   - ship: San Luis Maru
     role: merchant
     source: combinedfleet:Nittatsu_t
     basis: secondary
-    note: In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru
+    note: >-
+      In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru. Silhouette: ONI 208-J
+      (Revised), p. 287, 63 MMF, the class plate (DAI-ITI OGURA MARU and four more tankers, 1927-30, 7,268-311 GT),
+      whose list names SAN LUIS MARU; the manual's index gives her 7,269 GT (1928), and JANAC has one San Luis Maru, a
+      tanker of 7,268 GT, sunk 12 Jan 1945 (janac), so afloat for this convoy
+    sil: dai-iti-ogura-maru-class
+    sil_basis: class
   - ship: Wales Maru
     role: merchant
     source: combinedfleet:Nittatsu_t
     basis: secondary
-    note: In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru
+    note: >-
+      In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru. Silhouette: ONI 208-J
+      (Revised), p. 203, 32 MFKM, the class plate (BORDEAUX MARU, MONTREAL, NANMAN, NORFOLK, VENICE and WALES MARU,
+      1921-23, 6,551-6,586 GT), with a photograph of her; JANAC has one Wales Maru, 6,586 GT, sunk 24 May 1944
+      (janac), so afloat for this convoy
+    sil: bordeaux-maru-class
+    sil_basis: class
   - ship: Yamahagi Maru
     role: merchant
     source: combinedfleet:Nittatsu_t
     basis: secondary
-    note: In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru
+    note: >-
+      In TAMA-17 from Takao on 28 April, per combinedfleet.com's record of Nittatsu Maru. Silhouette: ONI 208-J
+      (Revised), p. 219, 38 MFM, the class plate (ADA and 24 ships of one design), whose list names YAMAHAGI MARU, the
+      manual's only ship of the name (type index: 1919, 5,426 GT); JANAC's one Yamahagi Maru, 5,246 GT, was sunk by
+      carrier aircraft at Takao on 12 Oct 1944 (janac:4/p73), after this convoy
+    sil: ada-class
+    sil_basis: "class, assumed: the manual gives 5,426 GT and JANAC 5,246 (the same figures transposed)"
   - ship: Shirotae Maru
     role: merchant
     source: combinedfleet:Nittatsu_t
