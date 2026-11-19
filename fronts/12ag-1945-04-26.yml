@@ -128,3 +128,7 @@ checked:
 # Reviewed: 57 of 60 towns on 25 April's side; 13E 49N, 8E 53N and 12E 52N sit on the line (15-25 px). The Aschaffenburg-Würzburg and Würzburg-Weissenburg straights are boundary with railway ticks, boxed. The Horb hook is thin and unticked; the Spaichingen arc traces as ticked front today.
 # Reviewed (area, 7 Nov 2026): `area: [390, 1255, 890, 2165]` takes in the Afsluitdijk / Zuider Zee stretch (about 460-710,1265-1290) and the Apeldoorn-Kampen arc (420-880,1730-1830) with its run down the west side to the Rhine (395-540,1830-2165): 2 stretches added, 2353 -> 2515 km (116 -> 118); no box or flip needed; red ticks checked on overlay crop 300 1150 700 1100. 6E 52N now reads own (US) by run 42 (it was enemy); no other town changed side. Still missing: the Rhine from about 1450,5800 south to Basel (heavy, ticked, past the towns' spread) and the Black Forest pocket's south side as drawn on 23 April.
 # Reviewed later (from 14 May): area widened west and north (x0 100, y0 820) as on the days around it; on this sheet nothing more traces there, no town changes side.
+# Symbols (read 19 Nov 2026, the whole sheet, 180 symbols, 12 listed): the "III" box hangs on one staff under XV, drawn
+# with no echelon mark; what it stands for the sheet doesn't say, so it is left untied (unit:-, doubt no-echelon), not
+# taken for III Corps. Checked on the scan along the Danube, Donauwörth to Ingolstadt: US 42, 45 and 86 north of the
+# front; the enemy's 616 z.b.V., VAN HOBE, 2 MTN and 79 facing them, south of it.

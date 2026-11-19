@@ -12,9 +12,9 @@ Group) and the later ones "Twelfth Army Group"; each day's `title` is as read on
 
 - **The front** is traced on 365 days: every day from 6 June 1944 to 7 June 1945 except 10 September 1944. Some days
   are an empty front, recorded as such (the sheet draws no ticked line: most of September 1944, and from 1 June 1945).
-- **The unit symbols** are read on 98 days, 16,914 symbols: 26 June to 11 July 1944 and 16 December 1944 to
-  24 February 1945 across the whole sheet, and 7 to 17 March 1945 within the Remagen area only (about 6.4 to 7.8 E,
-  50.0 to 51.2 N).
+- **The unit symbols** are read on 99 days, 17,094 symbols: 26 June to 11 July 1944, 16 December 1944 to
+  24 February 1945 and 26 April 1945 across the whole sheet, and 7 to 17 March 1945 within the Remagen area only (about
+  6.4 to 7.8 E, 50.0 to 51.2 N).
 
 How it was done: the first days of each run were traced by hand with the kit's `tools/trace_front.py` (7, 9, 11, 13, 15
 and 17 March 1945; 22 December 1944 across the whole sheet); the other days were traced, and the symbols read, by AI
@@ -156,6 +156,11 @@ before it is used in a file.
   1945): listed, not placed.
 - `upper-rhine-area`: the enemy symbols in a box headed "UPPER RHINE AREA" in the same place (11 February 1945, after
   the pocket's end): listed, not placed.
+- `w-holland`: the enemy symbols in a box headed "W. HOLLAND" drawn over the North Sea coast by Wilhelmshaven (26 April
+  1945, nine divisions): the German forces cut off in western Holland, listed, not placed;
+- `dieppe`, `rennes` (and `lorient-st-nazaire` again): the US divisions in a table at the sheet's left edge headed
+  "UNIT" and "VICINITY" (26 April 1945: the 16th Armored by Dieppe, the 66th(+) by Lorient and St-Nazaire, the
+  106th(-) by Rennes): divisions far behind the front, not where the table stands.
 
 ### `doubt`: recorded as drawn, not to be taken at face value
 
