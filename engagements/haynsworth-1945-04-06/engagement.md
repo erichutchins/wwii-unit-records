@@ -220,8 +220,8 @@ the [TG 58.3 report](https://catalog.archives.gov/id/140054760). The Japanese si
 operations record [[cite:jacar:C16120697000]]; the 210th Air Group's action report, crew list and track chart
 [[cite:jacar:C13120082600]] [[cite:jacar:C13120082700]] [[cite:jacar:C13120082800]]; the 252nd's
 [[cite:jacar:C13120531300 p09]] and the 601st's [[cite:jacar:C13120018600]]; Reconnaissance Squadron 11's message log
-and results table [[cite:jacar:C13120384700]]. Told later: Irons, *Phalanx Against the Divine Wind* (Merriam Press,
-2017) [[cite:irons]], for the crew's accounts and the burial.
+and results table [[cite:jacar:C13120384700]]. Told later: Irons, *Phalanx Against the Divine Wind* (Lulu Press,
+2018) [[cite:irons]], for the crew's accounts and the burial.
 
 Recognition plates, for the silhouettes and the drawings: ONI 54-D, 54-CV, 54-R and 54-C (via
 coatneyhistory.com); JUDY 33 from TAIC's plate, CINCPAC-CINCPOA Bulletin 105-45, July 1945 (HyperWar; NHHC); the F4U

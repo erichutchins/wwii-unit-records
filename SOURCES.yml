@@ -869,12 +869,12 @@ irons:
   by: Martin Irons
   kind: secondary
   of: us
-  held: Merriam Press, 2017 (514 pp.)
+  held: Lulu Press, 2018 (514 pp.), ISBN 978-0359106073
   url: https://www.kamikazeimages.net/books/ships/haynsworth/index.htm
   cite: irons
   match: '^irons$'
   link: https://www.kamikazeimages.net/books/ships/haynsworth/index.htm
-  chicago_note: "Martin Irons, *Phalanx Against the Divine Wind: Protecting the Fast Carrier Task Force During World War 2* (Merriam Press, 2017)"
+  chicago_note: "Martin Irons, *Phalanx Against the Divine Wind: Protecting the Fast Carrier Task Force During World War 2* (Lulu Press, 2018)"
   chicago_short: "Irons, *Phalanx*"
   used_for: engagements/haynsworth-1945-04-06/; secondary, quoting the ships' reports and the crew's letters and diaries.
     Rows cite it in Chicago short form ("Irons, Phalanx, 327–30"); most page numbers are not yet recorded
