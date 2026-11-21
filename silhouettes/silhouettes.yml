@@ -19,7 +19,7 @@
 #   The Japanese types from FM 30-30 (mavis to pete) were closed by 3 px the same way and their enclosed white areas
 #   (glazing) filled before tracing; their head-on cy is the cowling or nose centre. Struts that enclose open bays (MAVIS's
 #   parasol wing head-on, PETE's biplane bays and floats) cannot be one outline, so those views are left out. The US patrol types
-#   (b24 to tbf) are traced from FM 30-30 the same way; the PBM's and PBY's head-on views are left out for their float struts. FM 30-30 (April 1943)
+#   (b24 to tbf), and the SB2C after them, are traced from FM 30-30 the same way; the PBM's and PBY's head-on views are left out for their float struts. FM 30-30 (April 1943)
 #   has no Piaggio plate, so the P.108B is traced from a modern Commons three-view (CC BY-SA 3.0: that
 #   entry alone carries the licence and the attribution); its line drawing was filled by flooding the outside.
 #
@@ -45,6 +45,12 @@
 #   ONI 41-42 leaf 253) or CH-61; none found for Kinrei, Toyohi, Daibu, Taiyoku, Nitto, Gyoyu or No. 28 Kyodo Maru.
 #   None for MAESHIMA: ONI 222-J (p. XI, scan leaf 17) lists her in the SOKUTEN class of small minelayers, with no plate, and ONI 41-42
 #   (leaf 249) has the class (as YURISHIMA, CMc 21-31) "appearance & characteristics unknown".
+#   None for convoy MATA-40's three ships (JACAR C08030596700: 新州丸, 吉備津丸, 日向丸). ONI 208-J (January 1945) and its index have
+#   no KIBITSU/KIBITU or HYUGA/HIUGA MARU (Supplement 2's Hyuga and Hiuga Maru are a bonito boat and a pilot boat, not the
+#   convoy's ship), and Supplement 3's standard-type lists name neither, so no standard-type plate can be fitted to them by a
+#   record. ONI 208-J p. 128 (scan leaf 163; 24 MFM) does draw a SINSYU MARU, with KOZAN MARU (1933 and 1935, Japan, 4,180 GT,
+#   diesel, "believed to be carrying oil in bulk"), but SINSYU can be 新州, 神州 or 信州 and no record found ties that ship to the
+#   convoy's 新州丸, so she is left undrawn until one does.
 
 # crop (optional, on aircraft and ships): the section of the plate's scan each outline was traced from, so the drawing
 #   can be found on the scan and a later, more faithful retrace can start from it. Not drawn on any page and left out of
@@ -608,6 +614,23 @@ aircraft:
       plan: {scan: "ia:Fm30-30/66", box: [1949, 649, 819, 619], mirrored: false, px_per_ft: 15.12}
       front: {scan: "ia:Fm30-30/66", box: [1963, 404, 795, 190], mirrored: false, px_per_ft: 14.68}
       profile: {scan: "ia:Fm30-30/66", box: [2066, 1318, 605, 192], mirrored: false, px_per_ft: 14.76}
+
+  sb2c:
+    name: "SB2C HELLDIVER"
+    type: "Curtiss SB2C-1, 2, Navy dive bomber"
+    dims: "49′9″ span, 36′8″ long"
+    span: 49.75
+    length: 36.67
+    source: "FM 30-30 Recognition Pictorial Manual (April 1943), SB2C \"HELLDIVER\" plate, leaf n64"
+    note: "The plate is the SB2C-1 and -2 (with the SBW-1 and SBF-1, Canadian Car & Foundry's and Fairchild's builds, and the Army's A-25), \"from data currently available\"; the carriers' squadrons of 1944-45 flew the SB2C-3 and -4, whose outline the U.S. Army-Navy Journal of Recognition (January 1945) distinguishes only by details (the -4's perforated flaps, wing racks). Scaled to the printed 49′9″ span, 36′8″ long. Traced from the plate closed by 3 px to bridge its white panel lines, with the glazing and other enclosed white areas then filled; antennas dropped (--open 2) in plan and profile; plan and head-on views mirrored about the centre line. Head-on cy is the cowling centre, measured on the plate."
+    sources: ["fm-30-30"]
+    plan: { w: 100, h: 70.2, d: "M49.6,0.0L50.4,0.0L51.4,1.1L51.9,4.0L53.5,4.2L54.6,5.4L54.9,10.8L54.4,12.3L54.9,13.8L55.0,19.2L56.0,20.2L56.8,20.2L57.0,19.8L85.0,19.6L96.1,19.2L98.5,19.8L99.6,21.1L100.0,22.4L100.0,24.6L99.0,28.0L96.9,30.7L96.3,30.7L96.0,31.5L94.4,32.4L57.9,41.3L55.7,42.5L54.6,44.9L53.7,45.6L53.7,47.5L54.3,48.1L53.3,53.9L63.6,57.7L64.0,58.3L67.7,59.8L69.3,61.8L69.5,63.7L68.2,66.4L66.8,67.7L65.2,68.3L53.7,68.7L51.4,66.1L50.7,66.1L50.4,70.2L49.6,70.2L49.3,66.1L48.6,66.1L46.3,68.7L34.8,68.3L33.2,67.7L31.8,66.4L30.5,63.7L30.7,61.8L32.3,59.8L36.0,58.3L36.4,57.7L46.7,53.9L45.7,48.1L46.3,47.5L46.3,45.6L45.4,44.9L44.3,42.5L42.1,41.3L5.6,32.4L4.0,31.5L3.7,30.7L3.1,30.7L1.8,29.3L0.7,27.5L0.0,24.6L0.0,22.4L0.6,20.7L2.3,19.4L3.9,19.2L15.0,19.6L43.0,19.8L43.2,20.2L44.0,20.2L45.0,19.2L45.1,13.8L45.6,12.3L45.1,10.8L45.4,5.4L46.5,4.2L48.1,4.0L48.5,1.3Z" }
+    front: { w: 100, h: 25.6, cx: 50, cy: 20.2, d: "M49.9,0.0L50.5,3.3L50.8,11.4L52.6,12.3L52.7,11.1L53.2,11.0L53.2,13.5L68.8,13.7L69.0,14.3L68.9,14.6L53.4,14.8L54.8,19.7L85.5,17.8L97.7,16.4L99.9,16.6L100.0,17.7L87.2,19.6L54.8,23.2L54.4,25.0L52.4,24.8L50.5,25.6L48.4,25.4L47.6,24.8L45.6,25.0L45.2,23.2L0.5,17.9L0.0,17.7L0.1,16.6L2.3,16.4L14.5,17.8L45.2,19.7L46.6,14.8L31.1,14.6L31.0,14.3L31.2,13.7L46.8,13.5L46.8,11.0L47.3,11.1L47.4,12.3L49.2,11.4Z" }
+    profile: { w: 100, h: 35.9, d: "M90.1,0.0L94.3,1.1L96.4,2.9L97.3,4.7L97.9,5.0L99.8,12.0L99.7,18.4L96.9,22.0L94.5,23.4L92.4,23.9L92.4,24.6L89.8,27.0L88.9,27.0L84.2,28.9L69.6,32.3L50.7,34.6L49.6,35.1L41.4,35.7L18.6,35.9L16.5,35.2L13.7,35.7L6.9,35.5L5.7,33.4L5.5,31.0L4.2,31.2L1.1,30.2L0.0,28.8L0.2,27.8L1.9,26.3L3.2,25.7L5.5,25.5L5.3,23.6L6.5,22.0L13.2,20.7L22.0,19.9L22.3,17.0L22.8,17.3L22.8,19.5L26.5,19.2L28.1,17.6L30.9,16.0L62.4,16.0L71.1,17.1L73.8,17.0L76.9,15.3L78.2,14.1L81.3,9.7L81.3,8.4L82.4,7.9L85.9,2.3L87.9,0.6Z" }
+    crop:
+      plan: {scan: "ia:Fm30-30/64", box: [1972, 575, 841, 590], mirrored: false, px_per_ft: 16.9}
+      front: {scan: "ia:Fm30-30/64", box: [1977, 307, 827, 212], mirrored: false, px_per_ft: 16.62}
+      profile: {scan: "ia:Fm30-30/64", box: [2084, 1188, 619, 222], mirrored: false, px_per_ft: 16.88}
 
   me262:
     name: "ME-262"
