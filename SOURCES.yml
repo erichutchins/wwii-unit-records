@@ -1097,6 +1097,18 @@ tc-overseas:
     army/routes.csv (the trains likely used: the Clyde troop trains, p. 116; British compartment coaches, p. 122;
     the North African main line, p. 168; the Military Railway Service on the Algerian lines from March 1943, p. 174)
 
+fm-30-50:
+  title: FM 30-50 / NAVAER 00-80V-57, Recognition Pictorial Manual of Naval Vessels (1943)
+  by: War Department and Navy Department; its U.S. plates are ONI 54-R (Supplements 3 and 4, April and August 1943), condensed and printed for it
+  kind: reference
+  of: us
+  held: Internet Archive (PDF and page scans; leaves are the archive's page numbers, n0 = PDF page 1)
+  url: https://archive.org/details/FM_30_50_R_P_M_N_V_1943
+  rights: Public domain (U.S. government publication)
+  used_for: >-
+    silhouettes/silhouettes.yml (IOWA, leaf n150; ENTERPRISE, n63; ATLANTA, OAKLAND, n124; SANGAMON, n104; BENSON, LIVERMORE, n134;
+    CASABLANCA from the carriers' type sheet, n39)
+
 oni-208:
   title: O.N.I. 208, Merchant Ship Recognition Manual (21 April 1942)
   by: Office of Naval Intelligence, Division of Naval Intelligence (Op-16-F-20)
@@ -1105,7 +1117,7 @@ oni-208:
   held: Internet Archive (also on HyperWar, filed there as "ONI 207")
   url: https://archive.org/details/MerchShipRecogManual
   rights: Public domain (U.S. government publication)
-  used_for: silhouettes/silhouettes.yml (the ARGENTINA plate, p. 13, and the ANCON plate, p. 27, and the QUEEN MARY, p. 43 (leaf 0087); index pp. 50-51 and the QUEEN MARY index line)
+  used_for: silhouettes/silhouettes.yml (the ARGENTINA plate, p. 13, and the ANCON plate, p. 27, and the QUEEN MARY, p. 43 (leaf 0087); index pp. 50-51 and the QUEEN MARY index line; the EC-2 (LIBERTY), p. 44-A (leaf 0091))
 
 oni-226:
   title: ONI 226, Allied Landing Craft and Ships (7 April 1944)
