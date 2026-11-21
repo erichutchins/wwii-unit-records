@@ -43,7 +43,9 @@
 #   Tender similar"); HASKELL, McCAWLEY, PRESIDENT HAYES, GILLIAM and ALGORAB as such (ONI 226 has no attack
 #   transports; FM 30-50's converted-merchant sheet, leaf n42, draws types such as "C-3 P&C", whose bar reads its known types about
 #   9% short, and no record was found fitting a named APA or AKA to one); the R class SS and the PT boat (none in FM 30-50 or
-#   FM 30-30; ONI 222-US, which has them, could not be fetched from Google Books this session).
+#   FM 30-30; ONI 222-US, which may have them, could not be fetched from Google Books this session).
+#   The LCM(3) and LCT(5) are drawn by hand (parts) to ONI 226's inboard profiles, line drawings too crowded with arcs and leaders
+#   to trace.
 #   The Japanese escorts (shimushu to shirataka) are traced from ONI 222-J (June 1945) and ONI 41-42 (plates of June 1943)
 #   (no13-minesweeper the same; minekaze and matsu from ONI 222-J and ning-hai from ONI 41-42's July 1943 plate, added after)
 #   and scaled to the printed length; the Japanese merchants (type-tl-tanker to type-d-mod) from ONI 208-J (January 1945)
@@ -914,6 +916,28 @@ ships:
     parts:
       - ["poly", [[59.4, 73.8], [60.3, 73.4], [59.6, 64.1], [62.3, 63.7], [59.6, 62.0], [59.6, 54.1], [61.4, 53.6], [59.6, 52.3], [59.9, 33.7], [60.9, 32.7], [68.2, 33.0], [68.4, 35.6], [71.7, 36.2], [71.7, 39.8], [73.7, 32.8], [78.3, 32.8], [78.8, 35.2], [85.0, 35.1], [86.2, 44.5], [87.6, 43.2], [85.8, 40.8], [85.8, 37.8], [87.8, 37.7], [87.2, 30.7], [89.3, 30.5], [89.2, 36.0], [90.2, 35.3], [90.4, 26.2], [95.3, 28.1], [96.5, 26.8], [99.5, 27.0], [100.3, 14.9], [101.2, 25.3], [104.8, 25.3], [105.0, 19.2], [108.3, 19.7], [108.3, 22.4], [109.0, 19.4], [111.6, 19.4], [112.4, 22.4], [112.4, 19.7], [115.5, 19.2], [112.4, 18.7], [112.7, 15.6], [115.9, 15.6], [115.9, 16.8], [117.3, 17.0], [118.1, 15.7], [137.7, 15.6], [140.6, 16.9], [141.9, 16.7], [142.0, 14.8], [151.0, 15.0], [151.4, 24.9], [155.4, 25.4], [155.5, 14.8], [166.1, 14.9], [166.1, 16.7], [168.4, 16.5], [168.4, 14.9], [172.9, 14.8], [172.7, 16.9], [174.9, 17.7], [174.9, 14.8], [198.2, 15.0], [198.4, 24.9], [202.2, 25.1], [202.7, 15.0], [210.7, 14.9], [210.8, 16.6], [212.5, 15.1], [213.3, 16.6], [214.3, 15.7], [213.5, 15.1], [235.4, 15.6], [237.9, 17.0], [237.2, 18.3], [238.5, 19.6], [240.5, 16.4], [245.3, 16.4], [246.0, 25.2], [249.3, 25.0], [249.5, 19.1], [250.9, 19.5], [251.0, 21.9], [251.5, 19.1], [254.4, 19.1], [254.8, 22.0], [255.5, 19.1], [257.9, 19.1], [258.3, 21.7], [259.9, 22.4], [259.7, 24.6], [263.1, 25.1], [264.9, 19.6], [265.8, 19.6], [265.8, 22.7], [266.2, 19.2], [267.8, 19.2], [268.7, 15.9], [270.5, 15.9], [273.4, 16.4], [274.4, 18.1], [275.7, 16.8], [280.5, 17.6], [281.2, 19.7], [282.1, 19.7], [282.0, 18.0], [284.1, 18.4], [283.2, 19.6], [284.3, 20.0], [285.1, 18.0], [289.5, 18.7], [291.7, 21.2], [291.7, 24.0], [294.4, 23.7], [294.4, 21.2], [297.5, 19.8], [299.3, 21.3], [299.3, 24.9], [304.1, 25.2], [301.9, 25.6], [303.6, 27.6], [310.0, 26.3], [306.1, 25.5], [309.5, 25.0], [309.8, 23.5], [321.2, 24.4], [321.9, 41.6], [321.9, 25.1], [323.6, 23.8], [321.4, 18.0], [325.2, 16.1], [324.1, 12.6], [328.1, 4.0], [328.1, -0.0], [2.7, 0], [2.0, 5.9], [-2.2, 8.5], [-2.0, 16.8], [-1.1, 10.8], [0.7, 12.2], [-0.6, 8.5], [2.0, 8.5], [1.6, 15.1], [-3.7, 22.3], [-2.9, 23.2], [0.7, 20.6], [-1.3, 29.4], [1.3, 20.0], [7.0, 14.9], [17.3, 14.3], [18.3, 16.0], [19.5, 14.3], [20.9, 20.0], [23.2, 19.2], [26.0, 20.3], [29.5, 18.8], [31.7, 14.5], [32.2, 25.4], [35.9, 26.3], [32.8, 27.6], [38.1, 28.5], [39.4, 27.4], [37.5, 26.4], [42.3, 25.7], [42.0, 22.8], [43.2, 22.4], [43.8, 25.9], [45.8, 26.1], [45.5, 32.3], [51.5, 33.1], [51.7, 39.7], [52.4, 32.8], [56.5, 32.9], [56.5, 34.6], [58.4, 34.4], [59.0, 61.6], [58.1, 63.0], [59.2, 64.0], [59.4, 73.7]]]
     crop: {scan: "ia:allied-landing-craft-and-ships-world-war-ii-recognition-guide/111", box: [258, 961, 1508, 336], mirrored: false, px_per_ft: 4.54}
+  # LCM: the plate is the Mark 3, the U.S. Navy's standard tank lighter of 1944 (ONI 226: "superseded ... by LCM (3)").
+  lcm3:
+    name: "LCM(3) (Landing Craft, Mechanized, Mark 3)"
+    length: 50
+    plate: "ONI 226, Allied Landing Craft and Ships, 7 Apr 1944, p. 50 (LCM(3) inboard profile and plan; Internet Archive leaf 0051): length 50'0\" on the plate's 0-50 ft scale, ramp 10'2\"; the table (p. 10) gives draft 3' for'd, 4' aft. The profile is a line drawing with dimension arcs and leaders, so the outline is drawn by hand to the plate's scale (22.5 px a foot on the scan), ramp up, and cut at a waterline trimmed from 4' aft to 3' forward"
+    sources: ["oni-226"]
+    parts:
+      - ["poly", [[0, 0], [0, 2.5], [15.7, 2.8], [15.7, 4.9], [47.9, 7.4], [49.9, 11.5], [50.0, 10.9], [47.7, 1.4], [46.0, 0]]]   # hull, well sides and the raised ramp
+      - ["box", 5.0, 9.6, 9.1, 2.6]   # cockpit
+    # no crop: drawn by hand to the plate's scale, not traced from a section of it
+  # LCT: the plate is the Mark 5; the Mark 6 (p. 61) differs mainly in its stern-loading after end.
+  lct5:
+    name: "LCT(5) (Landing Craft, Tank, Mark 5)"
+    length: 117.5
+    plate: "ONI 226, Allied Landing Craft and Ships, 7 Apr 1944, p. 59 (LCT(5) inboard profile and plan; Internet Archive leaf 0060): 117'6\" o.a., beam 32'; draft light 1'6\" for'd, 3'9\" aft, landing 2'10\" for'd, 4'2\" aft. The profile is a line drawing with leaders, so the outline is drawn by hand to it at the printed length (about 8.4 px a foot on the scan), cut at the waterline the drawing marks"
+    sources: ["oni-226"]
+    parts:
+      - ["poly", [[0, 0], [0, 6.0], [17.3, 6.0], [17.3, 7.2], [91.9, 7.2], [92.5, 9.3], [116.3, 8.7], [117.0, 8.4], [111.0, 0]]]   # hull, well sides and bow ramp
+      - ["box", 1.2, 17.3, 9.3, 6.0]   # crew's quarters
+      - ["box", 6.9, 15.5, 17.7, 9.3]   # wheel house
+      - ["box", 18.0, 25.1, 12.5, 7.2]   # gun shield
+    # no crop: drawn by hand to the plate, not traced from a section of it
   argentina:
     name: "ARGENTINA, BRAZIL, URUGUAY (liners)"
     length: 590
