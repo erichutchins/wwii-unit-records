@@ -854,6 +854,52 @@ cole-1948:
     The constants as they are generally quoted from Cole for TNT; the page they are on is not yet checked against the
     book (not read here, 12 Nov 2026)
 
+bdu-feb45:
+  title: B.d.U. daily situation reports, 1-16 February 1945 (O.K.M. 1/Skl distribution), an English rendering
+  by: Befehlshaber der U-Boote (B.d.U.); the rendering made available by Aaron S. Hamilton, its translator not named
+  kind: record
+  of: de
+  held: uboatarchive.net
+  url: https://uboatarchive.net/BDU/OKM-1SKL-FEB45.htm
+  cite: bdu-feb45/<report number>, e.g. bdu-feb45/760 (6 February 1945)
+  match: '^bdu-feb45/(\d+)$'
+  link: https://uboatarchive.net/BDU/OKM-1SKL-FEB45.htm
+  used_for: engagements/ugs-72-1945-02-17 (U-300 given the Gibraltar operations area)
+  note: >-
+    The report numbers are those printed in the reports' footers (757 to 769). The German original is not on the
+    page, and the rendering ends during the report of 16 February 1945; the reports for 3 and 4 February are missing.
+
+marad-survivors:
+  title: Summaries of statements by survivors (Office of the Chief of Naval Operations, Op-16-B-5), copies in the
+    Maritime Administration's vessel histories
+  by: Office of the Chief of Naval Operations; copies held by the US Maritime Administration
+  kind: record
+  of: us
+  held: US Maritime Administration, Vessel History Database (declassified under NARA project NW 63684)
+  url: https://vesselhistory.marad.dot.gov/
+  cite: marad:<file name>, e.g. marad:MichaelJStone_3359_002
+  match: '^marad:([A-Za-z0-9_]+)$'
+  link: https://vesselhistory.marad.dot.gov/documents/{1}.pdf
+  used_for: engagements/ugs-72-1945-02-17 (Michael J. Stone, 17 Feb 1945)
+  note: >-
+    One memorandum per merchant ship attacked, written from the interviews of her survivors. The PDF's text layer
+    garbles digits and the zone of the time: values are read on the page image.
+
+skl-ktb-1945:
+  title: Kriegstagebuch der Seekriegsleitung 1939-1945, Teil A, Band 66, Februar 1945 (facsimile edition)
+  by: Seekriegsleitung; edited by Werner Rahn and Gerhard Schreiber (Mittler, 1996; original BA-MA RM 7/69)
+  kind: record
+  of: de
+  held: Zentrum für Militärgeschichte und Sozialwissenschaften der Bundeswehr (ZMSBw), opus4.kobv.de
+  url: https://opus4.kobv.de/opus4-zmsbw/files/86/04001969.pdf
+  cite: skl66/p<page>, e.g. skl66/p183 (17 February 1945)
+  match: '^skl66/p(\d+)$'
+  link: https://opus4.kobv.de/opus4-zmsbw/files/86/04001969.pdf
+  used_for: engagements/ugs-72-1945-02-17 (the Naval Staff's credit for the attack off Gibraltar)
+  note: >-
+    The page is the number typed at the head of the diary's page (the PDF's page runs six ahead in February). The
+    site sits behind a browser check, so the PDF is read in a desktop browser.
+
 combinedfleet:
   title: Imperial Japanese Navy Page (combinedfleet.com), Tabular Records of Movement
   by: Bob Hackett, Sander Kingsepp and others

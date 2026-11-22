@@ -1,0 +1,119 @@
+# Every dated entry, from either side, in the records' words. Hand-edited; fields in records/SCHEMA.md (An engagement's events).
+- at: 1945-02-06
+  placed: The day of the report; no time
+  of: de
+  actor: B.d.U.
+  kind: report
+  words: >-
+    "U-300 (Hein) reports position from BF 17, requests operations area Gibraltar." (The request is granted, the
+    report says, because the boat had already gone far outbound.)
+  source: B.d.U. situation report 760, 6 Feb 1945 (English rendering)
+  ref: bdu-feb45/760
+- at: 1945-02-17 0955 Z
+  actor: solar
+  kind: log
+  words: Entering Straits of Gibraltar. Convoy in four columns.
+  source: Solar war diary, Feb 1945, p. 3
+  ref: rg38-139905513/p03
+  basis: assumed
+  note: The diary types no zone; zone Z is taken from her longitude, as her track takes it (assumed).
+- at: 1945-02-17 0955 Z
+  actor: michael-j-stone
+  kind: hit
+  words: >-
+    "The MICHAEL J. STONE was torpedoed at 0955 GMT, 17 Feb 45, in 35.55N - 05.51W ... At 0955 a torpedo struck on the
+    starboard side abreast of bulkhead between #4 and #5 holds ... Track of torpedo was not seen ... all 73 survived.
+    ... The sub was not sighted."
+  source: Op-16-B-5, summary of statements by survivors of the SS Michael J. Stone, 26 Mar 1945 ("ALL TIMES GMT")
+  ref: marad:MichaelJStone_3359_002
+  pos: hit-survivors
+- at: 1945-02-17 1055 Z
+  actor: solar
+  kind: hit
+  words: SS Regent Lion in column one struck by torpedo or mine, settling by the stern but not sinking.
+  source: Solar war diary, Feb 1945, p. 3
+  ref: rg38-139905513/p03
+  pos: hit-solar
+  basis: assumed
+  note: Zone Z assumed, as above.
+- at: 1945-02-17 1100 A
+  actor: u-300
+  kind: attack
+  words: >-
+    (The postwar account) Two spreads of two torpedoes fired at convoy UGS-72, 27 miles from Gibraltar; Michael J.
+    Stone hit in station 43, and Regent Lion.
+  source: uboat.net, ships hit by U-300 (after Rohwer)
+  ref: https://uboat.net/allies/merchants/ship/3445.html
+  pos: hit-postwar
+  basis: secondary
+  note: The account's time; German boats kept German time, taken as zone A (−1) (assumed).
+- at: 1945-02-17 1100 A
+  of: de
+  actor: Seekriegsleitung
+  kind: report
+  original: >-
+    Nach B-Meldung wurde um 1100 Uhr vor Gibraltar ein Schiff torpediert; wahrscheinlich Erfolg von U 869.
+  lang: de
+  translation: >-
+    According to a radio-intelligence (B-Dienst) report, a ship was torpedoed off Gibraltar at 1100; probably a
+    success by U 869.
+  source: German Naval Staff war diary, Teil A, vol. 66, 17 Feb 1945, p. 183
+  ref: skl66/p183
+  basis: assumed
+  note: >-
+    The diary's 1100 carries no zone; German time (MEZ) is taken as zone A (−1) (assumed). The only entry on the attack
+    in the month's volume; U 300 is not named in it.
+- at: 1945-02-17 1105 Z
+  actor: solar
+  kind: hit
+  words: SS Michael J. Stone in column one struck by torpedo or mine, settling by the stern but not sinking.
+  source: Solar war diary, Feb 1945, p. 3
+  ref: rg38-139905513/p03
+  pos: hit-solar
+  basis: assumed
+  note: Zone Z assumed, as above.
+- at: 1945-02-17 1121 Z
+  actor: solar
+  kind: order
+  words: >-
+    Ordered to leave station on port side of convoy to conduct search under direction of CCD30 in USS KNOXVILLE
+    (PF-64).
+  source: Solar war diary, Feb 1945, p. 3
+  ref: rg38-139905513/p03
+  basis: assumed
+  note: Zone Z assumed, as above.
+- at: 1945-02-17 1304 Z
+  actor: solar
+  kind: order
+  words: Ordered by CTG 60.9 to relieve USS KEARNY (DD-432) and escort SS Michael J. Stone to Gibraltar.
+  source: Solar war diary, Feb 1945, p. 3
+  ref: rg38-139905513/p03
+  basis: assumed
+  note: Zone Z assumed, as above.
+- at: 1945-02-17 1545 Z
+  actor: solar
+  kind: arrival
+  words: Arrived Gibraltar Bay. 1700 departed Gibraltar Bay to overtake USS KEARNY escorting Southern France section of UGS 72.
+  source: Solar war diary, Feb 1945, p. 3
+  ref: rg38-139905513/p03
+  basis: assumed
+  note: Zone Z assumed, as above.
+- at: 1945-02-17 2348 Z
+  actor: solar
+  kind: log
+  words: Rejoined KEARNY.
+  source: Solar war diary, Feb 1945, p. 3
+  ref: rg38-139905513/p03
+  basis: assumed
+  note: Zone Z assumed, as above.
+- at: 1945-02-22
+  placed: The day; no time in the account
+  actor: u-300
+  kind: loss
+  words: >-
+    (The postwar account) After depth-charge damage from HMS Evadne, U-300 is scuttled under the gunfire of HMS
+    Recruit and HMS Pincher west of Cádiz; nine dead, among them her commander, and 41 survivors.
+  source: uboat.net, U-300 and Fritz Hein (after Niestlé and Busch and Röll)
+  ref: https://uboat.net/boats/u300.htm
+  pos: u300-lost
+  basis: secondary

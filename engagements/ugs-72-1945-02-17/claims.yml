@@ -1,0 +1,69 @@
+# The questions the records leave open, and each answer's evidence. Hand-edited; fields in records/SCHEMA.md (An engagement's claims).
+- question: What hit the two ships?
+  answer: Torpedo or mine
+  weight: record
+  source: Solar war diary, Feb 1945, p. 3
+  ref: rg38-139905513/p03
+  note: The escort's words for both ships, at the time
+- question: What hit the two ships?
+  answer: A torpedo (Michael J. Stone)
+  weight: record
+  source: Op-16-B-5, summary of survivors' statements, 26 Mar 1945
+  ref: marad:MichaelJStone_3359_002
+  note: '"torpedoed at 0955 GMT". From her survivors, five weeks later'
+
+- question: Which U-boat?
+  answer: U-300 (Oblt.z.S. Fritz Hein)
+  weight: secondary
+  source: uboat.net, ships hit by U-300 (after Rohwer)
+  ref: https://uboat.net/allies/merchants/ship/3445.html
+  note: >-
+    The postwar accounts (uboat.net, the German Wikipedia after Busch and Röll) give this one attribution; they
+    count once. No record of U-300's own for the attack is entered
+- question: Which U-boat?
+  answer: U-300 was given the Gibraltar operations area on 6 February
+  weight: record
+  source: B.d.U. situation report 760, 6 Feb 1945 (English rendering)
+  ref: bdu-feb45/760
+  note: Puts the boat's orders in the area eleven days before, not the boat at the attack
+- question: Which U-boat?
+  answer: U 869, "probably"
+  weight: record
+  source: German Naval Staff war diary, vol. 66, 17 Feb 1945, p. 183
+  ref: skl66/p183
+  note: >-
+    The Naval Staff's credit on the day, from a radio-intelligence report of the sinking, not from a boat's report.
+    U-869 had been ordered to the Gibraltar area; her wreck lies off New Jersey (below)
+- question: Which U-boat?
+  answer: Not U-869, whose wreck was found off New Jersey
+  weight: secondary
+  source: English Wikipedia, German submarine U-869
+  ref: wikipedia:German_submarine_U-869
+  note: The wreck found by divers in 1991 and identified as U-869; she cannot have been off Gibraltar on 17 February
+- question: When were the ships hit, by one clock?
+  answer: Michael J. Stone at 0955 GMT
+  weight: record
+  source: Op-16-B-5, summary of survivors' statements
+  ref: marad:MichaelJStone_3359_002
+  note: The memorandum is headed "ALL TIMES GMT"
+- question: When were the ships hit, by one clock?
+  answer: Solar's diary was an hour ahead of GMT (zone A)
+  weight: inference
+  source: Solar war diary, Feb 1945, p. 3
+  ref: rg38-139905513/p03
+  note: >-
+    Her 1105 for Michael J. Stone is 1005 GMT in zone A, ten minutes from the survivors' 0955 GMT, and seventy in
+    zone Z, which her track assumes; the Naval Staff's 1100, German time, is 1000 GMT. Nothing in the diary names its
+    zone, so her track keeps Z until a record does
+- question: What became of Regent Lion?
+  answer: Grounded on Perl Rock, a mile south of Carnero Point, and declared a total loss
+  weight: secondary
+  source: uboat.net, Regent Lion
+  ref: https://uboat.net/allies/merchants/ship/3446.html
+  note: Taken in tow by HMS Rollicker and HMS Arctic Ranger on 19 February, by this account
+- question: What became of Regent Lion?
+  answer: Towed to Tangier and written off
+  weight: secondary
+  source: German Wikipedia, U 300 (after Busch and Röll, and Blair)
+  ref: https://de.wikipedia.org/wiki/U_300
+  note: Disagrees with the account above on where she ended

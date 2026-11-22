@@ -1,0 +1,6 @@
+id,label,of,kind,date,time,lat,lon,from,brg,nm,lat2,lon2,basis,source,ref,note
+hit-solar,Regent Lion and Michael J. Stone hit (Solar's diary),us,hit,1945-02-17,1055,35.95,-5.8333,,,,,,reported,Solar war diary,rg38-139905513/p03,"Typed 35°-57'N 5°-50'W, the position of the ships hit, not Solar's own; her track (ships/de-221-solar) carries the same row."
+hit-survivors,Michael J. Stone hit (survivors' summary),us,hit,1945-02-17,0955,35.9167,-5.85,,,,,,reported,Op-16-B-5 summary of survivors' statements,marad:MichaelJStone_3359_002,"Typed 35.55N - 05.51W, at 0955 GMT."
+hit-postwar,UGS-72 attacked (postwar account),de,attack,1945-02-17,1100,35.9333,-5.75,,,,,,approx,uboat.net (ships hit by U-300),https://uboat.net/allies/merchants/ship/3445.html,"35°56'N 5°45'W, German grid square CG 95, as the account gives it; its sources are not stated on the page."
+evadne,U-300 depth-charged by HMS Evadne (postwar account),uk,attack,1945-02-19,,35.9,-5.7167,,,,,,approx,uboat.net (U-300),https://uboat.net/boats/u300.htm,"35.54N 05.43W; the accounts differ on the day (18 or 19 February)."
+u300-lost,U-300 scuttled (postwar account),de,loss,1945-02-22,,36.4833,-8.3333,,,,,,approx,uboat.net (U-300),https://uboat.net/boats/u300.htm,36.29N 08.20W.
