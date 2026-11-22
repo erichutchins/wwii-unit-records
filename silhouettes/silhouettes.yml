@@ -38,7 +38,8 @@
 #   and QUEEN OF BERMUDA only), and no later merchant manual was found online.
 #   The US warships iowa to benson-livermore are traced from the ONI 54-R plates reprinted in FM 30-50 (1943), the height rules
 #   between drawing and scale removed, and scaled to the printed length; each plate entry says how the drawing meets the printed
-#   heights. CASABLANCA and the LIBERTY are type-sheet silhouettes measured on the sheet's own scale bar. haskell to pt103 are traced from
+#   heights. CASABLANCA and the LIBERTY are type-sheet silhouettes measured on the sheet's own scale bar. haskell to pt103, and the VICTORY
+#   (ONI 222-US's BOULDER VICTORY class AK, p. 183, whose height scale disagrees with its printed length), are traced from
 #   ONI 222-US (1 September 1945), the PDF rendered at 400 dpi, specks and dotted height rules dropped, and scaled to the printed
 #   length. No plate found for McCAWLEY (APA-4; lost in June 1943, she is not in ONI 222-US, and FM 30-50's merchant types are not
 #   tied to her by any record) or the R class SS (ONI 222-US draws only the BALAO and GATO classes, FM 30-50 and FM 30-30 none).
@@ -1049,6 +1050,24 @@ ships:
       - ["mast", 343.5, 71.0, 40, 1.4]   # foremast pair
       - ["mast", 351.3, 91.5, 40, 1.4]
     crop: {scan: "ia:MerchShipRecogManual/91", box: [920,  864,  1558,  227], mirrored: false, turn: 0.57, px_per_ft: 3.56}
+  # The Victory ships (VC2-S-AP2/AP3): the plate draws the Navy's BOULDER VICTORY class AKs, cargo Victories taken over by the
+  # Navy, not a merchant or troop-carrying Victory. It stands for the type; no ship links to it yet.
+  victory:
+    name: "VC2 (VICTORY) cargo ship"
+    length: 455
+    plate: "ONI 222-US, 1 Sep 1945, p. 183 (PDF p. 204): BOULDER VICTORY Class (AK 227-236, BOULDER VICTORY to LAKEWOOD VICTORY), statistical summary length 455' (oa), beam 62', draft 28' (max), completed 1944; photograph of AK 230 MANDERSON VICTORY, 1945, on p. 184. Traced from the profile (rendered at 400 dpi; threshold 160, opened 4 px to drop the stays and booms, the waterline levelled by 0.33 degrees) and scaled to the printed length. The plate's own 0-60 ft height scale does not agree with that length: read on it, every height is about 1.56 times lower (the funnel top 42 ft, not 67 ft). Scaled to the length, as the other entries are, the funnel and kingposts come within a few feet of the LIBERTY's (ONI 208, measured on its scale bar). The kingposts, the posts at each end of the house, the mast over the funnel and the foremast, thinned away by the opening, are drawn back as masts at the plate's positions to their tops as drawn. This is the Navy's fit: a 5\"/38 aft and a 3\"/50 forward in gun tubs, with 40 mm and 20 mm mounts; a merchant Victory's Armed Guard guns stood in the same places, but no plate of a merchant or troop-carrying Victory was found"
+    sources: ["oni-222-us"]
+    parts:
+      - ["poly", [[6.8, 0.0], [1.4, 8.0], [0.0, 14.8], [1.4, 20.7], [10.5, 20.8], [10.5, 24.4], [1.4, 25.7], [2.7, 31.2], [10.9, 31.2], [7.3, 33.0], [9.1, 34.9], [20.9, 34.0], [21.4, 30.8], [29.6, 30.9], [34.1, 26.8], [41.4, 26.8], [47.3, 32.8], [53.7, 27.8], [62.8, 30.2], [65.5, 27.0], [63.7, 23.8], [64.6, 21.1], [104.6, 19.9], [104.6, 24.5], [106.9, 25.9], [106.9, 29.5], [107.4, 56.4], [104.2, 62.7], [106.9, 67.7], [111.0, 67.3], [112.4, 65.0], [110.1, 58.6], [112.4, 33.6], [111.0, 26.3], [115.6, 24.1], [112.4, 24.1], [111.0, 20.9], [115.1, 19.1], [165.2, 18.0], [165.6, 21.7], [162.4, 25.7], [167.9, 28.5], [169.7, 26.2], [167.9, 23.9], [171.1, 22.6], [171.1, 29.9], [176.1, 34.0], [174.7, 51.3], [172.9, 52.6], [175.2, 59.5], [178.8, 55.4], [178.4, 36.3], [191.1, 35.5], [188.8, 40.9], [194.3, 45.5], [197.0, 41.9], [202.0, 46.9], [205.7, 46.9], [208.8, 41.9], [213.4, 42.0], [214.3, 45.1], [217.0, 45.2], [217.0, 66.5], [227.5, 68.0], [229.3, 66.6], [228.0, 53.4], [229.3, 50.2], [233.9, 50.3], [235.7, 53.9], [247.1, 53.1], [249.3, 49.9], [249.3, 59.0], [253.4, 60.8], [254.8, 59.5], [256.2, 53.6], [251.6, 38.1], [254.8, 22.6], [252.5, 19.9], [253.9, 18.1], [311.7, 18.0], [313.5, 19.8], [312.6, 22.1], [317.1, 24.4], [316.2, 30.7], [318.0, 50.3], [317.1, 63.5], [315.3, 66.7], [321.7, 69.9], [324.4, 62.2], [321.2, 57.1], [319.9, 43.5], [321.7, 29.4], [320.3, 24.4], [323.5, 22.1], [323.5, 18.5], [357.6, 19.1], [359.9, 21.4], [359.4, 33.3], [362.2, 35.1], [363.1, 44.2], [367.2, 39.7], [366.3, 35.1], [370.8, 34.2], [370.8, 30.1], [374.9, 27.0], [406.3, 28.5], [407.7, 29.4], [406.3, 34.0], [408.6, 36.7], [421.3, 36.8], [422.7, 40.0], [429.5, 36.9], [430.9, 41.0], [435.0, 41.0], [433.2, 42.3], [434.1, 44.2], [444.5, 44.2], [445.4, 42.9], [441.3, 41.0], [446.4, 40.1], [446.8, 35.6], [441.3, 33.3], [455.0, 32.0], [450.0, 4.2], [447.3, 0.0]]]
+      - ["mast", 105.6, 88.1, 40, 1.4]   # after kingpost pair, No. 5 hatch
+      - ["mast", 114.0, 84.6, 40, 1.4]
+      - ["mast", 174.1, 71.7, 40, 1.4]   # post at the after end of the house
+      - ["mast", 234.9, 91.7, 40, 1.4]   # mast over the funnel
+      - ["mast", 253.4, 71.9, 40, 1.4]   # post at the forward end of the house
+      - ["mast", 314.7, 82.9, 40, 1.4]   # forward kingpost pair, No. 2 hatch
+      - ["mast", 322.2, 89.0, 40, 1.4]
+      - ["mast", 364.5, 79.2, 40, 2]     # foremast (the plate's dotted line runs to its crosstree)
+    crop: {scan: "gbooks:Epii9ppEzeYC/p204", box: [1100, 820, 1600, 340], mirrored: false, px_per_ft: 3.46}
   # Junyō (the plate's HAYATAKA, alternative naval name JUNYO; merchant name IZUMO MARU) and her sister Hiyō (HITAKA).
   hayataka:
     name: "HAYATAKA (JUNYO) class CV"
