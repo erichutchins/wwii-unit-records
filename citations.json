@@ -2918,6 +2918,7 @@
   "record_group": 64,
   "url": "https://catalog.archives.gov/id/469722323",
   "pages": [
+   707,
    712,
    715,
    716,
@@ -3343,6 +3344,33 @@
    657
   ]
  },
+ "572866030": {
+  "title": "Morning Reports for October 1944: Roll 556",
+  "series": "Morning Reports",
+  "series_id": 85713825,
+  "record_group": 64,
+  "url": "https://catalog.archives.gov/id/572866030",
+  "pages": [
+   395,
+   404,
+   405,
+   406,
+   407,
+   408,
+   409
+  ]
+ },
+ "575516147": {
+  "title": "Morning Reports for November 1944: Roll 393",
+  "series": "Morning Reports",
+  "series_id": 85713825,
+  "record_group": 64,
+  "url": "https://catalog.archives.gov/id/575516147",
+  "pages": [
+   3465,
+   3487
+  ]
+ },
  "576294507": {
   "title": "Morning Reports for November 1944: Roll 535",
   "series": "Morning Reports",
@@ -3389,6 +3417,23 @@
   "url": "https://catalog.archives.gov/id/579493448",
   "pages": [
    874
+  ]
+ },
+ "579497215": {
+  "title": "Morning Reports for December 1944: Roll 682",
+  "series": "Morning Reports",
+  "series_id": 85713825,
+  "record_group": 64,
+  "url": "https://catalog.archives.gov/id/579497215",
+  "pages": [
+   329,
+   333,
+   335,
+   336,
+   338,
+   342,
+   343,
+   344
   ]
  },
  "633401458": {
