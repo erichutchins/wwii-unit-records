@@ -12,12 +12,6 @@
 # Not done: outlines not traced from a scan, so the plate's marks can't be placed on them.
 zeke: {method: skip, note: "no crop: traced from the April 1945 edition of Bulletin 105-45, which is not among the scans (HyperWar holds the July 1945 revision, which has no ZEKE 52 plate)"}
 p108: {method: skip, note: "traced from a modern vector drawing (Wikimedia Commons), not a wartime plate"}
-sumner: &byhand {method: skip, note: "drawn by hand to the ONI 54 plate's printed heights, not traced from a scan, so the plate's lines can't be placed on it; a retrace from a scan would allow it"}
-essex: *byhand
-independence: *byhand
-southdakota: *byhand
-northcarolina: *byhand
-cleveland: *byhand
 lcm3: {method: skip, note: "drawn by hand to ONI 226's inboard profile (a line drawing crowded with dimension arcs), not traced, so its lines can't be placed on it"}
 lct5: {method: skip, note: "drawn by hand to ONI 226's inboard profile, not traced, so its lines can't be placed on it"}
 
@@ -105,7 +99,7 @@ mikura: {inset: 12, min_len: 24, rules: true, search: 150}
 kaibokan1: {inset: 11, min_len: 30, rules: true}
 kaibokan2: {inset: 8, min_len: 30, rules: true}
 kamikaze: {inset: 8, min_len: 30, rules: true}
-wakatake: {method: skip, note: "the outline does not follow this plate (overlap 0.48): it runs over bare paper at the stern and amidships, so the plate's lines cannot be placed in it"}
+wakatake: {inset: 8, min_len: 30, rules: true, drop: [[0, -4, 300, 1]]}
 chidori: {inset: 8, min_len: 22, rules: true}
 minekaze: {inset: 12, min_len: 30, rules: true}
 matsu: {inset: 12, min_len: 30, rules: true}
@@ -155,3 +149,9 @@ balao: {method: none, note: "ONI 222-US draws the BALAO's hull as dense black cr
 buckley: {method: none, note: "ONI 222-US prints the BUCKLEY nearly solid black with speckle: no key lines inside the outline"}
 fletcher: {dark: 120, min_len: 30, inset: 6}
 ancon: {method: lines, dark: 130, min_len: 60}
+
+# Retraced 24 Nov 2026 from ONI 222-US at 400 dpi: longer runs only (the plates' strakes and stipple edges are many).
+southdakota: {min_len: 80, dark: 80, drop: [[0, -5, 700, 1]]}
+northcarolina: {min_len: 80, dark: 80, drop: [[0, -5, 750, 1]]}
+essex: {min_len: 80, dark: 80, drop: [[0, -5, 900, 1]]}
+sumner: {method: none, note: "ONI 222-US prints the SUMNER solid black: no key lines inside the outline"}
