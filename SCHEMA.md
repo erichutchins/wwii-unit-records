@@ -497,6 +497,12 @@ not the drawing.
 | `source`, `sources` | The plate the drawing was retraced from, when it is not the outline's own |
 | `prop` | The propellers the plates leave out, drawn in: `blades`, `dia` (feet), and either `source` and `sources`, or `assumed` (why that size) |
 
+A ship's `level6` is `{view: profile}`: the drawing is `silhouettes/level6/<id>.svg`, in feet, x from the stern, the
+waterline at y=0 and heights drawn upward (negative y), bow to the right, retraced from the entry's own plate. Its paths are
+classed `body` (black), `lines` (the plate's lines knocked out, grey; white at strip sizes) and `white` (paper white at every
+size: the Japanese merchants' well decks, and under the ONI 208 liners' line drawings, which keep their plates' white
+superstructures).
+
 The boxes were found by laying the outline on the scan's thresholded ink at the scale, flip and place that fit best,
 so they are as close as the outline is to the drawing. An entry with no `crop` says why in a comment: drawn by hand to
 printed heights, traced from a vector drawing, or a scan not yet matched.
