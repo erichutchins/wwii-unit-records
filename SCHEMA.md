@@ -462,13 +462,31 @@ from:
 | Field | Meaning |
 |---|---|
 | `crop` | The section of the scan the outline was traced from, for finding the drawing on the scan and for starting a later retrace there; no page draws it, and `silhouettes.json` leaves it out. A ship has one; an aircraft has one per view (`crop: {plan: ..., front: ..., profile: ...}`). Each holds `scan`, `box`, `mirrored`, `px_per_ft` and, for a drawing printed sideways, `turn` |
-| `scan` | The page image: `ia:<Internet Archive identifier>/<leaf>` (the leaf number of the item's page images, as the entries cite it), or `ibiblio:<path>` for an image on ibiblio (HyperWar) |
+| `scan` | The page image: `ia:<Internet Archive identifier>/<leaf>` (the leaf number of the item's page images, as the entries cite it), `ibiblio:<path>` for an image on ibiblio (HyperWar), or `gbooks:<Google Books id>/p<PDF page>` for a page of a Google Books PDF, rendered at 400 dpi |
+| `width` | The width in pixels of the page image the box was measured on, when it isn't the one the archive serves (TM 9-2800's boxes are on a 2246 px page) |
 | `box` | `[x, y, w, h]` in the scan's own pixels at the full resolution the archive serves (the item's JPEG 2000 leaf; HyperWar's full-size image): the outline's extent laid on the drawing |
 | `mirrored` | `true` when the outline is the drawing flipped left to right (the plate draws the bow or nose on the left). Plan and head-on views are symmetric about their centre line and are `false` |
-| `turn` | Degrees clockwise the section is turned before the outline is laid on it, for a drawing printed sideways (`90`) |
+| `turn` | Degrees clockwise the section is turned before the outline is laid on it, for a drawing printed sideways (`90`), or a fraction of a degree to level a scan's waterline; `turn_centre` `[x, y]` when it was turned about a point other than the page's centre |
 | `px_per_ft` | The scan's pixels to a foot at the drawing: the box's width over the span (plan, head-on) or the length (profile, ship) |
 
-An aircraft may also carry a detailed drawing, `level6`, beside its outline. The drawing is in
+Each silhouette has two versions: the solid shape (level 1: a ship's or vehicle's `parts`, built into `d`; an aircraft
+view's `d`) and a detailed one, the same shape with the plate's own key lines and small white areas knocked out in the
+paper colour (level 2). The detail is in the solid path's own frame, beside it: on a ship or vehicle at the entry's
+level, on an aircraft inside each view (`plan: { w, h, d, detail }`). `silhouettes.json` carries it as it is.
+
+| Field | Meaning |
+|---|---|
+| `detail` | `{ lines, fills }`: `lines` an SVG path of polylines, drawn as a stroke in the paper colour (0.4 pt at print size, no fill); `fills` an SVG path filled with the paper colour, even-odd (glazing, windows, an opening between struts). Either may be empty. Or `none`: the plate draws nothing inside the outline worth taking. Left out: not done yet |
+| `detail_note` | With `detail: none`, why (one line) |
+
+`detail` is written by `tools/silhouette_detail.py`, never by hand: every mark is a threshold, opening or skeleton of
+the plate's pixels inside the outline, placed by `crop`. The thresholds it used are in
+`silhouettes/detail-params.yml` (hand-edited), by entry and, for aircraft, by view, so a rerun reproduces the result:
+`method` (`lines`: the plate's dark ink lines; `marks`: its white marks on a solid silhouette; `lines+marks`; `none`
+or `skip`, each with a `note`), and as needed `dark`, `white`, `min_len`, `orient` (`h` or `any`), `inset`, `thin`,
+`min_fill`, `edge`, `tol`, `search`, `offset` (a fixed `[dx, dy]` where the search drifts), `rules`, `hug`, `within_ink`, `max_fill` and `drop` (rectangles `[x0, y0, x1, y1]` in the path's units whose pieces are left out).
+
+An aircraft may also carry a third version, `level6`: a drawing retraced smooth from the plate, with its canopies and propellers. The drawing is in
 `silhouettes/level6/<id>-<view>.svg`, one file a view, in the outline's own frame (span or length 100 units). The
 book and the pages use it where a silhouette is shown large enough for its lines; `silhouettes.json` carries the field,
 not the drawing.
