@@ -468,6 +468,17 @@ from:
 | `turn` | Degrees clockwise the section is turned before the outline is laid on it, for a drawing printed sideways (`90`) |
 | `px_per_ft` | The scan's pixels to a foot at the drawing: the box's width over the span (plan, head-on) or the length (profile, ship) |
 
+An aircraft may also carry a detailed drawing, `level6`, beside its outline. The drawing is in
+`silhouettes/level6/<id>-<view>.svg`, one file a view, in the outline's own frame (span or length 100 units). The
+book and the pages use it where a silhouette is shown large enough for its lines; `silhouettes.json` carries the field,
+not the drawing.
+
+| Field | Meaning |
+|---|---|
+| `views` | The views drawn. Each file holds three paths: `body` (black, #1b1b1b), `lines` (the plate's panel lines knocked out, grey #9a9a9a; set them white at strip sizes) and `glass` (canopy glazing, white at every size) |
+| `source`, `sources` | The plate the drawing was retraced from, when it is not the outline's own |
+| `prop` | The propellers the plates leave out, drawn in: `blades`, `dia` (feet), and either `source` and `sources`, or `assumed` (why that size) |
+
 The boxes were found by laying the outline on the scan's thresholded ink at the scale, flip and place that fit best,
 so they are as close as the outline is to the drawing. An entry with no `crop` says why in a comment: drawn by hand to
 printed heights, traced from a vector drawing, or a scan not yet matched.
