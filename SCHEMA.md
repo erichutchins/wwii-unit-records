@@ -502,6 +502,9 @@ waterline at y=0 and heights drawn upward (negative y), bow to the right, retrac
 classed `body` (black), `lines` (the plate's lines knocked out, grey; white at strip sizes) and `white` (paper white at every
 size: the Japanese merchants' well decks, and under the ONI 208 liners' line drawings, which keep their plates' white
 superstructures).
+A ship-specific drawing on a class entry names its `file` (in `silhouettes/level6/`) and its `ship`, and its `source`
+opens with an asterisk: it draws that one ship from her photographs, not the class plate (SUMNER: USS Haynsworth, with
+its tones in classes `tone`).
 
 The boxes were found by laying the outline on the scan's thresholded ink at the scale, flip and place that fit best,
 so they are as close as the outline is to the drawing. An entry with no `crop` says why in a comment: drawn by hand to

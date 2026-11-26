@@ -949,6 +949,16 @@ pby-5a-erection:
   rights: Public domain (released by the Bureau of Aeronautics, Navy Department); only the three-view's outline is traced here
   used_for: silhouettes/silhouettes.yml (the PBY's level-6 drawing, from the three-view of figure 1, p. 3, leaf n26, and its 12 ft 0 in propeller)
 
+usndazzle:
+  title: usndazzle.com, U.S. Navy camouflage photographs and measures (Destroyers, DD-700)
+  by: an independent reference site reproducing U.S. Navy photographs with their numbers and captions
+  kind: secondary
+  of: us
+  held: the website (behind a bot check from scripts)
+  url: https://www.usndazzle.com/
+  rights: The photographs are U.S. Navy (public domain); the captions are the site's
+  used_for: silhouettes/silhouettes.yml (Haynsworth's level-6 drawing, from US Navy photograph BS 68148, 21 June 1944)
+
 commons-p108:
   title: 'Piaggio P.108.svg: a three-view drawing of the Piaggio P.108B'
   by: Kaboldy (Wikimedia Commons user), 2013, "own work"
