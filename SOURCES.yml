@@ -1025,7 +1025,7 @@ usanjor:
   cite: usanjor-<item>/n<leaf>     # the Internet Archive item and leaf, e.g. usanjor-194501/n55 (Me-262, January 1945, p. 15)
   match: '^usanjor-(\d{6})/n(\d+)$'
   link: https://archive.org/details/USANJOR{1}/page/n{2}/mode/1up
-  used_for: silhouettes/silhouettes.yml (ME-262, January 1945 issue p. 15, leaf n55 of USANJOR194501)
+  used_for: silhouettes/silhouettes.yml (ME-262, January 1945 issue p. 15, leaf n55 of USANJOR194501; the MANHATTAN entry's note on USS Wakefield's wartime fit, January 1944 issue p. 11, leaf n6 of USANJOR194401)
 
 galland-1953:
   title: Adolf Galland, Die Ersten und die Letzten. Die Jagdflieger im Zweiten Weltkrieg (Franz Schneekluth, Darmstadt, 1953)
@@ -1165,7 +1165,7 @@ oni-208:
   held: Internet Archive (also on HyperWar, filed there as "ONI 207")
   url: https://archive.org/details/MerchShipRecogManual
   rights: Public domain (U.S. government publication)
-  used_for: silhouettes/silhouettes.yml (the ARGENTINA plate, p. 13, and the ANCON plate, p. 27, and the QUEEN MARY, p. 43 (leaf 0087); index pp. 50-51 and the QUEEN MARY index line; the AQUITANIA, p. 44 (leaf 0089); the EC-2 (LIBERTY), p. 44-A (leaf 0091))
+  used_for: silhouettes/silhouettes.yml (the ARGENTINA plate, p. 13, and the ANCON plate, p. 27, and the QUEEN MARY, p. 43 (leaf 0087); index pp. 50-51 and the QUEEN MARY index line; the AQUITANIA, p. 44 (leaf 0089); the EC-2 (LIBERTY), p. 44-A (leaf 0091); the MANHATTAN and WASHINGTON (USS Wakefield and USS Mount Vernon), p. 41 (leaf 0083), index p. 50)
 
 oni-226:
   title: ONI 226, Allied Landing Craft and Ships (7 April 1944)

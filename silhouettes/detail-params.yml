@@ -129,6 +129,7 @@ lst1: {offset: [0, 4], dark: 140, min_len: 60, drop: [[0, -5, 328, 1]], note: "t
 argentina: {method: lines, search: 250, dark: 140, min_len: 80, drop: [[-5, -46, 600, 5]]}
 queen-mary: {method: lines, search: 250, dark: 140, min_len: 100, drop: [[-5, -60, 1050, 5], [530, -150, 600, -95]]}
 aquitania: {method: lines, search: 6, dark: 130, min_len: 80, drop: [[-5, -46, 890, 5], [325, -125, 370, -85], [140, -160, 162, -40], [706, -160, 728, -40]]}
+manhattan: {method: lines, dark: 140, min_len: 50, drop: [[-5, -26, 700, 5]]}
 judy:
   views:
     plan: {min_len: 40, drop: [[45, 38, 54, 46]]}
