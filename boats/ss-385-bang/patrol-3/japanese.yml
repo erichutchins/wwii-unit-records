@@ -241,3 +241,29 @@
     she was trailing TAKA-909 east of Keelung, surfaced (depths.csv), so a slick bombed at 1620 on the 20th was
     not over her. The 19th's 953rd form from Tōkō (p39: convoy TAMA-26, 1640, a submerged submarine attacked,
     an escort guided to drop about ten depth charges) is in the south, not this hunt
+- id: J12
+  source: jacar:C08030607800
+  page: p58
+  convoy: TAKA-909
+  event: status
+  date: 1944-09-19
+  time: '1459'
+  zone: I
+  original: >-
+    電令作第九二號 一、第二東勢丸ヲ雷撃セシ敵潜ハ確實ニ撃沈セリ 二、電令作第八九號ニ依ル第四掃蕩隊ノ任務ヲ解ク
+    三、タカ九〇九船団ハ予定ヲ一日繰下ゲ行動ヲ起セ
+  translation: >-
+    Signal operations order No. 92: (1) The enemy submarine that torpedoed No. 2 Tosei Maru has certainly been sunk.
+    (2) The 4th Sweep Unit is released from the task of signal operations order No. 89. (3) Convoy TAKA-909 is to
+    put its schedule back one day and get under way
+  note: >-
+    Minesweeper W-15's war diary, September 1944, 三 令達報告等 (orders and reports), the order's row: from the 4th
+    Surface Escort Division's commander, 19th 1459; to W-15's captain, CD-30's captain and the Okinawa Air Group's
+    commander, copied to the Takao Guard District, Sasebo Naval District and Grand Escort Command (高警長官, 佐鎮長官,
+    海護總長官), 19th 1553 (read as the time received). Read at 300 dpi. It ends the hunt that J10 (order No. 89, 0938)
+    began, and explains J09: TAKA-909 sailed again on the morning of the 20th. Sent at 1459 I, 1559 by BANG's clock
+    (zone K), before W-15 reached the scene at 1625 and its "certainly sunk" report at 1630 (J08); so the division
+    judged her sunk from CD-30's and the aircraft's reports while she was still at 450 ft. Her report has the
+    charging lasting about four and a half hours from 0920 K, to about 1350 K (1250 I); she came to periscope depth
+    at 1730 K. How many charges CD-30 dropped, and at what settings, is not in the pages of W-15's diary looked
+    through (pp49-62: the daily pages, the separate sheet, the officers, the orders, the equipment returns)
