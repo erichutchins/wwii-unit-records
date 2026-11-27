@@ -203,6 +203,18 @@ aircraft:
       front: {scan: "ibiblio:hyperwar/USN/ref/KYE/CINCPAC-105-45/img/CINCPAC-105-45-5.jpg", box: [447, 252, 335, 52], mirrored: false, px_per_ft: 9.41}
       profile: {scan: "ibiblio:hyperwar/USN/ref/KYE/CINCPAC-105-45/img/CINCPAC-105-45-5.jpg", box: [470, 715, 284, 69], mirrored: false, px_per_ft: 9.73}
 
+  tony:
+    name: "TONY 1"
+    type: "Kawasaki Type 3 (Ki 61), Army fighter"
+    dims: "39.3′ span, 28.9′ long"
+    span: 39.3
+    length: 28.9
+    source: "TAIC Manual No. 1, Japanese Aircraft Performance & Characteristics, sheet 154A-2 (December 1944; Internet Archive PDF p. 73)"
+    note: "The July 1945 revision of Bulletin 105-45 has no TONY plate, so this is traced from the TAIC sheet's small silhouettes (rendered at 400 dpi), closed by 4 px to bridge the white panel lines, with the aerial mast and the pitot dropped. The profile keeps the canopy's glazing as the sheet draws it. Plan and head-on views mirrored about the centre line."
+    sources: ["taic-1"]
+    plan: { w: 100, h: 68.9, d: "M49.8,0.0L51.2,0.9L52.6,3.7L52.9,6.4L54.3,9.4L54.3,15.7L54.8,16.1L54.8,16.8L80.1,18.7L82.9,18.9L83.3,18.5L83.6,18.9L97.3,19.8L98.5,20.4L100.0,22.5L99.7,26.1L97.6,28.5L95.8,29.4L86.4,30.7L84.4,31.6L80.5,31.3L76.9,32.2L55.1,34.9L53.7,37.0L52.2,59.6L64.5,62.3L66.2,63.9L66.4,65.8L65.3,67.0L63.9,67.4L52.1,68.9L51.4,68.4L50.3,68.8L48.6,68.4L47.9,68.9L36.8,67.6L34.7,67.0L33.6,65.8L33.8,63.9L35.5,62.3L47.8,59.6L46.3,37.0L44.9,34.9L23.1,32.2L19.5,31.3L15.6,31.6L13.6,30.7L4.7,29.6L2.4,28.5L0.0,25.2L0.1,22.0L1.5,20.4L2.7,19.8L16.4,18.9L16.7,18.5L17.1,18.9L19.9,18.7L45.2,16.8L45.2,16.1L45.7,15.7L45.7,9.4L47.1,6.4L47.4,3.7Z" }
+    front: { w: 100, h: 14.6, cx: 50, cy: 9.5, d: "M48.9,0.0L49.5,0.3L49.3,1.6L50.7,1.6L50.8,0.0L52.0,0.9L53.1,4.2L64.5,4.3L65.7,4.7L65.4,5.1L55.1,5.4L55.1,7.7L53.7,8.0L54.1,9.9L69.1,9.1L69.9,8.7L83.2,8.0L96.9,6.6L99.7,6.6L99.7,7.3L98.8,7.5L100.0,7.9L94.0,8.9L73.3,10.8L73.0,11.7L69.9,11.2L53.7,12.9L53.7,14.2L53.3,14.6L46.7,14.6L46.3,14.2L46.3,12.9L30.1,11.2L27.0,11.7L26.7,10.8L1.5,8.4L0.0,7.9L1.2,7.5L0.0,6.9L3.1,6.6L16.8,8.0L30.1,8.7L30.9,9.1L45.9,9.9L46.3,8.0L44.9,7.7L44.9,5.4L34.6,5.1L34.3,4.7L35.5,4.3L46.9,4.2L47.8,1.2Z" }
+    profile: { w: 100, h: 26.4, d: "M93.5,0.0L95.2,0.0L96.5,0.7L97.8,2.0L98.7,4.6L99.4,5.4L100.0,11.7L99.8,16.5L99.1,18.2L98.1,19.1L96.7,19.7L90.5,20.1L89.6,20.6L83.5,20.8L83.3,21.2L63.4,22.3L63.2,22.7L59.3,22.9L58.2,25.5L56.7,26.4L45.0,26.4L44.4,25.8L44.2,23.6L29.4,23.6L29.4,24.7L28.1,25.3L27.5,24.7L27.5,23.8L26.6,23.6L22.1,23.6L20.3,23.4L20.1,23.0L13.0,22.7L9.5,21.6L6.3,21.2L2.8,19.9L0.0,17.8L0.0,17.3L2.6,15.1L7.2,13.6L9.5,11.9L12.5,11.7L12.8,11.2L14.9,11.0L15.1,10.6L20.8,10.4L22.9,9.7L28.8,9.5L30.5,8.9L33.1,9.1L37.2,6.9L40.1,6.5L45.9,6.9L46.5,7.4L46.3,10.6L49.4,10.4L50.6,9.5L50.6,7.8L51.1,7.2L53.3,7.4L53.7,7.1L54.1,7.6L55.6,7.6L55.8,8.0L80.1,10.4L80.7,11.0L84.0,11.0L86.1,9.7L86.1,8.9L88.8,5.6L90.7,2.4Z" }
   mavis:
     name: "MAVIS"
     type: "Kawanishi Type 97 flying boat (H6K), Navy patrol flying boat"

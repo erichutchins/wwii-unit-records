@@ -983,7 +983,7 @@ taic-1:
   held: Internet Archive
   url: https://archive.org/details/japanese-aircraft-performance-characteristics-taic-manual
   rights: Public domain (U.S. government publication)
-  used_for: silhouettes/silhouettes.yml (the level-6 drawings' propeller diameters and blade counts for the Japanese types)
+  used_for: silhouettes/silhouettes.yml (TONY; the level-6 drawings' propeller diameters and blade counts for the Japanese types)
 
 pby-5a-erection:
   title: Erection and Maintenance Instructions for Model PBY-5A Airplane (June 1942)
