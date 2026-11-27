@@ -1,0 +1,158 @@
+# Thresholds for each silhouette's detailed version (tools/silhouette_detail.py), so a rerun reproduces what is in
+# silhouettes.yml. Hand-edited. An entry (or, for an aircraft, one of its views under `views`) overrides the defaults the
+# tool sets by the plate's kind (see the tool's docstring and records/SCHEMA.md):
+#   method: lines | marks | lines+marks | none | skip     (none and skip with a `note`: none = the plate adds nothing,
+#                                                          skip = not done, and why)
+#   dark, white, min_len, orient (h | any), inset, thin, min_fill, edge, tol, search, offset, rules, hug, within_ink,
+#   max_fill, px_per_unit,
+#   drop: [[x0, y0, x1, y1], ...]   rectangles in the path's own units whose pieces are left out
+#
+# Entries the tool's defaults serve as they are aren't listed.
+
+# Not done: outlines not traced from a scan, so the plate's marks can't be placed on them.
+zeke: {method: skip, note: "no crop: traced from the April 1945 edition of Bulletin 105-45, which is not among the scans (HyperWar holds the July 1945 revision, which has no ZEKE 52 plate)"}
+p108: {method: skip, note: "traced from a modern vector drawing (Wikimedia Commons), not a wartime plate"}
+lcm3: {method: skip, note: "drawn by hand to ONI 226's inboard profile (a line drawing crowded with dimension arcs), not traced, so its lines can't be placed on it"}
+lct5: {method: skip, note: "drawn by hand to ONI 226's inboard profile, not traced, so its lines can't be placed on it"}
+
+# FM 30-30 (April 1943): solid black with white panel lines and glazing (marks). edge 10-12 drops white slivers where the
+# outline runs a little outside the plate's ink; thin 4 (6 in profiles) traces the plate's 4-8 px white lines as lines.
+corsair: {edge: 10}
+hellcat: {edge: 10}
+mavis: {edge: 10}
+sally: {edge: 10}
+val:
+  edge: 10
+  views:
+    profile: {min_fill: 30, min_len: 30}
+nell:
+  edge: 10
+  views:
+    profile: {min_fill: 30, min_len: 30}
+rufe: {edge: 10}
+kate:
+  edge: 10
+  views:
+    profile: {min_fill: 30, min_len: 30}
+betty: {edge: 10}
+pete: {edge: 10}
+ju88: {edge: 10}
+beaufighter: {edge: 10}
+fw200: {edge: 10}
+z1007:
+  edge: 10
+  views:
+    profile: {min_fill: 30, min_len: 30}
+he111:
+  edge: 10
+  views:
+    plan: {drop: [[80, 22, 100, 36]]}
+    profile: {min_fill: 30, min_len: 30}
+bf109: {edge: 10}
+fw190: {thin: 4, views: {profile: {thin: 6}}}
+p47: {thin: 4, views: {profile: {thin: 6}}}
+p51: {thin: 4, views: {profile: {thin: 6}}}
+p39: {thin: 4, views: {profile: {thin: 6}}}
+hurricane: {thin: 4, views: {plan: {thin: 5, edge: 10}, profile: {thin: 6}}}
+hudson: {thin: 4, views: {profile: {thin: 6}}}
+spitfire: {thin: 4, views: {plan: {edge: 10}, profile: {thin: 6}}}
+wellington: {thin: 4, views: {plan: {thin: 5, edge: 12}, profile: {thin: 6}}}
+b26: {thin: 4, views: {profile: {thin: 6}}}
+b24: {thin: 4, views: {plan: {edge: 10}, front: {thin: 2}, profile: {thin: 6}}}
+pbm: {thin: 4, views: {profile: {thin: 6}}}
+pby: {thin: 4, views: {profile: {thin: 6}}}
+tbf: {thin: 4, views: {plan: {edge: 10}, profile: {thin: 6}}}
+sb2c: {thin: 4, views: {plan: {edge: 12}, profile: {thin: 6}}}
+b17: {thin: 4, views: {plan: {edge: 10}, front: {edge: 12}, profile: {thin: 6}}}
+a20: {thin: 4, views: {plan: {edge: 12}, front: {edge: 12}, profile: {thin: 6}}}
+
+# ONI 208-J (Revised), Jan 1945: ink lines over a halftone stipple (lines, orient h). Lighter prints need dark 120-130;
+# the bottom strip [-5, -6, 600, 2] drops a run along the keel that only doubles the outline.
+tokiwasan-maru: {dark: 130}
+amakusa-maru: {dark: 130, drop: [[-5, -6, 600, 2]]}
+kasii-maru-class: {dark: 130}
+akagi-maru-class: {dark: 130}
+nissei-maru-class: {dark: 130}
+hokkai-maru-class: {dark: 120}
+manko-senko-maru: {dark: 120}
+akasisan-asahisan-maru: {search: 110, drop: [[-5, -6, 600, 2]]}
+ada-class: {search: 110}
+titose-maru: {drop: [[-5, -6, 600, 2]]}
+amakasu-maru-1-class: {drop: [[-5, -6, 600, 2]]}
+lima-maru-class: {dark: 125, drop: [[-5, -6, 600, 2]]}
+bordeaux-maru-class: {drop: [[-5, -6, 600, 2]]}
+alaska-maru-class: {dark: 120, drop: [[-5, -6, 600, 2]]}
+dai-iti-ogura-maru-class: {drop: [[-5, -6, 600, 2]]}
+aden-maru-class: {drop: [[-5, -6, 600, 2]]}
+
+# ONI 208-J Supplements 2 and 3, ONI 222-J and ONI 41-42: inset 8-12 drops the heavy keel line just inside the bottom edge;
+# rules: true drops ONI 222-J's dotted height rule.
+type-tl-tanker: {method: none, note: "the plate draws the hull and deckhouses as flat stipple; its only inside ink is two short bridge-tier ticks and the catwalk, which lies outside the outline"}
+type-k-ore-carrier: {inset: 8, search: 250}
+ganjitsu-maru: {inset: 8, min_len: 30, search: 300}
+type-d-mod: {inset: 8}
+type-tm-tanker: {inset: 8, search: 250}
+type-tm-mod-tanker: {inset: 8}
+hayataka: {inset: 8, min_len: 40, dark: 80, rules: true}
+shimushu: {inset: 8, min_len: 30, rules: true}
+mikura: {inset: 12, min_len: 24, rules: true, search: 150}
+kaibokan1: {inset: 11, min_len: 30, rules: true}
+kaibokan2: {inset: 8, min_len: 30, rules: true}
+kamikaze: {inset: 8, min_len: 30, rules: true}
+wakatake: {inset: 8, min_len: 30, rules: true, drop: [[0, -4, 300, 1]]}
+chidori: {inset: 8, min_len: 22, rules: true}
+minekaze: {inset: 12, min_len: 30, rules: true}
+matsu: {inset: 12, min_len: 30, rules: true}
+shirataka: {inset: 8, search: 200, rules: true}
+no13-minesweeper: {method: none, note: "the ONI 41-42 plate is tone-shaded: deck and deckhouses are shades of grey with portholes, no key lines inside the outline"}
+ning-hai: {method: none, note: "the ONI 41-42 plate is tone-shaded with stipple; no dark key lines inside the outline"}
+
+# US ships: FM 30-50 (ONI 54-R plates), ONI 222-US (400 dpi), ONI 226. The ONI 222-US plates draw a heavy keel line; the
+# strip 0-5 ft above the bottom is dropped.
+iowa: {dark: 70, min_len: 40}
+yorktown: {min_len: 30}
+atlanta: {dark: 80, min_len: 35, drop: [[0, -5, 541, 1]]}
+sangamon: {dark: 80, min_len: 40, inset: 8, drop: [[60, -19, 205, -13]]}
+casablanca: {method: none, note: "the FM 30-50 type sheet draws CASABLANCA as a solid black silhouette: nothing inside the outline"}
+benson-livermore: {dark: 60, min_len: 40, drop: [[0, -13, 348, 2]], note: "the lower hull's stipple is darkened under the scan's grey watermark; dropped below 13 ft"}
+haskell: {min_len: 60, inset: 6, drop: [[0, -5, 455, 1]]}
+bayfield: {min_len: 30, inset: 6, drop: [[0, -5, 492, 1]]}
+president: {min_len: 30, inset: 6, drop: [[0, -5, 600, 1]]}
+arcturus: {min_len: 30, inset: 6, drop: [[0, -5, 600, 1]]}
+fulton: {min_len: 60, inset: 6, drop: [[0, -5, 600, 1]]}
+pt103: {method: none, note: "ONI 222-US draws the PT boat as a solid black silhouette with a speckled hull: no key lines inside the outline"}
+victory: {search: 120, rules: false, dark: 110, min_len: 30, drop: [[0, -5, 455, 1]], note: "the crop's box sits about 89 px high and 15 px left of the drawing: aligned by a 120 px search"}
+lst1: {offset: [0, 4], dark: 140, min_len: 60, drop: [[0, -5, 328, 1]], note: "the outline is cut at the waterline, so a correlation slides it down onto the keel; held at the offset where it sits on the profile"}
+
+# TAIC (Bulletin 105-45), the Journal of Recognition, ONI 208 merchants and TM 9-2800. ONI 208's upper works are line
+# drawings on paper, so they are read as lines (method lines, the black hull dropped), not as white marks.
+argentina: {method: lines, search: 250, dark: 140, min_len: 80, drop: [[-5, -46, 600, 5]]}
+queen-mary: {method: lines, search: 250, dark: 140, min_len: 100, drop: [[-5, -60, 1050, 5], [530, -150, 600, -95]]}
+aquitania: {method: lines, search: 6, dark: 130, min_len: 80, drop: [[-5, -46, 890, 5], [325, -125, 370, -85], [140, -160, 162, -40], [706, -160, 728, -40]]}
+manhattan: {method: lines, dark: 140, min_len: 50, drop: [[-5, -26, 700, 5]]}
+judy:
+  views:
+    plan: {min_len: 40, drop: [[45, 38, 54, 46]]}
+    front: {min_fill: 5000}
+dinah:
+  views:
+    plan: {white: 110}
+    front: {method: none, note: "the head-on view is solid black but for faint grey cowling rings that do not survive the threshold"}
+    profile: {thin: 3}
+me262:
+  views:
+    plan: {thin: 4, edge: 12}
+    front: {thin: 4, edge: 12}
+    profile: {thin: 4, edge: 12}
+liberty: {method: none, note: "the plate's EC-2 profile is a solid silhouette: nothing drawn inside the outline"}
+gato: {method: none, note: "ONI 222-US draws the GATO's hull as dense black cross-hatching: no key lines inside the outline"}
+balao: {method: none, note: "ONI 222-US draws the BALAO's hull as dense black cross-hatching: no key lines inside the outline"}
+buckley: {method: none, note: "ONI 222-US prints the BUCKLEY nearly solid black with speckle: no key lines inside the outline"}
+fletcher: {dark: 120, min_len: 30, inset: 6}
+ancon: {method: lines, dark: 130, min_len: 60}
+
+# Retraced 24 Nov 2026 from ONI 222-US at 400 dpi: longer runs only (the plates' strakes and stipple edges are many).
+southdakota: {min_len: 80, dark: 80, drop: [[0, -5, 700, 1]]}
+northcarolina: {min_len: 80, dark: 80, drop: [[0, -5, 750, 1]]}
+essex: {min_len: 80, dark: 80, drop: [[0, -5, 900, 1]]}
+sumner: {method: none, note: "ONI 222-US prints the SUMNER solid black: no key lines inside the outline"}
