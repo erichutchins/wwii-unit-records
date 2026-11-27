@@ -63,3 +63,17 @@ me262:
   note: >-
     What the Allies were told in January 1945, three months before the 106th AAA's batteries fired on JV 44's jets at
     Neuburg (engagements/neuburg-1945-04-26). The Journal's "thought to be" is its own: the figures were estimates.
+
+tbf:
+  name: Grumman TBF Avenger
+  as_printed: "NAVY: TBF-1; F.A.A.: TARPON I; TORPEDO BOMBER; GRUMMAN, U.S.A."
+  span: "54 ft. 2 in."
+  length: "41 ft."
+  max_speed: ["270 m.p.h.", "approximate, as printed"]
+  ceiling: ["22,000 ft."]
+  role: "Carrier-based torpedo bomber; also bomber, scout and anti-submarine patrol"
+  words: >-
+    "The Avenger is probably the best carrier-based torpedo plane so far seen in action. ... The deep fuselage permits
+    it to carry a 21" torpedo or approximately 2000 pounds of bombs internally."
+  ref: fm-30-30/n66
+  source: FM 30-30, Recognition Pictorial Manual (April 1943), TBF "AVENGER" plate
